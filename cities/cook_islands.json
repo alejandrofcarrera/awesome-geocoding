@@ -1,0 +1,17 @@
+[
+    {
+        "en": "Avarua",
+        "en:t": "Cook Islands",
+        "a": true,
+        "g": {
+            "lat": -21.2068,
+            "lon": -159.7697
+        },
+        "it": "Avarua",
+        "it:t": "Isole Cook",
+        "es": "Avarua",
+        "es:t": "Islas Cook",
+        "de": "Avarua",
+        "de:t": "Cookinseln"
+    }
+]

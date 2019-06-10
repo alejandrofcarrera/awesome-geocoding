@@ -1,0 +1,1517 @@
+[
+    {
+        "en": "El Santuario",
+        "en:t": "Colombia | Antioquia",
+        "a": true,
+        "g": {
+            "lat": 6.1396,
+            "lon": -75.2645
+        },
+        "it": "El Santuario",
+        "it:t": "Colombia | Antioquia",
+        "es": "El Santuario",
+        "es:t": "Colombia | Antioquia",
+        "de": "El Santuario",
+        "de:t": "Kolumbien | Antioquia"
+    },
+    {
+        "en": "Manizales",
+        "en:t": "Colombia",
+        "a": true,
+        "g": {
+            "lat": 5.0703,
+            "lon": -75.5138
+        },
+        "it": "Manizales",
+        "it:t": "Colombia",
+        "es": "Manizales",
+        "es:t": "Colombia",
+        "de": "Manizales",
+        "de:t": "Kolumbien"
+    },
+    {
+        "en": "Marinilla",
+        "en:t": "Colombia",
+        "a": true,
+        "g": {
+            "lat": 6.177,
+            "lon": -75.3415
+        },
+        "it": "Marinilla",
+        "it:t": "Colombia",
+        "es": "Marinilla",
+        "es:t": "Colombia",
+        "de": "Marinilla",
+        "de:t": "Kolumbien"
+    },
+    {
+        "en": "Mariquita",
+        "en:t": "Colombia",
+        "a": true,
+        "g": {
+            "lat": 5.1995,
+            "lon": -74.8868
+        },
+        "it": "Mariquita",
+        "it:t": "Colombia",
+        "es": "Mariquita",
+        "es:t": "Colombia",
+        "de": "Mariquita",
+        "de:t": "Kolumbien"
+    },
+    {
+        "en": "Mar\u00eda La Baja",
+        "en:t": "Colombia",
+        "a": true,
+        "g": {
+            "lat": 9.9838,
+            "lon": -75.3031
+        },
+        "it": "Mar\u00eda la Baja",
+        "it:t": "Colombia | La Baja",
+        "es": "Mar\u00eda La Baja",
+        "es:t": "Colombia",
+        "de": "Mar\u00eda La Baja",
+        "de:t": "Kolumbien"
+    },
+    {
+        "en": "Medellin",
+        "en:t": "Colombia | Antioquia",
+        "a": true,
+        "g": {
+            "lat": 6.2442,
+            "lon": -75.5812
+        },
+        "it": "Medell\u00edn",
+        "it:t": "Colombia | Antioquia",
+        "es": "Medell\u00edn",
+        "es:t": "Colombia | Antioquia",
+        "de": "Medell\u00edn",
+        "de:t": "Kolumbien | Antioquia"
+    },
+    {
+        "en": "Melgar",
+        "en:t": "Colombia",
+        "a": true,
+        "g": {
+            "lat": 4.2036,
+            "lon": -74.6434
+        },
+        "it": "Melgar",
+        "it:t": "Colombia",
+        "es": "Melgar",
+        "es:t": "Colombia",
+        "de": "Melgar",
+        "de:t": "Kolumbien"
+    },
+    {
+        "en": "Mocoa",
+        "en:t": "Colombia",
+        "a": true,
+        "g": {
+            "lat": 1.1523,
+            "lon": -76.6511
+        },
+        "it": "Mocoa",
+        "it:t": "Colombia",
+        "es": "Mocoa",
+        "es:t": "Colombia",
+        "de": "Mocoa",
+        "de:t": "Kolumbien"
+    },
+    {
+        "en": "Montel\u00edbano",
+        "en:t": "Colombia",
+        "a": true,
+        "g": {
+            "lat": 7.9768,
+            "lon": -75.4172
+        },
+        "it": "Montel\u00edbano",
+        "it:t": "Colombia",
+        "es": "Montelibano",
+        "es:t": "Colombia",
+        "de": "Montel\u00edbano",
+        "de:t": "Kolumbien"
+    },
+    {
+        "en": "Montenegro",
+        "en:t": "Colombia",
+        "a": true,
+        "g": {
+            "lat": 4.5666,
+            "lon": -75.7501
+        },
+        "it": "Montenegro",
+        "it:t": "Colombia",
+        "es": "Montenegro",
+        "es:t": "Colombia",
+        "de": "Montenegro",
+        "de:t": "Kolumbien"
+    },
+    {
+        "en": "Monter\u00eda",
+        "en:t": "Colombia",
+        "a": true,
+        "g": {
+            "lat": 8.751,
+            "lon": -75.8785
+        },
+        "it": "Monter\u00eda",
+        "it:t": "Colombia",
+        "es": "Monter\u00eda",
+        "es:t": "Colombia",
+        "de": "Monter\u00eda",
+        "de:t": "Kolumbien"
+    },
+    {
+        "en": "Morales, Bol\u00edvar",
+        "en:t": "Colombia",
+        "a": true,
+        "g": {
+            "lat": 8.2753,
+            "lon": -73.8682
+        },
+        "it": "Morales",
+        "it:t": "Colombia",
+        "es": "Morales",
+        "es:t": "Colombia",
+        "de": "Morales",
+        "de:t": "Kolumbien"
+    },
+    {
+        "en": "Mosquera",
+        "en:t": "Colombia | Cundinamarca",
+        "a": true,
+        "g": {
+            "lat": 4.706,
+            "lon": -74.2301
+        },
+        "it": "Mosquera",
+        "it:t": "Colombia | Cundinamarca",
+        "es": "Mosquera",
+        "es:t": "Colombia | Cundinamarca",
+        "de": "Mosquera",
+        "de:t": "Kolumbien | Cundinamarca"
+    },
+    {
+        "en": "Neiva",
+        "en:t": "Colombia",
+        "a": true,
+        "g": {
+            "lat": 2.9345,
+            "lon": -75.2809
+        },
+        "it": "Neiva",
+        "it:t": "Colombia",
+        "es": "Neiva",
+        "es:t": "Colombia",
+        "de": "Neiva",
+        "de:t": "Kolumbien"
+    },
+    {
+        "en": "Oca\u00f1a",
+        "en:t": "Colombia",
+        "a": true,
+        "g": {
+            "lat": 8.252,
+            "lon": -73.3532
+        },
+        "it": "Oca\u00f1a",
+        "it:t": "Colombia",
+        "es": "Oca\u00f1a",
+        "es:t": "Colombia",
+        "de": "Oca\u00f1a",
+        "de:t": "Kolumbien"
+    },
+    {
+        "en": "Pacho",
+        "en:t": "Colombia",
+        "a": true,
+        "g": {
+            "lat": 5.1379,
+            "lon": -74.1529
+        },
+        "it": "Pacho",
+        "it:t": "Colombia",
+        "es": "Pacho",
+        "es:t": "Colombia",
+        "de": "Pacho",
+        "de:t": "Kolumbien"
+    },
+    {
+        "en": "Paez",
+        "en:t": "Colombia",
+        "a": true,
+        "g": {
+            "lat": 2.6547,
+            "lon": -75.9928
+        },
+        "it": "P\u00e1ez",
+        "it:t": "Colombia",
+        "es": "Belalcazar",
+        "es:t": "Colombia",
+        "de": "P\u00e1ez",
+        "de:t": "Kolumbien"
+    },
+    {
+        "en": "Palmar de Varela",
+        "en:t": "Colombia",
+        "a": true,
+        "g": {
+            "lat": 10.7404,
+            "lon": -74.7553
+        },
+        "it": "Palmar de Varela",
+        "it:t": "Colombia",
+        "es": "Palmar de Varela",
+        "es:t": "Colombia",
+        "de": "Palmar de Varela",
+        "de:t": "Kolumbien"
+    },
+    {
+        "en": "Palmira",
+        "en:t": "Colombia",
+        "a": true,
+        "g": {
+            "lat": 3.538,
+            "lon": -76.2972
+        },
+        "it": "Palmira",
+        "it:t": "Colombia",
+        "es": "Palmira",
+        "es:t": "Colombia",
+        "de": "Palmira",
+        "de:t": "Kolumbien"
+    },
+    {
+        "en": "Pamplona",
+        "en:t": "Colombia",
+        "a": true,
+        "g": {
+            "lat": 7.3782,
+            "lon": -72.6503
+        },
+        "it": "Pamplona",
+        "it:t": "Colombia",
+        "es": "Pamplona",
+        "es:t": "Colombia",
+        "de": "Pamplona",
+        "de:t": "Kolumbien"
+    },
+    {
+        "en": "Pasto",
+        "en:t": "Colombia",
+        "a": true,
+        "g": {
+            "lat": 1.2059,
+            "lon": -77.2858
+        },
+        "it": "Pasto",
+        "it:t": "Colombia",
+        "es": "Pasto",
+        "es:t": "Colombia",
+        "de": "Pasto",
+        "de:t": "Kolumbien"
+    },
+    {
+        "en": "Pat\u00eda",
+        "en:t": "Colombia | Patia",
+        "a": true,
+        "g": {
+            "lat": 2.0693,
+            "lon": -77.0531
+        },
+        "it": "Pat\u00eda",
+        "it:t": "Colombia | Patia",
+        "es": "Pat\u00eda",
+        "es:t": "Colombia | Patia",
+        "de": "Pat\u00eda",
+        "de:t": "Kolumbien | Patia"
+    },
+    {
+        "en": "Pereira",
+        "en:t": "Colombia",
+        "a": true,
+        "g": {
+            "lat": 4.8087,
+            "lon": -75.6906
+        },
+        "it": "Pereira",
+        "it:t": "Colombia",
+        "es": "Pereira",
+        "es:t": "Colombia",
+        "de": "Pereira",
+        "de:t": "Kolumbien"
+    },
+    {
+        "en": "Piedecuesta",
+        "en:t": "Colombia",
+        "a": true,
+        "g": {
+            "lat": 6.9915,
+            "lon": -73.054
+        },
+        "it": "Piedecuesta",
+        "it:t": "Colombia",
+        "es": "Piedecuesta",
+        "es:t": "Colombia",
+        "de": "Piedecuesta",
+        "de:t": "Kolumbien"
+    },
+    {
+        "en": "Pitalito",
+        "en:t": "Colombia",
+        "a": true,
+        "g": {
+            "lat": 1.853,
+            "lon": -76.0489
+        },
+        "it": "Pitalito",
+        "it:t": "Colombia",
+        "es": "Pitalito",
+        "es:t": "Colombia",
+        "de": "Pitalito",
+        "de:t": "Kolumbien"
+    },
+    {
+        "en": "Pivijay",
+        "en:t": "Colombia",
+        "a": true,
+        "g": {
+            "lat": 10.4612,
+            "lon": -74.6147
+        },
+        "it": "Pivijay",
+        "it:t": "Colombia",
+        "es": "Pivijay",
+        "es:t": "Colombia",
+        "de": "Pivijay",
+        "de:t": "Kolumbien"
+    },
+    {
+        "en": "Planeta Rica",
+        "en:t": "Colombia",
+        "a": true,
+        "g": {
+            "lat": 8.4127,
+            "lon": -75.584
+        },
+        "it": "Planeta Rica",
+        "it:t": "Colombia",
+        "es": "Planeta Rica",
+        "es:t": "Colombia",
+        "de": "Planeta Rica",
+        "de:t": "Kolumbien"
+    },
+    {
+        "en": "Popay\u00e1n",
+        "en:t": "Colombia",
+        "a": true,
+        "g": {
+            "lat": 2.4448,
+            "lon": -76.6147
+        },
+        "it": "Popay\u00e1n",
+        "it:t": "Colombia",
+        "es": "Popay\u00e1n",
+        "es:t": "Colombia",
+        "de": "Popay\u00e1n",
+        "de:t": "Kolumbien"
+    },
+    {
+        "en": "Pradera",
+        "en:t": "Colombia",
+        "a": true,
+        "g": {
+            "lat": 3.4182,
+            "lon": -76.2423
+        },
+        "it": "Pradera",
+        "it:t": "Colombia",
+        "es": "Pradera",
+        "es:t": "Colombia",
+        "de": "Pradera",
+        "de:t": "Kolumbien"
+    },
+    {
+        "en": "Puerto As\u00eds",
+        "en:t": "Colombia",
+        "a": true,
+        "g": {
+            "lat": 0.5049,
+            "lon": -76.5002
+        },
+        "it": "Puerto As\u00eds",
+        "it:t": "Colombia",
+        "es": "Puerto As\u00eds",
+        "es:t": "Colombia",
+        "de": "Puerto As\u00eds",
+        "de:t": "Kolumbien"
+    },
+    {
+        "en": "Puerto Berr\u00edo",
+        "en:t": "Colombia",
+        "a": true,
+        "g": {
+            "lat": 6.4778,
+            "lon": -74.4088
+        },
+        "it": "Puerto Berr\u00edo",
+        "it:t": "Colombia",
+        "es": "Puerto Berr\u00edo",
+        "es:t": "Colombia",
+        "de": "Puerto Berr\u00edo",
+        "de:t": "Kolumbien"
+    },
+    {
+        "en": "Puerto Boyac\u00e1",
+        "en:t": "Colombia",
+        "a": true,
+        "g": {
+            "lat": 5.9772,
+            "lon": -74.5934
+        },
+        "it": "Puerto Boyac\u00e1",
+        "it:t": "Colombia",
+        "es": "Puerto Boyac\u00e1",
+        "es:t": "Colombia",
+        "de": "Puerto Boyac\u00e1",
+        "de:t": "Kolumbien"
+    },
+    {
+        "en": "Puerto Colombia",
+        "en:t": "Colombia",
+        "a": true,
+        "g": {
+            "lat": 11.001,
+            "lon": -74.9508
+        },
+        "it": "Puerto Colombia",
+        "it:t": "Colombia",
+        "es": "Puerto Colombia",
+        "es:t": "Colombia",
+        "de": "Puerto Colombia",
+        "de:t": "Kolumbien"
+    },
+    {
+        "en": "Puerto L\u00f3pez",
+        "en:t": "Colombia",
+        "a": true,
+        "g": {
+            "lat": 4.0914,
+            "lon": -72.9559
+        },
+        "it": "Puerto L\u00f3pez",
+        "it:t": "Colombia",
+        "es": "Puerto L\u00f3pez",
+        "es:t": "Colombia",
+        "de": "Puerto L\u00f3pez",
+        "de:t": "Kolumbien"
+    },
+    {
+        "en": "Puerto Santander",
+        "en:t": "Colombia",
+        "a": true,
+        "g": {
+            "lat": 8.3613,
+            "lon": -72.4084
+        },
+        "it": "Puerto Santander",
+        "it:t": "Colombia",
+        "es": "Puerto Santander",
+        "es:t": "Colombia",
+        "de": "Puerto Santander",
+        "de:t": "Kolumbien"
+    },
+    {
+        "en": "Puerto Tejada",
+        "en:t": "Colombia",
+        "a": true,
+        "g": {
+            "lat": 3.2206,
+            "lon": -76.4155
+        },
+        "it": "Puerto Tejada",
+        "it:t": "Colombia",
+        "es": "Puerto Tejada",
+        "es:t": "Colombia",
+        "de": "Puerto Tejada",
+        "de:t": "Kolumbien"
+    },
+    {
+        "en": "Quibdo",
+        "en:t": "Colombia",
+        "a": true,
+        "g": {
+            "lat": 5.6956,
+            "lon": -76.6498
+        },
+        "it": "Quibd\u00f3",
+        "it:t": "Colombia",
+        "es": "Quibd\u00f3",
+        "es:t": "Colombia",
+        "de": "Quibd\u00f3",
+        "de:t": "Kolumbien"
+    },
+    {
+        "en": "Quimbaya",
+        "en:t": "Colombia",
+        "a": true,
+        "g": {
+            "lat": 4.6259,
+            "lon": -75.7619
+        },
+        "it": "Quimbaya",
+        "it:t": "Colombia",
+        "es": "Quimbaya",
+        "es:t": "Colombia",
+        "de": "Quimbaya",
+        "de:t": "Kolumbien"
+    },
+    {
+        "en": "Repel\u00f3n",
+        "en:t": "Colombia",
+        "a": true,
+        "g": {
+            "lat": 10.4948,
+            "lon": -75.1237
+        },
+        "it": "Repel\u00f3n",
+        "it:t": "Colombia",
+        "es": "Repel\u00f3n",
+        "es:t": "Colombia",
+        "de": "Repel\u00f3n",
+        "de:t": "Kolumbien"
+    },
+    {
+        "en": "Riohacha",
+        "en:t": "Colombia",
+        "a": true,
+        "g": {
+            "lat": 11.5384,
+            "lon": -72.9168
+        },
+        "it": "Riohacha",
+        "it:t": "Colombia",
+        "es": "Riohacha",
+        "es:t": "Colombia",
+        "de": "Riohacha",
+        "de:t": "Kolumbien"
+    },
+    {
+        "en": "Rionegro",
+        "en:t": "Colombia",
+        "a": true,
+        "g": {
+            "lat": 6.1448,
+            "lon": -75.3751
+        },
+        "it": "Rionegro",
+        "it:t": "Colombia",
+        "es": "Rionegro",
+        "es:t": "Colombia",
+        "de": "Rionegro",
+        "de:t": "Kolumbien"
+    },
+    {
+        "en": "Riosucio",
+        "en:t": "Colombia",
+        "a": true,
+        "g": {
+            "lat": 5.4207,
+            "lon": -75.7054
+        },
+        "it": "Riosucio",
+        "it:t": "Colombia",
+        "es": "Riosucio",
+        "es:t": "Colombia",
+        "de": "Riosucio",
+        "de:t": "Kolumbien"
+    },
+    {
+        "en": "Roldanillo",
+        "en:t": "Colombia",
+        "a": true,
+        "g": {
+            "lat": 4.4141,
+            "lon": -76.1522
+        },
+        "it": "Roldanillo",
+        "it:t": "Colombia",
+        "es": "Roldanillo",
+        "es:t": "Colombia",
+        "de": "Roldanillo",
+        "de:t": "Kolumbien"
+    },
+    {
+        "en": "Sabanagrande",
+        "en:t": "Colombia",
+        "a": true,
+        "g": {
+            "lat": 10.7898,
+            "lon": -74.7552
+        },
+        "it": "Sabanagrande",
+        "it:t": "Colombia",
+        "es": "Sabanagrande",
+        "es:t": "Colombia",
+        "de": "Sabanagrande",
+        "de:t": "Kolumbien"
+    },
+    {
+        "en": "Sabanalarga",
+        "en:t": "Colombia",
+        "a": true,
+        "g": {
+            "lat": 10.6324,
+            "lon": -74.9202
+        },
+        "it": "Sabanalarga",
+        "it:t": "Colombia",
+        "es": "Sabanalarga",
+        "es:t": "Colombia",
+        "de": "Sabanalarga",
+        "de:t": "Kolumbien"
+    },
+    {
+        "en": "Sabaneta",
+        "en:t": "Colombia",
+        "a": true,
+        "g": {
+            "lat": 6.1506,
+            "lon": -75.6168
+        },
+        "it": "Sabaneta",
+        "it:t": "Colombia",
+        "es": "Sabaneta",
+        "es:t": "Colombia",
+        "de": "Sabaneta",
+        "de:t": "Kolumbien"
+    },
+    {
+        "en": "Sahag\u00fan",
+        "en:t": "Colombia",
+        "a": true,
+        "g": {
+            "lat": 8.9506,
+            "lon": -75.446
+        },
+        "it": "Sahag\u00fan",
+        "it:t": "Colombia",
+        "es": "Sahag\u00fan",
+        "es:t": "Colombia",
+        "de": "Sahag\u00fan",
+        "de:t": "Kolumbien"
+    },
+    {
+        "en": "Salamina",
+        "en:t": "Colombia",
+        "a": true,
+        "g": {
+            "lat": 5.4024,
+            "lon": -75.4865
+        },
+        "it": "Salamina",
+        "it:t": "Colombia",
+        "es": "Salamina",
+        "es:t": "Colombia",
+        "de": "Salamina",
+        "de:t": "Kolumbien"
+    },
+    {
+        "en": "Sampu\u00e9s",
+        "en:t": "Colombia",
+        "a": true,
+        "g": {
+            "lat": 9.1836,
+            "lon": -75.3811
+        },
+        "it": "Sampu\u00e9s",
+        "it:t": "Colombia",
+        "es": "Sampu\u00e9s",
+        "es:t": "Colombia",
+        "de": "Sampu\u00e9s",
+        "de:t": "Kolumbien"
+    },
+    {
+        "en": "San Andr\u00e9s",
+        "en:t": "Colombia",
+        "a": true,
+        "g": {
+            "lat": 12.5769,
+            "lon": -81.7051
+        },
+        "it": "San Andr\u00e9s",
+        "it:t": "Colombia",
+        "es": "San Andr\u00e9s",
+        "es:t": "Colombia",
+        "de": "San Andr\u00e9s",
+        "de:t": "Kolumbien"
+    },
+    {
+        "en": "San Benito Abad",
+        "en:t": "Colombia",
+        "a": true,
+        "g": {
+            "lat": 8.9311,
+            "lon": -75.0307
+        },
+        "it": "San Benito Abad",
+        "it:t": "Colombia",
+        "es": "San Benito Abad",
+        "es:t": "Colombia",
+        "de": "San Benito Abad",
+        "de:t": "Kolumbien"
+    },
+    {
+        "en": "San Carlos",
+        "en:t": "Colombia",
+        "a": true,
+        "g": {
+            "lat": 8.7971,
+            "lon": -75.6986
+        },
+        "it": "San Carlos",
+        "it:t": "Colombia",
+        "es": "San Carlos",
+        "es:t": "Colombia",
+        "de": "San Carlos",
+        "de:t": "Kolumbien"
+    },
+    {
+        "en": "San Carlos",
+        "en:t": "Colombia",
+        "a": true,
+        "g": {
+            "lat": 6.188,
+            "lon": -74.9932
+        },
+        "it": "San Carlos",
+        "it:t": "Colombia",
+        "es": "San Carlos",
+        "es:t": "Colombia",
+        "de": "San Carlos",
+        "de:t": "Kolumbien"
+    },
+    {
+        "en": "San Gil",
+        "en:t": "Colombia",
+        "a": true,
+        "g": {
+            "lat": 6.5548,
+            "lon": -73.1341
+        },
+        "it": "San Gil",
+        "it:t": "Colombia",
+        "es": "San Gil",
+        "es:t": "Colombia",
+        "de": "San Gil",
+        "de:t": "Kolumbien"
+    },
+    {
+        "en": "San Jacinto",
+        "en:t": "Colombia",
+        "a": true,
+        "g": {
+            "lat": 9.8348,
+            "lon": -75.1205
+        },
+        "it": "San Jacinto",
+        "it:t": "Colombia",
+        "es": "San Jacinto",
+        "es:t": "Colombia",
+        "de": "San Jacinto",
+        "de:t": "Kolumbien"
+    },
+    {
+        "en": "San Juan Nepomuceno",
+        "en:t": "Colombia",
+        "a": true,
+        "g": {
+            "lat": 9.9511,
+            "lon": -75.0838
+        },
+        "it": "San Juan Nepomuceno",
+        "it:t": "Colombia",
+        "es": "San Ju\u00e1n Nepomuceno",
+        "es:t": "Colombia",
+        "de": "San Juan Nepomuceno",
+        "de:t": "Kolumbien"
+    },
+    {
+        "en": "San Juan del Cesar",
+        "en:t": "Colombia",
+        "a": true,
+        "g": {
+            "lat": 10.7699,
+            "lon": -73.0022
+        },
+        "it": "San Juan del Cesar",
+        "it:t": "Colombia",
+        "es": "San Juan Del Cesar",
+        "es:t": "Colombia",
+        "de": "San Juan del Cesar",
+        "de:t": "Kolumbien"
+    },
+    {
+        "en": "San Marcos",
+        "en:t": "Colombia",
+        "a": true,
+        "g": {
+            "lat": 8.6626,
+            "lon": -75.1289
+        },
+        "it": "San Marcos",
+        "it:t": "Colombia",
+        "es": "San Marcos",
+        "es:t": "Colombia",
+        "de": "San Marcos",
+        "de:t": "Kolumbien"
+    },
+    {
+        "en": "San Mart\u00edn",
+        "en:t": "Colombia",
+        "a": true,
+        "g": {
+            "lat": 3.6985,
+            "lon": -73.6973
+        },
+        "it": "San Mart\u00edn",
+        "it:t": "Colombia",
+        "es": "San Mart\u00edn",
+        "es:t": "Colombia",
+        "de": "San Mart\u00edn",
+        "de:t": "Kolumbien"
+    },
+    {
+        "en": "San Onofre",
+        "en:t": "Colombia",
+        "a": true,
+        "g": {
+            "lat": 9.7408,
+            "lon": -75.5199
+        },
+        "it": "San Onofre",
+        "it:t": "Colombia",
+        "es": "San Onofre",
+        "es:t": "Colombia",
+        "de": "San Onofre",
+        "de:t": "Kolumbien"
+    },
+    {
+        "en": "Santa Cruz de Mompox",
+        "en:t": "Colombia",
+        "a": true,
+        "g": {
+            "lat": 9.2401,
+            "lon": -74.4245
+        },
+        "it": "Santa Cruz de Mompox",
+        "it:t": "Colombia",
+        "es": "Momp\u00f3s",
+        "es:t": "Colombia",
+        "de": "Momp\u00f3s",
+        "de:t": "Kolumbien"
+    },
+    {
+        "en": "Santa Luc\u00eda",
+        "en:t": "Colombia",
+        "a": true,
+        "g": {
+            "lat": 10.324,
+            "lon": -74.9615
+        },
+        "it": "Santa Luc\u00eda",
+        "it:t": "Colombia",
+        "es": "Santa Luc\u00eda",
+        "es:t": "Colombia",
+        "de": "Santa Luc\u00eda",
+        "de:t": "Kolumbien"
+    },
+    {
+        "en": "Santa Marta",
+        "en:t": "Colombia",
+        "a": true,
+        "g": {
+            "lat": 11.2404,
+            "lon": -74.211
+        },
+        "it": "Santa Marta",
+        "it:t": "Colombia",
+        "es": "Santa Marta",
+        "es:t": "Colombia",
+        "de": "Santa Marta",
+        "de:t": "Kolumbien"
+    },
+    {
+        "en": "Santa Rosa de Cabal",
+        "en:t": "Colombia",
+        "a": true,
+        "g": {
+            "lat": 4.8701,
+            "lon": -75.6224
+        },
+        "it": "Santa Rosa de Cabal",
+        "it:t": "Colombia",
+        "es": "Santa Rosa de Cabal",
+        "es:t": "Colombia",
+        "de": "Santa Rosa de Cabal",
+        "de:t": "Kolumbien"
+    },
+    {
+        "en": "Santander de Quilichao",
+        "en:t": "Colombia",
+        "a": true,
+        "g": {
+            "lat": 3.0123,
+            "lon": -76.4845
+        },
+        "it": "Santander de Quilichao",
+        "it:t": "Colombia",
+        "es": "Santander de Quilichao",
+        "es:t": "Colombia",
+        "de": "Santander de Quilichao",
+        "de:t": "Kolumbien"
+    },
+    {
+        "en": "Santo Tom\u00e1s",
+        "en:t": "Colombia",
+        "a": true,
+        "g": {
+            "lat": 10.7633,
+            "lon": -74.7565
+        },
+        "it": "Santo Tom\u00e1s",
+        "it:t": "Colombia",
+        "es": "Santo Tom\u00e1s",
+        "es:t": "Colombia",
+        "de": "Santo Tom\u00e1s",
+        "de:t": "Kolumbien"
+    },
+    {
+        "en": "Segovia",
+        "en:t": "Colombia",
+        "a": true,
+        "g": {
+            "lat": 7.0796,
+            "lon": -74.6991
+        },
+        "it": "Segovia",
+        "it:t": "Colombia",
+        "es": "Segovia",
+        "es:t": "Colombia",
+        "de": "Segovia",
+        "de:t": "Kolumbien"
+    },
+    {
+        "en": "Sevilla",
+        "en:t": "Colombia",
+        "a": true,
+        "g": {
+            "lat": 4.2744,
+            "lon": -75.931
+        },
+        "it": "Sevilla",
+        "it:t": "Colombia",
+        "es": "Sevilla",
+        "es:t": "Colombia",
+        "de": "Sevilla",
+        "de:t": "Kolumbien"
+    },
+    {
+        "en": "Sibat\u00e9",
+        "en:t": "Colombia",
+        "a": true,
+        "g": {
+            "lat": 4.485,
+            "lon": -74.2593
+        },
+        "it": "Sibat\u00e9",
+        "it:t": "Colombia",
+        "es": "Sibat\u00e9",
+        "es:t": "Colombia",
+        "de": "Sibat\u00e9",
+        "de:t": "Kolumbien"
+    },
+    {
+        "en": "Sincelejo",
+        "en:t": "Colombia",
+        "a": true,
+        "g": {
+            "lat": 9.3046,
+            "lon": -75.3906
+        },
+        "it": "Sincelejo",
+        "it:t": "Colombia",
+        "es": "Sincelejo",
+        "es:t": "Colombia",
+        "de": "Sincelejo",
+        "de:t": "Kolumbien"
+    },
+    {
+        "en": "Sinc\u00e9",
+        "en:t": "Colombia | San Luis de Sinc\u00e9",
+        "a": true,
+        "g": {
+            "lat": 9.2411,
+            "lon": -75.1464
+        },
+        "it": "Sinc\u00e9",
+        "it:t": "Colombia | San Luis de Sinc\u00e9",
+        "es": "San Luis de Sinc\u00e9",
+        "es:t": "Colombia | San Luis de Sinc\u00e9",
+        "de": "Sinc\u00e9",
+        "de:t": "Kolumbien | San Luis de Sinc\u00e9"
+    },
+    {
+        "en": "Soacha",
+        "en:t": "Colombia",
+        "a": true,
+        "g": {
+            "lat": 4.5827,
+            "lon": -74.2117
+        },
+        "it": "Soacha",
+        "it:t": "Colombia",
+        "es": "Soacha",
+        "es:t": "Colombia",
+        "de": "Soacha",
+        "de:t": "Kolumbien"
+    },
+    {
+        "en": "Socorro",
+        "en:t": "Colombia | Santander",
+        "a": true,
+        "g": {
+            "lat": 6.4687,
+            "lon": -73.264
+        },
+        "it": "Socorro",
+        "it:t": "Colombia | Santander",
+        "es": "Socorro",
+        "es:t": "Colombia | Santander",
+        "de": "Socorro",
+        "de:t": "Kolumbien | Santander"
+    },
+    {
+        "en": "Sogamoso",
+        "en:t": "Colombia",
+        "a": true,
+        "g": {
+            "lat": 5.7161,
+            "lon": -72.9311
+        },
+        "it": "Sogamoso",
+        "it:t": "Colombia",
+        "es": "Sogamoso",
+        "es:t": "Colombia",
+        "de": "Sogamoso",
+        "de:t": "Kolumbien"
+    },
+    {
+        "en": "Soledad",
+        "en:t": "Colombia",
+        "a": true,
+        "g": {
+            "lat": 10.917,
+            "lon": -74.7991
+        },
+        "it": "Soledad",
+        "it:t": "Colombia",
+        "es": "Soledad",
+        "es:t": "Colombia",
+        "de": "Soledad",
+        "de:t": "Kolumbien"
+    },
+    {
+        "en": "Sons\u00f3n",
+        "en:t": "Colombia",
+        "a": true,
+        "g": {
+            "lat": 5.712,
+            "lon": -75.3098
+        },
+        "it": "Sons\u00f3n",
+        "it:t": "Colombia",
+        "es": "Sons\u00f3n",
+        "es:t": "Colombia",
+        "de": "Sons\u00f3n",
+        "de:t": "Kolumbien"
+    },
+    {
+        "en": "Sucre",
+        "en:t": "Colombia",
+        "a": true,
+        "g": {
+            "lat": 8.814,
+            "lon": -74.7233
+        },
+        "it": "Sucre",
+        "it:t": "Colombia",
+        "es": "Sucre",
+        "es:t": "Colombia",
+        "de": "Sucre",
+        "de:t": "Kolumbien"
+    },
+    {
+        "en": "Tame",
+        "en:t": "Colombia",
+        "a": true,
+        "g": {
+            "lat": 6.4571,
+            "lon": -71.7455
+        },
+        "it": "Tame",
+        "it:t": "Colombia",
+        "es": "Tame",
+        "es:t": "Colombia",
+        "de": "Tame",
+        "de:t": "Kolumbien"
+    },
+    {
+        "en": "Tierralta",
+        "en:t": "Colombia",
+        "a": true,
+        "g": {
+            "lat": 8.1716,
+            "lon": -76.0623
+        },
+        "it": "Tierralta",
+        "it:t": "Colombia",
+        "es": "Tierralta",
+        "es:t": "Colombia",
+        "de": "Tierralta",
+        "de:t": "Kolumbien"
+    },
+    {
+        "en": "Santiago de Tol\u00fa",
+        "en:t": "Colombia",
+        "a": true,
+        "g": {
+            "lat": 9.5275,
+            "lon": -75.5813
+        },
+        "it": "Santiago de Tol\u00fa",
+        "it:t": "Colombia | Tol\u00fa",
+        "es": "Santiago de Tol\u00fa",
+        "es:t": "Colombia",
+        "de": "Santiago de Tol\u00fa",
+        "de:t": "Kolumbien"
+    },
+    {
+        "en": "Tulua",
+        "en:t": "Colombia",
+        "a": true,
+        "g": {
+            "lat": 4.0899,
+            "lon": -76.1915
+        },
+        "it": "Tulu\u00e1",
+        "it:t": "Colombia",
+        "es": "Tulu\u00e1",
+        "es:t": "Colombia",
+        "de": "Tulu\u00e1",
+        "de:t": "Kolumbien"
+    },
+    {
+        "en": "Tumaco",
+        "en:t": "Colombia | San Andres de Tumaco",
+        "a": true,
+        "g": {
+            "lat": 1.7874,
+            "lon": -78.7913
+        },
+        "it": "San Andr\u00e9s de Tumaco",
+        "it:t": "Colombia | San Andres de Tumaco",
+        "es": "Tumaco",
+        "es:t": "Colombia | San Andres de Tumaco",
+        "de": "Tumaco",
+        "de:t": "Kolumbien | San Andres de Tumaco"
+    },
+    {
+        "en": "Tunja",
+        "en:t": "Colombia",
+        "a": true,
+        "g": {
+            "lat": 5.5446,
+            "lon": -73.3576
+        },
+        "it": "Tunja",
+        "it:t": "Colombia",
+        "es": "Tunja",
+        "es:t": "Colombia",
+        "de": "Tunja",
+        "de:t": "Kolumbien"
+    },
+    {
+        "en": "Turbaco",
+        "en:t": "Colombia",
+        "a": true,
+        "g": {
+            "lat": 10.3346,
+            "lon": -75.4127
+        },
+        "it": "Turbaco",
+        "it:t": "Colombia",
+        "es": "Turbaco",
+        "es:t": "Colombia",
+        "de": "Turbaco",
+        "de:t": "Kolumbien"
+    },
+    {
+        "en": "Turbo",
+        "en:t": "Colombia",
+        "a": true,
+        "g": {
+            "lat": 8.0952,
+            "lon": -76.7285
+        },
+        "it": "Turbo",
+        "it:t": "Colombia",
+        "es": "Turbo",
+        "es:t": "Colombia",
+        "de": "Turbo",
+        "de:t": "Kolumbien"
+    },
+    {
+        "en": "T\u00faquerres",
+        "en:t": "Colombia",
+        "a": true,
+        "g": {
+            "lat": 1.0857,
+            "lon": -77.6186
+        },
+        "it": "T\u00faquerres",
+        "it:t": "Colombia",
+        "es": "T\u00faquerres",
+        "es:t": "Colombia",
+        "de": "T\u00faquerres",
+        "de:t": "Kolumbien"
+    },
+    {
+        "en": "Ubat\u00e9",
+        "en:t": "Colombia",
+        "a": true,
+        "g": {
+            "lat": 5.312,
+            "lon": -73.8182
+        },
+        "it": "Ubat\u00e9",
+        "it:t": "Colombia",
+        "es": "Ubat\u00e9",
+        "es:t": "Colombia",
+        "de": "Ubat\u00e9",
+        "de:t": "Kolumbien"
+    },
+    {
+        "en": "Urrao",
+        "en:t": "Colombia",
+        "a": true,
+        "g": {
+            "lat": 6.3139,
+            "lon": -76.1318
+        },
+        "it": "Urrao",
+        "it:t": "Colombia",
+        "es": "Urrao",
+        "es:t": "Colombia",
+        "de": "Urrao",
+        "de:t": "Kolumbien"
+    },
+    {
+        "en": "Valledupar",
+        "en:t": "Colombia",
+        "a": true,
+        "g": {
+            "lat": 10.4742,
+            "lon": -73.2436
+        },
+        "it": "Valledupar",
+        "it:t": "Colombia",
+        "es": "Valledupar",
+        "es:t": "Colombia",
+        "de": "Valledupar",
+        "de:t": "Kolumbien"
+    },
+    {
+        "en": "Villa del Rosario",
+        "en:t": "Colombia | Villa Del Rosario",
+        "a": true,
+        "g": {
+            "lat": 7.8438,
+            "lon": -72.4697
+        },
+        "it": "Villa del Rosario",
+        "it:t": "Colombia | Villa Del Rosario",
+        "es": "Villa Del Rosario",
+        "es:t": "Colombia | Villa Del Rosario",
+        "de": "Villa del Rosario",
+        "de:t": "Kolumbien | Villa Del Rosario"
+    },
+    {
+        "en": "Villamar\u00eda",
+        "en:t": "Colombia",
+        "a": true,
+        "g": {
+            "lat": 5.0426,
+            "lon": -75.5148
+        },
+        "it": "Villamar\u00eda",
+        "it:t": "Colombia",
+        "es": "Villamar\u00eda",
+        "es:t": "Colombia",
+        "de": "Villamar\u00eda",
+        "de:t": "Kolumbien"
+    },
+    {
+        "en": "Villanueva",
+        "en:t": "Colombia",
+        "a": true,
+        "g": {
+            "lat": 10.6037,
+            "lon": -72.9819
+        },
+        "it": "Villanueva",
+        "it:t": "Colombia",
+        "es": "Villanueva",
+        "es:t": "Colombia",
+        "de": "Villanueva",
+        "de:t": "Kolumbien"
+    },
+    {
+        "en": "Villavicencio",
+        "en:t": "Colombia",
+        "a": true,
+        "g": {
+            "lat": 4.1514,
+            "lon": -73.6377
+        },
+        "it": "Villavicencio",
+        "it:t": "Colombia",
+        "es": "Villavicencio",
+        "es:t": "Colombia",
+        "de": "Villavicencio",
+        "de:t": "Kolumbien"
+    },
+    {
+        "en": "Villeta",
+        "en:t": "Colombia",
+        "a": true,
+        "g": {
+            "lat": 5.0117,
+            "lon": -74.4704
+        },
+        "it": "Villeta",
+        "it:t": "Colombia",
+        "es": "Villeta",
+        "es:t": "Colombia",
+        "de": "Villeta",
+        "de:t": "Kolumbien"
+    },
+    {
+        "en": "Viterbo",
+        "en:t": "Colombia",
+        "a": true,
+        "g": {
+            "lat": 5.0606,
+            "lon": -75.8724
+        },
+        "it": "Viterbo",
+        "it:t": "Colombia",
+        "es": "Viterbo",
+        "es:t": "Colombia",
+        "de": "Viterbo",
+        "de:t": "Kolumbien"
+    },
+    {
+        "en": "Yarumal",
+        "en:t": "Colombia",
+        "a": true,
+        "g": {
+            "lat": 6.962,
+            "lon": -75.4191
+        },
+        "it": "Yarumal",
+        "it:t": "Colombia",
+        "es": "Yarumal",
+        "es:t": "Colombia",
+        "de": "Yarumal",
+        "de:t": "Kolumbien"
+    },
+    {
+        "en": "Yopal",
+        "en:t": "Colombia",
+        "a": true,
+        "g": {
+            "lat": 5.3489,
+            "lon": -72.4005
+        },
+        "it": "Yopal",
+        "it:t": "Colombia",
+        "es": "Yopal",
+        "es:t": "Colombia",
+        "de": "Yopal",
+        "de:t": "Kolumbien"
+    },
+    {
+        "en": "Yumbo",
+        "en:t": "Colombia",
+        "a": true,
+        "g": {
+            "lat": 3.5453,
+            "lon": -76.495
+        },
+        "it": "Yumbo",
+        "it:t": "Colombia",
+        "es": "Yumbo",
+        "es:t": "Colombia",
+        "de": "Yumbo",
+        "de:t": "Kolumbien"
+    },
+    {
+        "en": "Zaragoza",
+        "en:t": "Colombia",
+        "a": true,
+        "g": {
+            "lat": 7.4869,
+            "lon": -74.8673
+        },
+        "it": "Zaragoza",
+        "it:t": "Colombia",
+        "es": "Zaragoza",
+        "es:t": "Colombia",
+        "de": "Zaragoza",
+        "de:t": "Kolumbien"
+    },
+    {
+        "en": "Zarzal",
+        "en:t": "Colombia",
+        "a": true,
+        "g": {
+            "lat": 4.3949,
+            "lon": -76.0729
+        },
+        "it": "Zarzal",
+        "it:t": "Colombia",
+        "es": "Zarzal",
+        "es:t": "Colombia",
+        "de": "Zarzal",
+        "de:t": "Kolumbien"
+    },
+    {
+        "en": "Zipaquir\u00e1",
+        "en:t": "Colombia",
+        "a": true,
+        "g": {
+            "lat": 5.0215,
+            "lon": -73.991
+        },
+        "it": "Zipaquir\u00e1",
+        "it:t": "Colombia",
+        "es": "Zipaquir\u00e1",
+        "es:t": "Colombia",
+        "de": "Zipaquir\u00e1",
+        "de:t": "Kolumbien"
+    }
+]

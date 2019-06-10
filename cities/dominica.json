@@ -1,0 +1,17 @@
+[
+    {
+        "en": "Roseau",
+        "en:t": "Dominica | Saint George Parish",
+        "a": true,
+        "g": {
+            "lat": 15.3092,
+            "lon": -61.3794
+        },
+        "it": "Roseau",
+        "it:t": "Dominica | Parrocchia di Saint George",
+        "es": "Roseau",
+        "es:t": "Dominica | Parroquia de Saint George",
+        "de": "Roseau",
+        "de:t": "Dominica | Saint George"
+    }
+]

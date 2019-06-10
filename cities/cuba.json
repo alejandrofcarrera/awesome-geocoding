@@ -1,0 +1,1862 @@
+[
+    {
+        "en": "Abreus",
+        "en:t": "Cuba",
+        "a": true,
+        "g": {
+            "lat": 22.2796,
+            "lon": -80.5716
+        },
+        "it": "Abreus",
+        "it:t": "Cuba",
+        "es": "Abreus",
+        "es:t": "Cuba",
+        "de": "Abreus",
+        "de:t": "Kuba"
+    },
+    {
+        "en": "Aguada de Pasajeros",
+        "en:t": "Cuba",
+        "a": true,
+        "g": {
+            "lat": 22.3825,
+            "lon": -80.8475
+        },
+        "it": "Aguada de Pasajeros",
+        "it:t": "Cuba",
+        "es": "Aguada de Pasajeros",
+        "es:t": "Cuba",
+        "de": "Aguada de Pasajeros",
+        "de:t": "Kuba"
+    },
+    {
+        "en": "Alamar",
+        "en:t": "Cuba | Havana",
+        "a": true,
+        "g": {
+            "lat": 23.1636,
+            "lon": -82.2855
+        },
+        "it": "Alamar",
+        "it:t": "Cuba | Havana",
+        "es": "Alamar",
+        "es:t": "Cuba | La Habana",
+        "de": "Alamar",
+        "de:t": "Kuba | Havana"
+    },
+    {
+        "en": "Alqu\u00edzar",
+        "en:t": "Cuba | Alquizar",
+        "a": true,
+        "g": {
+            "lat": 22.8064,
+            "lon": -82.5848
+        },
+        "it": "Alqu\u00edzar",
+        "it:t": "Cuba | Alquizar",
+        "es": "Alqu\u00edzar",
+        "es:t": "Cuba | Alquizar",
+        "de": "Alqu\u00edzar",
+        "de:t": "Kuba | Alquizar"
+    },
+    {
+        "en": "Amancio",
+        "en:t": "Cuba",
+        "a": true,
+        "g": {
+            "lat": 20.8237,
+            "lon": -77.5791
+        },
+        "it": "Amancio",
+        "it:t": "Cuba",
+        "es": "Amancio",
+        "es:t": "Cuba",
+        "de": "Amancio",
+        "de:t": "Kuba"
+    },
+    {
+        "en": "Arroyo Naranjo",
+        "en:t": "Cuba | Havana",
+        "a": true,
+        "g": {
+            "lat": 23.018,
+            "lon": -82.3343
+        },
+        "it": "Arroyo Naranjo",
+        "it:t": "Cuba | L'Avana",
+        "es": "Arroyo Naranjo",
+        "es:t": "Cuba | La Habana",
+        "de": "Arroyo Naranjo",
+        "de:t": "Kuba | Havanna"
+    },
+    {
+        "en": "Artemisa",
+        "en:t": "Cuba",
+        "a": true,
+        "g": {
+            "lat": 22.8159,
+            "lon": -82.759
+        },
+        "it": "Artemisa",
+        "it:t": "Cuba",
+        "es": "Artemisa",
+        "es:t": "Cuba",
+        "de": "Artemisa",
+        "de:t": "Kuba"
+    },
+    {
+        "en": "Baguano",
+        "en:t": "Cuba | Baguanos",
+        "a": true,
+        "g": {
+            "lat": 20.7502,
+            "lon": -76.0334
+        },
+        "it": "B\u00e1guanos",
+        "it:t": "Cuba | Baguanos",
+        "es": "B\u00e1guano",
+        "es:t": "Cuba | B\u00e1guanos",
+        "de": "Baguano",
+        "de:t": "Kuba | Baguanos"
+    },
+    {
+        "en": "Bahia Honda",
+        "en:t": "Cuba",
+        "a": true,
+        "g": {
+            "lat": 22.9081,
+            "lon": -83.1703
+        },
+        "it": "Bah\u00eda Honda",
+        "it:t": "Cuba | Bahia Honda",
+        "es": "Bah\u00eda Honda",
+        "es:t": "Cuba",
+        "de": "Bah\u00eda Honda",
+        "de:t": "Kuba | Bahia Honda"
+    },
+    {
+        "en": "Banes",
+        "en:t": "Cuba",
+        "a": true,
+        "g": {
+            "lat": 20.957,
+            "lon": -75.7197
+        },
+        "it": "Banes",
+        "it:t": "Cuba",
+        "es": "Banes",
+        "es:t": "Cuba",
+        "de": "Banes",
+        "de:t": "Kuba"
+    },
+    {
+        "en": "Baracoa",
+        "en:t": "Cuba",
+        "a": true,
+        "g": {
+            "lat": 20.3475,
+            "lon": -74.5024
+        },
+        "it": "Baracoa",
+        "it:t": "Cuba",
+        "es": "Baracoa",
+        "es:t": "Cuba",
+        "de": "Baracoa",
+        "de:t": "Kuba"
+    },
+    {
+        "en": "Baragua",
+        "en:t": "Cuba",
+        "a": true,
+        "g": {
+            "lat": 21.6936,
+            "lon": -78.6314
+        },
+        "it": "Baragu\u00e1",
+        "it:t": "Cuba | Baragua",
+        "es": "Baragu\u00e1",
+        "es:t": "Cuba",
+        "de": "Baragu\u00e1",
+        "de:t": "Kuba | Baragua"
+    },
+    {
+        "en": "Bartolome Maso",
+        "en:t": "Cuba",
+        "a": true,
+        "g": {
+            "lat": 20.1566,
+            "lon": -76.947
+        },
+        "it": "Bartolom\u00e9 Mas\u00f3",
+        "it:t": "Cuba | Bartolome Maso",
+        "es": "Bartolom\u00e9 Mas\u00f3",
+        "es:t": "Cuba",
+        "de": "Bartolom\u00e9 Mas\u00f3",
+        "de:t": "Kuba | Bartolome Maso"
+    },
+    {
+        "en": "Bauta",
+        "en:t": "Cuba",
+        "a": true,
+        "g": {
+            "lat": 22.9838,
+            "lon": -82.5483
+        },
+        "it": "Bauta",
+        "it:t": "Cuba",
+        "es": "Bauta",
+        "es:t": "Cuba",
+        "de": "Bauta",
+        "de:t": "Kuba"
+    },
+    {
+        "en": "Bayamo",
+        "en:t": "Cuba",
+        "a": true,
+        "g": {
+            "lat": 20.3719,
+            "lon": -76.6297
+        },
+        "it": "Bayamo",
+        "it:t": "Cuba",
+        "es": "Bayamo",
+        "es:t": "Cuba",
+        "de": "Bayamo",
+        "de:t": "Kuba"
+    },
+    {
+        "en": "Bejucal",
+        "en:t": "Cuba",
+        "a": true,
+        "g": {
+            "lat": 22.929,
+            "lon": -82.3913
+        },
+        "it": "Bejucal",
+        "it:t": "Cuba",
+        "es": "Bejucal",
+        "es:t": "Cuba",
+        "de": "Bejucal",
+        "de:t": "Kuba"
+    },
+    {
+        "en": "Boyeros",
+        "en:t": "Cuba | Havana",
+        "a": true,
+        "g": {
+            "lat": 22.9862,
+            "lon": -82.4103
+        },
+        "it": "Boyeros",
+        "it:t": "Cuba | L'Avana",
+        "es": "Boyeros",
+        "es:t": "Cuba | La Habana",
+        "de": "Boyeros",
+        "de:t": "Kuba | Havanna"
+    },
+    {
+        "en": "Cabaiguan",
+        "en:t": "Cuba",
+        "a": true,
+        "g": {
+            "lat": 22.0808,
+            "lon": -79.4957
+        },
+        "it": "Cabaigu\u00e1n",
+        "it:t": "Cuba",
+        "es": "Cabaigu\u00e1n",
+        "es:t": "Cuba",
+        "de": "Cabaigu\u00e1n",
+        "de:t": "Kuba"
+    },
+    {
+        "en": "Cacocum",
+        "en:t": "Cuba",
+        "a": true,
+        "g": {
+            "lat": 20.7366,
+            "lon": -76.3319
+        },
+        "it": "Cacocum",
+        "it:t": "Cuba",
+        "es": "Cacocum",
+        "es:t": "Cuba",
+        "de": "Cacocum",
+        "de:t": "Kuba"
+    },
+    {
+        "en": "Caibari\u00e9n",
+        "en:t": "Cuba | Caibarien",
+        "a": true,
+        "g": {
+            "lat": 22.5065,
+            "lon": -79.476
+        },
+        "it": "Caibari\u00e9n",
+        "it:t": "Cuba | Caibarien",
+        "es": "Caibari\u00e9n",
+        "es:t": "Cuba | Caibarien",
+        "de": "Caibari\u00e9n",
+        "de:t": "Kuba | Caibarien"
+    },
+    {
+        "en": "Calimete",
+        "en:t": "Cuba",
+        "a": true,
+        "g": {
+            "lat": 22.5364,
+            "lon": -80.9056
+        },
+        "it": "Calimete",
+        "it:t": "Cuba",
+        "es": "Calimete",
+        "es:t": "Cuba",
+        "de": "Calimete",
+        "de:t": "Kuba"
+    },
+    {
+        "en": "Jovellanos",
+        "en:t": "Cuba",
+        "a": true,
+        "g": {
+            "lat": 23.0475,
+            "lon": -81.5755
+        },
+        "it": "Jovellanos",
+        "it:t": "Cuba",
+        "es": "Jovellanos",
+        "es:t": "Cuba",
+        "de": "Jovellanos",
+        "de:t": "Kuba"
+    },
+    {
+        "en": "Camaguey",
+        "en:t": "Cuba",
+        "a": true,
+        "g": {
+            "lat": 21.3926,
+            "lon": -77.9053
+        },
+        "it": "Camag\u00fcey",
+        "it:t": "Cuba",
+        "es": "Camag\u00fcey",
+        "es:t": "Cuba",
+        "de": "Camag\u00fcey",
+        "de:t": "Kuba"
+    },
+    {
+        "en": "Camajuan\u00ed",
+        "en:t": "Cuba | Camajuani",
+        "a": true,
+        "g": {
+            "lat": 22.4636,
+            "lon": -79.7232
+        },
+        "it": "Camajuan\u00ed",
+        "it:t": "Cuba | Camajuani",
+        "es": "Camajuan\u00ed",
+        "es:t": "Cuba | Camajuani",
+        "de": "Camajuan\u00ed",
+        "de:t": "Kuba | Camajuani"
+    },
+    {
+        "en": "Campechuela",
+        "en:t": "Cuba",
+        "a": true,
+        "g": {
+            "lat": 20.2281,
+            "lon": -77.2807
+        },
+        "it": "Campechuela",
+        "it:t": "Cuba",
+        "es": "Campechuela",
+        "es:t": "Cuba",
+        "de": "Campechuela",
+        "de:t": "Kuba"
+    },
+    {
+        "en": "Cardenas",
+        "en:t": "Cuba",
+        "a": true,
+        "g": {
+            "lat": 23.0366,
+            "lon": -81.2133
+        },
+        "it": "C\u00e1rdenas",
+        "it:t": "Cuba",
+        "es": "C\u00e1rdenas",
+        "es:t": "Cuba",
+        "de": "C\u00e1rdenas",
+        "de:t": "Kuba"
+    },
+    {
+        "en": "Cauto Cristo",
+        "en:t": "Cuba",
+        "a": true,
+        "g": {
+            "lat": 20.555,
+            "lon": -76.4708
+        },
+        "it": "Cauto Cristo",
+        "it:t": "Cuba",
+        "es": "Cauto Cristo",
+        "es:t": "Cuba",
+        "de": "Cauto Cristo",
+        "de:t": "Kuba"
+    },
+    {
+        "en": "Centro Habana",
+        "en:t": "Cuba | Havana",
+        "a": true,
+        "g": {
+            "lat": 23.1351,
+            "lon": -82.3696
+        },
+        "it": "Centro Habana",
+        "it:t": "Cuba | L'Avana",
+        "es": "Centro Habana",
+        "es:t": "Cuba | La Habana",
+        "de": "Centro Habana",
+        "de:t": "Kuba | Havanna"
+    },
+    {
+        "en": "Chambas",
+        "en:t": "Cuba",
+        "a": true,
+        "g": {
+            "lat": 22.1979,
+            "lon": -78.9119
+        },
+        "it": "Chambas",
+        "it:t": "Cuba",
+        "es": "Chambas",
+        "es:t": "Cuba",
+        "de": "Chambas",
+        "de:t": "Kuba"
+    },
+    {
+        "en": "Ciego De Avila",
+        "en:t": "Cuba",
+        "a": true,
+        "g": {
+            "lat": 21.8405,
+            "lon": -78.759
+        },
+        "it": "Ciego de \u00c1vila",
+        "it:t": "Cuba",
+        "es": "Ciego de \u00c1vila",
+        "es:t": "Cuba",
+        "de": "Ciego de \u00c1vila",
+        "de:t": "Kuba"
+    },
+    {
+        "en": "Cienfuegos",
+        "en:t": "Cuba",
+        "a": true,
+        "g": {
+            "lat": 22.16,
+            "lon": -80.4438
+        },
+        "it": "Cienfuegos",
+        "it:t": "Cuba",
+        "es": "Cienfuegos",
+        "es:t": "Cuba",
+        "de": "Cienfuegos",
+        "de:t": "Kuba"
+    },
+    {
+        "en": "Cifuentes",
+        "en:t": "Cuba",
+        "a": true,
+        "g": {
+            "lat": 22.6491,
+            "lon": -80.0479
+        },
+        "it": "Cifuentes",
+        "it:t": "Cuba",
+        "es": "Cifuentes",
+        "es:t": "Cuba",
+        "de": "Cifuentes",
+        "de:t": "Kuba"
+    },
+    {
+        "en": "Ciro Redondo",
+        "en:t": "Cuba",
+        "a": true,
+        "g": {
+            "lat": 22.0106,
+            "lon": -78.7108
+        },
+        "it": "Ciro Redondo",
+        "it:t": "Cuba",
+        "es": "Ciro Redondo",
+        "es:t": "Cuba",
+        "de": "Ciro Redondo",
+        "de:t": "Kuba"
+    },
+    {
+        "en": "Colombia",
+        "en:t": "Cuba",
+        "a": true,
+        "g": {
+            "lat": 20.9875,
+            "lon": -77.4186
+        },
+        "it": "Colombia",
+        "it:t": "Cuba",
+        "es": "Colombia",
+        "es:t": "Cuba",
+        "de": "Colombia",
+        "de:t": "Kuba"
+    },
+    {
+        "en": "Col\u00f3n",
+        "en:t": "Cuba | Colon",
+        "a": true,
+        "g": {
+            "lat": 22.7238,
+            "lon": -80.9042
+        },
+        "it": "Col\u00f3n",
+        "it:t": "Cuba | Colon",
+        "es": "Col\u00f3n",
+        "es:t": "Cuba | Colon",
+        "de": "Col\u00f3n",
+        "de:t": "Kuba | Colon"
+    },
+    {
+        "en": "Consolacion del Sur",
+        "en:t": "Cuba",
+        "a": true,
+        "g": {
+            "lat": 22.5088,
+            "lon": -83.5137
+        },
+        "it": "Consolaci\u00f3n del Sur",
+        "it:t": "Cuba",
+        "es": "Consolaci\u00f3n del Sur",
+        "es:t": "Cuba",
+        "de": "Consolaci\u00f3n del Sur",
+        "de:t": "Kuba"
+    },
+    {
+        "en": "Contramaestre",
+        "en:t": "Cuba",
+        "a": true,
+        "g": {
+            "lat": 20.3006,
+            "lon": -76.2421
+        },
+        "it": "Contramaestre",
+        "it:t": "Cuba",
+        "es": "Contramaestre",
+        "es:t": "Cuba",
+        "de": "Contramaestre",
+        "de:t": "Kuba"
+    },
+    {
+        "en": "Corralillo",
+        "en:t": "Cuba",
+        "a": true,
+        "g": {
+            "lat": 22.9856,
+            "lon": -80.5855
+        },
+        "it": "Corralillo",
+        "it:t": "Cuba",
+        "es": "Corralillo",
+        "es:t": "Cuba",
+        "de": "Corralillo",
+        "de:t": "Kuba"
+    },
+    {
+        "en": "Cruces",
+        "en:t": "Cuba",
+        "a": true,
+        "g": {
+            "lat": 22.3326,
+            "lon": -80.2712
+        },
+        "it": "Cruces",
+        "it:t": "Cuba",
+        "es": "Cruces",
+        "es:t": "Cuba",
+        "de": "Cruces",
+        "de:t": "Kuba"
+    },
+    {
+        "en": "Cueto",
+        "en:t": "Cuba",
+        "a": true,
+        "g": {
+            "lat": 20.6483,
+            "lon": -75.9289
+        },
+        "it": "Cueto",
+        "it:t": "Cuba",
+        "es": "Cueto",
+        "es:t": "Cuba",
+        "de": "Cueto",
+        "de:t": "Kuba"
+    },
+    {
+        "en": "Cumanayagua",
+        "en:t": "Cuba",
+        "a": true,
+        "g": {
+            "lat": 22.1485,
+            "lon": -80.2015
+        },
+        "it": "Cumanayagua",
+        "it:t": "Cuba",
+        "es": "Cumanayagua",
+        "es:t": "Cuba",
+        "de": "Cumanayagua",
+        "de:t": "Kuba"
+    },
+    {
+        "en": "Diez de Octubre",
+        "en:t": "Cuba | Havana",
+        "a": true,
+        "g": {
+            "lat": 23.0963,
+            "lon": -82.3615
+        },
+        "it": "Diez de Octubre",
+        "it:t": "Cuba | L'Avana",
+        "es": "Diez de Octubre",
+        "es:t": "Cuba | La Habana",
+        "de": "Diez de Octubre",
+        "de:t": "Kuba | Havanna"
+    },
+    {
+        "en": "El Cerro",
+        "en:t": "Cuba | Havana",
+        "a": true,
+        "g": {
+            "lat": 23.1004,
+            "lon": -82.3859
+        },
+        "it": "Cerro",
+        "it:t": "Cuba | L'Avana",
+        "es": "El Cerro",
+        "es:t": "Cuba | La Habana",
+        "de": "Cerro",
+        "de:t": "Kuba | Havanna"
+    },
+    {
+        "en": "Encrucijada",
+        "en:t": "Cuba",
+        "a": true,
+        "g": {
+            "lat": 22.6143,
+            "lon": -79.8689
+        },
+        "it": "Encrucijada",
+        "it:t": "Cuba",
+        "es": "Encrucijada",
+        "es:t": "Cuba",
+        "de": "Encrucijada",
+        "de:t": "Kuba"
+    },
+    {
+        "en": "Esmeralda",
+        "en:t": "Cuba",
+        "a": true,
+        "g": {
+            "lat": 21.848,
+            "lon": -78.1165
+        },
+        "it": "Esmeralda",
+        "it:t": "Cuba",
+        "es": "Esmeralda",
+        "es:t": "Cuba",
+        "de": "Esmeralda",
+        "de:t": "Kuba"
+    },
+    {
+        "en": "Florencia",
+        "en:t": "Cuba",
+        "a": true,
+        "g": {
+            "lat": 22.1461,
+            "lon": -78.9712
+        },
+        "it": "Florencia",
+        "it:t": "Cuba",
+        "es": "Florencia",
+        "es:t": "Cuba",
+        "de": "Florencia",
+        "de:t": "Kuba"
+    },
+    {
+        "en": "Florida",
+        "en:t": "Cuba",
+        "a": true,
+        "g": {
+            "lat": 21.5149,
+            "lon": -78.2191
+        },
+        "it": "Florida",
+        "it:t": "Cuba",
+        "es": "Florida",
+        "es:t": "Cuba",
+        "de": "Florida",
+        "de:t": "Kuba"
+    },
+    {
+        "en": "Fomento",
+        "en:t": "Cuba",
+        "a": true,
+        "g": {
+            "lat": 22.0983,
+            "lon": -79.7232
+        },
+        "it": "Fomento",
+        "it:t": "Cuba",
+        "es": "Fomento",
+        "es:t": "Cuba",
+        "de": "Fomento",
+        "de:t": "Kuba"
+    },
+    {
+        "en": "Gibara",
+        "en:t": "Cuba",
+        "a": true,
+        "g": {
+            "lat": 21.1128,
+            "lon": -76.1334
+        },
+        "it": "Gibara",
+        "it:t": "Cuba",
+        "es": "Gibara",
+        "es:t": "Cuba",
+        "de": "Gibara",
+        "de:t": "Kuba"
+    },
+    {
+        "en": "Guanabacoa",
+        "en:t": "Cuba | Havana",
+        "a": true,
+        "g": {
+            "lat": 23.1085,
+            "lon": -82.2475
+        },
+        "it": "Guanabacoa",
+        "it:t": "Cuba | L'Avana",
+        "es": "Guanabacoa",
+        "es:t": "Cuba | La Habana",
+        "de": "Guanabacoa",
+        "de:t": "Kuba | Havanna"
+    },
+    {
+        "en": "Guanajay",
+        "en:t": "Cuba",
+        "a": true,
+        "g": {
+            "lat": 22.9222,
+            "lon": -82.6861
+        },
+        "it": "Guanajay",
+        "it:t": "Cuba",
+        "es": "Guanajay",
+        "es:t": "Cuba",
+        "de": "Guanajay",
+        "de:t": "Kuba"
+    },
+    {
+        "en": "Guane",
+        "en:t": "Cuba",
+        "a": true,
+        "g": {
+            "lat": 22.1999,
+            "lon": -84.0881
+        },
+        "it": "Guane",
+        "it:t": "Cuba",
+        "es": "Guane",
+        "es:t": "Cuba",
+        "de": "Guane",
+        "de:t": "Kuba"
+    },
+    {
+        "en": "Guant\u00e1namo Bay",
+        "en:t": "Cuba",
+        "a": true,
+        "g": {
+            "lat": 20.0117,
+            "lon": -75.1216
+        },
+        "it": "Baia di Guant\u00e1namo",
+        "it:t": "Cuba",
+        "es": "Guant\u00e1namo",
+        "es:t": "Cuba",
+        "de": "Guant\u00e1namo",
+        "de:t": "Kuba | Guantanamo"
+    },
+    {
+        "en": "Guisa",
+        "en:t": "Cuba",
+        "a": true,
+        "g": {
+            "lat": 20.2543,
+            "lon": -76.543
+        },
+        "it": "Guisa",
+        "it:t": "Cuba",
+        "es": "Guisa",
+        "es:t": "Cuba",
+        "de": "Guisa",
+        "de:t": "Kuba"
+    },
+    {
+        "en": "Gu\u00e1imaro",
+        "en:t": "Cuba | Guaimaro",
+        "a": true,
+        "g": {
+            "lat": 21.0526,
+            "lon": -77.3497
+        },
+        "it": "Gu\u00e1imaro",
+        "it:t": "Cuba | Guaimaro",
+        "es": "Guaimaro",
+        "es:t": "Cuba | Gu\u00e1imaro",
+        "de": "Gu\u00e1imaro",
+        "de:t": "Kuba | Guaimaro"
+    },
+    {
+        "en": "G\u00fcines",
+        "en:t": "Cuba | Guines",
+        "a": true,
+        "g": {
+            "lat": 22.843,
+            "lon": -82.0244
+        },
+        "it": "G\u00fcines",
+        "it:t": "Cuba | Guines",
+        "es": "G\u00fcines",
+        "es:t": "Cuba",
+        "de": "G\u00fcines",
+        "de:t": "Kuba | Guines"
+    },
+    {
+        "en": "G\u00fcira de Melena",
+        "en:t": "Cuba | Guira de Melena",
+        "a": true,
+        "g": {
+            "lat": 22.7957,
+            "lon": -82.5132
+        },
+        "it": "G\u00fcira de Melena",
+        "it:t": "Cuba | Guira de Melena",
+        "es": "G\u00fcira de Melena",
+        "es:t": "Cuba | Guira de Melena",
+        "de": "G\u00fcira de Melena",
+        "de:t": "Kuba | Guira de Melena"
+    },
+    {
+        "en": "Havana",
+        "en:t": "Cuba",
+        "a": true,
+        "g": {
+            "lat": 23.1136,
+            "lon": -82.3666
+        },
+        "it": "L'Avana",
+        "it:t": "Cuba",
+        "es": "La Habana",
+        "es:t": "Cuba",
+        "de": "Havanna",
+        "de:t": "Kuba"
+    },
+    {
+        "en": "Holguin",
+        "en:t": "Cuba",
+        "a": true,
+        "g": {
+            "lat": 20.8795,
+            "lon": -76.2595
+        },
+        "it": "Holgu\u00edn",
+        "it:t": "Cuba",
+        "es": "Holgu\u00edn",
+        "es:t": "Cuba",
+        "de": "Holgu\u00edn",
+        "de:t": "Kuba"
+    },
+    {
+        "en": "Jaguey Grande",
+        "en:t": "Cuba",
+        "a": true,
+        "g": {
+            "lat": 22.5267,
+            "lon": -81.1279
+        },
+        "it": "Jag\u00fcey Grande",
+        "it:t": "Cuba",
+        "es": "Jag\u00fcey Grande",
+        "es:t": "Cuba",
+        "de": "Jag\u00fcey Grande",
+        "de:t": "Kuba"
+    },
+    {
+        "en": "Jaruco",
+        "en:t": "Cuba",
+        "a": true,
+        "g": {
+            "lat": 23.0405,
+            "lon": -82.0107
+        },
+        "it": "Jaruco",
+        "it:t": "Cuba",
+        "es": "Jaruco",
+        "es:t": "Cuba",
+        "de": "Jaruco",
+        "de:t": "Kuba"
+    },
+    {
+        "en": "Jatibonico",
+        "en:t": "Cuba",
+        "a": true,
+        "g": {
+            "lat": 21.9441,
+            "lon": -79.1605
+        },
+        "it": "Jatibonico",
+        "it:t": "Cuba",
+        "es": "Jatibonico",
+        "es:t": "Cuba",
+        "de": "Jatibonico",
+        "de:t": "Kuba"
+    },
+    {
+        "en": "Jesus Menendez",
+        "en:t": "Cuba",
+        "a": true,
+        "g": {
+            "lat": 21.1596,
+            "lon": -76.4737
+        },
+        "it": "Jes\u00fas Men\u00e9ndez",
+        "it:t": "Cuba",
+        "es": "Jes\u00fas Men\u00e9ndez",
+        "es:t": "Cuba",
+        "de": "Jes\u00fas Men\u00e9ndez",
+        "de:t": "Kuba"
+    },
+    {
+        "en": "Jiguani",
+        "en:t": "Cuba",
+        "a": true,
+        "g": {
+            "lat": 20.3651,
+            "lon": -76.4303
+        },
+        "it": "Jiguan\u00ed",
+        "it:t": "Cuba",
+        "es": "Jiguan\u00ed",
+        "es:t": "Cuba",
+        "de": "Jiguani",
+        "de:t": "Kuba"
+    },
+    {
+        "en": "Jimaguayu",
+        "en:t": "Cuba",
+        "a": true,
+        "g": {
+            "lat": 21.2417,
+            "lon": -77.8267
+        },
+        "it": "Jimaguay\u00fa",
+        "it:t": "Cuba",
+        "es": "Jimaguay\u00fa",
+        "es:t": "Cuba",
+        "de": "Jimaguay\u00fa",
+        "de:t": "Kuba"
+    },
+    {
+        "en": "Jobabo",
+        "en:t": "Cuba",
+        "a": true,
+        "g": {
+            "lat": 20.9069,
+            "lon": -77.2807
+        },
+        "it": "Jobabo",
+        "it:t": "Cuba",
+        "es": "Jobabo",
+        "es:t": "Cuba",
+        "de": "Jobabo",
+        "de:t": "Kuba"
+    },
+    {
+        "en": "La Habana del Este",
+        "en:t": "Cuba | Havana",
+        "a": true,
+        "g": {
+            "lat": 23.1042,
+            "lon": -82.1605
+        },
+        "it": "Habana del Este",
+        "it:t": "Cuba | L'Avana",
+        "es": "La Habana del Este",
+        "es:t": "Cuba | La Habana",
+        "de": "Habana del Este",
+        "de:t": "Kuba | Havanna"
+    },
+    {
+        "en": "La Salud",
+        "en:t": "Cuba | Quivican",
+        "a": true,
+        "g": {
+            "lat": 22.8565,
+            "lon": -82.4211
+        },
+        "it": "La Salud",
+        "it:t": "Cuba | Quivican",
+        "es": "La Salud",
+        "es:t": "Cuba | Quivic\u00e1n",
+        "de": "La Salud",
+        "de:t": "Kuba | Quivican"
+    },
+    {
+        "en": "La Sierpe",
+        "en:t": "Cuba | La Sierpe",
+        "a": true,
+        "g": {
+            "lat": 21.7703,
+            "lon": -79.2691
+        },
+        "it": "La Sierpe",
+        "it:t": "Cuba | Sancti Sp\u00edritus",
+        "es": "La Sierpe",
+        "es:t": "Cuba | La Sierpe",
+        "de": "La Sierpe",
+        "de:t": "Kuba | Sancti Sp\u00edritus"
+    },
+    {
+        "en": "Las Tunas",
+        "en:t": "Cuba",
+        "a": true,
+        "g": {
+            "lat": 20.9579,
+            "lon": -76.9528
+        },
+        "it": "Victoria de Las Tunas",
+        "it:t": "Cuba",
+        "es": "Las Tunas",
+        "es:t": "Cuba",
+        "de": "Las Tunas",
+        "de:t": "Kuba"
+    },
+    {
+        "en": "Los Palacios",
+        "en:t": "Cuba",
+        "a": true,
+        "g": {
+            "lat": 22.5881,
+            "lon": -83.2426
+        },
+        "it": "Los Palacios",
+        "it:t": "Cuba",
+        "es": "Los Palacios",
+        "es:t": "Cuba",
+        "de": "Los Palacios",
+        "de:t": "Kuba"
+    },
+    {
+        "en": "Madruga",
+        "en:t": "Cuba",
+        "a": true,
+        "g": {
+            "lat": 22.9062,
+            "lon": -81.8716
+        },
+        "it": "Madruga",
+        "it:t": "Cuba",
+        "es": "Madruga",
+        "es:t": "Cuba",
+        "de": "Madruga",
+        "de:t": "Kuba"
+    },
+    {
+        "en": "Manicaragua",
+        "en:t": "Cuba",
+        "a": true,
+        "g": {
+            "lat": 22.1467,
+            "lon": -79.978
+        },
+        "it": "Manicaragua",
+        "it:t": "Cuba",
+        "es": "Manicaragua",
+        "es:t": "Cuba",
+        "de": "Manicaragua",
+        "de:t": "Kuba"
+    },
+    {
+        "en": "Manzanillo",
+        "en:t": "Cuba",
+        "a": true,
+        "g": {
+            "lat": 20.3332,
+            "lon": -77.1198
+        },
+        "it": "Manzanillo",
+        "it:t": "Cuba",
+        "es": "Manzanillo",
+        "es:t": "Cuba",
+        "de": "Manzanillo",
+        "de:t": "Kuba"
+    },
+    {
+        "en": "Mariel",
+        "en:t": "Cuba",
+        "a": true,
+        "g": {
+            "lat": 22.9874,
+            "lon": -82.7536
+        },
+        "it": "Mariel",
+        "it:t": "Cuba",
+        "es": "Mariel",
+        "es:t": "Cuba",
+        "de": "Mariel",
+        "de:t": "Kuba"
+    },
+    {
+        "en": "Matanzas",
+        "en:t": "Cuba",
+        "a": true,
+        "g": {
+            "lat": 23.0303,
+            "lon": -81.5322
+        },
+        "it": "Matanzas",
+        "it:t": "Cuba",
+        "es": "Matanzas",
+        "es:t": "Cuba",
+        "de": "Matanzas",
+        "de:t": "Kuba"
+    },
+    {
+        "en": "Media Luna",
+        "en:t": "Cuba",
+        "a": true,
+        "g": {
+            "lat": 20.1454,
+            "lon": -77.43
+        },
+        "it": "Media Luna",
+        "it:t": "Cuba",
+        "es": "Media Luna",
+        "es:t": "Cuba",
+        "de": "Media Luna",
+        "de:t": "Kuba"
+    },
+    {
+        "en": "Minas",
+        "en:t": "Cuba",
+        "a": true,
+        "g": {
+            "lat": 21.4906,
+            "lon": -77.6049
+        },
+        "it": "Minas",
+        "it:t": "Cuba",
+        "es": "Minas",
+        "es:t": "Cuba",
+        "de": "Minas",
+        "de:t": "Kuba"
+    },
+    {
+        "en": "Minas de Matahambre",
+        "en:t": "Cuba",
+        "a": true,
+        "g": {
+            "lat": 22.5836,
+            "lon": -83.948
+        },
+        "it": "Minas de Matahambre",
+        "it:t": "Cuba",
+        "es": "Minas de Matahambre",
+        "es:t": "Cuba",
+        "de": "Minas de Matahambre",
+        "de:t": "Kuba"
+    },
+    {
+        "en": "Moa",
+        "en:t": "Cuba",
+        "a": true,
+        "g": {
+            "lat": 20.6575,
+            "lon": -74.9501
+        },
+        "it": "Moa",
+        "it:t": "Cuba",
+        "es": "Moa",
+        "es:t": "Cuba",
+        "de": "Moa",
+        "de:t": "Kuba"
+    },
+    {
+        "en": "Moron",
+        "en:t": "Cuba",
+        "a": true,
+        "g": {
+            "lat": 22.0897,
+            "lon": -78.6229
+        },
+        "it": "Mor\u00f3n",
+        "it:t": "Cuba",
+        "es": "Mor\u00f3n",
+        "es:t": "Cuba",
+        "de": "Mor\u00f3n",
+        "de:t": "Kuba"
+    },
+    {
+        "en": "Niquero",
+        "en:t": "Cuba",
+        "a": true,
+        "g": {
+            "lat": 20.039,
+            "lon": -77.5791
+        },
+        "it": "Niquero",
+        "it:t": "Cuba",
+        "es": "Niquero",
+        "es:t": "Cuba",
+        "de": "Niquero",
+        "de:t": "Kuba"
+    },
+    {
+        "en": "Nueva Gerona",
+        "en:t": "Cuba | Isla de Pinos",
+        "a": true,
+        "g": {
+            "lat": 21.8789,
+            "lon": -82.8102
+        },
+        "it": "Nueva Gerona",
+        "it:t": "Cuba | Isla de Pinos",
+        "es": "Nueva Gerona",
+        "es:t": "Cuba | Isla de Pinos",
+        "de": "Nueva Gerona",
+        "de:t": "Kuba | Isla de Pinos"
+    },
+    {
+        "en": "Nuevitas",
+        "en:t": "Cuba",
+        "a": true,
+        "g": {
+            "lat": 21.55,
+            "lon": -77.2693
+        },
+        "it": "Nuevitas",
+        "it:t": "Cuba",
+        "es": "Nuevitas",
+        "es:t": "Cuba",
+        "de": "Nuevitas",
+        "de:t": "Kuba"
+    },
+    {
+        "en": "Old Havana",
+        "en:t": "Cuba | Havana",
+        "a": true,
+        "g": {
+            "lat": 23.1344,
+            "lon": -82.3533
+        },
+        "it": "Old Havana",
+        "it:t": "Cuba | Havana",
+        "es": "La Habana Vieja",
+        "es:t": "Cuba | La Habana",
+        "de": "Old Havana",
+        "de:t": "Kuba | Havana"
+    },
+    {
+        "en": "Palma Soriano",
+        "en:t": "Cuba",
+        "a": true,
+        "g": {
+            "lat": 20.2218,
+            "lon": -75.987
+        },
+        "it": "Palma Soriano",
+        "it:t": "Cuba",
+        "es": "Palma Soriano",
+        "es:t": "Cuba",
+        "de": "Palma Soriano",
+        "de:t": "Kuba"
+    },
+    {
+        "en": "Palmira",
+        "en:t": "Cuba",
+        "a": true,
+        "g": {
+            "lat": 22.2455,
+            "lon": -80.3937
+        },
+        "it": "Palmira",
+        "it:t": "Cuba",
+        "es": "Palmira",
+        "es:t": "Cuba",
+        "de": "Palmira",
+        "de:t": "Kuba"
+    },
+    {
+        "en": "Pedro Betancourt",
+        "en:t": "Cuba",
+        "a": true,
+        "g": {
+            "lat": 22.7292,
+            "lon": -81.2918
+        },
+        "it": "Pedro Betancourt",
+        "it:t": "Cuba",
+        "es": "Pedro Betancourt",
+        "es:t": "Cuba",
+        "de": "Pedro Betancourt",
+        "de:t": "Kuba"
+    },
+    {
+        "en": "Perico",
+        "en:t": "Cuba",
+        "a": true,
+        "g": {
+            "lat": 22.7687,
+            "lon": -81.0175
+        },
+        "it": "Perico",
+        "it:t": "Cuba",
+        "es": "Perico",
+        "es:t": "Cuba",
+        "de": "Perico",
+        "de:t": "Kuba"
+    },
+    {
+        "en": "Pinar del Rio",
+        "en:t": "Cuba",
+        "a": true,
+        "g": {
+            "lat": 22.4076,
+            "lon": -83.8473
+        },
+        "it": "Pinar del R\u00edo",
+        "it:t": "Cuba",
+        "es": "Pinar del R\u00edo",
+        "es:t": "Cuba",
+        "de": "Pinar del R\u00edo",
+        "de:t": "Kuba"
+    },
+    {
+        "en": "Placetas",
+        "en:t": "Cuba",
+        "a": true,
+        "g": {
+            "lat": 22.3179,
+            "lon": -79.6558
+        },
+        "it": "Placetas",
+        "it:t": "Cuba",
+        "es": "Placetas",
+        "es:t": "Cuba",
+        "de": "Placetas",
+        "de:t": "Kuba"
+    },
+    {
+        "en": "Primero de Enero",
+        "en:t": "Cuba",
+        "a": true,
+        "g": {
+            "lat": 21.9441,
+            "lon": -78.4326
+        },
+        "it": "Primero de Enero",
+        "it:t": "Cuba",
+        "es": "Violeta",
+        "es:t": "Cuba",
+        "de": "Primero de Enero",
+        "de:t": "Kuba"
+    },
+    {
+        "en": "Puerto Padre",
+        "en:t": "Cuba",
+        "a": true,
+        "g": {
+            "lat": 21.1879,
+            "lon": -76.6066
+        },
+        "it": "Puerto Padre",
+        "it:t": "Cuba",
+        "es": "Puerto Padre",
+        "es:t": "Cuba",
+        "de": "Puerto Padre",
+        "de:t": "Kuba"
+    },
+    {
+        "en": "Punta de Maisi",
+        "en:t": "Cuba | Maisi",
+        "a": true,
+        "g": {
+            "lat": 20.2258,
+            "lon": -74.1534
+        },
+        "it": "Mais\u00ed",
+        "it:t": "Cuba | Maisi",
+        "es": "Punta de Mais\u00ed",
+        "es:t": "Cuba | Mais\u00ed",
+        "de": "Mais\u00ed",
+        "de:t": "Kuba | Maisi"
+    },
+    {
+        "en": "Ranchuelo",
+        "en:t": "Cuba",
+        "a": true,
+        "g": {
+            "lat": 22.3723,
+            "lon": -80.1484
+        },
+        "it": "Ranchuelo",
+        "it:t": "Cuba",
+        "es": "Ranchuelo",
+        "es:t": "Cuba",
+        "de": "Ranchuelo",
+        "de:t": "Kuba"
+    },
+    {
+        "en": "Regla",
+        "en:t": "Cuba | Havana",
+        "a": true,
+        "g": {
+            "lat": 23.1271,
+            "lon": -82.3262
+        },
+        "it": "Regla",
+        "it:t": "Cuba | L'Avana",
+        "es": "Regla",
+        "es:t": "Cuba | La Habana",
+        "de": "Regla",
+        "de:t": "Kuba | Havanna"
+    },
+    {
+        "en": "Remedios",
+        "en:t": "Cuba",
+        "a": true,
+        "g": {
+            "lat": 22.4963,
+            "lon": -79.5463
+        },
+        "it": "Remedios",
+        "it:t": "Cuba",
+        "es": "Remedios",
+        "es:t": "Cuba",
+        "de": "Remedios",
+        "de:t": "Kuba"
+    },
+    {
+        "en": "Rio Cauto",
+        "en:t": "Cuba",
+        "a": true,
+        "g": {
+            "lat": 20.56,
+            "lon": -76.9096
+        },
+        "it": "R\u00edo Cauto",
+        "it:t": "Cuba",
+        "es": "R\u00edo Cauto",
+        "es:t": "Cuba",
+        "de": "R\u00edo Cauto",
+        "de:t": "Kuba"
+    },
+    {
+        "en": "Rodas",
+        "en:t": "Cuba",
+        "a": true,
+        "g": {
+            "lat": 22.3408,
+            "lon": -80.5577
+        },
+        "it": "Rodas",
+        "it:t": "Cuba",
+        "es": "Rodas",
+        "es:t": "Cuba",
+        "de": "Rodas",
+        "de:t": "Kuba"
+    },
+    {
+        "en": "Sagua La Grande",
+        "en:t": "Cuba",
+        "a": true,
+        "g": {
+            "lat": 22.8038,
+            "lon": -80.0703
+        },
+        "it": "Sagua la Grande",
+        "it:t": "Cuba",
+        "es": "Sagua La Gran",
+        "es:t": "Cuba",
+        "de": "Sagua la Grande",
+        "de:t": "Kuba"
+    },
+    {
+        "en": "Sagua de Tanamo",
+        "en:t": "Cuba",
+        "a": true,
+        "g": {
+            "lat": 20.58,
+            "lon": -75.2435
+        },
+        "it": "Sagua de T\u00e1namo",
+        "it:t": "Cuba",
+        "es": "Sagua de T\u00e1namo",
+        "es:t": "Cuba",
+        "de": "Sagua de Tanamo",
+        "de:t": "Kuba"
+    },
+    {
+        "en": "San Antonio de los Banos",
+        "en:t": "Cuba",
+        "a": true,
+        "g": {
+            "lat": 22.893,
+            "lon": -82.5051
+        },
+        "it": "San Antonio de los Ba\u00f1os",
+        "it:t": "Cuba",
+        "es": "San Antonio de los Ba\u00f1os",
+        "es:t": "Cuba",
+        "de": "San Antonio de los Ba\u00f1os",
+        "de:t": "Kuba"
+    },
+    {
+        "en": "San Cristobal",
+        "en:t": "Cuba",
+        "a": true,
+        "g": {
+            "lat": 22.7129,
+            "lon": -83.0415
+        },
+        "it": "San Crist\u00f3bal",
+        "it:t": "Cuba",
+        "es": "San Crist\u00f3bal",
+        "es:t": "Cuba",
+        "de": "San Crist\u00f3bal",
+        "de:t": "Kuba"
+    },
+    {
+        "en": "San German",
+        "en:t": "Cuba | Urbano Noris",
+        "a": true,
+        "g": {
+            "lat": 20.6071,
+            "lon": -76.1378
+        },
+        "it": "San German",
+        "it:t": "Cuba | Urbano Noris",
+        "es": "San Germ\u00e1n",
+        "es:t": "Cuba | Urbano Noris",
+        "de": "San German",
+        "de:t": "Kuba | Urbano Noris"
+    },
+    {
+        "en": "San Jose de las Lajas",
+        "en:t": "Cuba",
+        "a": true,
+        "g": {
+            "lat": 22.9647,
+            "lon": -82.1523
+        },
+        "it": "San Jos\u00e9 de las Lajas",
+        "it:t": "Cuba",
+        "es": "San Jos\u00e9 de las Lajas",
+        "es:t": "Cuba",
+        "de": "San Jos\u00e9 de las Lajas",
+        "de:t": "Kuba"
+    },
+    {
+        "en": "San Luis",
+        "en:t": "Cuba",
+        "a": true,
+        "g": {
+            "lat": 20.1872,
+            "lon": -75.8476
+        },
+        "it": "San Luis",
+        "it:t": "Cuba",
+        "es": "San Luis",
+        "es:t": "Cuba",
+        "de": "San Luis",
+        "de:t": "Kuba"
+    },
+    {
+        "en": "San Miguel del Padron",
+        "en:t": "Cuba | Havana",
+        "a": true,
+        "g": {
+            "lat": 23.0818,
+            "lon": -82.3072
+        },
+        "it": "San Miguel del Padr\u00f3n",
+        "it:t": "Cuba | L'Avana",
+        "es": "San Miguel del Padr\u00f3n",
+        "es:t": "Cuba | La Habana",
+        "de": "San Miguel del Padr\u00f3n",
+        "de:t": "Kuba | Havanna"
+    },
+    {
+        "en": "Sancti Spiritus",
+        "en:t": "Cuba",
+        "a": true,
+        "g": {
+            "lat": 21.9328,
+            "lon": -79.4366
+        },
+        "it": "Sancti Sp\u00edritus",
+        "it:t": "Cuba",
+        "es": "Sancti Sp\u00edritus",
+        "es:t": "Cuba",
+        "de": "Sancti Sp\u00edritus",
+        "de:t": "Kuba"
+    },
+    {
+        "en": "Santa Clara",
+        "en:t": "Cuba",
+        "a": true,
+        "g": {
+            "lat": 22.4244,
+            "lon": -79.9417
+        },
+        "it": "Santa Clara",
+        "it:t": "Cuba",
+        "es": "Santa Clara",
+        "es:t": "Cuba",
+        "de": "Santa Clara",
+        "de:t": "Kuba"
+    },
+    {
+        "en": "Santa Cruz del Norte",
+        "en:t": "Cuba",
+        "a": true,
+        "g": {
+            "lat": 23.1543,
+            "lon": -81.9235
+        },
+        "it": "Santa Cruz del Norte",
+        "it:t": "Cuba",
+        "es": "Santa Cruz Del Norte",
+        "es:t": "Cuba",
+        "de": "Santa Cruz del Norte",
+        "de:t": "Kuba"
+    },
+    {
+        "en": "Santa Cruz del Sur",
+        "en:t": "Cuba",
+        "a": true,
+        "g": {
+            "lat": 20.7157,
+            "lon": -77.9938
+        },
+        "it": "Santa Cruz del Sur",
+        "it:t": "Cuba",
+        "es": "Santa Cruz del Sur",
+        "es:t": "Cuba",
+        "de": "Santa Cruz del Sur",
+        "de:t": "Kuba"
+    },
+    {
+        "en": "Santiago de Cuba",
+        "en:t": "Cuba",
+        "a": true,
+        "g": {
+            "lat": 20.0169,
+            "lon": -75.8302
+        },
+        "it": "Santiago di Cuba",
+        "it:t": "Cuba",
+        "es": "Santiago de Cuba",
+        "es:t": "Cuba",
+        "de": "Santiago de Cuba",
+        "de:t": "Kuba"
+    },
+    {
+        "en": "Santiago de Las Vegas",
+        "en:t": "Cuba | Havana",
+        "a": true,
+        "g": {
+            "lat": 22.9702,
+            "lon": -82.3859
+        },
+        "it": "Santiago de las Vegas",
+        "it:t": "Cuba | L'Avana",
+        "es": "Santiago de Las Vegas",
+        "es:t": "Cuba | La Habana",
+        "de": "Santiago de Las Vegas",
+        "de:t": "Kuba | Havana"
+    },
+    {
+        "en": "Santo Domingo",
+        "en:t": "Cuba",
+        "a": true,
+        "g": {
+            "lat": 22.579,
+            "lon": -80.2489
+        },
+        "it": "Santo Domingo",
+        "it:t": "Cuba",
+        "es": "Santo Domingo",
+        "es:t": "Cuba",
+        "de": "Santo Domingo",
+        "de:t": "Kuba"
+    },
+    {
+        "en": "Sibanic\u00fa",
+        "en:t": "Cuba | Sibanicu",
+        "a": true,
+        "g": {
+            "lat": 21.2385,
+            "lon": -77.5247
+        },
+        "it": "Sibanic\u00fa",
+        "it:t": "Cuba | Sibanicu",
+        "es": "Sibanicu",
+        "es:t": "Cuba | Sibanic\u00fa",
+        "de": "Sibanic\u00fa",
+        "de:t": "Kuba | Sibanicu"
+    },
+    {
+        "en": "Trinidad",
+        "en:t": "Cuba",
+        "a": true,
+        "g": {
+            "lat": 21.796,
+            "lon": -79.9808
+        },
+        "it": "Trinidad",
+        "it:t": "Cuba",
+        "es": "Trinidad",
+        "es:t": "Cuba",
+        "de": "Trinidad",
+        "de:t": "Kuba"
+    },
+    {
+        "en": "Union de Reyes",
+        "en:t": "Cuba",
+        "a": true,
+        "g": {
+            "lat": 22.797,
+            "lon": -81.535
+        },
+        "it": "Uni\u00f3n de Reyes",
+        "it:t": "Cuba",
+        "es": "Uni\u00f3n de Reyes",
+        "es:t": "Cuba",
+        "de": "Uni\u00f3n de Reyes",
+        "de:t": "Kuba"
+    },
+    {
+        "en": "Varadero",
+        "en:t": "Cuba",
+        "a": true,
+        "g": {
+            "lat": 23.1799,
+            "lon": -81.1885
+        },
+        "it": "Varadero",
+        "it:t": "Cuba",
+        "es": "Varadero",
+        "es:t": "Cuba",
+        "de": "Varadero",
+        "de:t": "Kuba"
+    },
+    {
+        "en": "Venezuela",
+        "en:t": "Cuba",
+        "a": true,
+        "g": {
+            "lat": 21.7425,
+            "lon": -78.7873
+        },
+        "it": "Venezuela",
+        "it:t": "Cuba",
+        "es": "Venezuela",
+        "es:t": "Cuba",
+        "de": "Venezuela",
+        "de:t": "Kuba"
+    },
+    {
+        "en": "Vertientes",
+        "en:t": "Cuba",
+        "a": true,
+        "g": {
+            "lat": 21.2636,
+            "lon": -78.1507
+        },
+        "it": "Vertientes",
+        "it:t": "Cuba",
+        "es": "Vertientes",
+        "es:t": "Cuba",
+        "de": "Vertientes",
+        "de:t": "Kuba"
+    },
+    {
+        "en": "Vinales",
+        "en:t": "Cuba",
+        "a": true,
+        "g": {
+            "lat": 22.6188,
+            "lon": -83.7066
+        },
+        "it": "Vi\u00f1ales",
+        "it:t": "Cuba",
+        "es": "Vi\u00f1ales",
+        "es:t": "Cuba",
+        "de": "Vi\u00f1ales",
+        "de:t": "Kuba"
+    },
+    {
+        "en": "Yaguajay",
+        "en:t": "Cuba",
+        "a": true,
+        "g": {
+            "lat": 22.3287,
+            "lon": -79.2367
+        },
+        "it": "Yaguajay",
+        "it:t": "Cuba",
+        "es": "Yaguajay",
+        "es:t": "Cuba",
+        "de": "Yaguajay",
+        "de:t": "Kuba"
+    },
+    {
+        "en": "Yara",
+        "en:t": "Cuba | Granma",
+        "a": true,
+        "g": {
+            "lat": 20.3841,
+            "lon": -76.9413
+        },
+        "it": "Yara",
+        "it:t": "Cuba | Granma",
+        "es": "Yara",
+        "es:t": "Cuba | Granma",
+        "de": "Yara",
+        "de:t": "Kuba | Granma"
+    },
+    {
+        "en": "Yateras",
+        "en:t": "Cuba | Guantanamo",
+        "a": true,
+        "g": {
+            "lat": 20.3819,
+            "lon": -74.9209
+        },
+        "it": "Yateras",
+        "it:t": "Cuba | Guant\u00e1namo",
+        "es": "Yateras",
+        "es:t": "Cuba | Guant\u00e1namo",
+        "de": "Yateras",
+        "de:t": "Cuba | Guantanamo",
+    }
+]

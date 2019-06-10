@@ -1,0 +1,17 @@
+[
+    {
+        "en": "George Town",
+        "en:t": "Cayman Islands",
+        "a": true,
+        "g": {
+            "lat": 19.2869,
+            "lon": -81.3674
+        },
+        "it": "George Town",
+        "it:t": "Isole Cayman",
+        "es": "George Town",
+        "es:t": "Islas Caim\u00e1n",
+        "de": "George Town",
+        "de:t": "Kaimaninseln"
+    }
+]

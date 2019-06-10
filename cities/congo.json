@@ -1,0 +1,977 @@
+[
+    {
+        "en": "Aketi",
+        "en:t": "Democratic Republic of the Congo | Bas-Uele",
+        "a": true,
+        "g": {
+            "lat": 2.7389,
+            "lon": 23.7811
+        },
+        "it": "Aketi",
+        "it:t": "Repubblica Democratica del Congo | Basso Uele",
+        "es": "Aketi",
+        "es:t": "Rep\u00fablica Democr\u00e1tica del Congo | Bas-Uele",
+        "de": "Aketi",
+        "de:t": "Demokratische Republik Kongo | Bas-Uele"
+    },
+    {
+        "en": "Bandundu",
+        "en:t": "Democratic Republic of the Congo | Kwilu",
+        "a": true,
+        "g": {
+            "lat": -3.3168,
+            "lon": 17.379
+        },
+        "it": "Bandundu",
+        "it:t": "Repubblica Democratica del Congo | Kwilu",
+        "es": "Bandundu",
+        "es:t": "Rep\u00fablica Democr\u00e1tica del Congo | Kwilu",
+        "de": "Bandundu",
+        "de:t": "Demokratische Republik Kongo | Kwilu"
+    },
+    {
+        "en": "Basoko",
+        "en:t": "Democratic Republic of the Congo | Tshopo",
+        "a": true,
+        "g": {
+            "lat": 1.2408,
+            "lon": 23.6115
+        },
+        "it": "Basoko",
+        "it:t": "Repubblica Democratica del Congo | Tshopo",
+        "es": "Basoko",
+        "es:t": "Rep\u00fablica Democr\u00e1tica del Congo | Tshopo",
+        "de": "Basoko",
+        "de:t": "Demokratische Republik Kongo | Tshopo"
+    },
+    {
+        "en": "Beni",
+        "en:t": "Democratic Republic of the Congo | North-Kivu",
+        "a": true,
+        "g": {
+            "lat": 0.499,
+            "lon": 29.4528
+        },
+        "it": "Beni",
+        "it:t": "Repubblica Democratica del Congo | North-Kivu",
+        "es": "Beni",
+        "es:t": "Rep\u00fablica Democr\u00e1tica del Congo | Kivu Norte",
+        "de": "Beni",
+        "de:t": "Demokratische Republik Kongo | North-Kivu"
+    },
+    {
+        "en": "Boende",
+        "en:t": "Democratic Republic of the Congo | Tshuapa",
+        "a": true,
+        "g": {
+            "lat": -0.2843,
+            "lon": 20.8851
+        },
+        "it": "Boende",
+        "it:t": "Repubblica Democratica del Congo | Tshuapa",
+        "es": "Boende",
+        "es:t": "Rep\u00fablica Democr\u00e1tica del Congo | Tshuapa",
+        "de": "Boende",
+        "de:t": "Demokratische Republik Kongo | Tshuapa"
+    },
+    {
+        "en": "Bolobo",
+        "en:t": "Democratic Republic of the Congo | Bandundu",
+        "a": true,
+        "g": {
+            "lat": -2.1587,
+            "lon": 16.2346
+        },
+        "it": "Bolobo",
+        "it:t": "Repubblica Democratica del Congo | Bandundu",
+        "es": "Bolobo",
+        "es:t": "Rep\u00fablica Democr\u00e1tica del Congo | Bandundu",
+        "de": "Bolobo",
+        "de:t": "Demokratische Republik Kongo | Bandundu"
+    },
+    {
+        "en": "Bondo",
+        "en:t": "Democratic Republic of the Congo | Bas-Uele",
+        "a": true,
+        "g": {
+            "lat": 3.8165,
+            "lon": 23.6978
+        },
+        "it": "Bondo",
+        "it:t": "Repubblica Democratica del Congo | Basso Uele",
+        "es": "Bondo",
+        "es:t": "Rep\u00fablica Democr\u00e1tica del Congo | Bas-Uele",
+        "de": "Bondo",
+        "de:t": "Demokratische Republik Kongo | Bas-Uele"
+    },
+    {
+        "en": "Bukavu",
+        "en:t": "Democratic Republic of the Congo | South-Kivu",
+        "a": true,
+        "g": {
+            "lat": -2.5123,
+            "lon": 28.848
+        },
+        "it": "Bukavu",
+        "it:t": "Repubblica Democratica del Congo | Kivu Sud",
+        "es": "Bukavu",
+        "es:t": "Rep\u00fablica Democr\u00e1tica del Congo | Kivu Sur",
+        "de": "Bukavu",
+        "de:t": "Demokratische Republik Kongo | Sud-Kivu"
+    },
+    {
+        "en": "Bulungu",
+        "en:t": "Democratic Republic of the Congo | Kwilu",
+        "a": true,
+        "g": {
+            "lat": -4.5457,
+            "lon": 18.5997
+        },
+        "it": "Bulungu",
+        "it:t": "Repubblica Democratica del Congo | Kwilu",
+        "es": "Bulungu",
+        "es:t": "Rep\u00fablica Democr\u00e1tica del Congo | Kwilu",
+        "de": "Bulungu",
+        "de:t": "Demokratische Republik Kongo | Kwilu"
+    },
+    {
+        "en": "Bumba",
+        "en:t": "Democratic Republic of the Congo | Mongala",
+        "a": true,
+        "g": {
+            "lat": 2.1962,
+            "lon": 22.4709
+        },
+        "it": "Bumba",
+        "it:t": "Repubblica Democratica del Congo | Mongala",
+        "es": "Bumba",
+        "es:t": "Rep\u00fablica Democr\u00e1tica del Congo | Mongala",
+        "de": "Bumba",
+        "de:t": "Demokratische Republik Kongo | Mongala"
+    },
+    {
+        "en": "Bunia",
+        "en:t": "Democratic Republic of the Congo | Ituri",
+        "a": true,
+        "g": {
+            "lat": 1.5743,
+            "lon": 30.2397
+        },
+        "it": "Bunia",
+        "it:t": "Repubblica Democratica del Congo | Ituri",
+        "es": "Bunia",
+        "es:t": "Rep\u00fablica Democr\u00e1tica del Congo | Ituri",
+        "de": "Bunia",
+        "de:t": "Demokratische Republik Kongo | Ituri"
+    },
+    {
+        "en": "Businga",
+        "en:t": "Democratic Republic of the Congo | Nord-Ubangi",
+        "a": true,
+        "g": {
+            "lat": 3.3421,
+            "lon": 20.8732
+        },
+        "it": "Businga",
+        "it:t": "Repubblica Democratica del Congo | Nord-Ubangi",
+        "es": "Businga",
+        "es:t": "Rep\u00fablica Democr\u00e1tica del Congo | Nord-Ubangi",
+        "de": "Businga",
+        "de:t": "Demokratische Republik Kongo | Nord-Ubangi"
+    },
+    {
+        "en": "Buta",
+        "en:t": "Democratic Republic of the Congo | Bas-Uele",
+        "a": true,
+        "g": {
+            "lat": 2.8045,
+            "lon": 24.7499
+        },
+        "it": "Buta",
+        "it:t": "Repubblica Democratica del Congo | Basso Uele",
+        "es": "Territorio de Buta",
+        "es:t": "Rep\u00fablica Democr\u00e1tica del Congo | Bajo Uele",
+        "de": "Buta",
+        "de:t": "Demokratische Republik Kongo | Bas-Uele"
+    },
+    {
+        "en": "Butembo",
+        "en:t": "Democratic Republic of the Congo | North-Kivu",
+        "a": true,
+        "g": {
+            "lat": 0.114,
+            "lon": 29.3018
+        },
+        "it": "Butembo",
+        "it:t": "Repubblica Democratica del Congo | Kivu Nord",
+        "es": "Butembo",
+        "es:t": "Rep\u00fablica Democr\u00e1tica del Congo | Kivu Norte",
+        "de": "Butembo",
+        "de:t": "Demokratische Republik Kongo | Nord-Kivu"
+    },
+    {
+        "en": "Demba",
+        "en:t": "Democratic Republic of the Congo | Lulua",
+        "a": true,
+        "g": {
+            "lat": -5.4907,
+            "lon": 22.2742
+        },
+        "it": "Demba",
+        "it:t": "Repubblica Democratica del Congo | Lulua",
+        "es": "Demba",
+        "es:t": "Rep\u00fablica Democr\u00e1tica del Congo | Lulua",
+        "de": "Demba",
+        "de:t": "Demokratische Republik Kongo | Lulua"
+    },
+    {
+        "en": "Gandajika",
+        "en:t": "Democratic Republic of the Congo | Lomami",
+        "a": true,
+        "g": {
+            "lat": -6.7397,
+            "lon": 23.9477
+        },
+        "it": "Gandajika",
+        "it:t": "Repubblica Democratica del Congo | Lomami",
+        "es": "Gandajika",
+        "es:t": "Rep\u00fablica Democr\u00e1tica del Congo | Lomami",
+        "de": "Gandajika",
+        "de:t": "Demokratische Republik Kongo | Lomami"
+    },
+    {
+        "en": "Gbadolite",
+        "en:t": "Democratic Republic of the Congo | Nord-Ubangi",
+        "a": true,
+        "g": {
+            "lat": 4.2892,
+            "lon": 21.0103
+        },
+        "it": "Gbadolite",
+        "it:t": "Repubblica Democratica del Congo | Nord Ubangi",
+        "es": "Gbadolite",
+        "es:t": "Rep\u00fablica Democr\u00e1tica del Congo | Ubangi del Norte",
+        "de": "Gbadolite",
+        "de:t": "Demokratische Republik Kongo | Nord-Ubangi"
+    },
+    {
+        "en": "Gemena",
+        "en:t": "Democratic Republic of the Congo | Sud-Ubangi",
+        "a": true,
+        "g": {
+            "lat": 3.2516,
+            "lon": 19.777
+        },
+        "it": "Gemena",
+        "it:t": "Repubblica Democratica del Congo | Sud Ubangi",
+        "es": "Gemena",
+        "es:t": "Rep\u00fablica Democr\u00e1tica del Congo | Ubangi del Sur",
+        "de": "Gemena",
+        "de:t": "Demokratische Republik Kongo | S\u00fcd-Ubangi"
+    },
+    {
+        "en": "Goma",
+        "en:t": "Democratic Republic of the Congo | North-Kivu",
+        "a": true,
+        "g": {
+            "lat": -1.6585,
+            "lon": 29.2205
+        },
+        "it": "Goma",
+        "it:t": "Repubblica Democratica del Congo | Kivu Nord",
+        "es": "Goma",
+        "es:t": "Rep\u00fablica Democr\u00e1tica del Congo | Kivu Norte",
+        "de": "Goma",
+        "de:t": "Demokratische Republik Kongo | Nord-Kivu"
+    },
+    {
+        "en": "Ilebo",
+        "en:t": "Democratic Republic of the Congo | Kasai",
+        "a": true,
+        "g": {
+            "lat": -4.3254,
+            "lon": 20.5871
+        },
+        "it": "Ilebo",
+        "it:t": "Repubblica Democratica del Congo | Kasai",
+        "es": "Ilebo",
+        "es:t": "Rep\u00fablica Democr\u00e1tica del Congo | Kasa\u00ef",
+        "de": "Ilebo",
+        "de:t": "Demokratische Republik Kongo | Kasai"
+    },
+    {
+        "en": "Inongo",
+        "en:t": "Democratic Republic of the Congo | Mai-Ndombe",
+        "a": true,
+        "g": {
+            "lat": -1.9296,
+            "lon": 18.2911
+        },
+        "it": "Inongo",
+        "it:t": "Repubblica Democratica del Congo | Mai-Ndombe",
+        "es": "Inongo",
+        "es:t": "Rep\u00fablica Democr\u00e1tica del Congo | Mai-Ndombe",
+        "de": "Inongo",
+        "de:t": "Demokratische Republik Kongo | Mai-Ndombe"
+    },
+    {
+        "en": "Isiro",
+        "en:t": "Democratic Republic of the Congo | Haut-Uele",
+        "a": true,
+        "g": {
+            "lat": 2.7722,
+            "lon": 27.6083
+        },
+        "it": "Isiro",
+        "it:t": "Repubblica Democratica del Congo | Haut-U\u00e9l\u00e9",
+        "es": "Isiro",
+        "es:t": "Rep\u00fablica Democr\u00e1tica del Congo | Alto Uele",
+        "de": "Isiro",
+        "de:t": "Demokratische Republik Kongo | Haut-Uele"
+    },
+    {
+        "en": "Kabalo",
+        "en:t": "Democratic Republic of the Congo | Tanganyika",
+        "a": true,
+        "g": {
+            "lat": -6.033,
+            "lon": 26.9264
+        },
+        "it": "Kabalo",
+        "it:t": "Repubblica Democratica del Congo | Tanganyika",
+        "es": "Kabalo",
+        "es:t": "Rep\u00fablica Democr\u00e1tica del Congo | Tanganyika",
+        "de": "Kabalo",
+        "de:t": "Demokratische Republik Kongo | Tanganyika"
+    },
+    {
+        "en": "Kabare",
+        "en:t": "Democratic Republic of the Congo | South-Kivu",
+        "a": true,
+        "g": {
+            "lat": -2.466,
+            "lon": 28.8172
+        },
+        "it": "Kabare",
+        "it:t": "Repubblica Democratica del Congo | South-Kivu",
+        "es": "Kabare",
+        "es:t": "Rep\u00fablica Democr\u00e1tica del Congo | South-Kivu",
+        "de": "Kabare",
+        "de:t": "Demokratische Republik Kongo | South-Kivu"
+    },
+    {
+        "en": "Kabinda",
+        "en:t": "Democratic Republic of the Congo | Lomami",
+        "a": true,
+        "g": {
+            "lat": -6.1374,
+            "lon": 24.4886
+        },
+        "it": "Kabinda",
+        "it:t": "Repubblica Democratica del Congo | Lomami",
+        "es": "Kabinda",
+        "es:t": "Rep\u00fablica Democr\u00e1tica del Congo | Lomami",
+        "de": "Kabinda",
+        "de:t": "Demokratische Republik Kongo | Lomami"
+    },
+    {
+        "en": "Kalemie",
+        "en:t": "Democratic Republic of the Congo | Tanganyika",
+        "a": true,
+        "g": {
+            "lat": -5.9127,
+            "lon": 29.1914
+        },
+        "it": "Kalemie",
+        "it:t": "Repubblica Democratica del Congo | Tanganyika",
+        "es": "Kalemie",
+        "es:t": "Rep\u00fablica Democr\u00e1tica del Congo | Tanganyika",
+        "de": "Kalemie",
+        "de:t": "Demokratische Republik Kongo | Tanganjika"
+    },
+    {
+        "en": "Kambove",
+        "en:t": "Democratic Republic of the Congo | Kolwezi",
+        "a": true,
+        "g": {
+            "lat": -10.8779,
+            "lon": 26.5964
+        },
+        "it": "Kambove",
+        "it:t": "Repubblica Democratica del Congo | Kolwezi",
+        "es": "Kambove",
+        "es:t": "Rep\u00fablica Democr\u00e1tica del Congo | Kolwezi",
+        "de": "Kambove",
+        "de:t": "Demokratische Republik Kongo | Kolwezi"
+    },
+    {
+        "en": "Kamina",
+        "en:t": "Democratic Republic of the Congo | Haut-Lomami",
+        "a": true,
+        "g": {
+            "lat": -8.7369,
+            "lon": 24.9873
+        },
+        "it": "Kamina",
+        "it:t": "Repubblica Democratica del Congo | Alto Lomami",
+        "es": "Kamina",
+        "es:t": "Rep\u00fablica Democr\u00e1tica del Congo | Alto Lomami",
+        "de": "Kamina",
+        "de:t": "Demokratische Republik Kongo | Ober-Lomami"
+    },
+    {
+        "en": "Kampene",
+        "en:t": "Democratic Republic of the Congo | Maniema",
+        "a": true,
+        "g": {
+            "lat": -3.5944,
+            "lon": 26.6701
+        },
+        "it": "Kampene",
+        "it:t": "Repubblica Democratica del Congo | Maniema",
+        "es": "Kampene",
+        "es:t": "Rep\u00fablica Democr\u00e1tica del Congo | Maniema",
+        "de": "Kampene",
+        "de:t": "Demokratische Republik Kongo | Maniema"
+    },
+    {
+        "en": "Kananga",
+        "en:t": "Democratic Republic of the Congo | Lulua",
+        "a": true,
+        "g": {
+            "lat": -5.8975,
+            "lon": 22.4172
+        },
+        "it": "Kananga",
+        "it:t": "Repubblica Democratica del Congo | Kasai Centrale",
+        "es": "Kananga",
+        "es:t": "Rep\u00fablica Democr\u00e1tica del Congo | Lulua",
+        "de": "Kananga",
+        "de:t": "Demokratische Republik Kongo | Lulua"
+    },
+    {
+        "en": "Kasangulu",
+        "en:t": "Democratic Republic of the Congo | Lukaya",
+        "a": true,
+        "g": {
+            "lat": -4.5888,
+            "lon": 15.1668
+        },
+        "it": "Kasangulu",
+        "it:t": "Repubblica Democratica del Congo | Lukaya",
+        "es": "Kasangulu",
+        "es:t": "Rep\u00fablica Democr\u00e1tica del Congo | Lukaya",
+        "de": "Kasangulu",
+        "de:t": "Demokratische Republik Kongo | Lukaya"
+    },
+    {
+        "en": "Kasongo",
+        "en:t": "Democratic Republic of the Congo | Maniema",
+        "a": true,
+        "g": {
+            "lat": -4.4238,
+            "lon": 26.6701
+        },
+        "it": "Kasongo",
+        "it:t": "Repubblica Democratica del Congo | Maniema",
+        "es": "Kasongo",
+        "es:t": "Rep\u00fablica Democr\u00e1tica del Congo | Maniema",
+        "de": "Kasongo",
+        "de:t": "Demokratische Republik Kongo | Maniema"
+    },
+    {
+        "en": "Kasongo-Lunda",
+        "en:t": "Democratic Republic of the Congo | Kwango",
+        "a": true,
+        "g": {
+            "lat": -6.4788,
+            "lon": 16.8119
+        },
+        "it": "Kasongo-Lunda",
+        "it:t": "Repubblica Democratica del Congo | Kwango",
+        "es": "Kasongo-Lunda",
+        "es:t": "Rep\u00fablica Democr\u00e1tica del Congo | Kwango",
+        "de": "Kasongo-Lunda",
+        "de:t": "Demokratische Republik Kongo | Kwango"
+    },
+    {
+        "en": "Kikwit",
+        "en:t": "Democratic Republic of the Congo | Kwilu",
+        "a": true,
+        "g": {
+            "lat": -5.0487,
+            "lon": 18.7839
+        },
+        "it": "Kikwit",
+        "it:t": "Repubblica Democratica del Congo | Kwilu",
+        "es": "Kikwit",
+        "es:t": "Rep\u00fablica Democr\u00e1tica del Congo | Kwilu",
+        "de": "Kikwit",
+        "de:t": "Demokratische Republik Kongo | Kwilu"
+    },
+    {
+        "en": "Kindu",
+        "en:t": "Democratic Republic of the Congo | Maniema",
+        "a": true,
+        "g": {
+            "lat": -2.9492,
+            "lon": 25.9231
+        },
+        "it": "Kindu",
+        "it:t": "Repubblica Democratica del Congo | Maniema",
+        "es": "Kindu",
+        "es:t": "Rep\u00fablica Democr\u00e1tica del Congo | Maniema",
+        "de": "Kindu",
+        "de:t": "Demokratische Republik Kongo | Maniema"
+    },
+    {
+        "en": "Kinshasa",
+        "en:t": "Democratic Republic of the Congo | Lukunga",
+        "a": true,
+        "g": {
+            "lat": -4.4419,
+            "lon": 15.2663
+        },
+        "it": "Kinshasa",
+        "it:t": "Repubblica Democratica del Congo | Lukunga",
+        "es": "Kinsasa",
+        "es:t": "Rep\u00fablica Democr\u00e1tica del Congo | Lukunga",
+        "de": "Kinshasa",
+        "de:t": "Demokratische Republik Kongo | Lukunga"
+    },
+    {
+        "en": "Kipushi",
+        "en:t": "Democratic Republic of the Congo | Haut-Katanga",
+        "a": true,
+        "g": {
+            "lat": -11.7602,
+            "lon": 27.25
+        },
+        "it": "Kipushi",
+        "it:t": "Repubblica Democratica del Congo | Alto Katanga",
+        "es": "Kipushi",
+        "es:t": "Rep\u00fablica Democr\u00e1tica del Congo | Haut-Katanga",
+        "de": "Kipushi",
+        "de:t": "Demokratische Republik Kongo | Ober-Katanga"
+    },
+    {
+        "en": "Kisangani",
+        "en:t": "Democratic Republic of the Congo | Tshopo",
+        "a": true,
+        "g": {
+            "lat": 0.5185,
+            "lon": 25.2008
+        },
+        "it": "Kisangani",
+        "it:t": "Repubblica Democratica del Congo | Tshopo",
+        "es": "Kisangani",
+        "es:t": "Rep\u00fablica Democr\u00e1tica del Congo | Tshopo",
+        "de": "Kisangani",
+        "de:t": "Demokratische Republik Kongo | Tshopo"
+    },
+    {
+        "en": "Kolwezi",
+        "en:t": "Democratic Republic of the Congo",
+        "a": true,
+        "g": {
+            "lat": -10.7275,
+            "lon": 25.5089
+        },
+        "it": "Kolwezi",
+        "it:t": "Repubblica Democratica del Congo",
+        "es": "Kolwezi",
+        "es:t": "Rep\u00fablica Democr\u00e1tica del Congo",
+        "de": "Kolwezi",
+        "de:t": "Demokratische Republik Kongo"
+    },
+    {
+        "en": "Kongolo",
+        "en:t": "Democratic Republic of the Congo | Tanganyika",
+        "a": true,
+        "g": {
+            "lat": -5.3875,
+            "lon": 26.9911
+        },
+        "it": "Kongolo",
+        "it:t": "Repubblica Democratica del Congo | Tanganyika",
+        "es": "Kongolo",
+        "es:t": "Rep\u00fablica Democr\u00e1tica del Congo | Tanganyika",
+        "de": "Kongolo",
+        "de:t": "Demokratische Republik Kongo | Tanganyika"
+    },
+    {
+        "en": "Libenge",
+        "en:t": "Democratic Republic of the Congo | Sud-Ubangi",
+        "a": true,
+        "g": {
+            "lat": 3.649,
+            "lon": 18.6354
+        },
+        "it": "Libenge",
+        "it:t": "Repubblica Democratica del Congo | Sud Ubangi",
+        "es": "Libenge",
+        "es:t": "Rep\u00fablica Democr\u00e1tica del Congo | Ubangi del Sur",
+        "de": "Libenge",
+        "de:t": "Demokratische Republik Kongo | Sud-Ubangi"
+    },
+    {
+        "en": "Likasi",
+        "en:t": "Democratic Republic of the Congo | Haut-Katanga",
+        "a": true,
+        "g": {
+            "lat": -10.9884,
+            "lon": 26.7379
+        },
+        "it": "Likasi",
+        "it:t": "Repubblica Democratica del Congo | Alto Katanga",
+        "es": "Likasi",
+        "es:t": "Rep\u00fablica Democr\u00e1tica del Congo | Alto Katanga",
+        "de": "Likasi",
+        "de:t": "Demokratische Republik Kongo | Ober-Katanga"
+    },
+    {
+        "en": "Lisala",
+        "en:t": "Democratic Republic of the Congo | Mongala",
+        "a": true,
+        "g": {
+            "lat": 2.1701,
+            "lon": 21.4872
+        },
+        "it": "Lisala",
+        "it:t": "Repubblica Democratica del Congo | Mongala",
+        "es": "Lisala",
+        "es:t": "Rep\u00fablica Democr\u00e1tica del Congo | Mongala",
+        "de": "Lisala",
+        "de:t": "Demokratische Republik Kongo | Mongala"
+    },
+    {
+        "en": "Lodja",
+        "en:t": "Democratic Republic of the Congo | Sankuru",
+        "a": true,
+        "g": {
+            "lat": -3.5245,
+            "lon": 23.5967
+        },
+        "it": "Lodja",
+        "it:t": "Repubblica Democratica del Congo | Sankuru",
+        "es": "Lodja",
+        "es:t": "Rep\u00fablica Democr\u00e1tica del Congo | Sankuru",
+        "de": "Lodja",
+        "de:t": "Demokratische Republik Kongo | Sankuru"
+    },
+    {
+        "en": "Lubao",
+        "en:t": "Democratic Republic of the Congo | Lomami",
+        "a": true,
+        "g": {
+            "lat": -5.3835,
+            "lon": 25.7457
+        },
+        "it": "Lubao",
+        "it:t": "Repubblica Democratica del Congo | Lomami",
+        "es": "Lubao",
+        "es:t": "Rep\u00fablica Democr\u00e1tica del Congo | Lomami",
+        "de": "Lubao",
+        "de:t": "Demokratische Republik Kongo | Lomami"
+    },
+    {
+        "en": "Lubumbashi",
+        "en:t": "Democratic Republic of the Congo | Haut-Katanga",
+        "a": true,
+        "g": {
+            "lat": -11.6876,
+            "lon": 27.5026
+        },
+        "it": "Lubumbashi",
+        "it:t": "Repubblica Democratica del Congo | Alto Katanga",
+        "es": "Lubumbashi",
+        "es:t": "Rep\u00fablica Democr\u00e1tica del Congo | Alto Katanga",
+        "de": "Lubumbashi",
+        "de:t": "Demokratische Republik Kongo | Ober-Katanga"
+    },
+    {
+        "en": "Luebo",
+        "en:t": "Democratic Republic of the Congo | Kasai",
+        "a": true,
+        "g": {
+            "lat": -5.3512,
+            "lon": 21.4216
+        },
+        "it": "Luebo",
+        "it:t": "Repubblica Democratica del Congo | Kasai",
+        "es": "Luebo",
+        "es:t": "Rep\u00fablica Democr\u00e1tica del Congo | Kasa\u00ef",
+        "de": "Luebo",
+        "de:t": "Demokratische Republik Kongo | Kasa\u00ef"
+    },
+    {
+        "en": "Lusambo",
+        "en:t": "Democratic Republic of the Congo | Sankuru",
+        "a": true,
+        "g": {
+            "lat": -4.9653,
+            "lon": 23.4478
+        },
+        "it": "Lusambo",
+        "it:t": "Repubblica Democratica del Congo | Sankuru",
+        "es": "Lusambo",
+        "es:t": "Rep\u00fablica Democr\u00e1tica del Congo | Sankuru",
+        "de": "Lusambo",
+        "de:t": "Demokratische Republik Kongo | Sankuru"
+    },
+    {
+        "en": "Mangai",
+        "en:t": "Democratic Republic of the Congo | Kwilu",
+        "a": true,
+        "g": {
+            "lat": -4.0617,
+            "lon": 19.5866
+        },
+        "it": "Mangai",
+        "it:t": "Repubblica Democratica del Congo | Kwilu",
+        "es": "Mangai",
+        "es:t": "Rep\u00fablica Democr\u00e1tica del Congo | Kwilu",
+        "de": "Mangai",
+        "de:t": "Demokratische Republik Kongo | Kwilu"
+    },
+    {
+        "en": "Masina",
+        "en:t": "Democratic Republic of the Congo | Kinshasa",
+        "a": true,
+        "g": {
+            "lat": -4.3695,
+            "lon": 15.3951
+        },
+        "it": "Masina",
+        "it:t": "Repubblica Democratica del Congo | Kinshasa",
+        "es": "Masina",
+        "es:t": "Rep\u00fablica Democr\u00e1tica del Congo | Kinshasa",
+        "de": "Masina",
+        "de:t": "Demokratische Republik Kongo | Kinshasa"
+    },
+    {
+        "en": "Matadi",
+        "en:t": "Democratic Republic of the Congo | Cataractes",
+        "a": true,
+        "g": {
+            "lat": -5.8509,
+            "lon": 13.4627
+        },
+        "it": "Matadi",
+        "it:t": "Repubblica Democratica del Congo | Cataractes",
+        "es": "Matadi",
+        "es:t": "Rep\u00fablica Democr\u00e1tica del Congo | Cataractes",
+        "de": "Matadi",
+        "de:t": "Demokratische Republik Kongo | Cataractes"
+    },
+    {
+        "en": "Mbandaka",
+        "en:t": "Democratic Republic of the Congo | Equateur",
+        "a": true,
+        "g": {
+            "lat": 0.0266,
+            "lon": 18.2971
+        },
+        "it": "Mbandaka",
+        "it:t": "Repubblica Democratica del Congo | Equateur",
+        "es": "Mbandaka",
+        "es:t": "Rep\u00fablica Democr\u00e1tica del Congo | Ecuador",
+        "de": "Mbandaka",
+        "de:t": "Demokratische Republik Kongo | \u00c9quateur"
+    },
+    {
+        "en": "Mbanza-Ngungu",
+        "en:t": "Democratic Republic of the Congo | Cataractes",
+        "a": true,
+        "g": {
+            "lat": -5.245,
+            "lon": 14.8571
+        },
+        "it": "Mbanza-Ngungu",
+        "it:t": "Repubblica Democratica del Congo | Cataractes",
+        "es": "Mbanza-Ngungu",
+        "es:t": "Rep\u00fablica Democr\u00e1tica del Congo | Cataractes",
+        "de": "Mbanza-Ngungu",
+        "de:t": "Demokratische Republik Kongo | Cataractes"
+    },
+    {
+        "en": "Mbuji-Mayi",
+        "en:t": "Democratic Republic of the Congo | Tshilenge District",
+        "a": true,
+        "g": {
+            "lat": -6.1307,
+            "lon": 23.5967
+        },
+        "it": "Mbuji-Mayi",
+        "it:t": "Repubblica Democratica del Congo | Kasai Orientale",
+        "es": "Mbuji-Mayi",
+        "es:t": "Rep\u00fablica Democr\u00e1tica del Congo | Kasai Oriental",
+        "de": "Mbuji-Mayi",
+        "de:t": "Demokratische Republik Kongo | Ost-Kasai"
+    },
+    {
+        "en": "Mushie",
+        "en:t": "Democratic Republic of the Congo | Plateaux",
+        "a": true,
+        "g": {
+            "lat": -3.0167,
+            "lon": 16.9182
+        },
+        "it": "Mushie",
+        "it:t": "Repubblica Democratica del Congo | Plateaux",
+        "es": "Mushie",
+        "es:t": "Rep\u00fablica Democr\u00e1tica del Congo | Plateaux",
+        "de": "Mushie",
+        "de:t": "Demokratische Republik Kongo | Plateaux"
+    },
+    {
+        "en": "Mweka",
+        "en:t": "Democratic Republic of the Congo | Kasai",
+        "a": true,
+        "g": {
+            "lat": -4.8531,
+            "lon": 21.5588
+        },
+        "it": "Mweka",
+        "it:t": "Repubblica Democratica del Congo | Kasai",
+        "es": "Mweka",
+        "es:t": "Rep\u00fablica Democr\u00e1tica del Congo | Kasai",
+        "de": "Mweka",
+        "de:t": "Demokratische Republik Kongo | Kasai"
+    },
+    {
+        "en": "Mwene-Ditu",
+        "en:t": "Democratic Republic of the Congo | Lomami",
+        "a": true,
+        "g": {
+            "lat": -7.009,
+            "lon": 23.4538
+        },
+        "it": "Mwene-Ditu",
+        "it:t": "Repubblica Democratica del Congo | Lomami",
+        "es": "Mwene-Ditu",
+        "es:t": "Rep\u00fablica Democr\u00e1tica del Congo | Lomami",
+        "de": "Mwene-Ditu",
+        "de:t": "Demokratische Republik Kongo | Lomami"
+    },
+    {
+        "en": "Nioki",
+        "en:t": "Democratic Republic of the Congo | Mai-Ndombe",
+        "a": true,
+        "g": {
+            "lat": -2.7181,
+            "lon": 17.6866
+        },
+        "it": "Nioki",
+        "it:t": "Repubblica Democratica del Congo | Mai-Ndombe",
+        "es": "Nioki",
+        "es:t": "Rep\u00fablica Democr\u00e1tica del Congo | Mai-Ndombe",
+        "de": "Nioki",
+        "de:t": "Demokratische Republik Kongo | Mai-Ndombe"
+    },
+    {
+        "en": "Sake",
+        "en:t": "Democratic Republic of the Congo | North-Kivu",
+        "a": true,
+        "g": {
+            "lat": -1.5631,
+            "lon": 29.0518
+        },
+        "it": "Sake",
+        "it:t": "Repubblica Democratica del Congo | North-Kivu",
+        "es": "Sake",
+        "es:t": "Rep\u00fablica Democr\u00e1tica del Congo | Kivu Norte",
+        "de": "Sake",
+        "de:t": "Demokratische Republik Kongo | Nord-Kivu"
+    },
+    {
+        "en": "Tshela",
+        "en:t": "Democratic Republic of the Congo | Bas-Fleuve District",
+        "a": true,
+        "g": {
+            "lat": -5.0078,
+            "lon": 12.9608
+        },
+        "it": "Tshela",
+        "it:t": "Repubblica Democratica del Congo | Bas-Fleuve District",
+        "es": "Tshela",
+        "es:t": "Rep\u00fablica Democr\u00e1tica del Congo | Bas-Fleuve District",
+        "de": "Tshela",
+        "de:t": "Demokratische Republik Kongo | Bas-Fleuve District"
+    },
+    {
+        "en": "Tshikapa",
+        "en:t": "Democratic Republic of the Congo | Kasai",
+        "a": true,
+        "g": {
+            "lat": -6.4237,
+            "lon": 20.7957
+        },
+        "it": "Tshikapa",
+        "it:t": "Repubblica Democratica del Congo | Kasai",
+        "es": "Tshikapa",
+        "es:t": "Rep\u00fablica Democr\u00e1tica del Congo | Kasai",
+        "de": "Tshikapa",
+        "de:t": "Demokratische Republik Kongo | Kasa\u00ef"
+    },
+    {
+        "en": "Uvira",
+        "en:t": "Democratic Republic of the Congo | South-Kivu",
+        "a": true,
+        "g": {
+            "lat": -3.3729,
+            "lon": 29.1449
+        },
+        "it": "Uvira",
+        "it:t": "Repubblica Democratica del Congo | Kivu Sud",
+        "es": "Uvira",
+        "es:t": "Rep\u00fablica Democr\u00e1tica del Congo | Kivu Sur",
+        "de": "Uvira",
+        "de:t": "Demokratische Republik Kongo | Sud-Kivu"
+    },
+    {
+        "en": "Watsa",
+        "en:t": "Democratic Republic of the Congo | Haut-Uele",
+        "a": true,
+        "g": {
+            "lat": 3.0331,
+            "lon": 29.5398
+        },
+        "it": "Watsa",
+        "it:t": "Repubblica Democratica del Congo | Haut-U\u00e9l\u00e9",
+        "es": "Watsa",
+        "es:t": "Rep\u00fablica Democr\u00e1tica del Congo | Haut-Uele",
+        "de": "Watsa",
+        "de:t": "Demokratische Republik Kongo | Haut-Uele"
+    },
+    {
+        "en": "Yangambi",
+        "en:t": "Democratic Republic of the Congo | Tshopo",
+        "a": true,
+        "g": {
+            "lat": 0.8071,
+            "lon": 24.453
+        },
+        "it": "Yangambi",
+        "it:t": "Repubblica Democratica del Congo | Tshopo",
+        "es": "Yangambi",
+        "es:t": "Rep\u00fablica Democr\u00e1tica del Congo | Tshopo",
+        "de": "Yangambi",
+        "de:t": "Demokratische Republik Kongo | Tshopo"
+    },
+    {
+        "en": "Wamba",
+        "en:t": "Democratic Republic of the Congo | Haut-Uele",
+        "a": true,
+        "g": {
+            "lat": 2.1468,
+            "lon": 27.9835
+        },
+        "it": "Wamba",
+        "it:t": "Repubblica Democratica del Congo | Haut-Uele",
+        "es": "Wamba",
+        "es:t": "Rep\u00fablica Democr\u00e1tica del Congo | Haut-Uele",
+        "de": "Wamba",
+        "de:t": "Demokratische Republik Kongo | Haut-Uele"
+    }
+]

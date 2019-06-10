@@ -1,0 +1,1622 @@
+[
+    {
+        "en": "Acharnes",
+        "en:t": "Greece | East Attica",
+        "a": true,
+        "g": {
+            "lat": 38.0852,
+            "lon": 23.7381
+        },
+        "it": "Acarne",
+        "it:t": "Grecia | Attica Orientale",
+        "es": "Acarnas",
+        "es:t": "Grecia | \u00c1tica Oriental",
+        "de": "Acharnai",
+        "de:t": "Griechenland | Ostattika"
+    },
+    {
+        "en": "Agia Paraskevi",
+        "en:t": "Greece | North Athensal Unit",
+        "a": true,
+        "g": {
+            "lat": 38.0136,
+            "lon": 23.8218
+        },
+        "it": "Agia Paraskevi",
+        "it:t": "Grecia | Atene Settentrionale",
+        "es": "Agia Paraskevi",
+        "es:t": "Grecia | North Athensal Unit",
+        "de": "Agia Paraskevi",
+        "de:t": "Griechenland | Athen-Nord"
+    },
+    {
+        "en": "Agia Varvara",
+        "en:t": "Greece | West Athensal Unit",
+        "a": true,
+        "g": {
+            "lat": 37.9904,
+            "lon": 23.6583
+        },
+        "it": "Agia Varvara",
+        "it:t": "Grecia | Atene Occidentale",
+        "es": "Ag\u00eda Varvara",
+        "es:t": "Grecia | Atenas Occidental",
+        "de": "Agia Varvara",
+        "de:t": "Griechenland | Athen-West"
+    },
+    {
+        "en": "Agioi Anargyroi",
+        "en:t": "Greece | West Athensal Unit",
+        "a": true,
+        "g": {
+            "lat": 38.0272,
+            "lon": 23.722
+        },
+        "it": "Agioi Anargyroi",
+        "it:t": "Grecia | Atene Occidentale",
+        "es": "Agioi Anargyroi",
+        "es:t": "Grecia | West Athensal Unit",
+        "de": "Agii Anargyri",
+        "de:t": "Griechenland | Athen-West"
+    },
+    {
+        "en": "Agios Dimitrios",
+        "en:t": "Greece | South Athens",
+        "a": true,
+        "g": {
+            "lat": 37.9357,
+            "lon": 23.7295
+        },
+        "it": "Agios D\u012bm\u012btrios",
+        "it:t": "Grecia | Atene Meridionale",
+        "es": "Agios Dimitrios",
+        "es:t": "Grecia | Atenas Meridional",
+        "de": "Agios Dimitrios",
+        "de:t": "Griechenland | Athen-S\u00fcd"
+    },
+    {
+        "en": "Agios Ioannis Rentis",
+        "en:t": "Greece | Piraeus",
+        "a": true,
+        "g": {
+            "lat": 37.9694,
+            "lon": 23.6789
+        },
+        "it": "Agios Ioannis Rentis",
+        "it:t": "Grecia | Il Pireo",
+        "es": "Agios Ioannis Rentis",
+        "es:t": "Grecia | Piraeus",
+        "de": "Agios Ioannis Rentis",
+        "de:t": "Griechenland | Piraeus"
+    },
+    {
+        "en": "Agrinio",
+        "en:t": "Greece | Aetolia-Acarnania",
+        "a": true,
+        "g": {
+            "lat": 38.6245,
+            "lon": 21.4096
+        },
+        "it": "Agrinio",
+        "it:t": "Grecia | Etolia-Acarnania",
+        "es": "Agrinio",
+        "es:t": "Grecia | Etolia-Acarnania",
+        "de": "Agrinio",
+        "de:t": "Griechenland | \u00c4tolien-Akarnanien"
+    },
+    {
+        "en": "Aigio",
+        "en:t": "Greece | Achaea",
+        "a": true,
+        "g": {
+            "lat": 38.2505,
+            "lon": 22.0811
+        },
+        "it": "Aigio",
+        "it:t": "Grecia | Acaia",
+        "es": "Egio",
+        "es:t": "Grecia | Acaya",
+        "de": "Egio",
+        "de:t": "Griechenland | Achaia"
+    },
+    {
+        "en": "Alexandroupoli",
+        "en:t": "Greece | Evros",
+        "a": true,
+        "g": {
+            "lat": 40.8457,
+            "lon": 25.874
+        },
+        "it": "Alessandropoli",
+        "it:t": "Grecia | Evros",
+        "es": "Alejandr\u00f3polis",
+        "es:t": "Grecia | Evros",
+        "de": "Alexandroupolis",
+        "de:t": "Griechenland | Evros"
+    },
+    {
+        "en": "Alimos",
+        "en:t": "Greece | South Athens",
+        "a": true,
+        "g": {
+            "lat": 37.9169,
+            "lon": 23.7186
+        },
+        "it": "Alimos",
+        "it:t": "Grecia | South Athens",
+        "es": "Alimos",
+        "es:t": "Grecia | South Athens",
+        "de": "Alimos",
+        "de:t": "Griechenland | South Athens"
+    },
+    {
+        "en": "Amaliada",
+        "en:t": "Greece | Elis",
+        "a": true,
+        "g": {
+            "lat": 37.7968,
+            "lon": 21.3508
+        },
+        "it": "Amaliada",
+        "it:t": "Grecia | Elide",
+        "es": "Amaliada",
+        "es:t": "Grecia | Elis",
+        "de": "Amaliada",
+        "de:t": "Griechenland | Elis"
+    },
+    {
+        "en": "Ano Liosia",
+        "en:t": "Greece | West Atticaal Unit",
+        "a": true,
+        "g": {
+            "lat": 38.0817,
+            "lon": 23.7036
+        },
+        "it": "Ano Liosia",
+        "it:t": "Grecia | Attica Occidentale",
+        "es": "Ano Liosia",
+        "es:t": "Grecia | \u00c1tica Occidental",
+        "de": "Ano Liosia",
+        "de:t": "Griechenland | Westattika"
+    },
+    {
+        "en": "Argos",
+        "en:t": "Greece | Argolis",
+        "a": true,
+        "g": {
+            "lat": 37.6352,
+            "lon": 22.7289
+        },
+        "it": "Argo",
+        "it:t": "Grecia | Argolide",
+        "es": "Argos",
+        "es:t": "Grecia | Arg\u00f3lida",
+        "de": "Argos",
+        "de:t": "Griechenland | Argolis"
+    },
+    {
+        "en": "Argyroupoli",
+        "en:t": "Greece | South Athens",
+        "a": true,
+        "g": {
+            "lat": 37.906,
+            "lon": 23.7538
+        },
+        "it": "Argiroupoli",
+        "it:t": "Grecia | Atene Meridionale",
+        "es": "Argyroupoli",
+        "es:t": "Grecia | South Athens",
+        "de": "Argyroupoli",
+        "de:t": "Griechenland | South Athens"
+    },
+    {
+        "en": "Arta",
+        "en:t": "Greece",
+        "a": true,
+        "g": {
+            "lat": 39.2235,
+            "lon": 21.1891
+        },
+        "it": "Ambracia",
+        "it:t": "Grecia | Arta",
+        "es": "Arta",
+        "es:t": "Grecia",
+        "de": "Arta",
+        "de:t": "Griechenland"
+    },
+    {
+        "en": "Artemida",
+        "en:t": "Greece | East Attica",
+        "a": true,
+        "g": {
+            "lat": 37.9704,
+            "lon": 24.0077
+        },
+        "it": "Artemis",
+        "it:t": "Grecia | Attica Orientale",
+        "es": "Artemida",
+        "es:t": "Grecia | East Attica",
+        "de": "Artemida",
+        "de:t": "Griechenland | Ostattika"
+    },
+    {
+        "en": "Aspropyrgos",
+        "en:t": "Greece | West Atticaal Unit",
+        "a": true,
+        "g": {
+            "lat": 38.0609,
+            "lon": 23.5911
+        },
+        "it": "Aspropyrgos",
+        "it:t": "Grecia | Attica Occidentale",
+        "es": "Aspr\u00f3pyrgos",
+        "es:t": "Grecia | \u00c1tica Occidental",
+        "de": "Aspropyrgos",
+        "de:t": "Griechenland | West Atticaal Unit"
+    },
+    {
+        "en": "Athens",
+        "en:t": "Greece | Central Athensal Unit",
+        "a": true,
+        "g": {
+            "lat": 37.9838,
+            "lon": 23.7275
+        },
+        "it": "Atene",
+        "it:t": "Grecia | Atene Centrale",
+        "es": "Atenas",
+        "es:t": "Grecia | Atenas Central",
+        "de": "Athen",
+        "de:t": "Griechenland | Athen-Zentrum"
+    },
+    {
+        "en": "Chaidari",
+        "en:t": "Greece | West Athensal Unit",
+        "a": true,
+        "g": {
+            "lat": 38.0053,
+            "lon": 23.6643
+        },
+        "it": "Chaidari",
+        "it:t": "Grecia | Atene Occidentale",
+        "es": "Chaidari",
+        "es:t": "Grecia | West Athensal Unit",
+        "de": "Chaidari",
+        "de:t": "Griechenland | Athen-West"
+    },
+    {
+        "en": "Chalandri",
+        "en:t": "Greece | North Athensal Unit",
+        "a": true,
+        "g": {
+            "lat": 38.0213,
+            "lon": 23.7986
+        },
+        "it": "Chalandri",
+        "it:t": "Grecia | Atene Settentrionale",
+        "es": "Chalandri",
+        "es:t": "Grecia | Atenas Septentrional",
+        "de": "Chalandri",
+        "de:t": "Griechenland | Athen-Nord"
+    },
+    {
+        "en": "Chalcis",
+        "en:t": "Greece | Euboea",
+        "a": true,
+        "g": {
+            "lat": 38.4645,
+            "lon": 23.6051
+        },
+        "it": "Calcide",
+        "it:t": "Grecia | Eubea",
+        "es": "Calcis",
+        "es:t": "Grecia | Eubea",
+        "de": "Chalkida",
+        "de:t": "Griechenland | Eub\u00f6a"
+    },
+    {
+        "en": "Chania",
+        "en:t": "Greece",
+        "a": true,
+        "g": {
+            "lat": 35.5138,
+            "lon": 24.018
+        },
+        "it": "La Canea",
+        "it:t": "Grecia",
+        "es": "La Canea",
+        "es:t": "Grecia | La Canea",
+        "de": "Chania",
+        "de:t": "Griechenland"
+    },
+    {
+        "en": "Chios",
+        "en:t": "Greece",
+        "a": true,
+        "g": {
+            "lat": 38.3682,
+            "lon": 26.131
+        },
+        "it": "North Aegean islands",
+        "it:t": "Grecia",
+        "es": "Islas Egeas del Norte",
+        "es:t": "Grecia",
+        "de": "Nord\u00e4g\u00e4ische Inseln",
+        "de:t": "Griechenland"
+    },
+    {
+        "en": "Cholargos",
+        "en:t": "Greece | North Athensal Unit",
+        "a": true,
+        "g": {
+            "lat": 38.0026,
+            "lon": 23.7986
+        },
+        "it": "Cholargos",
+        "it:t": "Grecia | Atene Settentrionale",
+        "es": "Colargos",
+        "es:t": "Grecia | Atenas Septentrional",
+        "de": "Cholargos",
+        "de:t": "Griechenland | North Athensal Unit"
+    },
+    {
+        "en": "Corfu",
+        "en:t": "Greece",
+        "a": true,
+        "g": {
+            "lat": 39.6243,
+            "lon": 19.9217
+        },
+        "it": "Corf\u00f9",
+        "it:t": "Grecia",
+        "es": "Corf\u00fa",
+        "es:t": "Grecia",
+        "de": "Korfu",
+        "de:t": "Griechenland"
+    },
+    {
+        "en": "Corinth",
+        "en:t": "Greece | Corinthia",
+        "a": true,
+        "g": {
+            "lat": 37.9386,
+            "lon": 22.9322
+        },
+        "it": "Corinto",
+        "it:t": "Grecia | Corinzia",
+        "es": "Corinto",
+        "es:t": "Grecia | Corintia",
+        "de": "Korinth",
+        "de:t": "Griechenland | Korinthia"
+    },
+    {
+        "en": "Dafni",
+        "en:t": "Greece | Central Athensal Unit",
+        "a": true,
+        "g": {
+            "lat": 37.9509,
+            "lon": 23.7311
+        },
+        "it": "Dafni",
+        "it:t": "Grecia | Atene Centrale",
+        "es": "Dafni",
+        "es:t": "Grecia | Central Athensal Unit",
+        "de": "Dafni",
+        "de:t": "Griechenland | Central Athensal Unit"
+    },
+    {
+        "en": "Drama",
+        "en:t": "Greece",
+        "a": true,
+        "g": {
+            "lat": 41.234,
+            "lon": 24.239
+        },
+        "it": "Drama",
+        "it:t": "Grecia",
+        "es": "Drama",
+        "es:t": "Grecia",
+        "de": "Drama",
+        "de:t": "Griechenland"
+    },
+    {
+        "en": "Edessa",
+        "en:t": "Greece | Pella",
+        "a": true,
+        "g": {
+            "lat": 40.8017,
+            "lon": 22.044
+        },
+        "it": "Edessa",
+        "it:t": "Grecia | Pella",
+        "es": "\u00c9dessa",
+        "es:t": "Grecia | Pella",
+        "de": "Edessa",
+        "de:t": "Griechenland | Pella"
+    },
+    {
+        "en": "Egaleo",
+        "en:t": "Greece | West Athensal Unit",
+        "a": true,
+        "g": {
+            "lat": 37.9924,
+            "lon": 23.6781
+        },
+        "it": "Egaleo",
+        "it:t": "Grecia | Atene Occidentale",
+        "es": "Egaleo",
+        "es:t": "Grecia | Atenas Occidental",
+        "de": "Egaleo",
+        "de:t": "Griechenland | Athen-West"
+    },
+    {
+        "en": "Elefsina",
+        "en:t": "Greece | Ditiki Attiki",
+        "a": true,
+        "g": {
+            "lat": 38.0413,
+            "lon": 23.5418
+        },
+        "it": "Elefsina",
+        "it:t": "Grecia | Ditiki Attiki",
+        "es": "Elefsina",
+        "es:t": "Grecia | Ditiki Attiki",
+        "de": "Elefsina",
+        "de:t": "Griechenland | Ditiki Attiki"
+    },
+    {
+        "en": "Elliniko",
+        "en:t": "Greece | South Athens",
+        "a": true,
+        "g": {
+            "lat": 37.8889,
+            "lon": 23.7435
+        },
+        "it": "Elliniko",
+        "it:t": "Grecia | Atene Meridionale",
+        "es": "Elliniko",
+        "es:t": "Grecia | South Athens",
+        "de": "Elliniko",
+        "de:t": "Griechenland | South Athens"
+    },
+    {
+        "en": "Florina",
+        "en:t": "Greece",
+        "a": true,
+        "g": {
+            "lat": 40.7845,
+            "lon": 21.4131
+        },
+        "it": "Florina",
+        "it:t": "Grecia",
+        "es": "Fl\u00f3rina",
+        "es:t": "Grecia",
+        "de": "Florina",
+        "de:t": "Griechenland"
+    },
+    {
+        "en": "Galatsi",
+        "en:t": "Greece | Central Athensal Unit",
+        "a": true,
+        "g": {
+            "lat": 38.0131,
+            "lon": 23.753
+        },
+        "it": "Galatsi",
+        "it:t": "Grecia | Atene Centrale",
+        "es": "Galatsi",
+        "es:t": "Grecia | Central Athensal Unit",
+        "de": "Galatsi",
+        "de:t": "Griechenland | Athen-Zentrum"
+    },
+    {
+        "en": "Gerakas",
+        "en:t": "Greece | East Attica",
+        "a": true,
+        "g": {
+            "lat": 38.0173,
+            "lon": 23.8541
+        },
+        "it": "Gerakas",
+        "it:t": "Grecia | Attica Orientale",
+        "es": "Gerakas",
+        "es:t": "Grecia | \u00c1tica Oriental",
+        "de": "Gerakas",
+        "de:t": "Griechenland | East Attica"
+    },
+    {
+        "en": "Giannitsa",
+        "en:t": "Greece | Pella",
+        "a": true,
+        "g": {
+            "lat": 40.7944,
+            "lon": 22.4144
+        },
+        "it": "Giannitsa",
+        "it:t": "Grecia | Pella",
+        "es": "Giannitsa",
+        "es:t": "Grecia | Pella",
+        "de": "Giannitsa",
+        "de:t": "Griechenland | Pella"
+    },
+    {
+        "en": "Glyfada",
+        "en:t": "Greece | South Athens",
+        "a": true,
+        "g": {
+            "lat": 37.8756,
+            "lon": 23.7565
+        },
+        "it": "Glifada",
+        "it:t": "Grecia | Atene Meridionale",
+        "es": "Glifada",
+        "es:t": "Grecia | Atenas Meridional",
+        "de": "Glyfada",
+        "de:t": "Griechenland | Athen-S\u00fcd"
+    },
+    {
+        "en": "Heraklion",
+        "en:t": "Greece",
+        "a": true,
+        "g": {
+            "lat": 35.3387,
+            "lon": 25.1442
+        },
+        "it": "Herakleio",
+        "it:t": "Grecia",
+        "es": "Heracli\u00f3n",
+        "es:t": "Grecia",
+        "de": "Iraklion",
+        "de:t": "Griechenland"
+    },
+    {
+        "en": "Ilion",
+        "en:t": "Greece | West Athensal Unit",
+        "a": true,
+        "g": {
+            "lat": 38.0379,
+            "lon": 23.7053
+        },
+        "it": "Ilion",
+        "it:t": "Grecia | Atene Occidentale",
+        "es": "\u00cdlion",
+        "es:t": "Grecia | Atenas Occidental",
+        "de": "Ilio",
+        "de:t": "Griechenland | Athen-West"
+    },
+    {
+        "en": "Ioannina",
+        "en:t": "Greece",
+        "a": true,
+        "g": {
+            "lat": 39.665,
+            "lon": 20.8537
+        },
+        "it": "Giannina",
+        "it:t": "Grecia",
+        "es": "Io\u00e1nina",
+        "es:t": "Grecia | Io\u00e1nina",
+        "de": "Ioannina",
+        "de:t": "Griechenland"
+    },
+    {
+        "en": "Kaisariani",
+        "en:t": "Greece | Central Athensal Unit",
+        "a": true,
+        "g": {
+            "lat": 37.968,
+            "lon": 23.757
+        },
+        "it": "Kaisarian\u012b",
+        "it:t": "Grecia | Atene Centrale",
+        "es": "Kaisariani",
+        "es:t": "Grecia | Central Athensal Unit",
+        "de": "Kesariani",
+        "de:t": "Griechenland | Athen-Zentrum"
+    },
+    {
+        "en": "Kalamaria",
+        "en:t": "Greece | Thessaloniki",
+        "a": true,
+        "g": {
+            "lat": 40.5827,
+            "lon": 22.953
+        },
+        "it": "Kalamaria",
+        "it:t": "Grecia | Thessaloniki",
+        "es": "Kalamaria",
+        "es:t": "Grecia | Thessaloniki",
+        "de": "Kalamaria",
+        "de:t": "Griechenland | Thessaloniki"
+    },
+    {
+        "en": "Kalamata",
+        "en:t": "Greece | Messenia",
+        "a": true,
+        "g": {
+            "lat": 37.0422,
+            "lon": 22.1141
+        },
+        "it": "Calamata",
+        "it:t": "Grecia | Messenia",
+        "es": "Kalamata",
+        "es:t": "Grecia | Mesenia",
+        "de": "Kalamata",
+        "de:t": "Griechenland | Messenien"
+    },
+    {
+        "en": "Kallithea",
+        "en:t": "Greece | South Athens",
+        "a": true,
+        "g": {
+            "lat": 37.9557,
+            "lon": 23.6988
+        },
+        "it": "Kallithea",
+        "it:t": "Grecia | Atene Meridionale",
+        "es": "Kallithea",
+        "es:t": "Grecia | Atenas Meridional",
+        "de": "Kallithea",
+        "de:t": "Griechenland | Athen-S\u00fcd"
+    },
+    {
+        "en": "Kamatero",
+        "en:t": "Greece | West Athensal Unit",
+        "a": true,
+        "g": {
+            "lat": 38.0592,
+            "lon": 23.7121
+        },
+        "it": "Kamater\u00f2",
+        "it:t": "Grecia | Atene Occidentale",
+        "es": "Kamatero",
+        "es:t": "Grecia | Atenas Occidental",
+        "de": "Kamatero",
+        "de:t": "Griechenland | West Athensal Unit"
+    },
+    {
+        "en": "Karditsa",
+        "en:t": "Greece",
+        "a": true,
+        "g": {
+            "lat": 39.364,
+            "lon": 21.9214
+        },
+        "it": "Karditsa",
+        "it:t": "Grecia",
+        "es": "Karditsa",
+        "es:t": "Grecia",
+        "de": "Karditsa",
+        "de:t": "Griechenland"
+    },
+    {
+        "en": "Katerini",
+        "en:t": "Greece | Pieria",
+        "a": true,
+        "g": {
+            "lat": 40.2806,
+            "lon": 22.5058
+        },
+        "it": "Katerini",
+        "it:t": "Grecia | Pieria",
+        "es": "Katerini",
+        "es:t": "Grecia | Pier\u00eda",
+        "de": "Katerini",
+        "de:t": "Griechenland | Pieria"
+    },
+    {
+        "en": "Kavala Prefecture",
+        "en:t": "Greece",
+        "a": true,
+        "g": {
+            "lat": 40.9024,
+            "lon": 24.1915
+        },
+        "it": "Kavala",
+        "it:t": "Grecia",
+        "es": "Prefectura de Kavala",
+        "es:t": "Grecia",
+        "de": "Kavala",
+        "de:t": "Griechenland"
+    },
+    {
+        "en": "Keratsini",
+        "en:t": "Greece | Piraeus",
+        "a": true,
+        "g": {
+            "lat": 37.9618,
+            "lon": 23.6183
+        },
+        "it": "Keratsini",
+        "it:t": "Grecia | Il Pireo",
+        "es": "Keratsini",
+        "es:t": "Grecia | Piraeus",
+        "de": "Keratsini",
+        "de:t": "Griechenland | Pir\u00e4us"
+    },
+    {
+        "en": "Kifisia",
+        "en:t": "Greece | North Athensal Unit",
+        "a": true,
+        "g": {
+            "lat": 38.0869,
+            "lon": 23.8003
+        },
+        "it": "Kifisi\u00e0",
+        "it:t": "Grecia | Atene Settentrionale",
+        "es": "Cefisia",
+        "es:t": "Grecia | Atenas Septentrional",
+        "de": "Kifisia",
+        "de:t": "Griechenland | Athen-Nord"
+    },
+    {
+        "en": "Kilkis",
+        "en:t": "Greece",
+        "a": true,
+        "g": {
+            "lat": 40.9937,
+            "lon": 22.8754
+        },
+        "it": "Kilkis",
+        "it:t": "Grecia",
+        "es": "Kilk\u00eds",
+        "es:t": "Grecia",
+        "de": "Kilkis",
+        "de:t": "Griechenland"
+    },
+    {
+        "en": "Komotini",
+        "en:t": "Greece | Rhodope",
+        "a": true,
+        "g": {
+            "lat": 41.1224,
+            "lon": 25.4066
+        },
+        "it": "Komotini",
+        "it:t": "Grecia | Rodopi",
+        "es": "Komotin\u00ed",
+        "es:t": "Grecia | R\u00f3dope",
+        "de": "Komotini",
+        "de:t": "Griechenland | Rodopi"
+    },
+    {
+        "en": "Koropi",
+        "en:t": "Greece | East Attica",
+        "a": true,
+        "g": {
+            "lat": 37.9011,
+            "lon": 23.8727
+        },
+        "it": "Koropi",
+        "it:t": "Grecia | East Attica",
+        "es": "Koropi",
+        "es:t": "Grecia | East Attica",
+        "de": "Koropi",
+        "de:t": "Griechenland | East Attica"
+    },
+    {
+        "en": "Korydallos",
+        "en:t": "Greece | Piraeus",
+        "a": true,
+        "g": {
+            "lat": 37.981,
+            "lon": 23.6498
+        },
+        "it": "Korydallos",
+        "it:t": "Grecia | Il Pireo",
+        "es": "Korydallos",
+        "es:t": "Grecia | Piraeus",
+        "de": "Korydallos",
+        "de:t": "Griechenland | Pir\u00e4us"
+    },
+    {
+        "en": "Kos",
+        "en:t": "Greece",
+        "a": true,
+        "g": {
+            "lat": 36.8915,
+            "lon": 27.2877
+        },
+        "it": "Kos",
+        "it:t": "Grecia",
+        "es": "Isla de Cos",
+        "es:t": "Grecia",
+        "de": "Kos",
+        "de:t": "Griechenland"
+    },
+    {
+        "en": "Kozani",
+        "en:t": "Greece",
+        "a": true,
+        "g": {
+            "lat": 40.3006,
+            "lon": 21.7898
+        },
+        "it": "Kozani",
+        "it:t": "Grecia",
+        "es": "Kozani",
+        "es:t": "Grecia | Kozani",
+        "de": "Kozani",
+        "de:t": "Griechenland"
+    },
+    {
+        "en": "Lamia",
+        "en:t": "Greece | Phthiotis",
+        "a": true,
+        "g": {
+            "lat": 38.896,
+            "lon": 22.4349
+        },
+        "it": "Lamia",
+        "it:t": "Grecia | Ftiotide",
+        "es": "Lam\u00eda",
+        "es:t": "Grecia | Fti\u00f3tide",
+        "de": "Lamia",
+        "de:t": "Griechenland | Fthiotida"
+    },
+    {
+        "en": "Larissa",
+        "en:t": "Greece",
+        "a": true,
+        "g": {
+            "lat": 39.639,
+            "lon": 22.4191
+        },
+        "it": "Larissa",
+        "it:t": "Grecia",
+        "es": "Larisa",
+        "es:t": "Grecia | Larisa",
+        "de": "Larisa",
+        "de:t": "Griechenland"
+    },
+    {
+        "en": "Livadia",
+        "en:t": "Greece | Boeotia",
+        "a": true,
+        "g": {
+            "lat": 38.4387,
+            "lon": 22.8754
+        },
+        "it": "Livadeia",
+        "it:t": "Grecia | Beozia",
+        "es": "Lebadea",
+        "es:t": "Grecia | Beocia",
+        "de": "Livadia",
+        "de:t": "Griechenland | B\u00f6otien"
+    },
+    {
+        "en": "Marousi",
+        "en:t": "Greece | North Athensal Unit",
+        "a": true,
+        "g": {
+            "lat": 38.055,
+            "lon": 23.8077
+        },
+        "it": "Amarousio",
+        "it:t": "Grecia | Atene Settentrionale",
+        "es": "Marusi",
+        "es:t": "Grecia | Atenas Septentrional",
+        "de": "Marousi",
+        "de:t": "Griechenland | Athen-Nord"
+    },
+    {
+        "en": "Megara",
+        "en:t": "Greece | West Atticaal Unit",
+        "a": true,
+        "g": {
+            "lat": 37.9943,
+            "lon": 23.343
+        },
+        "it": "Megara",
+        "it:t": "Grecia | Attica Occidentale",
+        "es": "M\u00e9gara",
+        "es:t": "Grecia | \u00c1tica Occidental",
+        "de": "Megara",
+        "de:t": "Griechenland | Westattika"
+    },
+    {
+        "en": "Melissia",
+        "en:t": "Greece | North Athensal Unit",
+        "a": true,
+        "g": {
+            "lat": 38.0572,
+            "lon": 23.8336
+        },
+        "it": "Melissia",
+        "it:t": "Grecia | Atene Settentrionale",
+        "es": "Melissia",
+        "es:t": "Grecia | North Athensal Unit",
+        "de": "Melissia",
+        "de:t": "Griechenland | North Athensal Unit"
+    },
+    {
+        "en": "Menemeni",
+        "en:t": "Greece | Thessaloniki",
+        "a": true,
+        "g": {
+            "lat": 40.6562,
+            "lon": 22.9067
+        },
+        "it": "Menemeni",
+        "it:t": "Grecia | Salonicco",
+        "es": "Menemeni",
+        "es:t": "Grecia | Thessaloniki",
+        "de": "Menemeni",
+        "de:t": "Griechenland | Thessaloniki"
+    },
+    {
+        "en": "Metamorfosis",
+        "en:t": "Greece | North Athensal Unit",
+        "a": true,
+        "g": {
+            "lat": 38.0632,
+            "lon": 23.7609
+        },
+        "it": "Metamorfosi",
+        "it:t": "Grecia | Metamorfosis",
+        "es": "Metamorfosi",
+        "es:t": "Grecia | Metamorfosis",
+        "de": "Metamorfosi",
+        "de:t": "Griechenland | Metamorfosis"
+    },
+    {
+        "en": "Moschato",
+        "en:t": "Greece | South Athens",
+        "a": true,
+        "g": {
+            "lat": 37.9477,
+            "lon": 23.6777
+        },
+        "it": "Moschato",
+        "it:t": "Grecia | Atene Meridionale",
+        "es": "Moschato",
+        "es:t": "Grecia | Atenas Meridional",
+        "de": "Moschato",
+        "de:t": "Griechenland | Athen-S\u00fcd"
+    },
+    {
+        "en": "Naousa",
+        "en:t": "Greece | Imathia",
+        "a": true,
+        "g": {
+            "lat": 40.6294,
+            "lon": 22.0689
+        },
+        "it": "Naoussa",
+        "it:t": "Grecia | Emazia",
+        "es": "Nausa",
+        "es:t": "Grecia | Emacia",
+        "de": "Naoussa",
+        "de:t": "Griechenland | Imathia"
+    },
+    {
+        "en": "Nea Erythraia",
+        "en:t": "Greece | North Athensal Unit",
+        "a": true,
+        "g": {
+            "lat": 38.0926,
+            "lon": 23.82
+        },
+        "it": "Nea Eritrea",
+        "it:t": "Grecia | Atene Settentrionale",
+        "es": "Nea Erythraia",
+        "es:t": "Grecia | North Athensal Unit",
+        "de": "Nea Erythrea",
+        "de:t": "Griechenland | Athen-Nord"
+    },
+    {
+        "en": "Nea Filadelfeia",
+        "en:t": "Greece | Central Athensal Unit",
+        "a": true,
+        "g": {
+            "lat": 38.0339,
+            "lon": 23.7378
+        },
+        "it": "Nea Filadelfia",
+        "it:t": "Grecia | Atene Centrale",
+        "es": "Nea Filadelfeia",
+        "es:t": "Grecia | Atenas Central",
+        "de": "Nea Filadelfia",
+        "de:t": "Griechenland | Athen-Zentrum"
+    },
+    {
+        "en": "Nea Ionia",
+        "en:t": "Greece | Magnesia Prefecture",
+        "a": true,
+        "g": {
+            "lat": 39.3729,
+            "lon": 22.934
+        },
+        "it": "Nea Ionia",
+        "it:t": "Grecia | Magnesia",
+        "es": "Nea Ionia",
+        "es:t": "Grecia | Prefectura de Magnesia",
+        "de": "Nea Ionia",
+        "de:t": "Griechenland | Magnesia Prefecture"
+    },
+    {
+        "en": "Nea Ionia",
+        "en:t": "Greece | North Athensal Unit",
+        "a": true,
+        "g": {
+            "lat": 38.0426,
+            "lon": 23.7536
+        },
+        "it": "Nea Ionia",
+        "it:t": "Grecia | Atene Settentrionale",
+        "es": "Nea Ionia",
+        "es:t": "Grecia | North Athensal Unit",
+        "de": "Nea Ionia",
+        "de:t": "Griechenland | Athen-Nord"
+    },
+    {
+        "en": "Nea Makri",
+        "en:t": "Greece | East Attica",
+        "a": true,
+        "g": {
+            "lat": 38.0879,
+            "lon": 23.9761
+        },
+        "it": "Nea Makri",
+        "it:t": "Grecia | Attica Orientale",
+        "es": "Nea Makri",
+        "es:t": "Grecia | East Attica",
+        "de": "Nea Makri",
+        "de:t": "Griechenland | Ostattika"
+    },
+    {
+        "en": "Nea Smyrni",
+        "en:t": "Greece | South Athens",
+        "a": true,
+        "g": {
+            "lat": 37.9443,
+            "lon": 23.7118
+        },
+        "it": "Nea Smyrni",
+        "it:t": "Grecia | South Athens",
+        "es": "Nea Smyrni",
+        "es:t": "Grecia | South Athens",
+        "de": "Nea Smyrni",
+        "de:t": "Griechenland | South Athens"
+    },
+    {
+        "en": "Nikaia",
+        "en:t": "Greece | Piraeus",
+        "a": true,
+        "g": {
+            "lat": 37.9701,
+            "lon": 23.6424
+        },
+        "it": "Nikaia",
+        "it:t": "Grecia | Il Pireo",
+        "es": "N\u00edkea",
+        "es:t": "Grecia | El Pireo",
+        "de": "Nikea",
+        "de:t": "Griechenland | Pir\u00e4us"
+    },
+    {
+        "en": "North Aegean islands",
+        "en:t": "Greece",
+        "a": true,
+        "g": {
+            "lat": 38.8902,
+            "lon": 25.9918
+        },
+        "it": "Lesbo",
+        "it:t": "Grecia",
+        "es": "Islas Egeas del Norte",
+        "es:t": "Grecia",
+        "de": "Lesbos",
+        "de:t": "Griechenland"
+    },
+    {
+        "en": "Oraiokastro",
+        "en:t": "Greece | Thessaloniki",
+        "a": true,
+        "g": {
+            "lat": 40.7278,
+            "lon": 22.9205
+        },
+        "it": "Oraiokastro",
+        "it:t": "Grecia | Salonicco",
+        "es": "Oreokastro",
+        "es:t": "Grecia | Tesal\u00f3nica",
+        "de": "Oreokastro",
+        "de:t": "Griechenland | Thessaloniki"
+    },
+    {
+        "en": "Orestiada",
+        "en:t": "Greece | Evros",
+        "a": true,
+        "g": {
+            "lat": 41.5979,
+            "lon": 26.3722
+        },
+        "it": "Orestiada",
+        "it:t": "Grecia | Evros",
+        "es": "Orestiada",
+        "es:t": "Grecia | Evros",
+        "de": "Orestiada",
+        "de:t": "Griechenland | Evros"
+    },
+    {
+        "en": "Palaio Faliro",
+        "en:t": "Greece | South Athens",
+        "a": true,
+        "g": {
+            "lat": 37.9278,
+            "lon": 23.7036
+        },
+        "it": "Palaio Faliro",
+        "it:t": "Grecia | South Athens",
+        "es": "Palaio Faliro",
+        "es:t": "Grecia | South Athens",
+        "de": "Palaio Faliro",
+        "de:t": "Griechenland | South Athens"
+    },
+    {
+        "en": "Panorama",
+        "en:t": "Greece | Thessaloniki",
+        "a": true,
+        "g": {
+            "lat": 40.5885,
+            "lon": 23.0279
+        },
+        "it": "Panorama",
+        "it:t": "Grecia | Salonicco",
+        "es": "Panorama",
+        "es:t": "Grecia | Tesal\u00f3nica",
+        "de": "Panorama",
+        "de:t": "Griechenland | Thessaloniki"
+    },
+    {
+        "en": "Patras",
+        "en:t": "Greece | Achaea",
+        "a": true,
+        "g": {
+            "lat": 38.2466,
+            "lon": 21.7346
+        },
+        "it": "Patrasso",
+        "it:t": "Grecia | Acaia",
+        "es": "Patras",
+        "es:t": "Grecia | Acaya",
+        "de": "Patras",
+        "de:t": "Griechenland | Achaia"
+    },
+    {
+        "en": "Pefki",
+        "en:t": "Greece | North Athensal Unit",
+        "a": true,
+        "g": {
+            "lat": 38.0625,
+            "lon": 23.7947
+        },
+        "it": "Pefki",
+        "it:t": "Grecia | Atene Settentrionale",
+        "es": "Pefki",
+        "es:t": "Grecia | North Athensal Unit",
+        "de": "Pefki",
+        "de:t": "Griechenland | North Athensal Unit"
+    },
+    {
+        "en": "Peraia",
+        "en:t": "Greece | Thessaloniki",
+        "a": true,
+        "g": {
+            "lat": 40.5005,
+            "lon": 22.9246
+        },
+        "it": "Peraia",
+        "it:t": "Grecia | Thessaloniki",
+        "es": "Peraia",
+        "es:t": "Grecia | Thessaloniki",
+        "de": "Peraia",
+        "de:t": "Griechenland | Thessaloniki"
+    },
+    {
+        "en": "Perama",
+        "en:t": "Greece | Piraeus",
+        "a": true,
+        "g": {
+            "lat": 37.9656,
+            "lon": 23.5677
+        },
+        "it": "Perama",
+        "it:t": "Grecia | Il Pireo",
+        "es": "Perama",
+        "es:t": "Grecia | Piraeus",
+        "de": "Perama",
+        "de:t": "Griechenland | Pir\u00e4us"
+    },
+    {
+        "en": "Peristeri",
+        "en:t": "Greece | West Athensal Unit",
+        "a": true,
+        "g": {
+            "lat": 38.011,
+            "lon": 23.6887
+        },
+        "it": "Peristeri",
+        "it:t": "Grecia | Atene Occidentale",
+        "es": "Peristeri",
+        "es:t": "Grecia | Atenas Occidental",
+        "de": "Peristeri",
+        "de:t": "Griechenland | Athen-West"
+    },
+    {
+        "en": "Petroupoli",
+        "en:t": "Greece | West Athensal Unit",
+        "a": true,
+        "g": {
+            "lat": 38.0424,
+            "lon": 23.6843
+        },
+        "it": "Petroupoli",
+        "it:t": "Grecia | Atene Occidentale",
+        "es": "Petroupoli",
+        "es:t": "Grecia | Atenas Occidental",
+        "de": "Petroupoli",
+        "de:t": "Griechenland | Athen-West"
+    },
+    {
+        "en": "Pireas",
+        "en:t": "Greece",
+        "a": true,
+        "g": {
+            "lat": 37.943,
+            "lon": 23.647
+        },
+        "it": "Il Pireo",
+        "it:t": "Grecia",
+        "es": "El Pireo",
+        "es:t": "Grecia",
+        "de": "Pir\u00e4us",
+        "de:t": "Griechenland"
+    },
+    {
+        "en": "Polichni",
+        "en:t": "Greece | Thessaloniki",
+        "a": true,
+        "g": {
+            "lat": 40.6595,
+            "lon": 22.9556
+        },
+        "it": "Polichni",
+        "it:t": "Grecia | Salonicco",
+        "es": "Polichni",
+        "es:t": "Grecia | Tesal\u00f3nica",
+        "de": "Polichni",
+        "de:t": "Griechenland | Thessaloniki"
+    },
+    {
+        "en": "Preveza",
+        "en:t": "Greece",
+        "a": true,
+        "g": {
+            "lat": 38.9593,
+            "lon": 20.7517
+        },
+        "it": "Prevesa",
+        "it:t": "Grecia",
+        "es": "Pr\u00e9veza",
+        "es:t": "Grecia",
+        "de": "Preveza",
+        "de:t": "Griechenland"
+    },
+    {
+        "en": "Ptolemaida",
+        "en:t": "Greece | Kozani",
+        "a": true,
+        "g": {
+            "lat": 40.513,
+            "lon": 21.6785
+        },
+        "it": "Ptolemaida",
+        "it:t": "Grecia | Kozani",
+        "es": "Ptolemaida",
+        "es:t": "Grecia | Kozani",
+        "de": "Ptolemaida",
+        "de:t": "Griechenland | Kozani"
+    },
+    {
+        "en": "Pylaia",
+        "en:t": "Greece | Thessaloniki",
+        "a": true,
+        "g": {
+            "lat": 40.6028,
+            "lon": 22.9896
+        },
+        "it": "Pylaia",
+        "it:t": "Grecia | Salonicco",
+        "es": "Pylaia",
+        "es:t": "Grecia | Thessaloniki",
+        "de": "Pylea",
+        "de:t": "Griechenland | Thessaloniki"
+    },
+    {
+        "en": "Pyrgos",
+        "en:t": "Greece | Elis",
+        "a": true,
+        "g": {
+            "lat": 37.6718,
+            "lon": 21.4432
+        },
+        "it": "Pyrgos",
+        "it:t": "Grecia | Elide",
+        "es": "Pirgos",
+        "es:t": "Grecia | \u00c9lide",
+        "de": "Pyrgos",
+        "de:t": "Griechenland | Elis"
+    },
+    {
+        "en": "Rethimno",
+        "en:t": "Greece | Rethymno",
+        "a": true,
+        "g": {
+            "lat": 35.3644,
+            "lon": 24.4822
+        },
+        "it": "Retimo",
+        "it:t": "Grecia | Retimno",
+        "es": "R\u00e9tino",
+        "es:t": "Grecia | R\u00e9tino",
+        "de": "Rethymno",
+        "de:t": "Griechenland"
+    },
+    {
+        "en": "Rhodes",
+        "en:t": "Greece",
+        "a": true,
+        "g": {
+            "lat": 36.435,
+            "lon": 28.2175
+        },
+        "it": "Rodi",
+        "it:t": "Grecia",
+        "es": "Rodas",
+        "es:t": "Grecia",
+        "de": "Rhodos",
+        "de:t": "Griechenland"
+    },
+    {
+        "en": "Salamina",
+        "en:t": "Greece | Nisi",
+        "a": true,
+        "g": {
+            "lat": 37.9663,
+            "lon": 23.4952
+        },
+        "it": "Salamina",
+        "it:t": "Grecia | Nisi",
+        "es": "Salamina",
+        "es:t": "Grecia | Nisi",
+        "de": "Salamis",
+        "de:t": "Griechenland"
+    },
+    {
+        "en": "Serres",
+        "en:t": "Greece",
+        "a": true,
+        "g": {
+            "lat": 41.0909,
+            "lon": 23.5413
+        },
+        "it": "Serres",
+        "it:t": "Grecia",
+        "es": "Serres",
+        "es:t": "Grecia",
+        "de": "Serres",
+        "de:t": "Griechenland"
+    },
+    {
+        "en": "Sparti",
+        "en:t": "Greece | Laconia",
+        "a": true,
+        "g": {
+            "lat": 37.0745,
+            "lon": 22.4303
+        },
+        "it": "Sparta",
+        "it:t": "Grecia | Laconia",
+        "es": "Esparta",
+        "es:t": "Grecia | Laconia",
+        "de": "Sparta",
+        "de:t": "Griechenland | Lakonien"
+    },
+    {
+        "en": "Sykies",
+        "en:t": "Greece | Thessaloniki",
+        "a": true,
+        "g": {
+            "lat": 40.6485,
+            "lon": 22.9566
+        },
+        "it": "Sykies",
+        "it:t": "Grecia | Salonicco",
+        "es": "Sykies",
+        "es:t": "Grecia | Tesal\u00f3nica",
+        "de": "Sykies",
+        "de:t": "Griechenland | Thessaloniki"
+    },
+    {
+        "en": "Thessaloniki",
+        "en:t": "Greece",
+        "a": true,
+        "g": {
+            "lat": 40.6401,
+            "lon": 22.9444
+        },
+        "it": "Salonicco",
+        "it:t": "Grecia",
+        "es": "Sal\u00f3nica",
+        "es:t": "Grecia",
+        "de": "Thessaloniki",
+        "de:t": "Griechenland"
+    },
+    {
+        "en": "Thiva",
+        "en:t": "Greece | Boeotia",
+        "a": true,
+        "g": {
+            "lat": 38.3226,
+            "lon": 23.3204
+        },
+        "it": "Tebe",
+        "it:t": "Grecia | Beozia",
+        "es": "Tebas",
+        "es:t": "Grecia | Beocia",
+        "de": "Thiva",
+        "de:t": "Griechenland | B\u00f6otien"
+    },
+    {
+        "en": "Trikala",
+        "en:t": "Greece",
+        "a": true,
+        "g": {
+            "lat": 39.5557,
+            "lon": 21.7679
+        },
+        "it": "Diocesi di Tricca",
+        "it:t": "Grecia",
+        "es": "Tr\u00edkala",
+        "es:t": "Grecia",
+        "de": "Tricca",
+        "de:t": "Griechenland"
+    },
+    {
+        "en": "Tripoli",
+        "en:t": "Greece | Arcadia",
+        "a": true,
+        "g": {
+            "lat": 37.5101,
+            "lon": 22.3726
+        },
+        "it": "Tripoli",
+        "it:t": "Grecia | Arcadia",
+        "es": "Tr\u00edpoli",
+        "es:t": "Grecia | Arcadia",
+        "de": "Tripoli",
+        "de:t": "Griechenland | Arkadien"
+    },
+    {
+        "en": "Vari",
+        "en:t": "Greece | East Attica",
+        "a": true,
+        "g": {
+            "lat": 37.8334,
+            "lon": 23.8029
+        },
+        "it": "Vari",
+        "it:t": "Grecia | Attica Orientale",
+        "es": "Vari",
+        "es:t": "Grecia | \u00c1tica Oriental",
+        "de": "Vari",
+        "de:t": "Griechenland | East Attica"
+    },
+    {
+        "en": "Veria",
+        "en:t": "Greece | Imathia",
+        "a": true,
+        "g": {
+            "lat": 40.5194,
+            "lon": 22.2052
+        },
+        "it": "Veria",
+        "it:t": "Grecia | Emazia",
+        "es": "Veria",
+        "es:t": "Grecia | Emacia",
+        "de": "Veria",
+        "de:t": "Griechenland | Imathia"
+    },
+    {
+        "en": "Volos",
+        "en:t": "Greece | Magnesia Prefecture",
+        "a": true,
+        "g": {
+            "lat": 39.3622,
+            "lon": 22.9422
+        },
+        "it": "Volo",
+        "it:t": "Grecia | Magnesia",
+        "es": "Volos",
+        "es:t": "Grecia | Prefectura de Magnesia",
+        "de": "Volos",
+        "de:t": "Griechenland | Magnisia"
+    },
+    {
+        "en": "Voula",
+        "en:t": "Greece | East Attica",
+        "a": true,
+        "g": {
+            "lat": 37.8453,
+            "lon": 23.7605
+        },
+        "it": "Voula",
+        "it:t": "Grecia | Attica Orientale",
+        "es": "Voula",
+        "es:t": "Grecia | \u00c1tica Oriental",
+        "de": "Voula",
+        "de:t": "Griechenland | East Attica"
+    },
+    {
+        "en": "Vrilissia",
+        "en:t": "Greece",
+        "a": true,
+        "g": {
+            "lat": 38.033,
+            "lon": 23.8319
+        },
+        "it": "Vrilissia",
+        "it:t": "Grecia",
+        "es": "Vril\u00edssia",
+        "es:t": "Grecia",
+        "de": "Vrilissia",
+        "de:t": "Griechenland"
+    },
+    {
+        "en": "Vyronas",
+        "en:t": "Greece | Central Athensal Unit",
+        "a": true,
+        "g": {
+            "lat": 37.9593,
+            "lon": 23.7564
+        },
+        "it": "Vironos",
+        "it:t": "Grecia | Atene Centrale",
+        "es": "Vyronas",
+        "es:t": "Grecia | Central Athensal Unit",
+        "de": "Vyronas",
+        "de:t": "Griechenland | Athen-Zentrum"
+    },
+    {
+        "en": "Xanthi",
+        "en:t": "Greece",
+        "a": true,
+        "g": {
+            "lat": 41.13,
+            "lon": 24.8865
+        },
+        "it": "Xanthi",
+        "it:t": "Grecia",
+        "es": "X\u00e1nthi",
+        "es:t": "Grecia",
+        "de": "Xanthi",
+        "de:t": "Griechenland"
+    },
+    {
+        "en": "Zografou",
+        "en:t": "Greece | Central Athensal Unit",
+        "a": true,
+        "g": {
+            "lat": 37.9768,
+            "lon": 23.7617
+        },
+        "it": "Zografo",
+        "it:t": "Grecia | Atene Centrale",
+        "es": "Zografou",
+        "es:t": "Grecia | Central Athensal Unit",
+        "de": "Zografos",
+        "de:t": "Griechenland | Athen-Zentrum"
+    }
+]

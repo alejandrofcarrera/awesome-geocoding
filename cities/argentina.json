@@ -1,0 +1,2987 @@
+[
+    {
+        "en": "Adrogu\u00e9",
+        "en:t": "Argentina | Almirante Brown",
+        "a": true,
+        "g": {
+            "lat": -34.8012,
+            "lon": -58.3889
+        },
+        "it": "Adrogu\u00e9",
+        "it:t": "Argentina | Almirante Brown",
+        "es": "Adrogu\u00e9",
+        "es:t": "Argentina | Almirante Brown",
+        "de": "Adrogu\u00e9",
+        "de:t": "Argentinien | Almirante Brown"
+    },
+    {
+        "en": "Aguilares",
+        "en:t": "Argentina | R\u00edo Chico Department",
+        "a": true,
+        "g": {
+            "lat": -27.4315,
+            "lon": -65.6147
+        },
+        "it": "Aguilares",
+        "it:t": "Argentina | Dipartimento di R\u00edo Chico",
+        "es": "Aguilares",
+        "es:t": "Argentina | R\u00edo Chico",
+        "de": "Aguilares",
+        "de:t": "Argentinien | Departamento R\u00edo Chico"
+    },
+    {
+        "en": "Albard\u00f3n",
+        "en:t": "Argentina",
+        "a": true,
+        "g": {
+            "lat": -31.4508,
+            "lon": -68.5186
+        },
+        "it": "Albard\u00f3n",
+        "it:t": "Argentina",
+        "es": "Albard\u00f3n",
+        "es:t": "Argentina",
+        "de": "Departamento Albard\u00f3n",
+        "de:t": "Argentinien | Provinz San Juan"
+    },
+    {
+        "en": "Alderetes",
+        "en:t": "Argentina | Cruz Alta Department",
+        "a": true,
+        "g": {
+            "lat": -26.8167,
+            "lon": -65.1333
+        },
+        "it": "Alderetes",
+        "it:t": "Argentina | Dipartimento di Cruz Alta",
+        "es": "Alderetes",
+        "es:t": "Argentina | Cruz Alta",
+        "de": "Alderetes",
+        "de:t": "Argentinien | Cruz Alta Department"
+    },
+    {
+        "en": "Allen",
+        "en:t": "Argentina | General Roca Department, R\u00edo Negro",
+        "a": true,
+        "g": {
+            "lat": -38.9763,
+            "lon": -67.8297
+        },
+        "it": "Allen",
+        "it:t": "Argentina | General Roca Department, R\u00edo Negro",
+        "es": "Allen",
+        "es:t": "Argentina | General Roca",
+        "de": "Allen",
+        "de:t": "Argentinien | General Roca Department, R\u00edo Negro"
+    },
+    {
+        "en": "Alta Gracia",
+        "en:t": "Argentina | Santa Mar\u00eda Department",
+        "a": true,
+        "g": {
+            "lat": -31.6571,
+            "lon": -64.4347
+        },
+        "it": "Alta Gracia",
+        "it:t": "Argentina | Dipartimento di Santa Mar\u00eda",
+        "es": "Alta Gracia",
+        "es:t": "Argentina | Departamento Santa Mar\u00eda",
+        "de": "Alta Gracia",
+        "de:t": "Argentinien | Departamento Santa Mar\u00eda"
+    },
+    {
+        "en": "Arist\u00f3bulo del Valle",
+        "en:t": "Argentina | Caingu\u00e1s Department",
+        "a": true,
+        "g": {
+            "lat": -27.0956,
+            "lon": -54.8935
+        },
+        "it": "Arist\u00f3bulo del Valle",
+        "it:t": "Argentina | Caingu\u00e1s Department",
+        "es": "Arist\u00f3bulo del Valle",
+        "es:t": "Argentina | Caingu\u00e1s",
+        "de": "Arist\u00f3bulo del Valle",
+        "de:t": "Argentinien | Caingu\u00e1s Department"
+    },
+    {
+        "en": "Arroyito",
+        "en:t": "Argentina | San Justo Department",
+        "a": true,
+        "g": {
+            "lat": -31.4192,
+            "lon": -63.0509
+        },
+        "it": "Arroyito",
+        "it:t": "Argentina | San Justo Department",
+        "es": "Arroyito",
+        "es:t": "Argentina | San Justo",
+        "de": "Arroyito",
+        "de:t": "Argentinien | San Justo Department"
+    },
+    {
+        "en": "Arroyo Seco",
+        "en:t": "Argentina | Rosario Department",
+        "a": true,
+        "g": {
+            "lat": -33.1564,
+            "lon": -60.513
+        },
+        "it": "Arroyo Seco",
+        "it:t": "Argentina | Rosario Department",
+        "es": "Arroyo Seco",
+        "es:t": "Argentina | Departamento Rosario",
+        "de": "Arroyo Seco",
+        "de:t": "Argentinien | Rosario Department"
+    },
+    {
+        "en": "Avellaneda",
+        "en:t": "Argentina | General Obligado Department",
+        "a": true,
+        "g": {
+            "lat": -29.1175,
+            "lon": -59.6586
+        },
+        "it": "Avellaneda",
+        "it:t": "Argentina | Dipartimento di General Obligado",
+        "es": "Avellaneda",
+        "es:t": "Argentina | General Obligado",
+        "de": "Avellaneda",
+        "de:t": "Argentinien | General Obligado Department"
+    },
+    {
+        "en": "Azul",
+        "en:t": "Argentina | Azul Partido",
+        "a": true,
+        "g": {
+            "lat": -36.775,
+            "lon": -59.854
+        },
+        "it": "Azul",
+        "it:t": "Argentina | Partido di Azul",
+        "es": "Azul",
+        "es:t": "Argentina",
+        "de": "Azul",
+        "de:t": "Argentinien | Azul Partido"
+    },
+    {
+        "en": "A\u00f1atuya",
+        "en:t": "Argentina | General Taboada Department",
+        "a": true,
+        "g": {
+            "lat": -28.4606,
+            "lon": -62.8344
+        },
+        "it": "A\u00f1atuya",
+        "it:t": "Argentina | Dipartimento di General Taboada",
+        "es": "A\u00f1atuya",
+        "es:t": "Argentina | General Taboada",
+        "de": "A\u00f1atuya",
+        "de:t": "Argentinien | Departamento General Taboada"
+    },
+    {
+        "en": "Bah\u00eda Blanca",
+        "en:t": "Argentina",
+        "a": true,
+        "g": {
+            "lat": -38.7183,
+            "lon": -62.2663
+        },
+        "it": "Bah\u00eda Blanca",
+        "it:t": "Argentina | Partido di Bah\u00eda Blanca",
+        "es": "Bah\u00eda Blanca",
+        "es:t": "Argentina",
+        "de": "Bah\u00eda Blanca",
+        "de:t": "Argentinien"
+    },
+    {
+        "en": "Barranqueras",
+        "en:t": "Argentina | San Fernando Department",
+        "a": true,
+        "g": {
+            "lat": -27.4823,
+            "lon": -58.9334
+        },
+        "it": "Barranqueras",
+        "it:t": "Argentina | Dipartimento di San Fernando",
+        "es": "Barranqueras",
+        "es:t": "Argentina | Departamento San Fernando",
+        "de": "Barranqueras",
+        "de:t": "Argentinien | San Fernando Department"
+    },
+    {
+        "en": "Bell Ville",
+        "en:t": "Argentina | Uni\u00f3n Department",
+        "a": true,
+        "g": {
+            "lat": -32.6305,
+            "lon": -62.6889
+        },
+        "it": "Bell Ville",
+        "it:t": "Argentina | Dipartimento di Uni\u00f3n",
+        "es": "Bell Ville",
+        "es:t": "Argentina | Union",
+        "de": "Bell Ville",
+        "de:t": "Argentinien | Departamento Uni\u00f3n"
+    },
+    {
+        "en": "Bella Vista",
+        "en:t": "Argentina | Leales Department",
+        "a": true,
+        "g": {
+            "lat": -27.0293,
+            "lon": -65.3032
+        },
+        "it": "Bella Vista",
+        "it:t": "Argentina | Dipartimento di Leales",
+        "es": "Bella Vista",
+        "es:t": "Argentina | Leales",
+        "de": "Bella Vista",
+        "de:t": "Argentinien | Departamento Leales"
+    },
+    {
+        "en": "Buenos Aires",
+        "en:t": "Argentina",
+        "a": true,
+        "g": {
+            "lat": -34.6037,
+            "lon": -58.3816
+        },
+        "it": "Buenos Aires",
+        "it:t": "Argentina | Citt\u00e0 Autonoma di Buenos Aires",
+        "es": "Buenos Aires",
+        "es:t": "Argentina",
+        "de": "Buenos Aires",
+        "de:t": "Argentinien | Autonomen Stadt Buenos Aires"
+    },
+    {
+        "en": "Caleta Olivia",
+        "en:t": "Argentina | Deseado Department",
+        "a": true,
+        "g": {
+            "lat": -46.4426,
+            "lon": -67.5172
+        },
+        "it": "Caleta Olivia",
+        "it:t": "Argentina | Dipartimento di Deseado",
+        "es": "Caleta Olivia",
+        "es:t": "Argentina | Deseado",
+        "de": "Caleta Olivia",
+        "de:t": "Argentinien | Departamento Deseado"
+    },
+    {
+        "en": "Campana",
+        "en:t": "Argentina | Campana Partido",
+        "a": true,
+        "g": {
+            "lat": -34.1633,
+            "lon": -58.9593
+        },
+        "it": "Campana",
+        "it:t": "Argentina | Partido di Campana",
+        "es": "Campana",
+        "es:t": "Argentina",
+        "de": "Campana",
+        "de:t": "Argentinien | Campana Partido"
+    },
+    {
+        "en": "Capit\u00e1n Berm\u00fadez",
+        "en:t": "Argentina | San Lorenzo Department",
+        "a": true,
+        "g": {
+            "lat": -32.8153,
+            "lon": -60.7208
+        },
+        "it": "Capit\u00e1n Berm\u00fadez",
+        "it:t": "Argentina | Dipartimento di San Lorenzo",
+        "es": "Capit\u00e1n Berm\u00fadez",
+        "es:t": "Argentina | Departamento San Lorenzo",
+        "de": "Capit\u00e1n Berm\u00fadez",
+        "de:t": "Argentinien | San Lorenzo Department"
+    },
+    {
+        "en": "Carcara\u00f1\u00e1",
+        "en:t": "Argentina | San Lorenzo Department",
+        "a": true,
+        "g": {
+            "lat": -32.8572,
+            "lon": -61.1578
+        },
+        "it": "Carcara\u00f1\u00e1",
+        "it:t": "Argentina | Dipartimento di San Lorenzo",
+        "es": "Carcara\u00f1a",
+        "es:t": "Argentina | Departamento San Lorenzo",
+        "de": "Carcara\u00f1\u00e1",
+        "de:t": "Argentinien | San Lorenzo Department"
+    },
+    {
+        "en": "Casilda",
+        "en:t": "Argentina | Caseros Department",
+        "a": true,
+        "g": {
+            "lat": -33.0445,
+            "lon": -61.165
+        },
+        "it": "Casilda",
+        "it:t": "Argentina | Dipartimento di Caseros",
+        "es": "Casilda",
+        "es:t": "Argentina | Caseros",
+        "de": "Casilda",
+        "de:t": "Argentinien | Caseros Department"
+    },
+    {
+        "en": "Catamarca",
+        "en:t": "Argentina | Capital Department",
+        "a": true,
+        "g": {
+            "lat": -28.4696,
+            "lon": -65.7795
+        },
+        "it": "San Fernando del Valle de Catamarca",
+        "it:t": "Argentina | Dipartimento di Capital",
+        "es": "San Fernando del Valle de Catamarca",
+        "es:t": "Argentina | Capital",
+        "de": "San Fernando del Valle de Catamarca",
+        "de:t": "Argentinien | Departamento Capital"
+    },
+    {
+        "en": "Catriel",
+        "en:t": "Argentina | General Roca Department, R\u00edo Negro",
+        "a": true,
+        "g": {
+            "lat": -37.8793,
+            "lon": -67.7919
+        },
+        "it": "Catriel",
+        "it:t": "Argentina | Dipartimento di General Roca",
+        "es": "Catriel",
+        "es:t": "Argentina | General Roca",
+        "de": "Catriel",
+        "de:t": "Argentinien | General Roca Department, R\u00edo Negro"
+    },
+    {
+        "en": "Caucete",
+        "en:t": "Argentina | Caucete Department",
+        "a": true,
+        "g": {
+            "lat": -31.6542,
+            "lon": -68.2853
+        },
+        "it": "Caucete",
+        "it:t": "Argentina | Caucete Department",
+        "es": "Caucete",
+        "es:t": "Argentina",
+        "de": "Caucete",
+        "de:t": "Argentinien | Caucete Department"
+    },
+    {
+        "en": "Ca\u00f1ada de G\u00f3mez",
+        "en:t": "Argentina | Iriondo Department",
+        "a": true,
+        "g": {
+            "lat": -32.8212,
+            "lon": -61.3954
+        },
+        "it": "Ca\u00f1ada de G\u00f3mez",
+        "it:t": "Argentina | Dipartimento di Iriondo",
+        "es": "Ca\u00f1ada de Gomez",
+        "es:t": "Argentina | Iriondo",
+        "de": "Ca\u00f1ada de G\u00f3mez",
+        "de:t": "Argentinien | Iriondo Department"
+    },
+    {
+        "en": "Centenario",
+        "en:t": "Argentina | Confluencia Department",
+        "a": true,
+        "g": {
+            "lat": -38.8278,
+            "lon": -68.1443
+        },
+        "it": "Centenario",
+        "it:t": "Argentina | Confluencia Department",
+        "es": "Centenario",
+        "es:t": "Argentina | Confluencia",
+        "de": "Centenario",
+        "de:t": "Argentinien | Confluencia Department"
+    },
+    {
+        "en": "Chacabuco",
+        "en:t": "Argentina | Chacabuco Partido",
+        "a": true,
+        "g": {
+            "lat": -34.6421,
+            "lon": -60.4715
+        },
+        "it": "Chacabuco",
+        "it:t": "Argentina | Partido di Chacabuco",
+        "es": "Chacabuco",
+        "es:t": "Argentina",
+        "de": "Chacabuco",
+        "de:t": "Argentinien | Chacabuco Partido"
+    },
+    {
+        "en": "Chajar\u00ed",
+        "en:t": "Argentina | Federaci\u00f3n Department",
+        "a": true,
+        "g": {
+            "lat": -30.7573,
+            "lon": -57.9916
+        },
+        "it": "Chajar\u00ed",
+        "it:t": "Argentina | Dipartimento di Federaci\u00f3n",
+        "es": "Chajar\u00ed",
+        "es:t": "Argentina | Federaci\u00f3n",
+        "de": "Chajar\u00ed",
+        "de:t": "Argentinien | Federaci\u00f3n Department"
+    },
+    {
+        "en": "Charata",
+        "en:t": "Argentina | Chacabuco Department",
+        "a": true,
+        "g": {
+            "lat": -27.218,
+            "lon": -61.1874
+        },
+        "it": "Charata",
+        "it:t": "Argentina | Dipartimento di Chacabuco",
+        "es": "Charata",
+        "es:t": "Argentina | Chacabuco",
+        "de": "Charata",
+        "de:t": "Argentinien | Chacabuco Department"
+    },
+    {
+        "en": "Chilecito",
+        "en:t": "Argentina | Chilecito Department",
+        "a": true,
+        "g": {
+            "lat": -29.1611,
+            "lon": -67.4962
+        },
+        "it": "Chilecito",
+        "it:t": "Argentina | Dipartimento di Chilecito",
+        "es": "Chilecito",
+        "es:t": "Argentina",
+        "de": "Chilecito",
+        "de:t": "Argentinien | Departamento Chilecito"
+    },
+    {
+        "en": "Chimbas",
+        "en:t": "Argentina | Chimbas Department",
+        "a": true,
+        "g": {
+            "lat": -31.4966,
+            "lon": -68.5318
+        },
+        "it": "Chimbas",
+        "it:t": "Argentina | Dipartimento di Chimbas",
+        "es": "Chimbas",
+        "es:t": "Argentina",
+        "de": "Chimbas",
+        "de:t": "Argentinien | Departamento Chimbas"
+    },
+    {
+        "en": "Chivilcoy",
+        "en:t": "Argentina | Chivilcoy Partido",
+        "a": true,
+        "g": {
+            "lat": -34.897,
+            "lon": -60.0191
+        },
+        "it": "Chivilcoy",
+        "it:t": "Argentina | Partido di Chivilcoy",
+        "es": "Chivilcoy",
+        "es:t": "Argentina",
+        "de": "Chivilcoy",
+        "de:t": "Argentinien | Chivilcoy Partido"
+    },
+    {
+        "en": "Cinco Saltos",
+        "en:t": "Argentina | General Roca Department, R\u00edo Negro",
+        "a": true,
+        "g": {
+            "lat": -38.8314,
+            "lon": -68.0567
+        },
+        "it": "Cinco Saltos",
+        "it:t": "Argentina | General Roca Department, R\u00edo Negro",
+        "es": "Cinco Saltos",
+        "es:t": "Argentina | General Roca",
+        "de": "Cinco Saltos",
+        "de:t": "Argentinien | General Roca Department, R\u00edo Negro"
+    },
+    {
+        "en": "Cipolletti",
+        "en:t": "Argentina | General Roca Department, R\u00edo Negro",
+        "a": true,
+        "g": {
+            "lat": -38.9388,
+            "lon": -67.9955
+        },
+        "it": "Cipolletti",
+        "it:t": "Argentina | Dipartimento di General Roca",
+        "es": "Cipolletti",
+        "es:t": "Argentina | General Roca",
+        "de": "Cipolletti",
+        "de:t": "Argentinien | Departamento General Roca"
+    },
+    {
+        "en": "Comodoro Rivadavia",
+        "en:t": "Argentina | Escalante Department",
+        "a": true,
+        "g": {
+            "lat": -45.8656,
+            "lon": -67.4822
+        },
+        "it": "Comodoro Rivadavia",
+        "it:t": "Argentina | Dipartimento di Escalante",
+        "es": "Comodoro Rivadavia",
+        "es:t": "Argentina | Escalante",
+        "de": "Comodoro Rivadavia",
+        "de:t": "Argentinien | Departamento Escalante"
+    },
+    {
+        "en": "Concepci\u00f3n del Uruguay",
+        "en:t": "Argentina | Uruguay Department",
+        "a": true,
+        "g": {
+            "lat": -32.4845,
+            "lon": -58.2321
+        },
+        "it": "Concepci\u00f3n del Uruguay",
+        "it:t": "Argentina | Dipartimento di Uruguay",
+        "es": "Concepci\u00f3n del Uruguay",
+        "es:t": "Argentina | Uruguay",
+        "de": "Concepci\u00f3n del Uruguay",
+        "de:t": "Argentinien | Uruguay Department"
+    },
+    {
+        "en": "Concordia",
+        "en:t": "Argentina | Concordia Department",
+        "a": true,
+        "g": {
+            "lat": -31.3914,
+            "lon": -58.0174
+        },
+        "it": "Concordia",
+        "it:t": "Argentina | Dipartimento di Concordia",
+        "es": "Concordia",
+        "es:t": "Argentina",
+        "de": "Concordia",
+        "de:t": "Argentinien | Concordia Department"
+    },
+    {
+        "en": "Coronda",
+        "en:t": "Argentina | San Jer\u00f3nimo Department",
+        "a": true,
+        "g": {
+            "lat": -31.9735,
+            "lon": -60.9206
+        },
+        "it": "Coronda",
+        "it:t": "Argentina | San Jer\u00f3nimo Department",
+        "es": "Coronda",
+        "es:t": "Argentina | San Jer\u00f3nimo",
+        "de": "Coronda",
+        "de:t": "Argentinien | San Jer\u00f3nimo Department"
+    },
+    {
+        "en": "Coronel Su\u00e1rez",
+        "en:t": "Argentina | Coronel Suar\u00e9z",
+        "a": true,
+        "g": {
+            "lat": -37.4586,
+            "lon": -61.9328
+        },
+        "it": "Coronel Su\u00e1rez",
+        "it:t": "Argentina | Partido di Coronel Su\u00e1rez",
+        "es": "Coronel Suarez",
+        "es:t": "Argentina | Coronel Suar\u00e9z",
+        "de": "Coronel Su\u00e1rez",
+        "de:t": "Argentinien | Partido"
+    },
+    {
+        "en": "Corrientes",
+        "en:t": "Argentina | Capital Department",
+        "a": true,
+        "g": {
+            "lat": -27.4692,
+            "lon": -58.8306
+        },
+        "it": "Corrientes",
+        "it:t": "Argentina | Dipartimento di Capital",
+        "es": "Corrientes",
+        "es:t": "Argentina | Departamento Capital",
+        "de": "Corrientes",
+        "de:t": "Argentinien | Departamento Capital"
+    },
+    {
+        "en": "Cosqu\u00edn",
+        "en:t": "Argentina | Punilla Department",
+        "a": true,
+        "g": {
+            "lat": -31.2468,
+            "lon": -64.4704
+        },
+        "it": "Cosqu\u00edn",
+        "it:t": "Argentina | Dipartimento di Punilla",
+        "es": "Cosqu\u00edn",
+        "es:t": "Argentina | Departamento Punilla",
+        "de": "Cosqu\u00edn",
+        "de:t": "Argentinien | Departamento Punilla"
+    },
+    {
+        "en": "Crespo",
+        "en:t": "Argentina | Paran\u00e1 Department",
+        "a": true,
+        "g": {
+            "lat": -32.0309,
+            "lon": -60.3072
+        },
+        "it": "Crespo",
+        "it:t": "Argentina | Dipartimento di Paran\u00e1",
+        "es": "Crespo",
+        "es:t": "Argentina | Paran\u00e1",
+        "de": "Crespo",
+        "de:t": "Argentinien | Paran\u00e1 Department"
+    },
+    {
+        "en": "Cruz del Eje",
+        "en:t": "Argentina | Cruz del Eje Department",
+        "a": true,
+        "g": {
+            "lat": -30.7219,
+            "lon": -64.8086
+        },
+        "it": "Cruz del Eje",
+        "it:t": "Argentina | Dipartimento di Cruz del Eje",
+        "es": "Cruz del Eje",
+        "es:t": "Argentina",
+        "de": "Cruz del Eje",
+        "de:t": "Argentinien | Departamento Cruz del Eje"
+    },
+    {
+        "en": "Curuz\u00fa Cuati\u00e1",
+        "en:t": "Argentina | Curuz\u00fa Cuati\u00e1 Department",
+        "a": true,
+        "g": {
+            "lat": -29.7903,
+            "lon": -58.058
+        },
+        "it": "Curuz\u00fa Cuati\u00e1",
+        "it:t": "Argentina | Dipartimento di Curuz\u00fa Cuati\u00e1",
+        "es": "Curuz\u00fa Cuati\u00e1",
+        "es:t": "Argentina",
+        "de": "Curuz\u00fa Cuati\u00e1",
+        "de:t": "Argentinien | Departamento Curuz\u00fa Cuati\u00e1"
+    },
+    {
+        "en": "Cutral C\u00f3",
+        "en:t": "Argentina | Confluencia Department",
+        "a": true,
+        "g": {
+            "lat": -38.9378,
+            "lon": -69.2295
+        },
+        "it": "Cutral C\u00f3",
+        "it:t": "Argentina | Confluencia Department",
+        "es": "Cutral Co",
+        "es:t": "Argentina | Confluencia",
+        "de": "Cutral-C\u00f3",
+        "de:t": "Argentinien | Departamento Confluencia"
+    },
+    {
+        "en": "C\u00f3rdoba",
+        "en:t": "Argentina | Capital Department",
+        "a": true,
+        "g": {
+            "lat": -31.4201,
+            "lon": -64.1888
+        },
+        "it": "C\u00f3rdoba",
+        "it:t": "Argentina | Dipartimento di Capital",
+        "es": "C\u00f3rdoba",
+        "es:t": "Argentina | Departamento Capital",
+        "de": "C\u00f3rdoba",
+        "de:t": "Argentinien | Departamento Capital"
+    },
+    {
+        "en": "De\u00e1n Funes",
+        "en:t": "Argentina | Ischil\u00edn Department",
+        "a": true,
+        "g": {
+            "lat": -30.4241,
+            "lon": -64.3494
+        },
+        "it": "De\u00e1n Funes",
+        "it:t": "Argentina | Dipartimento di Ischil\u00edn",
+        "es": "Dean Funes",
+        "es:t": "Argentina | Ischil\u00edn",
+        "de": "De\u00e1n Funes",
+        "de:t": "Argentinien | Departamento Ischil\u00edn"
+    },
+    {
+        "en": "Diamante",
+        "en:t": "Argentina | Diamante Department",
+        "a": true,
+        "g": {
+            "lat": -32.0697,
+            "lon": -60.6379
+        },
+        "it": "Diamante",
+        "it:t": "Argentina | Dipartimento di Diamante",
+        "es": "Diamante",
+        "es:t": "Argentina",
+        "de": "Diamante",
+        "de:t": "Argentinien | Diamante Department"
+    },
+    {
+        "en": "Dolores",
+        "en:t": "Argentina | Dolores Partido",
+        "a": true,
+        "g": {
+            "lat": -36.3152,
+            "lon": -57.6753
+        },
+        "it": "Dolores",
+        "it:t": "Argentina | Partido di Dolores",
+        "es": "Dolores",
+        "es:t": "Argentina",
+        "de": "Dolores",
+        "de:t": "Argentinien | Dolores Partido"
+    },
+    {
+        "en": "El Bols\u00f3n",
+        "en:t": "Argentina | Bariloche Department",
+        "a": true,
+        "g": {
+            "lat": -41.9649,
+            "lon": -71.5353
+        },
+        "it": "El Bols\u00f3n",
+        "it:t": "Argentina | Dipartimento di Bariloche",
+        "es": "El Bols\u00f3n",
+        "es:t": "Argentina | Bariloche",
+        "de": "El Bols\u00f3n",
+        "de:t": "Argentinien | Departamento Bariloche"
+    },
+    {
+        "en": "El Soberbio",
+        "en:t": "Argentina | Guaran\u00ed Department",
+        "a": true,
+        "g": {
+            "lat": -27.2966,
+            "lon": -54.1981
+        },
+        "it": "El Soberbio",
+        "it:t": "Argentina | Guaran\u00ed Department",
+        "es": "El Soberbio",
+        "es:t": "Argentina | Guaran\u00ed",
+        "de": "El Soberbio",
+        "de:t": "Argentinien | Guaran\u00ed Department"
+    },
+    {
+        "en": "Eldorado",
+        "en:t": "Argentina | Eldorado Department",
+        "a": true,
+        "g": {
+            "lat": -26.4069,
+            "lon": -54.6369
+        },
+        "it": "Eldorado",
+        "it:t": "Argentina | Eldorado Department",
+        "es": "Eldorado",
+        "es:t": "Argentina | El Dorado",
+        "de": "Eldorado",
+        "de:t": "Argentinien | Departamento Eldorado"
+    },
+    {
+        "en": "Embalse",
+        "en:t": "Argentina | Calamuchita Department",
+        "a": true,
+        "g": {
+            "lat": -32.205,
+            "lon": -64.4009
+        },
+        "it": "Embalse",
+        "it:t": "Argentina | Calamuchita Department",
+        "es": "Embalse",
+        "es:t": "Argentina | Calamuchita",
+        "de": "Embalse",
+        "de:t": "Argentinien | Departamento Calamuchita"
+    },
+    {
+        "en": "Embarcaci\u00f3n",
+        "en:t": "Argentina | General Jos\u00e9 de San Mart\u00edn",
+        "a": true,
+        "g": {
+            "lat": -23.2103,
+            "lon": -64.0973
+        },
+        "it": "Embarcaci\u00f3n",
+        "it:t": "Argentina | General Jos\u00e9 de San Mart\u00edn",
+        "es": "Embarcacion",
+        "es:t": "Argentina | General Jose de San Mart\u00edn",
+        "de": "Embarcaci\u00f3n",
+        "de:t": "Argentinien | General Jos\u00e9 de San Mart\u00edn"
+    },
+    {
+        "en": "Esperanza",
+        "en:t": "Argentina | Las Colonias Department",
+        "a": true,
+        "g": {
+            "lat": -31.449,
+            "lon": -60.9304
+        },
+        "it": "Esperanza",
+        "it:t": "Argentina | Dipartimento di Las Colonias",
+        "es": "Esperanza",
+        "es:t": "Argentina | Las Colonias",
+        "de": "Esperanza",
+        "de:t": "Argentinien | Departamento Las Colonias"
+    },
+    {
+        "en": "Esquel",
+        "en:t": "Argentina | Futaleuf\u00fa Department",
+        "a": true,
+        "g": {
+            "lat": -42.9095,
+            "lon": -71.3143
+        },
+        "it": "Esquel",
+        "it:t": "Argentina | Dipartimento di Futaleuf\u00fa",
+        "es": "Esquel",
+        "es:t": "Argentina | Futaleuf\u00fa",
+        "de": "Esquel",
+        "de:t": "Argentinien | Departamento Futaleuf\u00fa"
+    },
+    {
+        "en": "Esquina",
+        "en:t": "Argentina | Esquina Department",
+        "a": true,
+        "g": {
+            "lat": -30.0185,
+            "lon": -59.5314
+        },
+        "it": "Esquina",
+        "it:t": "Argentina | Esquina Department",
+        "es": "Esquina",
+        "es:t": "Argentina",
+        "de": "Esquina",
+        "de:t": "Argentinien | Esquina Department"
+    },
+    {
+        "en": "Famaill\u00e1",
+        "en:t": "Argentina | Famaill\u00e1 Department",
+        "a": true,
+        "g": {
+            "lat": -27.0561,
+            "lon": -65.4022
+        },
+        "it": "Famaill\u00e1",
+        "it:t": "Argentina | Dipartimento di Famaill\u00e1",
+        "es": "Famaill\u00e1",
+        "es:t": "Argentina",
+        "de": "Famaill\u00e1",
+        "de:t": "Argentinien | Departamento Famaill\u00e1"
+    },
+    {
+        "en": "Federal",
+        "en:t": "Argentina | Federal Department",
+        "a": true,
+        "g": {
+            "lat": -30.9512,
+            "lon": -58.785
+        },
+        "it": "Federal",
+        "it:t": "Argentina | Federal Department",
+        "es": "Federal",
+        "es:t": "Argentina",
+        "de": "Federal",
+        "de:t": "Argentinien | Federal Department"
+    },
+    {
+        "en": "Firmat",
+        "en:t": "Argentina | General L\u00f3pez Department",
+        "a": true,
+        "g": {
+            "lat": -33.4584,
+            "lon": -61.4863
+        },
+        "it": "Firmat",
+        "it:t": "Argentina | Dipartimento di General L\u00f3pez",
+        "es": "Firmat",
+        "es:t": "Argentina | General Lopez",
+        "de": "Firmat",
+        "de:t": "Argentinien | General L\u00f3pez Department"
+    },
+    {
+        "en": "Fontana",
+        "en:t": "Argentina | San Fernando Department",
+        "a": true,
+        "g": {
+            "lat": -27.4164,
+            "lon": -59.0323
+        },
+        "it": "Fontana",
+        "it:t": "Argentina | San Fernando Department",
+        "es": "Fontana",
+        "es:t": "Argentina | Departamento San Fernando",
+        "de": "Fontana",
+        "de:t": "Argentinien | Departamento San Fernando"
+    },
+    {
+        "en": "Formosa",
+        "en:t": "Argentina | Formosa Department",
+        "a": true,
+        "g": {
+            "lat": -26.1858,
+            "lon": -58.1756
+        },
+        "it": "Formosa",
+        "it:t": "Argentina | Dipartimento di Formosa",
+        "es": "Formosa",
+        "es:t": "Argentina",
+        "de": "Formosa",
+        "de:t": "Argentinien | Departamento Formosa"
+    },
+    {
+        "en": "Garup\u00e1",
+        "en:t": "Argentina | Capital Department, Misiones",
+        "a": true,
+        "g": {
+            "lat": -27.4543,
+            "lon": -55.8619
+        },
+        "it": "Garup\u00e1",
+        "it:t": "Argentina | Dipartimento di Capital",
+        "es": "Garupa",
+        "es:t": "Argentina | Capital",
+        "de": "Garup\u00e1",
+        "de:t": "Argentinien | Departamento Capital"
+    },
+    {
+        "en": "General Jos\u00e9 de San Mart\u00edn",
+        "en:t": "Argentina | Independencia Department",
+        "a": true,
+        "g": {
+            "lat": -26.5,
+            "lon": -60.75
+        },
+        "it": "General Jos\u00e9 de San Mart\u00edn",
+        "it:t": "Argentina | Dipartimento di Independencia",
+        "es": "General Jos\u00e9 de San Mart\u00edn",
+        "es:t": "Argentina | Independencia",
+        "de": "General Jos\u00e9 de San Mart\u00edn",
+        "de:t": "Argentinien | Independencia Department"
+    },
+    {
+        "en": "General Mosconi",
+        "en:t": "Argentina | General Jos\u00e9 de San Mart\u00edn",
+        "a": true,
+        "g": {
+            "lat": -22.5961,
+            "lon": -63.8116
+        },
+        "it": "General Mosconi",
+        "it:t": "Argentina | General Jos\u00e9 de San Mart\u00edn",
+        "es": "General Enrique Mosconi",
+        "es:t": "Argentina | General Jose de San Mart\u00edn",
+        "de": "General Mosconi",
+        "de:t": "Argentinien | General Jos\u00e9 de San Mart\u00edn"
+    },
+    {
+        "en": "General Pico",
+        "en:t": "Argentina | Marac\u00f3 Department",
+        "a": true,
+        "g": {
+            "lat": -35.6593,
+            "lon": -63.7578
+        },
+        "it": "General Pico",
+        "it:t": "Argentina | Marac\u00f3 Department",
+        "es": "General Pico",
+        "es:t": "Argentina | Maraco",
+        "de": "General Pico",
+        "de:t": "Argentinien | Marac\u00f3 Department"
+    },
+    {
+        "en": "General Pinedo",
+        "en:t": "Argentina | 12 de Octubre",
+        "a": true,
+        "g": {
+            "lat": -27.3246,
+            "lon": -61.2813
+        },
+        "it": "General Pinedo",
+        "it:t": "Argentina | 12 de Octubre",
+        "es": "General Pinedo",
+        "es:t": "Argentina | 12 de Octubre",
+        "de": "General Pinedo",
+        "de:t": "Argentinien | 12 de Octubre"
+    },
+    {
+        "en": "General Roca",
+        "en:t": "Argentina | General Roca Department, R\u00edo Negro",
+        "a": true,
+        "g": {
+            "lat": -39.0328,
+            "lon": -67.5892
+        },
+        "it": "General Roca",
+        "it:t": "Argentina | Dipartimento di General Roca",
+        "es": "General Roca",
+        "es:t": "Argentina",
+        "de": "General Roca",
+        "de:t": "Argentinien | Departamento General Roca"
+    },
+    {
+        "en": "Gobernador Virasoro",
+        "en:t": "Argentina | Santo Tom\u00e9 Department",
+        "a": true,
+        "g": {
+            "lat": -28.0543,
+            "lon": -56.014
+        },
+        "it": "Gobernador Virasoro",
+        "it:t": "Argentina | Santo Tom\u00e9 Department",
+        "es": "Gobernador Virasoro",
+        "es:t": "Argentina | Santo Tom\u00e9",
+        "de": "Gobernador Virasoro",
+        "de:t": "Argentinien | Departamento Santo Tom\u00e9"
+    },
+    {
+        "en": "Goya",
+        "en:t": "Argentina | Goya Department",
+        "a": true,
+        "g": {
+            "lat": -29.1442,
+            "lon": -59.2643
+        },
+        "it": "Goya",
+        "it:t": "Argentina | Dipartimento di Goya",
+        "es": "Goya",
+        "es:t": "Argentina",
+        "de": "Goya",
+        "de:t": "Argentinien | Departamento Goya"
+    },
+    {
+        "en": "Granadero Baigorria",
+        "en:t": "Argentina | Rosario Department",
+        "a": true,
+        "g": {
+            "lat": -32.8622,
+            "lon": -60.7065
+        },
+        "it": "Granadero Baigorria",
+        "it:t": "Argentina | Dipartimento di Rosario",
+        "es": "Granadero Baigorria",
+        "es:t": "Argentina | Departamento Rosario",
+        "de": "Granadero Baigorria",
+        "de:t": "Argentinien | Rosario Department"
+    },
+    {
+        "en": "Gualeguay",
+        "en:t": "Argentina | Departamento de Gualeguay",
+        "a": true,
+        "g": {
+            "lat": -33.1503,
+            "lon": -59.3105
+        },
+        "it": "Gualeguay",
+        "it:t": "Argentina | Dipartimento di Gualeguay",
+        "es": "Gualeguay",
+        "es:t": "Argentina",
+        "de": "Gualeguay",
+        "de:t": "Argentinien | Departamento de Gualeguay"
+    },
+    {
+        "en": "Gualeguaych\u00fa",
+        "en:t": "Argentina | Gualeguaych\u00fa Department",
+        "a": true,
+        "g": {
+            "lat": -33.0078,
+            "lon": -58.5112
+        },
+        "it": "Gualeguaych\u00fa",
+        "it:t": "Argentina | Dipartimento di Gualeguaych\u00fa",
+        "es": "Gualeguaych\u00fa",
+        "es:t": "Argentina",
+        "de": "Gualeguaych\u00fa",
+        "de:t": "Argentinien | Gualeguaych\u00fa Department"
+    },
+    {
+        "en": "G\u00e1lvez",
+        "en:t": "Argentina | San Jer\u00f3nimo Department",
+        "a": true,
+        "g": {
+            "lat": -32.0293,
+            "lon": -61.2244
+        },
+        "it": "G\u00e1lvez",
+        "it:t": "Argentina | Dipartimento di San Jer\u00f3nimo",
+        "es": "G\u00e1lvez",
+        "es:t": "Argentina | San Jer\u00f3nimo",
+        "de": "G\u00e1lvez",
+        "de:t": "Argentinien | San Jer\u00f3nimo Department"
+    },
+    {
+        "en": "Jard\u00edn Am\u00e9rica",
+        "en:t": "Argentina | San Ignacio Department, Misiones",
+        "a": true,
+        "g": {
+            "lat": -27.0399,
+            "lon": -55.2307
+        },
+        "it": "Jard\u00edn Am\u00e9rica",
+        "it:t": "Argentina | San Ignacio Department, Misiones",
+        "es": "Jard\u00edn America",
+        "es:t": "Argentina | San Ignacio",
+        "de": "Jard\u00edn Am\u00e9rica",
+        "de:t": "Argentinien | San Ignacio Department, Misiones"
+    },
+    {
+        "en": "Jes\u00fas Mar\u00eda",
+        "en:t": "Argentina | Col\u00f3n Department",
+        "a": true,
+        "g": {
+            "lat": -30.9816,
+            "lon": -64.0958
+        },
+        "it": "Jes\u00fas Mar\u00eda",
+        "it:t": "Argentina | Dipartimento di Col\u00f3n",
+        "es": "Jesus Mar\u00eda",
+        "es:t": "Argentina | Departamento Col\u00f3n",
+        "de": "Jes\u00fas Mar\u00eda",
+        "de:t": "Argentinien | Departamento Col\u00f3n"
+    },
+    {
+        "en": "Joaqu\u00edn V. Gonz\u00e1lez",
+        "en:t": "Argentina | Anta Department",
+        "a": true,
+        "g": {
+            "lat": -25.1173,
+            "lon": -64.1247
+        },
+        "it": "Joaqu\u00edn V. Gonz\u00e1lez",
+        "it:t": "Argentina | Anta Department",
+        "es": "Joaquin V. Gonz\u00e1lez",
+        "es:t": "Argentina | Anta",
+        "de": "Salta",
+        "de:t": "Argentinien | Departamento Capital"
+    },
+    {
+        "en": "Juan Jos\u00e9 Castelli",
+        "en:t": "Argentina | General G\u00fcemes Department",
+        "a": true,
+        "g": {
+            "lat": -25.9471,
+            "lon": -60.6198
+        },
+        "it": "Juan Jos\u00e9 Castelli",
+        "it:t": "Argentina | Dipartimento di General G\u00fcemes",
+        "es": "Juan Jos\u00e9 Castelli",
+        "es:t": "Argentina | General G\u00fcemes",
+        "de": "Juan Jos\u00e9 Castelli",
+        "de:t": "Argentinien | Departamento General G\u00fcemes"
+    },
+    {
+        "en": "Jujuy",
+        "en:t": "Argentina | Doctor Manuel Belgrano Department",
+        "a": true,
+        "g": {
+            "lat": -24.1858,
+            "lon": -65.2995
+        },
+        "it": "San Salvador de Jujuy",
+        "it:t": "Argentina | Dipartimento di Doctor Manuel Belgrano",
+        "es": "San Salvador de Jujuy",
+        "es:t": "Argentina | Doctor Manuel Belgrano",
+        "de": "San Salvador de Jujuy",
+        "de:t": "Argentinien | Departamento Doctor Manuel Belgrano"
+    },
+    {
+        "en": "Jun\u00edn",
+        "en:t": "Argentina | Jun\u00edn Partido",
+        "a": true,
+        "g": {
+            "lat": -34.5885,
+            "lon": -60.9496
+        },
+        "it": "Jun\u00edn",
+        "it:t": "Argentina | Partido di Jun\u00edn",
+        "es": "Jun\u00edn",
+        "es:t": "Argentina",
+        "de": "Jun\u00edn",
+        "de:t": "Argentinien | Jun\u00edn Partido"
+    },
+    {
+        "en": "La Calera",
+        "en:t": "Argentina | Capital Department",
+        "a": true,
+        "g": {
+            "lat": -31.3526,
+            "lon": -64.3401
+        },
+        "it": "La Calera",
+        "it:t": "Argentina | Capital Department",
+        "es": "La Calera",
+        "es:t": "Argentina | Departamento Capital",
+        "de": "La Calera",
+        "de:t": "Argentinien | Departamento Capital"
+    },
+    {
+        "en": "La Falda",
+        "en:t": "Argentina | Punilla Department",
+        "a": true,
+        "g": {
+            "lat": -31.0944,
+            "lon": -64.4828
+        },
+        "it": "La Falda",
+        "it:t": "Argentina | Dipartimento di Punilla",
+        "es": "La Falda",
+        "es:t": "Argentina | Departamento Punilla",
+        "de": "La Falda",
+        "de:t": "Argentinien | Departamento Punilla"
+    },
+    {
+        "en": "La Paz",
+        "en:t": "Argentina | La Paz Department, Entre R\u00edos",
+        "a": true,
+        "g": {
+            "lat": -30.759,
+            "lon": -59.6393
+        },
+        "it": "La Paz",
+        "it:t": "Argentina | Dipartimento di La Paz",
+        "es": "La Paz",
+        "es:t": "Argentina",
+        "de": "La Paz",
+        "de:t": "Argentinien | La Paz Department, Entre R\u00edos"
+    },
+    {
+        "en": "La Plata",
+        "en:t": "Argentina | La Plata Partido",
+        "a": true,
+        "g": {
+            "lat": -34.9205,
+            "lon": -57.9536
+        },
+        "it": "La Plata",
+        "it:t": "Argentina | Partido di La Plata",
+        "es": "La Plata",
+        "es:t": "Argentina",
+        "de": "Buenos Aires",
+        "de:t": "Argentinien | Autonomen Stadt Buenos Aires"
+    },
+    {
+        "en": "La Rioja",
+        "en:t": "Argentina | Capital Department, La Rioja",
+        "a": true,
+        "g": {
+            "lat": -29.4135,
+            "lon": -66.8565
+        },
+        "it": "La Rioja",
+        "it:t": "Argentina | Dipartimento di Capital",
+        "es": "La Rioja",
+        "es:t": "Argentina | Capital",
+        "de": "La Rioja",
+        "de:t": "Argentinien | Departamento Capital"
+    },
+    {
+        "en": "Laboulaye",
+        "en:t": "Argentina | Presidente Roque S\u00e1enz Pe\u00f1a Department",
+        "a": true,
+        "g": {
+            "lat": -34.1289,
+            "lon": -63.3908
+        },
+        "it": "Laboulaye",
+        "it:t": "Argentina | Dipartimento di Presidente Roque S\u00e1enz Pe\u00f1a",
+        "es": "Laboulaye",
+        "es:t": "Argentina | Presidente Roque Saenz Pe\u00f1a",
+        "de": "Laboulaye",
+        "de:t": "Argentinien | Presidente Roque S\u00e1enz Pe\u00f1a Department"
+    },
+    {
+        "en": "Las Bre\u00f1as",
+        "en:t": "Argentina | 9 de Julio",
+        "a": true,
+        "g": {
+            "lat": -27.0892,
+            "lon": -61.0836
+        },
+        "it": "Las Bre\u00f1as",
+        "it:t": "Argentina | 9 de Julio",
+        "es": "Las Bre\u00f1as",
+        "es:t": "Argentina | 9 de Julio",
+        "de": "Las Bre\u00f1as",
+        "de:t": "Argentinien | 9 de Julio"
+    },
+    {
+        "en": "Libertador General San Mart\u00edn",
+        "en:t": "Argentina | Ledesma",
+        "a": true,
+        "g": {
+            "lat": -23.8153,
+            "lon": -64.7928
+        },
+        "it": "Libertador General San Mart\u00edn",
+        "it:t": "Argentina | Dipartimento di Ledesma",
+        "es": "Libertador General San Mart\u00edn",
+        "es:t": "Argentina | Ledesma",
+        "de": "Libertador General San Mart\u00edn",
+        "de:t": "Argentinien | Departamento Ledesma"
+    },
+    {
+        "en": "Luj\u00e1n",
+        "en:t": "Argentina | Luj\u00e1n Partido",
+        "a": true,
+        "g": {
+            "lat": -34.5633,
+            "lon": -59.1209
+        },
+        "it": "Luj\u00e1n",
+        "it:t": "Argentina | Partido di Luj\u00e1n",
+        "es": "Luj\u00e1n",
+        "es:t": "Argentina",
+        "de": "Luj\u00e1n",
+        "de:t": "Argentinien | Luj\u00e1n Partido"
+    },
+    {
+        "en": "Machagai",
+        "en:t": "Argentina | 25 de Mayo",
+        "a": true,
+        "g": {
+            "lat": -26.926,
+            "lon": -60.0484
+        },
+        "it": "Machagai",
+        "it:t": "Argentina | 25 de Mayo",
+        "es": "Machagai",
+        "es:t": "Argentina | 25 de Mayo",
+        "de": "Machagai",
+        "de:t": "Argentinien | 25 de Mayo"
+    },
+    {
+        "en": "Mar del Plata",
+        "en:t": "Argentina | General Pueyrred\u00f3n",
+        "a": true,
+        "g": {
+            "lat": -38.0055,
+            "lon": -57.5426
+        },
+        "it": "Mar del Plata",
+        "it:t": "Argentina | Partido di General Pueyrred\u00f3n",
+        "es": "Mar del Plata",
+        "es:t": "Argentina | General Pueyrred\u00f3n",
+        "de": "Mar del Plata",
+        "de:t": "Argentinien | General Pueyrred\u00f3n"
+    },
+    {
+        "en": "Marcos Ju\u00e1rez",
+        "en:t": "Argentina | Marcos Ju\u00e1rez Department",
+        "a": true,
+        "g": {
+            "lat": -32.6979,
+            "lon": -62.1058
+        },
+        "it": "Marcos Ju\u00e1rez",
+        "it:t": "Argentina | Dipartimento di Marcos Ju\u00e1rez",
+        "es": "Marcos Ju\u00e1rez",
+        "es:t": "Argentina",
+        "de": "Marcos Ju\u00e1rez",
+        "de:t": "Argentinien | Departamento Marcos Ju\u00e1rez"
+    },
+    {
+        "en": "Mendoza",
+        "en:t": "Argentina | Capital Department",
+        "a": true,
+        "g": {
+            "lat": -32.8895,
+            "lon": -68.8458
+        },
+        "it": "Mendoza",
+        "it:t": "Argentina | Capital Department",
+        "es": "Mendoza",
+        "es:t": "Argentina | Capital",
+        "de": "Mendoza",
+        "de:t": "Argentinien | Departamento Capital"
+    },
+    {
+        "en": "Mercedes",
+        "en:t": "Argentina | Mercedes Partido",
+        "a": true,
+        "g": {
+            "lat": -34.651,
+            "lon": -59.4306
+        },
+        "it": "Mercedes",
+        "it:t": "Argentina | Partido di Mercedes",
+        "es": "Mercedes",
+        "es:t": "Argentina",
+        "de": "Mercedes",
+        "de:t": "Argentinien | Mercedes Partido"
+    },
+    {
+        "en": "Monte Caseros",
+        "en:t": "Argentina | Monte Caseros Department",
+        "a": true,
+        "g": {
+            "lat": -30.2531,
+            "lon": -57.6366
+        },
+        "it": "Monte Caseros",
+        "it:t": "Argentina | Monte Caseros Department",
+        "es": "Monte Caseros",
+        "es:t": "Argentina",
+        "de": "Monte Caseros",
+        "de:t": "Argentinien | Departamento Monte Caseros"
+    },
+    {
+        "en": "Montecarlo",
+        "en:t": "Argentina | Montecarlo Department",
+        "a": true,
+        "g": {
+            "lat": -26.5716,
+            "lon": -54.7413
+        },
+        "it": "Montecarlo",
+        "it:t": "Argentina | Dipartimento di Montecarlo",
+        "es": "Montecarlo",
+        "es:t": "Argentina",
+        "de": "Montecarlo",
+        "de:t": "Argentinien | Montecarlo Department"
+    },
+    {
+        "en": "Monteros",
+        "en:t": "Argentina | Monteros Department",
+        "a": true,
+        "g": {
+            "lat": -27.164,
+            "lon": -65.4963
+        },
+        "it": "Monteros",
+        "it:t": "Argentina | Dipartimento di Monteros",
+        "es": "Monteros",
+        "es:t": "Argentina",
+        "de": "Monteros",
+        "de:t": "Argentinien | Departamento Monteros"
+    },
+    {
+        "en": "Morteros",
+        "en:t": "Argentina | San Justo Department",
+        "a": true,
+        "g": {
+            "lat": -30.7113,
+            "lon": -62.0066
+        },
+        "it": "Morteros",
+        "it:t": "Argentina | Dipartimento di San Justo",
+        "es": "Morteros",
+        "es:t": "Argentina | San Justo",
+        "de": "Morteros",
+        "de:t": "Argentinien | San Justo Department"
+    },
+    {
+        "en": "Mor\u00f3n",
+        "en:t": "Argentina | Mor\u00f3n Partido",
+        "a": true,
+        "g": {
+            "lat": -34.6559,
+            "lon": -58.6167
+        },
+        "it": "Mor\u00f3n",
+        "it:t": "Argentina | Partido di Mor\u00f3n",
+        "es": "Mor\u00f3n",
+        "es:t": "Argentina",
+        "de": "Mor\u00f3n",
+        "de:t": "Argentinien | Mor\u00f3n Partido"
+    },
+    {
+        "en": "Necochea",
+        "en:t": "Argentina | Necochea Partido",
+        "a": true,
+        "g": {
+            "lat": -38.5545,
+            "lon": -58.7396
+        },
+        "it": "Necochea",
+        "it:t": "Argentina | Partido di Necochea",
+        "es": "Necochea",
+        "es:t": "Argentina",
+        "de": "Necochea",
+        "de:t": "Argentinien | Necochea Partido"
+    },
+    {
+        "en": "Neuquen",
+        "en:t": "Argentina | Confluencia Department",
+        "a": true,
+        "g": {
+            "lat": -38.9517,
+            "lon": -68.0592
+        },
+        "it": "Neuqu\u00e9n",
+        "it:t": "Argentina | Dipartimento di Confluencia",
+        "es": "Neuqu\u00e9n",
+        "es:t": "Argentina | Confluencia",
+        "de": "Neuqu\u00e9n",
+        "de:t": "Argentinien | Departamento Confluencia"
+    },
+    {
+        "en": "Nueve de Julio Partido",
+        "en:t": "Argentina | 9 de Julio",
+        "a": true,
+        "g": {
+            "lat": -35.4439,
+            "lon": -60.8846
+        },
+        "it": "Partido di Nueve de Julio",
+        "it:t": "Argentina | 9 de Julio",
+        "es": "9 de Julio",
+        "es:t": "Argentina",
+        "de": "Nueve de Julio Partido",
+        "de:t": "Argentinien | 9 de Julio"
+    },
+    {
+        "en": "Ober\u00e1",
+        "en:t": "Argentina | Ober\u00e1 Department",
+        "a": true,
+        "g": {
+            "lat": -27.4868,
+            "lon": -55.1203
+        },
+        "it": "Ober\u00e1",
+        "it:t": "Argentina | Dipartimento di Ober\u00e1",
+        "es": "Ober\u00e1",
+        "es:t": "Argentina",
+        "de": "Ober\u00e1",
+        "de:t": "Argentinien | Departamento Ober\u00e1"
+    },
+    {
+        "en": "Olavarr\u00eda",
+        "en:t": "Argentina | Olavarr\u00eda Partido",
+        "a": true,
+        "g": {
+            "lat": -36.8937,
+            "lon": -60.3233
+        },
+        "it": "Olavarr\u00eda",
+        "it:t": "Argentina | Partido di Olavarr\u00eda",
+        "es": "Olavarr\u00eda",
+        "es:t": "Argentina",
+        "de": "Olavarr\u00eda",
+        "de:t": "Argentinien | Olavarr\u00eda Partido"
+    },
+    {
+        "en": "Or\u00e1n",
+        "en:t": "Argentina | Or\u00e1n Department",
+        "a": true,
+        "g": {
+            "lat": -23.1284,
+            "lon": -64.3217
+        },
+        "it": "Or\u00e1n",
+        "it:t": "Argentina | Or\u00e1n Department",
+        "es": "San Ramon de la Nueva Oran",
+        "es:t": "Argentina | Or\u00e1n",
+        "de": "San Ram\u00f3n de la Nueva Or\u00e1n",
+        "de:t": "Argentinien | Departamento Or\u00e1n"
+    },
+    {
+        "en": "Palpala",
+        "en:t": "Argentina | Palpal\u00e1 Department",
+        "a": true,
+        "g": {
+            "lat": -24.2584,
+            "lon": -65.2085
+        },
+        "it": "Palpal\u00e1",
+        "it:t": "Argentina | Dipartimento di Palpal\u00e1",
+        "es": "Palpal\u00e1",
+        "es:t": "Argentina",
+        "de": "Palpal\u00e1",
+        "de:t": "Argentinien | Departamento Palpal\u00e1"
+    },
+    {
+        "en": "Parana",
+        "en:t": "Argentina | Paran\u00e1 Department",
+        "a": true,
+        "g": {
+            "lat": -31.7413,
+            "lon": -60.5115
+        },
+        "it": "Paran\u00e1",
+        "it:t": "Argentina | Dipartimento di Paran\u00e1",
+        "es": "Paran\u00e1",
+        "es:t": "Argentina",
+        "de": "Paran\u00e1",
+        "de:t": "Argentinien | Paran\u00e1 Department"
+    },
+    {
+        "en": "Paso de los Libres",
+        "en:t": "Argentina | Paso de los Libres Department",
+        "a": true,
+        "g": {
+            "lat": -29.7137,
+            "lon": -57.0856
+        },
+        "it": "Paso de los Libres",
+        "it:t": "Argentina | Dipartimento di Paso de los Libres",
+        "es": "Paso de los Libres",
+        "es:t": "Argentina",
+        "de": "Paso de los Libres",
+        "de:t": "Argentinien | Paso de los Libres Department"
+    },
+    {
+        "en": "Pergamino",
+        "en:t": "Argentina | Pergamino Partido",
+        "a": true,
+        "g": {
+            "lat": -33.8913,
+            "lon": -60.5746
+        },
+        "it": "Pergamino",
+        "it:t": "Argentina | Partido di Pergamino",
+        "es": "Pergamino",
+        "es:t": "Argentina",
+        "de": "Pergamino",
+        "de:t": "Argentinien | Pergamino Partido"
+    },
+    {
+        "en": "Piran\u00e9",
+        "en:t": "Argentina | Piran\u00e9 Department",
+        "a": true,
+        "g": {
+            "lat": -25.7378,
+            "lon": -59.1116
+        },
+        "it": "Piran\u00e9",
+        "it:t": "Argentina | Piran\u00e9 Department",
+        "es": "Piran\u00e9",
+        "es:t": "Argentina",
+        "de": "Piran\u00e9",
+        "de:t": "Argentinien | Departamento Piran\u00e9"
+    },
+    {
+        "en": "Plottier",
+        "en:t": "Argentina | Confluencia Department",
+        "a": true,
+        "g": {
+            "lat": -38.9476,
+            "lon": -68.2288
+        },
+        "it": "Plottier",
+        "it:t": "Argentina | Confluencia Department",
+        "es": "Plottier",
+        "es:t": "Argentina | Confluencia",
+        "de": "Plottier",
+        "de:t": "Argentinien | Departamento Confluencia"
+    },
+    {
+        "en": "Pocito",
+        "en:t": "Argentina | Pocito Department",
+        "a": true,
+        "g": {
+            "lat": -31.6833,
+            "lon": -68.5834
+        },
+        "it": "Pocito",
+        "it:t": "Argentina | Pocito Department",
+        "es": "Pocito",
+        "es:t": "Argentina",
+        "de": "Pocito",
+        "de:t": "Argentinien | Pocito Department"
+    },
+    {
+        "en": "Pontevedra",
+        "en:t": "Argentina | Merlo Partido",
+        "a": true,
+        "g": {
+            "lat": -34.7443,
+            "lon": -58.7002
+        },
+        "it": "Pontevedra",
+        "it:t": "Argentina | Partido di Merlo",
+        "es": "Pontevedra",
+        "es:t": "Argentina | Merlo",
+        "de": "Pontevedra",
+        "de:t": "Argentinien | Merlo Partido"
+    },
+    {
+        "en": "Posadas",
+        "en:t": "Argentina | Capital Department, Misiones",
+        "a": true,
+        "g": {
+            "lat": -27.3621,
+            "lon": -55.9009
+        },
+        "it": "Posadas",
+        "it:t": "Argentina | Dipartimento di Capital",
+        "es": "Posadas",
+        "es:t": "Argentina | Capital",
+        "de": "Posadas",
+        "de:t": "Argentinien | Departamento Capital"
+    },
+    {
+        "en": "Presidencia Roque S\u00e1enz Pe\u00f1a",
+        "en:t": "Argentina | Comandante Fern\u00e1ndez Department",
+        "a": true,
+        "g": {
+            "lat": -26.8004,
+            "lon": -60.4312
+        },
+        "it": "Presidencia Roque S\u00e1enz Pe\u00f1a",
+        "it:t": "Argentina | Dipartimento di Comandante Fern\u00e1ndez",
+        "es": "S\u00e1enz Pe\u00f1a",
+        "es:t": "Argentina | Comandante Fern\u00e1ndez",
+        "de": "Presidencia Roque S\u00e1enz Pe\u00f1a",
+        "de:t": "Argentinien | Departamento Comandante Fern\u00e1ndez"
+    },
+    {
+        "en": "Puerto Esperanza",
+        "en:t": "Argentina | Iguaz\u00fa Department",
+        "a": true,
+        "g": {
+            "lat": -26.0227,
+            "lon": -54.6126
+        },
+        "it": "Puerto Esperanza",
+        "it:t": "Argentina | Dipartimento di Iguaz\u00fa",
+        "es": "Puerto Esperanza",
+        "es:t": "Argentina | Iguaz\u00fa",
+        "de": "Puerto Esperanza",
+        "de:t": "Argentinien | Iguaz\u00fa Department"
+    },
+    {
+        "en": "Puerto Iguaz\u00fa",
+        "en:t": "Argentina | Iguaz\u00fa Department",
+        "a": true,
+        "g": {
+            "lat": -25.5972,
+            "lon": -54.5786
+        },
+        "it": "Puerto Iguaz\u00fa",
+        "it:t": "Argentina | Dipartimento di Iguaz\u00fa",
+        "es": "Puerto Iguaz\u00fa",
+        "es:t": "Argentina | Iguaz\u00fa",
+        "de": "Puerto Iguaz\u00fa",
+        "de:t": "Argentinien | Departamento Iguaz\u00fa"
+    },
+    {
+        "en": "Puerto Madryn",
+        "en:t": "Argentina | Biedma Department",
+        "a": true,
+        "g": {
+            "lat": -42.7694,
+            "lon": -65.0317
+        },
+        "it": "Puerto Madryn",
+        "it:t": "Argentina | Dipartimento di Biedma",
+        "es": "Puerto Madryn",
+        "es:t": "Argentina | Viedma",
+        "de": "Puerto Madryn",
+        "de:t": "Argentinien | Departamento Biedma"
+    },
+    {
+        "en": "Puerto Rico",
+        "en:t": "Argentina | Libertador General San Mart\u00edn Department, Misiones",
+        "a": true,
+        "g": {
+            "lat": -26.8064,
+            "lon": -55.0241
+        },
+        "it": "Puerto Rico",
+        "it:t": "Argentina | Dipartimento di Libertador General San Mart\u00edn",
+        "es": "Puerto Rico",
+        "es:t": "Argentina | Libertador General San Mart\u00edn",
+        "de": "Puerto Rico",
+        "de:t": "Argentinien | Libertador General San Mart\u00edn Department, Misiones"
+    },
+    {
+        "en": "Punta Alta",
+        "en:t": "Argentina | Coronel Leonardo Rosales",
+        "a": true,
+        "g": {
+            "lat": -38.8766,
+            "lon": -62.0708
+        },
+        "it": "Punta Alta",
+        "it:t": "Argentina | Partido di Coronel de Marina Leonardo Rosales",
+        "es": "Punta Alta",
+        "es:t": "Argentina | Coronel Leonardo Rosales",
+        "de": "Punta Alta",
+        "de:t": "Argentinien | Coronel Leonardo Rosales"
+    },
+    {
+        "en": "P\u00e9rez",
+        "en:t": "Argentina | Rosario Department",
+        "a": true,
+        "g": {
+            "lat": -32.9991,
+            "lon": -60.7732
+        },
+        "it": "P\u00e9rez",
+        "it:t": "Argentina | Rosario Department",
+        "es": "P\u00e9rez",
+        "es:t": "Argentina | Departamento Rosario",
+        "de": "P\u00e9rez",
+        "de:t": "Argentinien | Rosario Department"
+    },
+    {
+        "en": "Quilmes",
+        "en:t": "Argentina | Quilmes Partido",
+        "a": true,
+        "g": {
+            "lat": -34.7206,
+            "lon": -58.2546
+        },
+        "it": "Quilmes",
+        "it:t": "Argentina | Partido di Quilmes",
+        "es": "Quilmes",
+        "es:t": "Argentina",
+        "de": "Quilmes",
+        "de:t": "Argentinien"
+    },
+    {
+        "en": "Quitilipi",
+        "en:t": "Argentina | Quitilipi Department",
+        "a": true,
+        "g": {
+            "lat": -26.872,
+            "lon": -60.2212
+        },
+        "it": "Quitilipi",
+        "it:t": "Argentina | Dipartimento di Quitilipi",
+        "es": "Quitilipi",
+        "es:t": "Argentina",
+        "de": "Quitilipi",
+        "de:t": "Argentinien | Quitilipi Department"
+    },
+    {
+        "en": "Rafaela",
+        "en:t": "Argentina | Castellanos Department",
+        "a": true,
+        "g": {
+            "lat": -31.2526,
+            "lon": -61.4916
+        },
+        "it": "Rafaela",
+        "it:t": "Argentina | Dipartimento di Castellanos",
+        "es": "Rafaela",
+        "es:t": "Argentina | Castellanos",
+        "de": "Rafaela",
+        "de:t": "Argentinien | Departamento Castellanos"
+    },
+    {
+        "en": "Rawson",
+        "en:t": "Argentina | Rawson Department",
+        "a": true,
+        "g": {
+            "lat": -43.2999,
+            "lon": -65.0995
+        },
+        "it": "Rawson",
+        "it:t": "Argentina | Dipartimento di Rawson",
+        "es": "Rawson",
+        "es:t": "Argentina",
+        "de": "Rawson",
+        "de:t": "Argentinien | Departamento Rawson"
+    },
+    {
+        "en": "Reconquista",
+        "en:t": "Argentina | Santa Fe",
+        "a": true,
+        "g": {
+            "lat": -31.6706,
+            "lon": -60.7272
+        },
+        "it": "Reconquista",
+        "it:t": "Argentina | Santa Fe",
+        "es": "Reconquista",
+        "es:t": "Argentina | General Obligado",
+        "de": "Reconquista",
+        "de:t": "Argentinien | Santa Fe"
+    },
+    {
+        "en": "Resistencia",
+        "en:t": "Argentina | San Fernando Department",
+        "a": true,
+        "g": {
+            "lat": -27.4519,
+            "lon": -58.9856
+        },
+        "it": "Resistencia",
+        "it:t": "Argentina | Dipartimento di San Fernando",
+        "es": "Resistencia",
+        "es:t": "Argentina | Departamento San Fernando",
+        "de": "Resistencia",
+        "de:t": "Argentinien | Departamento San Fernando"
+    },
+    {
+        "en": "Rio Ceballos",
+        "en:t": "Argentina | Col\u00f3n Department",
+        "a": true,
+        "g": {
+            "lat": -31.1737,
+            "lon": -64.3123
+        },
+        "it": "Rio Ceballos",
+        "it:t": "Argentina | Col\u00f3n Department",
+        "es": "R\u00edo Ceballos",
+        "es:t": "Argentina | Departamento Col\u00f3n",
+        "de": "R\u00edo Ceballos",
+        "de:t": "Argentinien | Departamento Col\u00f3n"
+    },
+    {
+        "en": "Rio Gallegos",
+        "en:t": "Argentina | G\u00fcer Aike Department",
+        "a": true,
+        "g": {
+            "lat": -51.623,
+            "lon": -69.2168
+        },
+        "it": "R\u00edo Gallegos",
+        "it:t": "Argentina | Dipartimento di G\u00fcer Aike",
+        "es": "R\u00edo Gallegos",
+        "es:t": "Argentina | G\u00fcer Aike",
+        "de": "R\u00edo Gallegos",
+        "de:t": "Argentinien | Departamento G\u00fcer Aike"
+    },
+    {
+        "en": "Rosario",
+        "en:t": "Argentina | Rosario Department",
+        "a": true,
+        "g": {
+            "lat": -32.9587,
+            "lon": -60.693
+        },
+        "it": "Rosario",
+        "it:t": "Argentina | Dipartimento di Rosario",
+        "es": "Rosario",
+        "es:t": "Argentina | Departamento Rosario",
+        "de": "Rosario",
+        "de:t": "Argentinien | Departamento Rosario"
+    },
+    {
+        "en": "Rufino",
+        "en:t": "Argentina | General L\u00f3pez Department",
+        "a": true,
+        "g": {
+            "lat": -34.2632,
+            "lon": -62.7128
+        },
+        "it": "Rufino",
+        "it:t": "Argentina | Dipartimento di General L\u00f3pez",
+        "es": "Rufino",
+        "es:t": "Argentina | General Lopez",
+        "de": "Rufino",
+        "de:t": "Argentinien | Departamento General L\u00f3pez"
+    },
+    {
+        "en": "R\u00edo Cuarto",
+        "en:t": "Argentina | R\u00edo Cuarto Department",
+        "a": true,
+        "g": {
+            "lat": -33.1232,
+            "lon": -64.3493
+        },
+        "it": "R\u00edo Cuarto",
+        "it:t": "Argentina | Dipartimento di R\u00edo Cuarto",
+        "es": "R\u00edo Cuarto",
+        "es:t": "Argentina",
+        "de": "R\u00edo Cuarto",
+        "de:t": "Argentinien | Departamento R\u00edo Cuarto"
+    },
+    {
+        "en": "R\u00edo Segundo",
+        "en:t": "Argentina | R\u00edo Segundo Department",
+        "a": true,
+        "g": {
+            "lat": -31.6508,
+            "lon": -63.9058
+        },
+        "it": "R\u00edo Segundo",
+        "it:t": "Argentina | Dipartimento di R\u00edo Segundo",
+        "es": "R\u00edo Segundo",
+        "es:t": "Argentina",
+        "de": "R\u00edo Segundo",
+        "de:t": "Argentinien | Departamento R\u00edo Segundo"
+    },
+    {
+        "en": "R\u00edo Tercero",
+        "en:t": "Argentina | Tercero Arriba Department",
+        "a": true,
+        "g": {
+            "lat": -32.1767,
+            "lon": -64.1131
+        },
+        "it": "R\u00edo Tercero",
+        "it:t": "Argentina | Tercero Arriba Department",
+        "es": "R\u00edo Tercero",
+        "es:t": "Argentina | Tercero Arriba",
+        "de": "R\u00edo Tercero",
+        "de:t": "Argentinien | Departamento Tercero Arriba"
+    },
+    {
+        "en": "Saladas",
+        "en:t": "Argentina | Saladas Department",
+        "a": true,
+        "g": {
+            "lat": -28.2557,
+            "lon": -58.6234
+        },
+        "it": "Saladas",
+        "it:t": "Argentina | Dipartimento di Saladas",
+        "es": "Saladas",
+        "es:t": "Argentina",
+        "de": "Saladas",
+        "de:t": "Argentinien | Saladas Department"
+    },
+    {
+        "en": "Salta",
+        "en:t": "Argentina | Capital Department",
+        "a": true,
+        "g": {
+            "lat": -24.7821,
+            "lon": -65.4232
+        },
+        "it": "Salta",
+        "it:t": "Argentina | Dipartimento di Capital",
+        "es": "Salta",
+        "es:t": "Argentina | Departamento de la Capital",
+        "de": "Salta",
+        "de:t": "Argentinien | Departamento Capital"
+    },
+    {
+        "en": "San Antonio Oeste",
+        "en:t": "Argentina | San Antonio Department",
+        "a": true,
+        "g": {
+            "lat": -40.7334,
+            "lon": -64.9536
+        },
+        "it": "San Antonio Oeste",
+        "it:t": "Argentina | Dipartimento di San Antonio",
+        "es": "San Antonio Oeste",
+        "es:t": "Argentina | San Antonio",
+        "de": "San Antonio Oeste",
+        "de:t": "Argentinien | Departamento San Antonio"
+    },
+    {
+        "en": "San Carlos de Bariloche",
+        "en:t": "Argentina | Bariloche Department",
+        "a": true,
+        "g": {
+            "lat": -41.1335,
+            "lon": -71.3103
+        },
+        "it": "San Carlos de Bariloche",
+        "it:t": "Argentina | Dipartimento di Bariloche",
+        "es": "San Carlos de Bariloche",
+        "es:t": "Argentina | Bariloche",
+        "de": "Bariloche",
+        "de:t": "Argentinien | Departamento Bariloche"
+    },
+    {
+        "en": "San Francisco",
+        "en:t": "Argentina | San Justo Department",
+        "a": true,
+        "g": {
+            "lat": -31.425,
+            "lon": -62.0842
+        },
+        "it": "San Francisco",
+        "it:t": "Argentina | Dipartimento di San Justo",
+        "es": "San Francisco",
+        "es:t": "Argentina | San Justo",
+        "de": "San Francisco",
+        "de:t": "Argentinien | Departamento San Justo"
+    },
+    {
+        "en": "San Isidro",
+        "en:t": "Argentina | San Isidro Partido",
+        "a": true,
+        "g": {
+            "lat": -34.4708,
+            "lon": -58.5286
+        },
+        "it": "San Isidro",
+        "it:t": "Argentina | Partido di San Isidro",
+        "es": "San Isidro",
+        "es:t": "Argentina",
+        "de": "San Isidro",
+        "de:t": "Argentinien"
+    },
+    {
+        "en": "San Javier",
+        "en:t": "Argentina | San Javier Department",
+        "a": true,
+        "g": {
+            "lat": -30.5796,
+            "lon": -59.9303
+        },
+        "it": "San Javier",
+        "it:t": "Argentina | Dipartimento di San Javier",
+        "es": "San Javier",
+        "es:t": "Argentina",
+        "de": "San Javier",
+        "de:t": "Argentinien | Departamento San Javier"
+    },
+    {
+        "en": "San Jorge",
+        "en:t": "Argentina | San Mart\u00edn",
+        "a": true,
+        "g": {
+            "lat": -31.8971,
+            "lon": -61.8599
+        },
+        "it": "San Jorge",
+        "it:t": "Argentina | Dipartimento di San Mart\u00edn",
+        "es": "San Jorge",
+        "es:t": "Argentina | San Mart\u00edn",
+        "de": "San Jorge",
+        "de:t": "Argentinien | Departamento San Mart\u00edn"
+    },
+    {
+        "en": "San Jos\u00e9 de J\u00e1chal",
+        "en:t": "Argentina | J\u00e1chal Department",
+        "a": true,
+        "g": {
+            "lat": -30.2417,
+            "lon": -68.7466
+        },
+        "it": "San Jos\u00e9 de J\u00e1chal",
+        "it:t": "Argentina | Dipartimento di J\u00e1chal",
+        "es": "San Jose de Jachal",
+        "es:t": "Argentina | J\u00e1chal",
+        "de": "San Jos\u00e9 de J\u00e1chal",
+        "de:t": "Argentinien | Departamento J\u00e1chal"
+    },
+    {
+        "en": "San Juan",
+        "en:t": "Argentina | Capital Department",
+        "a": true,
+        "g": {
+            "lat": -31.5351,
+            "lon": -68.5386
+        },
+        "it": "San Juan",
+        "it:t": "Argentina | Dipartimento di Capital",
+        "es": "San Juan",
+        "es:t": "Argentina | Capital",
+        "de": "San Juan",
+        "de:t": "Argentinien | Departamento Capital"
+    },
+    {
+        "en": "San Justo",
+        "en:t": "Argentina | San Justo Department",
+        "a": true,
+        "g": {
+            "lat": -30.7894,
+            "lon": -60.5935
+        },
+        "it": "San Justo",
+        "it:t": "Argentina | San Justo Department",
+        "es": "San Justo",
+        "es:t": "Argentina",
+        "de": "San Justo",
+        "de:t": "Argentinien | San Justo Department"
+    },
+    {
+        "en": "San Lorenzo",
+        "en:t": "Argentina | Corrientes",
+        "a": true,
+        "g": {
+            "lat": -27.4691,
+            "lon": -58.8319
+        },
+        "it": "San Lorenzo",
+        "it:t": "Argentina | Corrientes",
+        "es": "San Lorenzo",
+        "es:t": "Argentina | Corrientes",
+        "de": "San Lorenzo",
+        "de:t": "Argentinien | Corrientes"
+    },
+    {
+        "en": "San Luis",
+        "en:t": "Argentina | La Capital Department",
+        "a": true,
+        "g": {
+            "lat": -33.3017,
+            "lon": -66.3378
+        },
+        "it": "San Luis",
+        "it:t": "Argentina | Dipartimento di La Capital",
+        "es": "San Luis",
+        "es:t": "Argentina | Departamento Juan Mart\u00edn de Pueyrred\u00f3n",
+        "de": "San Luis",
+        "de:t": "Argentinien | Departamento La Capital"
+    },
+    {
+        "en": "San Luis del Palmar",
+        "en:t": "Argentina | San Luis del Palmar Department",
+        "a": true,
+        "g": {
+            "lat": -27.512,
+            "lon": -58.5599
+        },
+        "it": "San Luis del Palmar",
+        "it:t": "Argentina | San Luis del Palmar Department",
+        "es": "San Luis del Palmar",
+        "es:t": "Argentina",
+        "de": "San Luis del Palmar",
+        "de:t": "Argentinien | Departamento San Luis del Palmar"
+    },
+    {
+        "en": "San Mart\u00edn",
+        "en:t": "Argentina | San Mart\u00edn Department",
+        "a": true,
+        "g": {
+            "lat": -33.0806,
+            "lon": -68.4706
+        },
+        "it": "San Mart\u00edn",
+        "it:t": "Argentina | Dipartimento di San Mart\u00edn",
+        "es": "San Mart\u00edn",
+        "es:t": "Argentina",
+        "de": "San Mart\u00edn",
+        "de:t": "Argentinien | Departamento San Mart\u00edn"
+    },
+    {
+        "en": "San Mart\u00edn de los Andes",
+        "en:t": "Argentina | L\u00e1car Department",
+        "a": true,
+        "g": {
+            "lat": -40.1572,
+            "lon": -71.3524
+        },
+        "it": "San Mart\u00edn de los Andes",
+        "it:t": "Argentina | Dipartimento di L\u00e1car",
+        "es": "San Martin de los Andes",
+        "es:t": "Argentina | L\u00e1car",
+        "de": "San Mart\u00edn de los Andes",
+        "de:t": "Argentinien | Departamento L\u00e1car"
+    },
+    {
+        "en": "San Miguel de Tucum\u00e1n",
+        "en:t": "Argentina | Capital Department",
+        "a": true,
+        "g": {
+            "lat": -26.8083,
+            "lon": -65.2176
+        },
+        "it": "San Miguel de Tucum\u00e1n",
+        "it:t": "Argentina | Dipartimento di Capital",
+        "es": "San Miguel de Tucum\u00e1n",
+        "es:t": "Argentina | Departamento Capital (Tucum\u00e1n)",
+        "de": "San Miguel de Tucum\u00e1n",
+        "de:t": "Argentinien | Departamento Capital"
+    },
+    {
+        "en": "San Nicol\u00e1s de los Arroyos",
+        "en:t": "Argentina | San Nicol\u00e1s Partido",
+        "a": true,
+        "g": {
+            "lat": -33.3335,
+            "lon": -60.211
+        },
+        "it": "San Nicol\u00e1s de los Arroyos",
+        "it:t": "Argentina | Partido di San Nicol\u00e1s",
+        "es": "San Nicol\u00e1s de Los Arroyos",
+        "es:t": "Argentina | San Nicol\u00e1s de los Arroyos",
+        "de": "San Nicol\u00e1s de los Arroyos",
+        "de:t": "Argentinien | San Nicol\u00e1s Partido"
+    },
+    {
+        "en": "San Pedro",
+        "en:t": "Argentina | San Pedro Department",
+        "a": true,
+        "g": {
+            "lat": -26.6216,
+            "lon": -54.1093
+        },
+        "it": "San Pedro",
+        "it:t": "Argentina | Dipartimento di San Pedro",
+        "es": "San Pedro",
+        "es:t": "Argentina",
+        "de": "San Pedro",
+        "de:t": "Argentinien | San Pedro Department"
+    },
+    {
+        "en": "San Pedro de Jujuy",
+        "en:t": "Argentina | San Pedro Department, Jujuy",
+        "a": true,
+        "g": {
+            "lat": -24.231,
+            "lon": -64.8683
+        },
+        "it": "San Pedro de Jujuy",
+        "it:t": "Argentina | Dipartimento di San Pedro",
+        "es": "San Pedro de Jujuy",
+        "es:t": "Argentina | San Pedro",
+        "de": "San Pedro de Jujuy",
+        "de:t": "Argentinien | Departamento San Pedro"
+    },
+    {
+        "en": "San Rafael",
+        "en:t": "Argentina | San Rafael Department",
+        "a": true,
+        "g": {
+            "lat": -34.6129,
+            "lon": -68.3391
+        },
+        "it": "San Rafael",
+        "it:t": "Argentina | Dipartimento di San Rafael",
+        "es": "San Rafael",
+        "es:t": "Argentina",
+        "de": "San Rafael",
+        "de:t": "Argentinien | Departamento San Rafael"
+    },
+    {
+        "en": "San Vicente",
+        "en:t": "Argentina | Guaran\u00ed Department",
+        "a": true,
+        "g": {
+            "lat": -26.9954,
+            "lon": -54.482
+        },
+        "it": "San Vicente",
+        "it:t": "Argentina | Guaran\u00ed Department",
+        "es": "San Vicente",
+        "es:t": "Argentina | Guaran\u00ed",
+        "de": "San Vicente",
+        "de:t": "Argentinien | Departamento Guaran\u00ed"
+    },
+    {
+        "en": "Santa Elena",
+        "en:t": "Argentina | La Paz Department, Entre R\u00edos",
+        "a": true,
+        "g": {
+            "lat": -30.9463,
+            "lon": -59.7854
+        },
+        "it": "Santa Elena",
+        "it:t": "Argentina | La Paz Department, Entre R\u00edos",
+        "es": "Santa Elena",
+        "es:t": "Argentina | La Paz",
+        "de": "Santa Elena",
+        "de:t": "Argentinien | La Paz"
+    },
+    {
+        "en": "Santa Fe",
+        "en:t": "Argentina | La Capital Department",
+        "a": true,
+        "g": {
+            "lat": -31.6107,
+            "lon": -60.6973
+        },
+        "it": "Vera",
+        "it:t": "Argentina | Dipartimento di Vera",
+        "es": "Vera",
+        "es:t": "Argentina",
+        "de": "Santa Fe",
+        "de:t": "Argentinien | Departamento La Capital"
+    },
+    {
+        "en": "Santa Fe",
+        "en:t": "Argentina | La Capital Department",
+        "a": true,
+        "g": {
+            "lat": -31.6107,
+            "lon": -60.6973
+        },
+        "it": "Santa Fe",
+        "it:t": "Argentina | Dipartimento di La Capital",
+        "es": "Santa Fe",
+        "es:t": "Argentina | La Capital",
+        "de": "Santa Fe",
+        "de:t": "Argentinien | Departamento La Capital"
+    },
+    {
+        "en": "Santa Luc\u00eda",
+        "en:t": "Argentina",
+        "a": true,
+        "g": {
+            "lat": -31.5335,
+            "lon": -68.4833
+        },
+        "it": "Santa Luc\u00eda",
+        "it:t": "Argentina",
+        "es": "Santa Luc\u00eda",
+        "es:t": "Argentina",
+        "de": "Departamento Santa Luc\u00eda",
+        "de:t": "Argentinien | Provinz San Juan"
+    },
+    {
+        "en": "Santa Rosa",
+        "en:t": "Argentina | Department Capital",
+        "a": true,
+        "g": {
+            "lat": -36.6209,
+            "lon": -64.2912
+        },
+        "it": "Santa Rosa",
+        "it:t": "Argentina | Dipartimento di Capital",
+        "es": "Santa Rosa",
+        "es:t": "Argentina | Capital",
+        "de": "Santa Rosa de Toay",
+        "de:t": "Argentinien | Departamento Capital"
+    },
+    {
+        "en": "Santiago del Estero",
+        "en:t": "Argentina | Capital Department, Santiago del Estero",
+        "a": true,
+        "g": {
+            "lat": -27.7834,
+            "lon": -64.2642
+        },
+        "it": "Santiago del Estero",
+        "it:t": "Argentina | Dipartimento di Capital",
+        "es": "Santiago del Estero",
+        "es:t": "Argentina | Capital",
+        "de": "Provinz Santiago del Estero",
+        "de:t": "Argentinien"
+    },
+    {
+        "en": "Santo Tom\u00e9",
+        "en:t": "Argentina | La Capital Department",
+        "a": true,
+        "g": {
+            "lat": -31.6622,
+            "lon": -60.7616
+        },
+        "it": "Santo Tom\u00e9",
+        "it:t": "Argentina | Dipartimento di La Capital",
+        "es": "Santo Tome",
+        "es:t": "Argentina | La Capital",
+        "de": "Santo Tom\u00e9",
+        "de:t": "Argentinien | Departamento La Capital"
+    },
+    {
+        "en": "Santo Tom\u00e9",
+        "en:t": "Argentina | Santo Tom\u00e9 Department",
+        "a": true,
+        "g": {
+            "lat": -28.5524,
+            "lon": -56.0452
+        },
+        "it": "Santo Tom\u00e9",
+        "it:t": "Argentina | Dipartimento di Santo Tom\u00e9",
+        "es": "Santo Tome",
+        "es:t": "Argentina | Santo Tom\u00e9",
+        "de": "Santo Tom\u00e9",
+        "de:t": "Argentinien | Departamento Santo Tom\u00e9"
+    },
+    {
+        "en": "Sunchales",
+        "en:t": "Argentina | Castellanos Department",
+        "a": true,
+        "g": {
+            "lat": -30.9452,
+            "lon": -61.5607
+        },
+        "it": "Sunchales",
+        "it:t": "Argentina | Dipartimento di Castellanos",
+        "es": "Sunchales",
+        "es:t": "Argentina | Castellanos",
+        "de": "Sunchales",
+        "de:t": "Argentinien | Departamento Castellanos"
+    },
+    {
+        "en": "Taf\u00ed Viejo",
+        "en:t": "Argentina | Taf\u00ed Viejo Department",
+        "a": true,
+        "g": {
+            "lat": -26.7325,
+            "lon": -65.267
+        },
+        "it": "Taf\u00ed Viejo",
+        "it:t": "Argentina | Dipartimento di Taf\u00ed Viejo",
+        "es": "Taf\u00ed Viejo",
+        "es:t": "Argentina",
+        "de": "Taf\u00ed Viejo",
+        "de:t": "Argentinien | Departamento Taf\u00ed Viejo"
+    },
+    {
+        "en": "Tandil",
+        "en:t": "Argentina | Tandil Partido",
+        "a": true,
+        "g": {
+            "lat": -37.3288,
+            "lon": -59.1367
+        },
+        "it": "Tandil",
+        "it:t": "Argentina | Partido di Tandil",
+        "es": "Tandil",
+        "es:t": "Argentina",
+        "de": "Tandil",
+        "de:t": "Argentinien | Tandil Partido"
+    },
+    {
+        "en": "Tartagal",
+        "en:t": "Argentina | General Jos\u00e9 de San Mart\u00edn",
+        "a": true,
+        "g": {
+            "lat": -22.5168,
+            "lon": -63.8056
+        },
+        "it": "Tartagal",
+        "it:t": "Argentina | Dipartimento di General San Mart\u00edn",
+        "es": "Tartagal",
+        "es:t": "Argentina | General Jose de San Mart\u00edn",
+        "de": "Tartagal",
+        "de:t": "Argentinien | Departamento General Jos\u00e9 de San Mart\u00edn"
+    },
+    {
+        "en": "Termas de R\u00edo Hondo",
+        "en:t": "Argentina | R\u00edo Hondo Department",
+        "a": true,
+        "g": {
+            "lat": -27.4986,
+            "lon": -64.8605
+        },
+        "it": "Termas de R\u00edo Hondo",
+        "it:t": "Argentina | Dipartimento di R\u00edo Hondo",
+        "es": "Termas de R\u00edo Hondo",
+        "es:t": "Argentina | R\u00edo Hondo",
+        "de": "Termas de R\u00edo Hondo",
+        "de:t": "Argentinien | Departamento R\u00edo Hondo"
+    },
+    {
+        "en": "Tigre",
+        "en:t": "Argentina | Tigre Partido",
+        "a": true,
+        "g": {
+            "lat": -34.4251,
+            "lon": -58.5797
+        },
+        "it": "Tigre",
+        "it:t": "Argentina | Partido di Tigre",
+        "es": "Tigre",
+        "es:t": "Argentina",
+        "de": "Tigre",
+        "de:t": "Argentinien"
+    },
+    {
+        "en": "Trelew",
+        "en:t": "Argentina | Rawson Department",
+        "a": true,
+        "g": {
+            "lat": -43.2493,
+            "lon": -65.3076
+        },
+        "it": "Trelew",
+        "it:t": "Argentina | Dipartimento di Rawson",
+        "es": "Trelew",
+        "es:t": "Argentina | Rawson",
+        "de": "Trelew",
+        "de:t": "Argentinien | Departamento Rawson"
+    },
+    {
+        "en": "Tres Arroyos",
+        "en:t": "Argentina | Tres Arroyos Partido",
+        "a": true,
+        "g": {
+            "lat": -38.3775,
+            "lon": -60.2752
+        },
+        "it": "Tres Arroyos",
+        "it:t": "Argentina | Partido di Tres Arroyos",
+        "es": "Tres Arroyos",
+        "es:t": "Argentina",
+        "de": "Tres Arroyos",
+        "de:t": "Argentinien | Tres Arroyos Partido"
+    },
+    {
+        "en": "Tres Isletas",
+        "en:t": "Argentina | Maip\u00fa Department",
+        "a": true,
+        "g": {
+            "lat": -26.3392,
+            "lon": -60.4272
+        },
+        "it": "Tres Isletas",
+        "it:t": "Argentina | Dipartimento di Maip\u00fa",
+        "es": "Tres Isletas",
+        "es:t": "Argentina | Maip\u00fa",
+        "de": "Tres Isletas",
+        "de:t": "Argentinien | Departamento Maip\u00fa"
+    },
+    {
+        "en": "Unquillo",
+        "en:t": "Argentina | Col\u00f3n Department",
+        "a": true,
+        "g": {
+            "lat": -31.2341,
+            "lon": -64.3167
+        },
+        "it": "Unquillo",
+        "it:t": "Argentina | Col\u00f3n Department",
+        "es": "Unquillo",
+        "es:t": "Argentina | Departamento Col\u00f3n",
+        "de": "Unquillo",
+        "de:t": "Argentinien | Departamento Col\u00f3n"
+    },
+    {
+        "en": "Ushuaia",
+        "en:t": "Argentina | Ushuaia Department",
+        "a": true,
+        "g": {
+            "lat": -54.8019,
+            "lon": -68.303
+        },
+        "it": "Ushuaia",
+        "it:t": "Argentina | Dipartimento di Ushuaia",
+        "es": "Ushuaia",
+        "es:t": "Argentina",
+        "de": "Ushuaia",
+        "de:t": "Argentinien | Ushuaia Department"
+    },
+    {
+        "en": "Veinticinco de Mayo",
+        "en:t": "Argentina | 25 de Mayo",
+        "a": true,
+        "g": {
+            "lat": -35.4324,
+            "lon": -60.1716
+        },
+        "it": "Partido di Veinticinco de Mayo",
+        "it:t": "Argentina | 25 de Mayo",
+        "es": "Veinticinco de Mayo",
+        "es:t": "Argentina | 25 de Mayo",
+        "de": "25 de Mayo",
+        "de:t": "Argentinien | Lan\u00fas"
+    },
+    {
+        "en": "Venado Tuerto",
+        "en:t": "Argentina | General L\u00f3pez Department",
+        "a": true,
+        "g": {
+            "lat": -33.7456,
+            "lon": -61.969
+        },
+        "it": "Venado Tuerto",
+        "it:t": "Argentina | Dipartimento di General L\u00f3pez",
+        "es": "Venado Tuerto",
+        "es:t": "Argentina | General Lopez",
+        "de": "Venado Tuerto",
+        "de:t": "Argentinien | Departamento General L\u00f3pez"
+    },
+    {
+        "en": "Victoria",
+        "en:t": "Argentina | Victoria Department",
+        "a": true,
+        "g": {
+            "lat": -32.6216,
+            "lon": -60.1575
+        },
+        "it": "Victoria",
+        "it:t": "Argentina | Dipartimento di Victoria",
+        "es": "Victoria",
+        "es:t": "Argentina",
+        "de": "Victoria",
+        "de:t": "Argentinien | Departamento Victoria"
+    },
+    {
+        "en": "Viedma",
+        "en:t": "Argentina | Adolfo Alsina Department",
+        "a": true,
+        "g": {
+            "lat": -40.8119,
+            "lon": -62.9962
+        },
+        "it": "Viedma",
+        "it:t": "Argentina | Dipartimento di Adolfo Alsina",
+        "es": "Viedma",
+        "es:t": "Argentina | Adolfo Alsina",
+        "de": "Viedma",
+        "de:t": "Argentinien | Departamento Adolfo Alsina"
+    },
+    {
+        "en": "Villa Allende",
+        "en:t": "Argentina | Col\u00f3n Department",
+        "a": true,
+        "g": {
+            "lat": -31.3001,
+            "lon": -64.3002
+        },
+        "it": "Villa Allende",
+        "it:t": "Argentina | Col\u00f3n Department",
+        "es": "Villa Allende",
+        "es:t": "Argentina | Departamento Col\u00f3n",
+        "de": "Villa Allende",
+        "de:t": "Argentinien | Departamento Col\u00f3n"
+    },
+    {
+        "en": "Villa Carlos Paz",
+        "en:t": "Argentina | Punilla Department",
+        "a": true,
+        "g": {
+            "lat": -31.4208,
+            "lon": -64.4992
+        },
+        "it": "Villa Carlos Paz",
+        "it:t": "Argentina | Dipartimento di Punilla",
+        "es": "Villa Carlos Paz",
+        "es:t": "Argentina | Departamento Punilla",
+        "de": "Villa Carlos Paz",
+        "de:t": "Argentinien | Departamento Punilla"
+    },
+    {
+        "en": "Villa Constituci\u00f3n",
+        "en:t": "Argentina | Constituci\u00f3n Department",
+        "a": true,
+        "g": {
+            "lat": -33.2272,
+            "lon": -60.3299
+        },
+        "it": "Villa Constituci\u00f3n",
+        "it:t": "Argentina | Dipartimento di Constituci\u00f3n",
+        "es": "Villa Constituci\u00f3n",
+        "es:t": "Argentina | Constituci\u00f3n",
+        "de": "Villa Constituci\u00f3n",
+        "de:t": "Argentinien | Constituci\u00f3n Department"
+    },
+    {
+        "en": "Villa Dolores",
+        "en:t": "Argentina | San Javier Department",
+        "a": true,
+        "g": {
+            "lat": -31.945,
+            "lon": -65.1903
+        },
+        "it": "Villa Dolores",
+        "it:t": "Argentina | Dipartimento di San Javier",
+        "es": "Villa Dolores",
+        "es:t": "Argentina | San Javier",
+        "de": "Villa Dolores",
+        "de:t": "Argentinien | Departamento San Javier"
+    },
+    {
+        "en": "Villa Gesell",
+        "en:t": "Argentina | Villa Gesell Partido",
+        "a": true,
+        "g": {
+            "lat": -37.2599,
+            "lon": -56.9714
+        },
+        "it": "Villa Gesell",
+        "it:t": "Argentina | Partido di Villa Gesell",
+        "es": "Villa Gesell",
+        "es:t": "Argentina",
+        "de": "Villa Gesell",
+        "de:t": "Argentinien | Villa Gesell Partido"
+    },
+    {
+        "en": "Villa Gobernador G\u00e1lvez",
+        "en:t": "Argentina | Rosario Department",
+        "a": true,
+        "g": {
+            "lat": -33.0255,
+            "lon": -60.6338
+        },
+        "it": "Villa Gobernador G\u00e1lvez",
+        "it:t": "Argentina | Dipartimento di Rosario",
+        "es": "Villa Gobernador Galvez",
+        "es:t": "Argentina | Departamento Rosario",
+        "de": "Villa Gobernador G\u00e1lvez",
+        "de:t": "Argentinien | Departamento Rosario"
+    },
+    {
+        "en": "Villa Lugano",
+        "en:t": "Argentina | Comuna 8",
+        "a": true,
+        "g": {
+            "lat": -34.6729,
+            "lon": -58.4811
+        },
+        "it": "Villa Lugano",
+        "it:t": "Argentina | Comuna 8",
+        "es": "Villa Lugano",
+        "es:t": "Argentina | Comuna 8",
+        "de": "Villa Lugano",
+        "de:t": "Argentinien | Comuna 8"
+    },
+    {
+        "en": "Villa Mar\u00eda",
+        "en:t": "Argentina | General San Mart\u00edn Department",
+        "a": true,
+        "g": {
+            "lat": -32.4105,
+            "lon": -63.2436
+        },
+        "it": "Villa Mar\u00eda",
+        "it:t": "Argentina | General San Mart\u00edn Department",
+        "es": "Villa Mar\u00eda",
+        "es:t": "Argentina | General San Martin",
+        "de": "Villa Mar\u00eda",
+        "de:t": "Argentinien | Departamento General San Mart\u00edn"
+    },
+    {
+        "en": "Villa Mercedes",
+        "en:t": "Argentina | General Pedernera Department",
+        "a": true,
+        "g": {
+            "lat": -33.6754,
+            "lon": -65.4581
+        },
+        "it": "Villa Mercedes",
+        "it:t": "Argentina | Dipartimento di General Pedernera",
+        "es": "Villa Mercedes",
+        "es:t": "Argentina | General Pedernera",
+        "de": "Villa Mercedes",
+        "de:t": "Argentinien | Departamento General Pedernera"
+    },
+    {
+        "en": "Villa Nueva",
+        "en:t": "Argentina | General San Martin",
+        "a": true,
+        "g": {
+            "lat": -32.4356,
+            "lon": -63.2481
+        },
+        "it": "Villa Nueva",
+        "it:t": "Argentina | General San Martin",
+        "es": "Villa Nueva",
+        "es:t": "Argentina | General San Martin",
+        "de": "Villa Nueva",
+        "de:t": "Argentinien | General San Martin"
+    },
+    {
+        "en": "Villa Ocampo",
+        "en:t": "Argentina | General Obligado Department",
+        "a": true,
+        "g": {
+            "lat": -28.4862,
+            "lon": -59.3554
+        },
+        "it": "Villa Ocampo",
+        "it:t": "Argentina | General Obligado Department",
+        "es": "Villa Ocampo",
+        "es:t": "Argentina | General Obligado",
+        "de": "Villa Ocampo",
+        "de:t": "Argentinien | General Obligado Department"
+    },
+    {
+        "en": "Villa Paula de Sarmiento",
+        "en:t": "Argentina | Chimbas",
+        "a": true,
+        "g": {
+            "lat": -31.4833,
+            "lon": -68.5667
+        },
+        "it": "Villa Paula de Sarmiento",
+        "it:t": "Argentina | Chimbas",
+        "es": "Villa Paula de Sarmiento",
+        "es:t": "Argentina | Chimbas",
+        "de": "Villa Paula de Sarmiento",
+        "de:t": "Argentinien | Chimbas"
+    },
+    {
+        "en": "Villa Regina",
+        "en:t": "Argentina | General Roca Department, R\u00edo Negro",
+        "a": true,
+        "g": {
+            "lat": -39.1018,
+            "lon": -67.0879
+        },
+        "it": "Villa Regina",
+        "it:t": "Argentina | Dipartimento di General Roca",
+        "es": "Villa Regina",
+        "es:t": "Argentina | General Roca",
+        "de": "Villa Regina",
+        "de:t": "Argentinien | Departamento General Roca"
+    },
+    {
+        "en": "Villa Santa Rita",
+        "en:t": "Argentina | Comuna 11",
+        "a": true,
+        "g": {
+            "lat": -34.6138,
+            "lon": -58.4832
+        },
+        "it": "Villa Santa Rita",
+        "it:t": "Argentina | Comuna 11",
+        "es": "Villa Santa Rita",
+        "es:t": "Argentina | Comuna 11",
+        "de": "Villa Santa Rita",
+        "de:t": "Argentinien | Comuna 11"
+    },
+    {
+        "en": "Villa \u00c1ngela",
+        "en:t": "Argentina | Departamento de Mayor Luis J. Fontana",
+        "a": true,
+        "g": {
+            "lat": -27.5758,
+            "lon": -60.7137
+        },
+        "it": "Villa \u00c1ngela",
+        "it:t": "Argentina | Departamento de Mayor Luis J. Fontana",
+        "es": "Villa Angela",
+        "es:t": "Argentina | Mayor Luis J. Fontana",
+        "de": "Villa \u00c1ngela",
+        "de:t": "Argentinien | Departamento de Mayor Luis J. Fontana"
+    },
+    {
+        "en": "Villaguay",
+        "en:t": "Argentina | Villaguay Department",
+        "a": true,
+        "g": {
+            "lat": -31.8677,
+            "lon": -59.0269
+        },
+        "it": "Villaguay",
+        "it:t": "Argentina | Dipartimento di Villaguay",
+        "es": "Villaguay",
+        "es:t": "Argentina",
+        "de": "Villaguay",
+        "de:t": "Argentinien | Villaguay Department"
+    },
+    {
+        "en": "Yerba Buena",
+        "en:t": "Argentina | Yerba Buena Department",
+        "a": true,
+        "g": {
+            "lat": -26.8167,
+            "lon": -65.3167
+        },
+        "it": "Yerba Buena",
+        "it:t": "Argentina | Dipartimento di Yerba Buena",
+        "es": "Yerba Buena",
+        "es:t": "Argentina",
+        "de": "Yerba Buena",
+        "de:t": "Argentinien | Departamento Yerba Buena"
+    },
+    {
+        "en": "Zapala",
+        "en:t": "Argentina | Zapala Department",
+        "a": true,
+        "g": {
+            "lat": -38.9032,
+            "lon": -70.0649
+        },
+        "it": "Zapala",
+        "it:t": "Argentina | Dipartimento di Zapala",
+        "es": "Zapala",
+        "es:t": "Argentina",
+        "de": "Zapala",
+        "de:t": "Argentinien | Departamento Zapala"
+    },
+    {
+        "en": "Zarate",
+        "en:t": "Argentina | Z\u00e1rate Partido",
+        "a": true,
+        "g": {
+            "lat": -34.0958,
+            "lon": -59.0242
+        },
+        "it": "Z\u00e1rate",
+        "it:t": "Argentina | Partido di Z\u00e1rate",
+        "es": "Z\u00e1rate",
+        "es:t": "Argentina",
+        "de": "Z\u00e1rate",
+        "de:t": "Argentinien | Z\u00e1rate Partido"
+    }
+]

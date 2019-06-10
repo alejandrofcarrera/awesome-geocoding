@@ -1,0 +1,3287 @@
+[
+    {
+        "en": "Abbotsford",
+        "en:t": "Canada | Fraser Valley",
+        "a": true,
+        "g": {
+            "lat": 49.0504,
+            "lon": -122.3045
+        },
+        "it": "Abbotsford",
+        "it:t": "Canada | Fraser Valley",
+        "es": "Abbotsford",
+        "es:t": "Canad\u00e1 | Fraser Valley",
+        "de": "Abbotsford",
+        "de:t": "Kanada | Fraser Valley"
+    },
+    {
+        "en": "Airdrie",
+        "en:t": "Canada | Rocky View County",
+        "a": true,
+        "g": {
+            "lat": 51.2917,
+            "lon": -114.0144
+        },
+        "it": "Airdrie",
+        "it:t": "Canada | Rocky View County",
+        "es": "Airdrie",
+        "es:t": "Canad\u00e1 | Rocky View County",
+        "de": "Airdrie",
+        "de:t": "Kanada | Rocky View County"
+    },
+    {
+        "en": "Ajax",
+        "en:t": "Canada | Durham",
+        "a": true,
+        "g": {
+            "lat": 43.8509,
+            "lon": -79.0204
+        },
+        "it": "Ajax",
+        "it:t": "Canada | Durham",
+        "es": "Ajax",
+        "es:t": "Canad\u00e1 | Durham",
+        "de": "Ajax",
+        "de:t": "Kanada | Durham"
+    },
+    {
+        "en": "Alma",
+        "en:t": "Canada | Lac-Saint-Jean-Est",
+        "a": true,
+        "g": {
+            "lat": 48.5505,
+            "lon": -71.6528
+        },
+        "it": "Alma",
+        "it:t": "Canada | Lac-Saint-Jean-Est",
+        "es": "Alma",
+        "es:t": "Canad\u00e1 | Lac-Saint-Jean-Est",
+        "de": "Alma",
+        "de:t": "Kanada | Lac-Saint-Jean-Est"
+    },
+    {
+        "en": "Amos",
+        "en:t": "Canada | Abitibi",
+        "a": true,
+        "g": {
+            "lat": 48.565,
+            "lon": -78.1125
+        },
+        "it": "Amos",
+        "it:t": "Canada | Abitibi",
+        "es": "Amos",
+        "es:t": "Canad\u00e1 | Abitibi",
+        "de": "Amos",
+        "de:t": "Kanada | Abitibi"
+    },
+    {
+        "en": "Ancaster",
+        "en:t": "Canada | Jerseyville",
+        "a": true,
+        "g": {
+            "lat": 43.2178,
+            "lon": -79.9873
+        },
+        "it": "Ancaster",
+        "it:t": "Canada | Jerseyville",
+        "es": "Ancaster",
+        "es:t": "Canad\u00e1 | Jerseyville",
+        "de": "Ancaster",
+        "de:t": "Kanada | Jerseyville"
+    },
+    {
+        "en": "Anmore",
+        "en:t": "Canada | Greater Vancouver",
+        "a": true,
+        "g": {
+            "lat": 49.3146,
+            "lon": -122.8557
+        },
+        "it": "Anmore",
+        "it:t": "Canada | Greater Vancouver",
+        "es": "Anmore",
+        "es:t": "Canad\u00e1 | Greater Vancouver",
+        "de": "Anmore",
+        "de:t": "Kanada | Greater Vancouver"
+    },
+    {
+        "en": "Baie-Comeau",
+        "en:t": "Canada | Manicouagan",
+        "a": true,
+        "g": {
+            "lat": 49.2213,
+            "lon": -68.1504
+        },
+        "it": "Baie-Comeau",
+        "it:t": "Canada | Manicouagan",
+        "es": "Baie-Comeau",
+        "es:t": "Canad\u00e1 | Manicouagan",
+        "de": "Baie-Comeau",
+        "de:t": "Kanada | Manicouagan"
+    },
+    {
+        "en": "Barrie",
+        "en:t": "Canada | Simcoe County",
+        "a": true,
+        "g": {
+            "lat": 44.3894,
+            "lon": -79.6903
+        },
+        "it": "Barrie",
+        "it:t": "Canada | Contea di Simcoe",
+        "es": "Barrie",
+        "es:t": "Canad\u00e1 | Simcoe County",
+        "de": "Barrie",
+        "de:t": "Kanada | Simcoe County"
+    },
+    {
+        "en": "Beaconsfield",
+        "en:t": "Canada | Montreal",
+        "a": true,
+        "g": {
+            "lat": 45.4309,
+            "lon": -73.8683
+        },
+        "it": "Beaconsfield",
+        "it:t": "Canada | Montr\u00e9al",
+        "es": "Beaconsfield",
+        "es:t": "Canad\u00e1 | Montreal",
+        "de": "Beaconsfield",
+        "de:t": "Kanada | Montreal"
+    },
+    {
+        "en": "Bellechasse",
+        "en:t": "Canada | Quebec",
+        "a": true,
+        "g": {
+            "lat": 46.6919,
+            "lon": -70.8339
+        },
+        "it": "Bellechasse",
+        "it:t": "Canada | Qu\u00e9bec",
+        "es": "Bellechasse",
+        "es:t": "Canad\u00e1 | Quebec",
+        "de": "Bellechasse",
+        "de:t": "Kanada | Qu\u00e9bec"
+    },
+    {
+        "en": "Belleville",
+        "en:t": "Canada | Hastings County",
+        "a": true,
+        "g": {
+            "lat": 44.1628,
+            "lon": -77.3832
+        },
+        "it": "Belleville",
+        "it:t": "Canada | Contea di Hastings",
+        "es": "Belleville",
+        "es:t": "Canad\u00e1 | Hastings County",
+        "de": "Belleville",
+        "de:t": "Kanada | Hastings County"
+    },
+    {
+        "en": "Beloeil",
+        "en:t": "Canada | McMasterville",
+        "a": true,
+        "g": {
+            "lat": 45.5679,
+            "lon": -73.2039
+        },
+        "it": "Beloeil",
+        "it:t": "Canada | McMasterville",
+        "es": "Beloeil",
+        "es:t": "Canad\u00e1 | McMasterville",
+        "de": "Bel\u0153il",
+        "de:t": "Kanada | McMasterville"
+    },
+    {
+        "en": "Blainville",
+        "en:t": "Canada | Th\u00e9r\u00e8se-De Blainville",
+        "a": true,
+        "g": {
+            "lat": 45.6689,
+            "lon": -73.8729
+        },
+        "it": "Blainville",
+        "it:t": "Canada | Th\u00e9r\u00e8se-De Blainville",
+        "es": "Blainville",
+        "es:t": "Canad\u00e1 | Th\u00e9r\u00e8se-De Blainville",
+        "de": "Blainville",
+        "de:t": "Kanada | Th\u00e9r\u00e8se-De Blainville"
+    },
+    {
+        "en": "Boisbriand",
+        "en:t": "Canada | Th\u00e9r\u00e8se-De Blainville",
+        "a": true,
+        "g": {
+            "lat": 45.6126,
+            "lon": -73.8384
+        },
+        "it": "Boisbriand",
+        "it:t": "Canada | Th\u00e9r\u00e8se-De Blainville",
+        "es": "Boisbriand",
+        "es:t": "Canad\u00e1 | Th\u00e9r\u00e8se-De Blainville",
+        "de": "Boisbriand",
+        "de:t": "Kanada | Th\u00e9r\u00e8se-De Blainville"
+    },
+    {
+        "en": "Boucherville",
+        "en:t": "Canada | Marguerite-D\u2019Youville",
+        "a": true,
+        "g": {
+            "lat": 45.5914,
+            "lon": -73.4364
+        },
+        "it": "Boucherville",
+        "it:t": "Canada | Marguerite-D\u2019Youville",
+        "es": "Boucherville",
+        "es:t": "Canad\u00e1 | Marguerite-D\u2019Youville",
+        "de": "Boucherville",
+        "de:t": "Kanada | Marguerite-D\u2019Youville"
+    },
+    {
+        "en": "Bradford West Gwillimbury",
+        "en:t": "Canada | King",
+        "a": true,
+        "g": {
+            "lat": 44.1149,
+            "lon": -79.563
+        },
+        "it": "Bradford West Gwillimbury",
+        "it:t": "Canada | King",
+        "es": "Bradford West Gwillimbury",
+        "es:t": "Canad\u00e1 | King",
+        "de": "Bradford West Gwillimbury",
+        "de:t": "Kanada | King"
+    },
+    {
+        "en": "Brampton",
+        "en:t": "Canada | Peel",
+        "a": true,
+        "g": {
+            "lat": 43.7315,
+            "lon": -79.7624
+        },
+        "it": "Brampton",
+        "it:t": "Canada | Peel",
+        "es": "Brampton",
+        "es:t": "Canad\u00e1 | Peel",
+        "de": "Brampton",
+        "de:t": "Kanada | Peel"
+    },
+    {
+        "en": "Brandon",
+        "en:t": "Canada | Division No. 7",
+        "a": true,
+        "g": {
+            "lat": 49.8485,
+            "lon": -99.9501
+        },
+        "it": "Brandon",
+        "it:t": "Canada | Divisione No. 7",
+        "es": "Brandon",
+        "es:t": "Canad\u00e1 | Division No. 7",
+        "de": "Brandon",
+        "de:t": "Kanada | Division No. 7"
+    },
+    {
+        "en": "Brant",
+        "en:t": "Canada | Brant County",
+        "a": true,
+        "g": {
+            "lat": 43.1527,
+            "lon": -80.1716
+        },
+        "it": "Brant",
+        "it:t": "Canada | Brant County",
+        "es": "Brant",
+        "es:t": "Canad\u00e1 | Brant County",
+        "de": "Brantford",
+        "de:t": "Kanada | Brant County"
+    },
+    {
+        "en": "Brantford",
+        "en:t": "Canada | Brant County",
+        "a": true,
+        "g": {
+            "lat": 43.1394,
+            "lon": -80.2644
+        },
+        "it": "Brantford",
+        "it:t": "Canada | Brant County",
+        "es": "Brantford",
+        "es:t": "Canad\u00e1 | Brant County",
+        "de": "Brantford",
+        "de:t": "Kanada | Brant County"
+    },
+    {
+        "en": "Brockville",
+        "en:t": "Canada | Leeds and Grenville United Counties",
+        "a": true,
+        "g": {
+            "lat": 44.5895,
+            "lon": -75.6843
+        },
+        "it": "Brockville",
+        "it:t": "Canada | Contee unite di Leeds e Grenville",
+        "es": "Brockville",
+        "es:t": "Canad\u00e1 | Leeds and Grenville United Counties",
+        "de": "Brockville",
+        "de:t": "Kanada | Leeds and Grenville United Counties"
+    },
+    {
+        "en": "Brossard",
+        "en:t": "Canada | Champlain",
+        "a": true,
+        "g": {
+            "lat": 45.4514,
+            "lon": -73.4619
+        },
+        "it": "Brossard",
+        "it:t": "Canada | Champlain",
+        "es": "Brossard",
+        "es:t": "Canad\u00e1 | Champlain",
+        "de": "Brossard",
+        "de:t": "Kanada | Champlain"
+    },
+    {
+        "en": "Burlington",
+        "en:t": "Canada | Halton",
+        "a": true,
+        "g": {
+            "lat": 43.3255,
+            "lon": -79.799
+        },
+        "it": "Burlington",
+        "it:t": "Canada | Halton",
+        "es": "Burlington",
+        "es:t": "Canad\u00e1 | Halton",
+        "de": "Burlington",
+        "de:t": "Kanada | Halton"
+    },
+    {
+        "en": "Burnaby",
+        "en:t": "Canada | Greater Vancouver",
+        "a": true,
+        "g": {
+            "lat": 49.2488,
+            "lon": -122.9805
+        },
+        "it": "Burnaby",
+        "it:t": "Canada | Greater Vancouver",
+        "es": "Burnaby",
+        "es:t": "Canad\u00e1 | Greater Vancouver",
+        "de": "Burnaby",
+        "de:t": "Kanada | Greater Vancouver"
+    },
+    {
+        "en": "Calgary",
+        "en:t": "Canada | Division No. 6",
+        "a": true,
+        "g": {
+            "lat": 51.0486,
+            "lon": -114.0708
+        },
+        "it": "Calgary",
+        "it:t": "Canada | Divisione No. 6",
+        "es": "Calgary",
+        "es:t": "Canad\u00e1 | Divisi\u00f3n N\u00famero 6",
+        "de": "Calgary",
+        "de:t": "Kanada | Division No. 6"
+    },
+    {
+        "en": "Cambridge",
+        "en:t": "Canada | Waterloo",
+        "a": true,
+        "g": {
+            "lat": 43.3616,
+            "lon": -80.3144
+        },
+        "it": "Cambridge",
+        "it:t": "Canada | Waterloo",
+        "es": "Cambridge",
+        "es:t": "Canad\u00e1 | Waterloo",
+        "de": "Cambridge",
+        "de:t": "Kanada | Waterloo"
+    },
+    {
+        "en": "Campbell River",
+        "en:t": "Canada",
+        "a": true,
+        "g": {
+            "lat": 50.0331,
+            "lon": -125.2733
+        },
+        "it": "Campbell River",
+        "it:t": "Canada",
+        "es": "Campbell River",
+        "es:t": "Canad\u00e1",
+        "de": "Campbell River",
+        "de:t": "Kanada"
+    },
+    {
+        "en": "Camrose",
+        "en:t": "Canada | Division No. 10",
+        "a": true,
+        "g": {
+            "lat": 53.0222,
+            "lon": -112.8286
+        },
+        "it": "Camrose",
+        "it:t": "Canada | Divisione No. 10",
+        "es": "Camrose",
+        "es:t": "Canad\u00e1 | Division No. 10",
+        "de": "Camrose",
+        "de:t": "Kanada | Division No. 10"
+    },
+    {
+        "en": "Candiac",
+        "en:t": "Canada | Roussillon",
+        "a": true,
+        "g": {
+            "lat": 45.3839,
+            "lon": -73.5174
+        },
+        "it": "Candiac",
+        "it:t": "Canada | Roussillon",
+        "es": "Candiac",
+        "es:t": "Canad\u00e1 | Roussillon",
+        "de": "Candiac",
+        "de:t": "Kanada | Roussillon"
+    },
+    {
+        "en": "Chambly",
+        "en:t": "Canada | La Vall\u00e9e-du-Richelieu",
+        "a": true,
+        "g": {
+            "lat": 45.4392,
+            "lon": -73.2902
+        },
+        "it": "Chambly",
+        "it:t": "Canada | La Vall\u00e9e-du-Richelieu",
+        "es": "Chambly",
+        "es:t": "Canad\u00e1 | Valle del Richelieu",
+        "de": "Chambly",
+        "de:t": "Kanada | La Vall\u00e9e-du-Richelieu"
+    },
+    {
+        "en": "Charlottetown",
+        "en:t": "Canada | Lot 34",
+        "a": true,
+        "g": {
+            "lat": 46.2382,
+            "lon": -63.1311
+        },
+        "it": "Charlottetown",
+        "it:t": "Canada | Lot 34",
+        "es": "Charlottetown",
+        "es:t": "Canad\u00e1 | Lot 34",
+        "de": "Charlottetown",
+        "de:t": "Kanada | Lot 34"
+    },
+    {
+        "en": "Chilliwack",
+        "en:t": "Canada | Fraser Valley",
+        "a": true,
+        "g": {
+            "lat": 49.1579,
+            "lon": -121.9515
+        },
+        "it": "Chilliwack",
+        "it:t": "Canada | Fraser Valley",
+        "es": "Chilliwack",
+        "es:t": "Canad\u00e1 | Fraser Valley",
+        "de": "Chilliwack",
+        "de:t": "Kanada | Fraser Valley"
+    },
+    {
+        "en": "Ch\u00e2teauguay",
+        "en:t": "Canada | Roussillon",
+        "a": true,
+        "g": {
+            "lat": 45.3602,
+            "lon": -73.7494
+        },
+        "it": "Ch\u00e2teauguay",
+        "it:t": "Canada | Roussillon",
+        "es": "Ch\u00e2teauguay",
+        "es:t": "Canad\u00e1 | Roussillon",
+        "de": "Ch\u00e2teauguay",
+        "de:t": "Kanada | Roussillon"
+    },
+    {
+        "en": "Clarence-Rockland",
+        "en:t": "Canada | Prescott and Russell United Counties",
+        "a": true,
+        "g": {
+            "lat": 45.5509,
+            "lon": -75.2804
+        },
+        "it": "Clarence-Rockland",
+        "it:t": "Canada | Prescott and Russell United Counties",
+        "es": "Clarence-Rockland",
+        "es:t": "Canad\u00e1 | Prescott and Russell United Counties",
+        "de": "Clarence-Rockland",
+        "de:t": "Kanada | Prescott and Russell United Counties"
+    },
+    {
+        "en": "Cobourg",
+        "en:t": "Canada | Hamilton",
+        "a": true,
+        "g": {
+            "lat": 43.9593,
+            "lon": -78.1677
+        },
+        "it": "Cobourg",
+        "it:t": "Canada | Hamilton",
+        "es": "Cobourg",
+        "es:t": "Canad\u00e1 | Hamilton",
+        "de": "Cobourg",
+        "de:t": "Kanada | Hamilton"
+    },
+    {
+        "en": "Cochrane",
+        "en:t": "Canada | Rocky View County",
+        "a": true,
+        "g": {
+            "lat": 51.191,
+            "lon": -114.4679
+        },
+        "it": "Cochrane",
+        "it:t": "Canada | Rocky View County",
+        "es": "Cochrane",
+        "es:t": "Canad\u00e1 | Rocky View County",
+        "de": "Cochrane",
+        "de:t": "Kanada | Rocky View County"
+    },
+    {
+        "en": "Cole Harbour",
+        "en:t": "Canada | Halifax",
+        "a": true,
+        "g": {
+            "lat": 44.6458,
+            "lon": -63.4534
+        },
+        "it": "Cole Harbour",
+        "it:t": "Canada | Halifax",
+        "es": "Cole Harbour",
+        "es:t": "Canad\u00e1 | Halifax",
+        "de": "Cole Harbour",
+        "de:t": "Kanada | Halifax"
+    },
+    {
+        "en": "Collingwood",
+        "en:t": "Canada | Clearview",
+        "a": true,
+        "g": {
+            "lat": 44.5008,
+            "lon": -80.2169
+        },
+        "it": "Collingwood",
+        "it:t": "Canada | Clearview",
+        "es": "Collingwood",
+        "es:t": "Canad\u00e1 | Clearview",
+        "de": "Collingwood",
+        "de:t": "Kanada | Clearview"
+    },
+    {
+        "en": "Conception Bay South",
+        "en:t": "Canada | Division No. 1",
+        "a": true,
+        "g": {
+            "lat": 47.5083,
+            "lon": -52.9941
+        },
+        "it": "Conception Bay South",
+        "it:t": "Canada | Division No. 1",
+        "es": "Conception Bay South",
+        "es:t": "Canad\u00e1 | Division No. 1",
+        "de": "Conception Bay South",
+        "de:t": "Kanada | Division No. 1"
+    },
+    {
+        "en": "Coquitlam",
+        "en:t": "Canada | Greater Vancouver",
+        "a": true,
+        "g": {
+            "lat": 49.2838,
+            "lon": -122.7932
+        },
+        "it": "Coquitlam",
+        "it:t": "Canada | Greater Vancouver",
+        "es": "Coquitlam",
+        "es:t": "Canad\u00e1 | Greater Vancouver",
+        "de": "Coquitlam",
+        "de:t": "Kanada | Greater Vancouver"
+    },
+    {
+        "en": "Corner Brook",
+        "en:t": "Canada | Division No. 5",
+        "a": true,
+        "g": {
+            "lat": 48.949,
+            "lon": -57.9503
+        },
+        "it": "Corner Brook",
+        "it:t": "Canada | Divisione No. 5",
+        "es": "Corner Brook",
+        "es:t": "Canad\u00e1 | Division No. 5",
+        "de": "Corner Brook",
+        "de:t": "Kanada | Division No. 5"
+    },
+    {
+        "en": "Cornwall",
+        "en:t": "Canada | Stormont",
+        "a": true,
+        "g": {
+            "lat": 45.0213,
+            "lon": -74.7303
+        },
+        "it": "Cornwall",
+        "it:t": "Canada | Stormont",
+        "es": "Cornwall",
+        "es:t": "Canad\u00e1 | Stormont",
+        "de": "Cornwall",
+        "de:t": "Kanada | Stormont"
+    },
+    {
+        "en": "Courtenay",
+        "en:t": "Canada | Comox-Strathcona B",
+        "a": true,
+        "g": {
+            "lat": 49.6841,
+            "lon": -124.9904
+        },
+        "it": "Courtenay",
+        "it:t": "Canada | Comox-Strathcona B",
+        "es": "Courtenay",
+        "es:t": "Canad\u00e1 | Comox-Strathcona B",
+        "de": "Courtenay",
+        "de:t": "Kanada | Comox-Strathcona B"
+    },
+    {
+        "en": "Cranbrook",
+        "en:t": "Canada | East Kootenay C",
+        "a": true,
+        "g": {
+            "lat": 49.513,
+            "lon": -115.7694
+        },
+        "it": "Cranbrook",
+        "it:t": "Canada | East Kootenay C",
+        "es": "Cranbrook",
+        "es:t": "Canad\u00e1 | East Kootenay C",
+        "de": "Cranbrook",
+        "de:t": "Kanada | East Kootenay C"
+    },
+    {
+        "en": "C\u00f4te Saint-Luc",
+        "en:t": "Canada | Montreal",
+        "a": true,
+        "g": {
+            "lat": 45.468,
+            "lon": -73.6729
+        },
+        "it": "C\u00f4te-Saint-Luc",
+        "it:t": "Canada | Montr\u00e9al",
+        "es": "C\u00f4te-Saint-Luc",
+        "es:t": "Canad\u00e1 | Montreal",
+        "de": "C\u00f4te-Saint-Luc",
+        "de:t": "Kanada | Montreal"
+    },
+    {
+        "en": "Dartmouth",
+        "en:t": "Canada | Halifax",
+        "a": true,
+        "g": {
+            "lat": 44.7,
+            "lon": -63.5579
+        },
+        "it": "Dartmouth",
+        "it:t": "Canada | Halifax",
+        "es": "Dartmouth",
+        "es:t": "Canad\u00e1 | Halifax",
+        "de": "Dartmouth",
+        "de:t": "Kanada | Halifax"
+    },
+    {
+        "en": "Delta",
+        "en:t": "Canada | Greater Vancouver A",
+        "a": true,
+        "g": {
+            "lat": 49.0952,
+            "lon": -123.0265
+        },
+        "it": "Delta",
+        "it:t": "Canada | Greater Vancouver A",
+        "es": "Delta",
+        "es:t": "Canad\u00e1 | Greater Vancouver A",
+        "de": "Delta",
+        "de:t": "Kanada | Greater Vancouver A"
+    },
+    {
+        "en": "Deux-Montagnes",
+        "en:t": "Canada",
+        "a": true,
+        "g": {
+            "lat": 45.5418,
+            "lon": -73.8932
+        },
+        "it": "Deux-Montagnes",
+        "it:t": "Canada",
+        "es": "Deux-Montagnes",
+        "es:t": "Canad\u00e1",
+        "de": "Deux-Montagnes",
+        "de:t": "Kanada"
+    },
+    {
+        "en": "Dieppe",
+        "en:t": "Canada | Moncton",
+        "a": true,
+        "g": {
+            "lat": 46.0953,
+            "lon": -64.7487
+        },
+        "it": "Dieppe",
+        "it:t": "Canada | Moncton",
+        "es": "Dieppe",
+        "es:t": "Canad\u00e1 | Moncton",
+        "de": "Dieppe",
+        "de:t": "Kanada | Moncton"
+    },
+    {
+        "en": "Dollard-Des Ormeaux",
+        "en:t": "Canada | Montreal",
+        "a": true,
+        "g": {
+            "lat": 45.4896,
+            "lon": -73.8206
+        },
+        "it": "Dollard-des-Ormeaux",
+        "it:t": "Canada | Montr\u00e9al",
+        "es": "Dollard-Des-Ormeaux",
+        "es:t": "Canad\u00e1 | Montreal",
+        "de": "Dollard-Des Ormeaux",
+        "de:t": "Kanada | Montreal"
+    },
+    {
+        "en": "Dorval",
+        "en:t": "Canada | Montreal",
+        "a": true,
+        "g": {
+            "lat": 45.4503,
+            "lon": -73.75
+        },
+        "it": "Dorval",
+        "it:t": "Canada | Montr\u00e9al",
+        "es": "Dorval",
+        "es:t": "Canad\u00e1 | Montreal",
+        "de": "Dorval",
+        "de:t": "Kanada | Montreal"
+    },
+    {
+        "en": "Drummondville",
+        "en:t": "Canada | Drummond",
+        "a": true,
+        "g": {
+            "lat": 45.8803,
+            "lon": -72.4843
+        },
+        "it": "Drummondville",
+        "it:t": "Canada | Drummond",
+        "es": "Drummondville",
+        "es:t": "Canad\u00e1 | Drummond",
+        "de": "Drummondville",
+        "de:t": "Kanada | Drummond"
+    },
+    {
+        "en": "Duncan",
+        "en:t": "Canada | Cowichan Valley",
+        "a": true,
+        "g": {
+            "lat": 48.7787,
+            "lon": -123.7079
+        },
+        "it": "Duncan",
+        "it:t": "Canada | Cowichan Valley",
+        "es": "Duncan",
+        "es:t": "Canad\u00e1 | Cowichan Valley",
+        "de": "Duncan",
+        "de:t": "Kanada | Cowichan Valley"
+    },
+    {
+        "en": "Edmonton",
+        "en:t": "Canada | Division No. 11",
+        "a": true,
+        "g": {
+            "lat": 53.5444,
+            "lon": -113.4909
+        },
+        "it": "Edmonton",
+        "it:t": "Canada | Divisione No. 11",
+        "es": "Edmonton",
+        "es:t": "Canad\u00e1 | Division No. 11",
+        "de": "Edmonton",
+        "de:t": "Kanada | Division No. 11"
+    },
+    {
+        "en": "Edmundston",
+        "en:t": "Canada | Madawaska",
+        "a": true,
+        "g": {
+            "lat": 47.369,
+            "lon": -68.3267
+        },
+        "it": "Edmundston",
+        "it:t": "Canada | Madawaska",
+        "es": "Edmundston",
+        "es:t": "Canad\u00e1 | Madawaska",
+        "de": "Edmundston",
+        "de:t": "Kanada | Madawaska"
+    },
+    {
+        "en": "Etobicoke",
+        "en:t": "Canada | Toronto",
+        "a": true,
+        "g": {
+            "lat": 43.6205,
+            "lon": -79.5132
+        },
+        "it": "Etobicoke",
+        "it:t": "Canada | Toronto",
+        "es": "Etobicoke",
+        "es:t": "Canad\u00e1 | Toronto",
+        "de": "Etobicoke",
+        "de:t": "Kanada | Toronto"
+    },
+    {
+        "en": "Fort Erie",
+        "en:t": "Canada | Grand Island",
+        "a": true,
+        "g": {
+            "lat": 42.9018,
+            "lon": -78.9722
+        },
+        "it": "Fort Erie",
+        "it:t": "Canada | Grand Island",
+        "es": "Fort Erie",
+        "es:t": "Canad\u00e1 | Grand Island",
+        "de": "Fort Erie",
+        "de:t": "Kanada | Grand Island"
+    },
+    {
+        "en": "Fort McMurray",
+        "en:t": "Canada | Wood Buffalo",
+        "a": true,
+        "g": {
+            "lat": 56.7264,
+            "lon": -111.3803
+        },
+        "it": "Fort McMurray",
+        "it:t": "Canada | Wood Buffalo",
+        "es": "Fort McMurray",
+        "es:t": "Canad\u00e1 | Wood Buffalo",
+        "de": "Fort McMurray",
+        "de:t": "Kanada | Wood Buffalo"
+    },
+    {
+        "en": "Fort St. John",
+        "en:t": "Canada | Peace River C",
+        "a": true,
+        "g": {
+            "lat": 56.2524,
+            "lon": -120.8464
+        },
+        "it": "Fort St. John",
+        "it:t": "Canada | Peace River C",
+        "es": "Fort St. John",
+        "es:t": "Canad\u00e1 | Peace River C",
+        "de": "Fort Sankt John",
+        "de:t": "Kanada | Peace River C"
+    },
+    {
+        "en": "Fredericton",
+        "en:t": "Canada | York County",
+        "a": true,
+        "g": {
+            "lat": 45.9636,
+            "lon": -66.6431
+        },
+        "it": "Fredericton",
+        "it:t": "Canada | Contea di York",
+        "es": "Fredericton",
+        "es:t": "Canad\u00e1 | Condado de York",
+        "de": "Fredericton",
+        "de:t": "Kanada | York County"
+    },
+    {
+        "en": "Gatineau",
+        "en:t": "Canada | Communaut\u00e9-Urbaine-de-l'Outaouais",
+        "a": true,
+        "g": {
+            "lat": 45.4765,
+            "lon": -75.7013
+        },
+        "it": "Gatineau",
+        "it:t": "Canada | Communaut\u00e9-Urbaine-de-l'Outaouais",
+        "es": "Gatineau",
+        "es:t": "Canad\u00e1 | Communaut\u00e9-Urbaine-de-l'Outaouais",
+        "de": "Gatineau",
+        "de:t": "Kanada | Communaut\u00e9-Urbaine-de-l'Outaouais"
+    },
+    {
+        "en": "Glace Bay",
+        "en:t": "Canada | Cape Breton",
+        "a": true,
+        "g": {
+            "lat": 46.1969,
+            "lon": -59.957
+        },
+        "it": "Glace Bay",
+        "it:t": "Canada | Cape Breton",
+        "es": "Glace Bay",
+        "es:t": "Canad\u00e1 | Cape Breton",
+        "de": "Glace Bay",
+        "de:t": "Kanada | Cape Breton"
+    },
+    {
+        "en": "Granby",
+        "en:t": "Canada | La Haute-Yamask",
+        "a": true,
+        "g": {
+            "lat": 45.4032,
+            "lon": -72.7341
+        },
+        "it": "Granby",
+        "it:t": "Canada | La Haute-Yamaska",
+        "es": "Granby",
+        "es:t": "Canad\u00e1 | Alto Yamaska",
+        "de": "Granby",
+        "de:t": "Kanada | La Haute-Yamaska"
+    },
+    {
+        "en": "Grande Prairie",
+        "en:t": "Canada | Grande Prairie County No. 1",
+        "a": true,
+        "g": {
+            "lat": 55.1699,
+            "lon": -118.7986
+        },
+        "it": "Grande Prairie",
+        "it:t": "Canada | Grande Prairie County No. 1",
+        "es": "Grande Prairie",
+        "es:t": "Canad\u00e1 | Grande Prairie County No. 1",
+        "de": "Grande Prairie",
+        "de:t": "Kanada | Grande Prairie County No. 1"
+    },
+    {
+        "en": "Greater Napanee",
+        "en:t": "Canada | Lennox and Addington",
+        "a": true,
+        "g": {
+            "lat": 44.2148,
+            "lon": -76.9643
+        },
+        "it": "Greater Napanee",
+        "it:t": "Canada | Lennox e Addington",
+        "es": "Napanee",
+        "es:t": "Canad\u00e1 | Lennox and Addington",
+        "de": "Napanee",
+        "de:t": "Kanada | Lennox and Addington"
+    },
+    {
+        "en": "Greater Sudbury",
+        "en:t": "Canada | Greater Sudbury Division",
+        "a": true,
+        "g": {
+            "lat": 46.4917,
+            "lon": -80.993
+        },
+        "it": "Greater Sudbury",
+        "it:t": "Canada | Greater Sudbury Division",
+        "es": "Gran Sudbury",
+        "es:t": "Canad\u00e1 | Greater Sudbury Division",
+        "de": "Greater Sudbury",
+        "de:t": "Kanada | Greater Sudbury Division"
+    },
+    {
+        "en": "Guelph",
+        "en:t": "Canada | Wellington",
+        "a": true,
+        "g": {
+            "lat": 43.5448,
+            "lon": -80.2482
+        },
+        "it": "Guelph",
+        "it:t": "Canada | Wellington",
+        "es": "Guelph",
+        "es:t": "Canad\u00e1 | Wellington",
+        "de": "Guelph",
+        "de:t": "Kanada | Wellington"
+    },
+    {
+        "en": "Halifax",
+        "en:t": "Canada | Nova Scotia",
+        "a": true,
+        "g": {
+            "lat": 44.6488,
+            "lon": -63.5752
+        },
+        "it": "Halifax",
+        "it:t": "Canada | Nuova Scozia",
+        "es": "Halifax",
+        "es:t": "Canad\u00e1 | Nueva Escocia",
+        "de": "Halifax",
+        "de:t": "Kanada | Nova Scotia"
+    },
+    {
+        "en": "Hamilton",
+        "en:t": "Canada | Hamilton Division",
+        "a": true,
+        "g": {
+            "lat": 43.2557,
+            "lon": -79.8711
+        },
+        "it": "Hamilton",
+        "it:t": "Canada | Hamilton Division",
+        "es": "Hamilton",
+        "es:t": "Canad\u00e1 | Hamilton Division",
+        "de": "Hamilton",
+        "de:t": "Kanada | Hamilton Division"
+    },
+    {
+        "en": "Huntsville",
+        "en:t": "Canada | Muskoka",
+        "a": true,
+        "g": {
+            "lat": 45.3269,
+            "lon": -79.2168
+        },
+        "it": "Huntsville",
+        "it:t": "Canada | Muskoka",
+        "es": "Huntsville",
+        "es:t": "Canad\u00e1 | Muskoka",
+        "de": "Huntsville",
+        "de:t": "Kanada | Muskoka"
+    },
+    {
+        "en": "Joliette",
+        "en:t": "Canada",
+        "a": true,
+        "g": {
+            "lat": 46.014,
+            "lon": -73.4178
+        },
+        "it": "Joliette",
+        "it:t": "Canada",
+        "es": "Joliette",
+        "es:t": "Canad\u00e1",
+        "de": "Joliette",
+        "de:t": "Kanada"
+    },
+    {
+        "en": "Jonqui\u00e8re",
+        "en:t": "Canada | Saguenay",
+        "a": true,
+        "g": {
+            "lat": 48.4236,
+            "lon": -71.2395
+        },
+        "it": "Jonqui\u00e8re",
+        "it:t": "Canada | Saguenay",
+        "es": "Jonqui\u00e8re",
+        "es:t": "Canad\u00e1 | Saguenay",
+        "de": "Jonqui\u00e8re",
+        "de:t": "Kanada | Saguenay"
+    },
+    {
+        "en": "Kamloops",
+        "en:t": "Canada | Thompson-Nicola",
+        "a": true,
+        "g": {
+            "lat": 50.6745,
+            "lon": -120.3273
+        },
+        "it": "Kamloops",
+        "it:t": "Canada | Thompson-Nicola",
+        "es": "Kamloops",
+        "es:t": "Canad\u00e1 | Thompson-Nicola",
+        "de": "Kamloops",
+        "de:t": "Kanada | Thompson-Nicola"
+    },
+    {
+        "en": "Kelowna",
+        "en:t": "Canada | Central Okanagan",
+        "a": true,
+        "g": {
+            "lat": 49.888,
+            "lon": -119.496
+        },
+        "it": "Kelowna",
+        "it:t": "Canada | Central Okanagan",
+        "es": "Kelowna",
+        "es:t": "Canad\u00e1 | Central Okanagan",
+        "de": "Kelowna",
+        "de:t": "Kanada | Central Okanagan"
+    },
+    {
+        "en": "Keswick",
+        "en:t": "Canada | Georgina",
+        "a": true,
+        "g": {
+            "lat": 44.2267,
+            "lon": -79.4535
+        },
+        "it": "Keswick",
+        "it:t": "Canada | Georgina",
+        "es": "Keswick",
+        "es:t": "Canad\u00e1 | Georgina",
+        "de": "Keswick",
+        "de:t": "Kanada | Georgina"
+    },
+    {
+        "en": "Kingston",
+        "en:t": "Canada | Frontenac",
+        "a": true,
+        "g": {
+            "lat": 44.2312,
+            "lon": -76.486
+        },
+        "it": "Kingston",
+        "it:t": "Canada | Frontenac",
+        "es": "Kingston",
+        "es:t": "Canad\u00e1 | Frontenac",
+        "de": "Kingston",
+        "de:t": "Kanada | Frontenac"
+    },
+    {
+        "en": "Kirkland",
+        "en:t": "Canada | Montreal",
+        "a": true,
+        "g": {
+            "lat": 45.456,
+            "lon": -73.8623
+        },
+        "it": "Kirkland",
+        "it:t": "Canada | Montr\u00e9al",
+        "es": "Kirkland",
+        "es:t": "Canad\u00e1 | Montreal",
+        "de": "Kirkland",
+        "de:t": "Kanada | Montreal"
+    },
+    {
+        "en": "Kitchener",
+        "en:t": "Canada | Waterloo",
+        "a": true,
+        "g": {
+            "lat": 43.4516,
+            "lon": -80.4925
+        },
+        "it": "Kitchener",
+        "it:t": "Canada | Waterloo",
+        "es": "Kitchener",
+        "es:t": "Canad\u00e1 | Waterloo",
+        "de": "Kitchener",
+        "de:t": "Kanada | Waterloo"
+    },
+    {
+        "en": "L'Ancienne-Lorette",
+        "en:t": "Canada | Communaut\u00e9-Urbaine-de-Qu\u00e9bec",
+        "a": true,
+        "g": {
+            "lat": 46.8063,
+            "lon": -71.357
+        },
+        "it": "L'Ancienne-Lorette",
+        "it:t": "Canada | Communaut\u00e9-Urbaine-de-Qu\u00e9bec",
+        "es": "L'Ancienne-Lorette",
+        "es:t": "Canad\u00e1 | Communaut\u00e9-Urbaine-de-Qu\u00e9bec",
+        "de": "L'Ancienne-Lorette",
+        "de:t": "Kanada | Communaut\u00e9-Urbaine-de-Qu\u00e9bec"
+    },
+    {
+        "en": "L'Assomption",
+        "en:t": "Canada",
+        "a": true,
+        "g": {
+            "lat": 45.852,
+            "lon": -73.4124
+        },
+        "it": "L'Assomption",
+        "it:t": "Canada",
+        "es": "L'Assomption",
+        "es:t": "Canad\u00e1",
+        "de": "L'Assomption",
+        "de:t": "Kanada"
+    },
+    {
+        "en": "La Prairie",
+        "en:t": "Canada | Roussillon",
+        "a": true,
+        "g": {
+            "lat": 45.4159,
+            "lon": -73.483
+        },
+        "it": "La Prairie",
+        "it:t": "Canada | Roussillon",
+        "es": "La Prairie",
+        "es:t": "Canad\u00e1 | Roussillon",
+        "de": "La Prairie",
+        "de:t": "Kanada | Roussillon"
+    },
+    {
+        "en": "Ladner",
+        "en:t": "Canada | Delta",
+        "a": true,
+        "g": {
+            "lat": 49.0901,
+            "lon": -123.082
+        },
+        "it": "Ladner",
+        "it:t": "Canada | Delta",
+        "es": "Ladner",
+        "es:t": "Canad\u00e1 | Delta",
+        "de": "Ladner",
+        "de:t": "Kanada | Delta"
+    },
+    {
+        "en": "Langford",
+        "en:t": "Canada",
+        "a": true,
+        "g": {
+            "lat": 48.4475,
+            "lon": -123.4956
+        },
+        "it": "Langford",
+        "it:t": "Canada",
+        "es": "Langford",
+        "es:t": "Canad\u00e1",
+        "de": "Langford",
+        "de:t": "Kanada"
+    },
+    {
+        "en": "Langley City",
+        "en:t": "Canada",
+        "a": true,
+        "g": {
+            "lat": 49.1042,
+            "lon": -122.6604
+        },
+        "it": "Langley",
+        "it:t": "Canada",
+        "es": "Ciudad de Langley",
+        "es:t": "Canad\u00e1",
+        "de": "Langley",
+        "de:t": "Kanada"
+    },
+    {
+        "en": "Laval",
+        "en:t": "Canada",
+        "a": true,
+        "g": {
+            "lat": 45.6066,
+            "lon": -73.7124
+        },
+        "it": "Laval",
+        "it:t": "Canada",
+        "es": "Laval",
+        "es:t": "Canad\u00e1",
+        "de": "Laval",
+        "de:t": "Kanada"
+    },
+    {
+        "en": "Leduc",
+        "en:t": "Canada | Leduc County",
+        "a": true,
+        "g": {
+            "lat": 53.258,
+            "lon": -113.5502
+        },
+        "it": "Leduc",
+        "it:t": "Canada | Leduc County",
+        "es": "Leduc",
+        "es:t": "Canad\u00e1 | Leduc County",
+        "de": "Leduc",
+        "de:t": "Kanada | Leduc County"
+    },
+    {
+        "en": "Lethbridge",
+        "en:t": "Canada | Division No. 2",
+        "a": true,
+        "g": {
+            "lat": 49.6935,
+            "lon": -112.8418
+        },
+        "it": "Lethbridge",
+        "it:t": "Canada | Divisione No. 2",
+        "es": "Lethbridge",
+        "es:t": "Canad\u00e1 | Divisi\u00f3n N\u00famero 2",
+        "de": "Lethbridge",
+        "de:t": "Kanada | Division No. 2"
+    },
+    {
+        "en": "Levis",
+        "en:t": "Canada",
+        "a": true,
+        "g": {
+            "lat": 46.7382,
+            "lon": -71.2465
+        },
+        "it": "L\u00e9vis",
+        "it:t": "Canada | Levis",
+        "es": "L\u00e9vis",
+        "es:t": "Canad\u00e1 | Levis",
+        "de": "L\u00e9vis",
+        "de:t": "Kanada | Levis"
+    },
+    {
+        "en": "Lloydminster",
+        "en:t": "Canada | Division No. 10",
+        "a": true,
+        "g": {
+            "lat": 53.278,
+            "lon": -110.0061
+        },
+        "it": "Lloydminster",
+        "it:t": "Canada | Division No. 10",
+        "es": "Lloydminster",
+        "es:t": "Canad\u00e1 | Division No. 10",
+        "de": "Lloydminster",
+        "de:t": "Kanada | Division No. 10"
+    },
+    {
+        "en": "London",
+        "en:t": "Canada | Middlesex",
+        "a": true,
+        "g": {
+            "lat": 42.9849,
+            "lon": -81.2453
+        },
+        "it": "London",
+        "it:t": "Canada | Middlesex",
+        "es": "London",
+        "es:t": "Canad\u00e1 | Middlesex",
+        "de": "London",
+        "de:t": "Kanada | Middlesex"
+    },
+    {
+        "en": "Longueuil",
+        "en:t": "Canada | Champlain",
+        "a": true,
+        "g": {
+            "lat": 45.5369,
+            "lon": -73.5107
+        },
+        "it": "Longueuil",
+        "it:t": "Canada | Champlain",
+        "es": "Longueuil",
+        "es:t": "Canad\u00e1 | Champlain",
+        "de": "Longueuil",
+        "de:t": "Kanada | Champlain"
+    },
+    {
+        "en": "Lower Sackville",
+        "en:t": "Canada | Halifax",
+        "a": true,
+        "g": {
+            "lat": 44.7764,
+            "lon": -63.6791
+        },
+        "it": "Lower Sackville",
+        "it:t": "Canada | Halifax",
+        "es": "Lower Sackville",
+        "es:t": "Canad\u00e1 | Halifax",
+        "de": "Lower Sackville",
+        "de:t": "Kanada | Halifax"
+    },
+    {
+        "en": "Maple Ridge",
+        "en:t": "Canada",
+        "a": true,
+        "g": {
+            "lat": 49.2193,
+            "lon": -122.5984
+        },
+        "it": "Maple Ridge",
+        "it:t": "Canada",
+        "es": "Maple Ridge",
+        "es:t": "Canad\u00e1",
+        "de": "Maple Ridge",
+        "de:t": "Kanada"
+    },
+    {
+        "en": "Markham",
+        "en:t": "Canada | York",
+        "a": true,
+        "g": {
+            "lat": 43.8561,
+            "lon": -79.337
+        },
+        "it": "Markham",
+        "it:t": "Canada | York",
+        "es": "Markham",
+        "es:t": "Canad\u00e1 | York",
+        "de": "Markham",
+        "de:t": "Kanada | York"
+    },
+    {
+        "en": "Mascouche",
+        "en:t": "Canada | Les Moulins",
+        "a": true,
+        "g": {
+            "lat": 45.7773,
+            "lon": -73.6324
+        },
+        "it": "Mascouche",
+        "it:t": "Canada | Les Moulins",
+        "es": "Mascouche",
+        "es:t": "Canad\u00e1 | Les Moulins",
+        "de": "Mascouche",
+        "de:t": "Kanada | Les Moulins"
+    },
+    {
+        "en": "Medicine Hat",
+        "en:t": "Canada | Cypress County",
+        "a": true,
+        "g": {
+            "lat": 50.0405,
+            "lon": -110.6764
+        },
+        "it": "Medicine Hat",
+        "it:t": "Canada | Cypress County",
+        "es": "Medicine Hat",
+        "es:t": "Canad\u00e1 | Cypress County",
+        "de": "Medicine Hat",
+        "de:t": "Kanada | Cypress County"
+    },
+    {
+        "en": "Midland",
+        "en:t": "Canada | Simcoe County",
+        "a": true,
+        "g": {
+            "lat": 44.7495,
+            "lon": -79.8922
+        },
+        "it": "Midland",
+        "it:t": "Canada | Contea di Simcoe",
+        "es": "Midland",
+        "es:t": "Canad\u00e1 | Simcoe County",
+        "de": "Midland",
+        "de:t": "Kanada | Simcoe County"
+    },
+    {
+        "en": "Milton",
+        "en:t": "Canada | Halton",
+        "a": true,
+        "g": {
+            "lat": 43.5183,
+            "lon": -79.8774
+        },
+        "it": "Milton",
+        "it:t": "Canada | Halton",
+        "es": "Milton",
+        "es:t": "Canad\u00e1 | Halton",
+        "de": "Milton",
+        "de:t": "Kanada | Halton"
+    },
+    {
+        "en": "Mirabel",
+        "en:t": "Canada",
+        "a": true,
+        "g": {
+            "lat": 45.6519,
+            "lon": -74.0902
+        },
+        "it": "Mirabel",
+        "it:t": "Canada",
+        "es": "Mirabel",
+        "es:t": "Canad\u00e1",
+        "de": "Mirabel",
+        "de:t": "Kanada"
+    },
+    {
+        "en": "Miramichi",
+        "en:t": "Canada | Northumberland",
+        "a": true,
+        "g": {
+            "lat": 47.0296,
+            "lon": -65.5059
+        },
+        "it": "Miramichi",
+        "it:t": "Canada | Northumberland",
+        "es": "Miramichi",
+        "es:t": "Canad\u00e1 | Northumberland",
+        "de": "Miramichi",
+        "de:t": "Kanada | Northumberland"
+    },
+    {
+        "en": "Mississauga",
+        "en:t": "Canada | Peel",
+        "a": true,
+        "g": {
+            "lat": 43.589,
+            "lon": -79.6441
+        },
+        "it": "Mississauga",
+        "it:t": "Canada | Peel",
+        "es": "Mississauga",
+        "es:t": "Canad\u00e1 | Peel",
+        "de": "Mississauga",
+        "de:t": "Kanada | Peel"
+    },
+    {
+        "en": "Moncton",
+        "en:t": "Canada",
+        "a": true,
+        "g": {
+            "lat": 46.0878,
+            "lon": -64.7782
+        },
+        "it": "Moncton",
+        "it:t": "Canada",
+        "es": "Moncton",
+        "es:t": "Canad\u00e1",
+        "de": "Moncton",
+        "de:t": "Kanada"
+    },
+    {
+        "en": "Mont-Saint-Hilaire",
+        "en:t": "Canada | La Vall\u00e9e-du-Richelieu",
+        "a": true,
+        "g": {
+            "lat": 45.564,
+            "lon": -73.179
+        },
+        "it": "Mont-Saint-Hilaire",
+        "it:t": "Canada | La Vall\u00e9e-du-Richelieu",
+        "es": "Mont-Saint-Hilaire",
+        "es:t": "Canad\u00e1 | Valle del Richelieu",
+        "de": "Mont-Saint-Hilaire",
+        "de:t": "Kanada | La Vall\u00e9e-du-Richelieu"
+    },
+    {
+        "en": "Montreal",
+        "en:t": "Canada",
+        "a": true,
+        "g": {
+            "lat": 45.5017,
+            "lon": -73.5673
+        },
+        "it": "Montr\u00e9al",
+        "it:t": "Canada",
+        "es": "Montreal",
+        "es:t": "Canad\u00e1",
+        "de": "Montreal",
+        "de:t": "Kanada"
+    },
+    {
+        "en": "Moose Jaw",
+        "en:t": "Canada | Moose Jaw No. 161",
+        "a": true,
+        "g": {
+            "lat": 50.3916,
+            "lon": -105.5349
+        },
+        "it": "Moose Jaw",
+        "it:t": "Canada | Moose Jaw No. 161",
+        "es": "Moose Jaw",
+        "es:t": "Canad\u00e1 | Moose Jaw No. 161",
+        "de": "Moose Jaw",
+        "de:t": "Kanada | Moose Jaw No. 161"
+    },
+    {
+        "en": "Mount Pearl",
+        "en:t": "Canada | Division No. 1",
+        "a": true,
+        "g": {
+            "lat": 47.5206,
+            "lon": -52.8077
+        },
+        "it": "Mount Pearl",
+        "it:t": "Canada | Divisione No. 1",
+        "es": "Mount Pearl",
+        "es:t": "Canad\u00e1 | Division No. 1",
+        "de": "Mount Pearl",
+        "de:t": "Kanada | Division No. 1"
+    },
+    {
+        "en": "Mount Royal",
+        "en:t": "Canada | Montreal",
+        "a": true,
+        "g": {
+            "lat": 45.5126,
+            "lon": -73.6468
+        },
+        "it": "Mount Royal",
+        "it:t": "Canada | Montr\u00e9al",
+        "es": "Mont-Royal",
+        "es:t": "Canad\u00e1 | Montreal",
+        "de": "Mont-Royal",
+        "de:t": "Kanada | Montreal"
+    },
+    {
+        "en": "Nanaimo",
+        "en:t": "Canada",
+        "a": true,
+        "g": {
+            "lat": 49.1659,
+            "lon": -123.9401
+        },
+        "it": "Nanaimo",
+        "it:t": "Canada",
+        "es": "Nanaimo",
+        "es:t": "Canad\u00e1",
+        "de": "Nanaimo",
+        "de:t": "Kanada"
+    },
+    {
+        "en": "New Glasgow",
+        "en:t": "Canada | Pictou",
+        "a": true,
+        "g": {
+            "lat": 45.5872,
+            "lon": -62.6451
+        },
+        "it": "New Glasgow",
+        "it:t": "Canada | Pictou",
+        "es": "New Glasgow",
+        "es:t": "Canad\u00e1 | Pictou",
+        "de": "New Glasgow",
+        "de:t": "Kanada | Pictou"
+    },
+    {
+        "en": "New Westminster",
+        "en:t": "Canada | Greater Vancouver",
+        "a": true,
+        "g": {
+            "lat": 49.2057,
+            "lon": -122.911
+        },
+        "it": "New Westminster",
+        "it:t": "Canada | Greater Vancouver",
+        "es": "New Westminster",
+        "es:t": "Canad\u00e1 | Greater Vancouver",
+        "de": "New Westminster",
+        "de:t": "Kanada | Greater Vancouver"
+    },
+    {
+        "en": "Newmarket",
+        "en:t": "Canada | King",
+        "a": true,
+        "g": {
+            "lat": 44.0592,
+            "lon": -79.4613
+        },
+        "it": "Newmarket",
+        "it:t": "Canada | King",
+        "es": "Newmarket",
+        "es:t": "Canad\u00e1 | King",
+        "de": "Newmarket",
+        "de:t": "Kanada | King"
+    },
+    {
+        "en": "Niagara River",
+        "en:t": "Canada",
+        "a": true,
+        "g": {
+            "lat": 43.0732,
+            "lon": -78.9781
+        },
+        "it": "Niagara Falls",
+        "it:t": "Canada | Grand Island",
+        "es": "Niagara Falls",
+        "es:t": "Canad\u00e1 | Grand Island",
+        "de": "Niagara Falls",
+        "de:t": "Kanada | Grand Island"
+    },
+    {
+        "en": "Norfolk County",
+        "en:t": "Canada",
+        "a": true,
+        "g": {
+            "lat": 42.7967,
+            "lon": -80.4136
+        },
+        "it": "Norfolk County",
+        "it:t": "Canada",
+        "es": "Norfolk County",
+        "es:t": "Canad\u00e1",
+        "de": "Norfolk County",
+        "de:t": "Kanada"
+    },
+    {
+        "en": "North Battleford",
+        "en:t": "Canada | North Battleford No. 437",
+        "a": true,
+        "g": {
+            "lat": 52.7765,
+            "lon": -108.2975
+        },
+        "it": "North Battleford",
+        "it:t": "Canada | North Battleford No. 437",
+        "es": "North Battleford",
+        "es:t": "Canad\u00e1 | North Battleford No. 437",
+        "de": "North Battleford",
+        "de:t": "Kanada | North Battleford No. 437"
+    },
+    {
+        "en": "North Bay",
+        "en:t": "Canada | Nipissing",
+        "a": true,
+        "g": {
+            "lat": 46.3091,
+            "lon": -79.4608
+        },
+        "it": "North Bay",
+        "it:t": "Canada | Nipissing",
+        "es": "North Bay",
+        "es:t": "Canad\u00e1 | Nipissing",
+        "de": "North Bay",
+        "de:t": "Kanada | Nipissing"
+    },
+    {
+        "en": "North Cowichan",
+        "en:t": "Canada | Cowichan Valley",
+        "a": true,
+        "g": {
+            "lat": 48.8429,
+            "lon": -123.7044
+        },
+        "it": "North Cowichan",
+        "it:t": "Canada | Cowichan Valley",
+        "es": "North Cowichan",
+        "es:t": "Canad\u00e1 | Cowichan Valley",
+        "de": "North Cowichan",
+        "de:t": "Kanada | Cowichan Valley"
+    },
+    {
+        "en": "North Vancouver",
+        "en:t": "Canada",
+        "a": true,
+        "g": {
+            "lat": 49.32,
+            "lon": -123.0724
+        },
+        "it": "Nord Vancouver",
+        "it:t": "Canada",
+        "es": "North Vancouver",
+        "es:t": "Canad\u00e1",
+        "de": "North Vancouver",
+        "de:t": "Kanada"
+    },
+    {
+        "en": "North York",
+        "en:t": "Canada | Toronto",
+        "a": true,
+        "g": {
+            "lat": 43.7615,
+            "lon": -79.4111
+        },
+        "it": "North York",
+        "it:t": "Canada | Toronto",
+        "es": "North York",
+        "es:t": "Canad\u00e1 | Toronto",
+        "de": "North York",
+        "de:t": "Kanada | Toronto"
+    },
+    {
+        "en": "Oak Bay",
+        "en:t": "Canada",
+        "a": true,
+        "g": {
+            "lat": 48.4265,
+            "lon": -123.3141
+        },
+        "it": "Oak Bay",
+        "it:t": "Canada",
+        "es": "Oak Bay",
+        "es:t": "Canad\u00e1",
+        "de": "Oak Bay",
+        "de:t": "Kanada"
+    },
+    {
+        "en": "Oakville",
+        "en:t": "Canada | Halton",
+        "a": true,
+        "g": {
+            "lat": 43.4675,
+            "lon": -79.6877
+        },
+        "it": "Oakville",
+        "it:t": "Canada | Halton",
+        "es": "Oakville",
+        "es:t": "Canad\u00e1 | Halton",
+        "de": "Oakville",
+        "de:t": "Kanada | Halton"
+    },
+    {
+        "en": "Okanagan Lake",
+        "en:t": "Canada | British Columbia",
+        "a": true,
+        "g": {
+            "lat": 49.8338,
+            "lon": -119.5236
+        },
+        "it": "Lago Okanagan",
+        "it:t": "Canada | Columbia Britannica",
+        "es": "Lago Okanagan",
+        "es:t": "Canad\u00e1 | Columbia Brit\u00e1nica",
+        "de": "Okanagan Lake",
+        "de:t": "Kanada | Britisch-Kolumbien"
+    },
+    {
+        "en": "Orangeville",
+        "en:t": "Canada | Dufferin",
+        "a": true,
+        "g": {
+            "lat": 43.92,
+            "lon": -80.0943
+        },
+        "it": "Orangeville",
+        "it:t": "Canada | Dufferin",
+        "es": "Orangeville",
+        "es:t": "Canad\u00e1 | Dufferin",
+        "de": "Orangeville",
+        "de:t": "Kanada | Dufferin"
+    },
+    {
+        "en": "Orillia",
+        "en:t": "Canada | Simcoe",
+        "a": true,
+        "g": {
+            "lat": 44.6082,
+            "lon": -79.4197
+        },
+        "it": "Orillia",
+        "it:t": "Canada | Simcoe",
+        "es": "Orillia",
+        "es:t": "Canad\u00e1 | Simcoe",
+        "de": "Orillia",
+        "de:t": "Kanada | Simcoe"
+    },
+    {
+        "en": "Oshawa",
+        "en:t": "Canada | Durham",
+        "a": true,
+        "g": {
+            "lat": 43.8971,
+            "lon": -78.8658
+        },
+        "it": "Oshawa",
+        "it:t": "Canada | Durham",
+        "es": "Oshawa",
+        "es:t": "Canad\u00e1 | Durham",
+        "de": "Oshawa",
+        "de:t": "Kanada | Durham"
+    },
+    {
+        "en": "Ottawa",
+        "en:t": "Canada | Ottawa Division",
+        "a": true,
+        "g": {
+            "lat": 45.4215,
+            "lon": -75.6972
+        },
+        "it": "Ottawa",
+        "it:t": "Canada | Ottawa Division",
+        "es": "Ottawa",
+        "es:t": "Canad\u00e1 | Otawa",
+        "de": "Ottawa",
+        "de:t": "Kanada | Ottawa Division"
+    },
+    {
+        "en": "Owen Sound",
+        "en:t": "Canada | Georgian Bluffs",
+        "a": true,
+        "g": {
+            "lat": 44.569,
+            "lon": -80.9406
+        },
+        "it": "Owen Sound",
+        "it:t": "Canada | Georgian Bluffs",
+        "es": "Owen Sound",
+        "es:t": "Canad\u00e1 | Georgian Bluffs",
+        "de": "Owen Sound",
+        "de:t": "Kanada | Georgian Bluffs"
+    },
+    {
+        "en": "Parksville",
+        "en:t": "Canada | Nanaimo",
+        "a": true,
+        "g": {
+            "lat": 49.3193,
+            "lon": -124.3136
+        },
+        "it": "Parksville",
+        "it:t": "Canada | Nanaimo",
+        "es": "Parksville",
+        "es:t": "Canad\u00e1 | Nanaimo",
+        "de": "Parksville",
+        "de:t": "Kanada | Nanaimo"
+    },
+    {
+        "en": "Pembroke",
+        "en:t": "Canada | Renfrew",
+        "a": true,
+        "g": {
+            "lat": 45.8267,
+            "lon": -77.1109
+        },
+        "it": "Pembroke",
+        "it:t": "Canada | Renfrew",
+        "es": "Pembroke",
+        "es:t": "Canad\u00e1 | Renfrew",
+        "de": "Pembroke",
+        "de:t": "Kanada | Renfrew"
+    },
+    {
+        "en": "Penticton",
+        "en:t": "Canada | Okanagan-Similkameen",
+        "a": true,
+        "g": {
+            "lat": 49.4991,
+            "lon": -119.5937
+        },
+        "it": "Penticton",
+        "it:t": "Canada | Okanagan-Similkameen",
+        "es": "Penticton",
+        "es:t": "Canad\u00e1 | Okanagan-Similkameen",
+        "de": "Penticton",
+        "de:t": "Kanada | Okanagan-Similkameen"
+    },
+    {
+        "en": "Petawawa",
+        "en:t": "Canada | Renfrew",
+        "a": true,
+        "g": {
+            "lat": 45.8983,
+            "lon": -77.2829
+        },
+        "it": "Petawawa",
+        "it:t": "Canada | Renfrew",
+        "es": "Petawawa",
+        "es:t": "Canad\u00e1 | Renfrew",
+        "de": "Petawawa",
+        "de:t": "Kanada | Renfrew"
+    },
+    {
+        "en": "Peterborough",
+        "en:t": "Canada | Peterborough",
+        "a": true,
+        "g": {
+            "lat": 44.3091,
+            "lon": -78.3197
+        },
+        "it": "Peterborough",
+        "it:t": "Canada | Peterborough",
+        "es": "Peterborough",
+        "es:t": "Canad\u00e1 | Peterborough",
+        "de": "Peterborough",
+        "de:t": "Kanada | Peterborough"
+    },
+    {
+        "en": "Pickering",
+        "en:t": "Canada | Uxbridge",
+        "a": true,
+        "g": {
+            "lat": 43.8384,
+            "lon": -79.0868
+        },
+        "it": "Pickering",
+        "it:t": "Canada | Uxbridge",
+        "es": "Pickering",
+        "es:t": "Canad\u00e1 | Uxbridge",
+        "de": "Pickering",
+        "de:t": "Kanada | Uxbridge"
+    },
+    {
+        "en": "Pitt Meadows",
+        "en:t": "Canada",
+        "a": true,
+        "g": {
+            "lat": 49.2191,
+            "lon": -122.6895
+        },
+        "it": "Pitt Meadows",
+        "it:t": "Canada",
+        "es": "Pitt Meadows",
+        "es:t": "Canad\u00e1",
+        "de": "Pitt Meadows",
+        "de:t": "Kanada"
+    },
+    {
+        "en": "Pointe-Claire",
+        "en:t": "Canada | Montreal",
+        "a": true,
+        "g": {
+            "lat": 45.472,
+            "lon": -73.799
+        },
+        "it": "Pointe-Claire",
+        "it:t": "Canada | Montr\u00e9al",
+        "es": "Pointe-Claire",
+        "es:t": "Canad\u00e1 | Montreal",
+        "de": "Pointe-Claire",
+        "de:t": "Kanada | Montreal"
+    },
+    {
+        "en": "Port Alberni",
+        "en:t": "Canada | Alberni-Clayoquot",
+        "a": true,
+        "g": {
+            "lat": 49.2339,
+            "lon": -124.8055
+        },
+        "it": "Port Alberni",
+        "it:t": "Canada | Alberni-Clayoquot",
+        "es": "Port Alberni",
+        "es:t": "Canad\u00e1 | Alberni-Clayoquot",
+        "de": "Port Alberni",
+        "de:t": "Kanada | Alberni-Clayoquot"
+    },
+    {
+        "en": "Port Colborne",
+        "en:t": "Canada | Wainfleet",
+        "a": true,
+        "g": {
+            "lat": 42.8865,
+            "lon": -79.2509
+        },
+        "it": "Port Colborne",
+        "it:t": "Canada | Wainfleet",
+        "es": "Port Colborne",
+        "es:t": "Canad\u00e1 | Wainfleet",
+        "de": "Port Colborne",
+        "de:t": "Kanada | Wainfleet"
+    },
+    {
+        "en": "Port Moody",
+        "en:t": "Canada | Greater Vancouver A",
+        "a": true,
+        "g": {
+            "lat": 49.2849,
+            "lon": -122.8678
+        },
+        "it": "Port Moody",
+        "it:t": "Canada | Greater Vancouver A",
+        "es": "Port Moody",
+        "es:t": "Canad\u00e1 | Greater Vancouver A",
+        "de": "Port Moody",
+        "de:t": "Kanada | Greater Vancouver A"
+    },
+    {
+        "en": "Prince Albert",
+        "en:t": "Canada | Buckland No. 491",
+        "a": true,
+        "g": {
+            "lat": 53.2033,
+            "lon": -105.7531
+        },
+        "it": "Prince Albert",
+        "it:t": "Canada | Buckland No. 491",
+        "es": "Prince Albert",
+        "es:t": "Canad\u00e1 | Buckland No. 491",
+        "de": "Prince Albert",
+        "de:t": "Kanada | Buckland No. 491"
+    },
+    {
+        "en": "Prince Edward",
+        "en:t": "Canada",
+        "a": true,
+        "g": {
+            "lat": 44.0003,
+            "lon": -77.2505
+        },
+        "it": "Prince Edward",
+        "it:t": "Canada",
+        "es": "Prince Edward",
+        "es:t": "Canad\u00e1",
+        "de": "Prince Edward",
+        "de:t": "Kanada"
+    },
+    {
+        "en": "Prince George",
+        "en:t": "Canada | Fraser-Fort George",
+        "a": true,
+        "g": {
+            "lat": 53.9171,
+            "lon": -122.7497
+        },
+        "it": "Prince George",
+        "it:t": "Canada | Fraser-Fort George",
+        "es": "Prince George",
+        "es:t": "Canad\u00e1 | Fraser-Fort George",
+        "de": "Prince George",
+        "de:t": "Kanada | Fraser-Fort George"
+    },
+    {
+        "en": "Quebec City",
+        "en:t": "Canada | Communaut\u00e9-Urbaine-de-Qu\u00e9bec",
+        "a": true,
+        "g": {
+            "lat": 46.8139,
+            "lon": -71.208
+        },
+        "it": "Qu\u00e9bec",
+        "it:t": "Canada | Communaut\u00e9-Urbaine-de-Qu\u00e9bec",
+        "es": "Quebec",
+        "es:t": "Canad\u00e1 | Communaut\u00e9-Urbaine-de-Qu\u00e9bec",
+        "de": "Qu\u00e9bec",
+        "de:t": "Kanada | Communaut\u00e9-Urbaine-de-Qu\u00e9bec"
+    },
+    {
+        "en": "Quinte West",
+        "en:t": "Canada | Hastings",
+        "a": true,
+        "g": {
+            "lat": 44.179,
+            "lon": -77.5861
+        },
+        "it": "Quinte West",
+        "it:t": "Canada | Hastings",
+        "es": "Quinte West",
+        "es:t": "Canad\u00e1 | Hastings",
+        "de": "Quinte West",
+        "de:t": "Kanada | Hastings"
+    },
+    {
+        "en": "Rayside",
+        "en:t": "Canada | Zorra",
+        "a": true,
+        "g": {
+            "lat": 43.0839,
+            "lon": -80.9195
+        },
+        "it": "Rayside",
+        "it:t": "Canada | Zorra",
+        "es": "Rayside",
+        "es:t": "Canad\u00e1 | Zorra",
+        "de": "Rayside",
+        "de:t": "Kanada | Zorra"
+    },
+    {
+        "en": "Red Deer",
+        "en:t": "Canada | Red Deer",
+        "a": true,
+        "g": {
+            "lat": 52.2681,
+            "lon": -113.8112
+        },
+        "it": "Red Deer",
+        "it:t": "Canada | Red Deer",
+        "es": "Red Deer",
+        "es:t": "Canad\u00e1 | Red Deer",
+        "de": "Red Deer",
+        "de:t": "Kanada | Red Deer"
+    },
+    {
+        "en": "Regina",
+        "en:t": "Canada | Sherwood No. 159",
+        "a": true,
+        "g": {
+            "lat": 50.4452,
+            "lon": -104.6189
+        },
+        "it": "Regina",
+        "it:t": "Canada | Sherwood No. 159",
+        "es": "Regina",
+        "es:t": "Canad\u00e1 | Sherwood No. 159",
+        "de": "Regina",
+        "de:t": "Kanada | Sherwood No. 159"
+    },
+    {
+        "en": "Repentigny",
+        "en:t": "Canada | L'Assomption",
+        "a": true,
+        "g": {
+            "lat": 45.7533,
+            "lon": -73.4401
+        },
+        "it": "Repentigny",
+        "it:t": "Canada | L'Assomption",
+        "es": "Repentigny",
+        "es:t": "Canad\u00e1 | L'Assomption",
+        "de": "Repentigny",
+        "de:t": "Kanada | L'Assomption"
+    },
+    {
+        "en": "Richmond",
+        "en:t": "Canada | Greater Vancouver A",
+        "a": true,
+        "g": {
+            "lat": 49.1666,
+            "lon": -123.1336
+        },
+        "it": "Richmond",
+        "it:t": "Canada | Greater Vancouver A",
+        "es": "Richmond",
+        "es:t": "Canad\u00e1 | Greater Vancouver A",
+        "de": "Richmond",
+        "de:t": "Kanada | Greater Vancouver A"
+    },
+    {
+        "en": "Richmond Hill",
+        "en:t": "Canada | York",
+        "a": true,
+        "g": {
+            "lat": 43.8828,
+            "lon": -79.4403
+        },
+        "it": "Richmond Hill",
+        "it:t": "Canada | York",
+        "es": "Richmond Hill",
+        "es:t": "Canad\u00e1 | York",
+        "de": "Richmond Hill",
+        "de:t": "Kanada | York"
+    },
+    {
+        "en": "Rimouski",
+        "en:t": "Canada | Rimouski-Neigette",
+        "a": true,
+        "g": {
+            "lat": 48.439,
+            "lon": -68.535
+        },
+        "it": "Rimouski",
+        "it:t": "Canada | Rimouski-Neigette",
+        "es": "Rimouski",
+        "es:t": "Canad\u00e1 | Rimouski-Neigette",
+        "de": "Rimouski",
+        "de:t": "Kanada | Rimouski-Neigette"
+    },
+    {
+        "en": "Rivi\u00e8re-du-Loup",
+        "en:t": "Canada | Rivi\u00e8re-du-Loup",
+        "a": true,
+        "g": {
+            "lat": 47.836,
+            "lon": -69.536
+        },
+        "it": "Rivi\u00e8re-du-Loup",
+        "it:t": "Canada | Rivi\u00e8re-du-Loup",
+        "es": "Rivi\u00e8re-du-Loup",
+        "es:t": "Canad\u00e1",
+        "de": "Rivi\u00e8re-du-Loup",
+        "de:t": "Kanada"
+    },
+    {
+        "en": "Rouyn-Noranda",
+        "en:t": "Canada",
+        "a": true,
+        "g": {
+            "lat": 48.2342,
+            "lon": -79.0188
+        },
+        "it": "Rouyn-Noranda",
+        "it:t": "Canada",
+        "es": "Rouyn-Noranda",
+        "es:t": "Canad\u00e1",
+        "de": "Rouyn-Noranda",
+        "de:t": "Kanada"
+    },
+    {
+        "en": "Saguenay",
+        "en:t": "Canada | Le Fjord-du-Saguenay",
+        "a": true,
+        "g": {
+            "lat": 48.4281,
+            "lon": -71.0685
+        },
+        "it": "Saguenay",
+        "it:t": "Canada | Le Fjord-du-Saguenay",
+        "es": "Saguenay",
+        "es:t": "Canad\u00e1 | Le Fjord-du-Saguenay",
+        "de": "Saguenay",
+        "de:t": "Kanada | Le Fjord-du-Saguenay"
+    },
+    {
+        "en": "Saint John",
+        "en:t": "Canada | Saint John",
+        "a": true,
+        "g": {
+            "lat": 45.2733,
+            "lon": -66.0633
+        },
+        "it": "Saint John",
+        "it:t": "Canada | Saint John",
+        "es": "Saint John",
+        "es:t": "Canad\u00e1 | Saint John",
+        "de": "Saint John",
+        "de:t": "Kanada | Saint John"
+    },
+    {
+        "en": "Saint Leonard",
+        "en:t": "Canada | Montreal",
+        "a": true,
+        "g": {
+            "lat": 45.5875,
+            "lon": -73.597
+        },
+        "it": "Saint-L\u00e9onard",
+        "it:t": "Canada | Montr\u00e9al",
+        "es": "Saint-L\u00e9onard",
+        "es:t": "Canad\u00e1 | Montreal",
+        "de": "Saint-L\u00e9onard",
+        "de:t": "Kanada | Montreal"
+    },
+    {
+        "en": "Saint-Augustin-de-Desmaures",
+        "en:t": "Canada",
+        "a": true,
+        "g": {
+            "lat": 46.747,
+            "lon": -71.4593
+        },
+        "it": "Saint-Augustin-de-Desmaures",
+        "it:t": "Canada",
+        "es": "Saint-Augustin-de-Desmaures",
+        "es:t": "Canad\u00e1",
+        "de": "Saint-Augustin-de-Desmaures",
+        "de:t": "Kanada"
+    },
+    {
+        "en": "Saint-Basile-le-Grand",
+        "en:t": "Canada | La Vall\u00e9e-du-Richelieu",
+        "a": true,
+        "g": {
+            "lat": 45.5219,
+            "lon": -73.2854
+        },
+        "it": "Saint-Basile-le-Grand",
+        "it:t": "Canada | La Vall\u00e9e-du-Richelieu",
+        "es": "Saint-Basile-le-Grand",
+        "es:t": "Canad\u00e1 | Valle del Richelieu",
+        "de": "Saint-Basile-le-Grand",
+        "de:t": "Kanada | La Vall\u00e9e-du-Richelieu"
+    },
+    {
+        "en": "Saint-Constant",
+        "en:t": "Canada | Roussillon",
+        "a": true,
+        "g": {
+            "lat": 45.3792,
+            "lon": -73.5645
+        },
+        "it": "Saint-Constant",
+        "it:t": "Canada | Roussillon",
+        "es": "Saint-Constant",
+        "es:t": "Canad\u00e1 | Roussillon",
+        "de": "Saint-Constant",
+        "de:t": "Kanada | Roussillon"
+    },
+    {
+        "en": "Saint-Eustache",
+        "en:t": "Canada | Saint-Joseph-du-Lac",
+        "a": true,
+        "g": {
+            "lat": 45.5585,
+            "lon": -73.8961
+        },
+        "it": "Saint-Eustache",
+        "it:t": "Canada | Saint-Joseph-du-Lac",
+        "es": "Saint-Eustache",
+        "es:t": "Canad\u00e1 | Saint-Joseph-du-Lac",
+        "de": "Saint-Eustache",
+        "de:t": "Kanada | Saint-Joseph-du-Lac"
+    },
+    {
+        "en": "Saint-Hyacinthe",
+        "en:t": "Canada | Les Maskoutains",
+        "a": true,
+        "g": {
+            "lat": 45.6307,
+            "lon": -72.9563
+        },
+        "it": "Saint-Hyacinthe",
+        "it:t": "Canada | Les Maskoutains",
+        "es": "Saint-Hyacinthe",
+        "es:t": "Canad\u00e1 | Les Maskoutains",
+        "de": "Saint-Hyacinthe",
+        "de:t": "Kanada | Les Maskoutains"
+    },
+    {
+        "en": "Saint-Jean-sur-Richelieu",
+        "en:t": "Canada | Le Haut-Richelieu",
+        "a": true,
+        "g": {
+            "lat": 45.3058,
+            "lon": -73.2545
+        },
+        "it": "Saint-Jean-sur-Richelieu",
+        "it:t": "Canada | Le Haut-Richelieu",
+        "es": "Saint-Jean-sur-Richelieu",
+        "es:t": "Canad\u00e1 | Alto Richelieu",
+        "de": "Saint-Jean-sur-Richelieu",
+        "de:t": "Kanada | Le Haut-Richelieu"
+    },
+    {
+        "en": "Saint-J\u00e9r\u00f4me",
+        "en:t": "Canada | La Rivi\u00e8re-du-Nord",
+        "a": true,
+        "g": {
+            "lat": 45.7754,
+            "lon": -74.0049
+        },
+        "it": "Saint-J\u00e9r\u00f4me",
+        "it:t": "Canada | La Rivi\u00e8re-du-Nord",
+        "es": "Saint-J\u00e9r\u00f4me",
+        "es:t": "Canad\u00e1 | La Rivi\u00e8re-du-Nord",
+        "de": "Saint-J\u00e9r\u00f4me",
+        "de:t": "Kanada | La Rivi\u00e8re-du-Nord"
+    },
+    {
+        "en": "Saint-Laurent",
+        "en:t": "Canada | Montreal",
+        "a": true,
+        "g": {
+            "lat": 45.4986,
+            "lon": -73.7498
+        },
+        "it": "Saint-Laurent",
+        "it:t": "Canada | Montr\u00e9al",
+        "es": "Saint-Laurent",
+        "es:t": "Canad\u00e1 | Montreal",
+        "de": "Saint-Laurent",
+        "de:t": "Kanada | Montreal"
+    },
+    {
+        "en": "Saint-Lazare",
+        "en:t": "Canada",
+        "a": true,
+        "g": {
+            "lat": 45.3998,
+            "lon": -74.1378
+        },
+        "it": "Saint-Lazare",
+        "it:t": "Canada",
+        "es": "Saint-Lazare",
+        "es:t": "Canad\u00e1",
+        "de": "Saint-Lazare",
+        "de:t": "Kanada"
+    },
+    {
+        "en": "Sainte-Catherine",
+        "en:t": "Canada | Roussillon",
+        "a": true,
+        "g": {
+            "lat": 45.3958,
+            "lon": -73.5657
+        },
+        "it": "Sainte-Catherine",
+        "it:t": "Canada | Roussillon",
+        "es": "Sainte-Catherine",
+        "es:t": "Canad\u00e1 | Roussillon",
+        "de": "Sainte-Catherine",
+        "de:t": "Kanada | Roussillon"
+    },
+    {
+        "en": "Sainte-Julie",
+        "en:t": "Canada | Saint-Amable",
+        "a": true,
+        "g": {
+            "lat": 45.5925,
+            "lon": -73.3427
+        },
+        "it": "Sainte-Julie",
+        "it:t": "Canada | Saint-Amable",
+        "es": "Sainte-Julie",
+        "es:t": "Canad\u00e1 | Saint-Amable",
+        "de": "Sainte-Julie",
+        "de:t": "Kanada | Saint-Amable"
+    },
+    {
+        "en": "Sainte-Th\u00e9r\u00e8se",
+        "en:t": "Canada | Th\u00e9r\u00e8se-De Blainville",
+        "a": true,
+        "g": {
+            "lat": 45.6397,
+            "lon": -73.8439
+        },
+        "it": "Sainte-Th\u00e9r\u00e8se",
+        "it:t": "Canada | Th\u00e9r\u00e8se-De Blainville",
+        "es": "Sainte-Th\u00e9r\u00e8se",
+        "es:t": "Canad\u00e1 | Th\u00e9r\u00e8se-De Blainville",
+        "de": "Sainte-Th\u00e9r\u00e8se",
+        "de:t": "Kanada | Th\u00e9r\u00e8se-De Blainville"
+    },
+    {
+        "en": "Salaberry-de-Valleyfield",
+        "en:t": "Canada | Beauharnois-Salaberry",
+        "a": true,
+        "g": {
+            "lat": 45.2501,
+            "lon": -74.1331
+        },
+        "it": "Salaberry-de-Valleyfield",
+        "it:t": "Canada | Beauharnois-Salaberry",
+        "es": "Salaberry-de-Valleyfield",
+        "es:t": "Canad\u00e1 | Beauharnois-Salaberry",
+        "de": "Salaberry-de-Valleyfield",
+        "de:t": "Kanada | Beauharnois-Salaberry"
+    },
+    {
+        "en": "Salmon Arm",
+        "en:t": "Canada | Columbia-Shuswap",
+        "a": true,
+        "g": {
+            "lat": 50.7001,
+            "lon": -119.2838
+        },
+        "it": "Salmon Arm",
+        "it:t": "Canada | Columbia-Shuswap",
+        "es": "Salmon Arm",
+        "es:t": "Canad\u00e1 | Columbia-Shuswap",
+        "de": "Salmon Arm",
+        "de:t": "Kanada | Columbia-Shuswap"
+    },
+    {
+        "en": "Sarnia",
+        "en:t": "Canada | Lambton",
+        "a": true,
+        "g": {
+            "lat": 42.9745,
+            "lon": -82.4066
+        },
+        "it": "Sarnia",
+        "it:t": "Canada | Lambton",
+        "es": "Sarnia",
+        "es:t": "Canad\u00e1 | Lambton",
+        "de": "Sarnia",
+        "de:t": "Kanada | Lambton"
+    },
+    {
+        "en": "Saskatoon",
+        "en:t": "Canada | Corman Park No. 344",
+        "a": true,
+        "g": {
+            "lat": 52.1332,
+            "lon": -106.67
+        },
+        "it": "Saskatoon",
+        "it:t": "Canada | Corman Park No. 344",
+        "es": "Saskatoon",
+        "es:t": "Canad\u00e1 | Corman Park No. 344",
+        "de": "Saskatoon",
+        "de:t": "Kanada | Corman Park No. 344"
+    },
+    {
+        "en": "Sault Ste. Marie",
+        "en:t": "Canada | Algoma",
+        "a": true,
+        "g": {
+            "lat": 46.5136,
+            "lon": -84.3358
+        },
+        "it": "Sault Sainte Marie",
+        "it:t": "Canada | Algoma",
+        "es": "Sault Ste. Marie",
+        "es:t": "Canad\u00e1 | Algoma",
+        "de": "Sault Ste. Marie",
+        "de:t": "Kanada | Algoma"
+    },
+    {
+        "en": "Scarborough",
+        "en:t": "Canada | Toronto",
+        "a": true,
+        "g": {
+            "lat": 43.7764,
+            "lon": -79.2318
+        },
+        "it": "Scarborough",
+        "it:t": "Canada | Toronto",
+        "es": "Scarborough",
+        "es:t": "Canad\u00e1 | Toronto",
+        "de": "Scarborough",
+        "de:t": "Kanada | Toronto"
+    },
+    {
+        "en": "Sept-Iles",
+        "en:t": "Canada | Sept-Rivi\u00e8res\u2014Caniapiscau",
+        "a": true,
+        "g": {
+            "lat": 50.2133,
+            "lon": -66.3758
+        },
+        "it": "Sept-\u00celes",
+        "it:t": "Canada | Sept-Rivi\u00e8res\u2014Caniapiscau",
+        "es": "Sept-\u00celes",
+        "es:t": "Canad\u00e1 | Sept-Rivi\u00e8res\u2014Caniapiscau",
+        "de": "Sept-\u00celes",
+        "de:t": "Kanada | Sept-Rivi\u00e8res\u2014Caniapiscau"
+    },
+    {
+        "en": "Shawinigan",
+        "en:t": "Canada | Mauricie",
+        "a": true,
+        "g": {
+            "lat": 46.5619,
+            "lon": -72.7435
+        },
+        "it": "Shawinigan",
+        "it:t": "Canada | Mauricie",
+        "es": "Shawinigan",
+        "es:t": "Canad\u00e1 | Mauricie",
+        "de": "Shawinigan",
+        "de:t": "Kanada | Mauricie"
+    },
+    {
+        "en": "Sherbrooke",
+        "en:t": "Canada | La R\u00e9gion-Sherbrookoise",
+        "a": true,
+        "g": {
+            "lat": 45.4042,
+            "lon": -71.8929
+        },
+        "it": "Sherbrooke",
+        "it:t": "Canada | La R\u00e9gion-Sherbrookoise",
+        "es": "Sherbrooke",
+        "es:t": "Canad\u00e1 | La R\u00e9gion-Sherbrookoise",
+        "de": "Sherbrooke",
+        "de:t": "Kanada | La R\u00e9gion-Sherbrookoise"
+    },
+    {
+        "en": "Sherwood Park",
+        "en:t": "Canada | Strathcona",
+        "a": true,
+        "g": {
+            "lat": 53.5412,
+            "lon": -113.2957
+        },
+        "it": "Sherwood Park",
+        "it:t": "Canada | Strathcona",
+        "es": "Sherwood Park",
+        "es:t": "Canad\u00e1 | Strathcona",
+        "de": "Sherwood Park",
+        "de:t": "Kanada | Strathcona"
+    },
+    {
+        "en": "Sorel-Tracy",
+        "en:t": "Canada | Pierre-De Saurel",
+        "a": true,
+        "g": {
+            "lat": 46.0428,
+            "lon": -73.1123
+        },
+        "it": "Sorel-Tracy",
+        "it:t": "Canada | Pierre-De Saurel",
+        "es": "Sorel-Tracy",
+        "es:t": "Canad\u00e1 | Pierre-De Saurel",
+        "de": "Sorel-Tracy",
+        "de:t": "Kanada | Pierre-De Saurel"
+    },
+    {
+        "en": "Spruce Grove",
+        "en:t": "Canada | Parkland",
+        "a": true,
+        "g": {
+            "lat": 53.5428,
+            "lon": -113.9034
+        },
+        "it": "Spruce Grove",
+        "it:t": "Canada | Parkland",
+        "es": "Spruce Grove",
+        "es:t": "Canad\u00e1 | Parkland",
+        "de": "Spruce Grove",
+        "de:t": "Kanada | Parkland"
+    },
+    {
+        "en": "St-Bruno-de-Montarville",
+        "en:t": "Canada | La Vall\u00e9e-du-Richelieu",
+        "a": true,
+        "g": {
+            "lat": 45.526,
+            "lon": -73.3407
+        },
+        "it": "Saint-Bruno-de-Montarville",
+        "it:t": "Canada | La Vall\u00e9e-du-Richelieu",
+        "es": "Saint-Bruno-de-Montarville",
+        "es:t": "Canad\u00e1 | Valle del Richelieu",
+        "de": "Saint-Bruno-de-Montarville",
+        "de:t": "Kanada | La Vall\u00e9e-du-Richelieu"
+    },
+    {
+        "en": "St. Albert",
+        "en:t": "Canada | Sturgeon",
+        "a": true,
+        "g": {
+            "lat": 53.6305,
+            "lon": -113.6256
+        },
+        "it": "Saint Albert",
+        "it:t": "Canada | Sturgeon",
+        "es": "Saint Albert",
+        "es:t": "Canad\u00e1 | Sturgeon",
+        "de": "St. Albert",
+        "de:t": "Kanada | Sturgeon"
+    },
+    {
+        "en": "St. Catharines",
+        "en:t": "Canada | Niagara",
+        "a": true,
+        "g": {
+            "lat": 43.1594,
+            "lon": -79.2469
+        },
+        "it": "St. Catharines",
+        "it:t": "Canada | Niagara",
+        "es": "St. Catharines",
+        "es:t": "Canad\u00e1 | Ni\u00e1gara",
+        "de": "St. Catharines",
+        "de:t": "Kanada | Niagara"
+    },
+    {
+        "en": "St. John's",
+        "en:t": "Canada | Division No. 1, Subd. D",
+        "a": true,
+        "g": {
+            "lat": 47.5615,
+            "lon": -52.7126
+        },
+        "it": "Saint John's",
+        "it:t": "Canada | Division No. 1, Subd. D",
+        "es": "San Juan de Terranova",
+        "es:t": "Canad\u00e1 | Division No. 1, Subd. D",
+        "de": "St. John\u2019s",
+        "de:t": "Kanada | Division No. 1, Subd. D"
+    },
+    {
+        "en": "St. Thomas",
+        "en:t": "Canada | Elgin",
+        "a": true,
+        "g": {
+            "lat": 42.7777,
+            "lon": -81.1827
+        },
+        "it": "St. Thomas",
+        "it:t": "Canada | Elgin",
+        "es": "Saint Thomas",
+        "es:t": "Canad\u00e1 | Elgin",
+        "de": "St. Thomas",
+        "de:t": "Kanada | Elgin"
+    },
+    {
+        "en": "Stratford",
+        "en:t": "Canada | Perth",
+        "a": true,
+        "g": {
+            "lat": 43.37,
+            "lon": -80.9822
+        },
+        "it": "Stratford",
+        "it:t": "Canada | Perth",
+        "es": "Stratford",
+        "es:t": "Canad\u00e1 | Perth",
+        "de": "Stratford",
+        "de:t": "Kanada | Perth"
+    },
+    {
+        "en": "Surrey",
+        "en:t": "Canada | Greater Vancouver",
+        "a": true,
+        "g": {
+            "lat": 49.1913,
+            "lon": -122.849
+        },
+        "it": "Surrey",
+        "it:t": "Canada | Greater Vancouver",
+        "es": "Surrey",
+        "es:t": "Canad\u00e1 | Greater Vancouver",
+        "de": "Surrey",
+        "de:t": "Kanada | Greater Vancouver"
+    },
+    {
+        "en": "Sydney",
+        "en:t": "Canada | Cape Breton",
+        "a": true,
+        "g": {
+            "lat": 46.1368,
+            "lon": -60.1942
+        },
+        "it": "Sydney",
+        "it:t": "Canada | Cape Breton",
+        "es": "Sidney",
+        "es:t": "Canad\u00e1 | Cabo Bret\u00f3n",
+        "de": "Sydney",
+        "de:t": "Kanada | Cape Breton"
+    },
+    {
+        "en": "Terrace",
+        "en:t": "Canada | Kitimat-Stikine",
+        "a": true,
+        "g": {
+            "lat": 54.5182,
+            "lon": -128.6032
+        },
+        "it": "Terrace",
+        "it:t": "Canada | Kitimat-Stikine",
+        "es": "Terrace",
+        "es:t": "Canad\u00e1 | Kitimat-Stikine",
+        "de": "Terrace",
+        "de:t": "Kanada | Kitimat-Stikine"
+    },
+    {
+        "en": "Terrebonne",
+        "en:t": "Canada | Saint-Roch-de-l'Achigan",
+        "a": true,
+        "g": {
+            "lat": 45.693,
+            "lon": -73.6331
+        },
+        "it": "Terrebonne",
+        "it:t": "Canada | Saint-Roch-de-l'Achigan",
+        "es": "Terrebonne",
+        "es:t": "Canad\u00e1 | Saint-Roch-de-l'Achigan",
+        "de": "Terrebonne",
+        "de:t": "Kanada | Saint-Roch-de-l'Achigan"
+    },
+    {
+        "en": "Thetford Mines",
+        "en:t": "Canada | Les Appalaches",
+        "a": true,
+        "g": {
+            "lat": 46.1028,
+            "lon": -71.3056
+        },
+        "it": "Thetford Mines",
+        "it:t": "Canada | Les Appalaches",
+        "es": "Thetford Mines",
+        "es:t": "Canad\u00e1 | Les Appalaches",
+        "de": "Thetford Mines",
+        "de:t": "Kanada | Les Appalaches"
+    },
+    {
+        "en": "Thorold",
+        "en:t": "Canada | Niagara",
+        "a": true,
+        "g": {
+            "lat": 43.1236,
+            "lon": -79.1989
+        },
+        "it": "Thorold",
+        "it:t": "Canada | Niagara",
+        "es": "Thorold",
+        "es:t": "Canad\u00e1 | Niagara",
+        "de": "Thorold",
+        "de:t": "Kanada | Niagara"
+    },
+    {
+        "en": "Thunder Bay",
+        "en:t": "Canada | Thunder Bay District",
+        "a": true,
+        "g": {
+            "lat": 48.3809,
+            "lon": -89.2477
+        },
+        "it": "Thunder Bay",
+        "it:t": "Canada | Distretto di Thunder Bay",
+        "es": "Thunder Bay",
+        "es:t": "Canad\u00e1 | Distrito de Thunder Bay",
+        "de": "Thunder Bay",
+        "de:t": "Kanada | Thunder Bay District"
+    },
+    {
+        "en": "Timmins",
+        "en:t": "Canada | Cochrane",
+        "a": true,
+        "g": {
+            "lat": 48.4758,
+            "lon": -81.3305
+        },
+        "it": "Timmins",
+        "it:t": "Canada | Cochrane",
+        "es": "Timmins",
+        "es:t": "Canad\u00e1 | Cochrane",
+        "de": "Timmins",
+        "de:t": "Kanada | Cochrane"
+    },
+    {
+        "en": "Toronto",
+        "en:t": "Canada | Toronto Division",
+        "a": true,
+        "g": {
+            "lat": 43.6532,
+            "lon": -79.3832
+        },
+        "it": "Toronto",
+        "it:t": "Canada | Toronto Division",
+        "es": "Toronto",
+        "es:t": "Canad\u00e1 | Toronto Division",
+        "de": "Toronto",
+        "de:t": "Kanada | Toronto Division"
+    },
+    {
+        "en": "Trois-Rivi\u00e8res",
+        "en:t": "Canada | Francheville",
+        "a": true,
+        "g": {
+            "lat": 46.343,
+            "lon": -72.5421
+        },
+        "it": "Trois-Rivi\u00e8res",
+        "it:t": "Canada | Francheville",
+        "es": "Trois-Rivi\u00e8res",
+        "es:t": "Canad\u00e1 | Francheville",
+        "de": "Trois-Rivi\u00e8res",
+        "de:t": "Kanada | Francheville"
+    },
+    {
+        "en": "Truro",
+        "en:t": "Canada | Colchester, Subd. C",
+        "a": true,
+        "g": {
+            "lat": 45.3658,
+            "lon": -63.2869
+        },
+        "it": "Truro",
+        "it:t": "Canada | Colchester, Subd. C",
+        "es": "Truro",
+        "es:t": "Canad\u00e1 | Colchester, Subd. C",
+        "de": "Truro",
+        "de:t": "Kanada | Colchester, Subd. C"
+    },
+    {
+        "en": "Val-d'Or",
+        "en:t": "Canada | La Vall\u00e9e-de-l'Or",
+        "a": true,
+        "g": {
+            "lat": 48.0987,
+            "lon": -77.7968
+        },
+        "it": "Val-d'Or",
+        "it:t": "Canada | La Vall\u00e9e-de-l'Or",
+        "es": "Val-d'Or",
+        "es:t": "Canad\u00e1 | Valle del Oro",
+        "de": "Val-d'Or",
+        "de:t": "Kanada | La Vall\u00e9e-de-l\u2019Or"
+    },
+    {
+        "en": "Vancouver",
+        "en:t": "Canada | Greater Vancouver",
+        "a": true,
+        "g": {
+            "lat": 49.2827,
+            "lon": -123.1207
+        },
+        "it": "Vancouver",
+        "it:t": "Canada | Greater Vancouver",
+        "es": "Vancouver",
+        "es:t": "Canad\u00e1 | Greater Vancouver",
+        "de": "Vancouver",
+        "de:t": "Kanada | Greater Vancouver"
+    },
+    {
+        "en": "Varennes",
+        "en:t": "Canada | Marguerite-D\u2019Youville",
+        "a": true,
+        "g": {
+            "lat": 45.681,
+            "lon": -73.4375
+        },
+        "it": "Varennes",
+        "it:t": "Canada | Marguerite-D\u2019Youville",
+        "es": "Varennes",
+        "es:t": "Canad\u00e1 | Marguerite-D\u2019Youville",
+        "de": "Varennes",
+        "de:t": "Kanada | Marguerite-D\u2019Youville"
+    },
+    {
+        "en": "Vaudreuil-Dorion",
+        "en:t": "Canada | Vaudreuil-Soulanges",
+        "a": true,
+        "g": {
+            "lat": 45.4042,
+            "lon": -74.038
+        },
+        "it": "Vaudreuil-Dorion",
+        "it:t": "Canada | Vaudreuil-Soulanges",
+        "es": "Vaudreuil-Dorion",
+        "es:t": "Canad\u00e1 | Vaudreuil-Soulanges",
+        "de": "Vaudreuil-Dorion",
+        "de:t": "Kanada | Vaudreuil-Soulanges"
+    },
+    {
+        "en": "Vaughan",
+        "en:t": "Canada | King",
+        "a": true,
+        "g": {
+            "lat": 43.8563,
+            "lon": -79.5085
+        },
+        "it": "Vaughan",
+        "it:t": "Canada | King",
+        "es": "Vaughan",
+        "es:t": "Canad\u00e1 | King",
+        "de": "Vaughan",
+        "de:t": "Kanada | King"
+    },
+    {
+        "en": "Vernon",
+        "en:t": "Canada | North Okanagan",
+        "a": true,
+        "g": {
+            "lat": 50.267,
+            "lon": -119.272
+        },
+        "it": "Vernon",
+        "it:t": "Canada | North Okanagan",
+        "es": "Vernon",
+        "es:t": "Canad\u00e1 | North Okanagan",
+        "de": "Vernon",
+        "de:t": "Kanada | North Okanagan"
+    },
+    {
+        "en": "Victoria",
+        "en:t": "Canada | Capital",
+        "a": true,
+        "g": {
+            "lat": 48.4284,
+            "lon": -123.3656
+        },
+        "it": "Victoria",
+        "it:t": "Canada | Capitale",
+        "es": "Victoria",
+        "es:t": "Canad\u00e1 | Capital",
+        "de": "Victoria",
+        "de:t": "Kanada | Capital"
+    },
+    {
+        "en": "Victoriaville",
+        "en:t": "Canada | Arthabaska",
+        "a": true,
+        "g": {
+            "lat": 46.0557,
+            "lon": -71.959
+        },
+        "it": "Victoriaville",
+        "it:t": "Canada | Arthabaska",
+        "es": "Victoriaville",
+        "es:t": "Canad\u00e1 | Arthabaska",
+        "de": "Victoriaville",
+        "de:t": "Kanada | Arthabaska"
+    },
+    {
+        "en": "Walnut Grove",
+        "en:t": "Canada | Langley",
+        "a": true,
+        "g": {
+            "lat": 49.175,
+            "lon": -122.624
+        },
+        "it": "Walnut Grove",
+        "it:t": "Canada | Langley",
+        "es": "Walnut Grove",
+        "es:t": "Canad\u00e1 | Langley",
+        "de": "Walnut Grove",
+        "de:t": "Kanada | Langley"
+    },
+    {
+        "en": "Waterloo",
+        "en:t": "Canada | Waterloo",
+        "a": true,
+        "g": {
+            "lat": 43.4643,
+            "lon": -80.5204
+        },
+        "it": "Waterloo",
+        "it:t": "Canada | Waterloo",
+        "es": "Waterloo",
+        "es:t": "Canad\u00e1 | Waterloo",
+        "de": "Waterloo",
+        "de:t": "Kanada | Waterloo"
+    },
+    {
+        "en": "Welland",
+        "en:t": "Canada | Wainfleet",
+        "a": true,
+        "g": {
+            "lat": 42.9922,
+            "lon": -79.2483
+        },
+        "it": "Welland",
+        "it:t": "Canada | Wainfleet",
+        "es": "Welland",
+        "es:t": "Canad\u00e1 | Wainfleet",
+        "de": "Welland",
+        "de:t": "Kanada | Wainfleet"
+    },
+    {
+        "en": "West End",
+        "en:t": "Canada | Vancouver",
+        "a": true,
+        "g": {
+            "lat": 49.2856,
+            "lon": -123.1306
+        },
+        "it": "West End",
+        "it:t": "Canada | Vancouver",
+        "es": "West End",
+        "es:t": "Canad\u00e1 | Vancouver",
+        "de": "West End",
+        "de:t": "Kanada | Vancouver"
+    },
+    {
+        "en": "West Kelowna",
+        "en:t": "Canada | Central Okanagan",
+        "a": true,
+        "g": {
+            "lat": 49.8636,
+            "lon": -119.5645
+        },
+        "it": "West Kelowna",
+        "it:t": "Canada | Central Okanagan",
+        "es": "West Kelowna",
+        "es:t": "Canad\u00e1 | Central Okanagan",
+        "de": "West Kelowna",
+        "de:t": "Kanada | Central Okanagan"
+    },
+    {
+        "en": "West Vancouver",
+        "en:t": "Canada",
+        "a": true,
+        "g": {
+            "lat": 49.3286,
+            "lon": -123.1602
+        },
+        "it": "West Vancouver",
+        "it:t": "Canada",
+        "es": "West Vancouver",
+        "es:t": "Canad\u00e1",
+        "de": "West Vancouver",
+        "de:t": "Kanada"
+    },
+    {
+        "en": "Westmount",
+        "en:t": "Canada | Montreal",
+        "a": true,
+        "g": {
+            "lat": 45.4857,
+            "lon": -73.5957
+        },
+        "it": "Westmount",
+        "it:t": "Canada | Montr\u00e9al",
+        "es": "Westmount",
+        "es:t": "Canad\u00e1 | Montreal",
+        "de": "Westmount",
+        "de:t": "Kanada | Montreal"
+    },
+    {
+        "en": "White Rock",
+        "en:t": "Canada | Greater Vancouver",
+        "a": true,
+        "g": {
+            "lat": 49.0253,
+            "lon": -122.803
+        },
+        "it": "White Rock",
+        "it:t": "Canada | Greater Vancouver",
+        "es": "White Rock",
+        "es:t": "Canad\u00e1 | Greater Vancouver",
+        "de": "White Rock",
+        "de:t": "Kanada | Greater Vancouver"
+    },
+    {
+        "en": "Whitehorse",
+        "en:t": "Canada",
+        "a": true,
+        "g": {
+            "lat": 60.7212,
+            "lon": -135.0568
+        },
+        "it": "Whitehorse",
+        "it:t": "Canada",
+        "es": "Whitehorse",
+        "es:t": "Canad\u00e1",
+        "de": "Whitehorse",
+        "de:t": "Kanada"
+    },
+    {
+        "en": "Willowdale",
+        "en:t": "Canada | North York",
+        "a": true,
+        "g": {
+            "lat": 43.7712,
+            "lon": -79.4197
+        },
+        "it": "Willowdale",
+        "it:t": "Canada | North York",
+        "es": "Willowdale",
+        "es:t": "Canad\u00e1 | North York",
+        "de": "Willowdale",
+        "de:t": "Kanada | North York"
+    },
+    {
+        "en": "Windsor",
+        "en:t": "Canada | Essex",
+        "a": true,
+        "g": {
+            "lat": 42.3149,
+            "lon": -83.0364
+        },
+        "it": "Windsor",
+        "it:t": "Canada | Essex",
+        "es": "Windsor",
+        "es:t": "Canad\u00e1 | Essex",
+        "de": "Windsor",
+        "de:t": "Kanada | Essex"
+    },
+    {
+        "en": "Winnipeg",
+        "en:t": "Canada | Division No. 11",
+        "a": true,
+        "g": {
+            "lat": 49.8951,
+            "lon": -97.1384
+        },
+        "it": "Winnipeg",
+        "it:t": "Canada | Divisione No. 11",
+        "es": "Winnipeg",
+        "es:t": "Canad\u00e1 | Division No. 11",
+        "de": "Winnipeg",
+        "de:t": "Kanada | Division No. 11"
+    },
+    {
+        "en": "Woodstock",
+        "en:t": "Canada | Oxford",
+        "a": true,
+        "g": {
+            "lat": 43.1315,
+            "lon": -80.7472
+        },
+        "it": "Woodstock",
+        "it:t": "Canada | Oxford",
+        "es": "Woodstock",
+        "es:t": "Canad\u00e1 | Oxford",
+        "de": "Woodstock",
+        "de:t": "Kanada | Oxford"
+    },
+    {
+        "en": "Yellowknife",
+        "en:t": "Canada | Fort Smith",
+        "a": true,
+        "g": {
+            "lat": 62.454,
+            "lon": -114.3718
+        },
+        "it": "Yellowknife",
+        "it:t": "Canada | Fort Smith",
+        "es": "Yellowknife",
+        "es:t": "Canad\u00e1 | Fort Smith",
+        "de": "Yellowknife",
+        "de:t": "Kanada | Fort Smith"
+    },
+    {
+        "en": "Yorkton",
+        "en:t": "Canada | Orkney No. 244",
+        "a": true,
+        "g": {
+            "lat": 51.2174,
+            "lon": -102.4739
+        },
+        "it": "Yorkton",
+        "it:t": "Canada | Orkney No. 244",
+        "es": "Yorkton",
+        "es:t": "Canad\u00e1 | Orkney No. 244",
+        "de": "Yorkton",
+        "de:t": "Kanada | Orkney No. 244"
+    }
+]

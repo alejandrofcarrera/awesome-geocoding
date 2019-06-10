@@ -1,0 +1,2897 @@
+[
+    {
+        "en": "Abadan",
+        "en:t": "Iran",
+        "a": true,
+        "g": {
+            "lat": 30.3473,
+            "lon": 48.2934
+        },
+        "it": "Abadan",
+        "it:t": "Iran",
+        "es": "Abad\u00e1n",
+        "es:t": "Ir\u00e1n",
+        "de": "Abadan",
+        "de:t": "Iran"
+    },
+    {
+        "en": "Abadeh",
+        "en:t": "Iran | Abadeh",
+        "a": true,
+        "g": {
+            "lat": 31.1595,
+            "lon": 52.644
+        },
+        "it": "Abadeh",
+        "it:t": "Iran | Abadeh",
+        "es": "Abade",
+        "es:t": "Ir\u00e1n | Abadeh",
+        "de": "Abadeh",
+        "de:t": "Iran | Abadeh"
+    },
+    {
+        "en": "Abdanan",
+        "en:t": "Iran | Ilam",
+        "a": true,
+        "g": {
+            "lat": 32.9886,
+            "lon": 47.4245
+        },
+        "it": "Abdanan",
+        "it:t": "Iran | Ilam",
+        "es": "Abdanan",
+        "es:t": "Ir\u00e1n | Ilam",
+        "de": "Abdanan",
+        "de:t": "Iran | Ilam"
+    },
+    {
+        "en": "Abhar",
+        "en:t": "Iran | Abhar",
+        "a": true,
+        "g": {
+            "lat": 36.1525,
+            "lon": 49.2385
+        },
+        "it": "Abhar",
+        "it:t": "Iran | Abhar",
+        "es": "Abhar",
+        "es:t": "Ir\u00e1n | Abhar",
+        "de": "Abhar",
+        "de:t": "Iran | Abhar"
+    },
+    {
+        "en": "Abyek",
+        "en:t": "Iran | Qazvin",
+        "a": true,
+        "g": {
+            "lat": 36.0404,
+            "lon": 50.5446
+        },
+        "it": "Abyek",
+        "it:t": "Iran | Qazvin",
+        "es": "Abyek",
+        "es:t": "Ir\u00e1n | Qazvin",
+        "de": "Abyek",
+        "de:t": "Iran | Qazvin"
+    },
+    {
+        "en": "Aghajari",
+        "en:t": "Iran | Khuzestan",
+        "a": true,
+        "g": {
+            "lat": 30.6908,
+            "lon": 49.824
+        },
+        "it": "Aghajari",
+        "it:t": "Iran | Kh\u016bzest\u0101n",
+        "es": "Aghajari",
+        "es:t": "Ir\u00e1n | Khuzestan",
+        "de": "Aghajari",
+        "de:t": "Iran | Khuzestan"
+    },
+    {
+        "en": "Ahar",
+        "en:t": "Iran",
+        "a": true,
+        "g": {
+            "lat": 38.5828,
+            "lon": 47.2538
+        },
+        "it": "Ahar",
+        "it:t": "Iran",
+        "es": "Ahar",
+        "es:t": "Ir\u00e1n",
+        "de": "Ahar",
+        "de:t": "Iran"
+    },
+    {
+        "en": "Ahvaz",
+        "en:t": "Iran | Khuzestan",
+        "a": true,
+        "g": {
+            "lat": 31.3183,
+            "lon": 48.6706
+        },
+        "it": "Ahwaz",
+        "it:t": "Iran | Kh\u016bzest\u0101n",
+        "es": "Ahwaz",
+        "es:t": "Ir\u00e1n | Juzest\u00e1n",
+        "de": "Ahwas",
+        "de:t": "Iran | Chuzestan"
+    },
+    {
+        "en": "Ajabshir",
+        "en:t": "Iran",
+        "a": true,
+        "g": {
+            "lat": 37.4788,
+            "lon": 45.8929
+        },
+        "it": "Ajabshir",
+        "it:t": "Iran",
+        "es": "Ajabshir",
+        "es:t": "Ir\u00e1n",
+        "de": "Ajabshir",
+        "de:t": "Iran"
+    },
+    {
+        "en": "Akbar Abad",
+        "en:t": "Iran | Fars",
+        "a": true,
+        "g": {
+            "lat": 29.2461,
+            "lon": 52.7804
+        },
+        "it": "Akbarabad",
+        "it:t": "Iran | Fars",
+        "es": "Akbar Abad",
+        "es:t": "Ir\u00e1n | Fars",
+        "de": "Akbar Abad",
+        "de:t": "Iran | Fars"
+    },
+    {
+        "en": "Aleshtar",
+        "en:t": "Iran | Lorestan",
+        "a": true,
+        "g": {
+            "lat": 33.864,
+            "lon": 48.2642
+        },
+        "it": "Aleshtar",
+        "it:t": "Iran | Lorestan",
+        "es": "Aleshtar",
+        "es:t": "Ir\u00e1n | Lorestan",
+        "de": "Aleshtar",
+        "de:t": "Iran | Lorestan"
+    },
+    {
+        "en": "Aligudarz",
+        "en:t": "Iran | Lorestan",
+        "a": true,
+        "g": {
+            "lat": 33.405,
+            "lon": 49.6962
+        },
+        "it": "Aligudarz",
+        "it:t": "Iran | Lorestan",
+        "es": "Aligudarz",
+        "es:t": "Ir\u00e1n | Lorest\u00e1n",
+        "de": "Aligudarz",
+        "de:t": "Iran | Lorestan"
+    },
+    {
+        "en": "Alvand",
+        "en:t": "Iran | Khorramdarreh",
+        "a": true,
+        "g": {
+            "lat": 36.319,
+            "lon": 49.1664
+        },
+        "it": "Alvand",
+        "it:t": "Iran | Khorramdarreh",
+        "es": "Alvand",
+        "es:t": "Ir\u00e1n | Khorramdarreh",
+        "de": "Alvand",
+        "de:t": "Iran | Khorramdarreh"
+    },
+    {
+        "en": "Amol",
+        "en:t": "Iran | Mazandaran",
+        "a": true,
+        "g": {
+            "lat": 36.4676,
+            "lon": 52.3507
+        },
+        "it": "Amol",
+        "it:t": "Iran | Mazandaran",
+        "es": "Amol",
+        "es:t": "Ir\u00e1n | Mazandar\u00e1n",
+        "de": "Amol",
+        "de:t": "Iran | M\u0101zandar\u0101n"
+    },
+    {
+        "en": "Arak",
+        "en:t": "Iran | Arak",
+        "a": true,
+        "g": {
+            "lat": 34.0954,
+            "lon": 49.7013
+        },
+        "it": "Arak",
+        "it:t": "Iran | Arak",
+        "es": "Arak",
+        "es:t": "Ir\u00e1n | Arak",
+        "de": "Arak",
+        "de:t": "Iran | Arak-Schahrestan"
+    },
+    {
+        "en": "Ardabil",
+        "en:t": "Iran",
+        "a": true,
+        "g": {
+            "lat": 38.2537,
+            "lon": 48.3
+        },
+        "it": "Ardabil",
+        "it:t": "Iran",
+        "es": "Ardebil",
+        "es:t": "Ir\u00e1n",
+        "de": "Ardabil",
+        "de:t": "Iran"
+    },
+    {
+        "en": "Ardakan",
+        "en:t": "Iran | Yazd",
+        "a": true,
+        "g": {
+            "lat": 32.3082,
+            "lon": 54.0086
+        },
+        "it": "Ardakan",
+        "it:t": "Iran | Yazd",
+        "es": "Ardakan",
+        "es:t": "Ir\u00e1n | Yazd",
+        "de": "Ardakan",
+        "de:t": "Iran | Yazd"
+    },
+    {
+        "en": "Ardestan",
+        "en:t": "Iran",
+        "a": true,
+        "g": {
+            "lat": 33.3839,
+            "lon": 52.3773
+        },
+        "it": "Ardestan",
+        "it:t": "Iran",
+        "es": "Ardestan",
+        "es:t": "Ir\u00e1n",
+        "de": "Ardestan",
+        "de:t": "Iran"
+    },
+    {
+        "en": "Asadabad",
+        "en:t": "Iran | Hamadan",
+        "a": true,
+        "g": {
+            "lat": 34.7789,
+            "lon": 48.125
+        },
+        "it": "Asadabad",
+        "it:t": "Iran | Hamadan",
+        "es": "Asadabad",
+        "es:t": "Ir\u00e1n | Hamad\u00e1n",
+        "de": "Asadabad",
+        "de:t": "Iran | Hamadan"
+    },
+    {
+        "en": "Astaneh-ye Ashrafiyeh",
+        "en:t": "Iran | Gilan",
+        "a": true,
+        "g": {
+            "lat": 37.2598,
+            "lon": 49.9437
+        },
+        "it": "Astaneh-ye-Ashrafiyeh",
+        "it:t": "Iran | Gilan",
+        "es": "Astaneh-ye Ashrafiyeh",
+        "es:t": "Ir\u00e1n | Gilan",
+        "de": "Astaneh-ye Ashrafiyeh",
+        "de:t": "Iran | Gilan"
+    },
+    {
+        "en": "Astara",
+        "en:t": "Iran",
+        "a": true,
+        "g": {
+            "lat": 38.4225,
+            "lon": 48.8687
+        },
+        "it": "Astara",
+        "it:t": "Iran",
+        "es": "Astara",
+        "es:t": "Ir\u00e1n",
+        "de": "Astara",
+        "de:t": "Iran"
+    },
+    {
+        "en": "Azadshahr",
+        "en:t": "Iran | Golestan",
+        "a": true,
+        "g": {
+            "lat": 37.0839,
+            "lon": 55.1707
+        },
+        "it": "Azadshahr",
+        "it:t": "Iran | Golestan",
+        "es": "Azadshahr",
+        "es:t": "Ir\u00e1n | Golestan",
+        "de": "Azadshahr",
+        "de:t": "Iran | Golestan"
+    },
+    {
+        "en": "Azna",
+        "en:t": "Iran | Lorestan",
+        "a": true,
+        "g": {
+            "lat": 33.45,
+            "lon": 49.4517
+        },
+        "it": "Azna",
+        "it:t": "Iran | Lorestan",
+        "es": "Azna",
+        "es:t": "Ir\u00e1n | Lorestan",
+        "de": "Azna",
+        "de:t": "Iran | Lorestan"
+    },
+    {
+        "en": "Babol",
+        "en:t": "Iran | Babol",
+        "a": true,
+        "g": {
+            "lat": 36.5387,
+            "lon": 52.6765
+        },
+        "it": "Babol",
+        "it:t": "Iran | Shahrest\u0101n di Babol",
+        "es": "Babol",
+        "es:t": "Ir\u00e1n | Babol",
+        "de": "Babol",
+        "de:t": "Iran | Babol"
+    },
+    {
+        "en": "Babolsar",
+        "en:t": "Iran | Mazandaran",
+        "a": true,
+        "g": {
+            "lat": 36.7049,
+            "lon": 52.6547
+        },
+        "it": "Babolsar",
+        "it:t": "Iran | Mazandaran",
+        "es": "Babolsar",
+        "es:t": "Ir\u00e1n | Mazandaran",
+        "de": "Babolsar",
+        "de:t": "Iran | M\u0101zandar\u0101n"
+    },
+    {
+        "en": "Bafgh",
+        "en:t": "Iran | Yazd",
+        "a": true,
+        "g": {
+            "lat": 31.6216,
+            "lon": 55.4139
+        },
+        "it": "Bafq",
+        "it:t": "Iran | Yazd",
+        "es": "Bafq",
+        "es:t": "Ir\u00e1n | Yazd",
+        "de": "Bafq",
+        "de:t": "Iran | Yazd"
+    },
+    {
+        "en": "Bahar",
+        "en:t": "Iran",
+        "a": true,
+        "g": {
+            "lat": 34.7801,
+            "lon": 48.527
+        },
+        "it": "Bahar",
+        "it:t": "Iran",
+        "es": "Bahar",
+        "es:t": "Ir\u00e1n",
+        "de": "Bahar",
+        "de:t": "Iran"
+    },
+    {
+        "en": "Bam",
+        "en:t": "Iran",
+        "a": true,
+        "g": {
+            "lat": 29.0985,
+            "lon": 58.3375
+        },
+        "it": "Bam",
+        "it:t": "Iran",
+        "es": "Bam",
+        "es:t": "Ir\u00e1n",
+        "de": "Bam",
+        "de:t": "Iran"
+    },
+    {
+        "en": "Bandar Abbas",
+        "en:t": "Iran | Hormozgan",
+        "a": true,
+        "g": {
+            "lat": 27.1832,
+            "lon": 56.2666
+        },
+        "it": "Bandar Abbas",
+        "it:t": "Iran | Hormozgan",
+        "es": "Bandar Abb\u00e1s",
+        "es:t": "Ir\u00e1n | Hormuz",
+        "de": "Bandar Abbas",
+        "de:t": "Iran | Hormozgan"
+    },
+    {
+        "en": "Bandar Anzali",
+        "en:t": "Iran | Gilan",
+        "a": true,
+        "g": {
+            "lat": 37.4639,
+            "lon": 49.4799
+        },
+        "it": "Bandar-e-Anzali",
+        "it:t": "Iran | Gilan",
+        "es": "Bandar-e Anzali",
+        "es:t": "Ir\u00e1n | Guil\u00e1n",
+        "de": "Bandar Anzali",
+        "de:t": "Iran | Gilan"
+    },
+    {
+        "en": "Bandar Bushehr",
+        "en:t": "Iran",
+        "a": true,
+        "g": {
+            "lat": 28.9234,
+            "lon": 50.8203
+        },
+        "it": "Bushehr",
+        "it:t": "Iran",
+        "es": "Bushehr",
+        "es:t": "Ir\u00e1n",
+        "de": "Buschehr",
+        "de:t": "Iran"
+    },
+    {
+        "en": "Bandar Ganaveh",
+        "en:t": "Iran | Bushehr",
+        "a": true,
+        "g": {
+            "lat": 29.5692,
+            "lon": 50.5239
+        },
+        "it": "Bandar-e Gonaveh",
+        "it:t": "Iran | Bushehr",
+        "es": "Bandar Ganaveh",
+        "es:t": "Ir\u00e1n | Bushehr",
+        "de": "Bandar Ganaveh",
+        "de:t": "Iran | Bushehr"
+    },
+    {
+        "en": "Bandar Lengeh",
+        "en:t": "Iran | Hormozgan",
+        "a": true,
+        "g": {
+            "lat": 26.5628,
+            "lon": 54.8887
+        },
+        "it": "Bandar Lengeh",
+        "it:t": "Iran | Hormozgan",
+        "es": "Bandar Lengeh",
+        "es:t": "Ir\u00e1n | Hormozgan",
+        "de": "Bandar Lengeh",
+        "de:t": "Iran | Hormozgan"
+    },
+    {
+        "en": "Baneh",
+        "en:t": "Iran | Kurdistan",
+        "a": true,
+        "g": {
+            "lat": 35.9986,
+            "lon": 45.8823
+        },
+        "it": "Baneh",
+        "it:t": "Iran | Kurdistan",
+        "es": "Baneh",
+        "es:t": "Ir\u00e1n | Kurdistan",
+        "de": "Baneh",
+        "de:t": "Iran | Kurdestan"
+    },
+    {
+        "en": "Bardsir",
+        "en:t": "Iran",
+        "a": true,
+        "g": {
+            "lat": 29.9385,
+            "lon": 56.5729
+        },
+        "it": "Bardsir",
+        "it:t": "Iran",
+        "es": "Bardsir",
+        "es:t": "Ir\u00e1n",
+        "de": "Bardsir",
+        "de:t": "Iran"
+    },
+    {
+        "en": "Behbahan",
+        "en:t": "Iran",
+        "a": true,
+        "g": {
+            "lat": 30.5912,
+            "lon": 50.2347
+        },
+        "it": "Behbahan",
+        "it:t": "Iran",
+        "es": "Behbahan",
+        "es:t": "Ir\u00e1n",
+        "de": "Behbahan",
+        "de:t": "Iran"
+    },
+    {
+        "en": "Behshahr",
+        "en:t": "Iran | Mazandaran",
+        "a": true,
+        "g": {
+            "lat": 36.6953,
+            "lon": 53.5365
+        },
+        "it": "Behshahr",
+        "it:t": "Iran | Mazandaran",
+        "es": "Behshahr",
+        "es:t": "Ir\u00e1n | Mazandar\u00e1n",
+        "de": "Behschahr",
+        "de:t": "Iran | M\u0101zandar\u0101n"
+    },
+    {
+        "en": "Bijar",
+        "en:t": "Iran | Kurdistan",
+        "a": true,
+        "g": {
+            "lat": 35.8736,
+            "lon": 47.5988
+        },
+        "it": "Bijar",
+        "it:t": "Iran | Kurdistan",
+        "es": "Bijar",
+        "es:t": "Ir\u00e1n | Kurdistan",
+        "de": "Bidschar",
+        "de:t": "Iran | Kurdestan"
+    },
+    {
+        "en": "Birjand",
+        "en:t": "Iran",
+        "a": true,
+        "g": {
+            "lat": 32.8649,
+            "lon": 59.2262
+        },
+        "it": "Birjand",
+        "it:t": "Iran",
+        "es": "Biryand",
+        "es:t": "Ir\u00e1n",
+        "de": "Birdschand",
+        "de:t": "Iran"
+    },
+    {
+        "en": "Bojnurd",
+        "en:t": "Iran",
+        "a": true,
+        "g": {
+            "lat": 37.4702,
+            "lon": 57.3143
+        },
+        "it": "Bojnurd",
+        "it:t": "Iran",
+        "es": "Bojnord",
+        "es:t": "Ir\u00e1n",
+        "de": "Bodschnurd",
+        "de:t": "Iran"
+    },
+    {
+        "en": "Bonab",
+        "en:t": "Iran",
+        "a": true,
+        "g": {
+            "lat": 37.3446,
+            "lon": 46.0565
+        },
+        "it": "Bonab",
+        "it:t": "Iran",
+        "es": "Bonab",
+        "es:t": "Ir\u00e1n",
+        "de": "Bonab",
+        "de:t": "Iran"
+    },
+    {
+        "en": "Borazjan",
+        "en:t": "Iran | Bushehr",
+        "a": true,
+        "g": {
+            "lat": 29.2673,
+            "lon": 51.2318
+        },
+        "it": "Borazjan",
+        "it:t": "Iran | Bushehr",
+        "es": "Borazjan",
+        "es:t": "Ir\u00e1n | Bushehr",
+        "de": "Borazjan",
+        "de:t": "Iran | Buschehr"
+    },
+    {
+        "en": "Boroujen",
+        "en:t": "Iran | Chaharmahal and Bakhtiari",
+        "a": true,
+        "g": {
+            "lat": 31.9798,
+            "lon": 51.2946
+        },
+        "it": "Borujen",
+        "it:t": "Iran | Chahar Mahal e Bakhtiari",
+        "es": "Boroujen",
+        "es:t": "Ir\u00e1n | Chaharmahal and Bakhtiari",
+        "de": "Boroujen",
+        "de:t": "Iran | Chaharmahal and Bakhtiari"
+    },
+    {
+        "en": "Borujerd",
+        "en:t": "Iran | Lorestan",
+        "a": true,
+        "g": {
+            "lat": 33.8942,
+            "lon": 48.767
+        },
+        "it": "Bor\u016bjerd",
+        "it:t": "Iran | Lorestan",
+        "es": "Borujerd",
+        "es:t": "Ir\u00e1n | Lorest\u00e1n",
+        "de": "Borudscherd",
+        "de:t": "Iran | Lorestan"
+    },
+    {
+        "en": "Bukan",
+        "en:t": "Iran | West Azerbaijan",
+        "a": true,
+        "g": {
+            "lat": 36.5187,
+            "lon": 46.2094
+        },
+        "it": "Bukan",
+        "it:t": "Iran | Azarbaijan occidentale",
+        "es": "Bukan",
+        "es:t": "Ir\u00e1n | Azerbaiy\u00e1n Occidental",
+        "de": "Bukan",
+        "de:t": "Iran | West-Aserbaidschan"
+    },
+    {
+        "en": "Chabahar",
+        "en:t": "Iran",
+        "a": true,
+        "g": {
+            "lat": 25.2969,
+            "lon": 60.6459
+        },
+        "it": "Chabahar",
+        "it:t": "Iran",
+        "es": "Chabahar",
+        "es:t": "Ir\u00e1n",
+        "de": "Tschahbahar",
+        "de:t": "Iran"
+    },
+    {
+        "en": "Chalus",
+        "en:t": "Iran | Mazandaran",
+        "a": true,
+        "g": {
+            "lat": 36.6459,
+            "lon": 51.407
+        },
+        "it": "Chalus",
+        "it:t": "Iran | Mazandaran",
+        "es": "Chalus",
+        "es:t": "Ir\u00e1n | Mazandaran",
+        "de": "Tschalus",
+        "de:t": "Iran | M\u0101zandar\u0101n"
+    },
+    {
+        "en": "Chenaran",
+        "en:t": "Iran | Razavi Khorasan",
+        "a": true,
+        "g": {
+            "lat": 36.6416,
+            "lon": 59.1214
+        },
+        "it": "Chenaran",
+        "it:t": "Iran | Razavi Khorasan",
+        "es": "Chenaran",
+        "es:t": "Ir\u00e1n | Razavi Khorasan",
+        "de": "Chenaran",
+        "de:t": "Iran | Razavi Khorasan"
+    },
+    {
+        "en": "Damavand",
+        "en:t": "Iran",
+        "a": true,
+        "g": {
+            "lat": 35.7828,
+            "lon": 51.4888
+        },
+        "it": "Damavand",
+        "it:t": "Iran",
+        "es": "Damavand",
+        "es:t": "Ir\u00e1n",
+        "de": "Damavand",
+        "de:t": "Iran"
+    },
+    {
+        "en": "Damghan",
+        "en:t": "Iran | D\u0101mgh\u0101n",
+        "a": true,
+        "g": {
+            "lat": 36.1646,
+            "lon": 54.3576
+        },
+        "it": "Damghan",
+        "it:t": "Iran | Damghan",
+        "es": "Damghan",
+        "es:t": "Ir\u00e1n | D\u0101mgh\u0101n",
+        "de": "Damghan",
+        "de:t": "Iran | D\u0101mgh\u0101n"
+    },
+    {
+        "en": "Darab",
+        "en:t": "Iran | Fars",
+        "a": true,
+        "g": {
+            "lat": 28.756,
+            "lon": 54.5547
+        },
+        "it": "Darab",
+        "it:t": "Iran | Fars",
+        "es": "Darab",
+        "es:t": "Ir\u00e1n | Fars",
+        "de": "Darab",
+        "de:t": "Iran | Fars"
+    },
+    {
+        "en": "Darreh Shahr",
+        "en:t": "Iran | Ilam",
+        "a": true,
+        "g": {
+            "lat": 33.1439,
+            "lon": 47.3829
+        },
+        "it": "Darrehshahr",
+        "it:t": "Iran | Ilam",
+        "es": "Darreh Shahr",
+        "es:t": "Ir\u00e1n | Ilam",
+        "de": "Darreh Shahr",
+        "de:t": "Iran | Ilam"
+    },
+    {
+        "en": "Dehdasht",
+        "en:t": "Iran | Kohgiluyeh and Boyer-Ahmad",
+        "a": true,
+        "g": {
+            "lat": 30.7856,
+            "lon": 50.5705
+        },
+        "it": "Dehdasht",
+        "it:t": "Iran | Kohgiluyeh e Buyer Ahmad",
+        "es": "Dehdasht",
+        "es:t": "Ir\u00e1n | Kohgiluyeh and Boyer-Ahmad",
+        "de": "Dehdasht",
+        "de:t": "Iran | Kohgiluyeh and Boyer-Ahmad"
+    },
+    {
+        "en": "Dehloran",
+        "en:t": "Iran | Ilam",
+        "a": true,
+        "g": {
+            "lat": 32.6922,
+            "lon": 47.268
+        },
+        "it": "Dehloran",
+        "it:t": "Iran | Ilam",
+        "es": "Dehloran",
+        "es:t": "Ir\u00e1n | Ilam",
+        "de": "Dehloran",
+        "de:t": "Iran | Ilam"
+    },
+    {
+        "en": "Delijan",
+        "en:t": "Iran | Markazi",
+        "a": true,
+        "g": {
+            "lat": 33.9923,
+            "lon": 50.6846
+        },
+        "it": "Delijan",
+        "it:t": "Iran | Markazi",
+        "es": "Delijan",
+        "es:t": "Ir\u00e1n | Markazi",
+        "de": "Delijan",
+        "de:t": "Iran | Markazi"
+    },
+    {
+        "en": "Dolatabad",
+        "en:t": "Iran | Borkhar",
+        "a": true,
+        "g": {
+            "lat": 32.805,
+            "lon": 51.6992
+        },
+        "it": "Dowlatabad",
+        "it:t": "Iran | Borkhar",
+        "es": "Dolatabad",
+        "es:t": "Ir\u00e1n | Borkhar",
+        "de": "Dolatabad",
+        "de:t": "Iran | Borkhar"
+    },
+    {
+        "en": "Dorcheh",
+        "en:t": "Iran | Khomeini Shahr",
+        "a": true,
+        "g": {
+            "lat": 32.6109,
+            "lon": 51.5544
+        },
+        "it": "Darcheh Piaz",
+        "it:t": "Iran | Khomeynishahr",
+        "es": "Dorcheh",
+        "es:t": "Ir\u00e1n | Khomeini Shahr",
+        "de": "Dorcheh",
+        "de:t": "Iran | Khomeini Shahr"
+    },
+    {
+        "en": "Eqbaliyeh",
+        "en:t": "Iran | Qazvin",
+        "a": true,
+        "g": {
+            "lat": 36.2291,
+            "lon": 49.9213
+        },
+        "it": "Eqb\u0101l\u012byeh",
+        "it:t": "Iran | \u0645\u062d\u0645\u062f\u06cc\u0647",
+        "es": "Eqb\u0101l\u012byeh",
+        "es:t": "Ir\u00e1n | \u0645\u062d\u0645\u062f\u06cc\u0647",
+        "de": "Eqb\u0101l\u012byeh",
+        "de:t": "Iran | \u0645\u062d\u0645\u062f\u06cc\u0647"
+    },
+    {
+        "en": "Esfar\u0101yen",
+        "en:t": "Iran | Esfarayen",
+        "a": true,
+        "g": {
+            "lat": 37.0667,
+            "lon": 57.4967
+        },
+        "it": "Esfarayen",
+        "it:t": "Iran | Esfarayen",
+        "es": "Esfar\u0101yen",
+        "es:t": "Ir\u00e1n | Esfarayen",
+        "de": "Esfarayen",
+        "de:t": "Iran"
+    },
+    {
+        "en": "Falavarjan",
+        "en:t": "Iran",
+        "a": true,
+        "g": {
+            "lat": 32.5539,
+            "lon": 51.5098
+        },
+        "it": "Falavarjan",
+        "it:t": "Iran",
+        "es": "Falavarjan",
+        "es:t": "Ir\u00e1n",
+        "de": "Falavarjan",
+        "de:t": "Iran"
+    },
+    {
+        "en": "Farrokhshahr",
+        "en:t": "Iran | Chaharmahal and Bakhtiari",
+        "a": true,
+        "g": {
+            "lat": 32.2705,
+            "lon": 50.981
+        },
+        "it": "Farrokhshahr",
+        "it:t": "Iran | Chahar Mahal e Bakhtiari",
+        "es": "Farrokhshahr",
+        "es:t": "Ir\u00e1n | Chaharmahal and Bakhtiari",
+        "de": "Farrokhshahr",
+        "de:t": "Iran | Chaharmahal and Bakhtiari"
+    },
+    {
+        "en": "Farsan",
+        "en:t": "Iran | Chaharmahal and Bakhtiari",
+        "a": true,
+        "g": {
+            "lat": 32.2582,
+            "lon": 50.5705
+        },
+        "it": "Farsan",
+        "it:t": "Iran | Chahar Mahal e Bakhtiari",
+        "es": "Farsan",
+        "es:t": "Ir\u00e1n | Chaharmahal and Bakhtiari",
+        "de": "Farsan",
+        "de:t": "Iran | Chaharmahal and Bakhtiari"
+    },
+    {
+        "en": "Fasa",
+        "en:t": "Iran | Fars",
+        "a": true,
+        "g": {
+            "lat": 28.944,
+            "lon": 53.6339
+        },
+        "it": "Fasa",
+        "it:t": "Iran | Fars",
+        "es": "Fas\u00e1",
+        "es:t": "Ir\u00e1n | Fars",
+        "de": "Fasa",
+        "de:t": "Iran | Fars"
+    },
+    {
+        "en": "Fereydunkenar",
+        "en:t": "Iran | Mazandaran",
+        "a": true,
+        "g": {
+            "lat": 36.6858,
+            "lon": 52.5265
+        },
+        "it": "Fereydun Kenar",
+        "it:t": "Iran | Mazandaran",
+        "es": "Fereydunkenar",
+        "es:t": "Ir\u00e1n | Mazandaran",
+        "de": "Fereydunkenar",
+        "de:t": "Iran | Mazandaran"
+    },
+    {
+        "en": "Firuzabad",
+        "en:t": "Iran | Fars",
+        "a": true,
+        "g": {
+            "lat": 28.8395,
+            "lon": 52.5639
+        },
+        "it": "Firuzabad",
+        "it:t": "Iran | Fars",
+        "es": "Firuzabad",
+        "es:t": "Ir\u00e1n | Fars",
+        "de": "Firuzabad",
+        "de:t": "Iran | Fars"
+    },
+    {
+        "en": "Fuman",
+        "en:t": "Iran | Gilan",
+        "a": true,
+        "g": {
+            "lat": 37.2204,
+            "lon": 49.3095
+        },
+        "it": "Fuman",
+        "it:t": "Iran | Gilan",
+        "es": "Fuman",
+        "es:t": "Ir\u00e1n | Guil\u00e1n",
+        "de": "Fuman",
+        "de:t": "Iran | Gilan"
+    },
+    {
+        "en": "Gachsaran",
+        "en:t": "Iran | Kohgiluyeh and Boyer-Ahmad",
+        "a": true,
+        "g": {
+            "lat": 30.366,
+            "lon": 50.7936
+        },
+        "it": "Dogonbadan",
+        "it:t": "Iran | Kohgiluyeh e Buyer Ahmad",
+        "es": "Gachsaran",
+        "es:t": "Ir\u00e1n | Kohgiluyeh and Boyer-Ahmad",
+        "de": "Gachsaran",
+        "de:t": "Iran | Kohgiluye und Boyer Ahmad"
+    },
+    {
+        "en": "Garms\u0101r",
+        "en:t": "Iran",
+        "a": true,
+        "g": {
+            "lat": 35.2031,
+            "lon": 52.3294
+        },
+        "it": "Garmsar",
+        "it:t": "Iran",
+        "es": "Garms\u0101r",
+        "es:t": "Ir\u00e1n",
+        "de": "Garmsar",
+        "de:t": "Iran"
+    },
+    {
+        "en": "Gerash",
+        "en:t": "Iran | Fars",
+        "a": true,
+        "g": {
+            "lat": 27.6904,
+            "lon": 54.1502
+        },
+        "it": "Gerash",
+        "it:t": "Iran | Fars",
+        "es": "Gerash",
+        "es:t": "Ir\u00e1n | Fars",
+        "de": "Gerash",
+        "de:t": "Iran | Fars"
+    },
+    {
+        "en": "Ghahderijan",
+        "en:t": "Iran | Falavarjan",
+        "a": true,
+        "g": {
+            "lat": 32.5725,
+            "lon": 51.4415
+        },
+        "it": "Qahderijan",
+        "it:t": "Iran | Falavarjan",
+        "es": "Ghahderijan",
+        "es:t": "Ir\u00e1n | Falavarjan",
+        "de": "Ghahderijan",
+        "de:t": "Iran | Falavarjan"
+    },
+    {
+        "en": "Ghayen",
+        "en:t": "Iran | Ghayenat",
+        "a": true,
+        "g": {
+            "lat": 33.7227,
+            "lon": 59.1788
+        },
+        "it": "Qa'en",
+        "it:t": "Iran | Qa'enat",
+        "es": "Qaen",
+        "es:t": "Ir\u00e1n | Ghayenat",
+        "de": "Qaen",
+        "de:t": "Iran | Ghayenat"
+    },
+    {
+        "en": "Golpayegan",
+        "en:t": "Iran | Golpayegan",
+        "a": true,
+        "g": {
+            "lat": 33.4572,
+            "lon": 50.2708
+        },
+        "it": "Golpayegan",
+        "it:t": "Iran | Shahrest\u0101n di Golpayegan",
+        "es": "Golpayegan",
+        "es:t": "Ir\u00e1n | Golpayegan",
+        "de": "Golpayegan",
+        "de:t": "Iran | Golpayegan"
+    },
+    {
+        "en": "Gonabad",
+        "en:t": "Iran | Razavi Khorasan",
+        "a": true,
+        "g": {
+            "lat": 34.3396,
+            "lon": 58.703
+        },
+        "it": "Gonabad",
+        "it:t": "Iran | Razavi Khorasan",
+        "es": "Gonabad",
+        "es:t": "Ir\u00e1n | Razavi Khorasan",
+        "de": "Gonabad",
+        "de:t": "Iran | Razavi Khorasan"
+    },
+    {
+        "en": "Gonbad Kavus",
+        "en:t": "Iran | Golestan",
+        "a": true,
+        "g": {
+            "lat": 37.2407,
+            "lon": 55.1597
+        },
+        "it": "Gonbad-e Kavus",
+        "it:t": "Iran | Golestan",
+        "es": "Gonbad-e Kavus",
+        "es:t": "Ir\u00e1n | Golest\u00e1n",
+        "de": "Gonbad-e Qabus",
+        "de:t": "Iran | Golestan"
+    },
+    {
+        "en": "Gorgan",
+        "en:t": "Iran | Golestan",
+        "a": true,
+        "g": {
+            "lat": 36.8456,
+            "lon": 54.4393
+        },
+        "it": "Gorgan",
+        "it:t": "Iran | Golestan",
+        "es": "Gorg\u00e1n",
+        "es:t": "Ir\u00e1n | Golest\u00e1n",
+        "de": "Gorgan",
+        "de:t": "Iran | Golestan"
+    },
+    {
+        "en": "Hamedan",
+        "en:t": "Iran",
+        "a": true,
+        "g": {
+            "lat": 34.7989,
+            "lon": 48.515
+        },
+        "it": "Hamadan",
+        "it:t": "Iran",
+        "es": "Hamad\u00e1n",
+        "es:t": "Ir\u00e1n",
+        "de": "Hamadan",
+        "de:t": "Iran"
+    },
+    {
+        "en": "Harsin",
+        "en:t": "Iran | Kermanshah",
+        "a": true,
+        "g": {
+            "lat": 34.2719,
+            "lon": 47.6046
+        },
+        "it": "Harsin",
+        "it:t": "Iran | Kermanshah",
+        "es": "Hars\u00edn",
+        "es:t": "Ir\u00e1n | Kermanshah",
+        "de": "Harsin",
+        "de:t": "Iran | Kermanshah"
+    },
+    {
+        "en": "Hashtrood",
+        "en:t": "Iran | Hashtroud",
+        "a": true,
+        "g": {
+            "lat": 37.4758,
+            "lon": 47.0505
+        },
+        "it": "Hashtrud",
+        "it:t": "Iran | Hashtrud",
+        "es": "Hashtrood",
+        "es:t": "Ir\u00e1n | Hashtroud",
+        "de": "Hashtrud",
+        "de:t": "Iran | Haschtrud"
+    },
+    {
+        "en": "Ilam",
+        "en:t": "Iran",
+        "a": true,
+        "g": {
+            "lat": 33.635,
+            "lon": 46.4153
+        },
+        "it": "Ilam",
+        "it:t": "Iran",
+        "es": "Ilam",
+        "es:t": "Ir\u00e1n",
+        "de": "Ilam",
+        "de:t": "Iran"
+    },
+    {
+        "en": "Iranshahr",
+        "en:t": "Iran",
+        "a": true,
+        "g": {
+            "lat": 27.2012,
+            "lon": 60.6866
+        },
+        "it": "Iranshahr",
+        "it:t": "Iran",
+        "es": "Iranshahr",
+        "es:t": "Ir\u00e1n",
+        "de": "Iranschahr",
+        "de:t": "Iran"
+    },
+    {
+        "en": "Isfahan",
+        "en:t": "Iran",
+        "a": true,
+        "g": {
+            "lat": 32.6539,
+            "lon": 51.666
+        },
+        "it": "Esfahan",
+        "it:t": "Iran",
+        "es": "Isfah\u00e1n",
+        "es:t": "Ir\u00e1n",
+        "de": "Isfahan",
+        "de:t": "Iran"
+    },
+    {
+        "en": "Jadid",
+        "en:t": "Iran | Tehran",
+        "a": true,
+        "g": {
+            "lat": 35.6411,
+            "lon": 51.4182
+        },
+        "it": "Andisheh",
+        "it:t": "Iran | Tehran",
+        "es": "Jadid",
+        "es:t": "Ir\u00e1n | Tehran",
+        "de": "Andisheh",
+        "de:t": "Iran | Tehran"
+    },
+    {
+        "en": "Javanrud",
+        "en:t": "Iran | Kermanshah",
+        "a": true,
+        "g": {
+            "lat": 34.8063,
+            "lon": 46.4922
+        },
+        "it": "Javanrud",
+        "it:t": "Iran | Kermanshah",
+        "es": "Yavanrud",
+        "es:t": "Ir\u00e1n | Kermanshah",
+        "de": "Javanrud",
+        "de:t": "Iran | Kermanshah"
+    },
+    {
+        "en": "Juybar",
+        "en:t": "Iran | Mazandaran",
+        "a": true,
+        "g": {
+            "lat": 36.6454,
+            "lon": 52.901
+        },
+        "it": "Juybar",
+        "it:t": "Iran | Mazandaran",
+        "es": "Juybar",
+        "es:t": "Ir\u00e1n | Mazandaran",
+        "de": "Dschuyb\u0101r",
+        "de:t": "Iran | M\u0101zandar\u0101n"
+    },
+    {
+        "en": "Kahreez",
+        "en:t": "Iran | Kermanshah",
+        "a": true,
+        "g": {
+            "lat": 34.3064,
+            "lon": 47.1204
+        },
+        "it": "Kahreez",
+        "it:t": "Iran | Kermanshah",
+        "es": "Kahreez",
+        "es:t": "Ir\u00e1n | Kermanshah",
+        "de": "Kahreez",
+        "de:t": "Iran | Kermanshah"
+    },
+    {
+        "en": "Kalaleh",
+        "en:t": "Iran | Golestan",
+        "a": true,
+        "g": {
+            "lat": 37.3833,
+            "lon": 55.5026
+        },
+        "it": "Kalaleh",
+        "it:t": "Iran | Golestan",
+        "es": "Kalaleh",
+        "es:t": "Ir\u00e1n | Golestan",
+        "de": "Kalaleh",
+        "de:t": "Iran | Golestan"
+    },
+    {
+        "en": "Kamyaran",
+        "en:t": "Iran | Kurdistan",
+        "a": true,
+        "g": {
+            "lat": 34.7956,
+            "lon": 46.9368
+        },
+        "it": "Kamyaran",
+        "it:t": "Iran | Kurdistan",
+        "es": "Kamyaran",
+        "es:t": "Ir\u00e1n | Kurdistan",
+        "de": "Kamyaran",
+        "de:t": "Iran | Kurdistan"
+    },
+    {
+        "en": "Kangavar",
+        "en:t": "Iran | Kermanshah",
+        "a": true,
+        "g": {
+            "lat": 34.5071,
+            "lon": 47.9565
+        },
+        "it": "Kangavar",
+        "it:t": "Iran | Kermanshah",
+        "es": "Kangavar",
+        "es:t": "Ir\u00e1n | Kermanshah",
+        "de": "Kangavar",
+        "de:t": "Iran | Kerm\u0101nsch\u0101h"
+    },
+    {
+        "en": "Karaj",
+        "en:t": "Iran | Alborz",
+        "a": true,
+        "g": {
+            "lat": 35.84,
+            "lon": 50.9391
+        },
+        "it": "Karaj",
+        "it:t": "Iran | Alborz",
+        "es": "Karaj",
+        "es:t": "Ir\u00e1n | Elburz",
+        "de": "Karadsch",
+        "de:t": "Iran | Alborz"
+    },
+    {
+        "en": "Kashan",
+        "en:t": "Iran | Kashan",
+        "a": true,
+        "g": {
+            "lat": 33.985,
+            "lon": 51.41
+        },
+        "it": "Kashan",
+        "it:t": "Iran | Shahrest\u0101n di Kashan",
+        "es": "Kashan",
+        "es:t": "Ir\u00e1n | Kashan",
+        "de": "Kaschan",
+        "de:t": "Iran | Kashan"
+    },
+    {
+        "en": "Kashmar",
+        "en:t": "Iran | Razavi Khorasan",
+        "a": true,
+        "g": {
+            "lat": 35.2434,
+            "lon": 58.4687
+        },
+        "it": "Kashmar",
+        "it:t": "Iran | Razavi Khorasan",
+        "es": "Kashmar",
+        "es:t": "Ir\u00e1n | Razavi Khorasan",
+        "de": "Kaschmar",
+        "de:t": "Iran | Razavi-Chorasan"
+    },
+    {
+        "en": "Kazerun",
+        "en:t": "Iran | Fars",
+        "a": true,
+        "g": {
+            "lat": 29.6271,
+            "lon": 51.6518
+        },
+        "it": "Kazerun",
+        "it:t": "Iran | Fars",
+        "es": "Kazerun",
+        "es:t": "Ir\u00e1n | Fars",
+        "de": "Kazerun",
+        "de:t": "Iran | Fars"
+    },
+    {
+        "en": "Kelishad and Soderjaan",
+        "en:t": "Iran | Falavarjan",
+        "a": true,
+        "g": {
+            "lat": 32.5518,
+            "lon": 51.5308
+        },
+        "it": "Kelishad e Suderjan",
+        "it:t": "Iran | Falavarjan",
+        "es": "Kelishad and Soderjaan",
+        "es:t": "Ir\u00e1n | Falavarjan",
+        "de": "Kelishad and Soderjaan",
+        "de:t": "Iran | Falavarjan"
+    },
+    {
+        "en": "Kerman",
+        "en:t": "Iran",
+        "a": true,
+        "g": {
+            "lat": 30.2839,
+            "lon": 57.0834
+        },
+        "it": "Kerman",
+        "it:t": "Iran",
+        "es": "Kerm\u00e1n",
+        "es:t": "Ir\u00e1n",
+        "de": "Kerman",
+        "de:t": "Iran"
+    },
+    {
+        "en": "Kermanshah",
+        "en:t": "Iran | Kermanshah",
+        "a": true,
+        "g": {
+            "lat": 34.3277,
+            "lon": 47.0778
+        },
+        "it": "Kermanshah",
+        "it:t": "Iran | Kermanshah",
+        "es": "Kermanshah",
+        "es:t": "Ir\u00e1n | Kermanshah",
+        "de": "Kerm\u0101nsch\u0101h",
+        "de:t": "Iran"
+    },
+    {
+        "en": "Khalkhal",
+        "en:t": "Iran | Ardabil",
+        "a": true,
+        "g": {
+            "lat": 37.6205,
+            "lon": 48.533
+        },
+        "it": "Khalkhal",
+        "it:t": "Iran | Ardabil",
+        "es": "Khalkhal",
+        "es:t": "Ir\u00e1n | Ardebil",
+        "de": "Khalkhal",
+        "de:t": "Iran | Ardabil"
+    },
+    {
+        "en": "Khansar",
+        "en:t": "Iran",
+        "a": true,
+        "g": {
+            "lat": 33.2812,
+            "lon": 50.3172
+        },
+        "it": "Khvansar",
+        "it:t": "Iran",
+        "es": "Khansar",
+        "es:t": "Ir\u00e1n",
+        "de": "Chansar",
+        "de:t": "Iran"
+    },
+    {
+        "en": "Khash",
+        "en:t": "Iran",
+        "a": true,
+        "g": {
+            "lat": 28.2314,
+            "lon": 61.1928
+        },
+        "it": "Khash",
+        "it:t": "Iran",
+        "es": "Khash",
+        "es:t": "Ir\u00e1n",
+        "de": "Chasch",
+        "de:t": "Iran"
+    },
+    {
+        "en": "Khomein",
+        "en:t": "Iran | Markazi",
+        "a": true,
+        "g": {
+            "lat": 33.6406,
+            "lon": 50.0771
+        },
+        "it": "Khomeyn",
+        "it:t": "Iran | Markazi",
+        "es": "Jomein",
+        "es:t": "Ir\u00e1n | Markaz\u00ed",
+        "de": "Chomein",
+        "de:t": "Iran | Markazi"
+    },
+    {
+        "en": "Khomeyni Shahr",
+        "en:t": "Iran | Khomeini Shahr",
+        "a": true,
+        "g": {
+            "lat": 32.6933,
+            "lon": 51.536
+        },
+        "it": "Khomeyni Shahr",
+        "it:t": "Iran | Khomeynishahr",
+        "es": "Khomeini Shahr",
+        "es:t": "Ir\u00e1n",
+        "de": "Chomeinischahr",
+        "de:t": "Iran | Khomeini Shahr"
+    },
+    {
+        "en": "Khorramabad",
+        "en:t": "Iran | Khorramabad",
+        "a": true,
+        "g": {
+            "lat": 33.4647,
+            "lon": 48.339
+        },
+        "it": "Khorramabad",
+        "it:t": "Iran | Khorramabad",
+        "es": "Jorramabad",
+        "es:t": "Ir\u00e1n | Khorramabad",
+        "de": "Chorramabad",
+        "de:t": "Iran | Khorramabad"
+    },
+    {
+        "en": "Khorramdarreh",
+        "en:t": "Iran | Khorramdarreh",
+        "a": true,
+        "g": {
+            "lat": 36.2109,
+            "lon": 49.193
+        },
+        "it": "Khorramdarreh",
+        "it:t": "Iran | Khorramdarreh",
+        "es": "Khorramdarreh",
+        "es:t": "Ir\u00e1n | Khorramdarreh",
+        "de": "Khorramdarreh",
+        "de:t": "Iran | Khorramdarreh"
+    },
+    {
+        "en": "Khorramshahr",
+        "en:t": "Iran | Khuzestan",
+        "a": true,
+        "g": {
+            "lat": 30.4256,
+            "lon": 48.1891
+        },
+        "it": "Khorramshahr",
+        "it:t": "Iran | Kh\u016bzest\u0101n",
+        "es": "Jorramchar",
+        "es:t": "Ir\u00e1n | Juzest\u00e1n",
+        "de": "Chorramschahr",
+        "de:t": "Iran | Chuzestan"
+    },
+    {
+        "en": "Khoy",
+        "en:t": "Iran | West Azerbaijan",
+        "a": true,
+        "g": {
+            "lat": 38.5534,
+            "lon": 44.9397
+        },
+        "it": "Khoy",
+        "it:t": "Iran | Azarbaijan occidentale",
+        "es": "Khoy",
+        "es:t": "Ir\u00e1n | West Azerbaijan",
+        "de": "Khoy",
+        "de:t": "Iran | West-Aserbaidschan"
+    },
+    {
+        "en": "Kish",
+        "en:t": "Iran",
+        "a": true,
+        "g": {
+            "lat": 26.5325,
+            "lon": 53.9868
+        },
+        "it": "Kish",
+        "it:t": "Iran",
+        "es": "Kish",
+        "es:t": "Ir\u00e1n",
+        "de": "Kish",
+        "de:t": "Iran"
+    },
+    {
+        "en": "Kuhdasht",
+        "en:t": "Iran | Lorestan",
+        "a": true,
+        "g": {
+            "lat": 33.5275,
+            "lon": 47.6111
+        },
+        "it": "Kuhdasht",
+        "it:t": "Iran | Lorestan",
+        "es": "Kuhdasht",
+        "es:t": "Ir\u00e1n | Lorestan",
+        "de": "Kuhdasht",
+        "de:t": "Iran | Lorestan"
+    },
+    {
+        "en": "Langarud",
+        "en:t": "Iran | Gilan",
+        "a": true,
+        "g": {
+            "lat": 37.1878,
+            "lon": 50.1575
+        },
+        "it": "Langrud",
+        "it:t": "Iran | Gilan",
+        "es": "Langarud",
+        "es:t": "Ir\u00e1n | Gilan",
+        "de": "Langrud",
+        "de:t": "Iran | Gilan"
+    },
+    {
+        "en": "Mahabad",
+        "en:t": "Iran | West Azerbaijan",
+        "a": true,
+        "g": {
+            "lat": 36.7684,
+            "lon": 45.7337
+        },
+        "it": "Mahabad",
+        "it:t": "Iran | Azarbaijan occidentale",
+        "es": "Mahabad",
+        "es:t": "Ir\u00e1n | Azerbaiy\u00e1n Occidental",
+        "de": "Mahabad",
+        "de:t": "Iran | West-Aserbaidschan"
+    },
+    {
+        "en": "Mahdi Shahr",
+        "en:t": "Iran | Mahdishahr",
+        "a": true,
+        "g": {
+            "lat": 35.703,
+            "lon": 53.342
+        },
+        "it": "Mehdishahr",
+        "it:t": "Iran | Mehdishahr",
+        "es": "Mahdi Shahr",
+        "es:t": "Ir\u00e1n | Mahdishahr",
+        "de": "Sangsar",
+        "de:t": "Iran | Mahdishahr"
+    },
+    {
+        "en": "Malard",
+        "en:t": "Iran | Tehran",
+        "a": true,
+        "g": {
+            "lat": 35.6575,
+            "lon": 50.9762
+        },
+        "it": "Malard",
+        "it:t": "Iran | Teheran",
+        "es": "Malard",
+        "es:t": "Ir\u00e1n | Teher\u00e1n",
+        "de": "Malard",
+        "de:t": "Iran | Teheran"
+    },
+    {
+        "en": "Malayer",
+        "en:t": "Iran | Hamadan",
+        "a": true,
+        "g": {
+            "lat": 34.302,
+            "lon": 48.8146
+        },
+        "it": "Malayer",
+        "it:t": "Iran | Hamadan",
+        "es": "Malayer",
+        "es:t": "Ir\u00e1n | Hamadan",
+        "de": "Malayer",
+        "de:t": "Iran | Hamadan"
+    },
+    {
+        "en": "Marand",
+        "en:t": "Iran",
+        "a": true,
+        "g": {
+            "lat": 38.4278,
+            "lon": 45.7621
+        },
+        "it": "Marand",
+        "it:t": "Iran",
+        "es": "Marand",
+        "es:t": "Ir\u00e1n",
+        "de": "Marand",
+        "de:t": "Iran"
+    },
+    {
+        "en": "Mashhad",
+        "en:t": "Iran | Razavi Khorasan",
+        "a": true,
+        "g": {
+            "lat": 36.2605,
+            "lon": 59.6168
+        },
+        "it": "Mashhad",
+        "it:t": "Iran | Razavi Khorasan",
+        "es": "Mashhad",
+        "es:t": "Ir\u00e1n | Joras\u00e1n Razav\u00ed",
+        "de": "Maschhad",
+        "de:t": "Iran | Razavi-Chorasan"
+    },
+    {
+        "en": "Masjed Soleyman",
+        "en:t": "Iran | Khuzestan",
+        "a": true,
+        "g": {
+            "lat": 31.9634,
+            "lon": 49.2892
+        },
+        "it": "Masjed-e Soleyman",
+        "it:t": "Iran | Kh\u016bzest\u0101n",
+        "es": "Masjed Soleiman",
+        "es:t": "Ir\u00e1n | Juzest\u00e1n",
+        "de": "Masdsched Soleyman",
+        "de:t": "Iran | Chuzestan"
+    },
+    {
+        "en": "Mehriz",
+        "en:t": "Iran | Yazd",
+        "a": true,
+        "g": {
+            "lat": 31.5778,
+            "lon": 54.4452
+        },
+        "it": "Mehriz",
+        "it:t": "Iran | Yazd",
+        "es": "Mehriz",
+        "es:t": "Ir\u00e1n | Yazd",
+        "de": "Mehriz",
+        "de:t": "Iran | Yazd"
+    },
+    {
+        "en": "Meybod",
+        "en:t": "Iran | Yazd",
+        "a": true,
+        "g": {
+            "lat": 32.2487,
+            "lon": 54.0079
+        },
+        "it": "Meybod",
+        "it:t": "Iran | Yazd",
+        "es": "Meybod",
+        "es:t": "Ir\u00e1n | Yazd",
+        "de": "Meybod",
+        "de:t": "Iran | Yazd"
+    },
+    {
+        "en": "Minab",
+        "en:t": "Iran | Hormozgan",
+        "a": true,
+        "g": {
+            "lat": 27.1372,
+            "lon": 57.0675
+        },
+        "it": "Minab",
+        "it:t": "Iran | Hormozgan",
+        "es": "Minab",
+        "es:t": "Ir\u00e1n | Hormozgan",
+        "de": "Minab",
+        "de:t": "Iran | Hormozgan"
+    },
+    {
+        "en": "Nahavand",
+        "en:t": "Iran | Hamadan",
+        "a": true,
+        "g": {
+            "lat": 34.1883,
+            "lon": 48.3689
+        },
+        "it": "Nahavand",
+        "it:t": "Iran | Hamadan",
+        "es": "Nahavand",
+        "es:t": "Ir\u00e1n | Hamadan",
+        "de": "Nahavand",
+        "de:t": "Iran | Hamadan"
+    },
+    {
+        "en": "Najafabad",
+        "en:t": "Iran | Najaf Abad",
+        "a": true,
+        "g": {
+            "lat": 32.6324,
+            "lon": 51.368
+        },
+        "it": "Najafabad",
+        "it:t": "Iran | Najafabad",
+        "es": "Najafabad",
+        "es:t": "Ir\u00e1n | Najaf Abad",
+        "de": "Najafabad",
+        "de:t": "Iran | Najaf Abad"
+    },
+    {
+        "en": "Naqadeh",
+        "en:t": "Iran",
+        "a": true,
+        "g": {
+            "lat": 36.9563,
+            "lon": 45.3878
+        },
+        "it": "Naqadeh",
+        "it:t": "Iran",
+        "es": "Naqadeh",
+        "es:t": "Ir\u00e1n",
+        "de": "Naghadeh",
+        "de:t": "Iran"
+    },
+    {
+        "en": "Nazarabad",
+        "en:t": "Iran | Alborz",
+        "a": true,
+        "g": {
+            "lat": 35.9726,
+            "lon": 50.6068
+        },
+        "it": "Nazarabad",
+        "it:t": "Iran | Alborz",
+        "es": "Nazarabad",
+        "es:t": "Ir\u00e1n | Alborz",
+        "de": "Nazarabad",
+        "de:t": "Iran | Alborz"
+    },
+    {
+        "en": "Neka",
+        "en:t": "Iran | Mazandaran",
+        "a": true,
+        "g": {
+            "lat": 36.6483,
+            "lon": 53.2989
+        },
+        "it": "Neka",
+        "it:t": "Iran | Mazandaran",
+        "es": "Neka",
+        "es:t": "Ir\u00e1n | Mazandaran",
+        "de": "Neka",
+        "de:t": "Iran | M\u0101zandar\u0101n"
+    },
+    {
+        "en": "Neyriz",
+        "en:t": "Iran | Fars",
+        "a": true,
+        "g": {
+            "lat": 29.1893,
+            "lon": 54.3139
+        },
+        "it": "Neyriz",
+        "it:t": "Iran | Fars",
+        "es": "Neyriz",
+        "es:t": "Ir\u00e1n | Fars",
+        "de": "Neyriz",
+        "de:t": "Iran | Fars"
+    },
+    {
+        "en": "Neyshabur",
+        "en:t": "Iran | Razavi Khorasan",
+        "a": true,
+        "g": {
+            "lat": 36.2141,
+            "lon": 58.7961
+        },
+        "it": "Nishapur",
+        "it:t": "Iran | Razavi Khorasan",
+        "es": "Nishapur",
+        "es:t": "Ir\u00e1n | Joras\u00e1n Razav\u00ed",
+        "de": "Nischapur",
+        "de:t": "Iran | Razavi-Chorasan"
+    },
+    {
+        "en": "Nourabad",
+        "en:t": "Iran | Fars",
+        "a": true,
+        "g": {
+            "lat": 30.1151,
+            "lon": 51.5413
+        },
+        "it": "Nurabad",
+        "it:t": "Iran | Fars",
+        "es": "Nourabad",
+        "es:t": "Ir\u00e1n | Fars",
+        "de": "Nourabad",
+        "de:t": "Iran | Fars"
+    },
+    {
+        "en": "Nowshahr",
+        "en:t": "Iran | Mazandaran",
+        "a": true,
+        "g": {
+            "lat": 36.6494,
+            "lon": 51.4887
+        },
+        "it": "Nushahr",
+        "it:t": "Iran | Mazandaran",
+        "es": "Nowshahr",
+        "es:t": "Ir\u00e1n | Mazandar\u00e1n",
+        "de": "Nouschahr",
+        "de:t": "Iran | M\u0101zandar\u0101n"
+    },
+    {
+        "en": "Nurabad",
+        "en:t": "Iran | Lorestan",
+        "a": true,
+        "g": {
+            "lat": 34.0665,
+            "lon": 47.9763
+        },
+        "it": "Nurabad",
+        "it:t": "Iran | Lorestan",
+        "es": "Nurabad",
+        "es:t": "Ir\u00e1n | Lorestan",
+        "de": "Nurabad",
+        "de:t": "Iran | Lorestan"
+    },
+    {
+        "en": "Omidiyeh",
+        "en:t": "Iran",
+        "a": true,
+        "g": {
+            "lat": 30.7605,
+            "lon": 49.7013
+        },
+        "it": "Omidiyeh",
+        "it:t": "Iran",
+        "es": "Omidiyeh",
+        "es:t": "Ir\u00e1n",
+        "de": "Omidiyeh",
+        "de:t": "Iran"
+    },
+    {
+        "en": "Oshnavieh",
+        "en:t": "Iran | West Azerbaijan",
+        "a": true,
+        "g": {
+            "lat": 37.0364,
+            "lon": 45.0971
+        },
+        "it": "Oshnavieh",
+        "it:t": "Iran | Azarbaijan occidentale",
+        "es": "Oshnavieh",
+        "es:t": "Ir\u00e1n | West Azerbaijan",
+        "de": "Oschnaviyeh",
+        "de:t": "Iran | West-Aserbaidschan"
+    },
+    {
+        "en": "Parsabad",
+        "en:t": "Iran | Parsa Abad",
+        "a": true,
+        "g": {
+            "lat": 39.6208,
+            "lon": 47.9051
+        },
+        "it": "Parsabad",
+        "it:t": "Iran | Parsabad",
+        "es": "Parsabad",
+        "es:t": "Ir\u00e1n | Parsa Abad",
+        "de": "Parsabad",
+        "de:t": "Iran | Parsa Abad"
+    },
+    {
+        "en": "Paveh",
+        "en:t": "Iran | Kermanshah",
+        "a": true,
+        "g": {
+            "lat": 35.043,
+            "lon": 46.3553
+        },
+        "it": "Paveh",
+        "it:t": "Iran | Kermanshah",
+        "es": "Paveh",
+        "es:t": "Ir\u00e1n | Kermanshah",
+        "de": "Paveh",
+        "de:t": "Iran | Kerm\u0101nsch\u0101h"
+    },
+    {
+        "en": "Piranshahr",
+        "en:t": "Iran | West Azerbaijan",
+        "a": true,
+        "g": {
+            "lat": 36.695,
+            "lon": 45.1446
+        },
+        "it": "Piranshahr",
+        "it:t": "Iran | Azarbaijan occidentale",
+        "es": "Piranshahr",
+        "es:t": "Ir\u00e1n | Azerbaiy\u00e1n Occidental",
+        "de": "Piranschahr",
+        "de:t": "Iran | West-Aserbaidschan"
+    },
+    {
+        "en": "Pishva",
+        "en:t": "Iran",
+        "a": true,
+        "g": {
+            "lat": 35.6516,
+            "lon": 51.3015
+        },
+        "it": "Pishva",
+        "it:t": "Iran",
+        "es": "Pishva",
+        "es:t": "Ir\u00e1n",
+        "de": "Pishva",
+        "de:t": "Iran"
+    },
+    {
+        "en": "Qarahziyaeddin",
+        "en:t": "Iran | West Azerbaijan",
+        "a": true,
+        "g": {
+            "lat": 38.8884,
+            "lon": 45.0304
+        },
+        "it": "Qaraziadin",
+        "it:t": "Iran | Azarbaijan occidentale",
+        "es": "Qarahziyaeddin",
+        "es:t": "Ir\u00e1n | West Azerbaijan",
+        "de": "Qarahziyaeddin",
+        "de:t": "Iran | West Azerbaijan"
+    },
+    {
+        "en": "Qarchak",
+        "en:t": "Iran | Tehran",
+        "a": true,
+        "g": {
+            "lat": 35.4367,
+            "lon": 51.5724
+        },
+        "it": "Qarchak",
+        "it:t": "Iran | Teheran",
+        "es": "Qarchak",
+        "es:t": "Ir\u00e1n | Tehran",
+        "de": "Ghartschak",
+        "de:t": "Iran | Teheran"
+    },
+    {
+        "en": "Qasr-e-qand",
+        "en:t": "Iran | Nikshahr",
+        "a": true,
+        "g": {
+            "lat": 26.2235,
+            "lon": 60.7505
+        },
+        "it": "Qasr-e Qand",
+        "it:t": "Iran | Nikshahr",
+        "es": "Qasr-e-qand",
+        "es:t": "Ir\u00e1n | Nikshahr",
+        "de": "Qasr-e-qand",
+        "de:t": "Iran | Nikshahr"
+    },
+    {
+        "en": "Qazvin",
+        "en:t": "Iran",
+        "a": true,
+        "g": {
+            "lat": 36.2737,
+            "lon": 49.9982
+        },
+        "it": "Qazvin",
+        "it:t": "Iran",
+        "es": "Qazv\u00edn",
+        "es:t": "Ir\u00e1n",
+        "de": "Qazvin",
+        "de:t": "Iran"
+    },
+    {
+        "en": "Qeshm",
+        "en:t": "Iran",
+        "a": true,
+        "g": {
+            "lat": 26.8119,
+            "lon": 55.8913
+        },
+        "it": "Qeshm",
+        "it:t": "Iran",
+        "es": "Qeshm",
+        "es:t": "Ir\u00e1n",
+        "de": "Qeschm",
+        "de:t": "Iran"
+    },
+    {
+        "en": "Qom",
+        "en:t": "Iran",
+        "a": true,
+        "g": {
+            "lat": 34.6416,
+            "lon": 50.8746
+        },
+        "it": "Qom",
+        "it:t": "Iran",
+        "es": "Qom",
+        "es:t": "Ir\u00e1n",
+        "de": "Ghom",
+        "de:t": "Iran"
+    },
+    {
+        "en": "Qorveh",
+        "en:t": "Iran | Kurdistan",
+        "a": true,
+        "g": {
+            "lat": 35.1679,
+            "lon": 47.8038
+        },
+        "it": "Qorveh",
+        "it:t": "Iran | Kurdistan",
+        "es": "Qorveh",
+        "es:t": "Ir\u00e1n | Kurdistan",
+        "de": "Qorveh",
+        "de:t": "Iran | Kurdistan"
+    },
+    {
+        "en": "Qoshachay",
+        "en:t": "Iran",
+        "a": true,
+        "g": {
+            "lat": 36.9595,
+            "lon": 46.1054
+        },
+        "it": "Miandoab",
+        "it:t": "Iran",
+        "es": "Qoshachay",
+        "es:t": "Ir\u00e1n",
+        "de": "Miandoab",
+        "de:t": "Iran"
+    },
+    {
+        "en": "Quchan",
+        "en:t": "Iran",
+        "a": true,
+        "g": {
+            "lat": 37.1293,
+            "lon": 58.4744
+        },
+        "it": "Quchan",
+        "it:t": "Iran",
+        "es": "Quchan",
+        "es:t": "Ir\u00e1n",
+        "de": "Qutschan",
+        "de:t": "Iran"
+    },
+    {
+        "en": "Rafsanjan",
+        "en:t": "Iran",
+        "a": true,
+        "g": {
+            "lat": 30.3549,
+            "lon": 56.0027
+        },
+        "it": "Rafsanjan",
+        "it:t": "Iran",
+        "es": "Rafsanjan",
+        "es:t": "Ir\u00e1n",
+        "de": "Rafsandschan",
+        "de:t": "Iran"
+    },
+    {
+        "en": "Ramhormoz",
+        "en:t": "Iran",
+        "a": true,
+        "g": {
+            "lat": 31.2777,
+            "lon": 49.5993
+        },
+        "it": "Ramhormoz",
+        "it:t": "Iran",
+        "es": "Ramhormoz",
+        "es:t": "Ir\u00e1n",
+        "de": "Ramhormoz",
+        "de:t": "Iran"
+    },
+    {
+        "en": "Ramshir",
+        "en:t": "Iran | Ramhormoz",
+        "a": true,
+        "g": {
+            "lat": 30.8957,
+            "lon": 49.4095
+        },
+        "it": "Ramshir",
+        "it:t": "Iran | Ramhormoz",
+        "es": "Ramshir",
+        "es:t": "Ir\u00e1n | Ramhormoz",
+        "de": "Ramschir",
+        "de:t": "Iran | Ramhormoz"
+    },
+    {
+        "en": "Rasht",
+        "en:t": "Iran | Gilan",
+        "a": true,
+        "g": {
+            "lat": 37.2682,
+            "lon": 49.5891
+        },
+        "it": "Rasht",
+        "it:t": "Iran | Gilan",
+        "es": "Rasht",
+        "es:t": "Ir\u00e1n | Guil\u00e1n",
+        "de": "Rascht",
+        "de:t": "Iran | Gilan"
+    },
+    {
+        "en": "Ravar",
+        "en:t": "Iran",
+        "a": true,
+        "g": {
+            "lat": 31.2682,
+            "lon": 56.7974
+        },
+        "it": "Ravar",
+        "it:t": "Iran",
+        "es": "Ravar",
+        "es:t": "Ir\u00e1n",
+        "de": "Ravar",
+        "de:t": "Iran"
+    },
+    {
+        "en": "Rehnan",
+        "en:t": "Iran | Isfahan",
+        "a": true,
+        "g": {
+            "lat": 32.6939,
+            "lon": 51.6044
+        },
+        "it": "Rehnan",
+        "it:t": "Iran | Isfahan",
+        "es": "Rehnan",
+        "es:t": "Ir\u00e1n | Isfahan",
+        "de": "Rehnan",
+        "de:t": "Iran | Isfahan"
+    },
+    {
+        "en": "Robat Karim",
+        "en:t": "Iran | Tehran",
+        "a": true,
+        "g": {
+            "lat": 35.4714,
+            "lon": 51.0854
+        },
+        "it": "Robat Karim",
+        "it:t": "Iran | Teheran",
+        "es": "Robat Karim",
+        "es:t": "Ir\u00e1n | Tehran",
+        "de": "Robat Karim",
+        "de:t": "Iran | Tehran"
+    },
+    {
+        "en": "Rudsar",
+        "en:t": "Iran | Gilan",
+        "a": true,
+        "g": {
+            "lat": 37.1378,
+            "lon": 50.2836
+        },
+        "it": "Rudsar",
+        "it:t": "Iran | Gilan",
+        "es": "Rudsar",
+        "es:t": "Ir\u00e1n | Gilan",
+        "de": "Rudsar",
+        "de:t": "Iran | Gilan"
+    },
+    {
+        "en": "Sabzevar",
+        "en:t": "Iran | Razavi Khorasan",
+        "a": true,
+        "g": {
+            "lat": 36.2152,
+            "lon": 57.6678
+        },
+        "it": "Sabzevar",
+        "it:t": "Iran | Razavi Khorasan",
+        "es": "Sabzevar",
+        "es:t": "Ir\u00e1n | Joras\u00e1n Razav\u00ed",
+        "de": "Sabzevar",
+        "de:t": "Iran | Razavi-Chorasan"
+    },
+    {
+        "en": "Salmas",
+        "en:t": "Iran | West Azerbaijan",
+        "a": true,
+        "g": {
+            "lat": 38.2021,
+            "lon": 44.7706
+        },
+        "it": "Salmas",
+        "it:t": "Iran | Azarbaijan occidentale",
+        "es": "Salmas",
+        "es:t": "Ir\u00e1n | West Azerbaijan",
+        "de": "Salamas",
+        "de:t": "Iran | West-Aserbaidschan"
+    },
+    {
+        "en": "Sanandaj",
+        "en:t": "Iran | Kurdistan",
+        "a": true,
+        "g": {
+            "lat": 35.3219,
+            "lon": 46.9862
+        },
+        "it": "Sanandaj",
+        "it:t": "Iran | Kurdistan",
+        "es": "Sanandaj",
+        "es:t": "Ir\u00e1n | Kurdist\u00e1n",
+        "de": "Sanandadsch",
+        "de:t": "Iran | Kurdestan"
+    },
+    {
+        "en": "Saqqez",
+        "en:t": "Iran | Kurdistan",
+        "a": true,
+        "g": {
+            "lat": 36.2389,
+            "lon": 46.278
+        },
+        "it": "Saqqez",
+        "it:t": "Iran | Kurdistan",
+        "es": "Saqqez",
+        "es:t": "Ir\u00e1n | Kurdistan",
+        "de": "Saqqez",
+        "de:t": "Iran | Kurdestan"
+    },
+    {
+        "en": "Sarakhs",
+        "en:t": "Iran | Razavi Khorasan",
+        "a": true,
+        "g": {
+            "lat": 36.5449,
+            "lon": 61.152
+        },
+        "it": "Sarakhs",
+        "it:t": "Iran | Razavi Khorasan",
+        "es": "Sarakhs",
+        "es:t": "Ir\u00e1n | Razavi Khorasan",
+        "de": "Sarachs",
+        "de:t": "Iran | Razavi-Chorasan"
+    },
+    {
+        "en": "Sari",
+        "en:t": "Iran | Sari",
+        "a": true,
+        "g": {
+            "lat": 36.5659,
+            "lon": 53.0586
+        },
+        "it": "Sari",
+        "it:t": "Iran | Shahrest\u0101n di Sari",
+        "es": "Sar\u00ed",
+        "es:t": "Ir\u00e1n | Sari",
+        "de": "Sari",
+        "de:t": "Iran | Sharestan Sari"
+    },
+    {
+        "en": "Sarpol Zahab",
+        "en:t": "Iran | Kermanshah",
+        "a": true,
+        "g": {
+            "lat": 34.4514,
+            "lon": 45.8612
+        },
+        "it": "Sarpol-e Zahab",
+        "it:t": "Iran | Kermanshah",
+        "es": "Sarpol Zahab",
+        "es:t": "Ir\u00e1n | Kermanshah",
+        "de": "Sarpol-e Sahab",
+        "de:t": "Iran | Kerm\u0101nsch\u0101h"
+    },
+    {
+        "en": "Saveh",
+        "en:t": "Iran | Markazi",
+        "a": true,
+        "g": {
+            "lat": 35.0236,
+            "lon": 50.3585
+        },
+        "it": "Saveh",
+        "it:t": "Iran | Markazi",
+        "es": "Saveh",
+        "es:t": "Ir\u00e1n | Markazi",
+        "de": "Saveh",
+        "de:t": "Iran | Markazi"
+    },
+    {
+        "en": "Semirom",
+        "en:t": "Iran",
+        "a": true,
+        "g": {
+            "lat": 31.4151,
+            "lon": 51.5683
+        },
+        "it": "Semirom",
+        "it:t": "Iran",
+        "es": "Semirom",
+        "es:t": "Ir\u00e1n",
+        "de": "Semirom",
+        "de:t": "Iran"
+    },
+    {
+        "en": "Semnan",
+        "en:t": "Iran",
+        "a": true,
+        "g": {
+            "lat": 35.5788,
+            "lon": 53.3798
+        },
+        "it": "Semnan",
+        "it:t": "Iran",
+        "es": "Semn\u00e1n",
+        "es:t": "Ir\u00e1n",
+        "de": "Semnan",
+        "de:t": "Iran"
+    },
+    {
+        "en": "Shadegan",
+        "en:t": "Iran | Shadeghan",
+        "a": true,
+        "g": {
+            "lat": 30.6546,
+            "lon": 48.6539
+        },
+        "it": "Shadegan",
+        "it:t": "Iran | Shadeghan",
+        "es": "Shadegan",
+        "es:t": "Ir\u00e1n | Shadeghan",
+        "de": "Schadegan",
+        "de:t": "Iran | Shadeghan"
+    },
+    {
+        "en": "Shahin Dej",
+        "en:t": "Iran | West Azerbaijan",
+        "a": true,
+        "g": {
+            "lat": 36.6741,
+            "lon": 46.5701
+        },
+        "it": "Shahindej",
+        "it:t": "Iran | Azarbaijan occidentale",
+        "es": "Shahin Dej",
+        "es:t": "Ir\u00e1n | West Azerbaijan",
+        "de": "Shahin Dej",
+        "de:t": "Iran | West Azerbaijan"
+    },
+    {
+        "en": "Shahrbabak",
+        "en:t": "Iran | Shahrebabak",
+        "a": true,
+        "g": {
+            "lat": 30.1172,
+            "lon": 55.121
+        },
+        "it": "Shahr-e-Babak",
+        "it:t": "Iran | Shahrebabak",
+        "es": "Shahrbabak",
+        "es:t": "Ir\u00e1n | Shahrebabak",
+        "de": "Shahrbabak",
+        "de:t": "Iran | Shahrebabak"
+    },
+    {
+        "en": "Shahrekord",
+        "en:t": "Iran | Chaharmahal and Bakhtiari",
+        "a": true,
+        "g": {
+            "lat": 32.3282,
+            "lon": 50.8769
+        },
+        "it": "Shahrekord",
+        "it:t": "Iran | Chahar Mahal e Bakhtiari",
+        "es": "Shahr-e Kord",
+        "es:t": "Ir\u00e1n | Chahar Mahal y Bajtiar\u00ed",
+        "de": "Schahr-e Kord",
+        "de:t": "Iran | Tschah\u0101r Mah\u0101l und Bachtiy\u0101r\u012b"
+    },
+    {
+        "en": "Shahreza",
+        "en:t": "Iran | Isfahan",
+        "a": true,
+        "g": {
+            "lat": 32.0081,
+            "lon": 51.8628
+        },
+        "it": "Shahreza",
+        "it:t": "Iran | Esfahan",
+        "es": "Shahreza",
+        "es:t": "Ir\u00e1n | Isfahan",
+        "de": "Shahreza",
+        "de:t": "Iran | Isfahan"
+    },
+    {
+        "en": "Shahriar",
+        "en:t": "Iran | Shahriar",
+        "a": true,
+        "g": {
+            "lat": 35.6707,
+            "lon": 51.0228
+        },
+        "it": "Shahriyar",
+        "it:t": "Iran | Shahriyar",
+        "es": "Shahriar",
+        "es:t": "Ir\u00e1n | Shahriar",
+        "de": "Schahrijar",
+        "de:t": "Iran | Shahriar"
+    },
+    {
+        "en": "Shahroud",
+        "en:t": "Iran",
+        "a": true,
+        "g": {
+            "lat": 36.4062,
+            "lon": 55.0163
+        },
+        "it": "Shahrud",
+        "it:t": "Iran",
+        "es": "Shahrud",
+        "es:t": "Ir\u00e1n",
+        "de": "Schahrud",
+        "de:t": "Iran"
+    },
+    {
+        "en": "Shiraz",
+        "en:t": "Iran | Fars",
+        "a": true,
+        "g": {
+            "lat": 29.5926,
+            "lon": 52.5836
+        },
+        "it": "Shiraz",
+        "it:t": "Iran | Fars",
+        "es": "Shiraz",
+        "es:t": "Ir\u00e1n | Fars",
+        "de": "Schiras",
+        "de:t": "Iran | Fars"
+    },
+    {
+        "en": "Shirvan",
+        "en:t": "Iran",
+        "a": true,
+        "g": {
+            "lat": 37.4921,
+            "lon": 57.9163
+        },
+        "it": "Shirvan",
+        "it:t": "Iran",
+        "es": "Shirvan",
+        "es:t": "Ir\u00e1n",
+        "de": "Shirvan",
+        "de:t": "Iran"
+    },
+    {
+        "en": "Shooshtar",
+        "en:t": "Iran | Khuzestan",
+        "a": true,
+        "g": {
+            "lat": 32.0521,
+            "lon": 48.8498
+        },
+        "it": "Shushtar",
+        "it:t": "Iran | Kh\u016bzest\u0101n",
+        "es": "Shushtar",
+        "es:t": "Ir\u00e1n | Juzest\u00e1n",
+        "de": "Schuschtar",
+        "de:t": "Iran | Chuzestan"
+    },
+    {
+        "en": "Shush",
+        "en:t": "Iran | Khuzestan",
+        "a": true,
+        "g": {
+            "lat": 32.1958,
+            "lon": 48.2543
+        },
+        "it": "Shush",
+        "it:t": "Iran | Kh\u016bzest\u0101n",
+        "es": "Shush",
+        "es:t": "Ir\u00e1n | Khuzestan",
+        "de": "Schush",
+        "de:t": "Iran | Chuzestan"
+    },
+    {
+        "en": "Sirjan",
+        "en:t": "Iran",
+        "a": true,
+        "g": {
+            "lat": 29.4587,
+            "lon": 55.6714
+        },
+        "it": "Sirjan",
+        "it:t": "Iran",
+        "es": "Sirjan",
+        "es:t": "Ir\u00e1n",
+        "de": "Sirdschan",
+        "de:t": "Iran"
+    },
+    {
+        "en": "Sonqor",
+        "en:t": "Iran | Kermanshah",
+        "a": true,
+        "g": {
+            "lat": 34.7779,
+            "lon": 47.5963
+        },
+        "it": "Sonqor",
+        "it:t": "Iran | Kermanshah",
+        "es": "Sonqor",
+        "es:t": "Ir\u00e1n | Kermanshah",
+        "de": "Sonqor",
+        "de:t": "Iran | Kermanshah"
+    },
+    {
+        "en": "Susangerd",
+        "en:t": "Iran | Dashte Azadeghan",
+        "a": true,
+        "g": {
+            "lat": 31.5567,
+            "lon": 48.1697
+        },
+        "it": "Susangerd",
+        "it:t": "Iran | Shahrest\u0101n di Dasht-e-Azadegan",
+        "es": "Susangerd",
+        "es:t": "Ir\u00e1n | Dashte Azadeghan",
+        "de": "Susangerd",
+        "de:t": "Iran | Dashte Azadeghan"
+    },
+    {
+        "en": "Tabas",
+        "en:t": "Iran",
+        "a": true,
+        "g": {
+            "lat": 33.6033,
+            "lon": 56.9324
+        },
+        "it": "Tabas",
+        "it:t": "Iran",
+        "es": "Tabas",
+        "es:t": "Ir\u00e1n",
+        "de": "Tabas",
+        "de:t": "Iran"
+    },
+    {
+        "en": "Tabriz",
+        "en:t": "Iran",
+        "a": true,
+        "g": {
+            "lat": 38.0962,
+            "lon": 46.2738
+        },
+        "it": "Tabriz",
+        "it:t": "Iran",
+        "es": "Tabriz",
+        "es:t": "Ir\u00e1n",
+        "de": "T\u00e4bris",
+        "de:t": "Iran"
+    },
+    {
+        "en": "Taft",
+        "en:t": "Iran | Yazd",
+        "a": true,
+        "g": {
+            "lat": 31.759,
+            "lon": 54.2047
+        },
+        "it": "Taft",
+        "it:t": "Iran | Yazd",
+        "es": "Taft",
+        "es:t": "Ir\u00e1n | Yazd",
+        "de": "Taft",
+        "de:t": "Iran | Yazd"
+    },
+    {
+        "en": "Takab",
+        "en:t": "Iran | West Azerbaijan",
+        "a": true,
+        "g": {
+            "lat": 36.4052,
+            "lon": 47.1156
+        },
+        "it": "Takab",
+        "it:t": "Iran | Azarbaijan occidentale",
+        "es": "Takab",
+        "es:t": "Ir\u00e1n | West Azerbaijan",
+        "de": "Takab",
+        "de:t": "Iran | West Azerbaijan"
+    },
+    {
+        "en": "Takestan",
+        "en:t": "Iran | Qazvin",
+        "a": true,
+        "g": {
+            "lat": 36.0721,
+            "lon": 49.7013
+        },
+        "it": "Takestan",
+        "it:t": "Iran | Qazvin",
+        "es": "Takestan",
+        "es:t": "Ir\u00e1n | Qazvin",
+        "de": "Takestan",
+        "de:t": "Iran | Qazvin"
+    },
+    {
+        "en": "Talesh",
+        "en:t": "Iran | Gilan",
+        "a": true,
+        "g": {
+            "lat": 37.8016,
+            "lon": 48.9073
+        },
+        "it": "Hashtpar",
+        "it:t": "Iran | Gilan",
+        "es": "Talesh",
+        "es:t": "Ir\u00e1n | Gilan",
+        "de": "Talesch",
+        "de:t": "Iran | Gilan"
+    },
+    {
+        "en": "Taybad",
+        "en:t": "Iran | Razavi Khorasan",
+        "a": true,
+        "g": {
+            "lat": 34.7444,
+            "lon": 60.7795
+        },
+        "it": "Taybad",
+        "it:t": "Iran | Razavi Khorasan",
+        "es": "Taybad",
+        "es:t": "Ir\u00e1n | Razavi Khorasan",
+        "de": "Taybad",
+        "de:t": "Iran | Razavi-Chorasan"
+    },
+    {
+        "en": "Tehran",
+        "en:t": "Iran",
+        "a": true,
+        "g": {
+            "lat": 35.6892,
+            "lon": 51.389
+        },
+        "it": "Teheran",
+        "it:t": "Iran",
+        "es": "Teher\u00e1n",
+        "es:t": "Ir\u00e1n",
+        "de": "Teheran",
+        "de:t": "Iran"
+    },
+    {
+        "en": "Tonekabon",
+        "en:t": "Iran | Mazandaran",
+        "a": true,
+        "g": {
+            "lat": 36.8155,
+            "lon": 50.8716
+        },
+        "it": "Tonekabon",
+        "it:t": "Iran | Mazandaran",
+        "es": "Tonekabon",
+        "es:t": "Ir\u00e1n | Mazandaran",
+        "de": "Tonekabon",
+        "de:t": "Iran | M\u0101zandar\u0101n"
+    },
+    {
+        "en": "Torbat Heydariyeh",
+        "en:t": "Iran | Razavi Khorasan",
+        "a": true,
+        "g": {
+            "lat": 35.2798,
+            "lon": 59.2161
+        },
+        "it": "Torbat-e Heydariyyeh",
+        "it:t": "Iran | Razavi Khorasan",
+        "es": "Torbat-e Heidarije",
+        "es:t": "Ir\u00e1n | Joras\u00e1n Razav\u00ed",
+        "de": "Torbat-e Heidarije",
+        "de:t": "Iran | Razavi-Chorasan"
+    },
+    {
+        "en": "Torbat-e-Jam",
+        "en:t": "Iran | Razavi Khorasan",
+        "a": true,
+        "g": {
+            "lat": 35.2317,
+            "lon": 60.6401
+        },
+        "it": "Torbat-e-Jam",
+        "it:t": "Iran | Razavi Khorasan",
+        "es": "Torbat-e-Jam",
+        "es:t": "Ir\u00e1n | Razavi Khorasan",
+        "de": "Torbat-e-Jam",
+        "de:t": "Iran | Razavi Khorasan"
+    },
+    {
+        "en": "Urmia",
+        "en:t": "Iran",
+        "a": true,
+        "g": {
+            "lat": 37.5498,
+            "lon": 45.0786
+        },
+        "it": "Urmia",
+        "it:t": "Iran",
+        "es": "Urm\u00eda",
+        "es:t": "Ir\u00e1n",
+        "de": "Urmai",
+        "de:t": "Iran"
+    },
+    {
+        "en": "Varamin",
+        "en:t": "Iran | Tehran",
+        "a": true,
+        "g": {
+            "lat": 35.3252,
+            "lon": 51.6472
+        },
+        "it": "Var\u0101m\u012bn",
+        "it:t": "Iran | Teheran",
+        "es": "Varamin",
+        "es:t": "Ir\u00e1n | Tehran",
+        "de": "Var\u0101m\u012bn",
+        "de:t": "Iran | Teheran"
+    },
+    {
+        "en": "Yasuj",
+        "en:t": "Iran | Kohgiluyeh and Boyer-Ahmad",
+        "a": true,
+        "g": {
+            "lat": 30.6684,
+            "lon": 51.5875
+        },
+        "it": "Yasuj",
+        "it:t": "Iran | Kohgiluyeh e Buyer Ahmad",
+        "es": "Yasuj",
+        "es:t": "Ir\u00e1n | Kohkiluyeh y Buyer Ahmad",
+        "de": "Yasudsch",
+        "de:t": "Iran | Kohgiluye und Boyer Ahmad"
+    },
+    {
+        "en": "Yazd",
+        "en:t": "Iran",
+        "a": true,
+        "g": {
+            "lat": 31.8974,
+            "lon": 54.3569
+        },
+        "it": "Yazd",
+        "it:t": "Iran",
+        "es": "Yazd",
+        "es:t": "Ir\u00e1n",
+        "de": "Yazd",
+        "de:t": "Iran"
+    },
+    {
+        "en": "Zabol",
+        "en:t": "Iran",
+        "a": true,
+        "g": {
+            "lat": 31.0324,
+            "lon": 61.4902
+        },
+        "it": "Zabol",
+        "it:t": "Iran",
+        "es": "Zabol",
+        "es:t": "Ir\u00e1n",
+        "de": "Zabol",
+        "de:t": "Iran"
+    },
+    {
+        "en": "Zahedan",
+        "en:t": "Iran",
+        "a": true,
+        "g": {
+            "lat": 29.4519,
+            "lon": 60.8842
+        },
+        "it": "Zahedan",
+        "it:t": "Iran",
+        "es": "Zahed\u00e1n",
+        "es:t": "Ir\u00e1n",
+        "de": "Zahedan",
+        "de:t": "Iran"
+    },
+    {
+        "en": "Zanjan",
+        "en:t": "Iran",
+        "a": true,
+        "g": {
+            "lat": 36.683,
+            "lon": 48.5087
+        },
+        "it": "Zanjan",
+        "it:t": "Iran",
+        "es": "Zany\u00e1n",
+        "es:t": "Ir\u00e1n",
+        "de": "Zandschan",
+        "de:t": "Iran"
+    },
+    {
+        "en": "Zarand",
+        "en:t": "Iran",
+        "a": true,
+        "g": {
+            "lat": 30.8166,
+            "lon": 56.5729
+        },
+        "it": "Zarand",
+        "it:t": "Iran",
+        "es": "Zarand",
+        "es:t": "Ir\u00e1n",
+        "de": "Zarand",
+        "de:t": "Iran"
+    }
+]

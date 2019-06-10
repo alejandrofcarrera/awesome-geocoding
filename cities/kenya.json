@@ -1,0 +1,782 @@
+[
+    {
+        "en": "Athi River",
+        "en:t": "Kenya | Machakos",
+        "a": true,
+        "g": {
+            "lat": -1.4577,
+            "lon": 36.9785
+        },
+        "it": "Athi River",
+        "it:t": "Kenya | Machakos",
+        "es": "Athi River",
+        "es:t": "Kenia | Machakos",
+        "de": "Athi River",
+        "de:t": "Kenia | Machakos"
+    },
+    {
+        "en": "Biashara",
+        "en:t": "Kenya | Nakuru",
+        "a": true,
+        "g": {
+            "lat": -0.283,
+            "lon": 36.075
+        },
+        "it": "Molo",
+        "it:t": "Kenya | Nakuru",
+        "es": "Molo",
+        "es:t": "Kenia | Nakuru",
+        "de": "Molo",
+        "de:t": "Kenia | Nakuru"
+    },
+    {
+        "en": "Bungoma",
+        "en:t": "Kenya",
+        "a": true,
+        "g": {
+            "lat": 0.5695,
+            "lon": 34.5584
+        },
+        "it": "Bungoma",
+        "it:t": "Kenya",
+        "es": "Bungoma",
+        "es:t": "Kenia",
+        "de": "Bungoma",
+        "de:t": "Kenia"
+    },
+    {
+        "en": "Busia",
+        "en:t": "Kenya | Busia",
+        "a": true,
+        "g": {
+            "lat": 0.4608,
+            "lon": 34.1115
+        },
+        "it": "Busia",
+        "it:t": "Kenya | Busia",
+        "es": "Busia",
+        "es:t": "Kenia | Busia",
+        "de": "Busia",
+        "de:t": "Kenia | Busia"
+    },
+    {
+        "en": "Eldoret",
+        "en:t": "Kenya | Uasin Gishu",
+        "a": true,
+        "g": {
+            "lat": 0.5143,
+            "lon": 35.2698
+        },
+        "it": "Eldoret",
+        "it:t": "Kenya | Uasin Gishu",
+        "es": "Eldoret",
+        "es:t": "Kenia | Uasin Gishu",
+        "de": "Eldoret",
+        "de:t": "Kenia | Uasin Gishu"
+    },
+    {
+        "en": "Embu",
+        "en:t": "Kenya | Embu",
+        "a": true,
+        "g": {
+            "lat": -0.5388,
+            "lon": 37.4596
+        },
+        "it": "Embu",
+        "it:t": "Kenya | Embu",
+        "es": "Embu",
+        "es:t": "Kenia | Embu",
+        "de": "Embu",
+        "de:t": "Kenia | Embu"
+    },
+    {
+        "en": "Garissa",
+        "en:t": "Kenya | Garissa",
+        "a": true,
+        "g": {
+            "lat": -0.4532,
+            "lon": 39.6461
+        },
+        "it": "Garissa",
+        "it:t": "Kenya | Garissa",
+        "es": "Garissa",
+        "es:t": "Kenia | Garissa",
+        "de": "Garissa",
+        "de:t": "Kenia"
+    },
+    {
+        "en": "Homa Bay",
+        "en:t": "Kenya | Homa Bay",
+        "a": true,
+        "g": {
+            "lat": -0.535,
+            "lon": 34.4531
+        },
+        "it": "Homa Bay",
+        "it:t": "Kenya | Homa Bay",
+        "es": "Homa Bay",
+        "es:t": "Kenia | Homa Bay",
+        "de": "Homa Bay",
+        "de:t": "Kenia | Homa Bay"
+    },
+    {
+        "en": "Isiolo",
+        "en:t": "Kenya | Isiolo",
+        "a": true,
+        "g": {
+            "lat": 0.3556,
+            "lon": 37.5833
+        },
+        "it": "Isiolo",
+        "it:t": "Kenya | Isiolo",
+        "es": "Isiolo",
+        "es:t": "Kenia | Isiolo",
+        "de": "Isiolo",
+        "de:t": "Kenia | Isiolo"
+    },
+    {
+        "en": "Kabarnet",
+        "en:t": "Kenya | Baringo",
+        "a": true,
+        "g": {
+            "lat": 0.4901,
+            "lon": 35.7434
+        },
+        "it": "Kabarnet",
+        "it:t": "Kenya | Baringo",
+        "es": "Kabarnet",
+        "es:t": "Kenia | Baringo",
+        "de": "Kabarnet",
+        "de:t": "Kenia | Baringo"
+    },
+    {
+        "en": "Kakamega",
+        "en:t": "Kenya | Kakamega",
+        "a": true,
+        "g": {
+            "lat": 0.2827,
+            "lon": 34.7519
+        },
+        "it": "Kakamega",
+        "it:t": "Kenya | Kakamega",
+        "es": "Kakamega",
+        "es:t": "Kenia | Bosque de Kakamega",
+        "de": "Kakamega",
+        "de:t": "Kenia | Kakamega Forest National Reserve"
+    },
+    {
+        "en": "Kapenguria",
+        "en:t": "Kenya | West Pokot",
+        "a": true,
+        "g": {
+            "lat": 1.2482,
+            "lon": 35.1104
+        },
+        "it": "Kapenguria",
+        "it:t": "Kenya | West Pokot",
+        "es": "Kapenguria",
+        "es:t": "Kenia | West Pokot",
+        "de": "Kapenguria",
+        "de:t": "Kenia | West Pokot"
+    },
+    {
+        "en": "Karuri",
+        "en:t": "Kenya | Muranga",
+        "a": true,
+        "g": {
+            "lat": -0.7134,
+            "lon": 37.0374
+        },
+        "it": "Karuri",
+        "it:t": "Kenya | Muranga",
+        "es": "Karuri",
+        "es:t": "Kenia | Muranga",
+        "de": "Karuri",
+        "de:t": "Kenia | Muranga"
+    },
+    {
+        "en": "Kericho",
+        "en:t": "Kenya | Kericho",
+        "a": true,
+        "g": {
+            "lat": -0.3689,
+            "lon": 35.2863
+        },
+        "it": "Kericho",
+        "it:t": "Kenya | Kericho",
+        "es": "Kericho",
+        "es:t": "Kenia | Kericho",
+        "de": "Kericho",
+        "de:t": "Kenia | Kericho"
+    },
+    {
+        "en": "Kerugoya",
+        "en:t": "Kenya | Kirinyaga",
+        "a": true,
+        "g": {
+            "lat": -0.4993,
+            "lon": 37.2785
+        },
+        "it": "Kerugoya",
+        "it:t": "Kenya | Kirinyaga",
+        "es": "Kerugoya",
+        "es:t": "Kenia | Kirinyaga",
+        "de": "Kerugoya",
+        "de:t": "Kenia | Kirinyaga"
+    },
+    {
+        "en": "Kiambu",
+        "en:t": "Kenya | Kiambu",
+        "a": true,
+        "g": {
+            "lat": -1.1748,
+            "lon": 36.8304
+        },
+        "it": "Kiambu",
+        "it:t": "Kenya | Kiambu",
+        "es": "Kiambu",
+        "es:t": "Kenia | Kiambu",
+        "de": "Kiambu",
+        "de:t": "Kenia | Kiambu"
+    },
+    {
+        "en": "Kilifi",
+        "en:t": "Kenya",
+        "a": true,
+        "g": {
+            "lat": -3.5107,
+            "lon": 39.9093
+        },
+        "it": "Kilifi",
+        "it:t": "Kenya",
+        "es": "Kilifi",
+        "es:t": "Kenia",
+        "de": "Kilifi",
+        "de:t": "Kenia"
+    },
+    {
+        "en": "Kisii",
+        "en:t": "Kenya",
+        "a": true,
+        "g": {
+            "lat": -0.6773,
+            "lon": 34.7796
+        },
+        "it": "Kisii",
+        "it:t": "Kenya",
+        "es": "Kisii",
+        "es:t": "Kenia",
+        "de": "Kisii",
+        "de:t": "Kenia"
+    },
+    {
+        "en": "Kisumu",
+        "en:t": "Kenya | Kisumu",
+        "a": true,
+        "g": {
+            "lat": -0.0917,
+            "lon": 34.768
+        },
+        "it": "Kisumu",
+        "it:t": "Kenya | Kisumu",
+        "es": "Kisumu",
+        "es:t": "Kenia | Kisumu",
+        "de": "Kisumu",
+        "de:t": "Kenia | Kisumu"
+    },
+    {
+        "en": "Kitale",
+        "en:t": "Kenya | Trans-Nzoia",
+        "a": true,
+        "g": {
+            "lat": 1.0191,
+            "lon": 35.0023
+        },
+        "it": "Kitale",
+        "it:t": "Kenya | Trans-Nzoia",
+        "es": "Kitale",
+        "es:t": "Kenia | Trans-Nzoia",
+        "de": "Kitale",
+        "de:t": "Kenia | Trans-Nzoia"
+    },
+    {
+        "en": "Kitui",
+        "en:t": "Kenya | Kitui",
+        "a": true,
+        "g": {
+            "lat": -1.3751,
+            "lon": 37.9952
+        },
+        "it": "Kitui",
+        "it:t": "Kenya | Kitui",
+        "es": "Kitui",
+        "es:t": "Kenia | Kitui",
+        "de": "Kitui",
+        "de:t": "Kenia | Kitui"
+    },
+    {
+        "en": "Lake Nakuru",
+        "en:t": "Kenya | Nakuru",
+        "a": true,
+        "g": {
+            "lat": -0.3562,
+            "lon": 36.1002
+        },
+        "it": "Lago Nakuru",
+        "it:t": "Kenya | Nakuru",
+        "es": "Lago Nakuru",
+        "es:t": "Kenia | Nakuru",
+        "de": "Nakurusee",
+        "de:t": "Kenia | Nakuru"
+    },
+    {
+        "en": "Lamu",
+        "en:t": "Kenya",
+        "a": true,
+        "g": {
+            "lat": -2.2696,
+            "lon": 40.9006
+        },
+        "it": "Lamu",
+        "it:t": "Kenya",
+        "es": "Lamu",
+        "es:t": "Kenia",
+        "de": "Lamu",
+        "de:t": "Kenia"
+    },
+    {
+        "en": "Lodwar",
+        "en:t": "Kenya | Turkana",
+        "a": true,
+        "g": {
+            "lat": 3.1155,
+            "lon": 35.6041
+        },
+        "it": "Lodwar",
+        "it:t": "Kenya | Turkana",
+        "es": "Lodwar",
+        "es:t": "Kenia | Turkana",
+        "de": "Lodwar",
+        "de:t": "Kenia | Turkana"
+    },
+    {
+        "en": "Lugulu",
+        "en:t": "Kenya | Busia",
+        "a": true,
+        "g": {
+            "lat": 0.3936,
+            "lon": 34.3053
+        },
+        "it": "Lugulu",
+        "it:t": "Kenya | Busia",
+        "es": "Lugulu",
+        "es:t": "Kenia | Busia",
+        "de": "Lugulu",
+        "de:t": "Kenia | Busia"
+    },
+    {
+        "en": "Machakos",
+        "en:t": "Kenya",
+        "a": true,
+        "g": {
+            "lat": -1.5177,
+            "lon": 37.2634
+        },
+        "it": "Machakos",
+        "it:t": "Kenya",
+        "es": "Machakos",
+        "es:t": "Kenia",
+        "de": "Machakos",
+        "de:t": "Kenia"
+    },
+    {
+        "en": "Makueni",
+        "en:t": "Kenya",
+        "a": true,
+        "g": {
+            "lat": -2.2559,
+            "lon": 37.8937
+        },
+        "it": "Makueni",
+        "it:t": "Kenya",
+        "es": "Makueni",
+        "es:t": "Kenia",
+        "de": "Makueni",
+        "de:t": "Kenia"
+    },
+    {
+        "en": "Malindi",
+        "en:t": "Kenya | Kilifi",
+        "a": true,
+        "g": {
+            "lat": -3.2192,
+            "lon": 40.1169
+        },
+        "it": "Malindi",
+        "it:t": "Kenya | Kilifi",
+        "es": "Malindi",
+        "es:t": "Kenia | Kilifi",
+        "de": "Malindi",
+        "de:t": "Kenia | Kilifi"
+    },
+    {
+        "en": "Mandera",
+        "en:t": "Kenya | Mandera",
+        "a": true,
+        "g": {
+            "lat": 3.9356,
+            "lon": 41.8551
+        },
+        "it": "Mandera",
+        "it:t": "Kenya | Mandera",
+        "es": "Mandera",
+        "es:t": "Kenia | Mandera",
+        "de": "Mandera",
+        "de:t": "Kenia | Mandera"
+    },
+    {
+        "en": "Maralal",
+        "en:t": "Kenya | Samburu",
+        "a": true,
+        "g": {
+            "lat": 1.0931,
+            "lon": 36.7018
+        },
+        "it": "Maralal",
+        "it:t": "Kenya | Samburu",
+        "es": "Maralal",
+        "es:t": "Kenia | Samburu",
+        "de": "Maralal",
+        "de:t": "Kenia | Samburu"
+    },
+    {
+        "en": "Marsabit",
+        "en:t": "Kenya | Marsabit",
+        "a": true,
+        "g": {
+            "lat": 2.3355,
+            "lon": 37.9943
+        },
+        "it": "Marsabit",
+        "it:t": "Kenya | Marsabit",
+        "es": "Marsabit",
+        "es:t": "Kenia | Marsabit",
+        "de": "Marsabit",
+        "de:t": "Kenia | Marsabit"
+    },
+    {
+        "en": "Mbale",
+        "en:t": "Kenya | Vihiga",
+        "a": true,
+        "g": {
+            "lat": 0.0902,
+            "lon": 34.7271
+        },
+        "it": "Mbale",
+        "it:t": "Kenya | Vihiga",
+        "es": "Mbale",
+        "es:t": "Kenia | Vihiga",
+        "de": "Mbale",
+        "de:t": "Kenia | Vihiga"
+    },
+    {
+        "en": "Meru",
+        "en:t": "Kenya | Meru",
+        "a": true,
+        "g": {
+            "lat": 0.0515,
+            "lon": 37.6456
+        },
+        "it": "Meru",
+        "it:t": "Kenya | Meru",
+        "es": "Meru",
+        "es:t": "Kenia | Meru",
+        "de": "Meru",
+        "de:t": "Kenia | Meru"
+    },
+    {
+        "en": "Migori",
+        "en:t": "Kenya | Migori",
+        "a": true,
+        "g": {
+            "lat": -1.0707,
+            "lon": 34.4753
+        },
+        "it": "Migori",
+        "it:t": "Kenya | Migori",
+        "es": "Migori",
+        "es:t": "Kenia | Migori",
+        "de": "Migori",
+        "de:t": "Kenia | Migori"
+    },
+    {
+        "en": "Mombasa",
+        "en:t": "Kenya | Mombasa",
+        "a": true,
+        "g": {
+            "lat": -4.0435,
+            "lon": 39.6682
+        },
+        "it": "Mombasa",
+        "it:t": "Kenya | Mombasa",
+        "es": "Mombasa",
+        "es:t": "Kenia | Mombasa",
+        "de": "Mombasa",
+        "de:t": "Kenia | Mombasa"
+    },
+    {
+        "en": "Moyale",
+        "en:t": "Kenya | Marsabit",
+        "a": true,
+        "g": {
+            "lat": 3.5211,
+            "lon": 39.0546
+        },
+        "it": "Moyale",
+        "it:t": "Kenya | Marsabit",
+        "es": "Moyale",
+        "es:t": "Kenia | Marsabit",
+        "de": "Moyale",
+        "de:t": "Kenia | Marsabit"
+    },
+    {
+        "en": "Muhoroni",
+        "en:t": "Kenya | Kericho",
+        "a": true,
+        "g": {
+            "lat": -0.1566,
+            "lon": 35.1984
+        },
+        "it": "Muhoroni",
+        "it:t": "Kenya | Kericho",
+        "es": "Muhoroni",
+        "es:t": "Kenia | Kericho",
+        "de": "Muhoroni",
+        "de:t": "Kenia | Kericho"
+    },
+    {
+        "en": "Mumias",
+        "en:t": "Kenya | Kakamega",
+        "a": true,
+        "g": {
+            "lat": 0.3332,
+            "lon": 34.4877
+        },
+        "it": "Mumias",
+        "it:t": "Kenya | Kakamega",
+        "es": "Mumias",
+        "es:t": "Kenia | Bosque de Kakamega",
+        "de": "Mumias",
+        "de:t": "Kenia | Kakamega Forest National Reserve"
+    },
+    {
+        "en": "Nairobi",
+        "en:t": "Kenya",
+        "a": true,
+        "g": {
+            "lat": -1.2921,
+            "lon": 36.8219
+        },
+        "it": "Nairobi",
+        "it:t": "Kenya",
+        "es": "Nairobi",
+        "es:t": "Kenia",
+        "de": "Nairobi",
+        "de:t": "Kenia"
+    },
+    {
+        "en": "Naivasha",
+        "en:t": "Kenya | Nakuru",
+        "a": true,
+        "g": {
+            "lat": -0.7172,
+            "lon": 36.431
+        },
+        "it": "Naivasha",
+        "it:t": "Kenya | Nakuru",
+        "es": "Naivasha",
+        "es:t": "Kenia | Nakuru",
+        "de": "Naivasha",
+        "de:t": "Kenia | Nakuru"
+    },
+    {
+        "en": "Nanyuki",
+        "en:t": "Kenya | Laikipia",
+        "a": true,
+        "g": {
+            "lat": 0.0074,
+            "lon": 37.0722
+        },
+        "it": "Nanyuki",
+        "it:t": "Kenya | Laikipia",
+        "es": "Nanyuki",
+        "es:t": "Kenia | Laikipia",
+        "de": "Nanyuki",
+        "de:t": "Kenia | Laikipia"
+    },
+    {
+        "en": "Narok",
+        "en:t": "Kenya | Narok",
+        "a": true,
+        "g": {
+            "lat": -1.0875,
+            "lon": 35.8771
+        },
+        "it": "Narok",
+        "it:t": "Kenya | Narok",
+        "es": "Narok",
+        "es:t": "Kenia | Narok",
+        "de": "Narok",
+        "de:t": "Kenia | Narok"
+    },
+    {
+        "en": "Nyahururu",
+        "en:t": "Kenya | Nyandarua",
+        "a": true,
+        "g": {
+            "lat": 0.0352,
+            "lon": 36.3643
+        },
+        "it": "Nyahururu",
+        "it:t": "Kenya | Nyandarua",
+        "es": "Nyahururu",
+        "es:t": "Kenia | Nyandarua",
+        "de": "Nyahururu",
+        "de:t": "Kenia | Nyandarua"
+    },
+    {
+        "en": "Nyeri",
+        "en:t": "Kenya | Nyeri",
+        "a": true,
+        "g": {
+            "lat": -0.4371,
+            "lon": 36.958
+        },
+        "it": "Nyeri",
+        "it:t": "Kenya | Nyeri",
+        "es": "Nyeri",
+        "es:t": "Kenia | Nyeri",
+        "de": "Nyeri",
+        "de:t": "Kenia | Nyeri"
+    },
+    {
+        "en": "Ol Kalou",
+        "en:t": "Kenya | Nyandarua",
+        "a": true,
+        "g": {
+            "lat": -0.2727,
+            "lon": 36.3775
+        },
+        "it": "Ol Kalou",
+        "it:t": "Kenya | Nyandarua",
+        "es": "Ol Kalou",
+        "es:t": "Kenia | Nyandarua",
+        "de": "Ol Kalou",
+        "de:t": "Kenia | Nyandarua"
+    },
+    {
+        "en": "Pumwani",
+        "en:t": "Kenya | Majengo",
+        "a": true,
+        "g": {
+            "lat": -1.2817,
+            "lon": 36.8459
+        },
+        "it": "Pumwani",
+        "it:t": "Kenya | Majengo",
+        "es": "Pumwani",
+        "es:t": "Kenia | Majengo",
+        "de": "Pumwani",
+        "de:t": "Kenia | Majengo"
+    },
+    {
+        "en": "Rongai",
+        "en:t": "Kenya | Nakuru",
+        "a": true,
+        "g": {
+            "lat": -0.1705,
+            "lon": 35.8553
+        },
+        "it": "Rongai",
+        "it:t": "Kenya | Nakuru",
+        "es": "Rongai",
+        "es:t": "Kenia | Nakuru",
+        "de": "Rongai",
+        "de:t": "Kenia | Nakuru"
+    },
+    {
+        "en": "Siaya",
+        "en:t": "Kenya",
+        "a": true,
+        "g": {
+            "lat": 0.0626,
+            "lon": 34.2878
+        },
+        "it": "Siaya",
+        "it:t": "Kenya",
+        "es": "Siaya",
+        "es:t": "Kenia",
+        "de": "Siaya",
+        "de:t": "Kenia"
+    },
+    {
+        "en": "Thika",
+        "en:t": "Kenya | Kiambu",
+        "a": true,
+        "g": {
+            "lat": -1.0388,
+            "lon": 37.0834
+        },
+        "it": "Thika",
+        "it:t": "Kenya | Kiambu",
+        "es": "Thika",
+        "es:t": "Kenia | Kiambu",
+        "de": "Thika",
+        "de:t": "Kenia | Kiambu"
+    },
+    {
+        "en": "Voi",
+        "en:t": "Kenya | Taita-Taveta",
+        "a": true,
+        "g": {
+            "lat": -3.3973,
+            "lon": 38.5559
+        },
+        "it": "Voi",
+        "it:t": "Kenya | Taita-Taveta",
+        "es": "Voi",
+        "es:t": "Kenia | Taita-Taveta",
+        "de": "Voi",
+        "de:t": "Kenia | Taita-Taveta"
+    },
+    {
+        "en": "Wajir",
+        "en:t": "Kenya | Wajir",
+        "a": true,
+        "g": {
+            "lat": 1.7488,
+            "lon": 40.0586
+        },
+        "it": "Wajir",
+        "it:t": "Kenya | Wajir",
+        "es": "Wajir",
+        "es:t": "Kenia | Wajir",
+        "de": "Wajir",
+        "de:t": "Kenia | Wajir"
+    },
+    {
+        "en": "Webuye",
+        "en:t": "Kenya | Bungoma",
+        "a": true,
+        "g": {
+            "lat": 0.5992,
+            "lon": 34.7796
+        },
+        "it": "Webuye",
+        "it:t": "Kenya | Bungoma",
+        "es": "Webuye",
+        "es:t": "Kenia | Bungoma",
+        "de": "Webuye",
+        "de:t": "Kenia | Bungoma"
+    }
+]

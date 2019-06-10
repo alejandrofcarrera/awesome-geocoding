@@ -1,0 +1,377 @@
+[
+    {
+        "en": "Cap-Haitien",
+        "en:t": "Haiti | Nord",
+        "a": true,
+        "g": {
+            "lat": 19.737,
+            "lon": -72.2068
+        },
+        "it": "Cap-Ha\u00eftien",
+        "it:t": "Haiti | Nord",
+        "es": "Cabo Haitiano",
+        "es:t": "Hait\u00ed | Norte",
+        "de": "Cap-Ha\u00eftien",
+        "de:t": "Haiti | Nord"
+    },
+    {
+        "en": "Carrefour",
+        "en:t": "Haiti | Ouest",
+        "a": true,
+        "g": {
+            "lat": 18.5296,
+            "lon": -72.4081
+        },
+        "it": "Carrefour",
+        "it:t": "Haiti | Ovest",
+        "es": "Carrefour",
+        "es:t": "Hait\u00ed | Oeste",
+        "de": "Carrefour",
+        "de:t": "Haiti | Ouest"
+    },
+    {
+        "en": "Croix-des-Bouquets",
+        "en:t": "Haiti | Ouest",
+        "a": true,
+        "g": {
+            "lat": 18.5812,
+            "lon": -72.2305
+        },
+        "it": "Croix-des-Bouquets",
+        "it:t": "Haiti | Ovest",
+        "es": "La Croix-des-Bouquets",
+        "es:t": "Hait\u00ed | Oeste",
+        "de": "Croix-des-Bouquets",
+        "de:t": "Haiti | Ouest"
+    },
+    {
+        "en": "Delmas",
+        "en:t": "Haiti | Port-au-Prince",
+        "a": true,
+        "g": {
+            "lat": 18.5434,
+            "lon": -72.3052
+        },
+        "it": "Delmas",
+        "it:t": "Haiti | Port-au-Prince",
+        "es": "Delmas",
+        "es:t": "Hait\u00ed | Puerto Pr\u00edncipe",
+        "de": "Delmas",
+        "de:t": "Haiti | Port-au-Prince"
+    },
+    {
+        "en": "Desarmes",
+        "en:t": "Haiti | Artibonite",
+        "a": true,
+        "g": {
+            "lat": 18.9877,
+            "lon": -72.3888
+        },
+        "it": "Desarmes",
+        "it:t": "Haiti | Artibonite",
+        "es": "Desarmes",
+        "es:t": "Hait\u00ed | Artibonite",
+        "de": "Desarmes",
+        "de:t": "Haiti | Artibonite"
+    },
+    {
+        "en": "Fond Parisien",
+        "en:t": "Haiti | Ouest",
+        "a": true,
+        "g": {
+            "lat": 18.5144,
+            "lon": -71.9846
+        },
+        "it": "Fond Parisien",
+        "it:t": "Haiti | Ouest",
+        "es": "Fond Parisien",
+        "es:t": "Hait\u00ed | Oeste",
+        "de": "Fonds-Parisien",
+        "de:t": "Haiti | Ouest"
+    },
+    {
+        "en": "Gonaives",
+        "en:t": "Haiti | Artibonite",
+        "a": true,
+        "g": {
+            "lat": 19.4511,
+            "lon": -72.6802
+        },
+        "it": "Les Gona\u00efves",
+        "it:t": "Haiti | Artibonite",
+        "es": "Gona\u00efves",
+        "es:t": "Hait\u00ed | Artibonito",
+        "de": "Gona\u00efves",
+        "de:t": "Haiti | Artibonite"
+    },
+    {
+        "en": "Grand Goave",
+        "en:t": "Haiti | Ouest",
+        "a": true,
+        "g": {
+            "lat": 18.4248,
+            "lon": -72.7703
+        },
+        "it": "Grand-G\u00f4ave",
+        "it:t": "Haiti | Ovest",
+        "es": "Grand-Go\u00e2ve",
+        "es:t": "Hait\u00ed | Oeste",
+        "de": "Grand Goave",
+        "de:t": "Haiti | Ouest"
+    },
+    {
+        "en": "Gressier",
+        "en:t": "Haiti | Ouest",
+        "a": true,
+        "g": {
+            "lat": 18.5383,
+            "lon": -72.5294
+        },
+        "it": "Gressier",
+        "it:t": "Haiti | Ovest",
+        "es": "Gressier",
+        "es:t": "Hait\u00ed | Ouest",
+        "de": "Gressier",
+        "de:t": "Haiti | Ouest"
+    },
+    {
+        "en": "Hinche",
+        "en:t": "Haiti | Centre",
+        "a": true,
+        "g": {
+            "lat": 19.1412,
+            "lon": -72.0142
+        },
+        "it": "Hinche",
+        "it:t": "Haiti | Centro",
+        "es": "Hincha",
+        "es:t": "Hait\u00ed | Centro",
+        "de": "Hinche",
+        "de:t": "Haiti | Zentral"
+    },
+    {
+        "en": "Jacmel",
+        "en:t": "Haiti | Sud-Est",
+        "a": true,
+        "g": {
+            "lat": 18.243,
+            "lon": -72.5264
+        },
+        "it": "Jacmel",
+        "it:t": "Haiti | Sudest",
+        "es": "Jacmel",
+        "es:t": "Hait\u00ed | Sureste",
+        "de": "Jacmel",
+        "de:t": "Haiti | Sud-Est"
+    },
+    {
+        "en": "Jeremie",
+        "en:t": "Haiti | Grand'Anse",
+        "a": true,
+        "g": {
+            "lat": 18.639,
+            "lon": -74.1181
+        },
+        "it": "J\u00e9r\u00e9mie",
+        "it:t": "Haiti | Grand'Anse",
+        "es": "J\u00e9r\u00e9mie",
+        "es:t": "Hait\u00ed | Grand'Anse",
+        "de": "J\u00e9r\u00e9mie",
+        "de:t": "Haiti | Grand'Anse"
+    },
+    {
+        "en": "Kenscoff",
+        "en:t": "Haiti | Ouest",
+        "a": true,
+        "g": {
+            "lat": 18.4521,
+            "lon": -72.2867
+        },
+        "it": "Kenscoff",
+        "it:t": "Haiti | Ovest",
+        "es": "Kenscoff",
+        "es:t": "Hait\u00ed | Oeste",
+        "de": "Kenscoff",
+        "de:t": "Haiti | Ouest"
+    },
+    {
+        "en": "Les Cayes",
+        "en:t": "Haiti | Sud",
+        "a": true,
+        "g": {
+            "lat": 18.2043,
+            "lon": -73.7537
+        },
+        "it": "Les Cayes",
+        "it:t": "Haiti | Sud",
+        "es": "Los Cayos",
+        "es:t": "Hait\u00ed | Sur",
+        "de": "Les Cayes",
+        "de:t": "Haiti | Sud"
+    },
+    {
+        "en": "Limbe",
+        "en:t": "Haiti | Nord",
+        "a": true,
+        "g": {
+            "lat": 19.7026,
+            "lon": -72.4051
+        },
+        "it": "Limb\u00e9",
+        "it:t": "Haiti | Nord",
+        "es": "Limb\u00e9",
+        "es:t": "Hait\u00ed | Norte",
+        "de": "Limbe",
+        "de:t": "Haiti | Nord"
+    },
+    {
+        "en": "L\u00e9og\u00e2ne Arrondissement",
+        "en:t": "Haiti | Ouest",
+        "a": true,
+        "g": {
+            "lat": 18.5128,
+            "lon": -72.624
+        },
+        "it": "L\u00e9og\u00e2ne",
+        "it:t": "Haiti | Ovest",
+        "es": "Leog\u00e1ne",
+        "es:t": "Hait\u00ed | Oeste",
+        "de": "L\u00e9og\u00e2ne",
+        "de:t": "Haiti | Ouest"
+    },
+    {
+        "en": "Miragoane",
+        "en:t": "Haiti | Nippes",
+        "a": true,
+        "g": {
+            "lat": 18.4395,
+            "lon": -73.0863
+        },
+        "it": "Mirago\u00e2ne",
+        "it:t": "Haiti | Nippes",
+        "es": "Mirago\u00e2ne",
+        "es:t": "Hait\u00ed | Nippes",
+        "de": "Mirago\u00e2ne",
+        "de:t": "Haiti | Nippes"
+    },
+    {
+        "en": "Petion-Ville",
+        "en:t": "Haiti | Ouest",
+        "a": true,
+        "g": {
+            "lat": 18.5138,
+            "lon": -72.2882
+        },
+        "it": "P\u00e9tionville",
+        "it:t": "Haiti | Ovest",
+        "es": "P\u00e9tionville",
+        "es:t": "Hait\u00ed | Oeste",
+        "de": "P\u00e9tionville",
+        "de:t": "Haiti | Ouest"
+    },
+    {
+        "en": "Petit Goave",
+        "en:t": "Haiti | Ouest",
+        "a": true,
+        "g": {
+            "lat": 18.4311,
+            "lon": -72.8545
+        },
+        "it": "Petit-G\u00f4ave",
+        "it:t": "Haiti | Ovest",
+        "es": "Petit-Go\u00e2ve",
+        "es:t": "Hait\u00ed | Oeste",
+        "de": "Petit Goave",
+        "de:t": "Haiti | Ouest"
+    },
+    {
+        "en": "Port-au-Prince",
+        "en:t": "Haiti | Ouest",
+        "a": true,
+        "g": {
+            "lat": 18.5944,
+            "lon": -72.3074
+        },
+        "it": "Port-au-Prince",
+        "it:t": "Haiti | Ovest",
+        "es": "Puerto Pr\u00edncipe",
+        "es:t": "Hait\u00ed | Oeste",
+        "de": "Port-au-Prince",
+        "de:t": "Haiti | Ouest"
+    },
+    {
+        "en": "Port-de-Paix",
+        "en:t": "Haiti | Nord-Ouest",
+        "a": true,
+        "g": {
+            "lat": 19.9349,
+            "lon": -72.8309
+        },
+        "it": "Port-de-Paix",
+        "it:t": "Haiti | Nordovest",
+        "es": "Port-de-Paix",
+        "es:t": "Hait\u00ed | Noroeste",
+        "de": "Port-de-Paix",
+        "de:t": "Haiti | Nord-Ouest"
+    },
+    {
+        "en": "Saint-Marc",
+        "en:t": "Haiti | Artibonite",
+        "a": true,
+        "g": {
+            "lat": 19.1049,
+            "lon": -72.6949
+        },
+        "it": "Saint-Marc",
+        "it:t": "Haiti | Artibonite",
+        "es": "San Marcos",
+        "es:t": "Hait\u00ed | Artibonito",
+        "de": "Saint-Marc",
+        "de:t": "Haiti | Artibonite"
+    },
+    {
+        "en": "Saint-Rapha\u00ebl Arrondissement",
+        "en:t": "Haiti | Nord",
+        "a": true,
+        "g": {
+            "lat": 19.4393,
+            "lon": -72.1994
+        },
+        "it": "Saint-Rapha\u00ebl",
+        "it:t": "Haiti | Nord",
+        "es": "San Rafael de La Angostura",
+        "es:t": "Hait\u00ed | Norte",
+        "de": "Saint-Rapha\u00ebl Arrondissement",
+        "de:t": "Haiti | Nord"
+    },
+    {
+        "en": "Thomazeau",
+        "en:t": "Haiti | Ouest",
+        "a": true,
+        "g": {
+            "lat": 18.6522,
+            "lon": -72.0927
+        },
+        "it": "Thomazeau",
+        "it:t": "Haiti | Ovest",
+        "es": "Thomazeau",
+        "es:t": "Hait\u00ed | Oeste",
+        "de": "Thomazeau",
+        "de:t": "Haiti | Ouest"
+    },
+    {
+        "en": "Verrettes",
+        "en:t": "Haiti | Artibonite",
+        "a": true,
+        "g": {
+            "lat": 19.0487,
+            "lon": -72.4702
+        },
+        "it": "Verrettes",
+        "it:t": "Haiti | Artibonite",
+        "es": "Verrettes",
+        "es:t": "Hait\u00ed | Artibonito",
+        "de": "Verrettes",
+        "de:t": "Haiti | Artibonite"
+    }
+]

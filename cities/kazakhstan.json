@@ -1,0 +1,1142 @@
+[
+    {
+        "en": "Abay",
+        "en:t": "Kazakhstan",
+        "a": true,
+        "g": {
+            "lat": 49.6324,
+            "lon": 72.8772
+        },
+        "it": "Abaj",
+        "it:t": "Kazakistan",
+        "es": "Abay",
+        "es:t": "Kazajist\u00e1n",
+        "de": "Abai",
+        "de:t": "Kasachstan"
+    },
+    {
+        "en": "Akkol",
+        "en:t": "Kazakhstan | Akkol",
+        "a": true,
+        "g": {
+            "lat": 51.9956,
+            "lon": 70.9359
+        },
+        "it": "Akkol",
+        "it:t": "Kazakistan | Akkol",
+        "es": "Akkol",
+        "es:t": "Kazajist\u00e1n | Akkol",
+        "de": "Aqk\u00f6l",
+        "de:t": "Kasachstan | Akkol"
+    },
+    {
+        "en": "Aksay",
+        "en:t": "Kazakhstan | Borili",
+        "a": true,
+        "g": {
+            "lat": 51.1749,
+            "lon": 53.0211
+        },
+        "it": "Aqsaj",
+        "it:t": "Kazakistan | B\u00f6r\u00edl\u00ed",
+        "es": "Aksay",
+        "es:t": "Kazajist\u00e1n | Borili",
+        "de": "Aqsai",
+        "de:t": "Kasachstan | Borili"
+    },
+    {
+        "en": "Aksu",
+        "en:t": "Kazakhstan | Pavlodar",
+        "a": true,
+        "g": {
+            "lat": 52.0405,
+            "lon": 76.9263
+        },
+        "it": "Aksu",
+        "it:t": "Kazakistan | Pavlodar",
+        "es": "Aksu",
+        "es:t": "Kazajist\u00e1n | Pavlodar",
+        "de": "Aqsu",
+        "de:t": "Kasachstan | Pavlodar"
+    },
+    {
+        "en": "Aksukent",
+        "en:t": "Kazakhstan | Sayram",
+        "a": true,
+        "g": {
+            "lat": 42.425,
+            "lon": 69.8389
+        },
+        "it": "Aksukent",
+        "it:t": "Kazakistan | Sayram",
+        "es": "Aksukent",
+        "es:t": "Kazajist\u00e1n | Sayram",
+        "de": "Aksukent",
+        "de:t": "Kasachstan | Sayram"
+    },
+    {
+        "en": "Aktau",
+        "en:t": "Kazakhstan | Munaily",
+        "a": true,
+        "g": {
+            "lat": 43.6411,
+            "lon": 51.1985
+        },
+        "it": "Aqtau",
+        "it:t": "Kazakistan | Munaily",
+        "es": "Aktau",
+        "es:t": "Kazajist\u00e1n | Munaily",
+        "de": "Aqtau",
+        "de:t": "Kasachstan | Munaily"
+    },
+    {
+        "en": "Aktobe",
+        "en:t": "Kazakhstan | Aktobe",
+        "a": true,
+        "g": {
+            "lat": 50.2839,
+            "lon": 57.167
+        },
+        "it": "Aqt\u00f6be",
+        "it:t": "Kazakistan | Aqt\u00f6be",
+        "es": "Aktobe",
+        "es:t": "Kazajist\u00e1n | Aktobe",
+        "de": "Aqt\u00f6be",
+        "de:t": "Kasachstan | Aktobe"
+    },
+    {
+        "en": "Almaty",
+        "en:t": "Kazakhstan | Karasay",
+        "a": true,
+        "g": {
+            "lat": 43.222,
+            "lon": 76.8512
+        },
+        "it": "Almaty",
+        "it:t": "Kazakistan | Qarasaj",
+        "es": "Almat\u00fd",
+        "es:t": "Kazajist\u00e1n | Karasay",
+        "de": "Almaty",
+        "de:t": "Kasachstan | Karasay"
+    },
+    {
+        "en": "Aralsk",
+        "en:t": "Kazakhstan",
+        "a": true,
+        "g": {
+            "lat": 46.8032,
+            "lon": 61.6639
+        },
+        "it": "Lago d'Aral",
+        "it:t": "Kazakistan",
+        "es": "Mar de Aral",
+        "es:t": "Kazajist\u00e1n",
+        "de": "Aral",
+        "de:t": "Kasachstan"
+    },
+    {
+        "en": "Arkalyk",
+        "en:t": "Kazakhstan | Kostanay",
+        "a": true,
+        "g": {
+            "lat": 50.2496,
+            "lon": 66.914
+        },
+        "it": "Arkalyk",
+        "it:t": "Kazakistan | Qostanaj",
+        "es": "Arkalyk",
+        "es:t": "Kazajist\u00e1n | Kostanay",
+        "de": "Arqalyq",
+        "de:t": "Kasachstan | Qostanai"
+    },
+    {
+        "en": "Arys",
+        "en:t": "Kazakhstan | South Kazakhstan",
+        "a": true,
+        "g": {
+            "lat": 42.4339,
+            "lon": 68.8129
+        },
+        "it": "Arys",
+        "it:t": "Kazakistan | South Kazakhstan",
+        "es": "Arys",
+        "es:t": "Kazajist\u00e1n | South Kazakhstan",
+        "de": "Arys",
+        "de:t": "Kasachstan | S\u00fcdkasachstan"
+    },
+    {
+        "en": "Atbasar",
+        "en:t": "Kazakhstan | Atbasar",
+        "a": true,
+        "g": {
+            "lat": 51.8205,
+            "lon": 68.3637
+        },
+        "it": "Atbasar",
+        "it:t": "Kazakistan | Atbasar",
+        "es": "Atbasar",
+        "es:t": "Kazajist\u00e1n | Atbasar",
+        "de": "Atbassar",
+        "de:t": "Kasachstan | Atbasar"
+    },
+    {
+        "en": "Atyrau",
+        "en:t": "Kazakhstan",
+        "a": true,
+        "g": {
+            "lat": 47.0945,
+            "lon": 51.9238
+        },
+        "it": "Atyrau",
+        "it:t": "Kazakistan",
+        "es": "Atyrau",
+        "es:t": "Kazajist\u00e1n",
+        "de": "Atyrau",
+        "de:t": "Kasachstan"
+    },
+    {
+        "en": "Ayagoz",
+        "en:t": "Kazakhstan",
+        "a": true,
+        "g": {
+            "lat": 47.9756,
+            "lon": 80.4327
+        },
+        "it": "Ayagoz",
+        "it:t": "Kazakistan",
+        "es": "Ayagoz",
+        "es:t": "Kazajist\u00e1n",
+        "de": "Ajag\u00f6s",
+        "de:t": "Kasachstan"
+    },
+    {
+        "en": "Ayteke Bi",
+        "en:t": "Kazakhstan | Kazaly",
+        "a": true,
+        "g": {
+            "lat": 45.852,
+            "lon": 62.1558
+        },
+        "it": "Ayteke Bi",
+        "it:t": "Kazakistan | Kazaly",
+        "es": "Ayteke Bi",
+        "es:t": "Kazajist\u00e1n | Kazaly",
+        "de": "Ayteke Bi",
+        "de:t": "Kasachstan | Kazaly"
+    },
+    {
+        "en": "Baikonur",
+        "en:t": "Kazakhstan | Karmakshy",
+        "a": true,
+        "g": {
+            "lat": 45.6232,
+            "lon": 63.314
+        },
+        "it": "Bajqo\u0144yr",
+        "it:t": "Kazakistan | Qarmaq\u0161y",
+        "es": "Baikonur",
+        "es:t": "Kazajist\u00e1n | Karmakshy",
+        "de": "Baikonur",
+        "de:t": "Kasachstan | Karmakshy"
+    },
+    {
+        "en": "Balkhash",
+        "en:t": "Kazakhstan | Aktogay",
+        "a": true,
+        "g": {
+            "lat": 46.8435,
+            "lon": 74.981
+        },
+        "it": "Balqa\u0161",
+        "it:t": "Kazakistan | Aqto\u01e7aj",
+        "es": "Baljash",
+        "es:t": "Kazajist\u00e1n | Aktogay",
+        "de": "Balqasch",
+        "de:t": "Kasachstan | Aktogay"
+    },
+    {
+        "en": "Balyqshy",
+        "en:t": "Kazakhstan | Atyrau",
+        "a": true,
+        "g": {
+            "lat": 47.0835,
+            "lon": 51.8784
+        },
+        "it": "Balyqshy",
+        "it:t": "Kazakistan | Atyrau",
+        "es": "Balyqshy",
+        "es:t": "Kazajist\u00e1n | Atyrau",
+        "de": "Balyqshy",
+        "de:t": "Kasachstan | Atyrau"
+    },
+    {
+        "en": "Boralday",
+        "en:t": "Kazakhstan | Ile",
+        "a": true,
+        "g": {
+            "lat": 43.3586,
+            "lon": 76.8675
+        },
+        "it": "Boralday",
+        "it:t": "Kazakistan | Ile",
+        "es": "Boralday",
+        "es:t": "Kazajist\u00e1n | Ile",
+        "de": "Boralday",
+        "de:t": "Kasachstan | Ile"
+    },
+    {
+        "en": "Ekibastuz",
+        "en:t": "Kazakhstan | Ekibastuz",
+        "a": true,
+        "g": {
+            "lat": 51.7252,
+            "lon": 75.3151
+        },
+        "it": "Ekibast\u016bz",
+        "it:t": "Kazakistan | Ekibastuz",
+        "es": "Ekibastuz",
+        "es:t": "Kazajist\u00e1n | Ekibastuz",
+        "de": "Ekibastus",
+        "de:t": "Kasachstan | Ekibastuz"
+    },
+    {
+        "en": "Embi",
+        "en:t": "Kazakhstan | Mugalzhar",
+        "a": true,
+        "g": {
+            "lat": 48.8313,
+            "lon": 58.1489
+        },
+        "it": "Embi",
+        "it:t": "Kazakistan | Mugalzhar",
+        "es": "Embi",
+        "es:t": "Kazajist\u00e1n | Mugalzhar",
+        "de": "Jembi",
+        "de:t": "Kasachstan | Mugalzhar"
+    },
+    {
+        "en": "Esik",
+        "en:t": "Kazakhstan | Enbekshikazakh",
+        "a": true,
+        "g": {
+            "lat": 43.3515,
+            "lon": 77.4601
+        },
+        "it": "Esik",
+        "it:t": "Kazakistan | E\u0144bek\u0161iqazaq",
+        "es": "Esik",
+        "es:t": "Kazajist\u00e1n | Enbekshikazakh",
+        "de": "Jessik",
+        "de:t": "Kasachstan | Enbekshikazakh"
+    },
+    {
+        "en": "Kandyagash",
+        "en:t": "Kazakhstan | Mugalzhar",
+        "a": true,
+        "g": {
+            "lat": 49.458,
+            "lon": 57.4207
+        },
+        "it": "Qandya\u01e7a\u0161",
+        "it:t": "Kazakistan | M\u016b\u01e7al\u017ear",
+        "es": "Kandyagash",
+        "es:t": "Kazajist\u00e1n | Mugalzhar",
+        "de": "Qandyaghasch",
+        "de:t": "Kasachstan | Mugalzhar"
+    },
+    {
+        "en": "Kapchagay",
+        "en:t": "Kazakhstan | Almaty",
+        "a": true,
+        "g": {
+            "lat": 43.8667,
+            "lon": 77.0514
+        },
+        "it": "Kapchagay",
+        "it:t": "Kazakistan | Almaty",
+        "es": "Kapchagay",
+        "es:t": "Kazajist\u00e1n | Almaty",
+        "de": "Qapschaghai",
+        "de:t": "Kasachstan | Almaty"
+    },
+    {
+        "en": "Karagandy",
+        "en:t": "Kazakhstan | Bukhar-Zhyrau",
+        "a": true,
+        "g": {
+            "lat": 49.8047,
+            "lon": 73.1094
+        },
+        "it": "Qara\u011fand\u0131",
+        "it:t": "Kazakistan | B\u016bqar \u017dyrau",
+        "es": "Karagand\u00e1",
+        "es:t": "Kazajist\u00e1n | Bukhar-Zhyrau",
+        "de": "Karaganda",
+        "de:t": "Kasachstan | Bukhar-Zhyrau"
+    },
+    {
+        "en": "Karatau",
+        "en:t": "Kazakhstan | Talas",
+        "a": true,
+        "g": {
+            "lat": 43.178,
+            "lon": 70.4552
+        },
+        "it": "Karatau",
+        "it:t": "Kazakistan | Talas",
+        "es": "Karatau",
+        "es:t": "Kazajist\u00e1n | Talas",
+        "de": "Qaratau",
+        "de:t": "Kasachstan | Talas"
+    },
+    {
+        "en": "Kentau",
+        "en:t": "Kazakhstan | Turkestan",
+        "a": true,
+        "g": {
+            "lat": 43.5162,
+            "lon": 68.509
+        },
+        "it": "Kentau",
+        "it:t": "Kazakistan | Turkestan",
+        "es": "Kentau",
+        "es:t": "Kazajist\u00e1n | Turkestan",
+        "de": "Kentau",
+        "de:t": "Kasachstan | Turkestan"
+    },
+    {
+        "en": "Khromtau",
+        "en:t": "Kazakhstan | Khromtau",
+        "a": true,
+        "g": {
+            "lat": 50.2578,
+            "lon": 58.4327
+        },
+        "it": "Khromtau",
+        "it:t": "Kazakistan | Khromtau",
+        "es": "Khromtau",
+        "es:t": "Kazajist\u00e1n | Khromtau",
+        "de": "Chromtau",
+        "de:t": "Kasachstan | Khromtau"
+    },
+    {
+        "en": "Kokshetau",
+        "en:t": "Kazakhstan | Zerendi",
+        "a": true,
+        "g": {
+            "lat": 53.2948,
+            "lon": 69.4048
+        },
+        "it": "K\u00f6k\u015fetaw",
+        "it:t": "Kazakistan | Zerend\u00ed",
+        "es": "Kokshetau",
+        "es:t": "Kazajist\u00e1n | Zerendi",
+        "de": "K\u00f6kschetau",
+        "de:t": "Kasachstan | Zerendi"
+    },
+    {
+        "en": "Kostanay",
+        "en:t": "Kazakhstan | Kostanay",
+        "a": true,
+        "g": {
+            "lat": 53.2198,
+            "lon": 63.6354
+        },
+        "it": "Qostanay",
+        "it:t": "Kazakistan | Qostanaj",
+        "es": "Kostan\u00e1i",
+        "es:t": "Kazajist\u00e1n | Kostanay",
+        "de": "Qostanai",
+        "de:t": "Kasachstan | Kostanay"
+    },
+    {
+        "en": "Kulsary",
+        "en:t": "Kazakhstan | Zhylyoi",
+        "a": true,
+        "g": {
+            "lat": 46.9691,
+            "lon": 54.0068
+        },
+        "it": "Kulsary",
+        "it:t": "Kazakistan | Zhylyoi",
+        "es": "Kulsary",
+        "es:t": "Kazajist\u00e1n | Zhylyoi",
+        "de": "Qulsary",
+        "de:t": "Kasachstan | Zhylyoi"
+    },
+    {
+        "en": "Kyzylorda",
+        "en:t": "Kazakhstan | Syrdariya",
+        "a": true,
+        "g": {
+            "lat": 44.8488,
+            "lon": 65.4823
+        },
+        "it": "Qyzylorda",
+        "it:t": "Kazakistan | Syrdari\u00e2",
+        "es": "Kyzylorda",
+        "es:t": "Kazajist\u00e1n | Syrdariya",
+        "de": "Qysylorda",
+        "de:t": "Kasachstan | Syrdariya"
+    },
+    {
+        "en": "Lenger",
+        "en:t": "Kazakhstan | South Kazakhstan",
+        "a": true,
+        "g": {
+            "lat": 42.1811,
+            "lon": 69.8825
+        },
+        "it": "Lenger",
+        "it:t": "Kazakistan | South Kazakhstan",
+        "es": "Lenger",
+        "es:t": "Kazajist\u00e1n | South Kazakhstan",
+        "de": "Lenger",
+        "de:t": "Kasachstan | S\u00fcdkasachstan"
+    },
+    {
+        "en": "Lisakovsk",
+        "en:t": "Kazakhstan | Taran",
+        "a": true,
+        "g": {
+            "lat": 52.5474,
+            "lon": 62.5
+        },
+        "it": "Lisakovsk",
+        "it:t": "Kazakistan | Taran",
+        "es": "Lisakovsk",
+        "es:t": "Kazajist\u00e1n | Taran",
+        "de": "Lissakowsk",
+        "de:t": "Kasachstan | Taran"
+    },
+    {
+        "en": "Makinsk",
+        "en:t": "Kazakhstan | Bulandy",
+        "a": true,
+        "g": {
+            "lat": 52.638,
+            "lon": 70.4223
+        },
+        "it": "Makinsk",
+        "it:t": "Kazakistan | B\u016blandy",
+        "es": "Makinsk",
+        "es:t": "Kazajist\u00e1n | Bulandy",
+        "de": "Makinsk",
+        "de:t": "Kasachstan | Bulandy"
+    },
+    {
+        "en": "Merki",
+        "en:t": "Kazakhstan | Merki",
+        "a": true,
+        "g": {
+            "lat": 42.8719,
+            "lon": 73.1963
+        },
+        "it": "Merki",
+        "it:t": "Kazakistan | Merki",
+        "es": "Merki",
+        "es:t": "Kazajist\u00e1n | Merki",
+        "de": "Merki",
+        "de:t": "Kasachstan | Merki"
+    },
+    {
+        "en": "Mikhaylovka",
+        "en:t": "Kazakhstan | Bayzak",
+        "a": true,
+        "g": {
+            "lat": 43.0052,
+            "lon": 71.5139
+        },
+        "it": "Mikhaylovka",
+        "it:t": "Kazakistan | Bayzak",
+        "es": "Mikhaylovka",
+        "es:t": "Kazajist\u00e1n | Bayzak",
+        "de": "Sarykemer",
+        "de:t": "Kasachstan | Bayzak"
+    },
+    {
+        "en": "Nur-Sultan",
+        "en:t": "Kazakhstan",
+        "a": true,
+        "g": {
+            "lat": 51.1605,
+            "lon": 71.4704
+        },
+        "it": "Astana",
+        "it:t": "Kazakistan",
+        "es": "Astan\u00e1",
+        "es:t": "Kazajist\u00e1n",
+        "de": "Astana",
+        "de:t": "Kasachstan"
+    },
+    {
+        "en": "Otegen Batyr",
+        "en:t": "Kazakhstan | Ile",
+        "a": true,
+        "g": {
+            "lat": 43.426,
+            "lon": 77.0216
+        },
+        "it": "Otegen Batyr",
+        "it:t": "Kazakistan | Ile",
+        "es": "Otegen Batyr",
+        "es:t": "Kazajist\u00e1n | Ile",
+        "de": "Otegen Batyr",
+        "de:t": "Kasachstan | Ile"
+    },
+    {
+        "en": "Pavlodar",
+        "en:t": "Kazakhstan | Pavlodar",
+        "a": true,
+        "g": {
+            "lat": 52.2873,
+            "lon": 76.9674
+        },
+        "it": "Pavlodar",
+        "it:t": "Kazakistan | Pavlodar",
+        "es": "Pavlodar",
+        "es:t": "Kazajist\u00e1n | Pavlodar",
+        "de": "Pawlodar",
+        "de:t": "Kasachstan | Pavlodar"
+    },
+    {
+        "en": "Petropavl",
+        "en:t": "Kazakhstan | Kyzylzhar",
+        "a": true,
+        "g": {
+            "lat": 54.8732,
+            "lon": 69.1505
+        },
+        "it": "Petropavl",
+        "it:t": "Kazakistan | Qyzyl\u017ear",
+        "es": "Petropavl",
+        "es:t": "Kazajist\u00e1n | Kyzylzhar",
+        "de": "Petropawl",
+        "de:t": "Kasachstan | Kyzylzhar"
+    },
+    {
+        "en": "Qalbatau",
+        "en:t": "Kazakhstan | Zharma",
+        "a": true,
+        "g": {
+            "lat": 49.3272,
+            "lon": 81.5648
+        },
+        "it": "Qalbatau",
+        "it:t": "Kazakistan | Zharma",
+        "es": "Qalbatau",
+        "es:t": "Kazajist\u00e1n | Zharma",
+        "de": "Qalbatau",
+        "de:t": "Kasachstan | Zharma"
+    },
+    {
+        "en": "Ridder",
+        "en:t": "Kazakhstan | East Kazakhstan",
+        "a": true,
+        "g": {
+            "lat": 50.3382,
+            "lon": 83.5063
+        },
+        "it": "Ridder",
+        "it:t": "Kazakistan | Kazakistan Orientale",
+        "es": "Ridder",
+        "es:t": "Kazajist\u00e1n | East Kazakhstan",
+        "de": "Ridder",
+        "de:t": "Kasachstan | Ostkasachstan"
+    },
+    {
+        "en": "Rudny",
+        "en:t": "Kazakhstan | Kostanay",
+        "a": true,
+        "g": {
+            "lat": 52.9718,
+            "lon": 63.1128
+        },
+        "it": "Rudny",
+        "it:t": "Kazakistan | Qostanaj",
+        "es": "Roudny",
+        "es:t": "Kazajist\u00e1n | Kostanay",
+        "de": "Rudny",
+        "de:t": "Kasachstan | Kostanay"
+    },
+    {
+        "en": "Saryagash",
+        "en:t": "Kazakhstan | Saryagash",
+        "a": true,
+        "g": {
+            "lat": 41.4636,
+            "lon": 69.181
+        },
+        "it": "Sarya\u01e7a\u0161",
+        "it:t": "Kazakistan | Sarya\u01e7a\u0161",
+        "es": "Saryagash",
+        "es:t": "Kazajist\u00e1n | Saryagash",
+        "de": "Saryaghasch",
+        "de:t": "Kasachstan | Saryagash"
+    },
+    {
+        "en": "Sar\u0137and",
+        "en:t": "Kazakhstan | Sarkand",
+        "a": true,
+        "g": {
+            "lat": 45.4131,
+            "lon": 79.9171
+        },
+        "it": "Sar\u0137and",
+        "it:t": "Kazakistan | Sarkand",
+        "es": "Sar\u0137and",
+        "es:t": "Kazajist\u00e1n | Sarkand",
+        "de": "Sarqan",
+        "de:t": "Kasachstan | Sarkand"
+    },
+    {
+        "en": "Semey",
+        "en:t": "Kazakhstan | East Kazakhstan",
+        "a": true,
+        "g": {
+            "lat": 50.4233,
+            "lon": 80.2508
+        },
+        "it": "Semej",
+        "it:t": "Kazakistan | Kazakistan Orientale",
+        "es": "Semey",
+        "es:t": "Kazajist\u00e1n | Kazajist\u00e1n Oriental",
+        "de": "Semei",
+        "de:t": "Kasachstan | Ostkasachstan"
+    },
+    {
+        "en": "Shalkar",
+        "en:t": "Kazakhstan | Kurmangazy",
+        "a": true,
+        "g": {
+            "lat": 48.0531,
+            "lon": 48.91
+        },
+        "it": "Atyrau",
+        "it:t": "Kazakistan | Oblys di",
+        "es": "Shalkar",
+        "es:t": "Kazajist\u00e1n | Kurmangazy",
+        "de": "Shalkar",
+        "de:t": "Kasachstan | Kurmangazy"
+    },
+    {
+        "en": "Shalkar",
+        "en:t": "Kazakhstan | Shalkar",
+        "a": true,
+        "g": {
+            "lat": 47.8313,
+            "lon": 59.6189
+        },
+        "it": "Shalkar",
+        "it:t": "Kazakistan | Shalkar",
+        "es": "Shalkar",
+        "es:t": "Kazajist\u00e1n | Shalkar",
+        "de": "Schalqar",
+        "de:t": "Kasachstan | Shalkar"
+    },
+    {
+        "en": "Shardara",
+        "en:t": "Kazakhstan",
+        "a": true,
+        "g": {
+            "lat": 41.2594,
+            "lon": 67.9656
+        },
+        "it": "\u0160ardara",
+        "it:t": "Kazakistan | \u0160ardara",
+        "es": "Shardara",
+        "es:t": "Kazajist\u00e1n",
+        "de": "Schardara",
+        "de:t": "Kasachstan | Shardara"
+    },
+    {
+        "en": "Shchuchinsk",
+        "en:t": "Kazakhstan | Burabay",
+        "a": true,
+        "g": {
+            "lat": 52.9352,
+            "lon": 70.1885
+        },
+        "it": "Shchuchinsk",
+        "it:t": "Kazakistan | Burabay",
+        "es": "Shchuchinsk",
+        "es:t": "Kazajist\u00e1n | Burabay",
+        "de": "Schtschutschinsk",
+        "de:t": "Kasachstan | Burabay"
+    },
+    {
+        "en": "Shemonaikha",
+        "en:t": "Kazakhstan | Shemonaikha",
+        "a": true,
+        "g": {
+            "lat": 50.6277,
+            "lon": 81.9119
+        },
+        "it": "Shemonaikha",
+        "it:t": "Kazakistan | Shemonaikha",
+        "es": "Shemonaikha",
+        "es:t": "Kazajist\u00e1n | Shemonaikha",
+        "de": "Schemonaicha",
+        "de:t": "Kasachstan | Shemonaikha"
+    },
+    {
+        "en": "Shieli",
+        "en:t": "Kazakhstan | Shieli",
+        "a": true,
+        "g": {
+            "lat": 44.1689,
+            "lon": 66.7337
+        },
+        "it": "Shieli",
+        "it:t": "Kazakistan | Shieli",
+        "es": "Shieli",
+        "es:t": "Kazajist\u00e1n | Shieli",
+        "de": "Shieli",
+        "de:t": "Kasachstan | Shieli"
+    },
+    {
+        "en": "Shu",
+        "en:t": "Kazakhstan | Shu",
+        "a": true,
+        "g": {
+            "lat": 43.6051,
+            "lon": 73.7631
+        },
+        "it": "Shu",
+        "it:t": "Kazakistan | Shu",
+        "es": "Shu",
+        "es:t": "Kazajist\u00e1n | Shu",
+        "de": "Schu",
+        "de:t": "Kasachstan | Shu"
+    },
+    {
+        "en": "Shymkent",
+        "en:t": "Kazakhstan | Sayram",
+        "a": true,
+        "g": {
+            "lat": 42.3417,
+            "lon": 69.5901
+        },
+        "it": "\u0160ymkent",
+        "it:t": "Kazakistan | Sajram",
+        "es": "Shymkent",
+        "es:t": "Kazajist\u00e1n | Sayram",
+        "de": "Schymkent",
+        "de:t": "Kasachstan | Sayram"
+    },
+    {
+        "en": "Stepnogorsk",
+        "en:t": "Kazakhstan | Akkol",
+        "a": true,
+        "g": {
+            "lat": 52.3518,
+            "lon": 71.8853
+        },
+        "it": "Stepnogorsk",
+        "it:t": "Kazakistan | Aqk\u00f6l",
+        "es": "Stepnogorsk",
+        "es:t": "Kazajist\u00e1n | Akkol",
+        "de": "Stepnogor",
+        "de:t": "Kasachstan | Akkol"
+    },
+    {
+        "en": "Taldykorgan",
+        "en:t": "Kazakhstan | Eskeldi",
+        "a": true,
+        "g": {
+            "lat": 45.0177,
+            "lon": 78.3804
+        },
+        "it": "Tald\u0131qor\u011fan",
+        "it:t": "Kazakistan | Eskeldi",
+        "es": "Taldykorgan",
+        "es:t": "Kazajist\u00e1n | Eskeldi",
+        "de": "Taldyqorghan",
+        "de:t": "Kasachstan | Eskeldi"
+    },
+    {
+        "en": "Talgar",
+        "en:t": "Kazakhstan | Talgar",
+        "a": true,
+        "g": {
+            "lat": 43.3023,
+            "lon": 77.2269
+        },
+        "it": "Tal\u01e7ar",
+        "it:t": "Kazakistan | Tal\u01e7ar",
+        "es": "Talgar",
+        "es:t": "Kazajist\u00e1n | Talgar",
+        "de": "Talghar",
+        "de:t": "Kasachstan | Talgar"
+    },
+    {
+        "en": "Taraz",
+        "en:t": "Kazakhstan | Jambyl",
+        "a": true,
+        "g": {
+            "lat": 42.8984,
+            "lon": 71.398
+        },
+        "it": "Taraz",
+        "it:t": "Kazakistan | \u017dambyl",
+        "es": "Taraz",
+        "es:t": "Kazajist\u00e1n | Jambyl",
+        "de": "Taras",
+        "de:t": "Kasachstan | Jambyl"
+    },
+    {
+        "en": "Tasbuget",
+        "en:t": "Kazakhstan | Kyzylorda",
+        "a": true,
+        "g": {
+            "lat": 44.7735,
+            "lon": 65.5545
+        },
+        "it": "Tasbuget",
+        "it:t": "Kazakistan | Kyzylorda",
+        "es": "Tasbuget",
+        "es:t": "Kazajist\u00e1n | Kyzylorda",
+        "de": "Qysylorda",
+        "de:t": "Kasachstan | Syrdariya"
+    },
+    {
+        "en": "Tekeli",
+        "en:t": "Kazakhstan | Eskeldi",
+        "a": true,
+        "g": {
+            "lat": 44.8601,
+            "lon": 78.7629
+        },
+        "it": "Tekeli",
+        "it:t": "Kazakistan | Eskeldi",
+        "es": "Tekeli",
+        "es:t": "Kazajist\u00e1n | Eskeldi",
+        "de": "Tekeli",
+        "de:t": "Kasachstan | Eskeldi"
+    },
+    {
+        "en": "Temirtau",
+        "en:t": "Kazakhstan | Bukhar-Zhyrau",
+        "a": true,
+        "g": {
+            "lat": 50.051,
+            "lon": 72.9661
+        },
+        "it": "Temirtau",
+        "it:t": "Kazakistan | B\u016bqar \u017dyrau",
+        "es": "Temirtau",
+        "es:t": "Kazajist\u00e1n | Bukhar-Zhyrau",
+        "de": "Temirtau",
+        "de:t": "Kasachstan | Bukhar-Zhyrau"
+    },
+    {
+        "en": "Turkistan",
+        "en:t": "Kazakhstan | Turkestan",
+        "a": true,
+        "g": {
+            "lat": 43.3051,
+            "lon": 68.2347
+        },
+        "it": "Turkistan",
+        "it:t": "Kazakistan | Turkestan",
+        "es": "Turkestan",
+        "es:t": "Kazajist\u00e1n | Turquest\u00e1n",
+        "de": "T\u00fcrkistan",
+        "de:t": "Kasachstan | Turkestan"
+    },
+    {
+        "en": "Uralsk",
+        "en:t": "Kazakhstan | West Kazakhstan",
+        "a": true,
+        "g": {
+            "lat": 51.2278,
+            "lon": 51.3865
+        },
+        "it": "Oral",
+        "it:t": "Kazakistan | Kazakistan Occidentale",
+        "es": "Oral",
+        "es:t": "Kazajist\u00e1n | Kazajist\u00e1n Occidental",
+        "de": "Oral",
+        "de:t": "Kasachstan | Westkasachstan"
+    },
+    {
+        "en": "Ushtobe",
+        "en:t": "Kazakhstan | Karatal",
+        "a": true,
+        "g": {
+            "lat": 45.2415,
+            "lon": 77.9726
+        },
+        "it": "Ushtobe",
+        "it:t": "Kazakistan | Karatal",
+        "es": "Ushtobe",
+        "es:t": "Kazajist\u00e1n | Karatal",
+        "de": "\u00dcscht\u00f6be",
+        "de:t": "Kasachstan | Karatal"
+    },
+    {
+        "en": "Ust'-Kamenogorsk",
+        "en:t": "Kazakhstan | Ulan",
+        "a": true,
+        "g": {
+            "lat": 49.9749,
+            "lon": 82.6017
+        },
+        "it": "\u00d6skemen",
+        "it:t": "Kazakistan | \u016alan",
+        "es": "\u00d6skemen",
+        "es:t": "Kazajist\u00e1n | Ulan",
+        "de": "\u00d6skemen",
+        "de:t": "Kasachstan | Ulan"
+    },
+    {
+        "en": "Vannovka",
+        "en:t": "Kazakhstan | Tulkibas",
+        "a": true,
+        "g": {
+            "lat": 42.5299,
+            "lon": 70.3422
+        },
+        "it": "Vannovka",
+        "it:t": "Kazakistan | Tulkibas",
+        "es": "Vannovka",
+        "es:t": "Kazajist\u00e1n | Tulkibas",
+        "de": "Vannovka",
+        "de:t": "Kasachstan | Tulkibas"
+    },
+    {
+        "en": "Yanykurgan",
+        "en:t": "Kazakhstan | Zhanakorgan",
+        "a": true,
+        "g": {
+            "lat": 43.9015,
+            "lon": 67.2478
+        },
+        "it": "Yanykurgan",
+        "it:t": "Kazakistan | Zhanakorgan",
+        "es": "Yanykurgan",
+        "es:t": "Kazajist\u00e1n | Zhanakorgan",
+        "de": "Yanykurgan",
+        "de:t": "Kasachstan | Zhanakorgan"
+    },
+    {
+        "en": "Zaysan",
+        "en:t": "Kazakhstan | Zaysan",
+        "a": true,
+        "g": {
+            "lat": 47.4701,
+            "lon": 84.8753
+        },
+        "it": "Zaysan",
+        "it:t": "Kazakistan | Zaysan",
+        "es": "Zaysan",
+        "es:t": "Kazajist\u00e1n | Zaysan",
+        "de": "Saissan",
+        "de:t": "Kasachstan | Zaysan"
+    },
+    {
+        "en": "Zhambyl",
+        "en:t": "Kazakhstan | North Kazakhstan",
+        "a": true,
+        "g": {
+            "lat": 54.5201,
+            "lon": 66.9477
+        },
+        "it": "\u017dambyl",
+        "it:t": "Kazakistan | Kazakistan Settentrionale",
+        "es": "Zhambyl",
+        "es:t": "Kazajist\u00e1n | Kazajist\u00e1n Septentrional",
+        "de": "Schangatas",
+        "de:t": "Kasachstan | Sarysu"
+    },
+    {
+        "en": "Zhanaozen",
+        "en:t": "Kazakhstan | Karakiya",
+        "a": true,
+        "g": {
+            "lat": 43.3576,
+            "lon": 52.8435
+        },
+        "it": "Ja\u00f1a\u00f6zen",
+        "it:t": "Kazakistan | Qaraqi\u00e2",
+        "es": "Janaozen",
+        "es:t": "Kazajist\u00e1n | Karakiya",
+        "de": "Schanga\u00f6sen",
+        "de:t": "Kasachstan | Karakiya"
+    },
+    {
+        "en": "Zharkent",
+        "en:t": "Kazakhstan | Panfilov",
+        "a": true,
+        "g": {
+            "lat": 44.1665,
+            "lon": 80.0
+        },
+        "it": "Zharkent",
+        "it:t": "Kazakistan | Panfilov",
+        "es": "Zharkent",
+        "es:t": "Kazajist\u00e1n | Panfilov",
+        "de": "Scharkent",
+        "de:t": "Kasachstan | Panfilov"
+    },
+    {
+        "en": "Zhetikara",
+        "en:t": "Kazakhstan | Zhetikara",
+        "a": true,
+        "g": {
+            "lat": 52.2117,
+            "lon": 61.2783
+        },
+        "it": "\u017d\u00edt\u00edqara",
+        "it:t": "Kazakistan",
+        "es": "Dzhetygara",
+        "es:t": "Kazajist\u00e1n | Zhetikara",
+        "de": "Dzhetygara",
+        "de:t": "Kasachstan | Zhetikara"
+    },
+    {
+        "en": "Zhezqazghan",
+        "en:t": "Kazakhstan | Ulytau",
+        "a": true,
+        "g": {
+            "lat": 47.7964,
+            "lon": 67.702
+        },
+        "it": "D\u017eezkazgan",
+        "it:t": "Kazakistan | \u016alytau",
+        "es": "Zhezkazgan",
+        "es:t": "Kazajist\u00e1n | Ulytau",
+        "de": "Schesqasghan",
+        "de:t": "Kasachstan | Ulytau"
+    },
+    {
+        "en": "Zhosaly",
+        "en:t": "Kazakhstan | Karmakshy",
+        "a": true,
+        "g": {
+            "lat": 45.4852,
+            "lon": 64.0819
+        },
+        "it": "Zhosaly",
+        "it:t": "Kazakistan | Karmakshy",
+        "es": "Zhosaly",
+        "es:t": "Kazajist\u00e1n | Karmakshy",
+        "de": "Zhosaly",
+        "de:t": "Kasachstan | Karmakshy"
+    },
+    {
+        "en": "Zyryanovsk",
+        "en:t": "Kazakhstan | Zyryan",
+        "a": true,
+        "g": {
+            "lat": 49.7261,
+            "lon": 84.2733
+        },
+        "it": "Zyryanovsk",
+        "it:t": "Kazakistan | Zyryan",
+        "es": "Alt\u00e1i",
+        "es:t": "Kazajist\u00e1n | Zyryan",
+        "de": "Syrjanowsk",
+        "de:t": "Kasachstan | Zyryan"
+    }
+]

@@ -1,0 +1,272 @@
+[
+    {
+        "en": "Boke",
+        "en:t": "Guinea",
+        "a": true,
+        "g": {
+            "lat": 10.9407,
+            "lon": -14.2803
+        },
+        "it": "Bok\u00e9",
+        "it:t": "Guinea",
+        "es": "Bok\u00e9",
+        "es:t": "Guinea",
+        "de": "Bok\u00e9",
+        "de:t": "Guinea"
+    },
+    {
+        "en": "Camayenne",
+        "en:t": "Guinea | Conakry",
+        "a": true,
+        "g": {
+            "lat": 9.5308,
+            "lon": -13.6895
+        },
+        "it": "Camayenne",
+        "it:t": "Guinea | Conakry",
+        "es": "Camayenne",
+        "es:t": "Guinea | Conakry",
+        "de": "Camayenne",
+        "de:t": "Guinea | Conakry"
+    },
+    {
+        "en": "Conakry",
+        "en:t": "Guinea",
+        "a": true,
+        "g": {
+            "lat": 9.6412,
+            "lon": -13.5784
+        },
+        "it": "Conakry",
+        "it:t": "Guinea",
+        "es": "Conakri",
+        "es:t": "Guinea",
+        "de": "Conakry",
+        "de:t": "Guinea"
+    },
+    {
+        "en": "Coyah",
+        "en:t": "Guinea",
+        "a": true,
+        "g": {
+            "lat": 9.7086,
+            "lon": -13.3876
+        },
+        "it": "Coyah",
+        "it:t": "Guinea",
+        "es": "Coyah",
+        "es:t": "Guinea",
+        "de": "Coyah",
+        "de:t": "Guinea"
+    },
+    {
+        "en": "Fria",
+        "en:t": "Guinea",
+        "a": true,
+        "g": {
+            "lat": 10.3675,
+            "lon": -13.5842
+        },
+        "it": "Fria",
+        "it:t": "Guinea",
+        "es": "Fria",
+        "es:t": "Guinea",
+        "de": "Fria",
+        "de:t": "Guinea"
+    },
+    {
+        "en": "Gueckedou",
+        "en:t": "Guinea",
+        "a": true,
+        "g": {
+            "lat": 8.565,
+            "lon": -10.1311
+        },
+        "it": "Gu\u00e9ck\u00e9dou",
+        "it:t": "Guinea",
+        "es": "Gu\u00e9ck\u00e9dou",
+        "es:t": "Guinea",
+        "de": "Gu\u00e9ck\u00e9dou",
+        "de:t": "Guinea"
+    },
+    {
+        "en": "Kamsar",
+        "en:t": "Guinea | Bok\u00e9",
+        "a": true,
+        "g": {
+            "lat": 10.6637,
+            "lon": -14.5844
+        },
+        "it": "Kamsar",
+        "it:t": "Guinea | Bok\u00e9",
+        "es": "Kamsar",
+        "es:t": "Guinea | Bok\u00e9",
+        "de": "Kamsar",
+        "de:t": "Guinea | Bok\u00e9"
+    },
+    {
+        "en": "Kankan",
+        "en:t": "Guinea",
+        "a": true,
+        "g": {
+            "lat": 10.3828,
+            "lon": -9.3118
+        },
+        "it": "Kankan",
+        "it:t": "Guinea",
+        "es": "Kankan",
+        "es:t": "Guinea",
+        "de": "Kankan",
+        "de:t": "Guinea"
+    },
+    {
+        "en": "Kindia",
+        "en:t": "Guinea",
+        "a": true,
+        "g": {
+            "lat": 10.0407,
+            "lon": -12.863
+        },
+        "it": "Kindia",
+        "it:t": "Guinea",
+        "es": "Kindia",
+        "es:t": "Guinea",
+        "de": "Kindia",
+        "de:t": "Guinea"
+    },
+    {
+        "en": "Kissidougou",
+        "en:t": "Guinea",
+        "a": true,
+        "g": {
+            "lat": 9.1915,
+            "lon": -10.1143
+        },
+        "it": "Kissidougou",
+        "it:t": "Guinea",
+        "es": "Kissidougou",
+        "es:t": "Guinea",
+        "de": "Kissidougou",
+        "de:t": "Guinea"
+    },
+    {
+        "en": "Labe",
+        "en:t": "Guinea",
+        "a": true,
+        "g": {
+            "lat": 11.3232,
+            "lon": -12.2891
+        },
+        "it": "Lab\u00e9",
+        "it:t": "Guinea",
+        "es": "Lab\u00e9",
+        "es:t": "Guinea",
+        "de": "Lab\u00e9",
+        "de:t": "Guinea"
+    },
+    {
+        "en": "Macenta",
+        "en:t": "Guinea",
+        "a": true,
+        "g": {
+            "lat": 8.5383,
+            "lon": -9.4728
+        },
+        "it": "Macenta",
+        "it:t": "Guinea",
+        "es": "Macenta",
+        "es:t": "Guinea",
+        "de": "Macenta",
+        "de:t": "Guinea"
+    },
+    {
+        "en": "Mamou",
+        "en:t": "Guinea",
+        "a": true,
+        "g": {
+            "lat": 10.3785,
+            "lon": -12.0833
+        },
+        "it": "Mamou",
+        "it:t": "Guinea",
+        "es": "Mamou",
+        "es:t": "Guinea",
+        "de": "Mamou",
+        "de:t": "Guinea"
+    },
+    {
+        "en": "Nzerekore",
+        "en:t": "Guinea",
+        "a": true,
+        "g": {
+            "lat": 7.7478,
+            "lon": -8.8253
+        },
+        "it": "Nz\u00e9r\u00e9kor\u00e9",
+        "it:t": "Guinea",
+        "es": "Nz\u00e9r\u00e9kor\u00e9",
+        "es:t": "Guinea",
+        "de": "Nz\u00e9r\u00e9kor\u00e9",
+        "de:t": "Guinea"
+    },
+    {
+        "en": "Pita",
+        "en:t": "Guinea",
+        "a": true,
+        "g": {
+            "lat": 11.0575,
+            "lon": -12.3979
+        },
+        "it": "Pita",
+        "it:t": "Guinea",
+        "es": "Pita",
+        "es:t": "Guinea",
+        "de": "Pita",
+        "de:t": "Guinea"
+    },
+    {
+        "en": "Siguiri",
+        "en:t": "Guinea",
+        "a": true,
+        "g": {
+            "lat": 11.4148,
+            "lon": -9.1788
+        },
+        "it": "Siguiri",
+        "it:t": "Guinea",
+        "es": "Siguiri",
+        "es:t": "Guinea",
+        "de": "Siguiri",
+        "de:t": "Guinea"
+    },
+    {
+        "en": "Telimele",
+        "en:t": "Guinea",
+        "a": true,
+        "g": {
+            "lat": 10.9089,
+            "lon": -13.0299
+        },
+        "it": "T\u00e9lim\u00e9l\u00e9",
+        "it:t": "Guinea",
+        "es": "T\u00e9lim\u00e9l\u00e9",
+        "es:t": "Guinea",
+        "de": "T\u00e9lim\u00e9l\u00e9",
+        "de:t": "Guinea"
+    },
+    {
+        "en": "Tougue",
+        "en:t": "Guinea",
+        "a": true,
+        "g": {
+            "lat": 11.4464,
+            "lon": -11.6641
+        },
+        "it": "Tougu\u00e9",
+        "it:t": "Guinea",
+        "es": "Tougu\u00e9",
+        "es:t": "Guinea",
+        "de": "Tougu\u00e9",
+        "de:t": "Guinea"
+    }
+]

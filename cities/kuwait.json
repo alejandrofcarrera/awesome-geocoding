@@ -1,0 +1,227 @@
+[
+    {
+        "en": "Al Asimah Governate",
+        "en:t": "Kuwait",
+        "a": true,
+        "g": {
+            "lat": 29.3342,
+            "lon": 47.9812
+        },
+        "it": "Governatorato della Capitale",
+        "it:t": "Kuwait",
+        "es": "Capital",
+        "es:t": "Kuwait",
+        "de": "Al Asimah Governate",
+        "de:t": "Kuwait"
+    },
+    {
+        "en": "Al Farwaniyah",
+        "en:t": "Kuwait",
+        "a": true,
+        "g": {
+            "lat": 29.2816,
+            "lon": 47.9603
+        },
+        "it": "al-Farwaniyya",
+        "it:t": "Kuwait",
+        "es": "Farwaniya",
+        "es:t": "Kuwait",
+        "de": "Al Farwaniyah",
+        "de:t": "Kuwait"
+    },
+    {
+        "en": "Al Farwaniyah",
+        "en:t": "Kuwait | Al Farwaniyah",
+        "a": true,
+        "g": {
+            "lat": 29.2816,
+            "lon": 47.9603
+        },
+        "it": "Al-Farwaniyah",
+        "it:t": "Kuwait | al-Farwaniyya",
+        "es": "Farwaniya",
+        "es:t": "Kuwait | Farwaniya",
+        "de": "Al Farwaniyah",
+        "de:t": "Kuwait | Al Farwaniyah"
+    },
+    {
+        "en": "Al Jahra",
+        "en:t": "Kuwait | Al Jahra",
+        "a": true,
+        "g": {
+            "lat": 29.3366,
+            "lon": 47.6755
+        },
+        "it": "Al-Jahra",
+        "it:t": "Kuwait | al-Jahra",
+        "es": "Yahra",
+        "es:t": "Kuwait | Yahra",
+        "de": "al-Dschahra",
+        "de:t": "Kuwait | al-Dschahra"
+    },
+    {
+        "en": "Al-Riqqa",
+        "en:t": "Kuwait | Al Ahmadi",
+        "a": true,
+        "g": {
+            "lat": 29.1504,
+            "lon": 48.1054
+        },
+        "it": "Al-Riqqa",
+        "it:t": "Kuwait | Al Ahmadi",
+        "es": "Al-Riqqa",
+        "es:t": "Kuwait | Al Ahmadi",
+        "de": "Al-Riqqa",
+        "de:t": "Kuwait | Al Ahmadi"
+    },
+    {
+        "en": "Dasma",
+        "en:t": "Kuwait | Al Asimah Governate",
+        "a": true,
+        "g": {
+            "lat": 29.3664,
+            "lon": 48.0007
+        },
+        "it": "Dasma",
+        "it:t": "Kuwait | Al Asimah Governate",
+        "es": "Dasma",
+        "es:t": "Kuwait | Al Asimah Governate",
+        "de": "Dasma",
+        "de:t": "Kuwait | Al Asimah Governate"
+    },
+    {
+        "en": "Fahaheel",
+        "en:t": "Kuwait | Al Ahmadi",
+        "a": true,
+        "g": {
+            "lat": 29.0831,
+            "lon": 48.1335
+        },
+        "it": "Fahaheel",
+        "it:t": "Kuwait | Al Ahmadi",
+        "es": "Fahaheel",
+        "es:t": "Kuwait | Al Ahmadi",
+        "de": "Ahmadi",
+        "de:t": "Kuwait | Al Ahmadi"
+    },
+    {
+        "en": "Fintas",
+        "en:t": "Kuwait | Al Ahmadi",
+        "a": true,
+        "g": {
+            "lat": 29.1697,
+            "lon": 48.1176
+        },
+        "it": "Fintas",
+        "it:t": "Kuwait | Al Ahmadi",
+        "es": "Fintas",
+        "es:t": "Kuwait | Al Ahmadi",
+        "de": "Fintas",
+        "de:t": "Kuwait | Al Ahmadi"
+    },
+    {
+        "en": "Hawally",
+        "en:t": "Kuwait | Hawalli",
+        "a": true,
+        "g": {
+            "lat": 29.3378,
+            "lon": 48.0235
+        },
+        "it": "Hawalli",
+        "it:t": "Kuwait | Hawalli",
+        "es": "Hawalli",
+        "es:t": "Kuwait | Hawalli",
+        "de": "Hawally",
+        "de:t": "Kuwait | Hawalli"
+    },
+    {
+        "en": "Mahboula",
+        "en:t": "Kuwait | Al Ahmadi",
+        "a": true,
+        "g": {
+            "lat": 29.1497,
+            "lon": 48.1192
+        },
+        "it": "Mahboula",
+        "it:t": "Kuwait | Al Ahmadi",
+        "es": "Mahboula",
+        "es:t": "Kuwait | Al Ahmadi",
+        "de": "Mahboula",
+        "de:t": "Kuwait | Al Ahmadi"
+    },
+    {
+        "en": "Mangaf",
+        "en:t": "Kuwait | Al Ahmadi",
+        "a": true,
+        "g": {
+            "lat": 29.1071,
+            "lon": 48.124
+        },
+        "it": "Mangaf",
+        "it:t": "Kuwait | Al Ahmadi",
+        "es": "Mangaf",
+        "es:t": "Kuwait | Al Ahmadi",
+        "de": "Mangaf",
+        "de:t": "Kuwait | Al Ahmadi"
+    },
+    {
+        "en": "Rumaithiya",
+        "en:t": "Kuwait | Hawalli",
+        "a": true,
+        "g": {
+            "lat": 29.318,
+            "lon": 48.0754
+        },
+        "it": "Rumaithiya",
+        "it:t": "Kuwait | Hawalli",
+        "es": "Rumaithiya",
+        "es:t": "Kuwait | Hawalli",
+        "de": "Rumaithiya",
+        "de:t": "Kuwait | Hawalli"
+    },
+    {
+        "en": "Sabah Al Salem",
+        "en:t": "Kuwait | Mubarak Al-Kabeer",
+        "a": true,
+        "g": {
+            "lat": 29.2566,
+            "lon": 48.0626
+        },
+        "it": "Sabah Al Salem",
+        "it:t": "Kuwait | Mubarak Al-Kabeer",
+        "es": "Sabah Al Salem",
+        "es:t": "Kuwait | Mubarak Al-Kabeer",
+        "de": "Sabah Al Salem",
+        "de:t": "Kuwait | Mubarak Al-Kabeer"
+    },
+    {
+        "en": "Salmiya",
+        "en:t": "Kuwait | Hawalli",
+        "a": true,
+        "g": {
+            "lat": 29.3353,
+            "lon": 48.0716
+        },
+        "it": "Salmiya",
+        "it:t": "Kuwait | Hawalli",
+        "es": "Salmiya",
+        "es:t": "Kuwait | Hawalli",
+        "de": "Salmiya",
+        "de:t": "Kuwait | Hawalli"
+    },
+    {
+        "en": "Salwa",
+        "en:t": "Kuwait | Hawalli",
+        "a": true,
+        "g": {
+            "lat": 29.2965,
+            "lon": 48.0794
+        },
+        "it": "Salwa",
+        "it:t": "Kuwait | Hawalli",
+        "es": "Salwa",
+        "es:t": "Kuwait | Hawalli",
+        "de": "Salwa",
+        "de:t": "Kuwait | Hawalli"
+    }
+]

@@ -1,0 +1,107 @@
+[
+    {
+        "en": "Dar Kulaib",
+        "en:t": "Bahrain | Northern Governorate",
+        "a": true,
+        "g": {
+            "lat": 26.0696,
+            "lon": 50.5006
+        },
+        "it": "Dar Kulaib",
+        "it:t": "Bahrein | Northern Governorate",
+        "es": "Dar Kulaib",
+        "es:t": "Bar\u00e9in | Northern Governorate",
+        "de": "Dar Kulaib",
+        "de:t": "Bahrain | Northern Governorate"
+    },
+    {
+        "en": "Isa Town",
+        "en:t": "Bahrain | Central Governorate",
+        "a": true,
+        "g": {
+            "lat": 26.1656,
+            "lon": 50.5524
+        },
+        "it": "Madinat 'Isa",
+        "it:t": "Bahrein | Governatorato Centrale",
+        "es": "Madinat 'Isa",
+        "es:t": "Bar\u00e9in | Central",
+        "de": "Madinat Isa",
+        "de:t": "Bahrain | Central Governorate"
+    },
+    {
+        "en": "Jidhafs",
+        "en:t": "Bahrain | Northern Governorate",
+        "a": true,
+        "g": {
+            "lat": 26.2199,
+            "lon": 50.533
+        },
+        "it": "Jidd Hafs Avenue",
+        "it:t": "Bahrein | Capital Governorate",
+        "es": "Jidhafs",
+        "es:t": "Bar\u00e9in | Norte",
+        "de": "Dschidhafs",
+        "de:t": "Bahrain | Northern Governorate"
+    },
+    {
+        "en": "Madinat Hamad\u200e",
+        "en:t": "Bahrain | Northern Governorate",
+        "a": true,
+        "g": {
+            "lat": 26.1256,
+            "lon": 50.498
+        },
+        "it": "Madinat Hamad",
+        "it:t": "Bahrein | Governatorato Settentrionale",
+        "es": "Madinat Hamad",
+        "es:t": "Bar\u00e9in | Norte",
+        "de": "Madinat Hamad\u200e",
+        "de:t": "Bahrain | Northern Governorate"
+    },
+    {
+        "en": "Manama",
+        "en:t": "Bahrain | Capital Governorate",
+        "a": true,
+        "g": {
+            "lat": 26.2285,
+            "lon": 50.586
+        },
+        "it": "Manama",
+        "it:t": "Bahrein | Governatorato della Capitale",
+        "es": "Manama",
+        "es:t": "Bar\u00e9in | Capital",
+        "de": "Manamah",
+        "de:t": "Bahrain | Hauptstadt-Gouvernement"
+    },
+    {
+        "en": "Muharraq",
+        "en:t": "Bahrain | Muharraq Governorate",
+        "a": true,
+        "g": {
+            "lat": 26.2651,
+            "lon": 50.6223
+        },
+        "it": "Al Muharraq",
+        "it:t": "Bahrein | Governatorato di Muharraq",
+        "es": "Al Muharraq",
+        "es:t": "Bar\u00e9in | Muharraq",
+        "de": "al-Muharraq",
+        "de:t": "Bahrain | Gouvernement Muharraq"
+    },
+    {
+        "en": "Riffa",
+        "en:t": "Bahrain | Southern Governorate",
+        "a": true,
+        "g": {
+            "lat": 26.1336,
+            "lon": 50.5379
+        },
+        "it": "Riffa",
+        "it:t": "Bahrein | Governatorato Meridionale",
+        "es": "Riffa",
+        "es:t": "Bar\u00e9in | Sur",
+        "de": "Riffa",
+        "de:t": "Bahrain | Southern Governorate"
+    }
+]

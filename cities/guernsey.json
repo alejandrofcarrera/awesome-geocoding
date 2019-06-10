@@ -1,0 +1,17 @@
+[
+    {
+        "en": "Saint Peter Port",
+        "en:t": "Guernsey",
+        "a": true,
+        "g": {
+            "lat": 49.4542,
+            "lon": -2.5497
+        },
+        "it": "Saint Peter Port",
+        "it:t": "Guernsey",
+        "es": "St. Peter Port",
+        "es:t": "Guernsey",
+        "de": "Saint Peter Port",
+        "de:t": "Guernsey"
+    }
+]

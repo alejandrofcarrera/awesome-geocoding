@@ -1,0 +1,62 @@
+[
+    {
+        "en": "Bandar Seri Begawan",
+        "en:t": "Brunei | Brunei-Muara District",
+        "a": true,
+        "g": {
+            "lat": 4.9031,
+            "lon": 114.9398
+        },
+        "it": "Bandar Seri Begawan",
+        "it:t": "Brunei | Distretto di Brunei-Muara",
+        "es": "Bandar Seri Begawan",
+        "es:t": "Brun\u00e9i | Brunei y Muara",
+        "de": "Bandar Seri Begawan",
+        "de:t": "Brunei Darussalam | Brunei-Muara"
+    },
+    {
+        "en": "Kuala Belait",
+        "en:t": "Brunei",
+        "a": true,
+        "g": {
+            "lat": 4.5832,
+            "lon": 114.2212
+        },
+        "it": "Kuala Belait",
+        "it:t": "Brunei",
+        "es": "Kaula Belait",
+        "es:t": "Brun\u00e9i | Kuala Belait",
+        "de": "Kuala Belait",
+        "de:t": "Brunei Darussalam"
+    },
+    {
+        "en": "Seria",
+        "en:t": "Brunei",
+        "a": true,
+        "g": {
+            "lat": 4.6101,
+            "lon": 114.3312
+        },
+        "it": "Seria",
+        "it:t": "Brunei",
+        "es": "Seria",
+        "es:t": "Brun\u00e9i",
+        "de": "Seria",
+        "de:t": "Brunei Darussalam"
+    },
+    {
+        "en": "Tutong",
+        "en:t": "Brunei | Pekan Tutong",
+        "a": true,
+        "g": {
+            "lat": 4.8141,
+            "lon": 114.6609
+        },
+        "it": "Tutong",
+        "it:t": "Brunei | Mukim di Pekan Tutong",
+        "es": "Tutong",
+        "es:t": "Brun\u00e9i | Pekan Tutong",
+        "de": "Tutong",
+        "de:t": "Brunei Darussalam | Pekan Tutong"
+    }
+]

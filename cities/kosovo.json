@@ -1,0 +1,302 @@
+[
+    {
+        "en": "Besian\u00eb",
+        "en:t": "Kosovo",
+        "a": true,
+        "g": {
+            "lat": 42.9108,
+            "lon": 21.1956
+        },
+        "it": "Besian\u00eb",
+        "it:t": "Kosovo",
+        "es": "Besian\u00eb",
+        "es:t": "Kosovo",
+        "de": "Besian\u00eb",
+        "de:t": "Kosovo"
+    },
+    {
+        "en": "Desan",
+        "en:t": "Kosovo",
+        "a": true,
+        "g": {
+            "lat": 42.5403,
+            "lon": 20.2883
+        },
+        "it": "Komuna e De\u00e7anit",
+        "it:t": "Kosovo",
+        "es": "Komuna e De\u00e7anit",
+        "es:t": "Kosovo",
+        "de": "Komuna e De\u00e7anit",
+        "de:t": "Kosovo"
+    },
+    {
+        "en": "Dragash",
+        "en:t": "Kosovo",
+        "a": true,
+        "g": {
+            "lat": 42.0615,
+            "lon": 20.6512
+        },
+        "it": "Draga\u0161",
+        "it:t": "Kosovo",
+        "es": "Dragash",
+        "es:t": "Kosovo",
+        "de": "Dragash",
+        "de:t": "Kosovo"
+    },
+    {
+        "en": "Gjakova",
+        "en:t": "Kosovo",
+        "a": true,
+        "g": {
+            "lat": 42.3844,
+            "lon": 20.4285
+        },
+        "it": "\u0110akovica",
+        "it:t": "Kosovo",
+        "es": "\u0110akovica",
+        "es:t": "Kosovo",
+        "de": "Gjakova",
+        "de:t": "Kosovo"
+    },
+    {
+        "en": "Gjilan",
+        "en:t": "Kosovo",
+        "a": true,
+        "g": {
+            "lat": 42.4635,
+            "lon": 21.4694
+        },
+        "it": "Gjilan",
+        "it:t": "Kosovo",
+        "es": "Gnjilane",
+        "es:t": "Kosovo",
+        "de": "Gilan",
+        "de:t": "Kosovo"
+    },
+    {
+        "en": "Glogovac",
+        "en:t": "Kosovo",
+        "a": true,
+        "g": {
+            "lat": 42.6211,
+            "lon": 20.8905
+        },
+        "it": "Glogovac",
+        "it:t": "Kosovo",
+        "es": "Glogovac",
+        "es:t": "Kosovo",
+        "de": "Glogovac",
+        "de:t": "Kosovo"
+    },
+    {
+        "en": "Istog",
+        "en:t": "Kosovo",
+        "a": true,
+        "g": {
+            "lat": 42.782,
+            "lon": 20.4911
+        },
+        "it": "Istog",
+        "it:t": "Kosovo",
+        "es": "Istog",
+        "es:t": "Kosovo",
+        "de": "Istog",
+        "de:t": "Kosovo"
+    },
+    {
+        "en": "Kosovo Polje",
+        "en:t": "Kosovo",
+        "a": true,
+        "g": {
+            "lat": 42.6374,
+            "lon": 21.0931
+        },
+        "it": "Kosovo Polje",
+        "it:t": "Kosovo",
+        "es": "Kosovo Polje",
+        "es:t": "Kosovo",
+        "de": "Fush\u00eb Kosova",
+        "de:t": "Kosovo"
+    },
+    {
+        "en": "Leposaviq",
+        "en:t": "Kosovo",
+        "a": true,
+        "g": {
+            "lat": 43.1016,
+            "lon": 20.8011
+        },
+        "it": "Leposaviq",
+        "it:t": "Kosovo",
+        "es": "Leposaviq",
+        "es:t": "Kosovo",
+        "de": "Leposaviq",
+        "de:t": "Kosovo"
+    },
+    {
+        "en": "Mitrovica",
+        "en:t": "Kosovo",
+        "a": true,
+        "g": {
+            "lat": 42.8914,
+            "lon": 20.866
+        },
+        "it": "Kosovska Mitrovica",
+        "it:t": "Kosovo",
+        "es": "Kosovska Mitrovica",
+        "es:t": "Kosovo",
+        "de": "Mitrovica",
+        "de:t": "Kosovo"
+    },
+    {
+        "en": "Pe\u0107",
+        "en:t": "Kosovo",
+        "a": true,
+        "g": {
+            "lat": 42.6592,
+            "lon": 20.2888
+        },
+        "it": "Pej\u00eb",
+        "it:t": "Kosovo",
+        "es": "Pe\u0107",
+        "es:t": "Kosovo",
+        "de": "Peja",
+        "de:t": "Kosovo"
+    },
+    {
+        "en": "Prishtina",
+        "en:t": "Kosovo",
+        "a": true,
+        "g": {
+            "lat": 42.6629,
+            "lon": 21.1655
+        },
+        "it": "Pristina",
+        "it:t": "Kosovo",
+        "es": "Pristina",
+        "es:t": "Kosovo",
+        "de": "Pri\u0161tina",
+        "de:t": "Kosovo"
+    },
+    {
+        "en": "Prizren",
+        "en:t": "Kosovo",
+        "a": true,
+        "g": {
+            "lat": 42.2153,
+            "lon": 20.7415
+        },
+        "it": "Prizren",
+        "it:t": "Kosovo",
+        "es": "Prizren",
+        "es:t": "Kosovo",
+        "de": "Prizren",
+        "de:t": "Kosovo"
+    },
+    {
+        "en": "Rahovec",
+        "en:t": "Kosovo",
+        "a": true,
+        "g": {
+            "lat": 42.3998,
+            "lon": 20.6528
+        },
+        "it": "Rahovec",
+        "it:t": "Kosovo",
+        "es": "Rahovec",
+        "es:t": "Kosovo",
+        "de": "Rahovec",
+        "de:t": "Kosovo"
+    },
+    {
+        "en": "Shtime",
+        "en:t": "Kosovo",
+        "a": true,
+        "g": {
+            "lat": 42.4329,
+            "lon": 21.0401
+        },
+        "it": "Shtime",
+        "it:t": "Kosovo",
+        "es": "Shtime",
+        "es:t": "Kosovo",
+        "de": "Shtime",
+        "de:t": "Kosovo"
+    },
+    {
+        "en": "Suva Reka",
+        "en:t": "Kosovo",
+        "a": true,
+        "g": {
+            "lat": 42.3625,
+            "lon": 20.8319
+        },
+        "it": "Suva Reka",
+        "it:t": "Kosovo",
+        "es": "Suva Reka",
+        "es:t": "Kosovo",
+        "de": "Suhareka",
+        "de:t": "Kosovo"
+    },
+    {
+        "en": "Uroshevac",
+        "en:t": "Kosovo",
+        "a": true,
+        "g": {
+            "lat": 42.3702,
+            "lon": 21.1483
+        },
+        "it": "Ferizaj",
+        "it:t": "Kosovo",
+        "es": "Ferizaj",
+        "es:t": "Kosovo",
+        "de": "Ferizaj",
+        "de:t": "Kosovo"
+    },
+    {
+        "en": "Viti",
+        "en:t": "Kosovo",
+        "a": true,
+        "g": {
+            "lat": 42.3222,
+            "lon": 21.359
+        },
+        "it": "Viti",
+        "it:t": "Kosovo",
+        "es": "Vitina",
+        "es:t": "Kosovo",
+        "de": "Viti",
+        "de:t": "Kosovo"
+    },
+    {
+        "en": "Vu\u010ditrn",
+        "en:t": "Kosovo",
+        "a": true,
+        "g": {
+            "lat": 42.8267,
+            "lon": 20.9704
+        },
+        "it": "Vu\u010ditrn",
+        "it:t": "Kosovo",
+        "es": "Vu\u010ditrn",
+        "es:t": "Kosovo",
+        "de": "Vushtrria",
+        "de:t": "Kosovo"
+    },
+    {
+        "en": "Zve\u00e7an",
+        "en:t": "Kosovo",
+        "a": true,
+        "g": {
+            "lat": 42.9108,
+            "lon": 20.8386
+        },
+        "it": "Zve\u00e7an",
+        "it:t": "Kosovo",
+        "es": "Zve\u00e7an",
+        "es:t": "Kosovo",
+        "de": "Zve\u010dan",
+        "de:t": "Kosovo"
+    }
+]

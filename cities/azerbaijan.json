@@ -1,0 +1,452 @@
+[
+    {
+        "en": "Aghdash",
+        "en:t": "Azerbaijan | Agdash",
+        "a": true,
+        "g": {
+            "lat": 40.6335,
+            "lon": 47.4674
+        },
+        "it": "A\u011fda\u015f",
+        "it:t": "Azerbaigian | Distretto di A\u011fda\u015f",
+        "es": "A\u011fda\u015f",
+        "es:t": "Azerbaiy\u00e1n | Rai\u00f3n de A\u011fda\u015f",
+        "de": "A\u011fda\u015f",
+        "de:t": "Aserbaidschan"
+    },
+    {
+        "en": "Agjabedi",
+        "en:t": "Azerbaijan | Agjabadi",
+        "a": true,
+        "g": {
+            "lat": 40.053,
+            "lon": 47.4554
+        },
+        "it": "Distretto di A\u011fcab\u0259di",
+        "it:t": "Azerbaigian | Agjabadi",
+        "es": "A\u011fcab\u0259di",
+        "es:t": "Azerbaiy\u00e1n",
+        "de": "A\u011fcab\u0259di",
+        "de:t": "Aserbaidschan"
+    },
+    {
+        "en": "Agsu",
+        "en:t": "Azerbaijan",
+        "a": true,
+        "g": {
+            "lat": 40.5742,
+            "lon": 48.3896
+        },
+        "it": "A\u011fsu",
+        "it:t": "Azerbaigian | Distretto di A\u011fsu",
+        "es": "A\u011fsu",
+        "es:t": "Azerbaiy\u00e1n | Rai\u00f3n de A\u011fsu",
+        "de": "Agsu",
+        "de:t": "Aserbaidschan"
+    },
+    {
+        "en": "Amirjan",
+        "en:t": "Azerbaijan | Surakhani",
+        "a": true,
+        "g": {
+            "lat": 40.4267,
+            "lon": 49.9872
+        },
+        "it": "\u018fmircan",
+        "it:t": "Azerbaigian | Surakhani",
+        "es": "Amirjan",
+        "es:t": "Azerbaiy\u00e1n | Surakhani",
+        "de": "Amirjan",
+        "de:t": "Aserbaidschan | Surakhani"
+    },
+    {
+        "en": "Bakikhanov",
+        "en:t": "Azerbaijan | Sabunchu",
+        "a": true,
+        "g": {
+            "lat": 40.425,
+            "lon": 49.9503
+        },
+        "it": "Bakikhanov",
+        "it:t": "Azerbaigian | Sabunchu",
+        "es": "Bakikhanov",
+        "es:t": "Azerbaiy\u00e1n | Sabunchu",
+        "de": "Bak\u0131xanov",
+        "de:t": "Aserbaidschan | Sabun\u00e7u"
+    },
+    {
+        "en": "Baku",
+        "en:t": "Azerbaijan",
+        "a": true,
+        "g": {
+            "lat": 40.4093,
+            "lon": 49.8671
+        },
+        "it": "Baku",
+        "it:t": "Azerbaigian | Governatorato di Baku",
+        "es": "Bak\u00fa",
+        "es:t": "Azerbaiy\u00e1n",
+        "de": "Baku",
+        "de:t": "Aserbaidschan"
+    },
+    {
+        "en": "Barda",
+        "en:t": "Azerbaijan",
+        "a": true,
+        "g": {
+            "lat": 40.3179,
+            "lon": 47.1772
+        },
+        "it": "B\u0259rd\u0259",
+        "it:t": "Azerbaigian | Distretto di B\u0259rd\u0259",
+        "es": "Rai\u00f3n de B\u0259rd\u0259",
+        "es:t": "Azerbaiy\u00e1n",
+        "de": "B\u0259rd\u0259",
+        "de:t": "Aserbaidschan"
+    },
+    {
+        "en": "Bilajari",
+        "en:t": "Azerbaijan | Binagadi",
+        "a": true,
+        "g": {
+            "lat": 40.4385,
+            "lon": 49.8051
+        },
+        "it": "Bilajari",
+        "it:t": "Azerbaigian | Binagadi",
+        "es": "Bilajari",
+        "es:t": "Azerbaiy\u00e1n | Binagadi",
+        "de": "Bilajari",
+        "de:t": "Aserbaidschan | Binagadi"
+    },
+    {
+        "en": "Bina",
+        "en:t": "Azerbaijan | Baku",
+        "a": true,
+        "g": {
+            "lat": 40.4577,
+            "lon": 50.1008
+        },
+        "it": "Bina",
+        "it:t": "Azerbaigian | Baku",
+        "es": "Bina",
+        "es:t": "Azerbaiy\u00e1n | Baku",
+        "de": "Bina",
+        "de:t": "Aserbaidschan | Baku"
+    },
+    {
+        "en": "Buzovna",
+        "en:t": "Azerbaijan | Baku",
+        "a": true,
+        "g": {
+            "lat": 40.5152,
+            "lon": 50.097
+        },
+        "it": "Buzovna",
+        "it:t": "Azerbaigian | Baku",
+        "es": "Buzovna",
+        "es:t": "Azerbaiy\u00e1n | Baku",
+        "de": "Buzovna",
+        "de:t": "Aserbaidschan | Baku"
+    },
+    {
+        "en": "Ganja",
+        "en:t": "Azerbaijan",
+        "a": true,
+        "g": {
+            "lat": 40.6879,
+            "lon": 46.3723
+        },
+        "it": "Ganja",
+        "it:t": "Azerbaigian",
+        "es": "Ganja",
+        "es:t": "Azerbaiy\u00e1n",
+        "de": "Ganja",
+        "de:t": "Aserbaidschan"
+    },
+    {
+        "en": "Gazakh",
+        "en:t": "Azerbaijan",
+        "a": true,
+        "g": {
+            "lat": 41.0971,
+            "lon": 45.3516
+        },
+        "it": "Distretto di Qazax",
+        "it:t": "Azerbaigian",
+        "es": "Qazax",
+        "es:t": "Azerbaiy\u00e1n | Rai\u00f3n de Qazax",
+        "de": "Qazax",
+        "de:t": "Aserbaidschan"
+    },
+    {
+        "en": "Goychay",
+        "en:t": "Azerbaijan",
+        "a": true,
+        "g": {
+            "lat": 40.6236,
+            "lon": 47.7403
+        },
+        "it": "G\u00f6y\u00e7ay",
+        "it:t": "Azerbaigian | Goychay",
+        "es": "G\u00f6y\u00e7ay",
+        "es:t": "Azerbaiy\u00e1n | Goychay",
+        "de": "G\u00f6y\u00e7ay",
+        "de:t": "Aserbaidschan | Goychay"
+    },
+    {
+        "en": "Hajigabul",
+        "en:t": "Azerbaijan | Hajiqabul",
+        "a": true,
+        "g": {
+            "lat": 40.0394,
+            "lon": 48.9203
+        },
+        "it": "Hac\u0131qabul",
+        "it:t": "Azerbaigian | Distretto di Hac\u0131qabul",
+        "es": "Qaz\u0131mammad",
+        "es:t": "Azerbaiy\u00e1n | Rai\u00f3n de Hac\u0131qabul",
+        "de": "Hajigabul",
+        "de:t": "Aserbaidschan | Hajiqabul"
+    },
+    {
+        "en": "Hovsan",
+        "en:t": "Azerbaijan | Baku",
+        "a": true,
+        "g": {
+            "lat": 40.3803,
+            "lon": 50.0918
+        },
+        "it": "Hovsan",
+        "it:t": "Azerbaigian | Baku",
+        "es": "Hovsan",
+        "es:t": "Azerbaiy\u00e1n | Baku",
+        "de": "Howsan",
+        "de:t": "Aserbaidschan | Baku"
+    },
+    {
+        "en": "Khirdalan",
+        "en:t": "Azerbaijan | Baku",
+        "a": true,
+        "g": {
+            "lat": 40.4529,
+            "lon": 49.7333
+        },
+        "it": "X\u0131rdalan",
+        "it:t": "Azerbaigian | Governatorato di Baku",
+        "es": "Xirdalan",
+        "es:t": "Azerbaiy\u00e1n | Bak\u00fa",
+        "de": "Khirdalan",
+        "de:t": "Aserbaidschan | Baku"
+    },
+    {
+        "en": "Kurdamir",
+        "en:t": "Azerbaijan",
+        "a": true,
+        "g": {
+            "lat": 40.3699,
+            "lon": 48.1645
+        },
+        "it": "K\u00fcrd\u0259mir",
+        "it:t": "Azerbaigian | Distretto di K\u00fcrd\u0259mir",
+        "es": "K\u00fcrd\u0259mir",
+        "es:t": "Azerbaiy\u00e1n | Rai\u00f3n de K\u00fcrd\u0259mir",
+        "de": "K\u00fcrd\u0259mir",
+        "de:t": "Aserbaidschan"
+    },
+    {
+        "en": "Lokbatan",
+        "en:t": "Azerbaijan | Baku",
+        "a": true,
+        "g": {
+            "lat": 40.3282,
+            "lon": 49.7356
+        },
+        "it": "Lokbatan",
+        "it:t": "Azerbaigian | Baku",
+        "es": "Lokbatan",
+        "es:t": "Azerbaiy\u00e1n | Baku",
+        "de": "L\u00f6kbatan",
+        "de:t": "Aserbaidschan | Baku"
+    },
+    {
+        "en": "Mardakan",
+        "en:t": "Azerbaijan | Baku",
+        "a": true,
+        "g": {
+            "lat": 40.4811,
+            "lon": 50.1454
+        },
+        "it": "M\u0259rd\u0259kan yolu",
+        "it:t": "Azerbaigian | Bak\u0131",
+        "es": "Mardakan",
+        "es:t": "Azerbaiy\u00e1n | Baku",
+        "de": "M\u0259rd\u0259kan",
+        "de:t": "Aserbaidschan | Baku"
+    },
+    {
+        "en": "Mashtaga",
+        "en:t": "Azerbaijan | Baku",
+        "a": true,
+        "g": {
+            "lat": 40.533,
+            "lon": 50.0036
+        },
+        "it": "Mashtaga",
+        "it:t": "Azerbaigian | Baku",
+        "es": "Mashtaga",
+        "es:t": "Azerbaiy\u00e1n | Baku",
+        "de": "Mashtaga",
+        "de:t": "Aserbaidschan | Baku"
+    },
+    {
+        "en": "Quba",
+        "en:t": "Azerbaijan",
+        "a": true,
+        "g": {
+            "lat": 41.3643,
+            "lon": 48.5261
+        },
+        "it": "Quba",
+        "it:t": "Azerbaigian | Distretto di Quba",
+        "es": "Quba",
+        "es:t": "Azerbaiy\u00e1n | Rai\u00f3n de Quba",
+        "de": "Quba",
+        "de:t": "Aserbaidschan"
+    },
+    {
+        "en": "Qusar",
+        "en:t": "Azerbaijan",
+        "a": true,
+        "g": {
+            "lat": 41.4267,
+            "lon": 48.4346
+        },
+        "it": "Qusar",
+        "it:t": "Azerbaigian | Distretto di Qusar",
+        "es": "Qusar",
+        "es:t": "Azerbaiy\u00e1n | Rai\u00f3n de Qusar",
+        "de": "Qusar",
+        "de:t": "Aserbaidschan"
+    },
+    {
+        "en": "Sabirabad",
+        "en:t": "Azerbaijan",
+        "a": true,
+        "g": {
+            "lat": 39.9871,
+            "lon": 48.4693
+        },
+        "it": "Sabirabad",
+        "it:t": "Azerbaigian | Distretto di Sabirabad",
+        "es": "Sabirabad",
+        "es:t": "Azerbaiy\u00e1n",
+        "de": "Sabirabad",
+        "de:t": "Aserbaidschan"
+    },
+    {
+        "en": "Sabunchu",
+        "en:t": "Azerbaijan | Baku",
+        "a": true,
+        "g": {
+            "lat": 40.452,
+            "lon": 49.9324
+        },
+        "it": "Sabunchu",
+        "it:t": "Azerbaigian | Baku",
+        "es": "Sabunchu",
+        "es:t": "Azerbaiy\u00e1n | Baku",
+        "de": "Sabun\u00e7u",
+        "de:t": "Aserbaidschan | Baku"
+    },
+    {
+        "en": "Shabran",
+        "en:t": "Azerbaijan",
+        "a": true,
+        "g": {
+            "lat": 41.216,
+            "lon": 48.9946
+        },
+        "it": "\u015eabran",
+        "it:t": "Azerbaigian | Distretto di \u015eabran",
+        "es": "\u015eabran",
+        "es:t": "Azerbaiy\u00e1n",
+        "de": "\u015eabran",
+        "de:t": "Aserbaidschan"
+    },
+    {
+        "en": "Shamakhi",
+        "en:t": "Azerbaijan",
+        "a": true,
+        "g": {
+            "lat": 40.6319,
+            "lon": 48.6364
+        },
+        "it": "\u015eamax\u0131",
+        "it:t": "Azerbaigian | Distretto di \u015eamax\u0131",
+        "es": "\u015eamax\u0131",
+        "es:t": "Azerbaiy\u00e1n | Rai\u00f3n de \u015eamax\u0131",
+        "de": "\u015eamax\u0131",
+        "de:t": "Aserbaidschan"
+    },
+    {
+        "en": "Shamkir",
+        "en:t": "Azerbaijan",
+        "a": true,
+        "g": {
+            "lat": 40.8288,
+            "lon": 46.0167
+        },
+        "it": "\u015e\u0259mkir",
+        "it:t": "Azerbaigian | Distretto di \u015e\u0259mkir",
+        "es": "\u015e\u0259mkir",
+        "es:t": "Azerbaiy\u00e1n",
+        "de": "\u015e\u0259mkir",
+        "de:t": "Aserbaidschan"
+    },
+    {
+        "en": "Sheki",
+        "en:t": "Azerbaijan | Shaki District",
+        "a": true,
+        "g": {
+            "lat": 41.1975,
+            "lon": 47.1571
+        },
+        "it": "\u015e\u0259ki",
+        "it:t": "Azerbaigian | Distretto di \u015e\u0259ki",
+        "es": "\u015e\u0259ki",
+        "es:t": "Azerbaiy\u00e1n",
+        "de": "\u015e\u0259ki",
+        "de:t": "Aserbaidschan"
+    },
+    {
+        "en": "Sumqayit",
+        "en:t": "Azerbaijan",
+        "a": true,
+        "g": {
+            "lat": 40.5855,
+            "lon": 49.6317
+        },
+        "it": "Sumqay\u0131t",
+        "it:t": "Azerbaigian | Sumqayit",
+        "es": "Sumqayit",
+        "es:t": "Azerbaiy\u00e1n",
+        "de": "Hac\u0131 Zeynalabdin Ta\u011f\u0131yev",
+        "de:t": "Aserbaidschan | X\u0131rdalan"
+    },
+    {
+        "en": "Yeni Surakhani",
+        "en:t": "Azerbaijan | Surakhani",
+        "a": true,
+        "g": {
+            "lat": 40.4304,
+            "lon": 50.0348
+        },
+        "it": "Yeni Surakhani",
+        "it:t": "Azerbaigian | Surakhani",
+        "es": "Yeni Surakhani",
+        "es:t": "Azerbaiy\u00e1n | Surakhani",
+        "de": "Yeni Surakhani",
+        "de:t": "Aserbaidschan | Surakhani"
+    }
+]

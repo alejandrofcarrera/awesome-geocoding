@@ -1,0 +1,962 @@
+[
+    {
+        "en": "Abu Ghraib",
+        "en:t": "Iraq",
+        "a": true,
+        "g": {
+            "lat": 33.2976,
+            "lon": 44.0818
+        },
+        "it": "Abu Ghraib",
+        "it:t": "Iraq",
+        "es": "Bagdad",
+        "es:t": "Irak",
+        "de": "Abu Ghuraib",
+        "de:t": "Irak"
+    },
+    {
+        "en": "Afak",
+        "en:t": "Iraq | Afaq",
+        "a": true,
+        "g": {
+            "lat": 32.0607,
+            "lon": 45.2384
+        },
+        "it": "Afak",
+        "it:t": "Iraq | Afaq",
+        "es": "Afak",
+        "es:t": "Irak | Afaq",
+        "de": "Afak",
+        "de:t": "Irak | Afaq"
+    },
+    {
+        "en": "Akre",
+        "en:t": "Iraq",
+        "a": true,
+        "g": {
+            "lat": 36.7411,
+            "lon": 43.8808
+        },
+        "it": "Aqrah",
+        "it:t": "Iraq",
+        "es": "Aqrah",
+        "es:t": "Irak",
+        "de": "Akr\u00ea",
+        "de:t": "Irak"
+    },
+    {
+        "en": "Al Basrah Al Qadimah",
+        "en:t": "Iraq",
+        "a": true,
+        "g": {
+            "lat": 30.5063,
+            "lon": 47.8205
+        },
+        "it": "Al Basrah Al Qadimah",
+        "it:t": "Iraq",
+        "es": "Al Basrah Al Qadimah",
+        "es:t": "Irak",
+        "de": "Al Basrah Al Qadimah",
+        "de:t": "Irak"
+    },
+    {
+        "en": "Al-Fallujah",
+        "en:t": "Iraq | Fallujah",
+        "a": true,
+        "g": {
+            "lat": 33.3444,
+            "lon": 43.7813
+        },
+        "it": "Falluja",
+        "it:t": "Iraq | Fallujah",
+        "es": "Faluya",
+        "es:t": "Irak | Fallujah",
+        "de": "Falludscha",
+        "de:t": "Irak | Fallujah"
+    },
+    {
+        "en": "Al-Faw",
+        "en:t": "Iraq | Al Faw",
+        "a": true,
+        "g": {
+            "lat": 29.9812,
+            "lon": 48.4676
+        },
+        "it": "Al-Faw",
+        "it:t": "Iraq | Al Faw",
+        "es": "Al-Fao",
+        "es:t": "Irak | Al Faw",
+        "de": "Faw",
+        "de:t": "Irak | Al Faw"
+    },
+    {
+        "en": "Al-Fuhud",
+        "en:t": "Iraq | Suq Al-Shoyokh",
+        "a": true,
+        "g": {
+            "lat": 30.9724,
+            "lon": 46.7237
+        },
+        "it": "Al-Fuhud",
+        "it:t": "Iraq | Suq Al-Shoyokh",
+        "es": "Al-Fuhud",
+        "es:t": "Irak | Suq Al-Shoyokh",
+        "de": "Al-Fuhud",
+        "de:t": "Irak | Suq Al-Shoyokh"
+    },
+    {
+        "en": "Al-Hartha",
+        "en:t": "Iraq | Shatt Al-Arab",
+        "a": true,
+        "g": {
+            "lat": 30.6931,
+            "lon": 47.7391
+        },
+        "it": "Al-Hartha",
+        "it:t": "Iraq | Shatt Al-Arab",
+        "es": "Al-Hartha",
+        "es:t": "Irak | Shatt Al-Arab",
+        "de": "Al-Hartha",
+        "de:t": "Irak | Shatt Al-Arab"
+    },
+    {
+        "en": "Al-Hay",
+        "en:t": "Iraq | Al-Hayy",
+        "a": true,
+        "g": {
+            "lat": 32.1684,
+            "lon": 46.042
+        },
+        "it": "Al-Hay",
+        "it:t": "Iraq | Al-Hayy",
+        "es": "Al-Hay",
+        "es:t": "Irak | Al-Hayy",
+        "de": "Al-Hay",
+        "de:t": "Irak | Al-Hayy"
+    },
+    {
+        "en": "Ali Al Gharbi",
+        "en:t": "Iraq | Ali Al-Gharbi",
+        "a": true,
+        "g": {
+            "lat": 32.4534,
+            "lon": 46.6818
+        },
+        "it": "Ali Al Gharbi",
+        "it:t": "Iraq | Ali Al-Gharbi",
+        "es": "Ali Al Gharbi",
+        "es:t": "Irak | Ali Al-Gharbi",
+        "de": "Ali Al Gharbi",
+        "de:t": "Irak | Ali Al-Gharbi"
+    },
+    {
+        "en": "Amarah",
+        "en:t": "Iraq",
+        "a": true,
+        "g": {
+            "lat": 31.8496,
+            "lon": 47.146
+        },
+        "it": "Al-'Amara",
+        "it:t": "Iraq",
+        "es": "Amara",
+        "es:t": "Irak",
+        "de": "Amara",
+        "de:t": "Irak"
+    },
+    {
+        "en": "Ash Shinafiyah",
+        "en:t": "Iraq | Al-Shamiya",
+        "a": true,
+        "g": {
+            "lat": 31.5761,
+            "lon": 44.6374
+        },
+        "it": "Ash Shinafiyah",
+        "it:t": "Iraq | Al-Shamiya",
+        "es": "Ash Shinafiyah",
+        "es:t": "Irak | Al-Shamiya",
+        "de": "Ash Shinafiyah",
+        "de:t": "Irak | Al-Shamiya"
+    },
+    {
+        "en": "Azadi panorama",
+        "en:t": "Iraq | Duhok",
+        "a": true,
+        "g": {
+            "lat": 36.8632,
+            "lon": 42.9885
+        },
+        "it": "Dahuk",
+        "it:t": "Iraq | Dahuk",
+        "es": "Duhok",
+        "es:t": "Irak | Duhok",
+        "de": "Dohuk",
+        "de:t": "Irak | Dahuk"
+    },
+    {
+        "en": "Aziziyah",
+        "en:t": "Iraq | Al-Suwaira",
+        "a": true,
+        "g": {
+            "lat": 32.9107,
+            "lon": 45.063
+        },
+        "it": "Aziziyah",
+        "it:t": "Iraq | Al-Suwaira",
+        "es": "Aziziyah",
+        "es:t": "Irak | Al-Suwaira",
+        "de": "Aziziyah",
+        "de:t": "Irak | Al-Suwaira"
+    },
+    {
+        "en": "Baghdad",
+        "en:t": "Iraq",
+        "a": true,
+        "g": {
+            "lat": 33.3152,
+            "lon": 44.3661
+        },
+        "it": "Bagdad",
+        "it:t": "Iraq",
+        "es": "Bagdad",
+        "es:t": "Irak",
+        "de": "Bagdad",
+        "de:t": "Irak"
+    },
+    {
+        "en": "Baiji",
+        "en:t": "Iraq",
+        "a": true,
+        "g": {
+            "lat": 35.018,
+            "lon": 43.4452
+        },
+        "it": "Baiji",
+        "it:t": "Iraq",
+        "es": "Baiji",
+        "es:t": "Irak",
+        "de": "Baiji",
+        "de:t": "Irak"
+    },
+    {
+        "en": "Bakhdida",
+        "en:t": "Iraq | Al-Hamdaniya",
+        "a": true,
+        "g": {
+            "lat": 36.2742,
+            "lon": 43.3774
+        },
+        "it": "Bakhdida",
+        "it:t": "Iraq | Al-Hamdaniya",
+        "es": "Bajdida",
+        "es:t": "Irak | Al-Hamdaniya",
+        "de": "Bakhdida",
+        "de:t": "Irak | Al-Hamdaniya"
+    },
+    {
+        "en": "Balad",
+        "en:t": "Iraq",
+        "a": true,
+        "g": {
+            "lat": 34.0076,
+            "lon": 44.1483
+        },
+        "it": "Balad",
+        "it:t": "Iraq",
+        "es": "Balad",
+        "es:t": "Irak",
+        "de": "Balad",
+        "de:t": "Irak"
+    },
+    {
+        "en": "Baqubah",
+        "en:t": "Iraq",
+        "a": true,
+        "g": {
+            "lat": 33.7596,
+            "lon": 44.6067
+        },
+        "it": "Ba'quba",
+        "it:t": "Iraq",
+        "es": "Baquba",
+        "es:t": "Irak",
+        "de": "Baquba",
+        "de:t": "Irak"
+    },
+    {
+        "en": "Basrah",
+        "en:t": "Iraq",
+        "a": true,
+        "g": {
+            "lat": 30.5258,
+            "lon": 47.7738
+        },
+        "it": "Bassora",
+        "it:t": "Iraq",
+        "es": "Basora",
+        "es:t": "Irak",
+        "de": "Basra",
+        "de:t": "Irak"
+    },
+    {
+        "en": "Chamchamal",
+        "en:t": "Iraq",
+        "a": true,
+        "g": {
+            "lat": 35.5292,
+            "lon": 44.8217
+        },
+        "it": "Chamchamal",
+        "it:t": "Iraq",
+        "es": "Chamchamal",
+        "es:t": "Irak",
+        "de": "Dschamdscham\u0101l",
+        "de:t": "Irak"
+    },
+    {
+        "en": "Dejail",
+        "en:t": "Iraq | Al Faris",
+        "a": true,
+        "g": {
+            "lat": 33.8348,
+            "lon": 44.2526
+        },
+        "it": "Dujail",
+        "it:t": "Iraq | Al Faris",
+        "es": "Dejail",
+        "es:t": "Irak | Al Faris",
+        "de": "Dudschail",
+        "de:t": "Irak | Al Faris"
+    },
+    {
+        "en": "Diwaniyah",
+        "en:t": "Iraq",
+        "a": true,
+        "g": {
+            "lat": 31.9641,
+            "lon": 44.9067
+        },
+        "it": "Al-Diwaniyya",
+        "it:t": "Iraq",
+        "es": "Diwaniya",
+        "es:t": "Irak",
+        "de": "Diwaniyya",
+        "de:t": "Irak"
+    },
+    {
+        "en": "Erbil",
+        "en:t": "Iraq",
+        "a": true,
+        "g": {
+            "lat": 36.1901,
+            "lon": 43.993
+        },
+        "it": "Arbil",
+        "it:t": "Iraq",
+        "es": "Erbil",
+        "es:t": "Irak",
+        "de": "Erbil",
+        "de:t": "Irak"
+    },
+    {
+        "en": "Gammas",
+        "en:t": "Iraq | Al-Shamiya",
+        "a": true,
+        "g": {
+            "lat": 31.7361,
+            "lon": 44.6114
+        },
+        "it": "Gammas",
+        "it:t": "Iraq | Al-Shamiya",
+        "es": "Gammas",
+        "es:t": "Irak | Al-Shamiya",
+        "de": "Gammas",
+        "de:t": "Irak | Al-Shamiya"
+    },
+    {
+        "en": "Haditha",
+        "en:t": "Iraq",
+        "a": true,
+        "g": {
+            "lat": 34.1252,
+            "lon": 42.3742
+        },
+        "it": "Haditha",
+        "it:t": "Iraq",
+        "es": "Haditha",
+        "es:t": "Irak",
+        "de": "Haditha",
+        "de:t": "Irak"
+    },
+    {
+        "en": "Halabja",
+        "en:t": "Iraq",
+        "a": true,
+        "g": {
+            "lat": 35.1655,
+            "lon": 45.9896
+        },
+        "it": "Halabja",
+        "it:t": "Iraq",
+        "es": "Halabja",
+        "es:t": "Irak",
+        "de": "Halabdscha",
+        "de:t": "Irak"
+    },
+    {
+        "en": "Hillah",
+        "en:t": "Iraq",
+        "a": true,
+        "g": {
+            "lat": 32.4736,
+            "lon": 44.4252
+        },
+        "it": "al-Hilla",
+        "it:t": "Iraq",
+        "es": "Hilla",
+        "es:t": "Irak",
+        "de": "Hilla",
+        "de:t": "Irak"
+    },
+    {
+        "en": "Hindiyah",
+        "en:t": "Iraq | Al-Hindiya",
+        "a": true,
+        "g": {
+            "lat": 32.5389,
+            "lon": 44.2218
+        },
+        "it": "Hindiyya",
+        "it:t": "Iraq | Al-Hindiya",
+        "es": "Hindiyah",
+        "es:t": "Irak | Al-Hindiya",
+        "de": "Hindiya",
+        "de:t": "Irak | Al-Hindiya"
+    },
+    {
+        "en": "Hit",
+        "en:t": "Iraq | Heet",
+        "a": true,
+        "g": {
+            "lat": 33.6435,
+            "lon": 42.8254
+        },
+        "it": "H\u012bt",
+        "it:t": "Iraq | Heet",
+        "es": "Hit",
+        "es:t": "Irak | Heet",
+        "de": "H\u012bt",
+        "de:t": "Irak | Heet"
+    },
+    {
+        "en": "Imam Qasim",
+        "en:t": "Iraq | Kirkuk",
+        "a": true,
+        "g": {
+            "lat": 35.4756,
+            "lon": 44.4017
+        },
+        "it": "Imam Qasim",
+        "it:t": "Iraq | Kirkuk",
+        "es": "Babilonia",
+        "es:t": "Irak",
+        "de": "Imam Qasim",
+        "de:t": "Irak | Kirkuk"
+    },
+    {
+        "en": "Karbala",
+        "en:t": "Iraq",
+        "a": true,
+        "g": {
+            "lat": 32.6027,
+            "lon": 44.0197
+        },
+        "it": "Kerbala",
+        "it:t": "Iraq",
+        "es": "Kerbala",
+        "es:t": "Irak",
+        "de": "Karbala",
+        "de:t": "Irak"
+    },
+    {
+        "en": "Khalis",
+        "en:t": "Iraq | Baqubah",
+        "a": true,
+        "g": {
+            "lat": 33.843,
+            "lon": 44.5219
+        },
+        "it": "Khalis",
+        "it:t": "Iraq | Baqubah",
+        "es": "Khalis",
+        "es:t": "Irak | Baqubah",
+        "de": "al-Chalis",
+        "de:t": "Irak | Baqubah"
+    },
+    {
+        "en": "Kifri",
+        "en:t": "Iraq",
+        "a": true,
+        "g": {
+            "lat": 34.6887,
+            "lon": 44.958
+        },
+        "it": "Kifri",
+        "it:t": "Iraq",
+        "es": "Kifri",
+        "es:t": "Irak",
+        "de": "Kifri",
+        "de:t": "Irak"
+    },
+    {
+        "en": "Kirkuk",
+        "en:t": "Iraq",
+        "a": true,
+        "g": {
+            "lat": 35.4666,
+            "lon": 44.3799
+        },
+        "it": "Kirkuk",
+        "it:t": "Iraq",
+        "es": "Kirkuk",
+        "es:t": "Irak",
+        "de": "Kirkuk",
+        "de:t": "Irak"
+    },
+    {
+        "en": "Koysinjaq",
+        "en:t": "Iraq | Koysenjaq",
+        "a": true,
+        "g": {
+            "lat": 36.0751,
+            "lon": 44.6199
+        },
+        "it": "Koy Sanjaq",
+        "it:t": "Iraq | Koysenjaq",
+        "es": "Koy Sanjaq",
+        "es:t": "Irak | Koysenjaq",
+        "de": "Koi Sanjaq",
+        "de:t": "Irak | Koysenjaq"
+    },
+    {
+        "en": "Kufa",
+        "en:t": "Iraq",
+        "a": true,
+        "g": {
+            "lat": 32.0472,
+            "lon": 44.3709
+        },
+        "it": "Kufa",
+        "it:t": "Iraq",
+        "es": "Kufa",
+        "es:t": "Irak",
+        "de": "Kufa",
+        "de:t": "Irak"
+    },
+    {
+        "en": "Kut",
+        "en:t": "Iraq",
+        "a": true,
+        "g": {
+            "lat": 32.5168,
+            "lon": 45.847
+        },
+        "it": "al-Kut",
+        "it:t": "Iraq",
+        "es": "Kut",
+        "es:t": "Irak",
+        "de": "Kut",
+        "de:t": "Irak"
+    },
+    {
+        "en": "Mandali",
+        "en:t": "Iraq | Baladrooz",
+        "a": true,
+        "g": {
+            "lat": 33.7478,
+            "lon": 45.5523
+        },
+        "it": "Mandali",
+        "it:t": "Iraq | Baladrooz",
+        "es": "Mandali",
+        "es:t": "Irak | Baladrooz",
+        "de": "Mandali",
+        "de:t": "Irak | Baladrooz"
+    },
+    {
+        "en": "Miqdadiyah",
+        "en:t": "Iraq | Muqdadiyah",
+        "a": true,
+        "g": {
+            "lat": 33.9486,
+            "lon": 44.916
+        },
+        "it": "Miqdadiyah",
+        "it:t": "Iraq | Muqdadiyah",
+        "es": "Miqdadiyah",
+        "es:t": "Irak | Muqdadiyah",
+        "de": "al-Muqdadiyya",
+        "de:t": "Irak | Muqdadiyah"
+    },
+    {
+        "en": "Mishkhab",
+        "en:t": "Iraq | Al-Mishikhab",
+        "a": true,
+        "g": {
+            "lat": 31.7896,
+            "lon": 44.4916
+        },
+        "it": "Mishkhab",
+        "it:t": "Iraq | Al-Mishikhab",
+        "es": "Mishkhab",
+        "es:t": "Irak | Al-Mishikhab",
+        "de": "Mishkhab",
+        "de:t": "Irak | Al-Mishikhab"
+    },
+    {
+        "en": "Mosul",
+        "en:t": "Iraq | Nineveh",
+        "a": true,
+        "g": {
+            "lat": 36.3489,
+            "lon": 43.1577
+        },
+        "it": "Mossul",
+        "it:t": "Iraq | Ninawa",
+        "es": "Mosul",
+        "es:t": "Irak | Ninaua",
+        "de": "Mossul",
+        "de:t": "Irak | Ninawa"
+    },
+    {
+        "en": "Musayib",
+        "en:t": "Iraq",
+        "a": true,
+        "g": {
+            "lat": 32.7649,
+            "lon": 44.2811
+        },
+        "it": "Musayyib",
+        "it:t": "Iraq",
+        "es": "Musayib",
+        "es:t": "Irak",
+        "de": "Musayib",
+        "de:t": "Irak"
+    },
+    {
+        "en": "Najaf",
+        "en:t": "Iraq",
+        "a": true,
+        "g": {
+            "lat": 32.0107,
+            "lon": 44.3265
+        },
+        "it": "Najaf",
+        "it:t": "Iraq",
+        "es": "Nayaf",
+        "es:t": "Irak",
+        "de": "Nadschaf",
+        "de:t": "Irak"
+    },
+    {
+        "en": "Nasiriyah",
+        "en:t": "Iraq | Nassriya",
+        "a": true,
+        "g": {
+            "lat": 31.051,
+            "lon": 46.2569
+        },
+        "it": "Nassiria",
+        "it:t": "Iraq | Nassriya",
+        "es": "Nasiriya",
+        "es:t": "Irak | Nassriya",
+        "de": "Nasiriya",
+        "de:t": "Irak | Nassriya"
+    },
+    {
+        "en": "Penjwen",
+        "en:t": "Iraq",
+        "a": true,
+        "g": {
+            "lat": 35.6239,
+            "lon": 45.9491
+        },
+        "it": "Penjwen",
+        "it:t": "Iraq",
+        "es": "Penjwen",
+        "es:t": "Irak",
+        "de": "Penjwin",
+        "de:t": "Irak"
+    },
+    {
+        "en": "Ramadi",
+        "en:t": "Iraq",
+        "a": true,
+        "g": {
+            "lat": 33.4353,
+            "lon": 43.2812
+        },
+        "it": "Ramadi",
+        "it:t": "Iraq",
+        "es": "Ramadi",
+        "es:t": "Irak",
+        "de": "Ramadi",
+        "de:t": "Irak"
+    },
+    {
+        "en": "Rawa",
+        "en:t": "Iraq | Ana",
+        "a": true,
+        "g": {
+            "lat": 34.4789,
+            "lon": 41.9147
+        },
+        "it": "Rawa",
+        "it:t": "Iraq | Ana",
+        "es": "Rawa",
+        "es:t": "Irak | Ana",
+        "de": "Rawa",
+        "de:t": "Irak | Ana"
+    },
+    {
+        "en": "Rawanduz",
+        "en:t": "Iraq | Soran",
+        "a": true,
+        "g": {
+            "lat": 36.6085,
+            "lon": 44.5239
+        },
+        "it": "Rawanduz",
+        "it:t": "Iraq | Soran",
+        "es": "Rawandiz",
+        "es:t": "Irak | Soran",
+        "de": "Rawanduz",
+        "de:t": "Irak | Soran"
+    },
+    {
+        "en": "Rumaythah",
+        "en:t": "Iraq | Al-Rumaitha",
+        "a": true,
+        "g": {
+            "lat": 31.5255,
+            "lon": 45.2009
+        },
+        "it": "Rumaythah",
+        "it:t": "Iraq | Al-Rumaitha",
+        "es": "Rumaythah",
+        "es:t": "Irak | Al-Rumaitha",
+        "de": "Rumaythah",
+        "de:t": "Irak | Al-Rumaitha"
+    },
+    {
+        "en": "Rutba",
+        "en:t": "Iraq",
+        "a": true,
+        "g": {
+            "lat": 33.0364,
+            "lon": 40.2833
+        },
+        "it": "Rutba",
+        "it:t": "Iraq",
+        "es": "Ar Rutba",
+        "es:t": "Irak",
+        "de": "Ar-Rutba",
+        "de:t": "Irak"
+    },
+    {
+        "en": "Saddat Al-Hindiyah",
+        "en:t": "Iraq | Musayyib",
+        "a": true,
+        "g": {
+            "lat": 32.7104,
+            "lon": 44.2811
+        },
+        "it": "Diga di Hindiya",
+        "it:t": "Iraq | Musayyib",
+        "es": "Saddat Al-Hindiyah",
+        "es:t": "Irak | Musayyib",
+        "de": "Hindiyya-Kanal",
+        "de:t": "Irak | Musayyib"
+    },
+    {
+        "en": "Samarra",
+        "en:t": "Iraq",
+        "a": true,
+        "g": {
+            "lat": 34.166,
+            "lon": 43.9055
+        },
+        "it": "Samarra",
+        "it:t": "Iraq",
+        "es": "Samarra",
+        "es:t": "Irak",
+        "de": "Samarra",
+        "de:t": "Irak"
+    },
+    {
+        "en": "Samawah",
+        "en:t": "Iraq | Al-Samawa",
+        "a": true,
+        "g": {
+            "lat": 31.3188,
+            "lon": 45.2806
+        },
+        "it": "Samawa",
+        "it:t": "Iraq | Al-Samawa",
+        "es": "Samawah",
+        "es:t": "Irak | Al-Samawa",
+        "de": "Samawa",
+        "de:t": "Irak | Al-Samawa"
+    },
+    {
+        "en": "Shamiyah",
+        "en:t": "Iraq | Al-Shamiya",
+        "a": true,
+        "g": {
+            "lat": 31.9623,
+            "lon": 44.5996
+        },
+        "it": "Shamiyah",
+        "it:t": "Iraq | Al-Shamiya",
+        "es": "Shamiyah",
+        "es:t": "Irak | Al-Shamiya",
+        "de": "Shamiyah",
+        "de:t": "Irak | Al-Shamiya"
+    },
+    {
+        "en": "Shatrah",
+        "en:t": "Iraq | Al-Shatra",
+        "a": true,
+        "g": {
+            "lat": 31.4084,
+            "lon": 46.1757
+        },
+        "it": "Al-Shatrah",
+        "it:t": "Iraq | Al-Shatra",
+        "es": "Shatrah",
+        "es:t": "Irak | Al-Shatra",
+        "de": "asch-Schatra",
+        "de:t": "Irak | Al-Shatra"
+    },
+    {
+        "en": "Sinjar",
+        "en:t": "Iraq",
+        "a": true,
+        "g": {
+            "lat": 36.3142,
+            "lon": 41.8624
+        },
+        "it": "Sinjar",
+        "it:t": "Iraq",
+        "es": "Sinyar",
+        "es:t": "Irak",
+        "de": "Shingal",
+        "de:t": "Irak"
+    },
+    {
+        "en": "Sulaymaniyah",
+        "en:t": "Iraq",
+        "a": true,
+        "g": {
+            "lat": 35.557,
+            "lon": 45.4359
+        },
+        "it": "Sulaymaniyya",
+        "it:t": "Iraq",
+        "es": "Suleimaniya",
+        "es:t": "Irak",
+        "de": "Sulaimaniyya",
+        "de:t": "Irak"
+    },
+    {
+        "en": "Suwayrah",
+        "en:t": "Iraq | Al-Suwaira",
+        "a": true,
+        "g": {
+            "lat": 32.9253,
+            "lon": 44.771
+        },
+        "it": "Suwayrah",
+        "it:t": "Iraq | Al-Suwaira",
+        "es": "Suwayrah",
+        "es:t": "Irak | Al-Suwaira",
+        "de": "Suwayrah",
+        "de:t": "Irak | Al-Suwaira"
+    },
+    {
+        "en": "Tall Kayf",
+        "en:t": "Iraq | Tel Kaif",
+        "a": true,
+        "g": {
+            "lat": 36.4908,
+            "lon": 43.12
+        },
+        "it": "Tall Kayf",
+        "it:t": "Iraq | Tel Kaif",
+        "es": "Tall Kayf",
+        "es:t": "Irak | Tel Kaif",
+        "de": "Tel Keppe",
+        "de:t": "Irak | Tel Kaif"
+    },
+    {
+        "en": "Tikrit",
+        "en:t": "Iraq",
+        "a": true,
+        "g": {
+            "lat": 34.599,
+            "lon": 43.675
+        },
+        "it": "Tikrit",
+        "it:t": "Iraq",
+        "es": "Tikrit",
+        "es:t": "Irak",
+        "de": "Tikrit",
+        "de:t": "Irak"
+    },
+    {
+        "en": "Um Qasr",
+        "en:t": "Iraq | Al-Zubair",
+        "a": true,
+        "g": {
+            "lat": 30.0398,
+            "lon": 47.9268
+        },
+        "it": "Umm Qasr",
+        "it:t": "Iraq | az-Zubayr",
+        "es": "Um Kasar",
+        "es:t": "Irak | Al-Zubair",
+        "de": "Umm Qasr",
+        "de:t": "Irak | Al-Zubair"
+    },
+    {
+        "en": "Zakho",
+        "en:t": "Iraq",
+        "a": true,
+        "g": {
+            "lat": 37.1505,
+            "lon": 42.6727
+        },
+        "it": "Zakho",
+        "it:t": "Iraq",
+        "es": "Zakho",
+        "es:t": "Irak",
+        "de": "Zaxo",
+        "de:t": "Irak"
+    },
+    {
+        "en": "Zubayr",
+        "en:t": "Iraq | Basrah",
+        "a": true,
+        "g": {
+            "lat": 30.3769,
+            "lon": 47.7145
+        },
+        "it": "Az-Zubayr",
+        "it:t": "Iraq | Basrah",
+        "es": "Az Zubayr",
+        "es:t": "Irak | Basrah",
+        "de": "Zubair",
+        "de:t": "Irak | Basrah"
+    }
+]

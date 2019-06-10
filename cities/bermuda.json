@@ -1,0 +1,17 @@
+[
+    {
+        "en": "Hamilton",
+        "en:t": "Bermuda | Pembroke Parish",
+        "a": true,
+        "g": {
+            "lat": 32.2946,
+            "lon": -64.7859
+        },
+        "it": "Hamilton",
+        "it:t": "Bermuda | Pembroke Parish",
+        "es": "Hamilton",
+        "es:t": "Bermudas | Parroquia de Pembroke",
+        "de": "Hamilton",
+        "de:t": "Bermuda | Pembroke Parish"
+    }
+]

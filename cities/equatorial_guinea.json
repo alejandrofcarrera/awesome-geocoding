@@ -1,0 +1,47 @@
+[
+    {
+        "en": "Bata",
+        "en:t": "Equatorial Guinea",
+        "a": true,
+        "g": {
+            "lat": 1.8533,
+            "lon": 9.779
+        },
+        "it": "Bata",
+        "it:t": "Guinea Equatoriale",
+        "es": "Bata",
+        "es:t": "Guinea Ecuatorial",
+        "de": "Bata",
+        "de:t": "\u00c4quatorialguinea"
+    },
+    {
+        "en": "Ebebiyin",
+        "en:t": "Equatorial Guinea | Ntem",
+        "a": true,
+        "g": {
+            "lat": 2.1514,
+            "lon": 11.3318
+        },
+        "it": "Ebebiyin",
+        "it:t": "Guinea Equatoriale | Kie-Ntem",
+        "es": "Ebebiyin",
+        "es:t": "Guinea Ecuatorial | Kie-Ntem",
+        "de": "Ebebiyin",
+        "de:t": "\u00c4quatorialguinea | Kie-Ntem"
+    },
+    {
+        "en": "Malabo",
+        "en:t": "Equatorial Guinea",
+        "a": true,
+        "g": {
+            "lat": 3.755,
+            "lon": 8.7821
+        },
+        "it": "Malabo",
+        "it:t": "Guinea Equatoriale",
+        "es": "Malabo",
+        "es:t": "Guinea Ecuatorial",
+        "de": "Malabo",
+        "de:t": "\u00c4quatorialguinea"
+    }
+]

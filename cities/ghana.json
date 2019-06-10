@@ -1,0 +1,857 @@
+[
+    {
+        "en": "Aburi",
+        "en:t": "Ghana | Akuapim South",
+        "a": true,
+        "g": {
+            "lat": 5.8512,
+            "lon": -0.1729
+        },
+        "it": "Aburi",
+        "it:t": "Ghana | Akuapim South",
+        "es": "Aburi",
+        "es:t": "Ghana | Akwapim Sur",
+        "de": "Aburi",
+        "de:t": "Ghana | Akuapim South"
+    },
+    {
+        "en": "Accra",
+        "en:t": "Ghana | Accra Metropolis",
+        "a": true,
+        "g": {
+            "lat": 5.6037,
+            "lon": -0.187
+        },
+        "it": "Accra",
+        "it:t": "Ghana | Metropoli di Accra",
+        "es": "Acra",
+        "es:t": "Ghana | Accra Metropolis",
+        "de": "Accra",
+        "de:t": "Ghana | Accra Metropolis"
+    },
+    {
+        "en": "Accra",
+        "en:t": "Ghana | Kpeshie",
+        "a": true,
+        "g": {
+            "lat": 5.6031,
+            "lon": -0.0799
+        },
+        "it": "Cactus Street",
+        "it:t": "Ghana | Kpeshie",
+        "es": "Cactus Street",
+        "es:t": "Ghana | Kpeshie",
+        "de": "Cactus Street",
+        "de:t": "Ghana | Kpeshie"
+    },
+    {
+        "en": "Achiaman",
+        "en:t": "Ghana | Ga West",
+        "a": true,
+        "g": {
+            "lat": 5.6957,
+            "lon": -0.3301
+        },
+        "it": "Achiaman",
+        "it:t": "Ghana | Ga West",
+        "es": "Achiaman",
+        "es:t": "Ghana | Ga West",
+        "de": "Achiaman",
+        "de:t": "Ghana | Ga West"
+    },
+    {
+        "en": "Agogo",
+        "en:t": "Ghana | Asante Akim North",
+        "a": true,
+        "g": {
+            "lat": 6.7991,
+            "lon": -1.085
+        },
+        "it": "Agogo",
+        "it:t": "Ghana | Asante Akim Nord",
+        "es": "Agogo",
+        "es:t": "Ghana | Asante Akim North",
+        "de": "Agogo",
+        "de:t": "Ghana | Asante Akim North"
+    },
+    {
+        "en": "Agona Swedru",
+        "en:t": "Ghana | Agona",
+        "a": true,
+        "g": {
+            "lat": 5.5298,
+            "lon": -0.7058
+        },
+        "it": "Agona Swedru",
+        "it:t": "Ghana | Agona",
+        "es": "Agona Swedru",
+        "es:t": "Ghana | Agona",
+        "de": "Agona Swedru",
+        "de:t": "Ghana | Agona"
+    },
+    {
+        "en": "Akim Oda",
+        "en:t": "Ghana | Birim Central",
+        "a": true,
+        "g": {
+            "lat": 5.9296,
+            "lon": -0.9725
+        },
+        "it": "Akim Oda",
+        "it:t": "Ghana | Birim Central",
+        "es": "Akim Oda",
+        "es:t": "Ghana | Birim Central",
+        "de": "Akim Oda",
+        "de:t": "Ghana | Birim Central"
+    },
+    {
+        "en": "Anloga",
+        "en:t": "Ghana | Keta",
+        "a": true,
+        "g": {
+            "lat": 5.7872,
+            "lon": 0.8914
+        },
+        "it": "Anloga",
+        "it:t": "Ghana | Keta",
+        "es": "Anloga",
+        "es:t": "Ghana | Keta",
+        "de": "Anloga",
+        "de:t": "Ghana | Keta"
+    },
+    {
+        "en": "Apam",
+        "en:t": "Ghana | Gomoa",
+        "a": true,
+        "g": {
+            "lat": 5.2941,
+            "lon": -0.739
+        },
+        "it": "Apam",
+        "it:t": "Ghana | Gomoa",
+        "es": "Apam",
+        "es:t": "Ghana | Gomoa",
+        "de": "Apam",
+        "de:t": "Ghana | Gomoa"
+    },
+    {
+        "en": "Asamankese",
+        "en:t": "Ghana | West Akim",
+        "a": true,
+        "g": {
+            "lat": 5.8607,
+            "lon": -0.6677
+        },
+        "it": "Asamankese",
+        "it:t": "Ghana | Akim Ovest",
+        "es": "Asamankese",
+        "es:t": "Ghana | West Akim",
+        "de": "Asamankese",
+        "de:t": "Ghana | West Akim"
+    },
+    {
+        "en": "Axim",
+        "en:t": "Ghana | Nzema East",
+        "a": true,
+        "g": {
+            "lat": 4.8665,
+            "lon": -2.2409
+        },
+        "it": "Axim",
+        "it:t": "Ghana | Nzema East",
+        "es": "Axim",
+        "es:t": "Ghana | Nzema Este",
+        "de": "Axim",
+        "de:t": "Ghana | Nzema East"
+    },
+    {
+        "en": "Bawdua",
+        "en:t": "Ghana | Kwaebibirem",
+        "a": true,
+        "g": {
+            "lat": 6.0356,
+            "lon": -0.8008
+        },
+        "it": "Bawdua",
+        "it:t": "Ghana | Kwaebibirem",
+        "es": "Bawdua",
+        "es:t": "Ghana | Kwaebibirem",
+        "de": "Bawdua",
+        "de:t": "Ghana | Kwaebibirem"
+    },
+    {
+        "en": "Bawku",
+        "en:t": "Ghana | Upper East",
+        "a": true,
+        "g": {
+            "lat": 11.0541,
+            "lon": -0.2385
+        },
+        "it": "Bawku",
+        "it:t": "Ghana | Alta Ghana Nordorientale",
+        "es": "Bawku",
+        "es:t": "Ghana | Alta Ghana Oriental",
+        "de": "Bawku",
+        "de:t": "Ghana | Upper East"
+    },
+    {
+        "en": "Begoro",
+        "en:t": "Ghana | Fanteakwa",
+        "a": true,
+        "g": {
+            "lat": 6.3916,
+            "lon": -0.3795
+        },
+        "it": "Begoro",
+        "it:t": "Ghana | Fanteakwa",
+        "es": "Begoro",
+        "es:t": "Ghana | Fanteakwa",
+        "de": "Begoro",
+        "de:t": "Ghana | Fanteakwa"
+    },
+    {
+        "en": "Berekum",
+        "en:t": "Ghana",
+        "a": true,
+        "g": {
+            "lat": 7.4577,
+            "lon": -2.5842
+        },
+        "it": "Berekum",
+        "it:t": "Ghana",
+        "es": "Berekum",
+        "es:t": "Ghana",
+        "de": "Berekum",
+        "de:t": "Ghana"
+    },
+    {
+        "en": "Bibiani",
+        "en:t": "Ghana | Bibiani/Anhwiaso/Bekwai",
+        "a": true,
+        "g": {
+            "lat": 6.4611,
+            "lon": -2.3172
+        },
+        "it": "Bibiani",
+        "it:t": "Ghana | Bibiani/Anhwiaso/Bekwai",
+        "es": "Bibiani",
+        "es:t": "Ghana | Sefwi Bibiani-Ahwiaso Bekwai",
+        "de": "Bibiani",
+        "de:t": "Ghana | Bibiani/Anhwiaso/Bekwai"
+    },
+    {
+        "en": "Bolgatanga",
+        "en:t": "Ghana | Bolgatanga",
+        "a": true,
+        "g": {
+            "lat": 10.7875,
+            "lon": -0.858
+        },
+        "it": "Bolgatanga",
+        "it:t": "Ghana | Bolgatanga",
+        "es": "Bolgatanga",
+        "es:t": "Ghana | Bolgatanga",
+        "de": "Bolgatanga",
+        "de:t": "Ghana | Bolgatanga"
+    },
+    {
+        "en": "Cape Coast",
+        "en:t": "Ghana | Cape Coast",
+        "a": true,
+        "g": {
+            "lat": 5.1315,
+            "lon": -1.2795
+        },
+        "it": "Cape Coast",
+        "it:t": "Ghana | Cape Coast",
+        "es": "Cape Coast",
+        "es:t": "Ghana | Cape Coast",
+        "de": "Cape Coast",
+        "de:t": "Ghana | Cape Coast"
+    },
+    {
+        "en": "Dome",
+        "en:t": "Ghana | Accra Metropolis",
+        "a": true,
+        "g": {
+            "lat": 5.6563,
+            "lon": -0.2338
+        },
+        "it": "Dome",
+        "it:t": "Ghana | Accra Metropolis",
+        "es": "Dome",
+        "es:t": "Ghana | Accra Metropolis",
+        "de": "Dome",
+        "de:t": "Ghana | Accra Metropolis"
+    },
+    {
+        "en": "Dunkwa-On-Offin",
+        "en:t": "Ghana | Upper Denkyira",
+        "a": true,
+        "g": {
+            "lat": 5.9698,
+            "lon": -1.7831
+        },
+        "it": "Dunkwa-On-Offin",
+        "it:t": "Ghana | Upper Denkyira",
+        "es": "Dunkwa-on-Offin",
+        "es:t": "Ghana | Upper Denkyira",
+        "de": "Dunkwa-On-Offin",
+        "de:t": "Ghana | Upper Denkyira"
+    },
+    {
+        "en": "Ejura",
+        "en:t": "Ghana",
+        "a": true,
+        "g": {
+            "lat": 7.3847,
+            "lon": -1.359
+        },
+        "it": "Ejura",
+        "it:t": "Ghana",
+        "es": "Ejura",
+        "es:t": "Ghana",
+        "de": "Ejura",
+        "de:t": "Ghana"
+    },
+    {
+        "en": "Elmina",
+        "en:t": "Ghana | Komenda",
+        "a": true,
+        "g": {
+            "lat": 5.1053,
+            "lon": -1.3421
+        },
+        "it": "Elmina",
+        "it:t": "Ghana | Komenda",
+        "es": "Elmina",
+        "es:t": "Ghana | Komenda",
+        "de": "Elmina",
+        "de:t": "Ghana | Komenda"
+    },
+    {
+        "en": "Foso",
+        "en:t": "Ghana | Assin North",
+        "a": true,
+        "g": {
+            "lat": 5.7022,
+            "lon": -1.2843
+        },
+        "it": "Foso",
+        "it:t": "Ghana | Assin North",
+        "es": "Assin Fosu",
+        "es:t": "Ghana | Assin Norte",
+        "de": "Foso",
+        "de:t": "Ghana | Assin North"
+    },
+    {
+        "en": "Gbawe",
+        "en:t": "Ghana | Ga West",
+        "a": true,
+        "g": {
+            "lat": 5.5774,
+            "lon": -0.3137
+        },
+        "it": "Gbawe",
+        "it:t": "Ghana | Ga Ovest",
+        "es": "Gbawe",
+        "es:t": "Ghana | Ga Oeste",
+        "de": "Gbawe",
+        "de:t": "Ghana | Ga West"
+    },
+    {
+        "en": "Ho",
+        "en:t": "Ghana | Ho",
+        "a": true,
+        "g": {
+            "lat": 6.6101,
+            "lon": 0.4785
+        },
+        "it": "Ho",
+        "it:t": "Ghana | Ho",
+        "es": "Ho",
+        "es:t": "Ghana",
+        "de": "Ho",
+        "de:t": "Ghana | Ho"
+    },
+    {
+        "en": "Hohoe",
+        "en:t": "Ghana",
+        "a": true,
+        "g": {
+            "lat": 7.1519,
+            "lon": 0.4738
+        },
+        "it": "Hohoe",
+        "it:t": "Ghana",
+        "es": "Hohoe",
+        "es:t": "Ghana",
+        "de": "Hohoe",
+        "de:t": "Ghana"
+    },
+    {
+        "en": "Kasoa",
+        "en:t": "Ghana | Awutu",
+        "a": true,
+        "g": {
+            "lat": 5.5344,
+            "lon": -0.4253
+        },
+        "it": "Kasoa",
+        "it:t": "Ghana | Awutu",
+        "es": "Oduponkpehe",
+        "es:t": "Ghana | Effutu",
+        "de": "Oduponkpehe",
+        "de:t": "Ghana | Awutu"
+    },
+    {
+        "en": "Keta",
+        "en:t": "Ghana",
+        "a": true,
+        "g": {
+            "lat": 5.9031,
+            "lon": 0.9868
+        },
+        "it": "Keta",
+        "it:t": "Ghana",
+        "es": "Keta",
+        "es:t": "Ghana",
+        "de": "Keta",
+        "de:t": "Ghana"
+    },
+    {
+        "en": "Kintampo",
+        "en:t": "Ghana | Kintampo South",
+        "a": true,
+        "g": {
+            "lat": 8.0593,
+            "lon": -1.7296
+        },
+        "it": "Kintampo",
+        "it:t": "Ghana | Kintampo Sud",
+        "es": "Kintampo",
+        "es:t": "Ghana | Kintampo Sur",
+        "de": "Kintampo-Kultur",
+        "de:t": "Ghana | Kintampo South"
+    },
+    {
+        "en": "Koforidua",
+        "en:t": "Ghana | New-Juaben",
+        "a": true,
+        "g": {
+            "lat": 6.0784,
+            "lon": -0.2714
+        },
+        "it": "Koforidua",
+        "it:t": "Ghana | New-Juaben",
+        "es": "Koforidua",
+        "es:t": "Ghana | New Juaben",
+        "de": "Koforidua",
+        "de:t": "Ghana | New-Juaben"
+    },
+    {
+        "en": "Konongo",
+        "en:t": "Ghana | Asante Akim North",
+        "a": true,
+        "g": {
+            "lat": 6.6249,
+            "lon": -1.2073
+        },
+        "it": "Konongo",
+        "it:t": "Ghana | Asante Akim Nord",
+        "es": "Konongo",
+        "es:t": "Ghana | Asante Akim North",
+        "de": "Konongo",
+        "de:t": "Ghana | Asante Akim North"
+    },
+    {
+        "en": "Kpando",
+        "en:t": "Ghana",
+        "a": true,
+        "g": {
+            "lat": 6.9906,
+            "lon": 0.2949
+        },
+        "it": "Kpando",
+        "it:t": "Ghana",
+        "es": "Kpando",
+        "es:t": "Ghana",
+        "de": "Kpandu",
+        "de:t": "Ghana"
+    },
+    {
+        "en": "Kumasi",
+        "en:t": "Ghana | Kumasi",
+        "a": true,
+        "g": {
+            "lat": 6.6666,
+            "lon": -1.6163
+        },
+        "it": "Kumasi",
+        "it:t": "Ghana | Kumasi",
+        "es": "Kumasi",
+        "es:t": "Ghana | Kumasi",
+        "de": "Kumasi",
+        "de:t": "Ghana | Kumasi"
+    },
+    {
+        "en": "Madina",
+        "en:t": "Ghana | Accra Metropolis",
+        "a": true,
+        "g": {
+            "lat": 5.6731,
+            "lon": -0.1664
+        },
+        "it": "Madina",
+        "it:t": "Ghana | Metropoli di Accra",
+        "es": "Madina",
+        "es:t": "Ghana | Accra Metropolis",
+        "de": "Madina",
+        "de:t": "Ghana | Accra Metropolis"
+    },
+    {
+        "en": "Mampong",
+        "en:t": "Ghana | Sekyere West",
+        "a": true,
+        "g": {
+            "lat": 7.0531,
+            "lon": -1.4
+        },
+        "it": "Mampong",
+        "it:t": "Ghana | Sekyere Ovest",
+        "es": "Mampong",
+        "es:t": "Ghana",
+        "de": "Mampong",
+        "de:t": "Ghana | Sekyere West"
+    },
+    {
+        "en": "Navrongo",
+        "en:t": "Ghana | Kassena Nankana",
+        "a": true,
+        "g": {
+            "lat": 10.894,
+            "lon": -1.0921
+        },
+        "it": "Navrongo",
+        "it:t": "Ghana | Kassena Nankana",
+        "es": "Navrongo",
+        "es:t": "Ghana | Kassena Nankana",
+        "de": "Navrongo",
+        "de:t": "Ghana | Kassena-Nankana"
+    },
+    {
+        "en": "Nkawkaw",
+        "en:t": "Ghana | Kwahu West",
+        "a": true,
+        "g": {
+            "lat": 6.5457,
+            "lon": -0.7628
+        },
+        "it": "Nkawkaw",
+        "it:t": "Ghana | Kwahu Ovest",
+        "es": "Nkawkaw",
+        "es:t": "Ghana | Kwahu Oeste",
+        "de": "Nkawkaw",
+        "de:t": "Ghana | Kwahu West"
+    },
+    {
+        "en": "Nsawam",
+        "en:t": "Ghana | Akuapim South",
+        "a": true,
+        "g": {
+            "lat": 5.8195,
+            "lon": -0.3513
+        },
+        "it": "Nsawam",
+        "it:t": "Ghana | Akuapim South",
+        "es": "Nsawam",
+        "es:t": "Ghana | Akwapim Sur",
+        "de": "Nsawam",
+        "de:t": "Ghana | Akuapim South"
+    },
+    {
+        "en": "Obuasi",
+        "en:t": "Ghana | Adansi North",
+        "a": true,
+        "g": {
+            "lat": 6.2012,
+            "lon": -1.6913
+        },
+        "it": "Obuasi",
+        "it:t": "Ghana | Adansi Nord",
+        "es": "Obuasi",
+        "es:t": "Ghana | Adansi Norte",
+        "de": "Obuasi",
+        "de:t": "Ghana | Adansi North"
+    },
+    {
+        "en": "Prestea",
+        "en:t": "Ghana | Wassa West",
+        "a": true,
+        "g": {
+            "lat": 5.4373,
+            "lon": -2.1401
+        },
+        "it": "Prestea",
+        "it:t": "Ghana | Wassa Ovest",
+        "es": "Prestea",
+        "es:t": "Ghana | Wassa West",
+        "de": "Prestea",
+        "de:t": "Ghana | Wassa West"
+    },
+    {
+        "en": "Salaga",
+        "en:t": "Ghana | East Gonja",
+        "a": true,
+        "g": {
+            "lat": 8.5525,
+            "lon": -0.5187
+        },
+        "it": "Salaga",
+        "it:t": "Ghana | Gonja Est",
+        "es": "Salaga",
+        "es:t": "Ghana | East Gonja",
+        "de": "Salaga",
+        "de:t": "Ghana | East Gonja"
+    },
+    {
+        "en": "Saltpond",
+        "en:t": "Ghana | Mfantsiman",
+        "a": true,
+        "g": {
+            "lat": 5.2023,
+            "lon": -1.0514
+        },
+        "it": "Saltpond",
+        "it:t": "Ghana | Mfantsiman",
+        "es": "Saltpond",
+        "es:t": "Ghana | Mfantsiman",
+        "de": "Saltpond",
+        "de:t": "Ghana | Mfantsiman"
+    },
+    {
+        "en": "Savelugu",
+        "en:t": "Ghana",
+        "a": true,
+        "g": {
+            "lat": 9.6165,
+            "lon": -0.8246
+        },
+        "it": "Savelugu",
+        "it:t": "Ghana",
+        "es": "Savelugu",
+        "es:t": "Ghana",
+        "de": "Savelugu",
+        "de:t": "Ghana"
+    },
+    {
+        "en": "Shama Junction",
+        "en:t": "Ghana | Shama",
+        "a": true,
+        "g": {
+            "lat": 5.0252,
+            "lon": -1.6651
+        },
+        "it": "Shama Junction",
+        "it:t": "Ghana | Shama",
+        "es": "Shama Junction",
+        "es:t": "Ghana | Shama",
+        "de": "Shama Junction",
+        "de:t": "Ghana | Shama"
+    },
+    {
+        "en": "Suhum",
+        "en:t": "Ghana | Suhum/Kraboa/Coaltar",
+        "a": true,
+        "g": {
+            "lat": 6.0413,
+            "lon": -0.455
+        },
+        "it": "Suhum",
+        "it:t": "Ghana | Suhum-Kraboa-Coaltar",
+        "es": "Suhum",
+        "es:t": "Ghana",
+        "de": "Suhum",
+        "de:t": "Ghana | Suhum/Kraboa/Coaltar"
+    },
+    {
+        "en": "Sunyani",
+        "en:t": "Ghana",
+        "a": true,
+        "g": {
+            "lat": 7.3349,
+            "lon": -2.3123
+        },
+        "it": "Sunyani",
+        "it:t": "Ghana | Sunyani",
+        "es": "Sunyani",
+        "es:t": "Ghana",
+        "de": "Sunyani",
+        "de:t": "Ghana | Sunyani"
+    },
+    {
+        "en": "Tafo",
+        "en:t": "Ghana | Kumasi",
+        "a": true,
+        "g": {
+            "lat": 6.7447,
+            "lon": -1.6044
+        },
+        "it": "Tafo",
+        "it:t": "Ghana | Kumasi",
+        "es": "New Tafo",
+        "es:t": "Ghana | Kumasi",
+        "de": "Tafo",
+        "de:t": "Ghana | Kumasi"
+    },
+    {
+        "en": "Takoradi",
+        "en:t": "Ghana | Shama",
+        "a": true,
+        "g": {
+            "lat": 4.9016,
+            "lon": -1.7831
+        },
+        "it": "Sekondi-Takoradi",
+        "it:t": "Ghana | Shama",
+        "es": "Sekondi-Takoradi",
+        "es:t": "Ghana | Shama",
+        "de": "Sekondi-Takoradi",
+        "de:t": "Ghana | Shama"
+    },
+    {
+        "en": "Tamale",
+        "en:t": "Ghana | Tamale",
+        "a": true,
+        "g": {
+            "lat": 9.4034,
+            "lon": -0.8424
+        },
+        "it": "Tamale",
+        "it:t": "Ghana | Tamale",
+        "es": "Tamale",
+        "es:t": "Ghana | Tatale",
+        "de": "Tamale",
+        "de:t": "Ghana | Tamale"
+    },
+    {
+        "en": "Tarkwa",
+        "en:t": "Ghana | Wassa West",
+        "a": true,
+        "g": {
+            "lat": 5.3018,
+            "lon": -1.993
+        },
+        "it": "Tarkwa",
+        "it:t": "Ghana | Wassa Ovest",
+        "es": "Tarkwa",
+        "es:t": "Ghana | Wassa West",
+        "de": "Tarkwa",
+        "de:t": "Ghana | Wassa West"
+    },
+    {
+        "en": "Techiman",
+        "en:t": "Ghana | Techiman",
+        "a": true,
+        "g": {
+            "lat": 7.5909,
+            "lon": -1.9344
+        },
+        "it": "Techiman",
+        "it:t": "Ghana | Techiman",
+        "es": "Techiman",
+        "es:t": "Ghana | Techiman",
+        "de": "Techiman",
+        "de:t": "Ghana | Techiman"
+    },
+    {
+        "en": "Tema",
+        "en:t": "Ghana | Tema",
+        "a": true,
+        "g": {
+            "lat": 5.7348,
+            "lon": 0.0302
+        },
+        "it": "Tema",
+        "it:t": "Ghana | Tema",
+        "es": "Tema",
+        "es:t": "Ghana",
+        "de": "Tema",
+        "de:t": "Ghana | Tema"
+    },
+    {
+        "en": "Teshie",
+        "en:t": "Ghana | Kpeshie",
+        "a": true,
+        "g": {
+            "lat": 5.5832,
+            "lon": -0.1046
+        },
+        "it": "Teshie",
+        "it:t": "Ghana | Kpeshie",
+        "es": "Teshie",
+        "es:t": "Ghana | Kpeshie",
+        "de": "Teshie",
+        "de:t": "Ghana | Kpeshie"
+    },
+    {
+        "en": "Wa",
+        "en:t": "Ghana | Wa",
+        "a": true,
+        "g": {
+            "lat": 10.0601,
+            "lon": -2.5099
+        },
+        "it": "Wa",
+        "it:t": "Ghana | Wa",
+        "es": "Wa",
+        "es:t": "Ghana",
+        "de": "Wa",
+        "de:t": "Ghana | Wa"
+    },
+    {
+        "en": "Wenchi",
+        "en:t": "Ghana",
+        "a": true,
+        "g": {
+            "lat": 7.742,
+            "lon": -2.1008
+        },
+        "it": "Wenchi",
+        "it:t": "Ghana",
+        "es": "Wenchi",
+        "es:t": "Ghana",
+        "de": "Wenchi",
+        "de:t": "Ghana"
+    },
+    {
+        "en": "Winneba",
+        "en:t": "Ghana | Awutu",
+        "a": true,
+        "g": {
+            "lat": 5.3622,
+            "lon": -0.6299
+        },
+        "it": "Winneba",
+        "it:t": "Ghana | Awutu",
+        "es": "Winneba",
+        "es:t": "Ghana | Effutu",
+        "de": "Winneba",
+        "de:t": "Ghana | Awutu"
+    },
+    {
+        "en": "Yendi",
+        "en:t": "Ghana",
+        "a": true,
+        "g": {
+            "lat": 9.445,
+            "lon": -0.0093
+        },
+        "it": "Yendi",
+        "it:t": "Ghana",
+        "es": "Yendi",
+        "es:t": "Ghana",
+        "de": "Yendi",
+        "de:t": "Ghana"
+    }
+]

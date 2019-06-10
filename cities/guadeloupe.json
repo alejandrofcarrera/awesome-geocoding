@@ -1,0 +1,152 @@
+[
+    {
+        "en": "Baie Mahault",
+        "en:t": "Guadeloupe",
+        "a": true,
+        "g": {
+            "lat": 16.2445,
+            "lon": -61.5717
+        },
+        "it": "Baie-Mahault",
+        "it:t": "Guadalupa",
+        "es": "Baie-Mahault",
+        "es:t": "Guadalupe",
+        "de": "Baie-Mahault",
+        "de:t": "Guadeloupe"
+    },
+    {
+        "en": "Basse-Terre Island",
+        "en:t": "Guadeloupe | Basse-Terre",
+        "a": true,
+        "g": {
+            "lat": 16.1296,
+            "lon": -61.6538
+        },
+        "it": "Basse-Terre",
+        "it:t": "Guadalupa | Saint-Claude",
+        "es": "Basse-Terre",
+        "es:t": "Guadalupe | Basse-Terre",
+        "de": "Basse-Terre",
+        "de:t": "Guadeloupe | Basse-Terre"
+    },
+    {
+        "en": "Capesterre Belle Eau",
+        "en:t": "Guadeloupe",
+        "a": true,
+        "g": {
+            "lat": 16.0387,
+            "lon": -61.5778
+        },
+        "it": "Capesterre-Belle-Eau",
+        "it:t": "Guadalupa",
+        "es": "Capesterre-Belle-Eau",
+        "es:t": "Guadalupe",
+        "de": "Capesterre-Belle-Eau",
+        "de:t": "Guadeloupe"
+    },
+    {
+        "en": "Le Gosier",
+        "en:t": "Guadeloupe",
+        "a": true,
+        "g": {
+            "lat": 16.2216,
+            "lon": -61.4786
+        },
+        "it": "Le Gosier",
+        "it:t": "Guadalupa",
+        "es": "Le Gosier",
+        "es:t": "Guadalupe",
+        "de": "Le Gosier",
+        "de:t": "Guadeloupe"
+    },
+    {
+        "en": "Le Moule",
+        "en:t": "Guadeloupe",
+        "a": true,
+        "g": {
+            "lat": 16.3146,
+            "lon": -61.3852
+        },
+        "it": "Le Moule",
+        "it:t": "Guadalupa",
+        "es": "Le Moule",
+        "es:t": "Guadalupe",
+        "de": "Le Moule",
+        "de:t": "Guadeloupe"
+    },
+    {
+        "en": "Les Abymes",
+        "en:t": "Guadeloupe",
+        "a": true,
+        "g": {
+            "lat": 16.2711,
+            "lon": -61.5253
+        },
+        "it": "Les Abymes",
+        "it:t": "Guadalupa",
+        "es": "Les Abymes",
+        "es:t": "Guadalupe",
+        "de": "Les Abymes",
+        "de:t": "Guadeloupe"
+    },
+    {
+        "en": "Petit Bourg",
+        "en:t": "Guadeloupe | Basse-Terre",
+        "a": true,
+        "g": {
+            "lat": 16.1718,
+            "lon": -61.6129
+        },
+        "it": "Petit-Bourg",
+        "it:t": "Guadalupa | Basse-Terre",
+        "es": "Petit-Bourg",
+        "es:t": "Guadalupe | Basse-Terre",
+        "de": "Petit-Bourg",
+        "de:t": "Guadeloupe | Basse-Terre"
+    },
+    {
+        "en": "Pointe-a-Pitre",
+        "en:t": "Guadeloupe | Les Abymes",
+        "a": true,
+        "g": {
+            "lat": 16.2377,
+            "lon": -61.534
+        },
+        "it": "Pointe-\u00e0-Pitre",
+        "it:t": "Guadalupa | Les Abymes",
+        "es": "Pointe-\u00e0-Pitre",
+        "es:t": "Guadalupe | Les Abymes",
+        "de": "Pointe-\u00e0-Pitre",
+        "de:t": "Guadeloupe | Les Abymes"
+    },
+    {
+        "en": "Sainte Rose",
+        "en:t": "Guadeloupe | Basse-Terre",
+        "a": true,
+        "g": {
+            "lat": 16.3309,
+            "lon": -61.6976
+        },
+        "it": "Sainte-Rose",
+        "it:t": "Guadalupa | Basse-Terre",
+        "es": "Sainte-Rose",
+        "es:t": "Guadalupe | Basse-Terre",
+        "de": "Sainte-Rose",
+        "de:t": "Guadeloupe | Basse-Terre"
+    },
+    {
+        "en": "Sainte-Anne",
+        "en:t": "Guadeloupe",
+        "a": true,
+        "g": {
+            "lat": 16.2355,
+            "lon": -61.391
+        },
+        "it": "Sainte-Anne",
+        "it:t": "Guadalupa",
+        "es": "Sainte-Anne",
+        "es:t": "Guadalupe",
+        "de": "Sainte-Anne",
+        "de:t": "Guadeloupe"
+    }
+]

@@ -1,0 +1,272 @@
+[
+    {
+        "en": "Francistown",
+        "en:t": "Botswana",
+        "a": true,
+        "g": {
+            "lat": -21.1661,
+            "lon": 27.5144
+        },
+        "it": "Francistown",
+        "it:t": "Botswana",
+        "es": "Francistown",
+        "es:t": "Botsuana",
+        "de": "Francistown",
+        "de:t": "Botsuana"
+    },
+    {
+        "en": "Gaborone",
+        "en:t": "Botswana",
+        "a": true,
+        "g": {
+            "lat": -24.6282,
+            "lon": 25.9231
+        },
+        "it": "Gaborone",
+        "it:t": "Botswana",
+        "es": "Gaborone",
+        "es:t": "Botsuana",
+        "de": "Gaborone",
+        "de:t": "Botsuana"
+    },
+    {
+        "en": "Janeng",
+        "en:t": "Botswana | Barolong",
+        "a": true,
+        "g": {
+            "lat": -25.4167,
+            "lon": 25.55
+        },
+        "it": "Janeng",
+        "it:t": "Botswana | Barolong",
+        "es": "Janeng",
+        "es:t": "Botsuana | Barolong",
+        "de": "Janeng",
+        "de:t": "Botsuana | Barolong"
+    },
+    {
+        "en": "Kanye",
+        "en:t": "Botswana | Ngwaketse",
+        "a": true,
+        "g": {
+            "lat": -24.9881,
+            "lon": 25.343
+        },
+        "it": "Kanye",
+        "it:t": "Botswana | Ngwaketse",
+        "es": "Kanye",
+        "es:t": "Botsuana | Ngwaketse",
+        "de": "Kanye",
+        "de:t": "Botsuana | Ngwaketse"
+    },
+    {
+        "en": "Kweneng District",
+        "en:t": "Botswana",
+        "a": true,
+        "g": {
+            "lat": -23.8367,
+            "lon": 25.2838
+        },
+        "it": "Distretto di Kweneng",
+        "it:t": "Botswana",
+        "es": "Distrito de Kweneng",
+        "es:t": "Botsuana",
+        "de": "Kweneng District",
+        "de:t": "Botsuana"
+    },
+    {
+        "en": "Letlhakane",
+        "en:t": "Botswana | Orapa",
+        "a": true,
+        "g": {
+            "lat": -21.4096,
+            "lon": 25.5859
+        },
+        "it": "Letlhakane",
+        "it:t": "Botswana | Orapa",
+        "es": "Letlhakane",
+        "es:t": "Botsuana | Orapa",
+        "de": "Letlhakane",
+        "de:t": "Botsuana | Orapa"
+    },
+    {
+        "en": "Lobatse",
+        "en:t": "Botswana",
+        "a": true,
+        "g": {
+            "lat": -25.2076,
+            "lon": 25.6806
+        },
+        "it": "Lobatse",
+        "it:t": "Botswana",
+        "es": "Lobatse",
+        "es:t": "Botsuana",
+        "de": "Lobatse",
+        "de:t": "Botsuana"
+    },
+    {
+        "en": "Mahalapye",
+        "en:t": "Botswana",
+        "a": true,
+        "g": {
+            "lat": -23.1078,
+            "lon": 26.8321
+        },
+        "it": "Mahalapye",
+        "it:t": "Botswana",
+        "es": "Mahalapye",
+        "es:t": "Botsuana",
+        "de": "Mahalapye",
+        "de:t": "Botsuana"
+    },
+    {
+        "en": "Maun",
+        "en:t": "Botswana | Ngamiland East",
+        "a": true,
+        "g": {
+            "lat": -19.9953,
+            "lon": 23.4181
+        },
+        "it": "Maun",
+        "it:t": "Botswana | Ngamiland East",
+        "es": "Maun",
+        "es:t": "Botsuana | Ngamiland East",
+        "de": "Maun",
+        "de:t": "Botsuana | Ngamiland East"
+    },
+    {
+        "en": "Mochudi",
+        "en:t": "Botswana | Kgatleng",
+        "a": true,
+        "g": {
+            "lat": -24.3995,
+            "lon": 26.1478
+        },
+        "it": "Mochudi",
+        "it:t": "Botswana | Kgatleng",
+        "es": "Mochudi",
+        "es:t": "Botsuana | Kgatleng",
+        "de": "Mochudi",
+        "de:t": "Botsuana | Kgatleng"
+    },
+    {
+        "en": "Molepolole",
+        "en:t": "Botswana | Kweneng East",
+        "a": true,
+        "g": {
+            "lat": -24.3966,
+            "lon": 25.497
+        },
+        "it": "Molepolole",
+        "it:t": "Botswana | Kweneng East",
+        "es": "Molepolole",
+        "es:t": "Botsuana | Kweneng East",
+        "de": "Molepolole",
+        "de:t": "Botsuana | Kweneng East"
+    },
+    {
+        "en": "Mosopa",
+        "en:t": "Botswana | Ngwaketse West",
+        "a": true,
+        "g": {
+            "lat": -24.7763,
+            "lon": 25.4141
+        },
+        "it": "Moshupa",
+        "it:t": "Botswana | Ngwaketse West",
+        "es": "Moshupa",
+        "es:t": "Botsuana | Ngwaketse West",
+        "de": "Moshupa",
+        "de:t": "Botsuana | Ngwaketse West"
+    },
+    {
+        "en": "Palapye",
+        "en:t": "Botswana | Serowe",
+        "a": true,
+        "g": {
+            "lat": -22.5515,
+            "lon": 27.1147
+        },
+        "it": "Palapye",
+        "it:t": "Botswana | Serowe",
+        "es": "Palapye",
+        "es:t": "Botsuana | Serowe",
+        "de": "Palapye",
+        "de:t": "Botsuana | Serowe"
+    },
+    {
+        "en": "Ramotswa",
+        "en:t": "Botswana | Gaborone",
+        "a": true,
+        "g": {
+            "lat": -24.8706,
+            "lon": 25.864
+        },
+        "it": "Ramotswa",
+        "it:t": "Botswana | Gaborone",
+        "es": "Ramotswa",
+        "es:t": "Botsuana | Gaborone",
+        "de": "Ramotswa",
+        "de:t": "Botsuana | Gaborone"
+    },
+    {
+        "en": "Selebi Phikwe",
+        "en:t": "Botswana | Selebi-Phikwe",
+        "a": true,
+        "g": {
+            "lat": -22.0029,
+            "lon": 27.8429
+        },
+        "it": "Selebi Pikwe",
+        "it:t": "Botswana | Selebi-Phikwe",
+        "es": "Selebi-Phikwe",
+        "es:t": "Botsuana",
+        "de": "Selibe-Phikwe",
+        "de:t": "Botsuana | Selebi-Phikwe"
+    },
+    {
+        "en": "Serowe",
+        "en:t": "Botswana",
+        "a": true,
+        "g": {
+            "lat": -22.4037,
+            "lon": 26.7143
+        },
+        "it": "Serowe",
+        "it:t": "Botswana",
+        "es": "Serowe",
+        "es:t": "Botsuana",
+        "de": "Serowe",
+        "de:t": "Botsuana"
+    },
+    {
+        "en": "Thamaga",
+        "en:t": "Botswana | Kweneng East",
+        "a": true,
+        "g": {
+            "lat": -24.6664,
+            "lon": 25.5326
+        },
+        "it": "Thamaga",
+        "it:t": "Botswana | Kweneng East",
+        "es": "Thamaga",
+        "es:t": "Botsuana | Kweneng East",
+        "de": "Thamaga",
+        "de:t": "Botsuana | Kweneng East"
+    },
+    {
+        "en": "Tonota",
+        "en:t": "Botswana | Tutume",
+        "a": true,
+        "g": {
+            "lat": -21.4433,
+            "lon": 27.4615
+        },
+        "it": "Tonota",
+        "it:t": "Botswana | Tutume",
+        "es": "Tonota",
+        "es:t": "Botsuana | Tutume",
+        "de": "Tonota",
+        "de:t": "Botsuana | Tutume"
+    }
+]

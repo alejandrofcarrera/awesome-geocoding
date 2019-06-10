@@ -1,0 +1,317 @@
+[
+    {
+        "en": "Banja Luka",
+        "en:t": "Bosnia and Herzegovina | Republika Srpska",
+        "a": true,
+        "g": {
+            "lat": 44.7722,
+            "lon": 17.191
+        },
+        "it": "Banja Luka",
+        "it:t": "Bosnia ed Erzegovina | Repubblica Serba di Bosnia ed Erzegovina",
+        "es": "Bania Luka",
+        "es:t": "Bosnia y Herzegovina | Rep\u00fablica Srpska",
+        "de": "Banja Luka",
+        "de:t": "Bosnien und Herzegowina | Republika Srpska"
+    },
+    {
+        "en": "Biha\u0107",
+        "en:t": "Bosnia and Herzegovina | Una-Sana Canton",
+        "a": true,
+        "g": {
+            "lat": 44.812,
+            "lon": 15.8686
+        },
+        "it": "Biha\u0107",
+        "it:t": "Bosnia ed Erzegovina | Cantone dell'Una-Sana",
+        "es": "Biha\u0107",
+        "es:t": "Bosnia y Herzegovina | Cant\u00f3n de Una-Sana",
+        "de": "Biha\u0107",
+        "de:t": "Bosnien und Herzegowina | Kanton Una-Sana"
+    },
+    {
+        "en": "Bijeljina",
+        "en:t": "Bosnia and Herzegovina | Republika Srpska",
+        "a": true,
+        "g": {
+            "lat": 44.757,
+            "lon": 19.215
+        },
+        "it": "Bijeljina",
+        "it:t": "Bosnia ed Erzegovina | Repubblica Serba di Bosnia ed Erzegovina",
+        "es": "Bijeljina",
+        "es:t": "Bosnia y Herzegovina | Rep\u00fablica Srpska",
+        "de": "Bijeljina",
+        "de:t": "Bosnien und Herzegowina | Republika Srpska"
+    },
+    {
+        "en": "Bosanska Krupa",
+        "en:t": "Bosnia and Herzegovina | Una-Sana Canton",
+        "a": true,
+        "g": {
+            "lat": 44.8807,
+            "lon": 16.1532
+        },
+        "it": "Bosanska Krupa",
+        "it:t": "Bosnia ed Erzegovina | Cantone dell'Una-Sana",
+        "es": "Bosanska Krupa",
+        "es:t": "Bosnia y Herzegovina | Cant\u00f3n de Una-Sana",
+        "de": "Bosanska Krupa",
+        "de:t": "Bosnien und Herzegowina | Kanton Una-Sana"
+    },
+    {
+        "en": "Br\u010dko",
+        "en:t": "Bosnia and Herzegovina | Br\u010dko District",
+        "a": true,
+        "g": {
+            "lat": 44.8727,
+            "lon": 18.8106
+        },
+        "it": "Distretto di Br\u010dko",
+        "it:t": "Bosnia ed Erzegovina",
+        "es": "Distrito de Br\u010dko",
+        "es:t": "Bosnia y Herzegovina",
+        "de": "Distrikt Br\u010dko",
+        "de:t": "Bosnien und Herzegowina | Br\u010dko-Distrikt"
+    },
+    {
+        "en": "Bugojno",
+        "en:t": "Bosnia and Herzegovina | Central Bosnia Canton",
+        "a": true,
+        "g": {
+            "lat": 44.0562,
+            "lon": 17.4498
+        },
+        "it": "Bugojno",
+        "it:t": "Bosnia ed Erzegovina | Cantone della Bosnia Centrale",
+        "es": "Bugojno",
+        "es:t": "Bosnia y Herzegovina | Cant\u00f3n de Bosnia Central",
+        "de": "Bugojno",
+        "de:t": "Bosnien und Herzegowina | Kanton Zentralbosnien"
+    },
+    {
+        "en": "Cazin",
+        "en:t": "Bosnia and Herzegovina | Una-Sana Canton",
+        "a": true,
+        "g": {
+            "lat": 44.969,
+            "lon": 15.9432
+        },
+        "it": "Cazin",
+        "it:t": "Bosnia ed Erzegovina | Cantone dell'Una-Sana",
+        "es": "Cazin",
+        "es:t": "Bosnia y Herzegovina | Cant\u00f3n de Una-Sana",
+        "de": "Cazin",
+        "de:t": "Bosnien und Herzegowina | Kanton Una-Sana"
+    },
+    {
+        "en": "Doboj",
+        "en:t": "Bosnia and Herzegovina | Republika Srpska",
+        "a": true,
+        "g": {
+            "lat": 44.8004,
+            "lon": 18.0603
+        },
+        "it": "Regione di Doboj",
+        "it:t": "Bosnia ed Erzegovina | Repubblica Serba di Bosnia ed Erzegovina",
+        "es": "Regi\u00f3n de Doboj",
+        "es:t": "Bosnia y Herzegovina | Rep\u00fablica Srpska",
+        "de": "Region Doboj",
+        "de:t": "Bosnien und Herzegowina | Republika Srpska"
+    },
+    {
+        "en": "Gora\u017ede",
+        "en:t": "Bosnia and Herzegovina | Bosnian-Podrinje Canton Gora\u017ede",
+        "a": true,
+        "g": {
+            "lat": 43.6685,
+            "lon": 18.9749
+        },
+        "it": "Gora\u017ede",
+        "it:t": "Bosnia ed Erzegovina | Cantone del Podrinje bosniaco",
+        "es": "Gora\u017ede",
+        "es:t": "Bosnia y Herzegovina | Cant\u00f3n de Podrinje Bosnio",
+        "de": "Gora\u017ede",
+        "de:t": "Bosnien und Herzegowina | Kanton Bosnisches Podrinje"
+    },
+    {
+        "en": "Grada\u010dac",
+        "en:t": "Bosnia and Herzegovina | Tuzla Canton",
+        "a": true,
+        "g": {
+            "lat": 44.8776,
+            "lon": 18.4259
+        },
+        "it": "Grada\u010dac",
+        "it:t": "Bosnia ed Erzegovina | Cantone di Tuzla",
+        "es": "Grada\u010dac",
+        "es:t": "Bosnia y Herzegovina | Cant\u00f3n de Tuzla",
+        "de": "Grada\u010dac",
+        "de:t": "Bosnien und Herzegowina | Kanton Tuzla"
+    },
+    {
+        "en": "Gra\u010danica",
+        "en:t": "Bosnia and Herzegovina | Tuzla Canton",
+        "a": true,
+        "g": {
+            "lat": 44.7052,
+            "lon": 18.3104
+        },
+        "it": "Gra\u010danica",
+        "it:t": "Bosnia ed Erzegovina | Cantone di Tuzla",
+        "es": "Gra\u010danica",
+        "es:t": "Bosnia y Herzegovina | Cant\u00f3n de Tuzla",
+        "de": "Gra\u010danica",
+        "de:t": "Bosnien und Herzegowina | Kanton Tuzla"
+    },
+    {
+        "en": "Konjic",
+        "en:t": "Bosnia and Herzegovina | Herzegovina-Neretva Canton",
+        "a": true,
+        "g": {
+            "lat": 43.6536,
+            "lon": 17.959
+        },
+        "it": "Konjic",
+        "it:t": "Bosnia ed Erzegovina | Cantone dell'Erzegovina-Narenta",
+        "es": "Konjic",
+        "es:t": "Bosnia y Herzegovina | Cant\u00f3n de Herzegovina-Neretva",
+        "de": "Konjic",
+        "de:t": "Bosnien und Herzegowina | Kanton Herzegowina-Neretva"
+    },
+    {
+        "en": "Mostar",
+        "en:t": "Bosnia and Herzegovina | Herzegovina-Neretva Canton",
+        "a": true,
+        "g": {
+            "lat": 43.3438,
+            "lon": 17.8078
+        },
+        "it": "Mostar",
+        "it:t": "Bosnia ed Erzegovina | Cantone dell'Erzegovina-Narenta",
+        "es": "Mostar",
+        "es:t": "Bosnia y Herzegovina | Cant\u00f3n de Herzegovina-Neretva",
+        "de": "Mostar",
+        "de:t": "Bosnien und Herzegowina | Kanton Herzegowina-Neretva"
+    },
+    {
+        "en": "Prijedor",
+        "en:t": "Bosnia and Herzegovina | Republika Srpska",
+        "a": true,
+        "g": {
+            "lat": 44.9778,
+            "lon": 16.7061
+        },
+        "it": "Prijedor",
+        "it:t": "Bosnia ed Erzegovina | Repubblica Serba di Bosnia ed Erzegovina",
+        "es": "Prijedor",
+        "es:t": "Bosnia y Herzegovina | Rep\u00fablica Srpska",
+        "de": "Prijedor",
+        "de:t": "Bosnien und Herzegowina | Republika Srpska"
+    },
+    {
+        "en": "Sarajevo",
+        "en:t": "Bosnia and Herzegovina | Sarajevo Canton",
+        "a": true,
+        "g": {
+            "lat": 43.8563,
+            "lon": 18.4131
+        },
+        "it": "Sarajevo",
+        "it:t": "Bosnia ed Erzegovina | Cantone di Sarajevo",
+        "es": "Sarajevo",
+        "es:t": "Bosnia y Herzegovina | Cant\u00f3n de Sarajevo",
+        "de": "Sarajevo",
+        "de:t": "Bosnien und Herzegowina | Kanton Sarajevo"
+    },
+    {
+        "en": "Travnik",
+        "en:t": "Bosnia and Herzegovina | Central Bosnia Canton",
+        "a": true,
+        "g": {
+            "lat": 44.2272,
+            "lon": 17.6567
+        },
+        "it": "Travnik",
+        "it:t": "Bosnia ed Erzegovina | Cantone della Bosnia Centrale",
+        "es": "Travnik",
+        "es:t": "Bosnia y Herzegovina | Cant\u00f3n de Bosnia Central",
+        "de": "Travnik",
+        "de:t": "Bosnien und Herzegowina | Kanton Zentralbosnien"
+    },
+    {
+        "en": "Trebinje",
+        "en:t": "Bosnia and Herzegovina | Republika Srpska",
+        "a": true,
+        "g": {
+            "lat": 42.7082,
+            "lon": 18.3503
+        },
+        "it": "Trebigne",
+        "it:t": "Bosnia ed Erzegovina | Repubblica Serba di Bosnia ed Erzegovina",
+        "es": "Trebinje",
+        "es:t": "Bosnia y Herzegovina | Rep\u00fablica Srpska",
+        "de": "Trebinje",
+        "de:t": "Bosnien und Herzegowina | Republika Srpska"
+    },
+    {
+        "en": "Tuzla",
+        "en:t": "Bosnia and Herzegovina | Tuzla Canton",
+        "a": true,
+        "g": {
+            "lat": 44.5375,
+            "lon": 18.6735
+        },
+        "it": "Tuzla",
+        "it:t": "Bosnia ed Erzegovina | Cantone di Tuzla",
+        "es": "Tuzla",
+        "es:t": "Bosnia y Herzegovina | Cant\u00f3n de Tuzla",
+        "de": "Tuzla",
+        "de:t": "Bosnien und Herzegowina | Kanton Tuzla"
+    },
+    {
+        "en": "Velika Kladu\u0161a",
+        "en:t": "Bosnia and Herzegovina | Una-Sana Canton",
+        "a": true,
+        "g": {
+            "lat": 45.1838,
+            "lon": 15.8065
+        },
+        "it": "Velika Kladu\u0161a",
+        "it:t": "Bosnia ed Erzegovina | Cantone dell'Una-Sana",
+        "es": "Velika Kladu\u0161a",
+        "es:t": "Bosnia y Herzegovina | Cant\u00f3n de Una-Sana",
+        "de": "Velika Kladu\u0161a",
+        "de:t": "Bosnien und Herzegowina | Kanton Una-Sana"
+    },
+    {
+        "en": "Visoko",
+        "en:t": "Bosnia and Herzegovina | Zenica-Doboj Canton",
+        "a": true,
+        "g": {
+            "lat": 43.9888,
+            "lon": 18.1799
+        },
+        "it": "Visoko",
+        "it:t": "Bosnia ed Erzegovina | Cantone di Zenica-Doboj",
+        "es": "Visoko",
+        "es:t": "Bosnia y Herzegovina | Cant\u00f3n de Zenica-Doboj",
+        "de": "Visoko",
+        "de:t": "Bosnien und Herzegowina | Kanton Zenica-Doboj"
+    },
+    {
+        "en": "Zenica",
+        "en:t": "Bosnia and Herzegovina | Zenica-Doboj Canton",
+        "a": true,
+        "g": {
+            "lat": 44.2034,
+            "lon": 17.9077
+        },
+        "it": "Zenica",
+        "it:t": "Bosnia ed Erzegovina | Cantone di Zenica-Doboj",
+        "es": "Zenica",
+        "es:t": "Bosnia y Herzegovina | Cant\u00f3n de Zenica-Doboj",
+        "de": "Zenica",
+        "de:t": "Bosnien und Herzegowina | Kanton Zenica-Doboj"
+    }
+]

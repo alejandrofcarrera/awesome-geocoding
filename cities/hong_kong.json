@@ -1,0 +1,107 @@
+[
+    {
+        "en": "Central And Western",
+        "en:t": "Hong Kong | Hong Kong Island",
+        "a": true,
+        "g": {
+            "lat": 22.273,
+            "lon": 114.1499
+        },
+        "it": "Distretto Centrale e Occidentale",
+        "it:t": "Hong Kong | Hong Kong Island",
+        "es": "Distrito Central y Oeste",
+        "es:t": "Hong Kong | Hong Kong Island",
+        "de": "Central and Western",
+        "de:t": "Hongkong"
+    },
+    {
+        "en": "Kowloon",
+        "en:t": "Hong Kong | Kowloon",
+        "a": true,
+        "g": {
+            "lat": 22.3232,
+            "lon": 114.1856
+        },
+        "it": "Kowloon",
+        "it:t": "Hong Kong | Kowloon",
+        "es": "Kowloon",
+        "es:t": "Hong Kong | Kowloon",
+        "de": "Kowloon",
+        "de:t": "Hongkong | Kowloon"
+    },
+    {
+        "en": "Sha Tin",
+        "en:t": "Hong Kong | New Territories",
+        "a": true,
+        "g": {
+            "lat": 22.3771,
+            "lon": 114.1974
+        },
+        "it": "Sha Tin",
+        "it:t": "Hong Kong | Nuovi Territori",
+        "es": "Sha Tin",
+        "es:t": "Hong Kong | Nuevos Territorios",
+        "de": "Sha Tin",
+        "de:t": "Hongkong | New Territories"
+    },
+    {
+        "en": "Tai Po",
+        "en:t": "Hong Kong | New Territories",
+        "a": true,
+        "g": {
+            "lat": 22.4423,
+            "lon": 114.1655
+        },
+        "it": "Tai Po",
+        "it:t": "Hong Kong | New Territories",
+        "es": "Tai Po",
+        "es:t": "Hong Kong | New Territories",
+        "de": "Tai Po",
+        "de:t": "Hongkong | New Territories"
+    },
+    {
+        "en": "Tsuen Wan",
+        "en:t": "Hong Kong | New Territories",
+        "a": true,
+        "g": {
+            "lat": 22.3699,
+            "lon": 114.1144
+        },
+        "it": "Tsuen Wan",
+        "it:t": "Hong Kong | New Territories",
+        "es": "Tsuen Wan",
+        "es:t": "Hong Kong | Nuevos Territorios",
+        "de": "Tsuen Wan",
+        "de:t": "Hongkong | New Territories"
+    },
+    {
+        "en": "Tuen Mun",
+        "en:t": "Hong Kong | New Territories",
+        "a": true,
+        "g": {
+            "lat": 22.3908,
+            "lon": 113.9725
+        },
+        "it": "Tuen Mun",
+        "it:t": "Hong Kong | New Territories",
+        "es": "Tuen Mun",
+        "es:t": "Hong Kong | New Territories",
+        "de": "Tuen Mun",
+        "de:t": "Hongkong | New Territories"
+    },
+    {
+        "en": "Yuen Long Kau Hui",
+        "en:t": "Hong Kong | New Territories",
+        "a": true,
+        "g": {
+            "lat": 22.4467,
+            "lon": 114.034
+        },
+        "it": "Yuen Long Kau Hui",
+        "it:t": "Hong Kong | New Territories",
+        "es": "Yuen Long Kau Hui",
+        "es:t": "Hong Kong | New Territories",
+        "de": "Yuen Long Kau Hui",
+        "de:t": "Hongkong | New Territories"
+    }
+]

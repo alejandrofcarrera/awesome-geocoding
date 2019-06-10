@@ -1,0 +1,467 @@
+[
+    {
+        "en": "Banfora",
+        "en:t": "Burkina Faso | Comoe",
+        "a": true,
+        "g": {
+            "lat": 10.64,
+            "lon": -4.7588
+        },
+        "it": "Banfora",
+        "it:t": "Burkina Faso | Provincia di Como\u00e9",
+        "es": "Banfora",
+        "es:t": "Burkina Faso | Provincia de Como\u00e9",
+        "de": "Banfora",
+        "de:t": "Burkina Faso | Como\u00e9"
+    },
+    {
+        "en": "Bobo-Dioulasso",
+        "en:t": "Burkina Faso | Houet",
+        "a": true,
+        "g": {
+            "lat": 11.1649,
+            "lon": -4.3052
+        },
+        "it": "Bobo-Dioulasso",
+        "it:t": "Burkina Faso | Provincia di Houet",
+        "es": "Bobo-Dioulasso",
+        "es:t": "Burkina Faso | Provincia de Houet",
+        "de": "Bobo-Dioulasso",
+        "de:t": "Burkina Faso | Houet"
+    },
+    {
+        "en": "Boulsa",
+        "en:t": "Burkina Faso | Namentenga",
+        "a": true,
+        "g": {
+            "lat": 12.6612,
+            "lon": -0.5683
+        },
+        "it": "Boulsa",
+        "it:t": "Burkina Faso | Provincia di Namentenga",
+        "es": "Boulsa",
+        "es:t": "Burkina Faso | Provincia de Namentenga",
+        "de": "Boulsa",
+        "de:t": "Burkina Faso | Namentenga"
+    },
+    {
+        "en": "Bouss\u00e9",
+        "en:t": "Burkina Faso | Koulweogo",
+        "a": true,
+        "g": {
+            "lat": 12.6529,
+            "lon": -1.8863
+        },
+        "it": "Bouss\u00e9",
+        "it:t": "Burkina Faso | Provincia di Kourw\u00e9ogo",
+        "es": "Bouss\u00e9",
+        "es:t": "Burkina Faso | Provincia de Kourw\u00e9ogo",
+        "de": "Bouss\u00e9",
+        "de:t": "Burkina Faso | Kourw\u00e9ogo"
+    },
+    {
+        "en": "Dedougou",
+        "en:t": "Burkina Faso | Mouhoun",
+        "a": true,
+        "g": {
+            "lat": 12.4503,
+            "lon": -3.47
+        },
+        "it": "D\u00e9dougou",
+        "it:t": "Burkina Faso | Provincia di Mouhoun",
+        "es": "D\u00e9dougou",
+        "es:t": "Burkina Faso | Provincia de Mouhoun",
+        "de": "Dedougou",
+        "de:t": "Burkina Faso | Mouhoun"
+    },
+    {
+        "en": "Diapaga",
+        "en:t": "Burkina Faso | Tapoa",
+        "a": true,
+        "g": {
+            "lat": 12.0718,
+            "lon": 1.788
+        },
+        "it": "Diapaga",
+        "it:t": "Burkina Faso | Provincia di Tapoa",
+        "es": "Diapaga",
+        "es:t": "Burkina Faso | Provincia de Tapoa",
+        "de": "Diapaga",
+        "de:t": "Burkina Faso | Tapoa"
+    },
+    {
+        "en": "Djibo",
+        "en:t": "Burkina Faso | Soum",
+        "a": true,
+        "g": {
+            "lat": 14.1005,
+            "lon": -1.6227
+        },
+        "it": "Djibo",
+        "it:t": "Burkina Faso | Provincia di Soum",
+        "es": "Djibo",
+        "es:t": "Burkina Faso | Soum",
+        "de": "Djibo",
+        "de:t": "Burkina Faso | Soum"
+    },
+    {
+        "en": "Dori",
+        "en:t": "Burkina Faso | Seno",
+        "a": true,
+        "g": {
+            "lat": 14.0246,
+            "lon": -0.0233
+        },
+        "it": "Dori",
+        "it:t": "Burkina Faso | Provincia di S\u00e9no",
+        "es": "Dori",
+        "es:t": "Burkina Faso | Provincia de S\u00e9no",
+        "de": "Dori",
+        "de:t": "Burkina Faso | S\u00e9no"
+    },
+    {
+        "en": "Fada-Ngourma",
+        "en:t": "Burkina Faso | Gourma",
+        "a": true,
+        "g": {
+            "lat": 12.0602,
+            "lon": 0.3654
+        },
+        "it": "Fada N'gourma",
+        "it:t": "Burkina Faso | Provincia di Gourma",
+        "es": "Fada N'Gourma",
+        "es:t": "Burkina Faso | Provincia de Gourma",
+        "de": "Fada N\u2019Gourma",
+        "de:t": "Burkina Faso | Gourma"
+    },
+    {
+        "en": "Garango",
+        "en:t": "Burkina Faso | Boulgou",
+        "a": true,
+        "g": {
+            "lat": 11.8089,
+            "lon": -0.5352
+        },
+        "it": "Garango",
+        "it:t": "Burkina Faso | Provincia di Boulgou",
+        "es": "Garango",
+        "es:t": "Burkina Faso | Provincia de Boulgou",
+        "de": "Garango",
+        "de:t": "Burkina Faso | Boulgou"
+    },
+    {
+        "en": "Gourcy",
+        "en:t": "Burkina Faso | Zandoma",
+        "a": true,
+        "g": {
+            "lat": 13.2036,
+            "lon": -2.3567
+        },
+        "it": "Gourcy",
+        "it:t": "Burkina Faso | Provincia di Zondoma",
+        "es": "Gourcy",
+        "es:t": "Burkina Faso | Provincia de Zondoma",
+        "de": "Gourcy",
+        "de:t": "Burkina Faso | Zondoma"
+    },
+    {
+        "en": "Hounde",
+        "en:t": "Burkina Faso | Tuy",
+        "a": true,
+        "g": {
+            "lat": 11.4894,
+            "lon": -3.5231
+        },
+        "it": "Hound\u00e9",
+        "it:t": "Burkina Faso | Provincia di Tuy",
+        "es": "Hound\u00e9",
+        "es:t": "Burkina Faso | Provincia de Tuy",
+        "de": "Hound\u00e9",
+        "de:t": "Burkina Faso | Tuy"
+    },
+    {
+        "en": "Kaya",
+        "en:t": "Burkina Faso | Sanmatenga",
+        "a": true,
+        "g": {
+            "lat": 13.091,
+            "lon": -1.0874
+        },
+        "it": "Kaya",
+        "it:t": "Burkina Faso | Provincia di Sanmatenga",
+        "es": "Kaya",
+        "es:t": "Burkina Faso | Provincia de Sanmatenga",
+        "de": "Kaya",
+        "de:t": "Burkina Faso | Sanmatenga"
+    },
+    {
+        "en": "Kokologo",
+        "en:t": "Burkina Faso | Boulkiemde",
+        "a": true,
+        "g": {
+            "lat": 12.1941,
+            "lon": -1.8733
+        },
+        "it": "Kokologo",
+        "it:t": "Burkina Faso | Boulkiemde",
+        "es": "Kokologo",
+        "es:t": "Burkina Faso | Provincia de Boulkiemd\u00e9",
+        "de": "Kokologo",
+        "de:t": "Burkina Faso | Boulkiemde"
+    },
+    {
+        "en": "Kombissiri",
+        "en:t": "Burkina Faso | Bazega",
+        "a": true,
+        "g": {
+            "lat": 12.0743,
+            "lon": -1.3421
+        },
+        "it": "Kombissiri",
+        "it:t": "Burkina Faso | Provincia di Baz\u00e8ga",
+        "es": "Kombissiri",
+        "es:t": "Burkina Faso | Provincia de Baz\u00e9ga",
+        "de": "Kombissiri",
+        "de:t": "Burkina Faso | Baz\u00e8ga"
+    },
+    {
+        "en": "Kongoussi",
+        "en:t": "Burkina Faso | Bam",
+        "a": true,
+        "g": {
+            "lat": 13.3253,
+            "lon": -1.5257
+        },
+        "it": "Kongoussi",
+        "it:t": "Burkina Faso | Bam",
+        "es": "Kongoussi",
+        "es:t": "Burkina Faso | Provincia de Bam",
+        "de": "Kongoussi",
+        "de:t": "Burkina Faso | Bam"
+    },
+    {
+        "en": "Koudougou",
+        "en:t": "Burkina Faso | Boulkiemde",
+        "a": true,
+        "g": {
+            "lat": 12.2562,
+            "lon": -2.3518
+        },
+        "it": "Koudougou",
+        "it:t": "Burkina Faso | Provincia di Boulkiemd\u00e9",
+        "es": "Koudougou",
+        "es:t": "Burkina Faso | Provincia de Boulkiemd\u00e9",
+        "de": "Koudougou",
+        "de:t": "Burkina Faso | Boulkiemd\u00e9"
+    },
+    {
+        "en": "Koupela",
+        "en:t": "Burkina Faso | Ganzourgou",
+        "a": true,
+        "g": {
+            "lat": 12.1802,
+            "lon": -0.3513
+        },
+        "it": "Koup\u00e9la",
+        "it:t": "Burkina Faso | Provincia di Ganzourgou",
+        "es": "Koup\u00e9la",
+        "es:t": "Burkina Faso | Provincia de Ganzourgou",
+        "de": "Koup\u00e9la",
+        "de:t": "Burkina Faso | Ganzourgou"
+    },
+    {
+        "en": "Leo",
+        "en:t": "Burkina Faso | Sissili",
+        "a": true,
+        "g": {
+            "lat": 11.0979,
+            "lon": -2.0959
+        },
+        "it": "L\u00e9o",
+        "it:t": "Burkina Faso | Provincia di Sissili",
+        "es": "L\u00e9o",
+        "es:t": "Burkina Faso | Provincia de Sissili",
+        "de": "L\u00e9o",
+        "de:t": "Burkina Faso | Sissili"
+    },
+    {
+        "en": "Manga",
+        "en:t": "Burkina Faso | Zoundweogo",
+        "a": true,
+        "g": {
+            "lat": 11.665,
+            "lon": -1.0634
+        },
+        "it": "Manga",
+        "it:t": "Burkina Faso | Provincia di Zoundw\u00e9ogo",
+        "es": "Manga",
+        "es:t": "Burkina Faso | Provincia de Zoundw\u00e9ogo",
+        "de": "Manga",
+        "de:t": "Burkina Faso | Zoundw\u00e9ogo"
+    },
+    {
+        "en": "Nouna",
+        "en:t": "Burkina Faso | Kossi",
+        "a": true,
+        "g": {
+            "lat": 12.743,
+            "lon": -3.8554
+        },
+        "it": "Nouna",
+        "it:t": "Burkina Faso | Provincia di Kossi",
+        "es": "Nouna",
+        "es:t": "Burkina Faso | Provincia de Kossi",
+        "de": "Nouna",
+        "de:t": "Burkina Faso | Kossi"
+    },
+    {
+        "en": "Orodara",
+        "en:t": "Burkina Faso | Kenedougou",
+        "a": true,
+        "g": {
+            "lat": 10.9808,
+            "lon": -4.9091
+        },
+        "it": "Orodara",
+        "it:t": "Burkina Faso | Provincia di K\u00e9n\u00e9dougou",
+        "es": "Orodara",
+        "es:t": "Burkina Faso | Provincia de K\u00e9n\u00e9dougou",
+        "de": "Orodara",
+        "de:t": "Burkina Faso | K\u00e9n\u00e9dougou"
+    },
+    {
+        "en": "Ouagadougou",
+        "en:t": "Burkina Faso | Kadiogo",
+        "a": true,
+        "g": {
+            "lat": 12.3714,
+            "lon": -1.5197
+        },
+        "it": "Ouagadougou",
+        "it:t": "Burkina Faso | Provincia di Kadiogo",
+        "es": "Uagadug\u00fa",
+        "es:t": "Burkina Faso | Provincia de Kadiogo",
+        "de": "Ouagadougou",
+        "de:t": "Burkina Faso | Kadiogo"
+    },
+    {
+        "en": "Ouahigouya",
+        "en:t": "Burkina Faso | Yatenga",
+        "a": true,
+        "g": {
+            "lat": 13.5668,
+            "lon": -2.411
+        },
+        "it": "Ouahigouya",
+        "it:t": "Burkina Faso | Provincia di Yatenga",
+        "es": "Ouahigouya",
+        "es:t": "Burkina Faso | Provincia de Yatenga",
+        "de": "Ouahigouya",
+        "de:t": "Burkina Faso | Yatenga"
+    },
+    {
+        "en": "P\u00f4",
+        "en:t": "Burkina Faso | Nahouri",
+        "a": true,
+        "g": {
+            "lat": 11.1652,
+            "lon": -1.1401
+        },
+        "it": "P\u00f4",
+        "it:t": "Burkina Faso | Provincia di Nahouri",
+        "es": "P\u00f4",
+        "es:t": "Burkina Faso | Provincia de Nahouri",
+        "de": "P\u00f4",
+        "de:t": "Burkina Faso | Nahouri"
+    },
+    {
+        "en": "Reo",
+        "en:t": "Burkina Faso | Sanguie",
+        "a": true,
+        "g": {
+            "lat": 12.3181,
+            "lon": -2.4654
+        },
+        "it": "R\u00e9o",
+        "it:t": "Burkina Faso | Provincia di Sangui\u00e9",
+        "es": "R\u00e9o",
+        "es:t": "Burkina Faso | Provincia de Sangui\u00e9",
+        "de": "R\u00e9o",
+        "de:t": "Burkina Faso | Sangui\u00e9"
+    },
+    {
+        "en": "Tenkodogo",
+        "en:t": "Burkina Faso | Boulgou",
+        "a": true,
+        "g": {
+            "lat": 11.7863,
+            "lon": -0.3654
+        },
+        "it": "Tenkodogo",
+        "it:t": "Burkina Faso | Provincia di Boulgou",
+        "es": "Tenkodogo",
+        "es:t": "Burkina Faso | Provincia de Boulgou",
+        "de": "Tenkodogo",
+        "de:t": "Burkina Faso | Boulgou"
+    },
+    {
+        "en": "Titao",
+        "en:t": "Burkina Faso | Loroum",
+        "a": true,
+        "g": {
+            "lat": 13.768,
+            "lon": -2.0726
+        },
+        "it": "Titao",
+        "it:t": "Burkina Faso | Provincia di Loroum",
+        "es": "Titao",
+        "es:t": "Burkina Faso | Provincia de Loroum",
+        "de": "Titao",
+        "de:t": "Burkina Faso | Loroum"
+    },
+    {
+        "en": "Tougan",
+        "en:t": "Burkina Faso | Sourou",
+        "a": true,
+        "g": {
+            "lat": 13.0695,
+            "lon": -3.0626
+        },
+        "it": "Tougan",
+        "it:t": "Burkina Faso | Provincia di Sourou",
+        "es": "Tougan",
+        "es:t": "Burkina Faso | Provincia de Sourou",
+        "de": "Tougan",
+        "de:t": "Burkina Faso | Sourou"
+    },
+    {
+        "en": "Yako",
+        "en:t": "Burkina Faso | Passore",
+        "a": true,
+        "g": {
+            "lat": 12.9626,
+            "lon": -2.2581
+        },
+        "it": "Yako",
+        "it:t": "Burkina Faso | Passore",
+        "es": "Yako",
+        "es:t": "Burkina Faso | Provincia de Passor\u00e9",
+        "de": "Passor\u00e9",
+        "de:t": "Burkina Faso | Nord"
+    },
+    {
+        "en": "Zorgo",
+        "en:t": "Burkina Faso | Ganzourgou",
+        "a": true,
+        "g": {
+            "lat": 12.2484,
+            "lon": -0.6252
+        },
+        "it": "Zorgho",
+        "it:t": "Burkina Faso | Provincia di Ganzourgou",
+        "es": "Zorgho",
+        "es:t": "Burkina Faso | Provincia de Ganzourgou",
+        "de": "Zorgho",
+        "de:t": "Burkina Faso | Ganzourgou"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "en": "Andorra la Vella",
+        "en:t": "Andorra",
+        "a": true,
+        "g": {
+            "lat": 42.5063,
+            "lon": 1.5218
+        },
+        "it": "Andorra la Vella",
+        "it:t": "Andorra",
+        "es": "Andorra la Vieja",
+        "es:t": "Andorra",
+        "de": "Andorra la Vella",
+        "de:t": "Andorra"
+    },
+    {
+        "en": "Les Escaldes",
+        "en:t": "Andorra | Escaldes-Engordany",
+        "a": true,
+        "g": {
+            "lat": 42.5101,
+            "lon": 1.5388
+        },
+        "it": "Escaldes",
+        "it:t": "Andorra | Escaldes-Engordany",
+        "es": "Las Escaldas",
+        "es:t": "Andorra | Escaldes-Engordany",
+        "de": "Les Escaldes",
+        "de:t": "Andorra | Escaldes-Engordany"
+    }
+]

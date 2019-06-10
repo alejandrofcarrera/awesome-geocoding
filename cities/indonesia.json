@@ -1,0 +1,5477 @@
+[
+    {
+        "en": "Abepura",
+        "en:t": "Indonesia | Jayapura",
+        "a": true,
+        "g": {
+            "lat": -2.6631,
+            "lon": 140.7001
+        },
+        "it": "Abepura",
+        "it:t": "Indonesia | Jayapura",
+        "es": "Abepura",
+        "es:t": "Indonesia | Jayapura",
+        "de": "Abepura",
+        "de:t": "Indonesien | Jayapura"
+    },
+    {
+        "en": "Ngemplak",
+        "en:t": "Indonesia | Karangpandan",
+        "a": true,
+        "g": {
+            "lat": -7.516,
+            "lon": 110.7555
+        },
+        "it": "Ngemplak",
+        "it:t": "Indonesia | Karangpandan",
+        "es": "Ngemplak",
+        "es:t": "Indonesia | Karangpandan",
+        "de": "Ngemplak",
+        "de:t": "Indonesien | Karangpandan"
+    },
+    {
+        "en": "Adiwerna",
+        "en:t": "Indonesia",
+        "a": true,
+        "g": {
+            "lat": -6.9351,
+            "lon": 109.1298
+        },
+        "it": "Adiwerna",
+        "it:t": "Indonesia",
+        "es": "Adiwerna",
+        "es:t": "Indonesia",
+        "de": "Adiwerna",
+        "de:t": "Indonesien"
+    },
+    {
+        "en": "Amahai",
+        "en:t": "Indonesia | Soahuku",
+        "a": true,
+        "g": {
+            "lat": -3.3394,
+            "lon": 128.923
+        },
+        "it": "Amahai",
+        "it:t": "Indonesia | Soahuku",
+        "es": "Amahai",
+        "es:t": "Indonesia | Soahuku",
+        "de": "Amahai",
+        "de:t": "Indonesien | Soahuku"
+    },
+    {
+        "en": "Ambarawa",
+        "en:t": "Indonesia",
+        "a": true,
+        "g": {
+            "lat": -7.2623,
+            "lon": 110.4035
+        },
+        "it": "Ambarawa",
+        "it:t": "Indonesia",
+        "es": "Ambarawa",
+        "es:t": "Indonesia",
+        "de": "Ambarawa",
+        "de:t": "Indonesien"
+    },
+    {
+        "en": "Amuntai",
+        "en:t": "Indonesia | Sungai Malang",
+        "a": true,
+        "g": {
+            "lat": -2.4166,
+            "lon": 115.2391
+        },
+        "it": "Amuntai",
+        "it:t": "Indonesia | Sungai Malang",
+        "es": "Amuntai",
+        "es:t": "Indonesia | Sungai Malang",
+        "de": "Amuntai",
+        "de:t": "Indonesien | Sungai Malang"
+    },
+    {
+        "en": "Arjawinangun",
+        "en:t": "Indonesia",
+        "a": true,
+        "g": {
+            "lat": -6.6313,
+            "lon": 108.3848
+        },
+        "it": "Arjawinangun",
+        "it:t": "Indonesia",
+        "es": "Arjawinangun",
+        "es:t": "Indonesia",
+        "de": "Arjawinangun",
+        "de:t": "Indonesien"
+    },
+    {
+        "en": "Astanajapura",
+        "en:t": "Indonesia | Cirebon",
+        "a": true,
+        "g": {
+            "lat": -6.8016,
+            "lon": 108.6235
+        },
+        "it": "Astanajapura",
+        "it:t": "Indonesia | Cirebon",
+        "es": "Astanajapura",
+        "es:t": "Indonesia | Cirebon",
+        "de": "Astanajapura",
+        "de:t": "Indonesien | Cirebon"
+    },
+    {
+        "en": "Atambua",
+        "en:t": "Indonesia | Belu",
+        "a": true,
+        "g": {
+            "lat": -9.1016,
+            "lon": 124.9121
+        },
+        "it": "Atambua",
+        "it:t": "Indonesia | Belu",
+        "es": "Atambua",
+        "es:t": "Indonesia | Belu",
+        "de": "Atambua",
+        "de:t": "Indonesien | Belu"
+    },
+    {
+        "en": "Babat",
+        "en:t": "Indonesia",
+        "a": true,
+        "g": {
+            "lat": -7.1024,
+            "lon": 112.1698
+        },
+        "it": "Babat",
+        "it:t": "Indonesia",
+        "es": "Babat",
+        "es:t": "Indonesia",
+        "de": "Babat",
+        "de:t": "Indonesien"
+    },
+    {
+        "en": "Baekrajan",
+        "en:t": "Indonesia | Bae",
+        "a": true,
+        "g": {
+            "lat": -6.7673,
+            "lon": 110.8568
+        },
+        "it": "Baekrajan",
+        "it:t": "Indonesia | Bae",
+        "es": "Baekrajan",
+        "es:t": "Indonesia | Bae",
+        "de": "Baekrajan",
+        "de:t": "Indonesien | Bae"
+    },
+    {
+        "en": "Baki",
+        "en:t": "Indonesia | Sukoharjo",
+        "a": true,
+        "g": {
+            "lat": -7.6144,
+            "lon": 110.7743
+        },
+        "it": "Baki",
+        "it:t": "Indonesia | Sukoharjo",
+        "es": "Baki",
+        "es:t": "Indonesia | Sukoharjo",
+        "de": "Baki",
+        "de:t": "Indonesien | Sukoharjo"
+    },
+    {
+        "en": "Balai Pungut",
+        "en:t": "Indonesia | Pinggir",
+        "a": true,
+        "g": {
+            "lat": 1.071,
+            "lon": 101.2921
+        },
+        "it": "Balai Pungut",
+        "it:t": "Indonesia | Pinggir",
+        "es": "Balai Pungut",
+        "es:t": "Indonesia | Pinggir",
+        "de": "Balai Pungut",
+        "de:t": "Indonesien | Pinggir"
+    },
+    {
+        "en": "Balapulang",
+        "en:t": "Indonesia | Balapulang Wetan",
+        "a": true,
+        "g": {
+            "lat": -7.0525,
+            "lon": 109.1001
+        },
+        "it": "Balapulang",
+        "it:t": "Indonesia | Balapulang Wetan",
+        "es": "Balapulang",
+        "es:t": "Indonesia | Balapulang Wetan",
+        "de": "Balapulang",
+        "de:t": "Indonesien | Balapulang Wetan"
+    },
+    {
+        "en": "Balikpapan",
+        "en:t": "Indonesia",
+        "a": true,
+        "g": {
+            "lat": -1.2379,
+            "lon": 116.8529
+        },
+        "it": "Balikpapan",
+        "it:t": "Indonesia",
+        "es": "Balikpapan",
+        "es:t": "Indonesia",
+        "de": "Balikpapan",
+        "de:t": "Indonesien"
+    },
+    {
+        "en": "Balung",
+        "en:t": "Indonesia | Jember",
+        "a": true,
+        "g": {
+            "lat": -8.2637,
+            "lon": 113.5371
+        },
+        "it": "Balung",
+        "it:t": "Indonesia | Jember",
+        "es": "Balung",
+        "es:t": "Indonesia | Jember",
+        "de": "Balung",
+        "de:t": "Indonesien | Jember"
+    },
+    {
+        "en": "Bambang Lipuro",
+        "en:t": "Indonesia | Bantul",
+        "a": true,
+        "g": {
+            "lat": -7.9481,
+            "lon": 110.313
+        },
+        "it": "Bambang Lipuro",
+        "it:t": "Indonesia | Bantul",
+        "es": "Bambang Lipuro",
+        "es:t": "Indonesia | Bantul",
+        "de": "Bambang Lipuro",
+        "de:t": "Indonesien | Bantul"
+    },
+    {
+        "en": "Banda Aceh",
+        "en:t": "Indonesia | Banda Aceh",
+        "a": true,
+        "g": {
+            "lat": 5.5483,
+            "lon": 95.3238
+        },
+        "it": "Banda Aceh",
+        "it:t": "Indonesia | Banda Aceh",
+        "es": "Banda Aceh",
+        "es:t": "Indonesia | Banda Aceh",
+        "de": "Banda Aceh",
+        "de:t": "Indonesien | Banda Aceh"
+    },
+    {
+        "en": "Bandar",
+        "en:t": "Indonesia | Simalungun",
+        "a": true,
+        "g": {
+            "lat": 2.05,
+            "lon": 99.75
+        },
+        "it": "Bandar",
+        "it:t": "Indonesia | Simalungun",
+        "es": "Bandar",
+        "es:t": "Indonesia | Simalungun",
+        "de": "Bandar",
+        "de:t": "Indonesien | Simalungun"
+    },
+    {
+        "en": "Bandar Lampung",
+        "en:t": "Indonesia | Bandar Lampung",
+        "a": true,
+        "g": {
+            "lat": -5.3971,
+            "lon": 105.2668
+        },
+        "it": "Bandar Lampung",
+        "it:t": "Indonesia | Bandar Lampung",
+        "es": "Bandar Lampung",
+        "es:t": "Indonesia | Bandar Lampung",
+        "de": "Bandar Lampung",
+        "de:t": "Indonesien | Bandar Lampung"
+    },
+    {
+        "en": "Bandung",
+        "en:t": "Indonesia | Bandung",
+        "a": true,
+        "g": {
+            "lat": -6.9175,
+            "lon": 107.6191
+        },
+        "it": "Bandung",
+        "it:t": "Indonesia | Bandung",
+        "es": "Bandung",
+        "es:t": "Indonesia | Bandung",
+        "de": "Bandung",
+        "de:t": "Indonesien | Bandung"
+    },
+    {
+        "en": "Bangil",
+        "en:t": "Indonesia | Sidowayah",
+        "a": true,
+        "g": {
+            "lat": -7.605,
+            "lon": 112.7751
+        },
+        "it": "Bangil",
+        "it:t": "Indonesia | Sidowayah",
+        "es": "Bangil",
+        "es:t": "Indonesia | Sidowayah",
+        "de": "Bangil",
+        "de:t": "Indonesien | Sidowayah"
+    },
+    {
+        "en": "Bangkalan",
+        "en:t": "Indonesia | Bangkalan",
+        "a": true,
+        "g": {
+            "lat": -7.0253,
+            "lon": 112.752
+        },
+        "it": "Gebang",
+        "it:t": "Indonesia | Bangkalan",
+        "es": "Gebang",
+        "es:t": "Indonesia | Bangkalan",
+        "de": "Gebang",
+        "de:t": "Indonesien | Bangkalan"
+    },
+    {
+        "en": "Banjar",
+        "en:t": "Indonesia",
+        "a": true,
+        "g": {
+            "lat": -7.3707,
+            "lon": 108.5342
+        },
+        "it": "Banjar",
+        "it:t": "Indonesia",
+        "es": "Banjar",
+        "es:t": "Indonesia",
+        "de": "Banjar",
+        "de:t": "Indonesien"
+    },
+    {
+        "en": "Banjar",
+        "en:t": "Indonesia | Dencarik",
+        "a": true,
+        "g": {
+            "lat": -8.2285,
+            "lon": 115.0347
+        },
+        "it": "Banjar",
+        "it:t": "Indonesia | Dencarik",
+        "es": "Banjar",
+        "es:t": "Indonesia | Dencarik",
+        "de": "Banjar",
+        "de:t": "Indonesien | Dencarik"
+    },
+    {
+        "en": "Banjaran",
+        "en:t": "Indonesia",
+        "a": true,
+        "g": {
+            "lat": -7.0477,
+            "lon": 107.5837
+        },
+        "it": "Banjaran",
+        "it:t": "Indonesia",
+        "es": "Banjaran",
+        "es:t": "Indonesia",
+        "de": "Banjaran",
+        "de:t": "Indonesien"
+    },
+    {
+        "en": "Banjarmasin",
+        "en:t": "Indonesia | Banjarmasin",
+        "a": true,
+        "g": {
+            "lat": -3.3186,
+            "lon": 114.5944
+        },
+        "it": "Banjarmasin",
+        "it:t": "Indonesia | Banjarmasin",
+        "es": "Banjarmasin",
+        "es:t": "Indonesia | Banjarmasin",
+        "de": "Banjarmasin",
+        "de:t": "Indonesien | Banjarmasin"
+    },
+    {
+        "en": "Bantul",
+        "en:t": "Indonesia",
+        "a": true,
+        "g": {
+            "lat": -7.8748,
+            "lon": 110.3255
+        },
+        "it": "Bantul",
+        "it:t": "Indonesia",
+        "es": "Bantul",
+        "es:t": "Indonesia",
+        "de": "Bantul",
+        "de:t": "Indonesien"
+    },
+    {
+        "en": "Banyumas",
+        "en:t": "Indonesia | Central Java",
+        "a": true,
+        "g": {
+            "lat": -7.4832,
+            "lon": 109.1404
+        },
+        "it": "Banyumas",
+        "it:t": "Indonesia | Giava Centrale",
+        "es": "Banyumas",
+        "es:t": "Indonesia | Java Central",
+        "de": "Banyumas",
+        "de:t": "Indonesien | Zentral-Java"
+    },
+    {
+        "en": "Banyuwangi",
+        "en:t": "Indonesia | Banyuwangi",
+        "a": true,
+        "g": {
+            "lat": -8.2192,
+            "lon": 114.3692
+        },
+        "it": "Banyuwangi",
+        "it:t": "Indonesia | Banyuwangi",
+        "es": "Banyuwangi",
+        "es:t": "Indonesia | Banyuwangi",
+        "de": "Banyuwangi",
+        "de:t": "Indonesien | Banyuwangi"
+    },
+    {
+        "en": "Barabai",
+        "en:t": "Indonesia | Central Hulu Sungai",
+        "a": true,
+        "g": {
+            "lat": -2.5863,
+            "lon": 115.3824
+        },
+        "it": "Barabai",
+        "it:t": "Indonesia | Central Hulu Sungai",
+        "es": "Barabai",
+        "es:t": "Indonesia | Central Hulu Sungai",
+        "de": "Barabai",
+        "de:t": "Indonesien | Kabupaten Hulu Sungai Tengah"
+    },
+    {
+        "en": "Batang",
+        "en:t": "Indonesia",
+        "a": true,
+        "g": {
+            "lat": -6.9067,
+            "lon": 109.734
+        },
+        "it": "Batang",
+        "it:t": "Indonesia",
+        "es": "Batang",
+        "es:t": "Indonesia",
+        "de": "Batang",
+        "de:t": "Indonesien"
+    },
+    {
+        "en": "Batu",
+        "en:t": "Indonesia",
+        "a": true,
+        "g": {
+            "lat": -7.8831,
+            "lon": 112.5334
+        },
+        "it": "Batu",
+        "it:t": "Indonesia",
+        "es": "Batu",
+        "es:t": "Indonesia",
+        "de": "Batu",
+        "de:t": "Indonesien"
+    },
+    {
+        "en": "Baturaden",
+        "en:t": "Indonesia | Dusun III Kalipagu",
+        "a": true,
+        "g": {
+            "lat": -7.3,
+            "lon": 109.2167
+        },
+        "it": "Baturaden",
+        "it:t": "Indonesia | Dusun III Kalipagu",
+        "es": "Baturaden",
+        "es:t": "Indonesia | Dusun III Kalipagu",
+        "de": "Baturaden",
+        "de:t": "Indonesien | Dusun III Kalipagu"
+    },
+    {
+        "en": "Bekasi",
+        "en:t": "Indonesia | Bekasi",
+        "a": true,
+        "g": {
+            "lat": -6.2383,
+            "lon": 106.9756
+        },
+        "it": "Bekasi",
+        "it:t": "Indonesia | Bekasi",
+        "es": "Bekasi",
+        "es:t": "Indonesia | Bekasi",
+        "de": "Bekasi",
+        "de:t": "Indonesien | Bekasi"
+    },
+    {
+        "en": "Belawan",
+        "en:t": "Indonesia | Belawan I",
+        "a": true,
+        "g": {
+            "lat": 3.7843,
+            "lon": 98.6942
+        },
+        "it": "Belawan",
+        "it:t": "Indonesia | Belawan I",
+        "es": "Belawan",
+        "es:t": "Indonesia | Belawan I",
+        "de": "Belawan",
+        "de:t": "Indonesien | Belawan I"
+    },
+    {
+        "en": "Bengkulu",
+        "en:t": "Indonesia | Bengkulu",
+        "a": true,
+        "g": {
+            "lat": -3.7928,
+            "lon": 102.2608
+        },
+        "it": "Bengkulu",
+        "it:t": "Indonesia | Bengkulu",
+        "es": "Bengkulu",
+        "es:t": "Indonesia | Bengkulu",
+        "de": "Bengkulu",
+        "de:t": "Indonesien | Bengkulu"
+    },
+    {
+        "en": "Berastagi",
+        "en:t": "Indonesia | Gundaling II",
+        "a": true,
+        "g": {
+            "lat": 3.1853,
+            "lon": 98.5049
+        },
+        "it": "Berastagi",
+        "it:t": "Indonesia | Gundaling II",
+        "es": "Berastagi",
+        "es:t": "Indonesia | Gundaling II",
+        "de": "Berastagi",
+        "de:t": "Indonesien | Gundaling II"
+    },
+    {
+        "en": "Besuki",
+        "en:t": "Indonesia",
+        "a": true,
+        "g": {
+            "lat": -7.7368,
+            "lon": 113.689
+        },
+        "it": "Besuki",
+        "it:t": "Indonesia",
+        "es": "Besuki",
+        "es:t": "Indonesia",
+        "de": "Besuki",
+        "de:t": "Indonesien"
+    },
+    {
+        "en": "Bima",
+        "en:t": "Indonesia | Mpunda",
+        "a": true,
+        "g": {
+            "lat": -8.4643,
+            "lon": 118.7449
+        },
+        "it": "Bima",
+        "it:t": "Indonesia | Mpunda",
+        "es": "Bima",
+        "es:t": "Indonesia | Mpunda",
+        "de": "Bima",
+        "de:t": "Indonesien | Mpunda"
+    },
+    {
+        "en": "Binjai",
+        "en:t": "Indonesia | Binjai",
+        "a": true,
+        "g": {
+            "lat": 3.6135,
+            "lon": 98.5025
+        },
+        "it": "Binjai",
+        "it:t": "Indonesia | Binjai",
+        "es": "Binjai",
+        "es:t": "Indonesia | Binjai",
+        "de": "Binjai",
+        "de:t": "Indonesien | Binjai"
+    },
+    {
+        "en": "Bireu\u00ebn",
+        "en:t": "Indonesia | Kuala",
+        "a": true,
+        "g": {
+            "lat": 5.2221,
+            "lon": 96.7173
+        },
+        "it": "Bireuen",
+        "it:t": "Indonesia | Kuala",
+        "es": "Bireuen",
+        "es:t": "Indonesia | Kuala",
+        "de": "Bireu\u00ebn",
+        "de:t": "Indonesien | Kuala"
+    },
+    {
+        "en": "Bitung",
+        "en:t": "Indonesia | Bitung",
+        "a": true,
+        "g": {
+            "lat": 1.4404,
+            "lon": 125.1217
+        },
+        "it": "Bitung",
+        "it:t": "Indonesia | Bitung",
+        "es": "Bitung",
+        "es:t": "Indonesia | Bitung",
+        "de": "Bitung",
+        "de:t": "Indonesien | Bitung"
+    },
+    {
+        "en": "Blitar",
+        "en:t": "Indonesia | Blitar",
+        "a": true,
+        "g": {
+            "lat": -8.0955,
+            "lon": 112.1609
+        },
+        "it": "Blitar",
+        "it:t": "Indonesia | Blitar",
+        "es": "Blitar",
+        "es:t": "Indonesia | Blitar",
+        "de": "Blitar",
+        "de:t": "Indonesien | Blitar"
+    },
+    {
+        "en": "Blora",
+        "en:t": "Indonesia | Blora Kota",
+        "a": true,
+        "g": {
+            "lat": -6.9691,
+            "lon": 111.4187
+        },
+        "it": "Blora",
+        "it:t": "Indonesia | Blora Kota",
+        "es": "Blora",
+        "es:t": "Indonesia | Blora Kota",
+        "de": "Blora",
+        "de:t": "Indonesien | Blora Kota"
+    },
+    {
+        "en": "Bogor",
+        "en:t": "Indonesia | Kampung Parung Jambu",
+        "a": true,
+        "g": {
+            "lat": -6.5971,
+            "lon": 106.806
+        },
+        "it": "Bogor",
+        "it:t": "Indonesia | Kampung Parung Jambu",
+        "es": "Bogor",
+        "es:t": "Indonesia | Kampung Parung Jambu",
+        "de": "Bogor",
+        "de:t": "Indonesien | Kampung Parung Jambu"
+    },
+    {
+        "en": "Bojonegoro",
+        "en:t": "Indonesia | Bojongsoang",
+        "a": true,
+        "g": {
+            "lat": -7.1525,
+            "lon": 111.8869
+        },
+        "it": "Bojonegoro",
+        "it:t": "Indonesia | Bojongsoang",
+        "es": "Bojonegoro",
+        "es:t": "Indonesia | Bojongsoang",
+        "de": "Bojonegoro",
+        "de:t": "Indonesien | Bojongsoang"
+    },
+    {
+        "en": "Bondowoso",
+        "en:t": "Indonesia | Bondowoso",
+        "a": true,
+        "g": {
+            "lat": -7.9145,
+            "lon": 113.8232
+        },
+        "it": "Bondowoso",
+        "it:t": "Indonesia | Bondowoso",
+        "es": "Bondowoso",
+        "es:t": "Indonesia | Bondowoso",
+        "de": "Pancoran",
+        "de:t": "Indonesien | Bondowoso"
+    },
+    {
+        "en": "Bontang",
+        "en:t": "Indonesia | Bontang",
+        "a": true,
+        "g": {
+            "lat": 0.1209,
+            "lon": 117.48
+        },
+        "it": "Bontang",
+        "it:t": "Indonesia | Bontang",
+        "es": "Bontang",
+        "es:t": "Indonesia | Bontang",
+        "de": "Bontang",
+        "de:t": "Indonesien | Bontang"
+    },
+    {
+        "en": "Boyolali",
+        "en:t": "Indonesia | Boyolali",
+        "a": true,
+        "g": {
+            "lat": -7.5173,
+            "lon": 110.5934
+        },
+        "it": "Karanggeneng",
+        "it:t": "Indonesia | Boyolali",
+        "es": "Karanggeneng",
+        "es:t": "Indonesia | Boyolali",
+        "de": "Karanggeneng",
+        "de:t": "Indonesien | Boyolali"
+    },
+    {
+        "en": "Boyolangu",
+        "en:t": "Indonesia | Tulungagung",
+        "a": true,
+        "g": {
+            "lat": -8.1195,
+            "lon": 111.8943
+        },
+        "it": "Boyolangu",
+        "it:t": "Indonesia | Tulungagung",
+        "es": "Boyolangu",
+        "es:t": "Indonesia | Tulungagung",
+        "de": "Boyolangu",
+        "de:t": "Indonesien | Tulungagung"
+    },
+    {
+        "en": "Buaran",
+        "en:t": "Indonesia | Mayong",
+        "a": true,
+        "g": {
+            "lat": -6.9326,
+            "lon": 109.658
+        },
+        "it": "Buaran",
+        "it:t": "Indonesia | Mayong",
+        "es": "Buaran",
+        "es:t": "Indonesia | Mayong",
+        "de": "Buaran",
+        "de:t": "Indonesien | Mayong"
+    },
+    {
+        "en": "Buduran",
+        "en:t": "Indonesia | Sidoarjo",
+        "a": true,
+        "g": {
+            "lat": -7.4325,
+            "lon": 112.7569
+        },
+        "it": "Buduran",
+        "it:t": "Indonesia | Sidoarjo",
+        "es": "Buduran",
+        "es:t": "Indonesia | Sidoarjo",
+        "de": "Buduran",
+        "de:t": "Indonesien | Sidoarjo"
+    },
+    {
+        "en": "Bukittinggi",
+        "en:t": "Indonesia | Bukittinggi",
+        "a": true,
+        "g": {
+            "lat": -0.3039,
+            "lon": 100.3835
+        },
+        "it": "Bukittinggi",
+        "it:t": "Indonesia | Bukittinggi",
+        "es": "Bukittinggi",
+        "es:t": "Indonesia | Bukittinggi",
+        "de": "Bukittinggi",
+        "de:t": "Indonesien | Bukittinggi"
+    },
+    {
+        "en": "Ceper",
+        "en:t": "Indonesia | Klaten",
+        "a": true,
+        "g": {
+            "lat": -7.6832,
+            "lon": 110.6705
+        },
+        "it": "Ceper",
+        "it:t": "Indonesia | Klaten",
+        "es": "Ceper",
+        "es:t": "Indonesia | Klaten",
+        "de": "Ceper",
+        "de:t": "Indonesien | Klaten"
+    },
+    {
+        "en": "Cepu",
+        "en:t": "Indonesia | Blora",
+        "a": true,
+        "g": {
+            "lat": -7.1601,
+            "lon": 111.5647
+        },
+        "it": "Cepu",
+        "it:t": "Indonesia | Blora",
+        "es": "Cepu",
+        "es:t": "Indonesia | Blora",
+        "de": "Cepu",
+        "de:t": "Indonesien | Blora"
+    },
+    {
+        "en": "Ciamis",
+        "en:t": "Indonesia",
+        "a": true,
+        "g": {
+            "lat": -7.3321,
+            "lon": 108.3493
+        },
+        "it": "Ciamis",
+        "it:t": "Indonesia",
+        "es": "Ciamis",
+        "es:t": "Indonesia",
+        "de": "Ciamis",
+        "de:t": "Indonesien"
+    },
+    {
+        "en": "Ciampea",
+        "en:t": "Indonesia",
+        "a": true,
+        "g": {
+            "lat": -6.5549,
+            "lon": 106.6962
+        },
+        "it": "Benteng",
+        "it:t": "Indonesia",
+        "es": "Benteng",
+        "es:t": "Indonesia",
+        "de": "Ciampea",
+        "de:t": "Indonesien"
+    },
+    {
+        "en": "Cibeureum Hilir",
+        "en:t": "Indonesia | Cibeureum",
+        "a": true,
+        "g": {
+            "lat": -6.9349,
+            "lon": 106.9447
+        },
+        "it": "Cibeureum Hilir",
+        "it:t": "Indonesia | Cibeureum",
+        "es": "Cibeureum Hilir",
+        "es:t": "Indonesia | Cibeureum",
+        "de": "Cibeureum Hilir",
+        "de:t": "Indonesien | Cibeureum"
+    },
+    {
+        "en": "Cibinong",
+        "en:t": "Indonesia",
+        "a": true,
+        "g": {
+            "lat": -6.4901,
+            "lon": 106.8307
+        },
+        "it": "Cibinong",
+        "it:t": "Indonesia",
+        "es": "Cibinong",
+        "es:t": "Indonesia",
+        "de": "Cibinong",
+        "de:t": "Indonesien"
+    },
+    {
+        "en": "Cicurug",
+        "en:t": "Indonesia | Sukabumi",
+        "a": true,
+        "g": {
+            "lat": -6.7677,
+            "lon": 106.7883
+        },
+        "it": "Cicurug",
+        "it:t": "Indonesia | Sukabumi",
+        "es": "Cicurug",
+        "es:t": "Indonesia | Sukabumi",
+        "de": "Cicurug",
+        "de:t": "Indonesien | Sukabumi"
+    },
+    {
+        "en": "Cikampek",
+        "en:t": "Indonesia",
+        "a": true,
+        "g": {
+            "lat": -6.3959,
+            "lon": 107.4381
+        },
+        "it": "Cikampek",
+        "it:t": "Indonesia",
+        "es": "Cikampek",
+        "es:t": "Indonesia",
+        "de": "Cikampek",
+        "de:t": "Indonesien"
+    },
+    {
+        "en": "Cikarang",
+        "en:t": "Indonesia | Bekasi",
+        "a": true,
+        "g": {
+            "lat": -6.3079,
+            "lon": 107.1721
+        },
+        "it": "Cikarang",
+        "it:t": "Indonesia | Bekasi",
+        "es": "Cikarang",
+        "es:t": "Indonesia | Bekasi",
+        "de": "Cikarang",
+        "de:t": "Indonesien | Bekasi"
+    },
+    {
+        "en": "Cikupa",
+        "en:t": "Indonesia | Karangnunggal",
+        "a": true,
+        "g": {
+            "lat": -7.6474,
+            "lon": 108.1132
+        },
+        "it": "Cikupa",
+        "it:t": "Indonesia | Banjarsari",
+        "es": "Cikupa",
+        "es:t": "Indonesia | Banjarsari",
+        "de": "Cikupa",
+        "de:t": "Indonesien | Banjarsari"
+    },
+    {
+        "en": "Cileungsir",
+        "en:t": "Indonesia | Rancah",
+        "a": true,
+        "g": {
+            "lat": -7.2153,
+            "lon": 108.484
+        },
+        "it": "Cileungsir",
+        "it:t": "Indonesia | Rancah",
+        "es": "Cileungsir",
+        "es:t": "Indonesia | Rancah",
+        "de": "Cileungsir",
+        "de:t": "Indonesien | Rancah"
+    },
+    {
+        "en": "Cileunyi",
+        "en:t": "Indonesia",
+        "a": true,
+        "g": {
+            "lat": -6.9317,
+            "lon": 107.742
+        },
+        "it": "Cileunyi",
+        "it:t": "Indonesia",
+        "es": "Cinunuk",
+        "es:t": "Indonesia",
+        "de": "Cinunuk",
+        "de:t": "Indonesien"
+    },
+    {
+        "en": "Cimahi",
+        "en:t": "Indonesia | Central Cimahi",
+        "a": true,
+        "g": {
+            "lat": -6.8841,
+            "lon": 107.5413
+        },
+        "it": "Cimahi",
+        "it:t": "Indonesia | Central Cimahi",
+        "es": "Cimahi",
+        "es:t": "Indonesia | Central Cimahi",
+        "de": "Cimahi",
+        "de:t": "Indonesien | Central Cimahi"
+    },
+    {
+        "en": "Ciputat",
+        "en:t": "Indonesia | Ciawigebang",
+        "a": true,
+        "g": {
+            "lat": -6.9786,
+            "lon": 108.5834
+        },
+        "it": "Ciputat",
+        "it:t": "Indonesia | Ciawigebang",
+        "es": "Ciputat",
+        "es:t": "Indonesia | Ciawigebang",
+        "de": "Ciputat",
+        "de:t": "Indonesien | Ciawigebang"
+    },
+    {
+        "en": "Cirebon",
+        "en:t": "Indonesia | Cirebon",
+        "a": true,
+        "g": {
+            "lat": -6.732,
+            "lon": 108.5523
+        },
+        "it": "Cirebon",
+        "it:t": "Indonesia | Cirebon",
+        "es": "Cirebon",
+        "es:t": "Indonesia | Cirebon",
+        "de": "Cirebon",
+        "de:t": "Indonesien | Cirebon"
+    },
+    {
+        "en": "Citeureup",
+        "en:t": "Indonesia",
+        "a": true,
+        "g": {
+            "lat": -6.4852,
+            "lon": 106.8727
+        },
+        "it": "Citeureup",
+        "it:t": "Indonesia",
+        "es": "Tajur",
+        "es:t": "Indonesia",
+        "de": "Tajur",
+        "de:t": "Indonesien"
+    },
+    {
+        "en": "Paulan Kulon",
+        "en:t": "Indonesia | Paulan",
+        "a": true,
+        "g": {
+            "lat": -7.5351,
+            "lon": 110.7659
+        },
+        "it": "Paulan Kulon",
+        "it:t": "Indonesia | Paulan",
+        "es": "Paulan Kulon",
+        "es:t": "Indonesia | Paulan",
+        "de": "Paulan Kulon",
+        "de:t": "Indonesien | Paulan"
+    },
+    {
+        "en": "Comal",
+        "en:t": "Indonesia | Pemalang",
+        "a": true,
+        "g": {
+            "lat": -6.8867,
+            "lon": 109.539
+        },
+        "it": "Comal",
+        "it:t": "Indonesia | Pemalang",
+        "es": "Comal",
+        "es:t": "Indonesia | Pemalang",
+        "de": "Comal",
+        "de:t": "Indonesien | Pemalang"
+    },
+    {
+        "en": "Curug",
+        "en:t": "Indonesia | Serang",
+        "a": true,
+        "g": {
+            "lat": -6.187,
+            "lon": 106.1699
+        },
+        "it": "Curug",
+        "it:t": "Indonesia | Serang",
+        "es": "Curug",
+        "es:t": "Indonesia | Serang",
+        "de": "Curug",
+        "de:t": "Indonesien | Serang"
+    },
+    {
+        "en": "Curup",
+        "en:t": "Indonesia",
+        "a": true,
+        "g": {
+            "lat": -3.4741,
+            "lon": 102.5212
+        },
+        "it": "Curup",
+        "it:t": "Indonesia",
+        "es": "Curup",
+        "es:t": "Indonesia",
+        "de": "Curup",
+        "de:t": "Indonesien"
+    },
+    {
+        "en": "Dampit",
+        "en:t": "Indonesia | Dampit Wetan",
+        "a": true,
+        "g": {
+            "lat": -8.2085,
+            "lon": 112.7556
+        },
+        "it": "Dampit",
+        "it:t": "Indonesia | Dampit Wetan",
+        "es": "Dampit",
+        "es:t": "Indonesia | Dampit Wetan",
+        "de": "Dampit",
+        "de:t": "Indonesien | Dampit Wetan"
+    },
+    {
+        "en": "Delanggu",
+        "en:t": "Indonesia",
+        "a": true,
+        "g": {
+            "lat": -7.6142,
+            "lon": 110.6929
+        },
+        "it": "Delanggu",
+        "it:t": "Indonesia",
+        "es": "Delanggu",
+        "es:t": "Indonesia",
+        "de": "Delanggu",
+        "de:t": "Indonesien"
+    },
+    {
+        "en": "Deli Tua",
+        "en:t": "Indonesia | Deli Serdang",
+        "a": true,
+        "g": {
+            "lat": 3.4902,
+            "lon": 98.6931
+        },
+        "it": "Deli Tua",
+        "it:t": "Indonesia | Deli Serdang",
+        "es": "Deli Tua",
+        "es:t": "Indonesia | Deli Serdang",
+        "de": "Deli Tua",
+        "de:t": "Indonesien | Deli Serdang"
+    },
+    {
+        "en": "Demak",
+        "en:t": "Indonesia | Demak",
+        "a": true,
+        "g": {
+            "lat": -6.8922,
+            "lon": 110.6378
+        },
+        "it": "Demak",
+        "it:t": "Indonesia | Demak",
+        "es": "Demak",
+        "es:t": "Indonesia | Demak",
+        "de": "Demak",
+        "de:t": "Indonesien | Demak"
+    },
+    {
+        "en": "Denpasar",
+        "en:t": "Indonesia | Denpasar",
+        "a": true,
+        "g": {
+            "lat": -8.6705,
+            "lon": 115.2126
+        },
+        "it": "Denpasar",
+        "it:t": "Indonesia | Denpasar",
+        "es": "Denpasar",
+        "es:t": "Indonesia | Denpasar",
+        "de": "Denpasar",
+        "de:t": "Indonesien | Denpasar"
+    },
+    {
+        "en": "Depok",
+        "en:t": "Indonesia | Depok",
+        "a": true,
+        "g": {
+            "lat": -6.4025,
+            "lon": 106.7942
+        },
+        "it": "Depok",
+        "it:t": "Indonesia | Depok",
+        "es": "Depok",
+        "es:t": "Indonesia | Depok",
+        "de": "Depok",
+        "de:t": "Indonesien | Depok"
+    },
+    {
+        "en": "Depok",
+        "en:t": "Indonesia | Sleman",
+        "a": true,
+        "g": {
+            "lat": -7.7682,
+            "lon": 110.4083
+        },
+        "it": "Depok",
+        "it:t": "Indonesia | Sleman",
+        "es": "Depok",
+        "es:t": "Indonesia | Sleman",
+        "de": "Depok",
+        "de:t": "Indonesien | Sleman"
+    },
+    {
+        "en": "Diwek",
+        "en:t": "Indonesia | Ceweng",
+        "a": true,
+        "g": {
+            "lat": -7.5833,
+            "lon": 112.2333
+        },
+        "it": "Diwek",
+        "it:t": "Indonesia | Ceweng",
+        "es": "Diwek",
+        "es:t": "Indonesia | Ceweng",
+        "de": "Diwek",
+        "de:t": "Indonesien | Ceweng"
+    },
+    {
+        "en": "Dompu",
+        "en:t": "Indonesia | Kandai Dua",
+        "a": true,
+        "g": {
+            "lat": -8.5454,
+            "lon": 118.4458
+        },
+        "it": "Dompu",
+        "it:t": "Indonesia | Kandai Dua",
+        "es": "Dompu",
+        "es:t": "Indonesia | Kandai Dua",
+        "de": "Dompu",
+        "de:t": "Indonesien | Kandai Dua"
+    },
+    {
+        "en": "Driyorejo",
+        "en:t": "Indonesia",
+        "a": true,
+        "g": {
+            "lat": -7.3688,
+            "lon": 112.6035
+        },
+        "it": "Driyorejo",
+        "it:t": "Indonesia",
+        "es": "Driyorejo",
+        "es:t": "Indonesia",
+        "de": "Driyorejo",
+        "de:t": "Indonesien"
+    },
+    {
+        "en": "Dukuhturi",
+        "en:t": "Indonesia",
+        "a": true,
+        "g": {
+            "lat": -6.9045,
+            "lon": 109.115
+        },
+        "it": "Dukuhturi",
+        "it:t": "Indonesia",
+        "es": "Dukuhturi",
+        "es:t": "Indonesia",
+        "de": "Dukuhturi",
+        "de:t": "Indonesien"
+    },
+    {
+        "en": "Dumai",
+        "en:t": "Indonesia",
+        "a": true,
+        "g": {
+            "lat": 1.6666,
+            "lon": 101.4002
+        },
+        "it": "Dumai",
+        "it:t": "Indonesia",
+        "es": "Dumai",
+        "es:t": "Indonesia",
+        "de": "Dumai",
+        "de:t": "Indonesien"
+    },
+    {
+        "en": "East Batu Raja",
+        "en:t": "Indonesia | Ogan Komering Ulu",
+        "a": true,
+        "g": {
+            "lat": -4.1541,
+            "lon": 104.2047
+        },
+        "it": "East Batu Raja",
+        "it:t": "Indonesia | Ogan Komering Ulu",
+        "es": "East Batu Raja",
+        "es:t": "Indonesia | Ogan Komering Ulu",
+        "de": "Lengkiti",
+        "de:t": "Indonesien | Ogan Komering Ulu"
+    },
+    {
+        "en": "Ende",
+        "en:t": "Indonesia | Kel. Rukunlima",
+        "a": true,
+        "g": {
+            "lat": -8.8541,
+            "lon": 121.6542
+        },
+        "it": "Ende",
+        "it:t": "Indonesia | Kel. Rukunlima",
+        "es": "Ende",
+        "es:t": "Indonesia | Kel. Rukunlima",
+        "de": "Ende",
+        "de:t": "Indonesien | Kel. Rukunlima"
+    },
+    {
+        "en": "Galesong",
+        "en:t": "Indonesia | Takalar",
+        "a": true,
+        "g": {
+            "lat": -5.3384,
+            "lon": 119.3831
+        },
+        "it": "Galesong",
+        "it:t": "Indonesia | Takalar",
+        "es": "Galesong",
+        "es:t": "Indonesia | Takalar",
+        "de": "Galesong",
+        "de:t": "Indonesien | Takalar"
+    },
+    {
+        "en": "Gampengrejo",
+        "en:t": "Indonesia | Kediri",
+        "a": true,
+        "g": {
+            "lat": -7.7556,
+            "lon": 112.0298
+        },
+        "it": "Gampengrejo",
+        "it:t": "Indonesia | Kediri",
+        "es": "Gampengrejo",
+        "es:t": "Indonesia | Kediri",
+        "de": "Gampengrejo",
+        "de:t": "Indonesien | Kediri"
+    },
+    {
+        "en": "Gamping Lor",
+        "en:t": "Indonesia | Ambarketawang",
+        "a": true,
+        "g": {
+            "lat": -7.7942,
+            "lon": 110.3264
+        },
+        "it": "Gamping Lor",
+        "it:t": "Indonesia | Ambarketawang",
+        "es": "Gamping Lor",
+        "es:t": "Indonesia | Ambarketawang",
+        "de": "Gamping Lor",
+        "de:t": "Indonesien | Ambarketawang"
+    },
+    {
+        "en": "Gatak",
+        "en:t": "Indonesia | Ngawen",
+        "a": true,
+        "g": {
+            "lat": -7.5874,
+            "lon": 110.742
+        },
+        "it": "Gatak",
+        "it:t": "Indonesia | Ngawen",
+        "es": "Gatak",
+        "es:t": "Indonesia | Ngawen",
+        "de": "Gatak",
+        "de:t": "Indonesien | Ngawen"
+    },
+    {
+        "en": "Gebog",
+        "en:t": "Indonesia | Kudus",
+        "a": true,
+        "g": {
+            "lat": -6.719,
+            "lon": 110.8374
+        },
+        "it": "Gebog",
+        "it:t": "Indonesia | Kudus",
+        "es": "Gebog",
+        "es:t": "Indonesia | Kudus",
+        "de": "Gebog",
+        "de:t": "Indonesien | Kudus"
+    },
+    {
+        "en": "Megersari",
+        "en:t": "Indonesia | Gedangan",
+        "a": true,
+        "g": {
+            "lat": -7.3934,
+            "lon": 112.7331
+        },
+        "it": "Megersari",
+        "it:t": "Indonesia | Gedangan",
+        "es": "Megersari",
+        "es:t": "Indonesia | Gedangan",
+        "de": "Megersari",
+        "de:t": "Indonesien | Gedangan"
+    },
+    {
+        "en": "Genteng",
+        "en:t": "Indonesia",
+        "a": true,
+        "g": {
+            "lat": -8.3652,
+            "lon": 114.1796
+        },
+        "it": "Genteng",
+        "it:t": "Indonesia",
+        "es": "Genteng",
+        "es:t": "Indonesia",
+        "de": "Genteng",
+        "de:t": "Indonesien"
+    },
+    {
+        "en": "Godean",
+        "en:t": "Indonesia",
+        "a": true,
+        "g": {
+            "lat": -7.7674,
+            "lon": 110.2931
+        },
+        "it": "Sidomulyo",
+        "it:t": "Indonesia",
+        "es": "Sidomulyo",
+        "es:t": "Indonesia",
+        "de": "Sidomulyo",
+        "de:t": "Indonesien"
+    },
+    {
+        "en": "Gombong",
+        "en:t": "Indonesia | Kebumen",
+        "a": true,
+        "g": {
+            "lat": -7.6053,
+            "lon": 109.5152
+        },
+        "it": "Gombong",
+        "it:t": "Indonesia | Kebumen",
+        "es": "Gombong",
+        "es:t": "Indonesia | Kebumen",
+        "de": "Gombong",
+        "de:t": "Indonesien | Kebumen"
+    },
+    {
+        "en": "Gondanglegi Kulon",
+        "en:t": "Indonesia | Gondanglegi",
+        "a": true,
+        "g": {
+            "lat": -8.1709,
+            "lon": 112.6258
+        },
+        "it": "Gondanglegi Kulon",
+        "it:t": "Indonesia | Gondanglegi",
+        "es": "Gondanglegi Kulon",
+        "es:t": "Indonesia | Gondanglegi",
+        "de": "Gondanglegi Kulon",
+        "de:t": "Indonesien | Gondanglegi"
+    },
+    {
+        "en": "Gorontalo",
+        "en:t": "Indonesia | Gorontalo",
+        "a": true,
+        "g": {
+            "lat": 0.5435,
+            "lon": 123.0568
+        },
+        "it": "Gorontalo",
+        "it:t": "Indonesia | Gorontalo",
+        "es": "Gorontalo",
+        "es:t": "Indonesia | Gorontalo",
+        "de": "Gorontalo",
+        "de:t": "Indonesien | Gorontalo"
+    },
+    {
+        "en": "Gresik",
+        "en:t": "Indonesia",
+        "a": true,
+        "g": {
+            "lat": -7.1652,
+            "lon": 112.652
+        },
+        "it": "Gresik",
+        "it:t": "Indonesia",
+        "es": "Gresik",
+        "es:t": "Indonesia",
+        "de": "Gresik",
+        "de:t": "Indonesien"
+    },
+    {
+        "en": "Grogol",
+        "en:t": "Indonesia",
+        "a": true,
+        "g": {
+            "lat": -7.5993,
+            "lon": 110.8145
+        },
+        "it": "Grogol",
+        "it:t": "Indonesia",
+        "es": "Grogol",
+        "es:t": "Indonesia",
+        "de": "Grogol",
+        "de:t": "Indonesien"
+    },
+    {
+        "en": "Singaraja",
+        "en:t": "Indonesia",
+        "a": true,
+        "g": {
+            "lat": -6.3373,
+            "lon": 108.3258
+        },
+        "it": "Singaraja",
+        "it:t": "Indonesia",
+        "es": "Singaraja",
+        "es:t": "Indonesia",
+        "de": "Singaraja",
+        "de:t": "Indonesien"
+    },
+    {
+        "en": "Jakarta",
+        "en:t": "Indonesia",
+        "a": true,
+        "g": {
+            "lat": -6.2088,
+            "lon": 106.8456
+        },
+        "it": "Giacarta",
+        "it:t": "Indonesia",
+        "es": "Yakarta",
+        "es:t": "Indonesia",
+        "de": "Jakarta",
+        "de:t": "Indonesien"
+    },
+    {
+        "en": "Jalan Gerilya",
+        "en:t": "Indonesia | Brontokusuman",
+        "a": true,
+        "g": {
+            "lat": -7.8199,
+            "lon": 110.3691
+        },
+        "it": "Jalan Gerilya",
+        "it:t": "Indonesia | Brontokusuman",
+        "es": "Jalan Gerilya",
+        "es:t": "Indonesia | Brontokusuman",
+        "de": "Jalan Gerilya",
+        "de:t": "Indonesien | Brontokusuman"
+    },
+    {
+        "en": "Jambi",
+        "en:t": "Indonesia | Jambi",
+        "a": true,
+        "g": {
+            "lat": -1.6101,
+            "lon": 103.6131
+        },
+        "it": "Jambi",
+        "it:t": "Indonesia | Jambi",
+        "es": "Jambi",
+        "es:t": "Indonesia | Jambi",
+        "de": "Jambi",
+        "de:t": "Indonesien | Jambi"
+    },
+    {
+        "en": "Jaten",
+        "en:t": "Indonesia",
+        "a": true,
+        "g": {
+            "lat": -7.5719,
+            "lon": 110.9
+        },
+        "it": "Jaten",
+        "it:t": "Indonesia",
+        "es": "Jaten",
+        "es:t": "Indonesia",
+        "de": "Jaten",
+        "de:t": "Indonesien"
+    },
+    {
+        "en": "Jatibarang",
+        "en:t": "Indonesia",
+        "a": true,
+        "g": {
+            "lat": -6.475,
+            "lon": 108.3067
+        },
+        "it": "Bulak",
+        "it:t": "Indonesia",
+        "es": "Bulak",
+        "es:t": "Indonesia",
+        "de": "Bulak",
+        "de:t": "Indonesien"
+    },
+    {
+        "en": "Jatiroto",
+        "en:t": "Indonesia",
+        "a": true,
+        "g": {
+            "lat": -7.8828,
+            "lon": 111.1079
+        },
+        "it": "Jatiroto",
+        "it:t": "Indonesia",
+        "es": "Jatiroto",
+        "es:t": "Indonesia",
+        "de": "Jatiroto",
+        "de:t": "Indonesien"
+    },
+    {
+        "en": "Jatiwangi",
+        "en:t": "Indonesia | Majalengka",
+        "a": true,
+        "g": {
+            "lat": -6.7292,
+            "lon": 108.2496
+        },
+        "it": "Jatiwangi",
+        "it:t": "Indonesia | Majalengka",
+        "es": "Jatiwangi",
+        "es:t": "Indonesia | Majalengka",
+        "de": "Jatiwangi",
+        "de:t": "Indonesien | Majalengka"
+    },
+    {
+        "en": "Jayapura",
+        "en:t": "Indonesia | Papua",
+        "a": true,
+        "g": {
+            "lat": -2.9879,
+            "lon": 139.8547
+        },
+        "it": "Jayapura",
+        "it:t": "Indonesia | Jayapura",
+        "es": "Jayapura",
+        "es:t": "Indonesia | Pap\u00faa",
+        "de": "Jayapura",
+        "de:t": "Indonesien | Papua"
+    },
+    {
+        "en": "Jekulo",
+        "en:t": "Indonesia",
+        "a": true,
+        "g": {
+            "lat": -6.8002,
+            "lon": 110.9387
+        },
+        "it": "Jekulo",
+        "it:t": "Indonesia",
+        "es": "Jekulo",
+        "es:t": "Indonesia",
+        "de": "Jekulo",
+        "de:t": "Indonesien"
+    },
+    {
+        "en": "Jember",
+        "en:t": "Indonesia | Kaliwates",
+        "a": true,
+        "g": {
+            "lat": -8.1733,
+            "lon": 113.7009
+        },
+        "it": "Jember",
+        "it:t": "Indonesia | Giava Orientale",
+        "es": "Jember",
+        "es:t": "Indonesia | Kaliwates",
+        "de": "Jember",
+        "de:t": "Indonesien | Kaliwates"
+    },
+    {
+        "en": "Jogonalan",
+        "en:t": "Indonesia | Klaten",
+        "a": true,
+        "g": {
+            "lat": -7.7351,
+            "lon": 110.5573
+        },
+        "it": "Jogonalan",
+        "it:t": "Indonesia | Klaten",
+        "es": "Jogonalan",
+        "es:t": "Indonesia | Klaten",
+        "de": "Jogonalan",
+        "de:t": "Indonesien | Klaten"
+    },
+    {
+        "en": "Jombang",
+        "en:t": "Indonesia | East Java",
+        "a": true,
+        "g": {
+            "lat": -7.5741,
+            "lon": 112.2861
+        },
+        "it": "Jombang",
+        "it:t": "Indonesia | Jombang",
+        "es": "Jombang",
+        "es:t": "Indonesia | Java Oriental",
+        "de": "Jombang",
+        "de:t": "Indonesien | Jawa Timur"
+    },
+    {
+        "en": "Juwana",
+        "en:t": "Indonesia | Pati",
+        "a": true,
+        "g": {
+            "lat": -6.7099,
+            "lon": 111.1533
+        },
+        "it": "Juwana",
+        "it:t": "Indonesia | Pati",
+        "es": "Juwana",
+        "es:t": "Indonesia | Pati",
+        "de": "Juwana",
+        "de:t": "Indonesien | Pati"
+    },
+    {
+        "en": "Kabanjahe",
+        "en:t": "Indonesia",
+        "a": true,
+        "g": {
+            "lat": 3.105,
+            "lon": 98.4985
+        },
+        "it": "Kabanjahe",
+        "it:t": "Indonesia",
+        "es": "Kabanjahe",
+        "es:t": "Indonesia",
+        "de": "Kabanjahe",
+        "de:t": "Indonesien"
+    },
+    {
+        "en": "Kalianget",
+        "en:t": "Indonesia | Sumenep",
+        "a": true,
+        "g": {
+            "lat": -7.0507,
+            "lon": 113.8882
+        },
+        "it": "Kalianget",
+        "it:t": "Indonesia | Sumenep",
+        "es": "Kalianget",
+        "es:t": "Indonesia | Sumenep",
+        "de": "Kalianget",
+        "de:t": "Indonesien | Sumenep"
+    },
+    {
+        "en": "Kamal",
+        "en:t": "Indonesia",
+        "a": true,
+        "g": {
+            "lat": -7.1658,
+            "lon": 112.7286
+        },
+        "it": "Kamal",
+        "it:t": "Indonesia",
+        "es": "Kamal",
+        "es:t": "Indonesia",
+        "de": "Kamal",
+        "de:t": "Indonesien"
+    },
+    {
+        "en": "Karangampel",
+        "en:t": "Indonesia | Indramayu",
+        "a": true,
+        "g": {
+            "lat": -6.4713,
+            "lon": 108.4573
+        },
+        "it": "Karangampel",
+        "it:t": "Indonesia | Indramayu",
+        "es": "Karangampel",
+        "es:t": "Indonesia | Indramayu",
+        "de": "Karangampel",
+        "de:t": "Indonesien | Indramayu"
+    },
+    {
+        "en": "Karanganom",
+        "en:t": "Indonesia | Klaten",
+        "a": true,
+        "g": {
+            "lat": -7.644,
+            "lon": 110.6348
+        },
+        "it": "Karanganom",
+        "it:t": "Indonesia | Klaten",
+        "es": "Karanganom",
+        "es:t": "Indonesia | Klaten",
+        "de": "Karanganom",
+        "de:t": "Indonesien | Klaten"
+    },
+    {
+        "en": "Amlapura",
+        "en:t": "Indonesia | Karangasem",
+        "a": true,
+        "g": {
+            "lat": -8.3466,
+            "lon": 115.5207
+        },
+        "it": "Amlapura",
+        "it:t": "Indonesia | Karangasem",
+        "es": "Amlapura",
+        "es:t": "Indonesia | Karangasem",
+        "de": "Amlapura",
+        "de:t": "Indonesien | Karangasem"
+    },
+    {
+        "en": "Karangsembung",
+        "en:t": "Indonesia",
+        "a": true,
+        "g": {
+            "lat": -6.8527,
+            "lon": 108.6467
+        },
+        "it": "Karangsembung",
+        "it:t": "Indonesia",
+        "es": "Karangsembung",
+        "es:t": "Indonesia",
+        "de": "Karangsembung",
+        "de:t": "Indonesien"
+    },
+    {
+        "en": "Kartasura",
+        "en:t": "Indonesia | Sukoharjo",
+        "a": true,
+        "g": {
+            "lat": -7.5567,
+            "lon": 110.742
+        },
+        "it": "Kartasura",
+        "it:t": "Indonesia | Sukoharjo",
+        "es": "Kartasura",
+        "es:t": "Indonesia | Sukoharjo",
+        "de": "Kartasura",
+        "de:t": "Indonesien | Sukoharjo"
+    },
+    {
+        "en": "Kasihan",
+        "en:t": "Indonesia",
+        "a": true,
+        "g": {
+            "lat": -7.8222,
+            "lon": 110.3282
+        },
+        "it": "Kasihan",
+        "it:t": "Indonesia",
+        "es": "Kasihan",
+        "es:t": "Indonesia",
+        "de": "Kasihan",
+        "de:t": "Indonesien"
+    },
+    {
+        "en": "Katobu",
+        "en:t": "Indonesia | Muna",
+        "a": true,
+        "g": {
+            "lat": -4.8303,
+            "lon": 122.7125
+        },
+        "it": "Katobu",
+        "it:t": "Indonesia | Muna",
+        "es": "Katobu",
+        "es:t": "Indonesia | Muna",
+        "de": "Katobu",
+        "de:t": "Indonesien | Muna"
+    },
+    {
+        "en": "Kawalu",
+        "en:t": "Indonesia | Tasikmalaya",
+        "a": true,
+        "g": {
+            "lat": -7.4103,
+            "lon": 108.2022
+        },
+        "it": "Kawalu",
+        "it:t": "Indonesia | Tasikmalaya",
+        "es": "Kawalu",
+        "es:t": "Indonesia | Tasikmalaya",
+        "de": "Kawalu",
+        "de:t": "Indonesien | Tasikmalaya"
+    },
+    {
+        "en": "Kebomas",
+        "en:t": "Indonesia",
+        "a": true,
+        "g": {
+            "lat": -7.192,
+            "lon": 112.646
+        },
+        "it": "Kebomas",
+        "it:t": "Indonesia",
+        "es": "Kebomas",
+        "es:t": "Indonesia",
+        "de": "Kebomas",
+        "de:t": "Indonesien"
+    },
+    {
+        "en": "Kebonarum",
+        "en:t": "Indonesia | Klaten",
+        "a": true,
+        "g": {
+            "lat": -7.6988,
+            "lon": 110.5633
+        },
+        "it": "Kebonarum",
+        "it:t": "Indonesia | Klaten",
+        "es": "Kebonarum",
+        "es:t": "Indonesia | Klaten",
+        "de": "Kebonarum",
+        "de:t": "Indonesien | Klaten"
+    },
+    {
+        "en": "Kediri",
+        "en:t": "Indonesia",
+        "a": true,
+        "g": {
+            "lat": -7.848,
+            "lon": 112.0178
+        },
+        "it": "Kediri",
+        "it:t": "Indonesia | Kediri",
+        "es": "Kediri",
+        "es:t": "Indonesia",
+        "de": "Kediri",
+        "de:t": "Indonesien"
+    },
+    {
+        "en": "Kedungwaru",
+        "en:t": "Indonesia",
+        "a": true,
+        "g": {
+            "lat": -8.0475,
+            "lon": 111.9224
+        },
+        "it": "Kedungwaru",
+        "it:t": "Indonesia",
+        "es": "Kedungwaru",
+        "es:t": "Indonesia",
+        "de": "Kedungwaru",
+        "de:t": "Indonesien"
+    },
+    {
+        "en": "Kedungwuni",
+        "en:t": "Indonesia | Pekalongan",
+        "a": true,
+        "g": {
+            "lat": -6.9632,
+            "lon": 109.658
+        },
+        "it": "Kedungwuni",
+        "it:t": "Indonesia | Pekalongan",
+        "es": "Kedungwuni",
+        "es:t": "Indonesia | Pekalongan",
+        "de": "Kedungwuni",
+        "de:t": "Indonesien | Pekalongan"
+    },
+    {
+        "en": "Kefamenanu",
+        "en:t": "Indonesia | Kefamenanu Tengah",
+        "a": true,
+        "g": {
+            "lat": -9.4442,
+            "lon": 124.478
+        },
+        "it": "Kefamenanu",
+        "it:t": "Indonesia | Kefamenanu Tengah",
+        "es": "Kefamenanu",
+        "es:t": "Indonesia | Kefamenanu Tengah",
+        "de": "Kefamenanu",
+        "de:t": "Indonesien | Kefamenanu Tengah"
+    },
+    {
+        "en": "Kencong",
+        "en:t": "Indonesia | Balekambang",
+        "a": true,
+        "g": {
+            "lat": -8.3064,
+            "lon": 113.3354
+        },
+        "it": "Kencong",
+        "it:t": "Indonesia | Balekambang",
+        "es": "Kencong",
+        "es:t": "Indonesia | Balekambang",
+        "de": "Kencong",
+        "de:t": "Indonesien | Balekambang"
+    },
+    {
+        "en": "Kendari",
+        "en:t": "Indonesia | Kendari",
+        "a": true,
+        "g": {
+            "lat": -3.9985,
+            "lon": 122.513
+        },
+        "it": "Kendari",
+        "it:t": "Indonesia | Kendari",
+        "es": "Kendari",
+        "es:t": "Indonesia | Kendari",
+        "de": "Kendari",
+        "de:t": "Indonesien | Kendari"
+    },
+    {
+        "en": "Kepanjen",
+        "en:t": "Indonesia",
+        "a": true,
+        "g": {
+            "lat": -8.1316,
+            "lon": 112.5692
+        },
+        "it": "Kepanjen",
+        "it:t": "Indonesia",
+        "es": "Kepanjen",
+        "es:t": "Indonesia",
+        "de": "Kepanjen",
+        "de:t": "Indonesien"
+    },
+    {
+        "en": "Kertosono",
+        "en:t": "Indonesia | Nganjuk",
+        "a": true,
+        "g": {
+            "lat": -7.61,
+            "lon": 112.0894
+        },
+        "it": "Kertosono",
+        "it:t": "Indonesia | Nganjuk",
+        "es": "Kertosono",
+        "es:t": "Indonesia | Nganjuk",
+        "de": "Kertosono",
+        "de:t": "Indonesien | Nganjuk"
+    },
+    {
+        "en": "Ketanggungan",
+        "en:t": "Indonesia | Brebes",
+        "a": true,
+        "g": {
+            "lat": -7.0109,
+            "lon": 108.8908
+        },
+        "it": "Ketanggungan",
+        "it:t": "Indonesia | Brebes",
+        "es": "Ketanggungan",
+        "es:t": "Indonesia | Brebes",
+        "de": "Ketanggungan",
+        "de:t": "Indonesien | Brebes"
+    },
+    {
+        "en": "Kijang Kota",
+        "en:t": "Indonesia | East Bintan",
+        "a": true,
+        "g": {
+            "lat": 0.8534,
+            "lon": 104.5947
+        },
+        "it": "Kijang Kota",
+        "it:t": "Indonesia | East Bintan",
+        "es": "Kijang Kota",
+        "es:t": "Indonesia | East Bintan",
+        "de": "Nikoi Island",
+        "de:t": "Indonesien | Teluk Bakau"
+    },
+    {
+        "en": "Kisaran Kota",
+        "en:t": "Indonesia | West Kisaran",
+        "a": true,
+        "g": {
+            "lat": 2.9832,
+            "lon": 99.6279
+        },
+        "it": "Kisaran Kota",
+        "it:t": "Indonesia | West Kisaran",
+        "es": "Kisaran Kota",
+        "es:t": "Indonesia | West Kisaran",
+        "de": "Kisaran",
+        "de:t": "Indonesien | Kisaran Barat"
+    },
+    {
+        "en": "Klangenan",
+        "en:t": "Indonesia",
+        "a": true,
+        "g": {
+            "lat": -6.6798,
+            "lon": 108.4505
+        },
+        "it": "Klangenan",
+        "it:t": "Indonesia",
+        "es": "Klangenan",
+        "es:t": "Indonesia",
+        "de": "Klangenan",
+        "de:t": "Indonesien"
+    },
+    {
+        "en": "Klaten",
+        "en:t": "Indonesia",
+        "a": true,
+        "g": {
+            "lat": -7.74,
+            "lon": 110.6646
+        },
+        "it": "Klaten",
+        "it:t": "Indonesia",
+        "es": "Klaten",
+        "es:t": "Indonesia",
+        "de": "Klaten",
+        "de:t": "Indonesien"
+    },
+    {
+        "en": "Kota Ambon",
+        "en:t": "Indonesia | Maluku",
+        "a": true,
+        "g": {
+            "lat": -3.6387,
+            "lon": 128.1689
+        },
+        "it": "Ambon",
+        "it:t": "Indonesia | Maluku",
+        "es": "Ambon",
+        "es:t": "Indonesia | Molucas",
+        "de": "Ambon",
+        "de:t": "Indonesien | Molukken"
+    },
+    {
+        "en": "Kotabumi",
+        "en:t": "Indonesia",
+        "a": true,
+        "g": {
+            "lat": -4.8246,
+            "lon": 104.8964
+        },
+        "it": "Kotabumi",
+        "it:t": "Indonesia",
+        "es": "Kotabumi",
+        "es:t": "Indonesia",
+        "de": "Kotabumi",
+        "de:t": "Indonesien"
+    },
+    {
+        "en": "Kraksaan",
+        "en:t": "Indonesia | Patokan",
+        "a": true,
+        "g": {
+            "lat": -7.7625,
+            "lon": 113.4172
+        },
+        "it": "Kraksaan",
+        "it:t": "Indonesia | Patokan",
+        "es": "Kraksaan",
+        "es:t": "Indonesia | Patokan",
+        "de": "Kraksaan",
+        "de:t": "Indonesien | Probolinggo"
+    },
+    {
+        "en": "Krian",
+        "en:t": "Indonesia | Sidoarjo",
+        "a": true,
+        "g": {
+            "lat": -7.401,
+            "lon": 112.5901
+        },
+        "it": "Krian",
+        "it:t": "Indonesia | Sidoarjo",
+        "es": "Krian",
+        "es:t": "Indonesia | Sidoarjo",
+        "de": "Krian",
+        "de:t": "Indonesien | Sidoarjo"
+    },
+    {
+        "en": "Kroya",
+        "en:t": "Indonesia",
+        "a": true,
+        "g": {
+            "lat": -7.6331,
+            "lon": 109.2475
+        },
+        "it": "Kroya",
+        "it:t": "Indonesia",
+        "es": "Kroya",
+        "es:t": "Indonesia",
+        "de": "Kroya",
+        "de:t": "Indonesien"
+    },
+    {
+        "en": "Kuala Tungkal",
+        "en:t": "Indonesia | Sulanjana",
+        "a": true,
+        "g": {
+            "lat": -1.5957,
+            "lon": 103.6226
+        },
+        "it": "Kuala Tungkal",
+        "it:t": "Indonesia | Sulanjana",
+        "es": "Kuala Tungkal",
+        "es:t": "Indonesia | Sulanjana",
+        "de": "Kuala Tungkal",
+        "de:t": "Indonesien | Sulanjana"
+    },
+    {
+        "en": "Kualakapuas",
+        "en:t": "Indonesia | Telo Island",
+        "a": true,
+        "g": {
+            "lat": -2.9803,
+            "lon": 114.3863
+        },
+        "it": "Kualakapuas",
+        "it:t": "Indonesia | Telo Island",
+        "es": "Kualakapuas",
+        "es:t": "Indonesia | Telo Island",
+        "de": "Kualakapuas",
+        "de:t": "Indonesien | Telo Island"
+    },
+    {
+        "en": "Kudus",
+        "en:t": "Indonesia | Kota Kudus",
+        "a": true,
+        "g": {
+            "lat": -6.8073,
+            "lon": 110.8414
+        },
+        "it": "Kudus",
+        "it:t": "Indonesia | Kota Kudus",
+        "es": "Kudus",
+        "es:t": "Indonesia | Kota Kudus",
+        "de": "Kota",
+        "de:t": "Indonesien | Kota Kudus"
+    },
+    {
+        "en": "Kuningan",
+        "en:t": "Indonesia | Kuningan",
+        "a": true,
+        "g": {
+            "lat": -6.981,
+            "lon": 108.4929
+        },
+        "it": "Kuningan",
+        "it:t": "Indonesia | Kuningan",
+        "es": "Kuningan",
+        "es:t": "Indonesia | Kuningan",
+        "de": "Kuningan",
+        "de:t": "Indonesien | Kuningan"
+    },
+    {
+        "en": "Kupang",
+        "en:t": "Indonesia | Kupang",
+        "a": true,
+        "g": {
+            "lat": -10.1772,
+            "lon": 123.607
+        },
+        "it": "Kupang",
+        "it:t": "Indonesia | Kupang",
+        "es": "Kupang",
+        "es:t": "Indonesia | Kupang",
+        "de": "Kupang",
+        "de:t": "Indonesien | Kupang"
+    },
+    {
+        "en": "Kuta",
+        "en:t": "Indonesia | Badung",
+        "a": true,
+        "g": {
+            "lat": -8.7224,
+            "lon": 115.1767
+        },
+        "it": "Kuta",
+        "it:t": "Indonesia | Badung",
+        "es": "Kuta",
+        "es:t": "Indonesia | Badung",
+        "de": "Kuta",
+        "de:t": "Indonesien | Badung"
+    },
+    {
+        "en": "Kutoarjo",
+        "en:t": "Indonesia | Purworejo",
+        "a": true,
+        "g": {
+            "lat": -7.7207,
+            "lon": 109.908
+        },
+        "it": "Kutoarjo",
+        "it:t": "Indonesia | Purworejo",
+        "es": "Kutoarjo",
+        "es:t": "Indonesia | Purworejo",
+        "de": "Kutoarjo",
+        "de:t": "Indonesien | Purworejo"
+    },
+    {
+        "en": "Labuan",
+        "en:t": "Indonesia | Pandeglang",
+        "a": true,
+        "g": {
+            "lat": -6.3668,
+            "lon": 105.8349
+        },
+        "it": "Labuan",
+        "it:t": "Indonesia | Pandeglang",
+        "es": "Labuan",
+        "es:t": "Indonesia | Pandeglang",
+        "de": "Labuan",
+        "de:t": "Indonesien | Pandeglang"
+    },
+    {
+        "en": "Labuan Bajo",
+        "en:t": "Indonesia | Komodo",
+        "a": true,
+        "g": {
+            "lat": -8.4538,
+            "lon": 119.8728
+        },
+        "it": "Labuan Bajo",
+        "it:t": "Indonesia | Komodo",
+        "es": "Labuan Bajo",
+        "es:t": "Indonesia | Komodo",
+        "de": "Labuan Bajo",
+        "de:t": "Indonesien | Komodo"
+    },
+    {
+        "en": "Labuhan Deli",
+        "en:t": "Indonesia | Deli Serdang",
+        "a": true,
+        "g": {
+            "lat": 3.6712,
+            "lon": 98.6271
+        },
+        "it": "Labuhan Deli",
+        "it:t": "Indonesia | Deli Serdang",
+        "es": "Labuhan Deli",
+        "es:t": "Indonesia | Medan Marelan",
+        "de": "Labuhan Deli",
+        "de:t": "Indonesien | Deli Serdang"
+    },
+    {
+        "en": "Lahat",
+        "en:t": "Indonesia",
+        "a": true,
+        "g": {
+            "lat": -3.7382,
+            "lon": 103.5668
+        },
+        "it": "Lahat",
+        "it:t": "Indonesia",
+        "es": "Lahat",
+        "es:t": "Indonesia",
+        "de": "Lahat",
+        "de:t": "Indonesien"
+    },
+    {
+        "en": "Lamongan",
+        "en:t": "Indonesia | Lamongan",
+        "a": true,
+        "g": {
+            "lat": -7.1181,
+            "lon": 112.415
+        },
+        "it": "Made",
+        "it:t": "Indonesia | Lamongan",
+        "es": "Made",
+        "es:t": "Indonesia | Lamongan",
+        "de": "Lamongan",
+        "de:t": "Indonesien | Jawa Timur"
+    },
+    {
+        "en": "Langsa",
+        "en:t": "Indonesia | Langsa Kota",
+        "a": true,
+        "g": {
+            "lat": 4.4725,
+            "lon": 97.9756
+        },
+        "it": "Langsa",
+        "it:t": "Indonesia | Langsa Kota",
+        "es": "Kota Langsa",
+        "es:t": "Indonesia | Langsa Kota",
+        "de": "Langsa",
+        "de:t": "Indonesien | Langsa Kota"
+    },
+    {
+        "en": "Lasem",
+        "en:t": "Indonesia | Rembang",
+        "a": true,
+        "g": {
+            "lat": -6.6978,
+            "lon": 111.4478
+        },
+        "it": "Lasem",
+        "it:t": "Indonesia | Rembang",
+        "es": "Lasem",
+        "es:t": "Indonesia | Rembang",
+        "de": "Lasem",
+        "de:t": "Indonesien | Rembang"
+    },
+    {
+        "en": "Lawang",
+        "en:t": "Indonesia",
+        "a": true,
+        "g": {
+            "lat": -7.8308,
+            "lon": 112.6971
+        },
+        "it": "Lawang",
+        "it:t": "Indonesia",
+        "es": "Lawang",
+        "es:t": "Indonesia",
+        "de": "Lawang",
+        "de:t": "Indonesien"
+    },
+    {
+        "en": "Lebaksiu",
+        "en:t": "Indonesia | Tegal",
+        "a": true,
+        "g": {
+            "lat": -7.0419,
+            "lon": 109.1285
+        },
+        "it": "Lebaksiu",
+        "it:t": "Indonesia | Tegal",
+        "es": "Lebaksiu",
+        "es:t": "Indonesia | Tegal",
+        "de": "Lebaksiu",
+        "de:t": "Indonesien | Tegal"
+    },
+    {
+        "en": "Lembang",
+        "en:t": "Indonesia",
+        "a": true,
+        "g": {
+            "lat": -6.8145,
+            "lon": 107.623
+        },
+        "it": "Lembang",
+        "it:t": "Indonesia",
+        "es": "Lembang",
+        "es:t": "Indonesia",
+        "de": "Lembang",
+        "de:t": "Indonesien"
+    },
+    {
+        "en": "Lhokseumawe",
+        "en:t": "Indonesia | Lhokseumawe",
+        "a": true,
+        "g": {
+            "lat": 5.1812,
+            "lon": 97.1413
+        },
+        "it": "Lhokseumawe",
+        "it:t": "Indonesia | Lhokseumawe",
+        "es": "Lhokseumawe",
+        "es:t": "Indonesia | Lhokseumawe",
+        "de": "Lhokseumawe",
+        "de:t": "Indonesien | Lhokseumawe"
+    },
+    {
+        "en": "Loa Janan",
+        "en:t": "Indonesia | Kutai Kartanegara",
+        "a": true,
+        "g": {
+            "lat": -0.7049,
+            "lon": 117.0323
+        },
+        "it": "Loa Janan",
+        "it:t": "Indonesia | Kutai Kartanegara",
+        "es": "Loa Janan",
+        "es:t": "Indonesia | Kutai Kartanegara",
+        "de": "Loa Janan",
+        "de:t": "Indonesien | Kutai Kartanegara"
+    },
+    {
+        "en": "Lubuklinggau",
+        "en:t": "Indonesia | Lubuklinggau",
+        "a": true,
+        "g": {
+            "lat": -3.2996,
+            "lon": 102.8572
+        },
+        "it": "Lubuklinggau",
+        "it:t": "Indonesia | Lubuklinggau",
+        "es": "Lubuklinggau",
+        "es:t": "Indonesia | Lubuklinggau",
+        "de": "Lubuk Linggau",
+        "de:t": "Indonesien | Lubuklinggau"
+    },
+    {
+        "en": "Lumajang",
+        "en:t": "Indonesia | Lumajang",
+        "a": true,
+        "g": {
+            "lat": -8.1304,
+            "lon": 113.224
+        },
+        "it": "Lumajang",
+        "it:t": "Indonesia | Lumajang",
+        "es": "Denok",
+        "es:t": "Indonesia | Lumajang",
+        "de": "Denok",
+        "de:t": "Indonesien | Lumajang"
+    },
+    {
+        "en": "Luwuk",
+        "en:t": "Indonesia | Soho",
+        "a": true,
+        "g": {
+            "lat": -0.9388,
+            "lon": 122.7928
+        },
+        "it": "Luwuk",
+        "it:t": "Indonesia | Soho",
+        "es": "Luwuk",
+        "es:t": "Indonesia | Soho",
+        "de": "Luwuk",
+        "de:t": "Indonesien | Soho"
+    },
+    {
+        "en": "Madiun",
+        "en:t": "Indonesia",
+        "a": true,
+        "g": {
+            "lat": -7.6311,
+            "lon": 111.53
+        },
+        "it": "Madiun",
+        "it:t": "Indonesia",
+        "es": "Madiun",
+        "es:t": "Indonesia",
+        "de": "Madiun",
+        "de:t": "Indonesien"
+    },
+    {
+        "en": "Magelang",
+        "en:t": "Indonesia | Magelang",
+        "a": true,
+        "g": {
+            "lat": -7.4797,
+            "lon": 110.2177
+        },
+        "it": "Magelang",
+        "it:t": "Indonesia | Magelang",
+        "es": "Magelang",
+        "es:t": "Indonesia | Magelang",
+        "de": "Magelang",
+        "de:t": "Indonesien | Magelang"
+    },
+    {
+        "en": "Majalengka",
+        "en:t": "Indonesia | Majalengka",
+        "a": true,
+        "g": {
+            "lat": -6.8364,
+            "lon": 108.2274
+        },
+        "it": "Majalengka",
+        "it:t": "Indonesia | Majalengka",
+        "es": "Majalengka",
+        "es:t": "Indonesia | Majalengka",
+        "de": "Majalengka",
+        "de:t": "Indonesien | Majalengka"
+    },
+    {
+        "en": "Majenang",
+        "en:t": "Indonesia | Cilacap",
+        "a": true,
+        "g": {
+            "lat": -7.233,
+            "lon": 108.7363
+        },
+        "it": "Majenang",
+        "it:t": "Indonesia | Cilacap",
+        "es": "Majenang",
+        "es:t": "Indonesia | Cilacap",
+        "de": "Majenang",
+        "de:t": "Indonesien | Cilacap"
+    },
+    {
+        "en": "Majene",
+        "en:t": "Indonesia | West Sulawesi",
+        "a": true,
+        "g": {
+            "lat": -3.0297,
+            "lon": 118.9063
+        },
+        "it": "Majene",
+        "it:t": "Indonesia | Sulawesi Occidentale",
+        "es": "Majene",
+        "es:t": "Indonesia | Celeb\u00e9s Occidental",
+        "de": "Majene",
+        "de:t": "Indonesien | West-Sulawesi"
+    },
+    {
+        "en": "Makassar",
+        "en:t": "Indonesia | Makassar",
+        "a": true,
+        "g": {
+            "lat": -5.1477,
+            "lon": 119.4327
+        },
+        "it": "Makassar",
+        "it:t": "Indonesia | Makassar",
+        "es": "Macasar",
+        "es:t": "Indonesia | Makassar",
+        "de": "Makasar",
+        "de:t": "Indonesien | Makassar"
+    },
+    {
+        "en": "Malang",
+        "en:t": "Indonesia | Malang",
+        "a": true,
+        "g": {
+            "lat": -7.9666,
+            "lon": 112.6326
+        },
+        "it": "Malang",
+        "it:t": "Indonesia | Malang",
+        "es": "Malang",
+        "es:t": "Indonesia | Malang",
+        "de": "Malang",
+        "de:t": "Indonesien | Malang"
+    },
+    {
+        "en": "Manado",
+        "en:t": "Indonesia | Manado",
+        "a": true,
+        "g": {
+            "lat": 1.4748,
+            "lon": 124.8421
+        },
+        "it": "Manado",
+        "it:t": "Indonesia | Manado",
+        "es": "Manado",
+        "es:t": "Indonesia | Manado",
+        "de": "Manado",
+        "de:t": "Indonesien | Manado"
+    },
+    {
+        "en": "Manggar",
+        "en:t": "Indonesia",
+        "a": true,
+        "g": {
+            "lat": -2.8703,
+            "lon": 108.2793
+        },
+        "it": "Manggar",
+        "it:t": "Indonesia",
+        "es": "Manggar",
+        "es:t": "Indonesia",
+        "de": "Manggar",
+        "de:t": "Indonesien"
+    },
+    {
+        "en": "Manismata",
+        "en:t": "Indonesia | Manis Mata",
+        "a": true,
+        "g": {
+            "lat": -2.4667,
+            "lon": 111.0333
+        },
+        "it": "Manismata",
+        "it:t": "Indonesia | Manis Mata",
+        "es": "Manismata",
+        "es:t": "Indonesia | Manis Mata",
+        "de": "Manismata",
+        "de:t": "Indonesien | Manis Mata"
+    },
+    {
+        "en": "Manokwari",
+        "en:t": "Indonesia | West Manokwari",
+        "a": true,
+        "g": {
+            "lat": -0.8615,
+            "lon": 134.062
+        },
+        "it": "Manokwari",
+        "it:t": "Indonesia | West Manokwari",
+        "es": "Manokwari",
+        "es:t": "Indonesia | West Manokwari",
+        "de": "Manokwari",
+        "de:t": "Indonesien | Manokwari Barat"
+    },
+    {
+        "en": "Margahayu Kencana Raya",
+        "en:t": "Indonesia | Margahayu Selatan",
+        "a": true,
+        "g": {
+            "lat": -6.9724,
+            "lon": 107.5685
+        },
+        "it": "Margahayu Kencana Raya",
+        "it:t": "Indonesia | Margahayu Selatan",
+        "es": "Margahayu Kencana Raya",
+        "es:t": "Indonesia | Margahayu Selatan",
+        "de": "Margahayu Kencana Raya",
+        "de:t": "Indonesien | Margahayu Selatan"
+    },
+    {
+        "en": "Margasari",
+        "en:t": "Indonesia | Tegal",
+        "a": true,
+        "g": {
+            "lat": -7.0977,
+            "lon": 109.0215
+        },
+        "it": "Margasari",
+        "it:t": "Indonesia | Tegal",
+        "es": "Margasari",
+        "es:t": "Indonesia | Tegal",
+        "de": "Margasari",
+        "de:t": "Indonesien | Tegal"
+    },
+    {
+        "en": "Martapura",
+        "en:t": "Indonesia | Cindai Alus",
+        "a": true,
+        "g": {
+            "lat": -3.4116,
+            "lon": 114.8452
+        },
+        "it": "Martapura",
+        "it:t": "Indonesia | Cindai Alus",
+        "es": "Martapura",
+        "es:t": "Indonesia | Cindai Alus",
+        "de": "Martapura",
+        "de:t": "Indonesien | Cindai Alus"
+    },
+    {
+        "en": "Mataram",
+        "en:t": "Indonesia | West Nusa Tenggara",
+        "a": true,
+        "g": {
+            "lat": -8.5971,
+            "lon": 116.1005
+        },
+        "it": "Mataram",
+        "it:t": "Indonesia | Nusa Tenggara Occidentale",
+        "es": "Mataram",
+        "es:t": "Indonesia | Nusa Tenggara Occidental",
+        "de": "Mataram",
+        "de:t": "Indonesien | West-Nusa Tenggara"
+    },
+    {
+        "en": "Maumere",
+        "en:t": "Indonesia | Uneng",
+        "a": true,
+        "g": {
+            "lat": -8.6246,
+            "lon": 122.2147
+        },
+        "it": "Maumere",
+        "it:t": "Indonesia | Uneng",
+        "es": "Maumere",
+        "es:t": "Indonesia | Uneng",
+        "de": "Maumere",
+        "de:t": "Indonesien | Kota Uneng"
+    },
+    {
+        "en": "Medan",
+        "en:t": "Indonesia | Medan",
+        "a": true,
+        "g": {
+            "lat": 3.5952,
+            "lon": 98.6722
+        },
+        "it": "Medan",
+        "it:t": "Indonesia | Medan",
+        "es": "Medan",
+        "es:t": "Indonesia | Medan",
+        "de": "Medan",
+        "de:t": "Indonesien | Medan"
+    },
+    {
+        "en": "Medan Sunggal",
+        "en:t": "Indonesia | Medan",
+        "a": true,
+        "g": {
+            "lat": 3.576,
+            "lon": 98.6216
+        },
+        "it": "Medan Sunggal",
+        "it:t": "Indonesia | Medan",
+        "es": "Sunggal",
+        "es:t": "Indonesia | Deli Serdang",
+        "de": "Medan Sunggal",
+        "de:t": "Indonesien | Medan"
+    },
+    {
+        "en": "Mendaha",
+        "en:t": "Indonesia | Mendahara Tengah",
+        "a": true,
+        "g": {
+            "lat": -1.0236,
+            "lon": 103.586
+        },
+        "it": "Mendaha",
+        "it:t": "Indonesia | Mendahara Tengah",
+        "es": "Mendaha",
+        "es:t": "Indonesia | Mendahara Tengah",
+        "de": "Mendaha",
+        "de:t": "Indonesien | Mendahara Tengah"
+    },
+    {
+        "en": "Mentok",
+        "en:t": "Indonesia",
+        "a": true,
+        "g": {
+            "lat": -2.0652,
+            "lon": 105.1643
+        },
+        "it": "Mentok",
+        "it:t": "Indonesia",
+        "es": "Mentok",
+        "es:t": "Indonesia",
+        "de": "Muntok",
+        "de:t": "Indonesien"
+    },
+    {
+        "en": "Mertoyudan",
+        "en:t": "Indonesia",
+        "a": true,
+        "g": {
+            "lat": -7.5128,
+            "lon": 110.2253
+        },
+        "it": "Mertoyudan",
+        "it:t": "Indonesia",
+        "es": "Mertoyudan, Mertoyudan, Magelang",
+        "es:t": "Indonesia",
+        "de": "Mertoyudan",
+        "de:t": "Indonesien"
+    },
+    {
+        "en": "Metro",
+        "en:t": "Indonesia | Metro",
+        "a": true,
+        "g": {
+            "lat": -5.1178,
+            "lon": 105.3073
+        },
+        "it": "Metro",
+        "it:t": "Indonesia | Metro",
+        "es": "Metro",
+        "es:t": "Indonesia | Metro",
+        "de": "Metro",
+        "de:t": "Indonesien | Metro"
+    },
+    {
+        "en": "Meulaboh",
+        "en:t": "Indonesia | Johan Pahlawan",
+        "a": true,
+        "g": {
+            "lat": 4.1437,
+            "lon": 96.1281
+        },
+        "it": "Meulaboh",
+        "it:t": "Indonesia | Johan Pahlawan",
+        "es": "Meulaboh",
+        "es:t": "Indonesia | Johan Pahlawan",
+        "de": "Meulaboh",
+        "de:t": "Indonesien | Johan Pahlawan"
+    },
+    {
+        "en": "Mlonggo",
+        "en:t": "Indonesia",
+        "a": true,
+        "g": {
+            "lat": -6.5279,
+            "lon": 110.7045
+        },
+        "it": "Mlonggo",
+        "it:t": "Indonesia",
+        "es": "Mlonggo",
+        "es:t": "Indonesia",
+        "de": "Mlonggo",
+        "de:t": "Indonesien"
+    },
+    {
+        "en": "Mojoagung",
+        "en:t": "Indonesia",
+        "a": true,
+        "g": {
+            "lat": -7.6203,
+            "lon": 112.3695
+        },
+        "it": "Mojoagung",
+        "it:t": "Indonesia",
+        "es": "Mojoagung",
+        "es:t": "Indonesia",
+        "de": "Mojoagung",
+        "de:t": "Indonesien"
+    },
+    {
+        "en": "Mojokerto",
+        "en:t": "Indonesia | Mergelo",
+        "a": true,
+        "g": {
+            "lat": -7.4705,
+            "lon": 112.4401
+        },
+        "it": "Mojokerto",
+        "it:t": "Indonesia | Mergelo",
+        "es": "Mojokerto",
+        "es:t": "Indonesia | Mergelo",
+        "de": "Mojokerto",
+        "de:t": "Indonesien | Mergelo"
+    },
+    {
+        "en": "Mranggen",
+        "en:t": "Indonesia",
+        "a": true,
+        "g": {
+            "lat": -7.0426,
+            "lon": 110.5096
+        },
+        "it": "Mranggen",
+        "it:t": "Indonesia",
+        "es": "Mranggen",
+        "es:t": "Indonesia",
+        "de": "Mranggen",
+        "de:t": "Indonesien"
+    },
+    {
+        "en": "Muncar",
+        "en:t": "Indonesia | Banyuwangi",
+        "a": true,
+        "g": {
+            "lat": -8.448,
+            "lon": 114.3104
+        },
+        "it": "Muncar",
+        "it:t": "Indonesia | Banyuwangi",
+        "es": "Muncar",
+        "es:t": "Indonesia | Banyuwangi",
+        "de": "Muncar",
+        "de:t": "Indonesien | Banyuwangi"
+    },
+    {
+        "en": "Muntilan",
+        "en:t": "Indonesia | Muntilan",
+        "a": true,
+        "g": {
+            "lat": -7.581,
+            "lon": 110.2981
+        },
+        "it": "Muntilan",
+        "it:t": "Indonesia | Muntilan",
+        "es": "Muntilan",
+        "es:t": "Indonesia | Muntilan",
+        "de": "Ngawen",
+        "de:t": "Indonesien | Muntilan"
+    },
+    {
+        "en": "Nabire",
+        "en:t": "Indonesia | Nabire",
+        "a": true,
+        "g": {
+            "lat": -3.3722,
+            "lon": 135.5016
+        },
+        "it": "Nabire",
+        "it:t": "Indonesia | Nabire",
+        "es": "Nabire",
+        "es:t": "Indonesia | Nabire",
+        "de": "Nabire",
+        "de:t": "Indonesien | Nabire"
+    },
+    {
+        "en": "Negara",
+        "en:t": "Indonesia | Jembrana",
+        "a": true,
+        "g": {
+            "lat": -8.3482,
+            "lon": 114.5955
+        },
+        "it": "Negara",
+        "it:t": "Indonesia | Jembrana",
+        "es": "Negara",
+        "es:t": "Indonesia | Jembrana",
+        "de": "Negara",
+        "de:t": "Indonesien | Jembrana"
+    },
+    {
+        "en": "Nganjuk",
+        "en:t": "Indonesia | Nganjuk",
+        "a": true,
+        "g": {
+            "lat": -7.6044,
+            "lon": 111.8993
+        },
+        "it": "Nganjuk",
+        "it:t": "Indonesia | Nganjuk",
+        "es": "Nganjuk",
+        "es:t": "Indonesia | Nganjuk",
+        "de": "Nganjuk",
+        "de:t": "Indonesien | Jawa Timur"
+    },
+    {
+        "en": "Ngoro",
+        "en:t": "Indonesia",
+        "a": true,
+        "g": {
+            "lat": -7.5521,
+            "lon": 112.6183
+        },
+        "it": "Ngoro",
+        "it:t": "Indonesia",
+        "es": "Ngoro",
+        "es:t": "Indonesia",
+        "de": "Ngoro",
+        "de:t": "Indonesien"
+    },
+    {
+        "en": "Ngunut",
+        "en:t": "Indonesia | Tulungagung",
+        "a": true,
+        "g": {
+            "lat": -8.1104,
+            "lon": 111.988
+        },
+        "it": "Ngunut",
+        "it:t": "Indonesia | Tulungagung",
+        "es": "Ngunut",
+        "es:t": "Indonesia | Tulungagung",
+        "de": "Ngunut",
+        "de:t": "Indonesien | Tulungagung"
+    },
+    {
+        "en": "Paciran",
+        "en:t": "Indonesia",
+        "a": true,
+        "g": {
+            "lat": -6.8893,
+            "lon": 112.3636
+        },
+        "it": "Paciran",
+        "it:t": "Indonesia",
+        "es": "Paciran",
+        "es:t": "Indonesia",
+        "de": "Paciran",
+        "de:t": "Indonesien"
+    },
+    {
+        "en": "Padang",
+        "en:t": "Indonesia | Padang",
+        "a": true,
+        "g": {
+            "lat": -0.9471,
+            "lon": 100.4172
+        },
+        "it": "Padang",
+        "it:t": "Indonesia | Padang",
+        "es": "Padang",
+        "es:t": "Indonesia | Padang",
+        "de": "Padang",
+        "de:t": "Indonesien | Padang"
+    },
+    {
+        "en": "Padang Sidempuan",
+        "en:t": "Indonesia | North Padangsidimpuan",
+        "a": true,
+        "g": {
+            "lat": 1.3722,
+            "lon": 99.273
+        },
+        "it": "Padang Sidempuan",
+        "it:t": "Indonesia | North Padangsidimpuan",
+        "es": "Padang Sidempuan",
+        "es:t": "Indonesia | North Padangsidimpuan",
+        "de": "Padang Sidempuan",
+        "de:t": "Indonesien | Padang Sidempuan Utara"
+    },
+    {
+        "en": "Pagar Alam",
+        "en:t": "Indonesia | Pagar Alam",
+        "a": true,
+        "g": {
+            "lat": -4.042,
+            "lon": 103.2279
+        },
+        "it": "Pagar Alam",
+        "it:t": "Indonesia | Pagar Alam",
+        "es": "Pagar Alam",
+        "es:t": "Indonesia | Pagar Alam",
+        "de": "Pagar Alam",
+        "de:t": "Indonesien | Pagar Alam"
+    },
+    {
+        "en": "Pakisaji",
+        "en:t": "Indonesia",
+        "a": true,
+        "g": {
+            "lat": -8.0678,
+            "lon": 112.599
+        },
+        "it": "Pakisaji",
+        "it:t": "Indonesia",
+        "es": "Pakisaji",
+        "es:t": "Indonesia",
+        "de": "Pakisaji",
+        "de:t": "Indonesien"
+    },
+    {
+        "en": "Palangkaraya",
+        "en:t": "Indonesia | Jekan Raya",
+        "a": true,
+        "g": {
+            "lat": -2.2161,
+            "lon": 113.914
+        },
+        "it": "Palangkaraya",
+        "it:t": "Indonesia | Jekan Raya",
+        "es": "Palangkaraya",
+        "es:t": "Indonesia | Jekan Raya",
+        "de": "Palangka Raya",
+        "de:t": "Indonesien | Jekan Raya"
+    },
+    {
+        "en": "Palembang",
+        "en:t": "Indonesia | Palembang",
+        "a": true,
+        "g": {
+            "lat": -2.9761,
+            "lon": 104.7754
+        },
+        "it": "Palembang",
+        "it:t": "Indonesia | Palembang",
+        "es": "Palembang",
+        "es:t": "Indonesia | Palembang",
+        "de": "Palembang",
+        "de:t": "Indonesien | Palembang"
+    },
+    {
+        "en": "Palimanan",
+        "en:t": "Indonesia",
+        "a": true,
+        "g": {
+            "lat": -6.708,
+            "lon": 108.4332
+        },
+        "it": "Pegagan",
+        "it:t": "Indonesia",
+        "es": "Pegagan",
+        "es:t": "Indonesia",
+        "de": "Palimanan",
+        "de:t": "Indonesien"
+    },
+    {
+        "en": "Palopo",
+        "en:t": "Indonesia | Wara",
+        "a": true,
+        "g": {
+            "lat": -3.0016,
+            "lon": 120.1985
+        },
+        "it": "Palopo",
+        "it:t": "Indonesia | Wara",
+        "es": "Palopo",
+        "es:t": "Indonesia | Wara",
+        "de": "Palopo",
+        "de:t": "Indonesien | Wara"
+    },
+    {
+        "en": "Palu",
+        "en:t": "Indonesia | Central Sulawesi",
+        "a": true,
+        "g": {
+            "lat": -0.8679,
+            "lon": 119.9047
+        },
+        "it": "Palu",
+        "it:t": "Indonesia | Sulawesi Tenggara",
+        "es": "Palu",
+        "es:t": "Indonesia | Celeb\u00e9s Central",
+        "de": "Palu",
+        "de:t": "Indonesien | Zentral-Sulawesi"
+    },
+    {
+        "en": "Pamanukan",
+        "en:t": "Indonesia",
+        "a": true,
+        "g": {
+            "lat": -6.2865,
+            "lon": 107.8207
+        },
+        "it": "Pamanukan",
+        "it:t": "Indonesia",
+        "es": "Pamanukan",
+        "es:t": "Indonesia",
+        "de": "Pamanukan",
+        "de:t": "Indonesien"
+    },
+    {
+        "en": "Pamekasan",
+        "en:t": "Indonesia | Pamekasan",
+        "a": true,
+        "g": {
+            "lat": -7.1542,
+            "lon": 113.4739
+        },
+        "it": "Pamekasan",
+        "it:t": "Indonesia | Pamekasan",
+        "es": "Pamekasan",
+        "es:t": "Indonesia | Pamekasan",
+        "de": "Pamekasan",
+        "de:t": "Indonesien | Pamekasan"
+    },
+    {
+        "en": "Pameungpeuk",
+        "en:t": "Indonesia | Garut",
+        "a": true,
+        "g": {
+            "lat": -7.6378,
+            "lon": 107.7281
+        },
+        "it": "Pameungpeuk",
+        "it:t": "Indonesia | Garut",
+        "es": "Pameungpeuk",
+        "es:t": "Indonesia | Garut",
+        "de": "Pameungpeuk",
+        "de:t": "Indonesien | Garut"
+    },
+    {
+        "en": "Pamulang",
+        "en:t": "Indonesia | South Tangerang",
+        "a": true,
+        "g": {
+            "lat": -6.3479,
+            "lon": 106.7412
+        },
+        "it": "Pamulang",
+        "it:t": "Indonesia | South Tangerang",
+        "es": "Pamulang",
+        "es:t": "Indonesia | South Tangerang",
+        "de": "Pamulang",
+        "de:t": "Indonesien | South Tangerang"
+    },
+    {
+        "en": "Panarukan",
+        "en:t": "Indonesia | Situbondo",
+        "a": true,
+        "g": {
+            "lat": -7.6917,
+            "lon": 113.9655
+        },
+        "it": "Panarukan",
+        "it:t": "Indonesia | Situbondo",
+        "es": "Panarukan",
+        "es:t": "Indonesia | Situbondo",
+        "de": "Panarukan",
+        "de:t": "Indonesien | Situbondo"
+    },
+    {
+        "en": "Pancawati",
+        "en:t": "Indonesia | Kecamatan Caringin",
+        "a": true,
+        "g": {
+            "lat": -6.7151,
+            "lon": 106.8625
+        },
+        "it": "Pancawati",
+        "it:t": "Indonesia | Caringin",
+        "es": "Jalan Pasar Induk Caringin",
+        "es:t": "Indonesia | Babakan Ciparay",
+        "de": "Caringin",
+        "de:t": "Indonesien | Sukabumi"
+    },
+    {
+        "en": "Pandaan",
+        "en:t": "Indonesia | Pasuruan",
+        "a": true,
+        "g": {
+            "lat": -7.6426,
+            "lon": 112.7033
+        },
+        "it": "Pandaan",
+        "it:t": "Indonesia | Pasuruan",
+        "es": "Pandaan",
+        "es:t": "Indonesia | Pasuruan",
+        "de": "Pandaan",
+        "de:t": "Indonesien | Pasuruan"
+    },
+    {
+        "en": "Pandak",
+        "en:t": "Indonesia | Bantul",
+        "a": true,
+        "g": {
+            "lat": -7.9287,
+            "lon": 110.2892
+        },
+        "it": "Pandak",
+        "it:t": "Indonesia | Bantul",
+        "es": "Pandak",
+        "es:t": "Indonesia | Bantul",
+        "de": "Pandak",
+        "de:t": "Indonesien | Bantul"
+    },
+    {
+        "en": "Pandeglang",
+        "en:t": "Indonesia | Pandeglang",
+        "a": true,
+        "g": {
+            "lat": -6.3271,
+            "lon": 106.1169
+        },
+        "it": "Pandeglang",
+        "it:t": "Indonesia | Pandeglang",
+        "es": "Kabayan",
+        "es:t": "Indonesia | Pandeglang",
+        "de": "Pandeglang",
+        "de:t": "Indonesien | Pandeglang"
+    },
+    {
+        "en": "Pangkal Pinang",
+        "en:t": "Indonesia | Pangkal Pinang",
+        "a": true,
+        "g": {
+            "lat": -2.1316,
+            "lon": 106.1169
+        },
+        "it": "Pangkal Pinang",
+        "it:t": "Indonesia | Pangkal Pinang",
+        "es": "Pangkal Pinang",
+        "es:t": "Indonesia | Pangkal Pinang",
+        "de": "Pangkal Pinang",
+        "de:t": "Indonesien | Pangkal Pinang"
+    },
+    {
+        "en": "Pangkalan Brandan",
+        "en:t": "Indonesia | Puraka - I",
+        "a": true,
+        "g": {
+            "lat": 4.019,
+            "lon": 98.2825
+        },
+        "it": "Pangkalan Brandan",
+        "it:t": "Indonesia | Puraka - I",
+        "es": "Pangkalan Brandan",
+        "es:t": "Indonesia | Puraka - I",
+        "de": "Pangkalan Brandan",
+        "de:t": "Indonesien | Puraka - I"
+    },
+    {
+        "en": "Pangkalan Bun",
+        "en:t": "Indonesia | Mendawai",
+        "a": true,
+        "g": {
+            "lat": -2.689,
+            "lon": 111.6224
+        },
+        "it": "Pangkalan Bun",
+        "it:t": "Indonesia | Mendawai",
+        "es": "Pangkalan Bun",
+        "es:t": "Indonesia | Mendawai",
+        "de": "Pangkalan Bun",
+        "de:t": "Indonesien | Mendawai"
+    },
+    {
+        "en": "Panji",
+        "en:t": "Indonesia | Situbondo",
+        "a": true,
+        "g": {
+            "lat": -7.7076,
+            "lon": 114.0369
+        },
+        "it": "Panji",
+        "it:t": "Indonesia | Situbondo",
+        "es": "Panji",
+        "es:t": "Indonesia | Situbondo",
+        "de": "Panji",
+        "de:t": "Indonesien | Situbondo"
+    },
+    {
+        "en": "Pare, Kediri",
+        "en:t": "Indonesia",
+        "a": true,
+        "g": {
+            "lat": -7.7655,
+            "lon": 112.1979
+        },
+        "it": "Pare, Kediri",
+        "it:t": "Indonesia",
+        "es": "Pare",
+        "es:t": "Indonesia",
+        "de": "Pare, Kediri",
+        "de:t": "Indonesien"
+    },
+    {
+        "en": "Parepare",
+        "en:t": "Indonesia | Pare-Pare",
+        "a": true,
+        "g": {
+            "lat": -4.0096,
+            "lon": 119.6291
+        },
+        "it": "Pare-Pare",
+        "it:t": "Indonesia | Pare-Pare",
+        "es": "Parepare",
+        "es:t": "Indonesia | Pare-Pare",
+        "de": "Pare-Pare",
+        "de:t": "Indonesien | Pare-Pare"
+    },
+    {
+        "en": "Pariaman",
+        "en:t": "Indonesia | Pariaman",
+        "a": true,
+        "g": {
+            "lat": -0.6257,
+            "lon": 100.1233
+        },
+        "it": "Pariaman",
+        "it:t": "Indonesia | Pariaman",
+        "es": "Pariaman",
+        "es:t": "Indonesia | Pariaman",
+        "de": "Pariaman",
+        "de:t": "Indonesien | Pariaman"
+    },
+    {
+        "en": "Parung",
+        "en:t": "Indonesia",
+        "a": true,
+        "g": {
+            "lat": -6.4307,
+            "lon": 106.7176
+        },
+        "it": "Parung",
+        "it:t": "Indonesia",
+        "es": "Parung",
+        "es:t": "Indonesia",
+        "de": "Parung",
+        "de:t": "Indonesien"
+    },
+    {
+        "en": "Pasar Kemis",
+        "en:t": "Indonesia | Tangerang",
+        "a": true,
+        "g": {
+            "lat": -6.1547,
+            "lon": 106.5466
+        },
+        "it": "Pasar Kemis",
+        "it:t": "Indonesia | Tangerang",
+        "es": "Pasar Kemis",
+        "es:t": "Indonesia | Tangerang",
+        "de": "Pasarkemis",
+        "de:t": "Indonesien | Tangerang"
+    },
+    {
+        "en": "Paseh",
+        "en:t": "Indonesia | Bandung",
+        "a": true,
+        "g": {
+            "lat": -7.0755,
+            "lon": 107.7992
+        },
+        "it": "Paseh",
+        "it:t": "Indonesia | Bandung",
+        "es": "Paseh",
+        "es:t": "Indonesia | Bandung",
+        "de": "Paseh",
+        "de:t": "Indonesien | Bandung"
+    },
+    {
+        "en": "Pasuruan",
+        "en:t": "Indonesia | Pasuruan",
+        "a": true,
+        "g": {
+            "lat": -7.6469,
+            "lon": 112.8999
+        },
+        "it": "Pasuruan",
+        "it:t": "Indonesia | Pasuruan",
+        "es": "Pasuruan",
+        "es:t": "Indonesia | Pasuruan",
+        "de": "Pasuruan",
+        "de:t": "Indonesien | Pasuruan"
+    },
+    {
+        "en": "Pati",
+        "en:t": "Indonesia",
+        "a": true,
+        "g": {
+            "lat": -6.7487,
+            "lon": 111.0379
+        },
+        "it": "Pati",
+        "it:t": "Indonesia",
+        "es": "Pati",
+        "es:t": "Indonesia",
+        "de": "Pati",
+        "de:t": "Indonesien"
+    },
+    {
+        "en": "Payakumbuh",
+        "en:t": "Indonesia | Payakumbuh",
+        "a": true,
+        "g": {
+            "lat": -0.2247,
+            "lon": 100.6318
+        },
+        "it": "Payakumbuh",
+        "it:t": "Indonesia | Payakumbuh",
+        "es": "Payakumbuh",
+        "es:t": "Indonesia | Payakumbuh",
+        "de": "Payakumbuh",
+        "de:t": "Indonesien | Payakumbuh"
+    },
+    {
+        "en": "Pecangaan",
+        "en:t": "Indonesia",
+        "a": true,
+        "g": {
+            "lat": -6.6889,
+            "lon": 110.7013
+        },
+        "it": "Pecangaan",
+        "it:t": "Indonesia",
+        "es": "Pecangaan",
+        "es:t": "Indonesia",
+        "de": "Pecangaan",
+        "de:t": "Indonesien"
+    },
+    {
+        "en": "Pekalongan",
+        "en:t": "Indonesia",
+        "a": true,
+        "g": {
+            "lat": -6.8898,
+            "lon": 109.6746
+        },
+        "it": "Pekalongan",
+        "it:t": "Indonesia",
+        "es": "Pekalongan",
+        "es:t": "Indonesia",
+        "de": "Pekalongan",
+        "de:t": "Indonesien"
+    },
+    {
+        "en": "Pekanbaru",
+        "en:t": "Indonesia | Pekanbaru",
+        "a": true,
+        "g": {
+            "lat": 0.5071,
+            "lon": 101.4478
+        },
+        "it": "Pekanbaru",
+        "it:t": "Indonesia | Pekanbaru",
+        "es": "Pekanbaru",
+        "es:t": "Indonesia | Pekanbaru",
+        "de": "Pekanbaru",
+        "de:t": "Indonesien | Pekanbaru"
+    },
+    {
+        "en": "Pelabuhan Ratu",
+        "en:t": "Indonesia | Sukabumi",
+        "a": true,
+        "g": {
+            "lat": -6.9852,
+            "lon": 106.5475
+        },
+        "it": "Pelabuhanratu",
+        "it:t": "Indonesia | Sukabumi",
+        "es": "Pelabuhanratu",
+        "es:t": "Indonesia | Sukabumi",
+        "de": "Pelabuhan Ratu",
+        "de:t": "Indonesien | Sukabumi"
+    },
+    {
+        "en": "Pemalang",
+        "en:t": "Indonesia",
+        "a": true,
+        "g": {
+            "lat": -6.8899,
+            "lon": 109.3807
+        },
+        "it": "Pemalang",
+        "it:t": "Indonesia",
+        "es": "Pemalang",
+        "es:t": "Indonesia",
+        "de": "Pemalang",
+        "de:t": "Indonesien"
+    },
+    {
+        "en": "Pemangkat",
+        "en:t": "Indonesia | Pemangkat Kota",
+        "a": true,
+        "g": {
+            "lat": 1.1753,
+            "lon": 108.9704
+        },
+        "it": "Pemangkat",
+        "it:t": "Indonesia | Pemangkat Kota",
+        "es": "Pemangkat",
+        "es:t": "Indonesia | Pemangkat Kota",
+        "de": "Pemangkat",
+        "de:t": "Indonesien | Pemangkat Kota"
+    },
+    {
+        "en": "Pematangsiantar",
+        "en:t": "Indonesia | Pematang Siantar",
+        "a": true,
+        "g": {
+            "lat": 2.9651,
+            "lon": 99.0626
+        },
+        "it": "Pematangsiantar",
+        "it:t": "Indonesia | Pematang Siantar",
+        "es": "Pematangsiantar",
+        "es:t": "Indonesia | Pematang Siantar",
+        "de": "Pematangsiantar",
+        "de:t": "Indonesien | Pematang Siantar"
+    },
+    {
+        "en": "Perbaungan",
+        "en:t": "Indonesia | Batang Terap",
+        "a": true,
+        "g": {
+            "lat": 3.5682,
+            "lon": 98.9471
+        },
+        "it": "Perbaungan",
+        "it:t": "Indonesia | Batang Terap",
+        "es": "Perbaungan",
+        "es:t": "Indonesia | Batang Terap",
+        "de": "Perbaungan",
+        "de:t": "Indonesien | Batang Terap"
+    },
+    {
+        "en": "Percut",
+        "en:t": "Indonesia | Percut Sei Tuan",
+        "a": true,
+        "g": {
+            "lat": 3.715,
+            "lon": 98.7646
+        },
+        "it": "Percut",
+        "it:t": "Indonesia | Percut Sei Tuan",
+        "es": "Percut",
+        "es:t": "Indonesia | Percut Sei Tuan",
+        "de": "Percut",
+        "de:t": "Indonesien | Percut Sei Tuan"
+    },
+    {
+        "en": "Petarukan",
+        "en:t": "Indonesia | Pemalang",
+        "a": true,
+        "g": {
+            "lat": -6.8848,
+            "lon": 109.4616
+        },
+        "it": "Petarukan",
+        "it:t": "Indonesia | Pemalang",
+        "es": "Petarukan",
+        "es:t": "Indonesia | Pemalang",
+        "de": "Petarukan",
+        "de:t": "Indonesien | Pemalang"
+    },
+    {
+        "en": "Plumbon",
+        "en:t": "Indonesia",
+        "a": true,
+        "g": {
+            "lat": -6.7017,
+            "lon": 108.4729
+        },
+        "it": "Plumbon",
+        "it:t": "Indonesia",
+        "es": "Plumbon",
+        "es:t": "Indonesia",
+        "de": "Plumbon",
+        "de:t": "Indonesien"
+    },
+    {
+        "en": "Polewali",
+        "en:t": "Indonesia | Polewali Mandar",
+        "a": true,
+        "g": {
+            "lat": -3.4155,
+            "lon": 119.3367
+        },
+        "it": "Polewali",
+        "it:t": "Indonesia | Polewali Mandar",
+        "es": "Polewali",
+        "es:t": "Indonesia | Polewali Mandar",
+        "de": "Polewali",
+        "de:t": "Indonesien | Polewali Mandar"
+    },
+    {
+        "en": "Ponorogo",
+        "en:t": "Indonesia | East Java",
+        "a": true,
+        "g": {
+            "lat": -7.8651,
+            "lon": 111.4696
+        },
+        "it": "Ponorogo",
+        "it:t": "Indonesia | Giava Orientale",
+        "es": "Ponorogo",
+        "es:t": "Indonesia | East Java",
+        "de": "Ponorogo",
+        "de:t": "Indonesien | East Java"
+    },
+    {
+        "en": "Pontianak",
+        "en:t": "Indonesia",
+        "a": true,
+        "g": {
+            "lat": -0.0263,
+            "lon": 109.3425
+        },
+        "it": "Pontianak",
+        "it:t": "Indonesia",
+        "es": "Pontianak",
+        "es:t": "Indonesia",
+        "de": "Pontianak",
+        "de:t": "Indonesien"
+    },
+    {
+        "en": "Poso",
+        "en:t": "Indonesia | Sayo",
+        "a": true,
+        "g": {
+            "lat": -1.395,
+            "lon": 120.7538
+        },
+        "it": "Poso",
+        "it:t": "Indonesia | Sayo",
+        "es": "Poso",
+        "es:t": "Indonesia | Sayo",
+        "de": "Poso",
+        "de:t": "Indonesien | Sayo"
+    },
+    {
+        "en": "Prabumulih",
+        "en:t": "Indonesia | Prabumulih",
+        "a": true,
+        "g": {
+            "lat": -3.4214,
+            "lon": 104.2437
+        },
+        "it": "Prabumulih",
+        "it:t": "Indonesia | Prabumulih",
+        "es": "Prabumulih",
+        "es:t": "Indonesia | Prabumulih",
+        "de": "Prabumulih",
+        "de:t": "Indonesien | Prabumulih"
+    },
+    {
+        "en": "Praya",
+        "en:t": "Indonesia | Central Lombok",
+        "a": true,
+        "g": {
+            "lat": -8.6837,
+            "lon": 116.2895
+        },
+        "it": "Praya",
+        "it:t": "Indonesia | Central Lombok",
+        "es": "Praya",
+        "es:t": "Indonesia | Lombok Central",
+        "de": "Praya",
+        "de:t": "Indonesien | Kabupaten Lombok Tengah"
+    },
+    {
+        "en": "Prigen",
+        "en:t": "Indonesia | Pasuruan",
+        "a": true,
+        "g": {
+            "lat": -7.6966,
+            "lon": 112.6437
+        },
+        "it": "Prigen",
+        "it:t": "Indonesia | Pasuruan",
+        "es": "Prigen",
+        "es:t": "Indonesia | Pasuruan",
+        "de": "Prigen",
+        "de:t": "Indonesien | Pasuruan"
+    },
+    {
+        "en": "Probolinggo",
+        "en:t": "Indonesia | Probolinggo",
+        "a": true,
+        "g": {
+            "lat": -7.7764,
+            "lon": 113.2037
+        },
+        "it": "Probolinggo",
+        "it:t": "Indonesia | Probolinggo",
+        "es": "Probolinggo",
+        "es:t": "Indonesia | Probolinggo",
+        "de": "Probolinggo",
+        "de:t": "Indonesien | Probolinggo"
+    },
+    {
+        "en": "Pundong",
+        "en:t": "Indonesia | Bantul",
+        "a": true,
+        "g": {
+            "lat": -7.9675,
+            "lon": 110.3368
+        },
+        "it": "Pundong",
+        "it:t": "Indonesia | Bantul",
+        "es": "Pundong",
+        "es:t": "Indonesia | Bantul",
+        "de": "Pundong",
+        "de:t": "Indonesien | Bantul"
+    },
+    {
+        "en": "Purbalingga",
+        "en:t": "Indonesia | Purbalingga",
+        "a": true,
+        "g": {
+            "lat": -7.3857,
+            "lon": 109.3604
+        },
+        "it": "Purbalingga",
+        "it:t": "Indonesia | Purbalingga",
+        "es": "Purbalingga",
+        "es:t": "Indonesia | Purbalingga",
+        "de": "Purbalingga",
+        "de:t": "Indonesien | Purbalingga"
+    },
+    {
+        "en": "Purwakarta",
+        "en:t": "Indonesia",
+        "a": true,
+        "g": {
+            "lat": -6.5407,
+            "lon": 107.4463
+        },
+        "it": "Purwakarta",
+        "it:t": "Indonesia",
+        "es": "Purwakarta",
+        "es:t": "Indonesia",
+        "de": "Purwakarta",
+        "de:t": "Indonesien"
+    },
+    {
+        "en": "Purwodadi",
+        "en:t": "Indonesia",
+        "a": true,
+        "g": {
+            "lat": -7.0872,
+            "lon": 110.9134
+        },
+        "it": "Purwodadi",
+        "it:t": "Indonesia",
+        "es": "Purwodadi",
+        "es:t": "Indonesia",
+        "de": "Purwodadi",
+        "de:t": "Indonesien"
+    },
+    {
+        "en": "Purwokerto",
+        "en:t": "Indonesia | Banyumas",
+        "a": true,
+        "g": {
+            "lat": -7.4243,
+            "lon": 109.2396
+        },
+        "it": "Purwokerto",
+        "it:t": "Indonesia | Banyumas",
+        "es": "Purwokerto",
+        "es:t": "Indonesia | Banyumas",
+        "de": "Purwokerto",
+        "de:t": "Indonesien | Banyumas"
+    },
+    {
+        "en": "Rajapolah",
+        "en:t": "Indonesia | Tasikmalaya",
+        "a": true,
+        "g": {
+            "lat": -7.2199,
+            "lon": 108.1844
+        },
+        "it": "Rajapolah",
+        "it:t": "Indonesia | Tasikmalaya",
+        "es": "Rajapolah",
+        "es:t": "Indonesia | Tasikmalaya",
+        "de": "Rajapolah",
+        "de:t": "Indonesien | Tasikmalaya"
+    },
+    {
+        "en": "Randudongkal",
+        "en:t": "Indonesia",
+        "a": true,
+        "g": {
+            "lat": -7.0899,
+            "lon": 109.3248
+        },
+        "it": "Randudongkal",
+        "it:t": "Indonesia",
+        "es": "Randudongkal",
+        "es:t": "Indonesia",
+        "de": "Randudongkal",
+        "de:t": "Indonesien"
+    },
+    {
+        "en": "Rangkasbitung",
+        "en:t": "Indonesia | Lebak",
+        "a": true,
+        "g": {
+            "lat": -6.3473,
+            "lon": 106.2875
+        },
+        "it": "Rangkasbitung",
+        "it:t": "Indonesia | Lebak",
+        "es": "Rangkasbitung",
+        "es:t": "Indonesia | Lebak",
+        "de": "Rangkasbitung",
+        "de:t": "Indonesien | Lebak"
+    },
+    {
+        "en": "Rantauprapat",
+        "en:t": "Indonesia | North Rantau",
+        "a": true,
+        "g": {
+            "lat": 2.1051,
+            "lon": 99.8278
+        },
+        "it": "Rantauprapat",
+        "it:t": "Indonesia | North Rantau",
+        "es": "Rantauprapat",
+        "es:t": "Indonesia | North Rantau",
+        "de": "Rantauprapat",
+        "de:t": "Indonesien | North Rantau"
+    },
+    {
+        "en": "Rantepao",
+        "en:t": "Indonesia | North Toraja",
+        "a": true,
+        "g": {
+            "lat": -2.9704,
+            "lon": 119.8757
+        },
+        "it": "Rantepao",
+        "it:t": "Indonesia | North Toraja",
+        "es": "Rantepao",
+        "es:t": "Indonesia | North Toraja",
+        "de": "Rantepao",
+        "de:t": "Indonesien | Nordtoraja"
+    },
+    {
+        "en": "Raya River",
+        "en:t": "Indonesia | Kubu Raya",
+        "a": true,
+        "g": {
+            "lat": -0.2468,
+            "lon": 109.6163
+        },
+        "it": "Raya River",
+        "it:t": "Indonesia | Kubu Raya",
+        "es": "Raya River",
+        "es:t": "Indonesia | Kubu Raya",
+        "de": "Sungai Raya",
+        "de:t": "Indonesien | Kabupaten Kubu Raya"
+    },
+    {
+        "en": "Rembangan",
+        "en:t": "Indonesia | Tasikagung",
+        "a": true,
+        "g": {
+            "lat": -6.7035,
+            "lon": 111.3374
+        },
+        "it": "Rembangan",
+        "it:t": "Indonesia | Tasikagung",
+        "es": "Rembangan",
+        "es:t": "Indonesia | Tasikagung",
+        "de": "Rembangan",
+        "de:t": "Indonesien | Tasikagung"
+    },
+    {
+        "en": "Rengasdengklok",
+        "en:t": "Indonesia",
+        "a": true,
+        "g": {
+            "lat": -6.1562,
+            "lon": 107.2994
+        },
+        "it": "Rengasdengklok",
+        "it:t": "Indonesia",
+        "es": "Rengasdengklok",
+        "es:t": "Indonesia",
+        "de": "Rengasdengklok",
+        "de:t": "Indonesien"
+    },
+    {
+        "en": "Reuleut",
+        "en:t": "Indonesia | Ulim",
+        "a": true,
+        "g": {
+            "lat": 5.2175,
+            "lon": 96.2788
+        },
+        "it": "Reuleut",
+        "it:t": "Indonesia | Ulim",
+        "es": "Reuleut",
+        "es:t": "Indonesia | Ulim",
+        "de": "Reuleut",
+        "de:t": "Indonesien | Ulim"
+    },
+    {
+        "en": "Ruteng",
+        "en:t": "Indonesia | Watu",
+        "a": true,
+        "g": {
+            "lat": -8.6144,
+            "lon": 120.4665
+        },
+        "it": "Ruteng",
+        "it:t": "Indonesia | Watu",
+        "es": "Ruteng",
+        "es:t": "Indonesia | Watu",
+        "de": "Ruteng",
+        "de:t": "Indonesien | Watu"
+    },
+    {
+        "en": "Sabang",
+        "en:t": "Indonesia | Sabang",
+        "a": true,
+        "g": {
+            "lat": 5.8926,
+            "lon": 95.3238
+        },
+        "it": "Sabang",
+        "it:t": "Indonesia | Sabang",
+        "es": "Sabang",
+        "es:t": "Indonesia | Sabang",
+        "de": "Sabang",
+        "de:t": "Indonesien | Sabang"
+    },
+    {
+        "en": "Salatiga",
+        "en:t": "Indonesia | Salatiga",
+        "a": true,
+        "g": {
+            "lat": -7.3305,
+            "lon": 110.5084
+        },
+        "it": "Salatiga",
+        "it:t": "Indonesia",
+        "es": "Salatiga",
+        "es:t": "Indonesia | Salatiga",
+        "de": "Salatiga",
+        "de:t": "Indonesien"
+    },
+    {
+        "en": "Samarinda",
+        "en:t": "Indonesia | East Kalimantan",
+        "a": true,
+        "g": {
+            "lat": -0.5016,
+            "lon": 117.1265
+        },
+        "it": "Samarinda Area",
+        "it:t": "Indonesia | East Kalimantan",
+        "es": "Samarinda Area",
+        "es:t": "Indonesia | East Kalimantan",
+        "de": "Samarinda",
+        "de:t": "Indonesien | Kalimantan Timur"
+    },
+    {
+        "en": "Sampang",
+        "en:t": "Indonesia | Sampang",
+        "a": true,
+        "g": {
+            "lat": -7.1911,
+            "lon": 113.2476
+        },
+        "it": "Sampang",
+        "it:t": "Indonesia | Sampang",
+        "es": "Sampang",
+        "es:t": "Indonesia | Sampang",
+        "de": "Sampang",
+        "de:t": "Indonesien | Sampang"
+    },
+    {
+        "en": "Sampit",
+        "en:t": "Indonesia | Mentawa Baru Hulu",
+        "a": true,
+        "g": {
+            "lat": -2.5395,
+            "lon": 112.9587
+        },
+        "it": "Sampit",
+        "it:t": "Indonesia | Mentawa Baru Hulu",
+        "es": "Sampit",
+        "es:t": "Indonesia | Mentawa Baru Hulu",
+        "de": "Sampit",
+        "de:t": "Indonesien | Mentawa Baru Hulu"
+    },
+    {
+        "en": "Sawangan",
+        "en:t": "Indonesia | Depok",
+        "a": true,
+        "g": {
+            "lat": -6.4086,
+            "lon": 106.7647
+        },
+        "it": "Sawangan",
+        "it:t": "Indonesia | Depok",
+        "es": "Sawangan",
+        "es:t": "Indonesia | Depok",
+        "de": "Sawangan",
+        "de:t": "Indonesien | Depok"
+    },
+    {
+        "en": "Selogiri",
+        "en:t": "Indonesia | Wonogiri",
+        "a": true,
+        "g": {
+            "lat": -7.7798,
+            "lon": 110.8911
+        },
+        "it": "Selogiri",
+        "it:t": "Indonesia | Wonogiri",
+        "es": "Selogiri",
+        "es:t": "Indonesia | Wonogiri",
+        "de": "Selogiri",
+        "de:t": "Indonesien | Wonogiri"
+    },
+    {
+        "en": "Semarang",
+        "en:t": "Indonesia | Semarang",
+        "a": true,
+        "g": {
+            "lat": -7.0051,
+            "lon": 110.4381
+        },
+        "it": "Semarang",
+        "it:t": "Indonesia | Semarang",
+        "es": "Semarang",
+        "es:t": "Indonesia | Semarang",
+        "de": "Semarang",
+        "de:t": "Indonesien | Semarang"
+    },
+    {
+        "en": "Semarapura",
+        "en:t": "Indonesia | Klungkung",
+        "a": true,
+        "g": {
+            "lat": -8.5388,
+            "lon": 115.4024
+        },
+        "it": "Semarapura",
+        "it:t": "Indonesia | Klungkung",
+        "es": "Semarapura",
+        "es:t": "Indonesia | Klungkung",
+        "de": "Semarapura",
+        "de:t": "Indonesien | Klungkung"
+    },
+    {
+        "en": "Sengkang, Indonesia",
+        "en:t": "Indonesia | Sengkang",
+        "a": true,
+        "g": {
+            "lat": -4.1398,
+            "lon": 120.0307
+        },
+        "it": "Sengkang, Indonesia",
+        "it:t": "Indonesia | Sengkang",
+        "es": "Sengkang, Indonesia",
+        "es:t": "Indonesia | Sengkang",
+        "de": "Sengkang",
+        "de:t": "Indonesien"
+    },
+    {
+        "en": "Sepatan",
+        "en:t": "Indonesia | Tangerang",
+        "a": true,
+        "g": {
+            "lat": -6.118,
+            "lon": 106.5761
+        },
+        "it": "Sepatan",
+        "it:t": "Indonesia | Tangerang",
+        "es": "Sepatan",
+        "es:t": "Indonesia | Tangerang",
+        "de": "Sepatan",
+        "de:t": "Indonesien | Tangerang"
+    },
+    {
+        "en": "Serang",
+        "en:t": "Indonesia",
+        "a": true,
+        "g": {
+            "lat": -6.1169,
+            "lon": 106.1539
+        },
+        "it": "Serang",
+        "it:t": "Indonesia",
+        "es": "Serang",
+        "es:t": "Indonesia",
+        "de": "Serang",
+        "de:t": "Indonesien"
+    },
+    {
+        "en": "Seririt",
+        "en:t": "Indonesia | Buleleng",
+        "a": true,
+        "g": {
+            "lat": -8.2053,
+            "lon": 114.928
+        },
+        "it": "Seririt",
+        "it:t": "Indonesia | Buleleng",
+        "es": "Seririt",
+        "es:t": "Indonesia | Buleleng",
+        "de": "Seririt",
+        "de:t": "Indonesien | Buleleng"
+    },
+    {
+        "en": "Serpong",
+        "en:t": "Indonesia | South Tangerang",
+        "a": true,
+        "g": {
+            "lat": -6.3089,
+            "lon": 106.6822
+        },
+        "it": "Serpong",
+        "it:t": "Indonesia | South Tangerang",
+        "es": "Serpong",
+        "es:t": "Indonesia | South Tangerang",
+        "de": "Serpong",
+        "de:t": "Indonesien | South Tangerang"
+    },
+    {
+        "en": "Sewon",
+        "en:t": "Indonesia",
+        "a": true,
+        "g": {
+            "lat": -7.8356,
+            "lon": 110.3656
+        },
+        "it": "Sewon",
+        "it:t": "Indonesia",
+        "es": "Sewon",
+        "es:t": "Indonesia",
+        "de": "Sewon",
+        "de:t": "Indonesien"
+    },
+    {
+        "en": "Sibolga",
+        "en:t": "Indonesia | Sibolga",
+        "a": true,
+        "g": {
+            "lat": 1.7368,
+            "lon": 98.7851
+        },
+        "it": "Sibolga",
+        "it:t": "Indonesia | Sibolga",
+        "es": "Sibolga",
+        "es:t": "Indonesia | Sibolga",
+        "de": "Sibolga",
+        "de:t": "Indonesien"
+    },
+    {
+        "en": "Sidareja",
+        "en:t": "Indonesia | Cilacap",
+        "a": true,
+        "g": {
+            "lat": -7.4847,
+            "lon": 108.7834
+        },
+        "it": "Sidareja",
+        "it:t": "Indonesia | Cilacap",
+        "es": "Sidareja",
+        "es:t": "Indonesia | Cilacap",
+        "de": "Sidareja",
+        "de:t": "Indonesien | Cilacap"
+    },
+    {
+        "en": "Sidoarjo",
+        "en:t": "Indonesia | Sidoarjo",
+        "a": true,
+        "g": {
+            "lat": -7.4498,
+            "lon": 112.7015
+        },
+        "it": "Sidoarjo",
+        "it:t": "Indonesia | Sidoarjo",
+        "es": "Sidoarjo",
+        "es:t": "Indonesia | Sidoarjo",
+        "de": "Sidoarjo",
+        "de:t": "Indonesien | Sidoarjo"
+    },
+    {
+        "en": "Sigli",
+        "en:t": "Indonesia | Sigli",
+        "a": true,
+        "g": {
+            "lat": 5.3848,
+            "lon": 95.9602
+        },
+        "it": "Sigli",
+        "it:t": "Indonesia | Sigli",
+        "es": "Sigli",
+        "es:t": "Indonesia | Sigli",
+        "de": "Kota Sigli",
+        "de:t": "Indonesien | Sigli"
+    },
+    {
+        "en": "Sijunjung",
+        "en:t": "Indonesia | Lalan",
+        "a": true,
+        "g": {
+            "lat": -0.7107,
+            "lon": 100.9764
+        },
+        "it": "Sijunjung",
+        "it:t": "Indonesia | Lalan",
+        "es": "Sijunjung",
+        "es:t": "Indonesia | Lalan",
+        "de": "Sijunjung",
+        "de:t": "Indonesien | Lalan"
+    },
+    {
+        "en": "Simpang",
+        "en:t": "Indonesia",
+        "a": true,
+        "g": {
+            "lat": -1.2782,
+            "lon": 104.1117
+        },
+        "it": "Simpang",
+        "it:t": "Indonesia",
+        "es": "Simpang",
+        "es:t": "Indonesia",
+        "de": "Simpang",
+        "de:t": "Indonesien"
+    },
+    {
+        "en": "Singaparna",
+        "en:t": "Indonesia",
+        "a": true,
+        "g": {
+            "lat": -7.3503,
+            "lon": 108.1254
+        },
+        "it": "Singaparna",
+        "it:t": "Indonesia",
+        "es": "Singaparna",
+        "es:t": "Indonesia",
+        "de": "Singaparna",
+        "de:t": "Indonesien"
+    },
+    {
+        "en": "Singaraja",
+        "en:t": "Indonesia | Banyuasri",
+        "a": true,
+        "g": {
+            "lat": -8.1149,
+            "lon": 115.0916
+        },
+        "it": "Singaraja",
+        "it:t": "Indonesia | Banyuasri",
+        "es": "Singaraja",
+        "es:t": "Indonesia | Banyuasari",
+        "de": "Singaraja",
+        "de:t": "Indonesien | Banyuasri"
+    },
+    {
+        "en": "Singkawang",
+        "en:t": "Indonesia | Singkawang",
+        "a": true,
+        "g": {
+            "lat": 0.906,
+            "lon": 108.9872
+        },
+        "it": "Singkawang",
+        "it:t": "Indonesia | Singkawang",
+        "es": "Singkawang",
+        "es:t": "Indonesia | Singkawang",
+        "de": "Kota Singkawang",
+        "de:t": "Indonesien | Singkawang"
+    },
+    {
+        "en": "Singkil",
+        "en:t": "Indonesia",
+        "a": true,
+        "g": {
+            "lat": 2.2836,
+            "lon": 97.7987
+        },
+        "it": "Singkil",
+        "it:t": "Indonesia",
+        "es": "Singkil",
+        "es:t": "Indonesia",
+        "de": "Singkil",
+        "de:t": "Indonesien"
+    },
+    {
+        "en": "Singojuruh",
+        "en:t": "Indonesia | Banyuwangi",
+        "a": true,
+        "g": {
+            "lat": -8.3201,
+            "lon": 114.2509
+        },
+        "it": "Singojuruh",
+        "it:t": "Indonesia | Banyuwangi",
+        "es": "Singojuruh",
+        "es:t": "Indonesia | Banyuwangi",
+        "de": "Singojuruh",
+        "de:t": "Indonesien | Banyuwangi"
+    },
+    {
+        "en": "Singosari",
+        "en:t": "Indonesia | Malang",
+        "a": true,
+        "g": {
+            "lat": -7.8849,
+            "lon": 112.6723
+        },
+        "it": "Singosari",
+        "it:t": "Indonesia | Malang",
+        "es": "Singosari",
+        "es:t": "Indonesia | Malang",
+        "de": "Singosari",
+        "de:t": "Indonesien | Malang"
+    },
+    {
+        "en": "Sinjai",
+        "en:t": "Indonesia | South Sulawesi",
+        "a": true,
+        "g": {
+            "lat": -5.2172,
+            "lon": 120.1127
+        },
+        "it": "Sinjai",
+        "it:t": "Indonesia | Sulawesi Meridionale",
+        "es": "Sinjai",
+        "es:t": "Indonesia | C\u00e9lebes Meridional",
+        "de": "Sinjai",
+        "de:t": "Indonesien | Sulawesi Selatan"
+    },
+    {
+        "en": "Situbondo",
+        "en:t": "Indonesia | Situbondo",
+        "a": true,
+        "g": {
+            "lat": -7.7058,
+            "lon": 114.0061
+        },
+        "it": "Kalibagor",
+        "it:t": "Indonesia | Situbondo",
+        "es": "Kalibagor",
+        "es:t": "Indonesia | Situbondo",
+        "de": "Kalibagor",
+        "de:t": "Indonesien | Situbondo"
+    },
+    {
+        "en": "Slawi",
+        "en:t": "Indonesia",
+        "a": true,
+        "g": {
+            "lat": -6.9831,
+            "lon": 109.1365
+        },
+        "it": "Slawi",
+        "it:t": "Indonesia",
+        "es": "Slawi",
+        "es:t": "Indonesia",
+        "de": "Slawi",
+        "de:t": "Indonesien"
+    },
+    {
+        "en": "Sleman",
+        "en:t": "Indonesia",
+        "a": true,
+        "g": {
+            "lat": -7.7162,
+            "lon": 110.3354
+        },
+        "it": "Yogyakarta",
+        "it:t": "Indonesia",
+        "es": "Sleman",
+        "es:t": "Indonesia",
+        "de": "Sleman",
+        "de:t": "Indonesien"
+    },
+    {
+        "en": "Soe",
+        "en:t": "Indonesia | Kampung Baru",
+        "a": true,
+        "g": {
+            "lat": -9.8605,
+            "lon": 124.2771
+        },
+        "it": "Soe",
+        "it:t": "Indonesia | Kampung Baru",
+        "es": "Soe",
+        "es:t": "Indonesia | Kampung Baru",
+        "de": "Soe",
+        "de:t": "Indonesien | Kampung Baru"
+    },
+    {
+        "en": "Sofifi",
+        "en:t": "Indonesia | North Oba",
+        "a": true,
+        "g": {
+            "lat": 0.735,
+            "lon": 127.5614
+        },
+        "it": "Sofifi",
+        "it:t": "Indonesia | North Oba",
+        "es": "Sofifi",
+        "es:t": "Indonesia | North Oba",
+        "de": "Sofifi",
+        "de:t": "Indonesien | Oba Utara"
+    },
+    {
+        "en": "Sokaraja",
+        "en:t": "Indonesia | Banyumas",
+        "a": true,
+        "g": {
+            "lat": -7.4508,
+            "lon": 109.2891
+        },
+        "it": "Sokaraja",
+        "it:t": "Indonesia | Banyumas",
+        "es": "Sokaraja",
+        "es:t": "Indonesia | Banyumas",
+        "de": "Sokaraja",
+        "de:t": "Indonesien | Banyumas"
+    },
+    {
+        "en": "Soko",
+        "en:t": "Indonesia | Tuban",
+        "a": true,
+        "g": {
+            "lat": -7.0962,
+            "lon": 111.9403
+        },
+        "it": "Soko",
+        "it:t": "Indonesia | Temayang",
+        "es": "Soko",
+        "es:t": "Indonesia | Temayang",
+        "de": "Soko",
+        "de:t": "Indonesien | Tuban"
+    },
+    {
+        "en": "Solok",
+        "en:t": "Indonesia | Solok",
+        "a": true,
+        "g": {
+            "lat": -0.7885,
+            "lon": 100.655
+        },
+        "it": "Solok",
+        "it:t": "Indonesia | Solok",
+        "es": "Solok",
+        "es:t": "Indonesia | Solok",
+        "de": "Solok",
+        "de:t": "Indonesien | Solok"
+    },
+    {
+        "en": "Soreang",
+        "en:t": "Indonesia",
+        "a": true,
+        "g": {
+            "lat": -7.0252,
+            "lon": 107.5259
+        },
+        "it": "Soreang",
+        "it:t": "Indonesia",
+        "es": "Soreang",
+        "es:t": "Indonesia",
+        "de": "Soreang",
+        "de:t": "Indonesien"
+    },
+    {
+        "en": "Sorong",
+        "en:t": "Indonesia | Sorong",
+        "a": true,
+        "g": {
+            "lat": -0.8762,
+            "lon": 131.2558
+        },
+        "it": "Sorong",
+        "it:t": "Indonesia | Sorong",
+        "es": "Sorong",
+        "es:t": "Indonesia | Sorong",
+        "de": "Sorong",
+        "de:t": "Indonesien | Sorong"
+    },
+    {
+        "en": "South Tangerang",
+        "en:t": "Indonesia | South Tangerang",
+        "a": true,
+        "g": {
+            "lat": -6.2835,
+            "lon": 106.7113
+        },
+        "it": "Tangerang Selatan",
+        "it:t": "Indonesia | South Tangerang",
+        "es": "Tangerang del Sur",
+        "es:t": "Indonesia | South Tangerang",
+        "de": "South Tangerang",
+        "de:t": "Indonesien | South Tangerang"
+    },
+    {
+        "en": "Sragen",
+        "en:t": "Indonesia",
+        "a": true,
+        "g": {
+            "lat": -7.4194,
+            "lon": 111.0225
+        },
+        "it": "Sragen",
+        "it:t": "Indonesia",
+        "es": "Sragen",
+        "es:t": "Indonesia",
+        "de": "Sragen",
+        "de:t": "Indonesien"
+    },
+    {
+        "en": "Srandakan",
+        "en:t": "Indonesia | Mengahan",
+        "a": true,
+        "g": {
+            "lat": -7.9387,
+            "lon": 110.2536
+        },
+        "it": "Srandakan",
+        "it:t": "Indonesia | Mengahan",
+        "es": "Srandakan",
+        "es:t": "Indonesia | Mengahan",
+        "de": "Srandakan",
+        "de:t": "Indonesien | Mengahan"
+    },
+    {
+        "en": "Srono",
+        "en:t": "Indonesia | Krajan",
+        "a": true,
+        "g": {
+            "lat": -8.3998,
+            "lon": 114.2613
+        },
+        "it": "Srono",
+        "it:t": "Indonesia | Krajan",
+        "es": "Srono",
+        "es:t": "Indonesia | Krajan",
+        "de": "Srono",
+        "de:t": "Indonesien | Krajan"
+    },
+    {
+        "en": "Stabat",
+        "en:t": "Indonesia",
+        "a": true,
+        "g": {
+            "lat": 3.7331,
+            "lon": 98.4513
+        },
+        "it": "Stabat",
+        "it:t": "Indonesia",
+        "es": "Stabat",
+        "es:t": "Indonesia",
+        "de": "Stabat",
+        "de:t": "Indonesie"
+    },
+    {
+        "en": "Stasiun Padalarang",
+        "en:t": "Indonesia",
+        "a": true,
+        "g": {
+            "lat": -6.843,
+            "lon": 107.4973
+        },
+        "it": "Padalarang",
+        "it:t": "Indonesia",
+        "es": "Stasiun Padalarang",
+        "es:t": "Indonesia",
+        "de": "Padalarang",
+        "de:t": "Indonesien"
+    },
+    {
+        "en": "Sukabumi",
+        "en:t": "Indonesia",
+        "a": true,
+        "g": {
+            "lat": -6.9277,
+            "lon": 106.93
+        },
+        "it": "Sukabumi",
+        "it:t": "Indonesia",
+        "es": "Sukabumi",
+        "es:t": "Indonesia",
+        "de": "Sukabumi",
+        "de:t": "Indonesien"
+    },
+    {
+        "en": "Sumbawa Besar",
+        "en:t": "Indonesia | Seketeng",
+        "a": true,
+        "g": {
+            "lat": -8.504,
+            "lon": 117.4285
+        },
+        "it": "Sumbawa Besar",
+        "it:t": "Indonesia | Seketeng",
+        "es": "Sumbawa Besar",
+        "es:t": "Indonesia | Seketeng",
+        "de": "Sumbawa Besar",
+        "de:t": "Indonesien | Seketeng"
+    },
+    {
+        "en": "Sumber",
+        "en:t": "Indonesia",
+        "a": true,
+        "g": {
+            "lat": -6.7589,
+            "lon": 108.4876
+        },
+        "it": "Sumber",
+        "it:t": "Indonesia",
+        "es": "Sumber",
+        "es:t": "Indonesia",
+        "de": "Sumber",
+        "de:t": "Indonesien"
+    },
+    {
+        "en": "Sumber Pucung",
+        "en:t": "Indonesia | Malang",
+        "a": true,
+        "g": {
+            "lat": -8.1635,
+            "lon": 112.4887
+        },
+        "it": "Sumber Pucung",
+        "it:t": "Indonesia | Malang",
+        "es": "Sumber Pucung",
+        "es:t": "Indonesia | Malang",
+        "de": "Sumberpucung",
+        "de:t": "Indonesien | Malang"
+    },
+    {
+        "en": "Sumedang",
+        "en:t": "Indonesia | North Sumedang",
+        "a": true,
+        "g": {
+            "lat": -6.8381,
+            "lon": 107.9275
+        },
+        "it": "Sumedang",
+        "it:t": "Indonesia | North Sumedang",
+        "es": "Sumedang",
+        "es:t": "Indonesia | North Sumedang",
+        "de": "Sumedang",
+        "de:t": "Indonesien | North Sumedang"
+    },
+    {
+        "en": "Sumenep",
+        "en:t": "Indonesia | Dalem Anyar",
+        "a": true,
+        "g": {
+            "lat": -7.0096,
+            "lon": 113.8583
+        },
+        "it": "Sumenep",
+        "it:t": "Indonesia | Dalem Anyar",
+        "es": "Sumenep",
+        "es:t": "Indonesia | Dalem Anyar",
+        "de": "Kota Sumenep",
+        "de:t": "Indonesien | Dalem Anyar"
+    },
+    {
+        "en": "Sungai Liat",
+        "en:t": "Indonesia",
+        "a": true,
+        "g": {
+            "lat": -1.8772,
+            "lon": 106.1149
+        },
+        "it": "Sungai Liat",
+        "it:t": "Indonesia",
+        "es": "Sungailiat",
+        "es:t": "Indonesia",
+        "de": "Sungai Liat",
+        "de:t": "Indonesien"
+    },
+    {
+        "en": "Sungai Penuh",
+        "en:t": "Indonesia | Sungai Penuh",
+        "a": true,
+        "g": {
+            "lat": -2.0634,
+            "lon": 101.3947
+        },
+        "it": "Sungai Penuh",
+        "it:t": "Indonesia | Sungai Penuh",
+        "es": "Sungai Penuh",
+        "es:t": "Indonesia | Sungai Penuh",
+        "de": "Sungai Penuh",
+        "de:t": "Indonesien | Sungai Penuh"
+    },
+    {
+        "en": "Surabaya",
+        "en:t": "Indonesia | Surabaya",
+        "a": true,
+        "g": {
+            "lat": -7.2575,
+            "lon": 112.7521
+        },
+        "it": "Surabaya",
+        "it:t": "Indonesia | Surabaya",
+        "es": "Surabaya",
+        "es:t": "Indonesia | Surabaya",
+        "de": "Surabaya",
+        "de:t": "Indonesien | Surabaya"
+    },
+    {
+        "en": "Surakarta",
+        "en:t": "Indonesia | Surakarta",
+        "a": true,
+        "g": {
+            "lat": -7.5755,
+            "lon": 110.8243
+        },
+        "it": "Surakarta",
+        "it:t": "Indonesia | Surakarta",
+        "es": "Surakarta",
+        "es:t": "Indonesia | Surakarta",
+        "de": "Surakarta",
+        "de:t": "Indonesien | Surakarta"
+    },
+    {
+        "en": "Tabanan",
+        "en:t": "Indonesia",
+        "a": true,
+        "g": {
+            "lat": -8.4596,
+            "lon": 115.0466
+        },
+        "it": "Tabanan",
+        "it:t": "Indonesia",
+        "es": "Tabanan",
+        "es:t": "Indonesia",
+        "de": "Tabanan",
+        "de:t": "Indonesien"
+    },
+    {
+        "en": "Tangerang",
+        "en:t": "Indonesia | Tangerang",
+        "a": true,
+        "g": {
+            "lat": -6.1702,
+            "lon": 106.6403
+        },
+        "it": "Tangerang",
+        "it:t": "Indonesia | Tangerang",
+        "es": "Tangerang",
+        "es:t": "Indonesia | Tangerang",
+        "de": "Tangerang",
+        "de:t": "Indonesien | Tangerang"
+    },
+    {
+        "en": "Tanggulangin",
+        "en:t": "Indonesia | Sidoarjo",
+        "a": true,
+        "g": {
+            "lat": -7.5145,
+            "lon": 112.7331
+        },
+        "it": "Tanggulangin",
+        "it:t": "Indonesia | Sidoarjo",
+        "es": "Tanggulangin",
+        "es:t": "Indonesia | Sidoarjo",
+        "de": "Tanggulangin",
+        "de:t": "Indonesien | Sidoarjo"
+    },
+    {
+        "en": "Tanjung Agung",
+        "en:t": "Indonesia | Muara Enim",
+        "a": true,
+        "g": {
+            "lat": -3.9132,
+            "lon": 103.7753
+        },
+        "it": "Tanjung Agung",
+        "it:t": "Indonesia | Muara Enim",
+        "es": "Tanjung Agung",
+        "es:t": "Indonesia | Muara Enim",
+        "de": "Tanjung Agung",
+        "de:t": "Indonesien | Muara Enim"
+    },
+    {
+        "en": "Tanjung Balai",
+        "en:t": "Indonesia | Tanjung Balai",
+        "a": true,
+        "g": {
+            "lat": 2.9659,
+            "lon": 99.7984
+        },
+        "it": "Tanjung Balai",
+        "it:t": "Indonesia | Tanjung Balai",
+        "es": "Kota Tanjung Balai",
+        "es:t": "Indonesia | Tanjung Balai",
+        "de": "Tanjung Balai",
+        "de:t": "Indonesien | Tanjung Balai"
+    },
+    {
+        "en": "Tanjung Pandan",
+        "en:t": "Indonesia",
+        "a": true,
+        "g": {
+            "lat": -2.7417,
+            "lon": 107.653
+        },
+        "it": "Tanjung Pandan",
+        "it:t": "Indonesia",
+        "es": "Tanjung Pandan",
+        "es:t": "Indonesia",
+        "de": "Tanjung Pandan",
+        "de:t": "Indonesien"
+    },
+    {
+        "en": "Tanjung Pinang",
+        "en:t": "Indonesia | Tanjung Pinang",
+        "a": true,
+        "g": {
+            "lat": 0.9186,
+            "lon": 104.4665
+        },
+        "it": "Tanjung Pinang",
+        "it:t": "Indonesia | Tanjung Pinang",
+        "es": "Tanjung Pinang",
+        "es:t": "Indonesia | Tanjung Pinang",
+        "de": "Tanjung Pinang",
+        "de:t": "Indonesien | Tanjung Pinang"
+    },
+    {
+        "en": "Tanjung Tiram",
+        "en:t": "Indonesia | Batu Bara",
+        "a": true,
+        "g": {
+            "lat": 3.1528,
+            "lon": 99.6564
+        },
+        "it": "Tanjung Tiram",
+        "it:t": "Indonesia | Batu Bara",
+        "es": "Tanjung Tiram",
+        "es:t": "Indonesia | Batu Bara",
+        "de": "Tanjung Tiram",
+        "de:t": "Indonesien | Batu Bara"
+    },
+    {
+        "en": "Tarakan",
+        "en:t": "Indonesia",
+        "a": true,
+        "g": {
+            "lat": 3.3274,
+            "lon": 117.5785
+        },
+        "it": "Tarakan",
+        "it:t": "Indonesia",
+        "es": "Tarakan",
+        "es:t": "Indonesia",
+        "de": "Tarakan",
+        "de:t": "Indonesien"
+    },
+    {
+        "en": "Tarub",
+        "en:t": "Indonesia | Tegal",
+        "a": true,
+        "g": {
+            "lat": -6.922,
+            "lon": 109.1821
+        },
+        "it": "Tarub",
+        "it:t": "Indonesia | Tegal",
+        "es": "Tarub",
+        "es:t": "Indonesia | Tegal",
+        "de": "Tarub",
+        "de:t": "Indonesien | Tegal"
+    },
+    {
+        "en": "Tasikmalaya",
+        "en:t": "Indonesia",
+        "a": true,
+        "g": {
+            "lat": -7.3506,
+            "lon": 108.2172
+        },
+        "it": "Tasikmalaya",
+        "it:t": "Indonesia",
+        "es": "Tasikmalaya",
+        "es:t": "Indonesia",
+        "de": "Tasikmalaya",
+        "de:t": "Indonesien"
+    },
+    {
+        "en": "Tayu",
+        "en:t": "Indonesia | Pati",
+        "a": true,
+        "g": {
+            "lat": -6.5341,
+            "lon": 111.0341
+        },
+        "it": "Tayu",
+        "it:t": "Indonesia | Pati",
+        "es": "Tayu",
+        "es:t": "Indonesia | Pati",
+        "de": "Tayu",
+        "de:t": "Indonesien | Pati"
+    },
+    {
+        "en": "Tebing Tinggi",
+        "en:t": "Indonesia | North Sumatra",
+        "a": true,
+        "g": {
+            "lat": 3.3263,
+            "lon": 99.1567
+        },
+        "it": "Tebing Tinggi",
+        "it:t": "Indonesia | Sumatra Settentrionale",
+        "es": "Tebing Tinggi",
+        "es:t": "Indonesia | Tebing Tinggi Kota",
+        "de": "Tebing Tinggi",
+        "de:t": "Indonesien | Tebing Tinggi Kota"
+    },
+    {
+        "en": "Tegal",
+        "en:t": "Indonesia",
+        "a": true,
+        "g": {
+            "lat": -6.8797,
+            "lon": 109.1256
+        },
+        "it": "Tegal",
+        "it:t": "Indonesia",
+        "es": "Tegal",
+        "es:t": "Indonesia",
+        "de": "Tegal",
+        "de:t": "Indonesien"
+    },
+    {
+        "en": "Teluk Nibung",
+        "en:t": "Indonesia | Tanjung Balai",
+        "a": true,
+        "g": {
+            "lat": 3.0081,
+            "lon": 99.8069
+        },
+        "it": "Teluk Nibung",
+        "it:t": "Indonesia | Tanjung Balai",
+        "es": "Teluk Nibung",
+        "es:t": "Indonesia | Tanjung Balai",
+        "de": "Teluk Nibung",
+        "de:t": "Indonesien | Tanjung Balai"
+    },
+    {
+        "en": "Teluknaga",
+        "en:t": "Indonesia | Tangerang",
+        "a": true,
+        "g": {
+            "lat": -6.0489,
+            "lon": 106.6645
+        },
+        "it": "Teluknaga",
+        "it:t": "Indonesia | Tangerang",
+        "es": "Teluknaga",
+        "es:t": "Indonesia | Tangerang",
+        "de": "Teluknaga",
+        "de:t": "Indonesien | Tangerang"
+    },
+    {
+        "en": "Terbanggi Besar",
+        "en:t": "Indonesia | Central Lampung",
+        "a": true,
+        "g": {
+            "lat": -4.8626,
+            "lon": 105.2429
+        },
+        "it": "Terbanggi Besar",
+        "it:t": "Indonesia | Central Lampung",
+        "es": "Terbanggi Besar",
+        "es:t": "Indonesia | Central Lampung",
+        "de": "Terbanggi Besar",
+        "de:t": "Indonesien | Zentral Lampung"
+    },
+    {
+        "en": "Ternate",
+        "en:t": "Indonesia | Ternate",
+        "a": true,
+        "g": {
+            "lat": 0.7958,
+            "lon": 127.3614
+        },
+        "it": "Isola Ternate",
+        "it:t": "Indonesia | Ternate",
+        "es": "Ternate",
+        "es:t": "Indonesia | Ternate",
+        "de": "Ternate",
+        "de:t": "Indonesien | Ternate"
+    },
+    {
+        "en": "Tomohon",
+        "en:t": "Indonesia | Tomohon",
+        "a": true,
+        "g": {
+            "lat": 1.3229,
+            "lon": 124.8405
+        },
+        "it": "Tomohon",
+        "it:t": "Indonesia | Tomohon",
+        "es": "Tomohon",
+        "es:t": "Indonesia | Tomohon",
+        "de": "Tomohon",
+        "de:t": "Indonesien"
+    },
+    {
+        "en": "Tondano",
+        "en:t": "Indonesia | Kembuan",
+        "a": true,
+        "g": {
+            "lat": 1.302,
+            "lon": 124.9134
+        },
+        "it": "Tondano",
+        "it:t": "Indonesia | Kembuan",
+        "es": "Tondano",
+        "es:t": "Indonesia | Kembuan",
+        "de": "Tondano",
+        "de:t": "Indonesien | Kembuan"
+    },
+    {
+        "en": "Tongging",
+        "en:t": "Indonesia | Merek",
+        "a": true,
+        "g": {
+            "lat": 2.9101,
+            "lon": 98.5227
+        },
+        "it": "Tongging",
+        "it:t": "Indonesia | Merek",
+        "es": "Kodon-Kodon",
+        "es:t": "Indonesia | Merek",
+        "de": "Kodon-Kodon",
+        "de:t": "Indonesien | Merek"
+    },
+    {
+        "en": "Trenggalek",
+        "en:t": "Indonesia | Trenggalek",
+        "a": true,
+        "g": {
+            "lat": -8.0765,
+            "lon": 111.706
+        },
+        "it": "Trenggalek",
+        "it:t": "Indonesia | Trenggalek",
+        "es": "Trenggalek",
+        "es:t": "Indonesia | Trenggalek",
+        "de": "Trenggalek",
+        "de:t": "Indonesien | Trenggalek"
+    },
+    {
+        "en": "Trucuk",
+        "en:t": "Indonesia | Klaten",
+        "a": true,
+        "g": {
+            "lat": -7.7291,
+            "lon": 110.6765
+        },
+        "it": "Trucuk",
+        "it:t": "Indonesia | Klaten",
+        "es": "Trucuk",
+        "es:t": "Indonesia | Klaten",
+        "de": "Trucuk",
+        "de:t": "Indonesien | Klaten"
+    },
+    {
+        "en": "Tual",
+        "en:t": "Indonesia",
+        "a": true,
+        "g": {
+            "lat": -5.6266,
+            "lon": 132.7521
+        },
+        "it": "Tual",
+        "it:t": "Indonesia",
+        "es": "Tual",
+        "es:t": "Indonesia",
+        "de": "Tual",
+        "de:t": "Indonesien"
+    },
+    {
+        "en": "Tuban",
+        "en:t": "Indonesia",
+        "a": true,
+        "g": {
+            "lat": -6.8949,
+            "lon": 112.0417
+        },
+        "it": "Tuban",
+        "it:t": "Indonesia",
+        "es": "Tuban",
+        "es:t": "Indonesia",
+        "de": "Tuban",
+        "de:t": "Indonesien"
+    },
+    {
+        "en": "Tulangan Utara",
+        "en:t": "Indonesia | Tulangan",
+        "a": true,
+        "g": {
+            "lat": -7.4727,
+            "lon": 112.6534
+        },
+        "it": "Tulangan Utara",
+        "it:t": "Indonesia | Tulangan",
+        "es": "Tulangan Utara",
+        "es:t": "Indonesia | Tulangan",
+        "de": "Tulangan Utara",
+        "de:t": "Indonesien | Tulangan"
+    },
+    {
+        "en": "Tulungagung",
+        "en:t": "Indonesia | Tulungagung",
+        "a": true,
+        "g": {
+            "lat": -8.0912,
+            "lon": 111.9642
+        },
+        "it": "Tulungagung",
+        "it:t": "Indonesia | Tulungagung",
+        "es": "Tulungagung",
+        "es:t": "Indonesia | Tulungagung",
+        "de": "Tulungagung",
+        "de:t": "Indonesien | Tulungagung"
+    },
+    {
+        "en": "Ubud",
+        "en:t": "Indonesia",
+        "a": true,
+        "g": {
+            "lat": -8.5069,
+            "lon": 115.2625
+        },
+        "it": "Ubud",
+        "it:t": "Indonesia",
+        "es": "Ubud",
+        "es:t": "Indonesia",
+        "de": "Ubud",
+        "de:t": "Indonesien"
+    },
+    {
+        "en": "Ungaran",
+        "en:t": "Indonesia | East Ungaran",
+        "a": true,
+        "g": {
+            "lat": -7.1364,
+            "lon": 110.4099
+        },
+        "it": "Ungaran",
+        "it:t": "Indonesia | East Ungaran",
+        "es": "Ungaran",
+        "es:t": "Indonesia | East Ungaran",
+        "de": "Ungaran",
+        "de:t": "Indonesien | East Ungaran"
+    },
+    {
+        "en": "Waingapu",
+        "en:t": "Indonesia | East Sumba",
+        "a": true,
+        "g": {
+            "lat": -9.7387,
+            "lon": 120.182
+        },
+        "it": "Waingapu",
+        "it:t": "Indonesia | Sumba Orientale",
+        "es": "Waingapu",
+        "es:t": "Indonesia | East Sumba",
+        "de": "Waingapu",
+        "de:t": "Indonesien | Ostsumba"
+    },
+    {
+        "en": "Wanaraja",
+        "en:t": "Indonesia | Garut",
+        "a": true,
+        "g": {
+            "lat": -7.1962,
+            "lon": 108.0065
+        },
+        "it": "Wanaraja",
+        "it:t": "Indonesia | Garut",
+        "es": "Wanaraja",
+        "es:t": "Indonesia | Garut",
+        "de": "Wanaraja",
+        "de:t": "Indonesien | Garut"
+    },
+    {
+        "en": "Wangon",
+        "en:t": "Indonesia",
+        "a": true,
+        "g": {
+            "lat": -7.5179,
+            "lon": 109.0572
+        },
+        "it": "Wangon",
+        "it:t": "Indonesia",
+        "es": "Wangon",
+        "es:t": "Indonesia",
+        "de": "Wangon",
+        "de:t": "Indonesien"
+    },
+    {
+        "en": "Watampone",
+        "en:t": "Indonesia",
+        "a": true,
+        "g": {
+            "lat": -4.5388,
+            "lon": 120.325
+        },
+        "it": "Watampone",
+        "it:t": "Indonesia",
+        "es": "Watampone",
+        "es:t": "Indonesia",
+        "de": "Watampone",
+        "de:t": "Indonesien"
+    },
+    {
+        "en": "Wedi",
+        "en:t": "Indonesia | Klaten",
+        "a": true,
+        "g": {
+            "lat": -7.7738,
+            "lon": 110.605
+        },
+        "it": "Wedi",
+        "it:t": "Indonesia | Klaten",
+        "es": "Wedi",
+        "es:t": "Indonesia | Klaten",
+        "de": "Wedi",
+        "de:t": "Indonesien | Klaten"
+    },
+    {
+        "en": "Welahan",
+        "en:t": "Indonesia",
+        "a": true,
+        "g": {
+            "lat": -6.781,
+            "lon": 110.7197
+        },
+        "it": "Welahan",
+        "it:t": "Indonesia",
+        "es": "Welahan",
+        "es:t": "Indonesia",
+        "de": "Welahan",
+        "de:t": "Indonesien"
+    },
+    {
+        "en": "Weleri",
+        "en:t": "Indonesia | Kendal",
+        "a": true,
+        "g": {
+            "lat": -6.9708,
+            "lon": 110.0762
+        },
+        "it": "Weleri",
+        "it:t": "Indonesia | Kendal",
+        "es": "Weleri",
+        "es:t": "Indonesia | Kendal",
+        "de": "Weleri",
+        "de:t": "Indonesien | Kendal"
+    },
+    {
+        "en": "Weru",
+        "en:t": "Indonesia | Cirebon",
+        "a": true,
+        "g": {
+            "lat": -6.7121,
+            "lon": 108.4959
+        },
+        "it": "Weru",
+        "it:t": "Indonesia | Cirebon",
+        "es": "Weru",
+        "es:t": "Indonesia | Cirebon",
+        "de": "Weru",
+        "de:t": "Indonesien | Cirebon"
+    },
+    {
+        "en": "Wiradesa",
+        "en:t": "Indonesia",
+        "a": true,
+        "g": {
+            "lat": -6.9014,
+            "lon": 109.6133
+        },
+        "it": "Wiradesa",
+        "it:t": "Indonesia",
+        "es": "Wiradesa",
+        "es:t": "Indonesia",
+        "de": "Wiradesa",
+        "de:t": "Indonesien"
+    },
+    {
+        "en": "Wongsorejo",
+        "en:t": "Indonesia | Banyuwangi",
+        "a": true,
+        "g": {
+            "lat": -8.003,
+            "lon": 114.3104
+        },
+        "it": "Wongsorejo",
+        "it:t": "Indonesia | Banyuwangi",
+        "es": "Wongsorejo",
+        "es:t": "Indonesia | Banyuwangi",
+        "de": "Wongsorejo",
+        "de:t": "Indonesien | Banyuwangi"
+    },
+    {
+        "en": "Wonopringgo",
+        "en:t": "Indonesia | Pekalongan",
+        "a": true,
+        "g": {
+            "lat": -6.9948,
+            "lon": 109.6342
+        },
+        "it": "Wonopringgo",
+        "it:t": "Indonesia | Pekalongan",
+        "es": "Wonopringgo",
+        "es:t": "Indonesia | Pekalongan",
+        "de": "Wonopringgo",
+        "de:t": "Indonesien | Pekalongan"
+    },
+    {
+        "en": "Wonosari",
+        "en:t": "Indonesia",
+        "a": true,
+        "g": {
+            "lat": -7.9655,
+            "lon": 110.6009
+        },
+        "it": "Wonosari",
+        "it:t": "Indonesia",
+        "es": "Wonosari",
+        "es:t": "Indonesia",
+        "de": "Wonosari",
+        "de:t": "Indonesien"
+    },
+    {
+        "en": "Wonosobo",
+        "en:t": "Indonesia",
+        "a": true,
+        "g": {
+            "lat": -7.3685,
+            "lon": 109.8984
+        },
+        "it": "Wonosobo",
+        "it:t": "Indonesia",
+        "es": "Wonosobo",
+        "es:t": "Indonesia",
+        "de": "Wonosobo",
+        "de:t": "Indonesien"
+    },
+    {
+        "en": "Yogyakarta",
+        "en:t": "Indonesia | Yogyakarta",
+        "a": true,
+        "g": {
+            "lat": -7.7956,
+            "lon": 110.3695
+        },
+        "it": "Yogyakarta",
+        "it:t": "Indonesia | Yogyakarta",
+        "es": "Yogyakarta",
+        "es:t": "Indonesia | Yogyakarta",
+        "de": "Yogyakarta",
+        "de:t": "Indonesien | Yogyakarta"
+    }
+]

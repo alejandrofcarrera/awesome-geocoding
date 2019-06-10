@@ -1,0 +1,167 @@
+[
+    {
+        "en": "Half Way Tree Road",
+        "en:t": "Jamaica | Kingston",
+        "a": true,
+        "g": {
+            "lat": 18.0023,
+            "lon": -76.7921
+        },
+        "it": "Half Way Tree Road",
+        "it:t": "Giamaica | Kingston",
+        "es": "Half Way Tree Road",
+        "es:t": "Jamaica | Kingston",
+        "de": "Half Way Tree Road",
+        "de:t": "Jamaika | Kingston"
+    },
+    {
+        "en": "Kingston Parish",
+        "en:t": "Jamaica",
+        "a": true,
+        "g": {
+            "lat": 17.9683,
+            "lon": -76.7827
+        },
+        "it": "Parrocchia di Kingston",
+        "it:t": "Giamaica",
+        "es": "Parroquia de Kingston",
+        "es:t": "Jamaica",
+        "de": "Kingston Parish",
+        "de:t": "Jamaika"
+    },
+    {
+        "en": "Linstead",
+        "en:t": "Jamaica | Saint Catherine Parish",
+        "a": true,
+        "g": {
+            "lat": 18.1403,
+            "lon": -77.0449
+        },
+        "it": "Linstead",
+        "it:t": "Giamaica | Parrocchia di Saint Catherine",
+        "es": "Linstead",
+        "es:t": "Jamaica | Saint Catherine Parish",
+        "de": "Linstead",
+        "de:t": "Jamaika | Saint Catherine Parish"
+    },
+    {
+        "en": "Mandeville",
+        "en:t": "Jamaica | Manchester Parish",
+        "a": true,
+        "g": {
+            "lat": 18.0313,
+            "lon": -77.5046
+        },
+        "it": "Mandeville",
+        "it:t": "Giamaica | Parrocchia di Manchester",
+        "es": "Mandeville",
+        "es:t": "Jamaica | Parroquia de M\u00e1nchester",
+        "de": "Mandeville",
+        "de:t": "Jamaika | Manchester Parish"
+    },
+    {
+        "en": "May Pen",
+        "en:t": "Jamaica | Clarendon",
+        "a": true,
+        "g": {
+            "lat": 17.9646,
+            "lon": -77.2434
+        },
+        "it": "May Pen",
+        "it:t": "Giamaica | Parrocchia di Clarendon",
+        "es": "May Pen",
+        "es:t": "Jamaica | Parroquia de Clarendon",
+        "de": "May Pen",
+        "de:t": "Jamaika | Clarendon Parish"
+    },
+    {
+        "en": "Montego Bay",
+        "en:t": "Jamaica | St. James Parish",
+        "a": true,
+        "g": {
+            "lat": 18.4762,
+            "lon": -77.8939
+        },
+        "it": "Montego Bay",
+        "it:t": "Giamaica | Parrocchia di Saint James",
+        "es": "Bah\u00eda Montego",
+        "es:t": "Jamaica | Parroquia de Saint James",
+        "de": "Montego Bay",
+        "de:t": "Jamaika | Saint James Parish"
+    },
+    {
+        "en": "New Kingston",
+        "en:t": "Jamaica | Kingston",
+        "a": true,
+        "g": {
+            "lat": 18.009,
+            "lon": -76.7827
+        },
+        "it": "New Kingston",
+        "it:t": "Giamaica | Kingston",
+        "es": "New Kingston",
+        "es:t": "Jamaica | Kingston",
+        "de": "New Kingston",
+        "de:t": "Jamaika | Kingston"
+    },
+    {
+        "en": "Old Harbour",
+        "en:t": "Jamaica | Saint Catherine Parish",
+        "a": true,
+        "g": {
+            "lat": 17.9411,
+            "lon": -77.1082
+        },
+        "it": "Old Harbour",
+        "it:t": "Giamaica | Saint Catherine Parish",
+        "es": "Old Harbour",
+        "es:t": "Jamaica | Saint Catherine Parish",
+        "de": "Old Harbour",
+        "de:t": "Jamaika | Saint Catherine Parish"
+    },
+    {
+        "en": "Portmore",
+        "en:t": "Jamaica | Saint Catherine Parish",
+        "a": true,
+        "g": {
+            "lat": 17.9611,
+            "lon": -76.8894
+        },
+        "it": "Portmore",
+        "it:t": "Giamaica | Parrocchia di Saint Catherine",
+        "es": "Portmore",
+        "es:t": "Jamaica | Parroquia de Saint Catherine",
+        "de": "Portmore",
+        "de:t": "Jamaika | Saint Catherine Parish"
+    },
+    {
+        "en": "Savanna la Mar",
+        "en:t": "Jamaica | Westmoreland Parish",
+        "a": true,
+        "g": {
+            "lat": 18.2292,
+            "lon": -78.1393
+        },
+        "it": "Savanna-la-Mar",
+        "it:t": "Giamaica | Parrocchia di Westmoreland",
+        "es": "Savanna-la-Mar",
+        "es:t": "Jamaica | Parroquia de Westmoreland",
+        "de": "Savanna-la-Mar",
+        "de:t": "Jamaika | Westmorland"
+    },
+    {
+        "en": "Spanish Town",
+        "en:t": "Jamaica | Saint Catherine Parish",
+        "a": true,
+        "g": {
+            "lat": 18.0193,
+            "lon": -76.9758
+        },
+        "it": "Spanish Town",
+        "it:t": "Giamaica | Parrocchia di Saint Catherine",
+        "es": "Spanish Town",
+        "es:t": "Jamaica | Parroquia de Saint Catherine",
+        "de": "Spanish Town",
+        "de:t": "Jamaika | Saint Catherine Parish"
+    }
+]

@@ -1,0 +1,482 @@
+[
+    {
+        "en": "Athlone",
+        "en:t": "Ireland | Westmeath",
+        "a": true,
+        "g": {
+            "lat": 53.4239,
+            "lon": -7.9407
+        },
+        "it": "Baile \u00c1tha Luain",
+        "it:t": "Irlanda | Vestmido grafyst\u0117",
+        "es": "Athlone",
+        "es:t": "Irlanda | Westmeath",
+        "de": "Athlone",
+        "de:t": "Irland | Westmeath"
+    },
+    {
+        "en": "Balbriggan",
+        "en:t": "Ireland | Dublin",
+        "a": true,
+        "g": {
+            "lat": 53.6083,
+            "lon": -6.1821
+        },
+        "it": "Balbriggan",
+        "it:t": "Irlanda | Dublino",
+        "es": "Balbriggan",
+        "es:t": "Irlanda | Dubl\u00edn",
+        "de": "Balbriggan",
+        "de:t": "Irland | Dublin"
+    },
+    {
+        "en": "Blanchardstown",
+        "en:t": "Ireland | Dublin",
+        "a": true,
+        "g": {
+            "lat": 53.3842,
+            "lon": -6.376
+        },
+        "it": "Blanchardstown",
+        "it:t": "Irlanda | Dublino",
+        "es": "Blanchardstown",
+        "es:t": "Irlanda | Dublin",
+        "de": "Blanchardstown",
+        "de:t": "Irland | Dublin"
+    },
+    {
+        "en": "Carlow",
+        "en:t": "Ireland | Carlow",
+        "a": true,
+        "g": {
+            "lat": 52.8365,
+            "lon": -6.9341
+        },
+        "it": "Carlow",
+        "it:t": "Irlanda | Carlow",
+        "es": "Carlow",
+        "es:t": "Irlanda | Carlow",
+        "de": "Carlow",
+        "de:t": "Irland | Carlow"
+    },
+    {
+        "en": "Celbridge",
+        "en:t": "Ireland | Kildare",
+        "a": true,
+        "g": {
+            "lat": 53.3399,
+            "lon": -6.5385
+        },
+        "it": "Celbridge",
+        "it:t": "Irlanda | Kildare",
+        "es": "Celbridge",
+        "es:t": "Irlanda | Kildare",
+        "de": "Celbridge",
+        "de:t": "Irland | Kildare"
+    },
+    {
+        "en": "Clonmel",
+        "en:t": "Ireland | Tipperary",
+        "a": true,
+        "g": {
+            "lat": 52.3558,
+            "lon": -7.6903
+        },
+        "it": "Cluain Meala",
+        "it:t": "Irlanda | Tipperary",
+        "es": "Clonmel",
+        "es:t": "Irlanda | Tipperary",
+        "de": "Clonmel",
+        "de:t": "Irland | Tipperary"
+    },
+    {
+        "en": "Cork",
+        "en:t": "Ireland | Cork",
+        "a": true,
+        "g": {
+            "lat": 51.9942,
+            "lon": -8.7285
+        },
+        "it": "Cork",
+        "it:t": "Irlanda | Cork",
+        "es": "Cork",
+        "es:t": "Irlanda | Cork",
+        "de": "Cork",
+        "de:t": "Irland | Cork"
+    },
+    {
+        "en": "Donaghmede",
+        "en:t": "Ireland",
+        "a": true,
+        "g": {
+            "lat": 53.3986,
+            "lon": -6.1616
+        },
+        "it": "Donaghmede",
+        "it:t": "Irlanda",
+        "es": "Donaghmede",
+        "es:t": "Irlanda",
+        "de": "Donaghmede",
+        "de:t": "Irland"
+    },
+    {
+        "en": "Drogheda",
+        "en:t": "Ireland | Louth",
+        "a": true,
+        "g": {
+            "lat": 53.7179,
+            "lon": -6.3561
+        },
+        "it": "Drogheda",
+        "it:t": "Irlanda | Louth",
+        "es": "Drogheda",
+        "es:t": "Irlanda | Louth",
+        "de": "Drogheda",
+        "de:t": "Irland | Louth"
+    },
+    {
+        "en": "Dublin",
+        "en:t": "Ireland",
+        "a": true,
+        "g": {
+            "lat": 53.3498,
+            "lon": -6.2603
+        },
+        "it": "Dublino",
+        "it:t": "Irlanda",
+        "es": "Dubl\u00edn",
+        "es:t": "Irlanda",
+        "de": "Dublin",
+        "de:t": "Irland"
+    },
+    {
+        "en": "Dundalk",
+        "en:t": "Ireland | Louth",
+        "a": true,
+        "g": {
+            "lat": 53.9979,
+            "lon": -6.406
+        },
+        "it": "Dun Dealgan",
+        "it:t": "Irlanda | Louth",
+        "es": "Dundalk",
+        "es:t": "Irlanda | Louth",
+        "de": "Dundalk",
+        "de:t": "Irland | Louth"
+    },
+    {
+        "en": "D\u00fan Laoghaire",
+        "en:t": "Ireland | Dublin",
+        "a": true,
+        "g": {
+            "lat": 53.2944,
+            "lon": -6.1339
+        },
+        "it": "Dun Laoghaire",
+        "it:t": "Irlanda | Dublino",
+        "es": "Dun Laoghaire",
+        "es:t": "Irlanda | Dubl\u00edn",
+        "de": "Dun Laoghaire",
+        "de:t": "Irland | Dublin"
+    },
+    {
+        "en": "Ennis",
+        "en:t": "Ireland | Clare",
+        "a": true,
+        "g": {
+            "lat": 52.8474,
+            "lon": -8.9887
+        },
+        "it": "Ennis",
+        "it:t": "Irlanda | Clare",
+        "es": "Ennis",
+        "es:t": "Irlanda | Clare",
+        "de": "Ennis",
+        "de:t": "Irland | Clare"
+    },
+    {
+        "en": "Finglas",
+        "en:t": "Ireland | Finglas North",
+        "a": true,
+        "g": {
+            "lat": 53.3903,
+            "lon": -6.2984
+        },
+        "it": "Finglas",
+        "it:t": "Irlanda | Finglas North",
+        "es": "Finglas",
+        "es:t": "Irlanda | Finglas North",
+        "de": "Finglas",
+        "de:t": "Irland | Finglas North"
+    },
+    {
+        "en": "Galway",
+        "en:t": "Ireland | Galway",
+        "a": true,
+        "g": {
+            "lat": 53.2707,
+            "lon": -9.0568
+        },
+        "it": "Galway",
+        "it:t": "Irlanda | Galway",
+        "es": "Galway",
+        "es:t": "Irlanda | Galway",
+        "de": "Galway",
+        "de:t": "Irland | Galway"
+    },
+    {
+        "en": "Kilkenny",
+        "en:t": "Ireland | Kilkenny",
+        "a": true,
+        "g": {
+            "lat": 52.6541,
+            "lon": -7.2448
+        },
+        "it": "Kilkenny",
+        "it:t": "Irlanda | Kilkenny",
+        "es": "Kilkenny",
+        "es:t": "Irlanda | Kilkenny",
+        "de": "Kilkenny",
+        "de:t": "Irland | Kilkenny"
+    },
+    {
+        "en": "Leixlip",
+        "en:t": "Ireland | Kildare",
+        "a": true,
+        "g": {
+            "lat": 53.3638,
+            "lon": -6.49
+        },
+        "it": "Leixlip",
+        "it:t": "Irlanda | Kildare",
+        "es": "Leixlip",
+        "es:t": "Irlanda | Kildare",
+        "de": "Leixlip",
+        "de:t": "Irland | Kildare"
+    },
+    {
+        "en": "Letterkenny",
+        "en:t": "Ireland | Donegal",
+        "a": true,
+        "g": {
+            "lat": 54.9558,
+            "lon": -7.7343
+        },
+        "it": "Letterkenny",
+        "it:t": "Irlanda | Donegal",
+        "es": "Letterkenny",
+        "es:t": "Irlanda | Donegal",
+        "de": "Letterkenny",
+        "de:t": "Irland | Donegal"
+    },
+    {
+        "en": "Limerick",
+        "en:t": "Ireland | Limerick",
+        "a": true,
+        "g": {
+            "lat": 52.6638,
+            "lon": -8.6267
+        },
+        "it": "Limerick",
+        "it:t": "Irlanda | Limerick",
+        "es": "Limerick",
+        "es:t": "Irlanda | Limerick",
+        "de": "Limerick",
+        "de:t": "Irland | Limerick"
+    },
+    {
+        "en": "Lucan",
+        "en:t": "Ireland | Dublin",
+        "a": true,
+        "g": {
+            "lat": 53.3572,
+            "lon": -6.4498
+        },
+        "it": "Lucan",
+        "it:t": "Irlanda | Dublino",
+        "es": "Lucan",
+        "es:t": "Irlanda | Dubl\u00edn",
+        "de": "Lucan",
+        "de:t": "Irland | Dublin"
+    },
+    {
+        "en": "Malahide",
+        "en:t": "Ireland | Dublin",
+        "a": true,
+        "g": {
+            "lat": 53.4509,
+            "lon": -6.1501
+        },
+        "it": "Malahide",
+        "it:t": "Irlanda | Dublino",
+        "es": "Malahide",
+        "es:t": "Irlanda | Dubl\u00edn",
+        "de": "Malahide",
+        "de:t": "Irland | Dublin"
+    },
+    {
+        "en": "Mullingar",
+        "en:t": "Ireland | Westmeath",
+        "a": true,
+        "g": {
+            "lat": 53.5259,
+            "lon": -7.3381
+        },
+        "it": "Mullingar",
+        "it:t": "Irlanda | Westmeath",
+        "es": "Mullingar",
+        "es:t": "Irlanda | Westmeath",
+        "de": "Mullingar",
+        "de:t": "Irland | Westmeath"
+    },
+    {
+        "en": "Naas",
+        "en:t": "Ireland | Kildare",
+        "a": true,
+        "g": {
+            "lat": 53.2206,
+            "lon": -6.6593
+        },
+        "it": "An N\u00e1s",
+        "it:t": "Irlanda | Kildare",
+        "es": "Naas",
+        "es:t": "Irlanda | Kildare",
+        "de": "Naas",
+        "de:t": "Irland | Kildare"
+    },
+    {
+        "en": "Navan",
+        "en:t": "Ireland | Meath",
+        "a": true,
+        "g": {
+            "lat": 53.6471,
+            "lon": -6.6967
+        },
+        "it": "An Uaimh",
+        "it:t": "Irlanda | Meath",
+        "es": "Navan",
+        "es:t": "Irlanda | Meath",
+        "de": "Navan",
+        "de:t": "Irland | Meath"
+    },
+    {
+        "en": "Newbridge",
+        "en:t": "Ireland | Kildare",
+        "a": true,
+        "g": {
+            "lat": 53.1751,
+            "lon": -6.8047
+        },
+        "it": "Newbridge",
+        "it:t": "Irlanda | Kildare",
+        "es": "Newbridge",
+        "es:t": "Irlanda | Kildare",
+        "de": "Newbridge",
+        "de:t": "Irland | Kildare"
+    },
+    {
+        "en": "Sandyford",
+        "en:t": "Ireland | Dublin",
+        "a": true,
+        "g": {
+            "lat": 53.272,
+            "lon": -6.2207
+        },
+        "it": "Sandyford",
+        "it:t": "Irlanda | Dublin",
+        "es": "Sandyford",
+        "es:t": "Irlanda | Dublin",
+        "de": "Sandyford",
+        "de:t": "Irland | Dublin"
+    },
+    {
+        "en": "Sligo",
+        "en:t": "Ireland | Sligo",
+        "a": true,
+        "g": {
+            "lat": 54.1553,
+            "lon": -8.6065
+        },
+        "it": "Sligo",
+        "it:t": "Irlanda | Sligo",
+        "es": "Sligo",
+        "es:t": "Irlanda | Sligo",
+        "de": "County Sligo",
+        "de:t": "Irland"
+    },
+    {
+        "en": "Swords",
+        "en:t": "Ireland | Dublin",
+        "a": true,
+        "g": {
+            "lat": 53.4557,
+            "lon": -6.2197
+        },
+        "it": "Swords",
+        "it:t": "Irlanda | Dublino",
+        "es": "Swords",
+        "es:t": "Irlanda | Dubl\u00edn",
+        "de": "Swords",
+        "de:t": "Irland | Dublin"
+    },
+    {
+        "en": "Tallaght",
+        "en:t": "Ireland | Dublin",
+        "a": true,
+        "g": {
+            "lat": 53.2888,
+            "lon": -6.3557
+        },
+        "it": "Tallaght",
+        "it:t": "Irlanda | Dublino",
+        "es": "Tallaght",
+        "es:t": "Irlanda | Dubl\u00edn",
+        "de": "Tallaght",
+        "de:t": "Irland | Dublin"
+    },
+    {
+        "en": "Tralee",
+        "en:t": "Ireland | Kerry",
+        "a": true,
+        "g": {
+            "lat": 52.2713,
+            "lon": -9.6999
+        },
+        "it": "Tr\u00e1 L\u00ed",
+        "it:t": "Irlanda | Kerry",
+        "es": "Tralee",
+        "es:t": "Irlanda | Kerry",
+        "de": "Tralee",
+        "de:t": "Irland | Kerry"
+    },
+    {
+        "en": "Waterford",
+        "en:t": "Ireland | Waterford",
+        "a": true,
+        "g": {
+            "lat": 52.2593,
+            "lon": -7.1101
+        },
+        "it": "Waterford",
+        "it:t": "Irlanda | Voterfordo grafyst\u0117",
+        "es": "Waterford",
+        "es:t": "Irlanda | Waterford",
+        "de": "Waterford",
+        "de:t": "Irland | Waterford"
+    },
+    {
+        "en": "Wexford",
+        "en:t": "Ireland | Wexford",
+        "a": true,
+        "g": {
+            "lat": 52.3369,
+            "lon": -6.4633
+        },
+        "it": "Wexford",
+        "it:t": "Irlanda | Wexford",
+        "es": "Wexford",
+        "es:t": "Irlanda | Wexford",
+        "de": "Wexford",
+        "de:t": "Irland | Wexford"
+    }
+]

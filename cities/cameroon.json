@@ -1,0 +1,257 @@
+[
+    {
+        "en": "Mora",
+        "en:t": "Cameroon | Mayo-Sava",
+        "a": true,
+        "g": {
+            "lat": 11.0465,
+            "lon": 14.1408
+        },
+        "it": "Mora",
+        "it:t": "Camerun | Dipartimento di Mayo-Sava",
+        "es": "Mora",
+        "es:t": "Camer\u00fan | Mayo-Sava",
+        "de": "Mora",
+        "de:t": "Kamerun | Mayo-Sava"
+    },
+    {
+        "en": "Mutengene",
+        "en:t": "Cameroon | Fako",
+        "a": true,
+        "g": {
+            "lat": 4.0892,
+            "lon": 9.3146
+        },
+        "it": "Mutengene",
+        "it:t": "Camerun | Fako",
+        "es": "Mutengene",
+        "es:t": "Camer\u00fan | Fako",
+        "de": "Mutengene",
+        "de:t": "Kamerun | Fako"
+    },
+    {
+        "en": "Muyuka",
+        "en:t": "Cameroon | Fako",
+        "a": true,
+        "g": {
+            "lat": 4.2905,
+            "lon": 9.4145
+        },
+        "it": "Muyuka",
+        "it:t": "Camerun | Fako",
+        "es": "Muyuka",
+        "es:t": "Camer\u00fan | Fako",
+        "de": "Muyuka",
+        "de:t": "Kamerun | Fako"
+    },
+    {
+        "en": "Nanga-Eboko",
+        "en:t": "Cameroon | Haute-Sanaga",
+        "a": true,
+        "g": {
+            "lat": 4.674,
+            "lon": 12.375
+        },
+        "it": "Nanga-Eboko",
+        "it:t": "Camerun | Dipartimento di Haute-Sanaga",
+        "es": "Nanga-Eboko",
+        "es:t": "Camer\u00fan | Haute-Sanaga",
+        "de": "Nanga-Eboko",
+        "de:t": "Kamerun | Haute-Sanaga"
+    },
+    {
+        "en": "Ngaoundere",
+        "en:t": "Cameroon | Vina",
+        "a": true,
+        "g": {
+            "lat": 7.3381,
+            "lon": 13.5668
+        },
+        "it": "Ngaound\u00e9r\u00e9",
+        "it:t": "Camerun | Dipartimento di Vina",
+        "es": "Ngaoundere",
+        "es:t": "Camer\u00fan | Vina",
+        "de": "Ngaound\u00e9r\u00e9",
+        "de:t": "Kamerun | Vina"
+    },
+    {
+        "en": "Nkongsamba",
+        "en:t": "Cameroon | Moungo",
+        "a": true,
+        "g": {
+            "lat": 4.9741,
+            "lon": 9.9353
+        },
+        "it": "Nkongsamba",
+        "it:t": "Camerun | Dipartimento di Moungo",
+        "es": "Nkongsamba",
+        "es:t": "Camer\u00fan | Moungo",
+        "de": "Nkongsamba",
+        "de:t": "Kamerun | Moungo"
+    },
+    {
+        "en": "Nkoteng",
+        "en:t": "Cameroon | Haute-Sanaga",
+        "a": true,
+        "g": {
+            "lat": 4.5386,
+            "lon": 12.0204
+        },
+        "it": "Nkoteng",
+        "it:t": "Camerun | Dipartimento di Haute-Sanaga",
+        "es": "Nkoteng",
+        "es:t": "Camer\u00fan | Haute-Sanaga",
+        "de": "Nkoteng",
+        "de:t": "Kamerun | Haute-Sanaga"
+    },
+    {
+        "en": "Obala",
+        "en:t": "Cameroon | Lekie",
+        "a": true,
+        "g": {
+            "lat": 4.1582,
+            "lon": 11.5362
+        },
+        "it": "Obala",
+        "it:t": "Camerun | Dipartimento di Leki\u00e9",
+        "es": "Obala",
+        "es:t": "Camer\u00fan | Leki\u00e9",
+        "de": "Obala",
+        "de:t": "Kamerun | Leki\u00e9"
+    },
+    {
+        "en": "Penja",
+        "en:t": "Cameroon | Moungo",
+        "a": true,
+        "g": {
+            "lat": 4.6377,
+            "lon": 9.687
+        },
+        "it": "Penja",
+        "it:t": "Camerun | Moungo",
+        "es": "Njombe-Penja",
+        "es:t": "Camer\u00fan | Moungo",
+        "de": "Penja",
+        "de:t": "Kamerun | Moungo"
+    },
+    {
+        "en": "Sangmelima",
+        "en:t": "Cameroon | Dja-Et-Lobo",
+        "a": true,
+        "g": {
+            "lat": 2.9372,
+            "lon": 11.9862
+        },
+        "it": "Sangm\u00e9lima",
+        "it:t": "Camerun | Dipartimento di Dja e Lobo",
+        "es": "Sangm\u00e9lima",
+        "es:t": "Camer\u00fan | Dja-Et-Lobo",
+        "de": "Sangm\u00e9lima",
+        "de:t": "Kamerun | Dja-et-Lobo"
+    },
+    {
+        "en": "Tchollir\u00e9",
+        "en:t": "Cameroon | Mayo-Rey",
+        "a": true,
+        "g": {
+            "lat": 8.3976,
+            "lon": 14.1728
+        },
+        "it": "Tchollir\u00e9",
+        "it:t": "Camerun | Dipartimento di Mayo-Rey",
+        "es": "Tchollir\u00e9",
+        "es:t": "Camer\u00fan | Mayo-Rey",
+        "de": "Tchollir\u00e9",
+        "de:t": "Kamerun | Mayo-Rey"
+    },
+    {
+        "en": "Tibati",
+        "en:t": "Cameroon | Djerem",
+        "a": true,
+        "g": {
+            "lat": 6.4703,
+            "lon": 12.6188
+        },
+        "it": "Tibati",
+        "it:t": "Camerun | Dipartimento di Djerem",
+        "es": "Tibati",
+        "es:t": "Camer\u00fan | Djerem",
+        "de": "Tibati",
+        "de:t": "Kamerun | Dj\u00e9rem"
+    },
+    {
+        "en": "Tiko",
+        "en:t": "Cameroon | Fako",
+        "a": true,
+        "g": {
+            "lat": 4.0786,
+            "lon": 9.359
+        },
+        "it": "Tiko",
+        "it:t": "Camerun | Dipartimento di Fako",
+        "es": "Tiko",
+        "es:t": "Camer\u00fan | Fako",
+        "de": "Tiko",
+        "de:t": "Kamerun | Fako"
+    },
+    {
+        "en": "Tonga",
+        "en:t": "Cameroon | Nde",
+        "a": true,
+        "g": {
+            "lat": 4.9698,
+            "lon": 10.7013
+        },
+        "it": "Tonga",
+        "it:t": "Camerun | Nde",
+        "es": "Tonga",
+        "es:t": "Camer\u00fan | Nd\u00e9",
+        "de": "Tonga",
+        "de:t": "Kamerun | Nde"
+    },
+    {
+        "en": "Wum",
+        "en:t": "Cameroon | Menchum",
+        "a": true,
+        "g": {
+            "lat": 6.3884,
+            "lon": 10.0751
+        },
+        "it": "Wum",
+        "it:t": "Camerun | Dipartimento di Menchum",
+        "es": "Wum",
+        "es:t": "Camer\u00fan | Menchum",
+        "de": "Wum",
+        "de:t": "Kamerun | Menchum"
+    },
+    {
+        "en": "Yagoua",
+        "en:t": "Cameroon | Mayo-Danay",
+        "a": true,
+        "g": {
+            "lat": 10.347,
+            "lon": 15.237
+        },
+        "it": "Yagoua",
+        "it:t": "Camerun | Dipartimento di Mayo-Danay",
+        "es": "Yagoua",
+        "es:t": "Camer\u00fan | Mayo-Danay",
+        "de": "Yagoua",
+        "de:t": "Kamerun | Mayo-Danay"
+    },
+    {
+        "en": "Yaounde",
+        "en:t": "Cameroon | Mfoundi",
+        "a": true,
+        "g": {
+            "lat": 3.848,
+            "lon": 11.5021
+        },
+        "it": "Yaound\u00e9",
+        "it:t": "Camerun | Dipartimento di Mfoundi",
+        "es": "Yaund\u00e9",
+        "es:t": "Camer\u00fan | Mfoundi",
+        "de": "Jaunde",
+        "de:t": "Kamerun | Mfoundi"
+    }
+]

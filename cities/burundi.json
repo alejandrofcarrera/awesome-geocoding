@@ -1,0 +1,152 @@
+[
+    {
+        "en": "Bujumbura",
+        "en:t": "Burundi | Buterere",
+        "a": true,
+        "g": {
+            "lat": -3.3614,
+            "lon": 29.3599
+        },
+        "it": "Bujumbura",
+        "it:t": "Burundi | Buterere",
+        "es": "Buyumbura",
+        "es:t": "Burundi | Buterere",
+        "de": "Bujumbura",
+        "de:t": "Burundi | Buterere"
+    },
+    {
+        "en": "Bururi",
+        "en:t": "Burundi",
+        "a": true,
+        "g": {
+            "lat": -3.9479,
+            "lon": 29.6238
+        },
+        "it": "Bururi",
+        "it:t": "Burundi",
+        "es": "Bururi",
+        "es:t": "Burundi",
+        "de": "Bururi",
+        "de:t": "Burundi"
+    },
+    {
+        "en": "Gitega",
+        "en:t": "Burundi",
+        "a": true,
+        "g": {
+            "lat": -3.4288,
+            "lon": 29.9249
+        },
+        "it": "Gitega",
+        "it:t": "Burundi",
+        "es": "Gitega",
+        "es:t": "Burundi",
+        "de": "Gitega",
+        "de:t": "Burundi"
+    },
+    {
+        "en": "Kayanza",
+        "en:t": "Burundi | kayanza",
+        "a": true,
+        "g": {
+            "lat": -2.9219,
+            "lon": 29.6253
+        },
+        "it": "Kayanza",
+        "it:t": "Burundi",
+        "es": "Kayanza",
+        "es:t": "Burundi",
+        "de": "Kayanza",
+        "de:t": "Burundi"
+    },
+    {
+        "en": "Makamba",
+        "en:t": "Burundi",
+        "a": true,
+        "g": {
+            "lat": -4.1385,
+            "lon": 29.8034
+        },
+        "it": "Makamba",
+        "it:t": "Burundi",
+        "es": "Makamba",
+        "es:t": "Burundi",
+        "de": "Makamba",
+        "de:t": "Burundi"
+    },
+    {
+        "en": "Muramvya",
+        "en:t": "Burundi",
+        "a": true,
+        "g": {
+            "lat": -3.2675,
+            "lon": 29.6224
+        },
+        "it": "Muramvya",
+        "it:t": "Burundi",
+        "es": "Muramvya",
+        "es:t": "Burundi",
+        "de": "Muramvya",
+        "de:t": "Burundi"
+    },
+    {
+        "en": "Muyinga",
+        "en:t": "Burundi",
+        "a": true,
+        "g": {
+            "lat": -2.8409,
+            "lon": 30.3464
+        },
+        "it": "Muyinga",
+        "it:t": "Burundi",
+        "es": "Muyinga",
+        "es:t": "Burundi",
+        "de": "Muyinga",
+        "de:t": "Burundi"
+    },
+    {
+        "en": "Ngozi",
+        "en:t": "Burundi",
+        "a": true,
+        "g": {
+            "lat": -2.9084,
+            "lon": 29.8265
+        },
+        "it": "Ngozi",
+        "it:t": "Burundi",
+        "es": "Ngozi",
+        "es:t": "Burundi",
+        "de": "Ngozi",
+        "de:t": "Burundi"
+    },
+    {
+        "en": "Rutana",
+        "en:t": "Burundi",
+        "a": true,
+        "g": {
+            "lat": -3.9257,
+            "lon": 29.99
+        },
+        "it": "Rutana",
+        "it:t": "Burundi",
+        "es": "Rutana",
+        "es:t": "Burundi",
+        "de": "Rutana",
+        "de:t": "Burundi"
+    },
+    {
+        "en": "Ruyigi",
+        "en:t": "Burundi",
+        "a": true,
+        "g": {
+            "lat": -3.475,
+            "lon": 30.2484
+        },
+        "it": "Ruyigi",
+        "it:t": "Burundi",
+        "es": "Ruyigi",
+        "es:t": "Burundi",
+        "de": "Ruyigi",
+        "de:t": "Burundi"
+    }
+]

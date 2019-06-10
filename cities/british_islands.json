@@ -1,0 +1,17 @@
+[
+    {
+        "en": "Tortola",
+        "en:t": "British Virgin Islands",
+        "a": true,
+        "g": {
+            "lat": 18.4335,
+            "lon": -64.6333
+        },
+        "it": "Road Town",
+        "it:t": "Isole Vergini britanniche | Tortola",
+        "es": "Road Town",
+        "es:t": "Islas V\u00edrgenes Brit\u00e1nicas | Tortola",
+        "de": "Tortola",
+        "de:t": "Britische Jungferninseln"
+    }
+]

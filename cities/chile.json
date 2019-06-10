@@ -1,0 +1,1442 @@
+[
+    {
+        "en": "Ancud",
+        "en:t": "Chile",
+        "a": true,
+        "g": {
+            "lat": -41.8675,
+            "lon": -73.8277
+        },
+        "it": "Ancud",
+        "it:t": "Cile",
+        "es": "Ancud",
+        "es:t": "Chile",
+        "de": "Ancud",
+        "de:t": "Chile"
+    },
+    {
+        "en": "Angol",
+        "en:t": "Chile",
+        "a": true,
+        "g": {
+            "lat": -37.8061,
+            "lon": -72.7038
+        },
+        "it": "Angol",
+        "it:t": "Cile",
+        "es": "Angol",
+        "es:t": "Chile",
+        "de": "Angol",
+        "de:t": "Chile"
+    },
+    {
+        "en": "Antofagasta",
+        "en:t": "Chile",
+        "a": true,
+        "g": {
+            "lat": -23.6509,
+            "lon": -70.3975
+        },
+        "it": "Antofagasta",
+        "it:t": "Cile",
+        "es": "Antofagasta",
+        "es:t": "Chile",
+        "de": "Antofagasta",
+        "de:t": "Chile"
+    },
+    {
+        "en": "Arauco",
+        "en:t": "Chile",
+        "a": true,
+        "g": {
+            "lat": -37.2458,
+            "lon": -73.3167
+        },
+        "it": "Arauco",
+        "it:t": "Cile",
+        "es": "Arauco",
+        "es:t": "Chile",
+        "de": "Arauco",
+        "de:t": "Chile"
+    },
+    {
+        "en": "Arica",
+        "en:t": "Chile",
+        "a": true,
+        "g": {
+            "lat": -18.4783,
+            "lon": -70.3126
+        },
+        "it": "Arica",
+        "it:t": "Cile",
+        "es": "Arica",
+        "es:t": "Chile",
+        "de": "Arica",
+        "de:t": "Chile"
+    },
+    {
+        "en": "Buin",
+        "en:t": "Chile",
+        "a": true,
+        "g": {
+            "lat": -33.7314,
+            "lon": -70.7424
+        },
+        "it": "Buin",
+        "it:t": "Cile",
+        "es": "Buin",
+        "es:t": "Chile",
+        "de": "Bu\u00edn",
+        "de:t": "Chile"
+    },
+    {
+        "en": "Cabrero",
+        "en:t": "Chile",
+        "a": true,
+        "g": {
+            "lat": -37.0333,
+            "lon": -72.4
+        },
+        "it": "Cabrero",
+        "it:t": "Cile",
+        "es": "Cabrero",
+        "es:t": "Chile",
+        "de": "Cabrero",
+        "de:t": "Chile"
+    },
+    {
+        "en": "Calama",
+        "en:t": "Chile",
+        "a": true,
+        "g": {
+            "lat": -22.4544,
+            "lon": -68.9294
+        },
+        "it": "Calama",
+        "it:t": "Cile",
+        "es": "Calama",
+        "es:t": "Chile",
+        "de": "Calama",
+        "de:t": "Chile"
+    },
+    {
+        "en": "Cartagena",
+        "en:t": "Chile",
+        "a": true,
+        "g": {
+            "lat": -33.5482,
+            "lon": -71.6046
+        },
+        "it": "Cartagena",
+        "it:t": "Cile",
+        "es": "Cartagena",
+        "es:t": "Chile",
+        "de": "Cartagena",
+        "de:t": "Chile"
+    },
+    {
+        "en": "Castro",
+        "en:t": "Chile",
+        "a": true,
+        "g": {
+            "lat": -42.4801,
+            "lon": -73.7624
+        },
+        "it": "Castro",
+        "it:t": "Cile",
+        "es": "Castro",
+        "es:t": "Chile",
+        "de": "Castro",
+        "de:t": "Chile"
+    },
+    {
+        "en": "Cauquenes",
+        "en:t": "Chile",
+        "a": true,
+        "g": {
+            "lat": -35.9676,
+            "lon": -72.3222
+        },
+        "it": "Cauquenes",
+        "it:t": "Cile",
+        "es": "Cauquenes",
+        "es:t": "Chile",
+        "de": "Cauquenes",
+        "de:t": "Chile"
+    },
+    {
+        "en": "Ca\u00f1ete",
+        "en:t": "Chile",
+        "a": true,
+        "g": {
+            "lat": -37.8058,
+            "lon": -73.392
+        },
+        "it": "Ca\u00f1ete",
+        "it:t": "Cile",
+        "es": "Canete",
+        "es:t": "Chile",
+        "de": "Ca\u00f1ete",
+        "de:t": "Chile"
+    },
+    {
+        "en": "Chicureo",
+        "en:t": "Chile | Colina",
+        "a": true,
+        "g": {
+            "lat": -33.2756,
+            "lon": -70.6481
+        },
+        "it": "Chicureo",
+        "it:t": "Cile | Colina",
+        "es": "Chicureo",
+        "es:t": "Chile | Colina",
+        "de": "Chicureo",
+        "de:t": "Chile | Colina"
+    },
+    {
+        "en": "Chiguayante",
+        "en:t": "Chile",
+        "a": true,
+        "g": {
+            "lat": -36.9532,
+            "lon": -73.0174
+        },
+        "it": "Chiguayante",
+        "it:t": "Cile",
+        "es": "Chiguayante",
+        "es:t": "Chile",
+        "de": "Chiguayante",
+        "de:t": "Chile"
+    },
+    {
+        "en": "Chill\u00e1n",
+        "en:t": "Chile | Chillan",
+        "a": true,
+        "g": {
+            "lat": -36.6063,
+            "lon": -72.1023
+        },
+        "it": "Chill\u00e1n",
+        "it:t": "Cile | Chillan",
+        "es": "Chillan",
+        "es:t": "Chile | Chill\u00e1n",
+        "de": "Chill\u00e1n",
+        "de:t": "Chile | Chillan"
+    },
+    {
+        "en": "Chimbarongo",
+        "en:t": "Chile",
+        "a": true,
+        "g": {
+            "lat": -34.7092,
+            "lon": -71.0413
+        },
+        "it": "Chimbarongo",
+        "it:t": "Cile",
+        "es": "Chimbarongo",
+        "es:t": "Chile",
+        "de": "Chimbarongo",
+        "de:t": "Chile"
+    },
+    {
+        "en": "Collipulli",
+        "en:t": "Chile",
+        "a": true,
+        "g": {
+            "lat": -37.9583,
+            "lon": -72.4321
+        },
+        "it": "Collipulli",
+        "it:t": "Cile",
+        "es": "Collipulli",
+        "es:t": "Chile",
+        "de": "Collipulli",
+        "de:t": "Chile"
+    },
+    {
+        "en": "Concepci\u00f3n",
+        "en:t": "Chile",
+        "a": true,
+        "g": {
+            "lat": -36.8201,
+            "lon": -73.0444
+        },
+        "it": "Concepci\u00f3n",
+        "it:t": "Cile",
+        "es": "Concepci\u00f3n",
+        "es:t": "Chile",
+        "de": "Concepci\u00f3n",
+        "de:t": "Chile"
+    },
+    {
+        "en": "Constituci\u00f3n",
+        "en:t": "Chile | Constitucion",
+        "a": true,
+        "g": {
+            "lat": -35.3333,
+            "lon": -72.4167
+        },
+        "it": "Constituci\u00f3n",
+        "it:t": "Cile | Constitucion",
+        "es": "Constituci\u00f3n",
+        "es:t": "Chile",
+        "de": "Constituci\u00f3n",
+        "de:t": "Chile | Constitucion"
+    },
+    {
+        "en": "Copiap\u00f3",
+        "en:t": "Chile | Copiapo",
+        "a": true,
+        "g": {
+            "lat": -27.3666,
+            "lon": -70.3322
+        },
+        "it": "Copiap\u00f3",
+        "it:t": "Cile | Copiapo",
+        "es": "Copiap\u00f3",
+        "es:t": "Chile",
+        "de": "Copiap\u00f3",
+        "de:t": "Chile | Copiapo"
+    },
+    {
+        "en": "Coquimbo",
+        "en:t": "Chile",
+        "a": true,
+        "g": {
+            "lat": -29.959,
+            "lon": -71.3389
+        },
+        "it": "Coquimbo",
+        "it:t": "Cile",
+        "es": "Coquimbo",
+        "es:t": "Chile",
+        "de": "Coquimbo",
+        "de:t": "Chile"
+    },
+    {
+        "en": "Coronel",
+        "en:t": "Chile",
+        "a": true,
+        "g": {
+            "lat": -37.0341,
+            "lon": -73.1405
+        },
+        "it": "Coronel",
+        "it:t": "Cile",
+        "es": "Coronel",
+        "es:t": "Chile",
+        "de": "Coronel",
+        "de:t": "Chile"
+    },
+    {
+        "en": "Coyhaique",
+        "en:t": "Chile",
+        "a": true,
+        "g": {
+            "lat": -45.5712,
+            "lon": -72.0683
+        },
+        "it": "Coyhaique",
+        "it:t": "Cile",
+        "es": "Coyhaique",
+        "es:t": "Chile",
+        "de": "Coyhaique",
+        "de:t": "Chile"
+    },
+    {
+        "en": "Curanilahue",
+        "en:t": "Chile",
+        "a": true,
+        "g": {
+            "lat": -37.4762,
+            "lon": -73.3421
+        },
+        "it": "Curanilahue",
+        "it:t": "Cile",
+        "es": "Curanilahue",
+        "es:t": "Chile",
+        "de": "Curanilahue",
+        "de:t": "Chile"
+    },
+    {
+        "en": "Curico",
+        "en:t": "Chile",
+        "a": true,
+        "g": {
+            "lat": -34.978,
+            "lon": -71.2529
+        },
+        "it": "Curic\u00f3",
+        "it:t": "Cile",
+        "es": "Curic\u00f3",
+        "es:t": "Chile",
+        "de": "Curic\u00f3",
+        "de:t": "Chile"
+    },
+    {
+        "en": "Diego de Almagro",
+        "en:t": "Chile",
+        "a": true,
+        "g": {
+            "lat": -26.3902,
+            "lon": -70.0475
+        },
+        "it": "Diego de Almagro",
+        "it:t": "Cile",
+        "es": "Diego de Almagro",
+        "es:t": "Chile",
+        "de": "Diego de Almagro",
+        "de:t": "Chile"
+    },
+    {
+        "en": "El Monte",
+        "en:t": "Chile",
+        "a": true,
+        "g": {
+            "lat": -33.6815,
+            "lon": -70.9854
+        },
+        "it": "El Monte",
+        "it:t": "Cile",
+        "es": "El Monte",
+        "es:t": "Chile",
+        "de": "El Monte",
+        "de:t": "Chile"
+    },
+    {
+        "en": "Frutillar",
+        "en:t": "Chile",
+        "a": true,
+        "g": {
+            "lat": -41.1125,
+            "lon": -73.0497
+        },
+        "it": "Frutillar",
+        "it:t": "Cile",
+        "es": "Frutillar",
+        "es:t": "Chile",
+        "de": "Frutillar",
+        "de:t": "Chile"
+    },
+    {
+        "en": "Graneros",
+        "en:t": "Chile",
+        "a": true,
+        "g": {
+            "lat": -34.0667,
+            "lon": -70.7326
+        },
+        "it": "Graneros",
+        "it:t": "Cile",
+        "es": "Graneros",
+        "es:t": "Chile",
+        "de": "Graneros",
+        "de:t": "Chile"
+    },
+    {
+        "en": "Illapel",
+        "en:t": "Chile",
+        "a": true,
+        "g": {
+            "lat": -31.6308,
+            "lon": -71.1653
+        },
+        "it": "Illapel",
+        "it:t": "Cile",
+        "es": "Illapel",
+        "es:t": "Chile",
+        "de": "Illapel",
+        "de:t": "Chile"
+    },
+    {
+        "en": "Iquique",
+        "en:t": "Chile",
+        "a": true,
+        "g": {
+            "lat": -20.2307,
+            "lon": -70.1357
+        },
+        "it": "Iquique",
+        "it:t": "Cile",
+        "es": "Iquique",
+        "es:t": "Chile",
+        "de": "Iquique",
+        "de:t": "Chile"
+    },
+    {
+        "en": "La Calera",
+        "en:t": "Chile | Calera",
+        "a": true,
+        "g": {
+            "lat": -32.7878,
+            "lon": -71.204
+        },
+        "it": "La Calera",
+        "it:t": "Cile | Calera",
+        "es": "La Calera",
+        "es:t": "Chile | Calera",
+        "de": "La Calera",
+        "de:t": "Chile | Calera"
+    },
+    {
+        "en": "La Laja",
+        "en:t": "Chile | Puente Alto",
+        "a": true,
+        "g": {
+            "lat": -33.6167,
+            "lon": -70.5667
+        },
+        "it": "La Laja",
+        "it:t": "Cile | Puente Alto",
+        "es": "La Laja",
+        "es:t": "Chile | Puente Alto",
+        "de": "Laja",
+        "de:t": "Chile | Puente Alto",
+    },
+    {
+        "en": "La Ligua",
+        "en:t": "Chile",
+        "a": true,
+        "g": {
+            "lat": -32.4499,
+            "lon": -71.2326
+        },
+        "it": "La Ligua",
+        "it:t": "Cile",
+        "es": "La Ligua",
+        "es:t": "Chile",
+        "de": "La Ligua",
+        "de:t": "Chile"
+    },
+    {
+        "en": "La Pintana",
+        "en:t": "Chile",
+        "a": true,
+        "g": {
+            "lat": -33.5856,
+            "lon": -70.6286
+        },
+        "it": "La Pintana",
+        "it:t": "Cile",
+        "es": "La Pintana",
+        "es:t": "Chile",
+        "de": "La Pintana",
+        "de:t": "Chile"
+    },
+    {
+        "en": "La Serena",
+        "en:t": "Chile",
+        "a": true,
+        "g": {
+            "lat": -29.9027,
+            "lon": -71.2519
+        },
+        "it": "La Serena",
+        "it:t": "Cile",
+        "es": "La Serena",
+        "es:t": "Chile",
+        "de": "La Serena",
+        "de:t": "Chile"
+    },
+    {
+        "en": "La Uni\u00f3n",
+        "en:t": "Chile",
+        "a": true,
+        "g": {
+            "lat": -40.2953,
+            "lon": -73.0793
+        },
+        "it": "La Uni\u00f3n",
+        "it:t": "Cile",
+        "es": "La Uni\u00f3n",
+        "es:t": "Chile",
+        "de": "La Uni\u00f3n",
+        "de:t": "Chile"
+    },
+    {
+        "en": "Lampa",
+        "en:t": "Chile",
+        "a": true,
+        "g": {
+            "lat": -33.2827,
+            "lon": -70.8793
+        },
+        "it": "Lampa",
+        "it:t": "Cile",
+        "es": "Lampa",
+        "es:t": "Chile",
+        "de": "Lampa",
+        "de:t": "Chile"
+    },
+    {
+        "en": "Las Animas, Chile",
+        "en:t": "Chile | Valdivia",
+        "a": true,
+        "g": {
+            "lat": -39.8084,
+            "lon": -73.223
+        },
+        "it": "Las Animas, Chile",
+        "it:t": "Cile | Valdivia",
+        "es": "Las Animas",
+        "es:t": "Chile | Valdivia",
+        "de": "Los Lagos",
+        "de:t": "Chile | Valdivia",
+    },
+    {
+        "en": "Lautaro",
+        "en:t": "Chile",
+        "a": true,
+        "g": {
+            "lat": -38.5084,
+            "lon": -72.4541
+        },
+        "it": "Lautaro",
+        "it:t": "Cile",
+        "es": "Lautaro",
+        "es:t": "Chile",
+        "de": "Lautaro",
+        "de:t": "Chile"
+    },
+    {
+        "en": "Lebu",
+        "en:t": "Chile",
+        "a": true,
+        "g": {
+            "lat": -37.6097,
+            "lon": -73.6483
+        },
+        "it": "Lebu",
+        "it:t": "Cile",
+        "es": "Lebu",
+        "es:t": "Chile",
+        "de": "Lebu",
+        "de:t": "Chile"
+    },
+    {
+        "en": "Limache",
+        "en:t": "Chile | Marga Marga",
+        "a": true,
+        "g": {
+            "lat": -33.0095,
+            "lon": -71.2596
+        },
+        "it": "Valpara\u00edso",
+        "it:t": "Cile",
+        "es": "Limache",
+        "es:t": "Chile | Marga Marga",
+        "de": "Limache",
+        "de:t": "Chile | Marga Marga"
+    },
+    {
+        "en": "Linares",
+        "en:t": "Chile",
+        "a": true,
+        "g": {
+            "lat": -35.8464,
+            "lon": -71.5996
+        },
+        "it": "Linares",
+        "it:t": "Cile",
+        "es": "Linares",
+        "es:t": "Chile",
+        "de": "Linares",
+        "de:t": "Chile"
+    },
+    {
+        "en": "Llay-Llay",
+        "en:t": "Chile | Llayllay",
+        "a": true,
+        "g": {
+            "lat": -32.841,
+            "lon": -70.9562
+        },
+        "it": "Llaillay",
+        "it:t": "Cile | Llayllay",
+        "es": "Llay Llay",
+        "es:t": "Chile | Llayllay",
+        "de": "Llay-Llay",
+        "de:t": "Chile | Llayllay"
+    },
+    {
+        "en": "Lo Prado",
+        "en:t": "Chile",
+        "a": true,
+        "g": {
+            "lat": -33.4443,
+            "lon": -70.7233
+        },
+        "it": "Lo Prado",
+        "it:t": "Cile",
+        "es": "Lo Prado",
+        "es:t": "Chile",
+        "de": "Lo Prado",
+        "de:t": "Chile"
+    },
+    {
+        "en": "Loncoche",
+        "en:t": "Chile",
+        "a": true,
+        "g": {
+            "lat": -39.3681,
+            "lon": -72.6315
+        },
+        "it": "Loncoche",
+        "it:t": "Cile",
+        "es": "Loncoche",
+        "es:t": "Chile",
+        "de": "Loncoche",
+        "de:t": "Chile"
+    },
+    {
+        "en": "Los Andes",
+        "en:t": "Chile",
+        "a": true,
+        "g": {
+            "lat": -32.8338,
+            "lon": -70.5972
+        },
+        "it": "Los Andes",
+        "it:t": "Cile",
+        "es": "Los Andes",
+        "es:t": "Chile",
+        "de": "Los Andes",
+        "de:t": "Chile"
+    },
+    {
+        "en": "Los \u00c1ngeles",
+        "en:t": "Chile",
+        "a": true,
+        "g": {
+            "lat": -37.4629,
+            "lon": -72.3612
+        },
+        "it": "Los \u00c1ngeles",
+        "it:t": "Cile",
+        "es": "Los Angeles",
+        "es:t": "Chile",
+        "de": "Los \u00c1ngeles",
+        "de:t": "Chile"
+    },
+    {
+        "en": "Lota",
+        "en:t": "Chile",
+        "a": true,
+        "g": {
+            "lat": -37.0921,
+            "lon": -73.1546
+        },
+        "it": "Lota",
+        "it:t": "Cile",
+        "es": "Lota",
+        "es:t": "Chile",
+        "de": "Lota",
+        "de:t": "Chile"
+    },
+    {
+        "en": "Machal\u00ed",
+        "en:t": "Chile | Machali",
+        "a": true,
+        "g": {
+            "lat": -34.1795,
+            "lon": -70.6565
+        },
+        "it": "Machal\u00ed",
+        "it:t": "Cile | Machali",
+        "es": "Machal\u00ed",
+        "es:t": "Chile",
+        "de": "Machal\u00ed",
+        "de:t": "Chile | Machali"
+    },
+    {
+        "en": "Melipilla",
+        "en:t": "Chile",
+        "a": true,
+        "g": {
+            "lat": -33.6862,
+            "lon": -71.2167
+        },
+        "it": "Melipilla",
+        "it:t": "Cile",
+        "es": "Melipilla",
+        "es:t": "Chile",
+        "de": "Melipilla",
+        "de:t": "Chile"
+    },
+    {
+        "en": "Molina",
+        "en:t": "Chile",
+        "a": true,
+        "g": {
+            "lat": -35.1165,
+            "lon": -71.283
+        },
+        "it": "Molina",
+        "it:t": "Cile",
+        "es": "Molina",
+        "es:t": "Chile",
+        "de": "Molina",
+        "de:t": "Chile"
+    },
+    {
+        "en": "Mulch\u00e9n",
+        "en:t": "Chile",
+        "a": true,
+        "g": {
+            "lat": -37.7179,
+            "lon": -72.2374
+        },
+        "it": "Mulch\u00e9n",
+        "it:t": "Cile",
+        "es": "Mulchen",
+        "es:t": "Chile",
+        "de": "Mulch\u00e9n",
+        "de:t": "Chile"
+    },
+    {
+        "en": "Nacimiento",
+        "en:t": "Chile",
+        "a": true,
+        "g": {
+            "lat": -37.5059,
+            "lon": -72.6738
+        },
+        "it": "Nacimiento",
+        "it:t": "Cile",
+        "es": "Nacimiento",
+        "es:t": "Chile",
+        "de": "Nacimiento",
+        "de:t": "Chile"
+    },
+    {
+        "en": "Nueva Imperial",
+        "en:t": "Chile",
+        "a": true,
+        "g": {
+            "lat": -38.7445,
+            "lon": -72.9482
+        },
+        "it": "Nueva Imperial",
+        "it:t": "Cile",
+        "es": "Nueva Imperial",
+        "es:t": "Chile",
+        "de": "Nueva Imperial",
+        "de:t": "Chile"
+    },
+    {
+        "en": "Osorno",
+        "en:t": "Chile",
+        "a": true,
+        "g": {
+            "lat": -40.5762,
+            "lon": -73.1149
+        },
+        "it": "Osorno",
+        "it:t": "Cile",
+        "es": "Osorno",
+        "es:t": "Chile",
+        "de": "Osorno",
+        "de:t": "Chile"
+    },
+    {
+        "en": "Ovalle",
+        "en:t": "Chile",
+        "a": true,
+        "g": {
+            "lat": -30.6043,
+            "lon": -71.197
+        },
+        "it": "Ovalle",
+        "it:t": "Cile",
+        "es": "Ovalle",
+        "es:t": "Chile",
+        "de": "Ovalle",
+        "de:t": "Chile"
+    },
+    {
+        "en": "Paine",
+        "en:t": "Chile",
+        "a": true,
+        "g": {
+            "lat": -33.8126,
+            "lon": -70.7376
+        },
+        "it": "Paine",
+        "it:t": "Cile",
+        "es": "Paine",
+        "es:t": "Chile",
+        "de": "Paine",
+        "de:t": "Chile"
+    },
+    {
+        "en": "Panguipulli",
+        "en:t": "Chile",
+        "a": true,
+        "g": {
+            "lat": -39.5609,
+            "lon": -72.4748
+        },
+        "it": "Panguipulli",
+        "it:t": "Cile",
+        "es": "Panguipulli",
+        "es:t": "Chile",
+        "de": "Panguipulli",
+        "de:t": "Chile"
+    },
+    {
+        "en": "Parral",
+        "en:t": "Chile",
+        "a": true,
+        "g": {
+            "lat": -36.1406,
+            "lon": -71.8228
+        },
+        "it": "Parral",
+        "it:t": "Cile",
+        "es": "Parral",
+        "es:t": "Chile",
+        "de": "Parral",
+        "de:t": "Chile"
+    },
+    {
+        "en": "Penco",
+        "en:t": "Chile",
+        "a": true,
+        "g": {
+            "lat": -36.7333,
+            "lon": -72.9833
+        },
+        "it": "Penco",
+        "it:t": "Cile",
+        "es": "Penco",
+        "es:t": "Chile",
+        "de": "Penco",
+        "de:t": "Chile"
+    },
+    {
+        "en": "Pe\u00f1aflor",
+        "en:t": "Chile",
+        "a": true,
+        "g": {
+            "lat": -33.606,
+            "lon": -70.8782
+        },
+        "it": "Pe\u00f1aflor",
+        "it:t": "Cile",
+        "es": "Penaflor",
+        "es:t": "Chile",
+        "de": "Pe\u00f1aflor",
+        "de:t": "Chile"
+    },
+    {
+        "en": "Puc\u00f3n",
+        "en:t": "Chile | Pucon",
+        "a": true,
+        "g": {
+            "lat": -39.2723,
+            "lon": -71.9776
+        },
+        "it": "Puc\u00f3n",
+        "it:t": "Cile | Pucon",
+        "es": "Pucon",
+        "es:t": "Chile | Puc\u00f3n",
+        "de": "Puc\u00f3n",
+        "de:t": "Chile | Pucon"
+    },
+    {
+        "en": "Puente Alto",
+        "en:t": "Chile",
+        "a": true,
+        "g": {
+            "lat": -33.6186,
+            "lon": -70.5906
+        },
+        "it": "Puente Alto",
+        "it:t": "Cile",
+        "es": "Puente Alto",
+        "es:t": "Chile",
+        "de": "Puente Alto",
+        "de:t": "Chile"
+    },
+    {
+        "en": "Puerto Ays\u00e9n",
+        "en:t": "Chile | Ays\u00e9n",
+        "a": true,
+        "g": {
+            "lat": -45.4035,
+            "lon": -72.6864
+        },
+        "it": "Puerto Ays\u00e9n",
+        "it:t": "Cile | Ays\u00e9n",
+        "es": "Puerto Aysen",
+        "es:t": "Chile | Ays\u00e9n",
+        "de": "Puerto Ais\u00e9n",
+        "de:t": "Chile | Ays\u00e9n"
+    },
+    {
+        "en": "Puerto Montt",
+        "en:t": "Chile",
+        "a": true,
+        "g": {
+            "lat": -41.4689,
+            "lon": -72.9411
+        },
+        "it": "Puerto Montt",
+        "it:t": "Cile",
+        "es": "Puerto Montt",
+        "es:t": "Chile",
+        "de": "Puerto Montt",
+        "de:t": "Chile"
+    },
+    {
+        "en": "Puerto Natales",
+        "en:t": "Chile | Natales",
+        "a": true,
+        "g": {
+            "lat": -51.7309,
+            "lon": -72.4977
+        },
+        "it": "Puerto Natales",
+        "it:t": "Cile | Natales",
+        "es": "Puerto Natales",
+        "es:t": "Chile | Natales",
+        "de": "Puerto Natales",
+        "de:t": "Chile | Natales"
+    },
+    {
+        "en": "Puerto Quell\u00f3n",
+        "en:t": "Chile",
+        "a": true,
+        "g": {
+            "lat": -43.1167,
+            "lon": -73.6167
+        },
+        "it": "Quell\u00f3n",
+        "it:t": "Cile",
+        "es": "Quell\u00f3n",
+        "es:t": "Chile",
+        "de": "Puerto Quell\u00f3n",
+        "de:t": "Chile"
+    },
+    {
+        "en": "Puerto Varas",
+        "en:t": "Chile",
+        "a": true,
+        "g": {
+            "lat": -41.3167,
+            "lon": -72.9833
+        },
+        "it": "Puerto Varas",
+        "it:t": "Cile",
+        "es": "Puerto Varas",
+        "es:t": "Chile",
+        "de": "Puerto Varas",
+        "de:t": "Chile"
+    },
+    {
+        "en": "Punta Arenas",
+        "en:t": "Chile",
+        "a": true,
+        "g": {
+            "lat": -53.1638,
+            "lon": -70.9171
+        },
+        "it": "Punta Arenas",
+        "it:t": "Cile",
+        "es": "Punta Arenas",
+        "es:t": "Chile",
+        "de": "Punta Arenas",
+        "de:t": "Chile"
+    },
+    {
+        "en": "Quillota",
+        "en:t": "Chile",
+        "a": true,
+        "g": {
+            "lat": -32.8803,
+            "lon": -71.2497
+        },
+        "it": "Quillota",
+        "it:t": "Cile",
+        "es": "Quillota",
+        "es:t": "Chile",
+        "de": "Quillota",
+        "de:t": "Chile"
+    },
+    {
+        "en": "Quilpu\u00e9",
+        "en:t": "Chile | Quilpue",
+        "a": true,
+        "g": {
+            "lat": -33.0483,
+            "lon": -71.4409
+        },
+        "it": "Quilpu\u00e9",
+        "it:t": "Cile | Quilpue",
+        "es": "Quilpu\u00e9",
+        "es:t": "Chile | Quilpue",
+        "de": "Quilpu\u00e9",
+        "de:t": "Chile | Quilpue"
+    },
+    {
+        "en": "Rancagua",
+        "en:t": "Chile",
+        "a": true,
+        "g": {
+            "lat": -34.1701,
+            "lon": -70.7406
+        },
+        "it": "Rancagua",
+        "it:t": "Cile",
+        "es": "Rancagua",
+        "es:t": "Chile",
+        "de": "Rancagua",
+        "de:t": "Chile"
+    },
+    {
+        "en": "Rengo",
+        "en:t": "Chile",
+        "a": true,
+        "g": {
+            "lat": -34.4024,
+            "lon": -70.8674
+        },
+        "it": "Rengo",
+        "it:t": "Cile",
+        "es": "Rengo",
+        "es:t": "Chile",
+        "de": "Rengo",
+        "de:t": "Chile"
+    },
+    {
+        "en": "R\u00edo Bueno",
+        "en:t": "Chile | Rio Bueno",
+        "a": true,
+        "g": {
+            "lat": -40.3313,
+            "lon": -72.9485
+        },
+        "it": "R\u00edo Bueno",
+        "it:t": "Cile | Rio Bueno",
+        "es": "Rio Bueno",
+        "es:t": "Chile | R\u00edo Bueno",
+        "de": "R\u00edo Bueno",
+        "de:t": "Chile | Rio Bueno"
+    },
+    {
+        "en": "San Antonio",
+        "en:t": "Chile",
+        "a": true,
+        "g": {
+            "lat": -33.5923,
+            "lon": -71.6055
+        },
+        "it": "San Antonio",
+        "it:t": "Cile",
+        "es": "San Antonio",
+        "es:t": "Chile",
+        "de": "San Antonio",
+        "de:t": "Chile"
+    },
+    {
+        "en": "San Bernardo",
+        "en:t": "Chile",
+        "a": true,
+        "g": {
+            "lat": -33.5854,
+            "lon": -70.6987
+        },
+        "it": "San Bernardo",
+        "it:t": "Cile",
+        "es": "San Bernardo",
+        "es:t": "Chile",
+        "de": "San Bernardo",
+        "de:t": "Chile"
+    },
+    {
+        "en": "San Carlos",
+        "en:t": "Chile",
+        "a": true,
+        "g": {
+            "lat": -36.4261,
+            "lon": -71.9708
+        },
+        "it": "San Carlos",
+        "it:t": "Cile",
+        "es": "San Carlos",
+        "es:t": "Chile",
+        "de": "San Carlos",
+        "de:t": "Chile"
+    },
+    {
+        "en": "San Felipe",
+        "en:t": "Chile",
+        "a": true,
+        "g": {
+            "lat": -32.75,
+            "lon": -70.7208
+        },
+        "it": "San Felipe",
+        "it:t": "Cile",
+        "es": "San Felipe",
+        "es:t": "Chile",
+        "de": "San Felipe",
+        "de:t": "Chile"
+    },
+    {
+        "en": "San Javier",
+        "en:t": "Chile",
+        "a": true,
+        "g": {
+            "lat": -35.5931,
+            "lon": -71.7325
+        },
+        "it": "San Javier de Loncomilla",
+        "it:t": "Cile | San Javier",
+        "es": "San Javier",
+        "es:t": "Chile",
+        "de": "San Javier",
+        "de:t": "Chile"
+    },
+    {
+        "en": "San Vicente de Tagua Tagua",
+        "en:t": "Chile | San Vicente",
+        "a": true,
+        "g": {
+            "lat": -34.4349,
+            "lon": -71.0914
+        },
+        "it": "San Vicente de Tagua Tagua",
+        "it:t": "Cile | San Vicente",
+        "es": "San Vicente de Taguatagua",
+        "es:t": "Chile | San Vicente",
+        "de": "San Vicente de Tagua Tagua",
+        "de:t": "Chile | San Vicente"
+    },
+    {
+        "en": "Santa Cruz",
+        "en:t": "Chile",
+        "a": true,
+        "g": {
+            "lat": -34.6324,
+            "lon": -71.3592
+        },
+        "it": "Santa Cruz",
+        "it:t": "Cile",
+        "es": "Santa Cruz",
+        "es:t": "Chile",
+        "de": "Santa Cruz",
+        "de:t": "Chile"
+    },
+    {
+        "en": "Santiago",
+        "en:t": "Chile | Santiago Province",
+        "a": true,
+        "g": {
+            "lat": -33.4489,
+            "lon": -70.6693
+        },
+        "it": "Santiago del Chile",
+        "it:t": "Cile | Provincia di Santiago",
+        "es": "Santiago",
+        "es:t": "Chile | Provincia de Santiago",
+        "de": "Santiago de Chile",
+        "de:t": "Chile | Provinz Santiago"
+    },
+    {
+        "en": "Talagante",
+        "en:t": "Chile",
+        "a": true,
+        "g": {
+            "lat": -33.6637,
+            "lon": -70.9274
+        },
+        "it": "Talagante",
+        "it:t": "Cile",
+        "es": "Talagante",
+        "es:t": "Chile",
+        "de": "Talagante",
+        "de:t": "Chile"
+    },
+    {
+        "en": "Talca",
+        "en:t": "Chile",
+        "a": true,
+        "g": {
+            "lat": -35.4232,
+            "lon": -71.6485
+        },
+        "it": "Maule",
+        "it:t": "Cile",
+        "es": "Maule",
+        "es:t": "Chile",
+        "de": "Talca",
+        "de:t": "Chile"
+    },
+    {
+        "en": "Talcahuano",
+        "en:t": "Chile",
+        "a": true,
+        "g": {
+            "lat": -36.7248,
+            "lon": -73.117
+        },
+        "it": "Talcahuano",
+        "it:t": "Cile",
+        "es": "Talcahuano",
+        "es:t": "Chile",
+        "de": "Talcahuano",
+        "de:t": "Chile"
+    },
+    {
+        "en": "Temuco",
+        "en:t": "Chile",
+        "a": true,
+        "g": {
+            "lat": -38.7359,
+            "lon": -72.5904
+        },
+        "it": "Temuco",
+        "it:t": "Cile",
+        "es": "Temuco",
+        "es:t": "Chile",
+        "de": "Temuco",
+        "de:t": "Chile"
+    },
+    {
+        "en": "Tocopilla",
+        "en:t": "Chile",
+        "a": true,
+        "g": {
+            "lat": -22.0858,
+            "lon": -70.193
+        },
+        "it": "Tocopilla",
+        "it:t": "Cile",
+        "es": "Tocopilla",
+        "es:t": "Chile",
+        "de": "Tocopilla",
+        "de:t": "Chile"
+    },
+    {
+        "en": "Tom\u00e9",
+        "en:t": "Chile",
+        "a": true,
+        "g": {
+            "lat": -36.6132,
+            "lon": -72.9589
+        },
+        "it": "Tom\u00e9",
+        "it:t": "Cile",
+        "es": "Tome",
+        "es:t": "Chile",
+        "de": "Tom\u00e9",
+        "de:t": "Chile"
+    },
+    {
+        "en": "Valdivia",
+        "en:t": "Chile",
+        "a": true,
+        "g": {
+            "lat": -39.8196,
+            "lon": -73.2452
+        },
+        "it": "Valdivia",
+        "it:t": "Cile",
+        "es": "Valdivia",
+        "es:t": "Chile",
+        "de": "Valdivia",
+        "de:t": "Chile"
+    },
+    {
+        "en": "Vallenar",
+        "en:t": "Chile",
+        "a": true,
+        "g": {
+            "lat": -28.5758,
+            "lon": -70.7571
+        },
+        "it": "Vallenar",
+        "it:t": "Cile",
+        "es": "Vallenar",
+        "es:t": "Chile",
+        "de": "Vallenar",
+        "de:t": "Chile"
+    },
+    {
+        "en": "Valpara\u00edso",
+        "en:t": "Chile",
+        "a": true,
+        "g": {
+            "lat": -33.0472,
+            "lon": -71.6127
+        },
+        "it": "Valpara\u00edso",
+        "it:t": "Cile",
+        "es": "Valpara\u00edso",
+        "es:t": "Chile",
+        "de": "Valpara\u00edso",
+        "de:t": "Chile"
+    },
+    {
+        "en": "Victoria",
+        "en:t": "Chile",
+        "a": true,
+        "g": {
+            "lat": -38.2327,
+            "lon": -72.3515
+        },
+        "it": "Victoria",
+        "it:t": "Cile",
+        "es": "Victoria",
+        "es:t": "Chile",
+        "de": "Victoria",
+        "de:t": "Chile"
+    },
+    {
+        "en": "Villa Alemana",
+        "en:t": "Chile | Marga Marga",
+        "a": true,
+        "g": {
+            "lat": -33.0476,
+            "lon": -71.3734
+        },
+        "it": "Villa Alemana",
+        "it:t": "Cile | Marga Marga",
+        "es": "Villa Alemana",
+        "es:t": "Chile | Marga Marga",
+        "de": "Villa Alemana",
+        "de:t": "Chile | Marga Marga"
+    },
+    {
+        "en": "Villarrica",
+        "en:t": "Chile",
+        "a": true,
+        "g": {
+            "lat": -39.282,
+            "lon": -72.2308
+        },
+        "it": "Villarrica",
+        "it:t": "Cile",
+        "es": "Villarrica",
+        "es:t": "Chile",
+        "de": "Villarrica",
+        "de:t": "Chile"
+    },
+    {
+        "en": "Vi\u00f1a del Mar",
+        "en:t": "Chile",
+        "a": true,
+        "g": {
+            "lat": -33.0153,
+            "lon": -71.55
+        },
+        "it": "Valpara\u00edso",
+        "it:t": "Cile",
+        "es": "Vi\u00f1a del Mar",
+        "es:t": "Chile",
+        "de": "Valpara\u00edso",
+        "de:t": "Chile"
+    }
+]

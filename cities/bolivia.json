@@ -1,0 +1,392 @@
+[
+    {
+        "en": "Camiri",
+        "en:t": "Bolivia | Cordillera",
+        "a": true,
+        "g": {
+            "lat": -20.0221,
+            "lon": -63.5316
+        },
+        "it": "Camiri",
+        "it:t": "Bolivia | Cordillera",
+        "es": "Camiri",
+        "es:t": "Bolivia | Cordillera",
+        "de": "Camiri",
+        "de:t": "Bolivien | Provinz Cordillera"
+    },
+    {
+        "en": "Cobija",
+        "en:t": "Bolivia | Nicolas Suarez",
+        "a": true,
+        "g": {
+            "lat": -11.0344,
+            "lon": -68.7811
+        },
+        "it": "Cobija",
+        "it:t": "Bolivia | Provincia di Nicol\u00e1s Su\u00e1rez",
+        "es": "Cobija",
+        "es:t": "Bolivia | Nicolas Suarez",
+        "de": "Cobija",
+        "de:t": "Bolivien | Provinz Nicol\u00e1s Su\u00e1rez"
+    },
+    {
+        "en": "Cochabamba",
+        "en:t": "Bolivia | Cercado",
+        "a": true,
+        "g": {
+            "lat": -17.414,
+            "lon": -66.1653
+        },
+        "it": "Cochabamba",
+        "it:t": "Bolivia | Provincia di Cercado",
+        "es": "Cochabamba",
+        "es:t": "Bolivia | Cercado",
+        "de": "Cochabamba",
+        "de:t": "Bolivien | Provinz Cercado"
+    },
+    {
+        "en": "Cotoca",
+        "en:t": "Bolivia | Provincia de Andr\u00e9s Ib\u00e1\u00f1ez",
+        "a": true,
+        "g": {
+            "lat": -17.7727,
+            "lon": -62.8735
+        },
+        "it": "Cotoca",
+        "it:t": "Bolivia | Provincia di Andr\u00e9s Ib\u00e1\u00f1ez",
+        "es": "Cotoca",
+        "es:t": "Bolivia | Provincia de Andr\u00e9s Ib\u00e1\u00f1ez",
+        "de": "Municipio Cotoca",
+        "de:t": "Bolivien | Provinz Andr\u00e9s Ib\u00e1\u00f1ez"
+    },
+    {
+        "en": "Guayaramer\u00edn",
+        "en:t": "Bolivia | Vaca Diez",
+        "a": true,
+        "g": {
+            "lat": -10.8238,
+            "lon": -65.3688
+        },
+        "it": "Guayaramer\u00edn",
+        "it:t": "Bolivia | Provincia di Antonio Vaca D\u00edez",
+        "es": "Guayaramerin",
+        "es:t": "Bolivia | Vaca Diez",
+        "de": "Guayaramer\u00edn",
+        "de:t": "Bolivien | Provinz Vaca D\u00edez"
+    },
+    {
+        "en": "Huanuni",
+        "en:t": "Bolivia | Pantaleon Dalence",
+        "a": true,
+        "g": {
+            "lat": -18.2852,
+            "lon": -66.841
+        },
+        "it": "Huanuni",
+        "it:t": "Bolivia | Pantaleon Dalence",
+        "es": "Huanuni",
+        "es:t": "Bolivia | Pantaleon Dalence",
+        "de": "Huanuni",
+        "de:t": "Bolivien | Provinz Pantale\u00f3n Dalence"
+    },
+    {
+        "en": "La Paz",
+        "en:t": "Bolivia | La Paz Department",
+        "a": true,
+        "g": {
+            "lat": -16.4897,
+            "lon": -68.1193
+        },
+        "it": "La Paz",
+        "it:t": "Bolivia | Dipartimento di La Paz",
+        "es": "La Paz",
+        "es:t": "Bolivia | Departamento de La Paz",
+        "de": "La Paz",
+        "de:t": "Bolivien | Departamento La Paz"
+    },
+    {
+        "en": "Llallagua",
+        "en:t": "Bolivia | Rafael Bustillo",
+        "a": true,
+        "g": {
+            "lat": -18.4224,
+            "lon": -66.579
+        },
+        "it": "Llallagua",
+        "it:t": "Bolivia | Provincia di Rafael Bustillo",
+        "es": "Llallagua",
+        "es:t": "Bolivia | Rafael Bustillo",
+        "de": "Llallagua",
+        "de:t": "Bolivien | Provinz Rafael Bustillo"
+    },
+    {
+        "en": "Mizque",
+        "en:t": "Bolivia",
+        "a": true,
+        "g": {
+            "lat": -17.9392,
+            "lon": -65.3366
+        },
+        "it": "Mizque",
+        "it:t": "Bolivia",
+        "es": "Mizque",
+        "es:t": "Bolivia",
+        "de": "Mizque",
+        "de:t": "Bolivien | Jayhuayco"
+    },
+    {
+        "en": "Montero",
+        "en:t": "Bolivia | Obispo Santistevan",
+        "a": true,
+        "g": {
+            "lat": -17.3191,
+            "lon": -63.2621
+        },
+        "it": "Montero",
+        "it:t": "Bolivia | Provincia di Obispo Santistevan",
+        "es": "Montero",
+        "es:t": "Bolivia | Obispo Santistevan",
+        "de": "Montero",
+        "de:t": "Bolivien | Provinz Obispo Santistevan"
+    },
+    {
+        "en": "Oruro",
+        "en:t": "Bolivia | Cercado",
+        "a": true,
+        "g": {
+            "lat": -17.9717,
+            "lon": -67.0931
+        },
+        "it": "Oruro",
+        "it:t": "Bolivia | Provincia di Cercado",
+        "es": "Oruro",
+        "es:t": "Bolivia | Cercado",
+        "de": "Municipio Oruro",
+        "de:t": "Bolivien | Provinz Cercado"
+    },
+    {
+        "en": "Potosi",
+        "en:t": "Bolivia | Tomas Frias",
+        "a": true,
+        "g": {
+            "lat": -19.5723,
+            "lon": -65.755
+        },
+        "it": "Potos\u00ed",
+        "it:t": "Bolivia | Provincia di Tom\u00e1s Fr\u00edas",
+        "es": "Villa Imperial de Potos\u00ed",
+        "es:t": "Bolivia | Tomas Frias",
+        "de": "Municipio Potos\u00ed",
+        "de:t": "Bolivien | Provinz Tom\u00e1s Fr\u00edas"
+    },
+    {
+        "en": "Punata",
+        "en:t": "Bolivia | Sudoeste",
+        "a": true,
+        "g": {
+            "lat": -17.4023,
+            "lon": -66.1541
+        },
+        "it": "Punata",
+        "it:t": "Bolivia | Sudoeste",
+        "es": "Punata",
+        "es:t": "Bolivia | Sudoeste",
+        "de": "Punata",
+        "de:t": "Bolivien | Sudoeste"
+    },
+    {
+        "en": "Riberalta",
+        "en:t": "Bolivia | Vaca Diez",
+        "a": true,
+        "g": {
+            "lat": -11.0073,
+            "lon": -66.0582
+        },
+        "it": "Riberalta",
+        "it:t": "Bolivia | Provincia di Antonio Vaca D\u00edez",
+        "es": "Riberalta",
+        "es:t": "Bolivia | Vaca Diez",
+        "de": "Riberalta",
+        "de:t": "Bolivien | Provinz Vaca D\u00edez"
+    },
+    {
+        "en": "San Borja",
+        "en:t": "Bolivia | Jose Ballivian",
+        "a": true,
+        "g": {
+            "lat": -14.8585,
+            "lon": -66.747
+        },
+        "it": "San Borja",
+        "it:t": "Bolivia | Provincia di General Jos\u00e9 Ballivi\u00e1n Segurola",
+        "es": "San Borja",
+        "es:t": "Bolivia | Jose Ballivian",
+        "de": "San Borja",
+        "de:t": "Bolivien | Provinz Ballivi\u00e1n"
+    },
+    {
+        "en": "San Ignacio de Velasco",
+        "en:t": "Bolivia | Jos\u00e9 Miguel de Velasco",
+        "a": true,
+        "g": {
+            "lat": -16.38,
+            "lon": -60.9656
+        },
+        "it": "San Ignacio de Velasco",
+        "it:t": "Bolivia | Provincia di Jos\u00e9 Miguel de Velasco",
+        "es": "San Ignacio",
+        "es:t": "Bolivia | Jos\u00e9 Miguel de Velasco",
+        "de": "San Ignacio de Velasco",
+        "de:t": "Bolivien | Provinz Jos\u00e9 Miguel de Velasco"
+    },
+    {
+        "en": "Santa Cruz Department",
+        "en:t": "Bolivia",
+        "a": true,
+        "g": {
+            "lat": -16.7476,
+            "lon": -62.0751
+        },
+        "it": "Santiago del Chile",
+        "it:t": "Bolivia | Provincia di Santiago",
+        "es": "Santiago",
+        "es:t": "Bolivia",
+        "de": "Santa Cruz de la Sierra",
+        "de:t": "Bolivien | Provinz Andr\u00e9s Ib\u00e1\u00f1ez"
+    },
+    {
+        "en": "Santa Cruz de la Sierra",
+        "en:t": "Bolivia | Andr\u00e9s Ib\u00e1\u00f1ez Province",
+        "a": true,
+        "g": {
+            "lat": -17.8146,
+            "lon": -63.1561
+        },
+        "it": "Santa Cruz de la Sierra",
+        "it:t": "Bolivia | Provincia di Andr\u00e9s Ib\u00e1\u00f1ez",
+        "es": "Santa Cruz de la Sierra",
+        "es:t": "Bolivia | Provincia de Andr\u00e9s Ib\u00e1\u00f1ez",
+        "de": "Santa Cruz de la Sierra",
+        "de:t": "Bolivien | Provinz Andr\u00e9s Ib\u00e1\u00f1ez"
+    },
+    {
+        "en": "Sucre",
+        "en:t": "Bolivia | Oropeza",
+        "a": true,
+        "g": {
+            "lat": -19.0353,
+            "lon": -65.2592
+        },
+        "it": "Sucre",
+        "it:t": "Bolivia | Provincia di Oropeza",
+        "es": "Sucre",
+        "es:t": "Bolivia | Provincia de Samuel Oropeza",
+        "de": "Sucre",
+        "de:t": "Bolivien | Provinz Oropeza"
+    },
+    {
+        "en": "Tarija",
+        "en:t": "Bolivia | Cercado",
+        "a": true,
+        "g": {
+            "lat": -21.5214,
+            "lon": -64.7281
+        },
+        "it": "Tarija",
+        "it:t": "Bolivia | Provincia di Cercado",
+        "es": "Tarija",
+        "es:t": "Bolivia | Cercado",
+        "de": "Tarija",
+        "de:t": "Bolivien | Provinz Cercado"
+    },
+    {
+        "en": "Trinidad",
+        "en:t": "Bolivia | Cercado",
+        "a": true,
+        "g": {
+            "lat": -14.8321,
+            "lon": -64.9019
+        },
+        "it": "Trinidad",
+        "it:t": "Bolivia | Provincia di Cercado",
+        "es": "Trinidad",
+        "es:t": "Bolivia | Cercado",
+        "de": "Trinidad",
+        "de:t": "Bolivien | Provinz Cercado"
+    },
+    {
+        "en": "Tupiza",
+        "en:t": "Bolivia | Sud Chichas",
+        "a": true,
+        "g": {
+            "lat": -21.4382,
+            "lon": -65.7193
+        },
+        "it": "Tupiza",
+        "it:t": "Bolivia | Provincia di Sud Chichas",
+        "es": "Tupiza",
+        "es:t": "Bolivia | Sud Chichas",
+        "de": "Tupiza",
+        "de:t": "Bolivien | Provinz Sur Chichas"
+    },
+    {
+        "en": "Villamontes",
+        "en:t": "Bolivia | Tarija",
+        "a": true,
+        "g": {
+            "lat": -21.5453,
+            "lon": -64.7177
+        },
+        "it": "Villamontes",
+        "it:t": "Bolivia | Tarija",
+        "es": "Villa Montes",
+        "es:t": "Bolivia | Gran Chaco",
+        "de": "Villamontes",
+        "de:t": "Bolivien | Provinz Gran Chaco"
+    },
+    {
+        "en": "Villazon",
+        "en:t": "Bolivia | Modesto Omiste",
+        "a": true,
+        "g": {
+            "lat": -22.0854,
+            "lon": -65.5975
+        },
+        "it": "Villaz\u00f3n",
+        "it:t": "Bolivia | Provincia di Modesto Omiste",
+        "es": "Villaz\u00f3n",
+        "es:t": "Bolivia | Modesto Omiste",
+        "de": "Villaz\u00f3n",
+        "de:t": "Bolivien | Provinz Modesto Omiste"
+    },
+    {
+        "en": "Warnes",
+        "en:t": "Bolivia | Ignacio Warnes",
+        "a": true,
+        "g": {
+            "lat": -17.5228,
+            "lon": -63.1679
+        },
+        "it": "Warnes",
+        "it:t": "Bolivia | Ignacio Warnes",
+        "es": "Warnes",
+        "es:t": "Bolivia | Provincia de Ignacio Warnes",
+        "de": "Warnes",
+        "de:t": "Bolivien | Provinz Ignacio Warnes"
+    },
+    {
+        "en": "Yapacani",
+        "en:t": "Bolivia | Ichilo",
+        "a": true,
+        "g": {
+            "lat": -17.4014,
+            "lon": -63.8818
+        },
+        "it": "Yapacani",
+        "it:t": "Bolivia | Ichilo",
+        "es": "Villa Yapacan\u00ed",
+        "es:t": "Bolivia | Ichilo",
+        "de": "Yapacan\u00ed",
+        "de:t": "Bolivien | Provinz Ichilo"
+    }
+]

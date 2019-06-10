@@ -1,0 +1,1487 @@
+[
+    {
+        "en": "Abou El Hassen",
+        "en:t": "Algeria | Chlef Province",
+        "a": true,
+        "g": {
+            "lat": 36.4089,
+            "lon": 1.1929
+        },
+        "it": "Abou El Hassen",
+        "it:t": "Algeria | Provincia di Chlef",
+        "es": "Abou El Hassen",
+        "es:t": "Argelia | Chlef Province",
+        "de": "Abou El Hassen",
+        "de:t": "Algerien | Chlef Province"
+    },
+    {
+        "en": "Adrar",
+        "en:t": "Algeria | Adrar Province",
+        "a": true,
+        "g": {
+            "lat": 27.9716,
+            "lon": -0.187
+        },
+        "it": "Adrar",
+        "it:t": "Algeria | Provincia di Adrar",
+        "es": "Adrar",
+        "es:t": "Argelia | Provincia de Adrar",
+        "de": "Adrar",
+        "de:t": "Algerien"
+    },
+    {
+        "en": "Aflou",
+        "en:t": "Algeria | Laghouat Province",
+        "a": true,
+        "g": {
+            "lat": 34.1075,
+            "lon": 2.1008
+        },
+        "it": "Aflou",
+        "it:t": "Algeria | Provincia di Laghouat",
+        "es": "Aflou",
+        "es:t": "Argelia | Laghouat",
+        "de": "Aflou",
+        "de:t": "Algerien | Laghouat Province"
+    },
+    {
+        "en": "Ain Abid",
+        "en:t": "Algeria | Constantine Province",
+        "a": true,
+        "g": {
+            "lat": 36.2136,
+            "lon": 6.9424
+        },
+        "it": "A\u00efn Abid",
+        "it:t": "Algeria | Provincia di Costantina",
+        "es": "A\u00efn Abid",
+        "es:t": "Argelia | Constantina",
+        "de": "Ain Abid",
+        "de:t": "Algerien | Constantine Province"
+    },
+    {
+        "en": "Ain Arnat",
+        "en:t": "Algeria | S\u00e9tif Province",
+        "a": true,
+        "g": {
+            "lat": 36.1901,
+            "lon": 5.3163
+        },
+        "it": "A\u00efn Arnat",
+        "it:t": "Algeria | Provincia di S\u00e9tif",
+        "es": "A\u00efn Arnat",
+        "es:t": "Argelia | S\u00e9tif",
+        "de": "Ain Arnat",
+        "de:t": "Algerien | S\u00e9tif Province"
+    },
+    {
+        "en": "Ain Beida",
+        "en:t": "Algeria | Oum El Bouaghi Province",
+        "a": true,
+        "g": {
+            "lat": 35.7981,
+            "lon": 7.3922
+        },
+        "it": "A\u00efn Be\u00efda",
+        "it:t": "Algeria | Provincia di Oum el-Bouaghi",
+        "es": "Ain Beida",
+        "es:t": "Argelia | Provincia de Oum el-Bouaghi",
+        "de": "Ain Beida",
+        "de:t": "Algerien | Oum El Bouaghi Province"
+    },
+    {
+        "en": "Ain Benian",
+        "en:t": "Algeria | Algiers Province",
+        "a": true,
+        "g": {
+            "lat": 36.7965,
+            "lon": 2.9338
+        },
+        "it": "A\u00efn B\u00e9nian",
+        "it:t": "Algeria | Provincia di Algeri",
+        "es": "A\u00efn Benian",
+        "es:t": "Argelia | Aljer",
+        "de": "Ain Benian",
+        "de:t": "Algerien | Algiers Province"
+    },
+    {
+        "en": "Babor",
+        "en:t": "Algeria | S\u00e9tif Province",
+        "a": true,
+        "g": {
+            "lat": 36.4614,
+            "lon": 5.4988
+        },
+        "it": "Babor",
+        "it:t": "Algeria | Provincia di S\u00e9tif",
+        "es": "Babor",
+        "es:t": "Argelia | S\u00e9tif",
+        "de": "Babor",
+        "de:t": "Algerien | S\u00e9tif Province"
+    },
+    {
+        "en": "Boumerdes",
+        "en:t": "Algeria | Boumerd\u00e8s Province",
+        "a": true,
+        "g": {
+            "lat": 36.758,
+            "lon": 3.4852
+        },
+        "it": "Boumerd\u00e8s",
+        "it:t": "Algeria | Provincia di Boumerd\u00e8s",
+        "es": "Boumerd\u00e8s",
+        "es:t": "Argelia | Provincia de Bumerd\u00e9s",
+        "de": "Boumerdes",
+        "de:t": "Algerien | Boumerd\u00e8s"
+    },
+    {
+        "en": "B\u00e9ja\u00efa",
+        "en:t": "Algeria | B\u00e9ja\u00efa Province",
+        "a": true,
+        "g": {
+            "lat": 36.7509,
+            "lon": 5.0567
+        },
+        "it": "B\u00e9ja\u00efa",
+        "it:t": "Algeria | Provincia di B\u00e9ja\u00efa",
+        "es": "Bug\u00eda",
+        "es:t": "Argelia | Provincia de Buj\u00eda",
+        "de": "Bejaia",
+        "de:t": "Algerien | Vgayeth"
+    },
+    {
+        "en": "La Meskiana",
+        "en:t": "Algeria | Oum El Bouaghi Province",
+        "a": true,
+        "g": {
+            "lat": 35.6328,
+            "lon": 7.6711
+        },
+        "it": "Meskyana",
+        "it:t": "Algeria | Provincia di Oum el-Bouaghi",
+        "es": "La Meskiana",
+        "es:t": "Argelia | Oum El Bouaghi Province",
+        "de": "La Meskiana",
+        "de:t": "Algerien | Oum El Bouaghi Province"
+    },
+    {
+        "en": "Lardjem",
+        "en:t": "Algeria | Tissemsilt Province",
+        "a": true,
+        "g": {
+            "lat": 35.7472,
+            "lon": 1.5451
+        },
+        "it": "Distretto di Lardjem",
+        "it:t": "Algeria | Provincia di Tissemsilt",
+        "es": "Lardjem",
+        "es:t": "Argelia | Provincia de Tissemsilt",
+        "de": "Lardjem",
+        "de:t": "Algerien | Tissemsilt Province"
+    },
+    {
+        "en": "Lazib n Zamum",
+        "en:t": "Algeria | Boumerd\u00e8s Province",
+        "a": true,
+        "g": {
+            "lat": 36.7318,
+            "lon": 3.8147
+        },
+        "it": "Distretto di Naciria",
+        "it:t": "Algeria | Provincia di Boumerd\u00e8s",
+        "es": "Naciria",
+        "es:t": "Argelia | Provincia de Bumerd\u00e9s",
+        "de": "Lazib n Zamum",
+        "de:t": "Algerien | Boumerd\u00e8s Province"
+    },
+    {
+        "en": "M'Sila",
+        "en:t": "Algeria | M'Sila Province",
+        "a": true,
+        "g": {
+            "lat": 35.6771,
+            "lon": 4.5418
+        },
+        "it": "M'Sila",
+        "it:t": "Algeria | Provincia di M'Sila",
+        "es": "M'Sila",
+        "es:t": "Argelia | Provincia de M'Sila",
+        "de": "M'Sila",
+        "de:t": "Algerien"
+    },
+    {
+        "en": "Mazouna",
+        "en:t": "Algeria | Relizane Province",
+        "a": true,
+        "g": {
+            "lat": 36.1188,
+            "lon": 0.877
+        },
+        "it": "Mazouna",
+        "it:t": "Algeria | Provincia di Relizane",
+        "es": "Mazouna",
+        "es:t": "Argelia | Reliz\u00e1n",
+        "de": "Mazouna",
+        "de:t": "Algerien | Relizane Province"
+    },
+    {
+        "en": "Meftah",
+        "en:t": "Algeria | Blida Province",
+        "a": true,
+        "g": {
+            "lat": 36.6198,
+            "lon": 3.2282
+        },
+        "it": "Distretto di Meftah",
+        "it:t": "Algeria | Provincia di Blida",
+        "es": "Meftah",
+        "es:t": "Argelia | Provincia de Blida",
+        "de": "Meftah",
+        "de:t": "Algerien | Blida Province"
+    },
+    {
+        "en": "Meggarine",
+        "en:t": "Algeria | Ouargla Province",
+        "a": true,
+        "g": {
+            "lat": 33.1941,
+            "lon": 6.0944
+        },
+        "it": "Megarine",
+        "it:t": "Algeria | Provincia di Ouargla",
+        "es": "Megarine",
+        "es:t": "Argelia | Provincia de Ouargla",
+        "de": "Meggarine",
+        "de:t": "Algerien | Ouargla Province"
+    },
+    {
+        "en": "Mehdia",
+        "en:t": "Algeria | Tiaret Province",
+        "a": true,
+        "g": {
+            "lat": 35.4271,
+            "lon": 1.7587
+        },
+        "it": "Mahdia",
+        "it:t": "Algeria | Provincia di Tiaret",
+        "es": "Mahdia",
+        "es:t": "Argelia | Provincia de Tiaret",
+        "de": "Mehdia",
+        "de:t": "Algerien | Tiaret Province"
+    },
+    {
+        "en": "Mekla",
+        "en:t": "Algeria | Tizi Ouzou Province",
+        "a": true,
+        "g": {
+            "lat": 36.6842,
+            "lon": 4.2724
+        },
+        "it": "Mekla",
+        "it:t": "Algeria | Provincia di Tizi Ouzou",
+        "es": "Mekla",
+        "es:t": "Argelia | Provincia de Tizi Ouzou",
+        "de": "Mekla",
+        "de:t": "Algerien | Tizi Ouzou Province"
+    },
+    {
+        "en": "Melouza",
+        "en:t": "Algeria | M'Sila Province",
+        "a": true,
+        "g": {
+            "lat": 35.9518,
+            "lon": 4.1719
+        },
+        "it": "Ouanougha",
+        "it:t": "Algeria | Provincia di M'Sila",
+        "es": "Ouanougha",
+        "es:t": "Argelia | Provincia de M'Sila",
+        "de": "Melouza",
+        "de:t": "Algerien | M'Sila Province"
+    },
+    {
+        "en": "Merouana",
+        "en:t": "Algeria | Batna Province",
+        "a": true,
+        "g": {
+            "lat": 35.6288,
+            "lon": 5.9093
+        },
+        "it": "Merouana",
+        "it:t": "Algeria | Provincia di Batna",
+        "es": "Merouana",
+        "es:t": "Argelia | Provincia de Batna",
+        "de": "M\u00e9rouana",
+        "de:t": "Algerien | Batna"
+    },
+    {
+        "en": "Mers El Kebir",
+        "en:t": "Algeria | Oran Province",
+        "a": true,
+        "g": {
+            "lat": 35.7222,
+            "lon": -0.7105
+        },
+        "it": "Mers-el-K\u00e9bir",
+        "it:t": "Algeria | Orano",
+        "es": "Mazalquivir",
+        "es:t": "Argelia | Or\u00e1n",
+        "de": "Mers-el-K\u00e9bir",
+        "de:t": "Algerien | Oran"
+    },
+    {
+        "en": "Messaad",
+        "en:t": "Algeria | Djelfa Province",
+        "a": true,
+        "g": {
+            "lat": 34.1537,
+            "lon": 3.4953
+        },
+        "it": "Messa\u00e2d",
+        "it:t": "Algeria | Provincia di Djelfa",
+        "es": "Messaad",
+        "es:t": "Argelia | Provincia de Djelfa",
+        "de": "Messaad",
+        "de:t": "Algerien | Djelfa Province"
+    },
+    {
+        "en": "Metlili",
+        "en:t": "Algeria | Ghardaia Province",
+        "a": true,
+        "g": {
+            "lat": 32.2908,
+            "lon": 3.599
+        },
+        "it": "Metlili",
+        "it:t": "Algeria | Provincia di Gharda\u00efa",
+        "es": "Metlili",
+        "es:t": "Argelia | Provincia de Gardaya",
+        "de": "Metlili",
+        "de:t": "Algerien | Ghardaia Province"
+    },
+    {
+        "en": "Rouached",
+        "en:t": "Algeria | Mila Province",
+        "a": true,
+        "g": {
+            "lat": 36.4512,
+            "lon": 6.2535
+        },
+        "it": "Rouached",
+        "it:t": "Algeria | Mila Province",
+        "es": "Rouached",
+        "es:t": "Argelia | Mila Province",
+        "de": "Rouached",
+        "de:t": "Algerien | Mila Province"
+    },
+    {
+        "en": "Mila",
+        "en:t": "Algeria | Mila Province",
+        "a": true,
+        "g": {
+            "lat": 36.4512,
+            "lon": 6.2535
+        },
+        "it": "Mila",
+        "it:t": "Algeria | Mila Province",
+        "es": "Mila",
+        "es:t": "Argelia | Provincia de Mila",
+        "de": "Mila",
+        "de:t": "Algerien"
+    },
+    {
+        "en": "Mostaganem",
+        "en:t": "Algeria | Mostaganem Province",
+        "a": true,
+        "g": {
+            "lat": 36.0131,
+            "lon": 0.1401
+        },
+        "it": "Mostaganem",
+        "it:t": "Algeria | Provincia di Mostaganem",
+        "es": "Mostaganem",
+        "es:t": "Argelia | Provincia de Mostaganem",
+        "de": "Mostaganem",
+        "de:t": "Algerien"
+    },
+    {
+        "en": "Mouzaia",
+        "en:t": "Algeria | Blida Province",
+        "a": true,
+        "g": {
+            "lat": 36.4714,
+            "lon": 2.6785
+        },
+        "it": "Mouzaia",
+        "it:t": "Algeria | Provincia di Blida",
+        "es": "Mouzaia",
+        "es:t": "Argelia | Provincia de Blida",
+        "de": "Mouzaia",
+        "de:t": "Algerien | Blida Province"
+    },
+    {
+        "en": "M\u00e9d\u00e9a",
+        "en:t": "Algeria | M\u00e9d\u00e9a Province",
+        "a": true,
+        "g": {
+            "lat": 36.2854,
+            "lon": 2.768
+        },
+        "it": "M\u00e9d\u00e9a",
+        "it:t": "Algeria | Provincia di M\u00e9d\u00e9a",
+        "es": "M\u00e9d\u00e9a",
+        "es:t": "Argelia | Provincia de M\u00e9d\u00e9a",
+        "de": "M\u00e9d\u00e9a",
+        "de:t": "Algerien | Medea"
+    },
+    {
+        "en": "Nedroma",
+        "en:t": "Algeria | Tlemcen Province",
+        "a": true,
+        "g": {
+            "lat": 35.0097,
+            "lon": -1.749
+        },
+        "it": "Nedroma",
+        "it:t": "Algeria | Provincia di Tlemcen",
+        "es": "Nedroma",
+        "es:t": "Argelia | Tlemec\u00e9n",
+        "de": "Nedroma",
+        "de:t": "Algerien | Tlemcen"
+    },
+    {
+        "en": "Oran",
+        "en:t": "Algeria | Oran Province",
+        "a": true,
+        "g": {
+            "lat": 35.6971,
+            "lon": -0.6308
+        },
+        "it": "Orano",
+        "it:t": "Algeria",
+        "es": "Or\u00e1n",
+        "es:t": "Argelia",
+        "de": "Oran",
+        "de:t": "Algerien"
+    },
+    {
+        "en": "Ouargla",
+        "en:t": "Algeria | Ouargla Province",
+        "a": true,
+        "g": {
+            "lat": 31.9527,
+            "lon": 5.3335
+        },
+        "it": "Ouargla",
+        "it:t": "Algeria | Provincia di Ouargla",
+        "es": "Ouargla",
+        "es:t": "Argelia | Provincia de Ouargla",
+        "de": "Ouargla",
+        "de:t": "Algerien"
+    },
+    {
+        "en": "Oued El Abtal",
+        "en:t": "Algeria | Mascara Province",
+        "a": true,
+        "g": {
+            "lat": 35.4552,
+            "lon": 0.6876
+        },
+        "it": "Oued El Abtal",
+        "it:t": "Algeria | Provincia di Mascara",
+        "es": "Oued El Abtal",
+        "es:t": "Argelia | Muaskar",
+        "de": "Oued El Abtal",
+        "de:t": "Algerien | Mascara Province"
+    },
+    {
+        "en": "Oued El Alleug",
+        "en:t": "Algeria | Blida Province",
+        "a": true,
+        "g": {
+            "lat": 36.5666,
+            "lon": 2.768
+        },
+        "it": "Distretto di Oued El Alleug",
+        "it:t": "Algeria | Provincia di Blida",
+        "es": "Oued Alleug",
+        "es:t": "Argelia | Provincia de Blida",
+        "de": "Oued El Alleug",
+        "de:t": "Algerien | Blida Province"
+    },
+    {
+        "en": "Oued Fodda",
+        "en:t": "Algeria | Chlef Province",
+        "a": true,
+        "g": {
+            "lat": 36.1988,
+            "lon": 1.5499
+        },
+        "it": "Oued Fodda",
+        "it:t": "Algeria | Provincia di Chlef",
+        "es": "Oued Fodda",
+        "es:t": "Argelia | Chlef Province",
+        "de": "Oued Fodda",
+        "de:t": "Algerien | Chlef"
+    },
+    {
+        "en": "Oued Rhiou",
+        "en:t": "Algeria | Relizane Province",
+        "a": true,
+        "g": {
+            "lat": 35.9607,
+            "lon": 0.92
+        },
+        "it": "Oued Rhiou",
+        "it:t": "Algeria | Provincia di Relizane",
+        "es": "Oued Rhiou",
+        "es:t": "Argelia | Reliz\u00e1n",
+        "de": "Oued Rhiou",
+        "de:t": "Algerien | Relizane Province"
+    },
+    {
+        "en": "Oued Sly",
+        "en:t": "Algeria | Chlef Province",
+        "a": true,
+        "g": {
+            "lat": 36.1048,
+            "lon": 1.2314
+        },
+        "it": "Oued Sly",
+        "it:t": "Algeria | Provincia di Chlef",
+        "es": "Oued Sly",
+        "es:t": "Argelia | Provincia de Chlef",
+        "de": "Oued Sly",
+        "de:t": "Algerien | Chlef Province"
+    },
+    {
+        "en": "Ouled Mimoun",
+        "en:t": "Algeria | Tlemcen Province",
+        "a": true,
+        "g": {
+            "lat": 34.9049,
+            "lon": -1.0323
+        },
+        "it": "Ouled Mimoun",
+        "it:t": "Algeria | Provincia di Tlemcen",
+        "es": "Ouled Mimoun",
+        "es:t": "Argelia | Tlemec\u00e9n",
+        "de": "Ouled Mimoun",
+        "de:t": "Algerien | Tlemcen Province"
+    },
+    {
+        "en": "Oum El Bouaghi",
+        "en:t": "Algeria | Oum El Bouaghi Province",
+        "a": true,
+        "g": {
+            "lat": 35.7881,
+            "lon": 7.179
+        },
+        "it": "Oum el-Bouaghi",
+        "it:t": "Algeria | Provincia di Oum el-Bouaghi",
+        "es": "Oum el-Bouaghi",
+        "es:t": "Argelia | Oum el Bouaghi",
+        "de": "Oum El-Bouaghi",
+        "de:t": "Algerien | Oum el Bouaghi"
+    },
+    {
+        "en": "Ras El A\u00efoun",
+        "en:t": "Algeria | Batna Province",
+        "a": true,
+        "g": {
+            "lat": 35.677,
+            "lon": 5.5827
+        },
+        "it": "Ras El Aioun",
+        "it:t": "Algeria | Provincia di Batna",
+        "es": "Ras El A\u00efoun",
+        "es:t": "Argelia | Batna Province",
+        "de": "Ras El A\u00efoun",
+        "de:t": "Algerien | Batna Province"
+    },
+    {
+        "en": "Ras El Oued",
+        "en:t": "Algeria | Bordj Bou Arr\u00e9ridj Province",
+        "a": true,
+        "g": {
+            "lat": 35.947,
+            "lon": 5.0357
+        },
+        "it": "Ras El Oued",
+        "it:t": "Algeria | Provincia di Bordj Bou Arreridj",
+        "es": "Ras El Oued",
+        "es:t": "Argelia | Provincia de Bordj Bou Arr\u00e9ridj",
+        "de": "Ras El Oued",
+        "de:t": "Algerien | Bordj Bou Arr\u00e9ridj Province"
+    },
+    {
+        "en": "Reggane",
+        "en:t": "Algeria | Adrar Province",
+        "a": true,
+        "g": {
+            "lat": 25.276,
+            "lon": -1.5209
+        },
+        "it": "Reggane",
+        "it:t": "Algeria | Provincia di Adrar",
+        "es": "Reggane",
+        "es:t": "Argelia | Provincia de Adrar",
+        "de": "Reggane",
+        "de:t": "Algerien | Adrar"
+    },
+    {
+        "en": "Reguiba",
+        "en:t": "Algeria | El Oued Province",
+        "a": true,
+        "g": {
+            "lat": 33.5638,
+            "lon": 6.7226
+        },
+        "it": "Distretto di Reguiba",
+        "it:t": "Algeria | Provincia di El Oued",
+        "es": "Reguiba",
+        "es:t": "Argelia | Provincia de El Oued",
+        "de": "Reguiba",
+        "de:t": "Algerien | El Oued Province"
+    },
+    {
+        "en": "Relizane",
+        "en:t": "Algeria | Relizane Province",
+        "a": true,
+        "g": {
+            "lat": 35.7339,
+            "lon": 0.5589
+        },
+        "it": "Relizane",
+        "it:t": "Algeria | Provincia di Relizane",
+        "es": "Relizane",
+        "es:t": "Argelia | Reliz\u00e1n",
+        "de": "Relizane",
+        "de:t": "Algerien"
+    },
+    {
+        "en": "Remchi",
+        "en:t": "Algeria | Tlemcen Province",
+        "a": true,
+        "g": {
+            "lat": 35.058,
+            "lon": -1.429
+        },
+        "it": "Remchi",
+        "it:t": "Algeria | Provincia di Tlemcen",
+        "es": "Remchi",
+        "es:t": "Argelia | Tlemec\u00e9n",
+        "de": "Remchi",
+        "de:t": "Algerien | Tlemcen Province"
+    },
+    {
+        "en": "Robbah",
+        "en:t": "Algeria | El Oued Province",
+        "a": true,
+        "g": {
+            "lat": 33.286,
+            "lon": 6.9048
+        },
+        "it": "Distretto di Robbah",
+        "it:t": "Algeria | Provincia di El Oued",
+        "es": "Robbah",
+        "es:t": "Argelia | Provincia de El Oued",
+        "de": "Robbah",
+        "de:t": "Algerien | El Oued Province"
+    },
+    {
+        "en": "Rouissat",
+        "en:t": "Algeria | Ouargla",
+        "a": true,
+        "g": {
+            "lat": 31.9317,
+            "lon": 5.3469
+        },
+        "it": "Rouissat",
+        "it:t": "Algeria | Ouargla",
+        "es": "Rouissat",
+        "es:t": "Argelia | Ouargla",
+        "de": "Rouissat",
+        "de:t": "Algerien | Ouargla"
+    },
+    {
+        "en": "Rou\u00efba",
+        "en:t": "Algeria | Algiers Province",
+        "a": true,
+        "g": {
+            "lat": 36.7259,
+            "lon": 3.2885
+        },
+        "it": "Rou\u00efba",
+        "it:t": "Algeria | Provincia di Algeri",
+        "es": "Rou\u00efba",
+        "es:t": "Argelia | Aljer",
+        "de": "Rou\u00efba",
+        "de:t": "Algerien | Algiers Province"
+    },
+    {
+        "en": "R\u00e9gha\u00efa",
+        "en:t": "Algeria | Algiers Province",
+        "a": true,
+        "g": {
+            "lat": 36.7431,
+            "lon": 3.3387
+        },
+        "it": "Regha\u00efa",
+        "it:t": "Algeria | Provincia di Algeri",
+        "es": "Regha\u00efa",
+        "es:t": "Argelia | Aljer",
+        "de": "R\u00e9gha\u00efa",
+        "de:t": "Algerien | Algiers Province"
+    },
+    {
+        "en": "Saida",
+        "en:t": "Algeria | Sa\u00efda Province",
+        "a": true,
+        "g": {
+            "lat": 34.8412,
+            "lon": 0.1484
+        },
+        "it": "Saida",
+        "it:t": "Algeria | Provincia di Saida",
+        "es": "Sa\u00efda",
+        "es:t": "Argelia | Sa\u00edda",
+        "de": "Saida",
+        "de:t": "Algerien"
+    },
+    {
+        "en": "Salah Bey",
+        "en:t": "Algeria | S\u00e9tif Province",
+        "a": true,
+        "g": {
+            "lat": 35.8172,
+            "lon": 5.373
+        },
+        "it": "Salah Bey",
+        "it:t": "Algeria | Provincia di S\u00e9tif",
+        "es": "Salah Bey",
+        "es:t": "Argelia | S\u00e9tif",
+        "de": "Salah Bey",
+        "de:t": "Algerien | S\u00e9tif Province"
+    },
+    {
+        "en": "Saoula",
+        "en:t": "Algeria | Algiers Province",
+        "a": true,
+        "g": {
+            "lat": 36.6897,
+            "lon": 3.0276
+        },
+        "it": "Saoula",
+        "it:t": "Algeria | Provincia di Algeri",
+        "es": "Saoula",
+        "es:t": "Argelia | Aljer",
+        "de": "Saoula",
+        "de:t": "Algerien | Algiers Province"
+    },
+    {
+        "en": "Sebdou",
+        "en:t": "Algeria | Tlemcen Province",
+        "a": true,
+        "g": {
+            "lat": 34.6397,
+            "lon": -1.3325
+        },
+        "it": "Sebdou",
+        "it:t": "Algeria | Provincia di Tlemcen",
+        "es": "Sebdou",
+        "es:t": "Argelia | Tlemec\u00e9n",
+        "de": "Sebdou",
+        "de:t": "Algerien | Tlemcen"
+    },
+    {
+        "en": "Seddouk",
+        "en:t": "Algeria | B\u00e9ja\u00efa Province",
+        "a": true,
+        "g": {
+            "lat": 36.5447,
+            "lon": 4.6869
+        },
+        "it": "Seddouk",
+        "it:t": "Algeria | Provincia di B\u00e9ja\u00efa",
+        "es": "Seddouk",
+        "es:t": "Argelia | Provincia de Buj\u00eda",
+        "de": "Seddouk",
+        "de:t": "Algerien | B\u00e9ja\u00efa Province"
+    },
+    {
+        "en": "Sedrata",
+        "en:t": "Algeria | Souk Ahras Province",
+        "a": true,
+        "g": {
+            "lat": 36.1309,
+            "lon": 7.5326
+        },
+        "it": "Sedrata",
+        "it:t": "Algeria | Provincia di Souk Ahras",
+        "es": "Sedrata",
+        "es:t": "Argelia | Provincia de Souk Ahras",
+        "de": "Sedrata",
+        "de:t": "Algerien | Souk Ahras Province"
+    },
+    {
+        "en": "Setif",
+        "en:t": "Algeria | S\u00e9tif Province",
+        "a": true,
+        "g": {
+            "lat": 36.1969,
+            "lon": 5.4151
+        },
+        "it": "S\u00e9tif",
+        "it:t": "Algeria | Provincia di S\u00e9tif",
+        "es": "S\u00e9tif",
+        "es:t": "Argelia",
+        "de": "S\u00e9tif",
+        "de:t": "Algerien"
+    },
+    {
+        "en": "Sfisef",
+        "en:t": "Algeria | Sidi Bel Abb\u00e8s Province",
+        "a": true,
+        "g": {
+            "lat": 35.2365,
+            "lon": -0.2808
+        },
+        "it": "Distretto di Sfisef",
+        "it:t": "Algeria | Provincia di Sidi Bel Abbes",
+        "es": "Sfisef",
+        "es:t": "Argelia | Provincia de Sidi Bel Abbes",
+        "de": "Sfisef",
+        "de:t": "Algerien | Sidi Bel Abb\u00e8s Province"
+    },
+    {
+        "en": "Sidi Abdelli",
+        "en:t": "Algeria | Tlemcen Province",
+        "a": true,
+        "g": {
+            "lat": 35.0638,
+            "lon": -1.1329
+        },
+        "it": "Sidi Abdelli",
+        "it:t": "Algeria | Provincia di Tlemcen",
+        "es": "Sidi Abdelli",
+        "es:t": "Argelia | Tlemec\u00e9n",
+        "de": "Sidi Abdelli",
+        "de:t": "Algerien | Tlemcen Province"
+    },
+    {
+        "en": "Sidi Aissa",
+        "en:t": "Algeria | M'Sila Province",
+        "a": true,
+        "g": {
+            "lat": 35.8148,
+            "lon": 3.7029
+        },
+        "it": "Sidi A\u00efssa",
+        "it:t": "Algeria | Provincia di M'Sila",
+        "es": "Sidi A\u00efssa",
+        "es:t": "Argelia | Provincia de M'Sila",
+        "de": "Sidi Aissa",
+        "de:t": "Algerien | M'Sila Province"
+    },
+    {
+        "en": "Sidi Akkacha",
+        "en:t": "Algeria | Chlef Province",
+        "a": true,
+        "g": {
+            "lat": 36.4505,
+            "lon": 1.3469
+        },
+        "it": "Sidi Akkacha",
+        "it:t": "Algeria | Provincia di Chlef",
+        "es": "Sidi Akkacha",
+        "es:t": "Argelia | Provincia de Chlef",
+        "de": "Sidi Akkacha",
+        "de:t": "Algerien | Chlef Province"
+    },
+    {
+        "en": "Sidi Amrane",
+        "en:t": "Algeria | Ouargla Province",
+        "a": true,
+        "g": {
+            "lat": 33.4962,
+            "lon": 6.0072
+        },
+        "it": "Sidi Amrane",
+        "it:t": "Algeria | Provincia di Ouargla",
+        "es": "Sidi Amrane",
+        "es:t": "Argelia | Provincia de Ouargla",
+        "de": "Sidi Amrane",
+        "de:t": "Algerien | Ouargla Province"
+    },
+    {
+        "en": "Sidi Bel Abb\u00e8s",
+        "en:t": "Algeria | Sidi Bel Abb\u00e8s Province",
+        "a": true,
+        "g": {
+            "lat": 35.2022,
+            "lon": -0.6299
+        },
+        "it": "Sidi Bel Abbes",
+        "it:t": "Algeria | Provincia di Sidi Bel Abbes",
+        "es": "Sidi Bel Abbes",
+        "es:t": "Argelia | Provincia de Sidi Bel Abbes",
+        "de": "Sidi bel Abb\u00e8s",
+        "de:t": "Algerien"
+    },
+    {
+        "en": "Sidi Chami",
+        "en:t": "Algeria | Oran Province",
+        "a": true,
+        "g": {
+            "lat": 35.6739,
+            "lon": -0.5447
+        },
+        "it": "Sidi Chami",
+        "it:t": "Algeria | Orano",
+        "es": "Sidi Chami",
+        "es:t": "Argelia | Or\u00e1n",
+        "de": "Sidi Chami",
+        "de:t": "Algerien | Oran Province"
+    },
+    {
+        "en": "Sidi Khaled",
+        "en:t": "Algeria | Biskra Province",
+        "a": true,
+        "g": {
+            "lat": 34.3863,
+            "lon": 4.9559
+        },
+        "it": "Sidi Khaled",
+        "it:t": "Algeria | Provincia di Biskra",
+        "es": "Sidi Khaled",
+        "es:t": "Argelia | Provincia de Biskra",
+        "de": "Sidi Khaled",
+        "de:t": "Algerien | Biskra Province"
+    },
+    {
+        "en": "Sidi Merouane",
+        "en:t": "Algeria | Mila Province",
+        "a": true,
+        "g": {
+            "lat": 36.5,
+            "lon": 6.2482
+        },
+        "it": "Sidi M\u00e9rouane",
+        "it:t": "Algeria | Provincia di Mila",
+        "es": "Sidi M\u00e9rouane",
+        "es:t": "Argelia | Provincia de Mila",
+        "de": "Sidi Merouane",
+        "de:t": "Algerien | Mila Province"
+    },
+    {
+        "en": "Sidi Moussa",
+        "en:t": "Algeria | Algiers Province",
+        "a": true,
+        "g": {
+            "lat": 36.623,
+            "lon": 3.1077
+        },
+        "it": "Sidi Moussa",
+        "it:t": "Algeria | Provincia di Algeri",
+        "es": "Sidi Moussa",
+        "es:t": "Argelia | Aljer",
+        "de": "Sidi Moussa",
+        "de:t": "Algerien | Algiers Province"
+    },
+    {
+        "en": "Sidi Okba",
+        "en:t": "Algeria | Biskra Province",
+        "a": true,
+        "g": {
+            "lat": 34.7849,
+            "lon": 5.9198
+        },
+        "it": "Distretto di Sidi Okba",
+        "it:t": "Algeria | Provincia di Biskra",
+        "es": "Sidi Okba",
+        "es:t": "Argelia | Provincia de Biskra",
+        "de": "Sidi Okba",
+        "de:t": "Algerien | Biskra Province"
+    },
+    {
+        "en": "Sig",
+        "en:t": "Algeria | Mascara Province",
+        "a": true,
+        "g": {
+            "lat": 35.5438,
+            "lon": -0.1682
+        },
+        "it": "Sig",
+        "it:t": "Algeria | Provincia di Mascara",
+        "es": "Sig",
+        "es:t": "Argelia | Muaskar",
+        "de": "Sig",
+        "de:t": "Algerien | Mascara Province"
+    },
+    {
+        "en": "Skikda",
+        "en:t": "Algeria | Skikda Province",
+        "a": true,
+        "g": {
+            "lat": 36.8715,
+            "lon": 6.9102
+        },
+        "it": "Skikda",
+        "it:t": "Algeria | Provincia di Skikda",
+        "es": "Skikda",
+        "es:t": "Argelia | Provincia de Skikda",
+        "de": "Skikda",
+        "de:t": "Algerien"
+    },
+    {
+        "en": "Sougueur",
+        "en:t": "Algeria | Tiaret Province",
+        "a": true,
+        "g": {
+            "lat": 35.1782,
+            "lon": 1.4967
+        },
+        "it": "Sougueur",
+        "it:t": "Algeria | Provincia di Tiaret",
+        "es": "Sougueur",
+        "es:t": "Argelia | Provincia de Tiaret",
+        "de": "Sougueur",
+        "de:t": "Algerien | Tiaret"
+    },
+    {
+        "en": "Souk Ahras",
+        "en:t": "Algeria | Souk Ahras Province",
+        "a": true,
+        "g": {
+            "lat": 36.2696,
+            "lon": 7.9484
+        },
+        "it": "Souk Ahras",
+        "it:t": "Algeria | Provincia di Souk Ahras",
+        "es": "Souk Ahras",
+        "es:t": "Argelia | Provincia de Souk Ahras",
+        "de": "Souq Ahras",
+        "de:t": "Algerien"
+    },
+    {
+        "en": "Souma\u00e2",
+        "en:t": "Algeria | Blida Province",
+        "a": true,
+        "g": {
+            "lat": 36.4985,
+            "lon": 2.9076
+        },
+        "it": "Soumaa",
+        "it:t": "Algeria | Provincia di Blida",
+        "es": "Soumaa",
+        "es:t": "Argelia | Provincia de Blida",
+        "de": "Souma\u00e2",
+        "de:t": "Algerien | Blida Province"
+    },
+    {
+        "en": "Sour El-Ghozlane",
+        "en:t": "Algeria | Bou\u00efra Province",
+        "a": true,
+        "g": {
+            "lat": 36.1492,
+            "lon": 3.6902
+        },
+        "it": "Sour El Ghouzlane",
+        "it:t": "Algeria | Provincia di Bouira",
+        "es": "Sour El Ghozlane",
+        "es:t": "Argelia | Provincia de Bouira",
+        "de": "Sour El-Ghozlane",
+        "de:t": "Algerien | Bouira"
+    },
+    {
+        "en": "Tadmayt",
+        "en:t": "Algeria | Tizi Ouzou Province",
+        "a": true,
+        "g": {
+            "lat": 36.7076,
+            "lon": 3.8961
+        },
+        "it": "Tadma\u00eft",
+        "it:t": "Algeria | Provincia di Tizi Ouzou",
+        "es": "Tadma\u00eft",
+        "es:t": "Argelia | Provincia de Tizi Ouzou",
+        "de": "Tadma\u00eft",
+        "de:t": "Algerien | Tizi Ouzou"
+    },
+    {
+        "en": "Tamalous",
+        "en:t": "Algeria | Skikda Province",
+        "a": true,
+        "g": {
+            "lat": 36.8358,
+            "lon": 6.6451
+        },
+        "it": "Tamalous",
+        "it:t": "Algeria | Provincia di Skikda",
+        "es": "Tamalous",
+        "es:t": "Argelia | Provincia de Skikda",
+        "de": "Tamalous",
+        "de:t": "Algerien | Skikda Province"
+    },
+    {
+        "en": "Tamanrasset",
+        "en:t": "Algeria | Tamanrasset Province",
+        "a": true,
+        "g": {
+            "lat": 22.7888,
+            "lon": 5.5258
+        },
+        "it": "Tamanrasset",
+        "it:t": "Algeria | Provincia di Tamanrasset",
+        "es": "Tamanrasset",
+        "es:t": "Argelia | Provincia de Tamanghasset",
+        "de": "Tamanrasset",
+        "de:t": "Algerien"
+    },
+    {
+        "en": "Tazoult",
+        "en:t": "Algeria | Batna Province",
+        "a": true,
+        "g": {
+            "lat": 35.513,
+            "lon": 6.2588
+        },
+        "it": "Tazoult",
+        "it:t": "Algeria | Provincia di Batna",
+        "es": "Tazoult",
+        "es:t": "Argelia | Batna Province",
+        "de": "Tazoult-Lamb\u00e8se",
+        "de:t": "Algerien | Batna"
+    },
+    {
+        "en": "Tebesbest",
+        "en:t": "Algeria | Touggourt",
+        "a": true,
+        "g": {
+            "lat": 33.1162,
+            "lon": 6.0838
+        },
+        "it": "Tebesbest",
+        "it:t": "Algeria | Touggourt",
+        "es": "Tebesbest",
+        "es:t": "Argelia | Touggourt",
+        "de": "Tebesbest",
+        "de:t": "Algerien | Touggourt"
+    },
+    {
+        "en": "Tebessa",
+        "en:t": "Algeria | T\u00e9bessa Province",
+        "a": true,
+        "g": {
+            "lat": 35.4142,
+            "lon": 8.1011
+        },
+        "it": "Tebessa",
+        "it:t": "Algeria | Provincia di T\u00e9bessa",
+        "es": "T\u00e9bessa",
+        "es:t": "Argelia",
+        "de": "Tebessa",
+        "de:t": "Algerien"
+    },
+    {
+        "en": "Teleghma",
+        "en:t": "Algeria | Mila Province",
+        "a": true,
+        "g": {
+            "lat": 36.0737,
+            "lon": 6.3439
+        },
+        "it": "Teleghma",
+        "it:t": "Algeria | Provincia di Mila",
+        "es": "Teleghma",
+        "es:t": "Argelia | Provincia de Mila",
+        "de": "Teleghma",
+        "de:t": "Algerien | Mila Province"
+    },
+    {
+        "en": "Theniet El Had",
+        "en:t": "Algeria | Tissemsilt Province",
+        "a": true,
+        "g": {
+            "lat": 35.8767,
+            "lon": 2.0077
+        },
+        "it": "Distretto di Theniet El Had",
+        "it:t": "Algeria | Provincia di Tissemsilt",
+        "es": "Theniet El Had",
+        "es:t": "Argelia | Provincia de Tissemsilt",
+        "de": "Theniet El Had",
+        "de:t": "Algerien | Tissemsilt Province"
+    },
+    {
+        "en": "Th\u00e9nia",
+        "en:t": "Algeria | Boumerd\u00e8s Province",
+        "a": true,
+        "g": {
+            "lat": 36.7246,
+            "lon": 3.5577
+        },
+        "it": "Th\u00e9nia",
+        "it:t": "Algeria | Provincia di Boumerd\u00e8s",
+        "es": "Thenia",
+        "es:t": "Argelia | Provincia de Bumerd\u00e9s",
+        "de": "Th\u00e9nia",
+        "de:t": "Algerien | Boumerd\u00e8s"
+    },
+    {
+        "en": "Tiaret",
+        "en:t": "Algeria | Tiaret Province",
+        "a": true,
+        "g": {
+            "lat": 35.3674,
+            "lon": 1.322
+        },
+        "it": "Tiaret",
+        "it:t": "Algeria | Provincia di Tiaret",
+        "es": "Tiaret",
+        "es:t": "Argelia | Provincia de Tiaret",
+        "de": "Tiaret",
+        "de:t": "Algerien"
+    },
+    {
+        "en": "Timimoun",
+        "en:t": "Algeria | Adrar Province",
+        "a": true,
+        "g": {
+            "lat": 29.2609,
+            "lon": 0.2385
+        },
+        "it": "Timimoun",
+        "it:t": "Algeria | Provincia di Adrar",
+        "es": "Timimoun",
+        "es:t": "Argelia | Provincia de Adrar",
+        "de": "Timimoun",
+        "de:t": "Algerien | Adrar"
+    },
+    {
+        "en": "Timizar",
+        "en:t": "Algeria | Tizi Ouzou Province",
+        "a": true,
+        "g": {
+            "lat": 36.8024,
+            "lon": 4.2654
+        },
+        "it": "Timizart",
+        "it:t": "Algeria | Provincia di Tizi Ouzou",
+        "es": "Timizart",
+        "es:t": "Argelia | Provincia de Tizi Ouzou",
+        "de": "Timizar",
+        "de:t": "Algerien | Tizi Ouzou Province"
+    },
+    {
+        "en": "Tinduf",
+        "en:t": "Algeria | Tindouf Province",
+        "a": true,
+        "g": {
+            "lat": 27.6761,
+            "lon": -8.1277
+        },
+        "it": "Tindouf",
+        "it:t": "Algeria | Provincia di Tindouf",
+        "es": "Tinduf",
+        "es:t": "Argelia",
+        "de": "Tindouf",
+        "de:t": "Algerien"
+    },
+    {
+        "en": "Tipasa",
+        "en:t": "Algeria | Tipaza Province",
+        "a": true,
+        "g": {
+            "lat": 36.6179,
+            "lon": 2.3912
+        },
+        "it": "Tipasa",
+        "it:t": "Algeria | Provincia di Tipasa",
+        "es": "Tipasa",
+        "es:t": "Argelia",
+        "de": "Tipasa",
+        "de:t": "Algerien"
+    },
+    {
+        "en": "Tirmitine",
+        "en:t": "Algeria | Tizi Ouzou Province",
+        "a": true,
+        "g": {
+            "lat": 36.6756,
+            "lon": 3.9573
+        },
+        "it": "Tirmitine",
+        "it:t": "Algeria | Provincia di Tizi Ouzou",
+        "es": "Tirmitine",
+        "es:t": "Argelia | Provincia de Tizi Ouzou",
+        "de": "Tiremmitin",
+        "de:t": "Algerien | Tizi Ouzou"
+    },
+    {
+        "en": "Tissemsilt",
+        "en:t": "Algeria | Tissemsilt Province",
+        "a": true,
+        "g": {
+            "lat": 35.6015,
+            "lon": 1.8075
+        },
+        "it": "Tissemsilt",
+        "it:t": "Algeria | Provincia di Tissemsilt",
+        "es": "Tissemsilt",
+        "es:t": "Argelia | Provincia de Tissemsilt",
+        "de": "Tissemsilt",
+        "de:t": "Algerien"
+    },
+    {
+        "en": "Tizi Ghennif",
+        "en:t": "Algeria | Tizi Ouzou Province",
+        "a": true,
+        "g": {
+            "lat": 36.5889,
+            "lon": 3.776
+        },
+        "it": "Tizi Gheniff",
+        "it:t": "Algeria | Provincia di Tizi Ouzou",
+        "es": "Tizi Gheniff",
+        "es:t": "Argelia | Provincia de Tizi Ouzou",
+        "de": "Tizi Ghennif",
+        "de:t": "Algerien | Tizi Ouzou Province"
+    },
+    {
+        "en": "Tizi N'Tlata",
+        "en:t": "Algeria | Tizi Ouzou Province",
+        "a": true,
+        "g": {
+            "lat": 36.5736,
+            "lon": 4.0389
+        },
+        "it": "Tizi N'Tleta",
+        "it:t": "Algeria | Provincia di Tizi Ouzou",
+        "es": "Tizi N'Tleta",
+        "es:t": "Argelia | Provincia de Tizi Ouzou",
+        "de": "Tizi N'Tlata",
+        "de:t": "Algerien | Tizi Ouzou Province"
+    },
+    {
+        "en": "Tizi Ouzou",
+        "en:t": "Algeria | Tizi Ouzou Province",
+        "a": true,
+        "g": {
+            "lat": 36.7118,
+            "lon": 4.0517
+        },
+        "it": "Tizi Ouzou",
+        "it:t": "Algeria | Provincia di Tizi Ouzou",
+        "es": "Tizi Ouzou",
+        "es:t": "Argelia | Provincia de Tizi Ouzou",
+        "de": "Tizi Ouzou",
+        "de:t": "Algerien"
+    },
+    {
+        "en": "Tizi Rached",
+        "en:t": "Algeria | Tizi Ouzou Province",
+        "a": true,
+        "g": {
+            "lat": 36.6785,
+            "lon": 4.208
+        },
+        "it": "Tizi Rached",
+        "it:t": "Algeria | Provincia di Tizi Ouzou",
+        "es": "Tizi Rached",
+        "es:t": "Argelia | Provincia de Tizi Ouzou",
+        "de": "Tizi Rached",
+        "de:t": "Algerien | Tizi Ouzou Province"
+    },
+    {
+        "en": "Tlemcen",
+        "en:t": "Algeria | Tlemcen Province",
+        "a": true,
+        "g": {
+            "lat": 34.8884,
+            "lon": -1.318
+        },
+        "it": "Tlemcen",
+        "it:t": "Algeria | Provincia di Tlemcen",
+        "es": "Tremec\u00e9n",
+        "es:t": "Argelia | Tlemec\u00e9n",
+        "de": "Tlemcen",
+        "de:t": "Algerien"
+    },
+    {
+        "en": "Tolga",
+        "en:t": "Algeria | Biskra Province",
+        "a": true,
+        "g": {
+            "lat": 34.7292,
+            "lon": 5.3802
+        },
+        "it": "Tolga",
+        "it:t": "Algeria | Provincia di Biskra",
+        "es": "Tolga",
+        "es:t": "Argelia | Provincia de Biskra",
+        "de": "Tolga",
+        "de:t": "Algerien | Biskra Province"
+    },
+    {
+        "en": "Touggourt",
+        "en:t": "Algeria | Ouargla Province",
+        "a": true,
+        "g": {
+            "lat": 33.0996,
+            "lon": 6.0785
+        },
+        "it": "Touggourt",
+        "it:t": "Algeria | Provincia di Ouargla",
+        "es": "Touggourt",
+        "es:t": "Argelia | Provincia de Ouargla",
+        "de": "Touggourt",
+        "de:t": "Algerien | Ouargla"
+    },
+    {
+        "en": "Zemmora",
+        "en:t": "Algeria | Relizane Province",
+        "a": true,
+        "g": {
+            "lat": 35.7247,
+            "lon": 0.7509
+        },
+        "it": "Distretto di Zemmora",
+        "it:t": "Algeria | Provincia di Relizane",
+        "es": "Zemmora",
+        "es:t": "Argelia | Reliz\u00e1n",
+        "de": "Zemmora",
+        "de:t": "Algerien | Relizane Province"
+    },
+    {
+        "en": "Zeralda",
+        "en:t": "Algeria | Algiers Province",
+        "a": true,
+        "g": {
+            "lat": 36.6946,
+            "lon": 2.8278
+        },
+        "it": "Z\u00e9ralda",
+        "it:t": "Algeria | Provincia di Algeri",
+        "es": "Z\u00e9ralda",
+        "es:t": "Argelia | Aljer",
+        "de": "Zeralda",
+        "de:t": "Algerien | Algiers Province"
+    },
+    {
+        "en": "Zeribet El Oued",
+        "en:t": "Algeria | Biskra Province",
+        "a": true,
+        "g": {
+            "lat": 34.6878,
+            "lon": 6.5039
+        },
+        "it": "Zeribet El Oued",
+        "it:t": "Algeria | Provincia di Biskra",
+        "es": "Zeribet El Oued",
+        "es:t": "Argelia | Provincia de Biskra",
+        "de": "Zeribet El Oued",
+        "de:t": "Algerien | Biskra Province"
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "en": "Ali Sabieh",
+        "en:t": "Djibouti",
+        "a": true,
+        "g": {
+            "lat": 11.1492,
+            "lon": 42.7125
+        },
+        "it": "Ali Sabieh",
+        "it:t": "Gibuti | Ali Sabieh",
+        "es": "Ali Sabieh",
+        "es:t": "Yibuti | Ali Sabih",
+        "de": "Ali Sabieh",
+        "de:t": "Dschibuti"
+    },
+    {
+        "en": "D\u00e2nan",
+        "en:t": "Djibouti | Ali Sabieh",
+        "a": true,
+        "g": {
+            "lat": 11.1833,
+            "lon": 42.9333
+        },
+        "it": "D\u00e2nan",
+        "it:t": "Gibuti | Ali Sabieh",
+        "es": "D\u00e2nan",
+        "es:t": "Yibuti | Ali Sabieh",
+        "de": "D\u00e2nan",
+        "de:t": "Dschibuti | Ali Sabieh"
+    },
+    {
+        "en": "Obock",
+        "en:t": "Djibouti",
+        "a": true,
+        "g": {
+            "lat": 11.9647,
+            "lon": 43.2884
+        },
+        "it": "Obock",
+        "it:t": "Gibuti",
+        "es": "Obock",
+        "es:t": "Yibuti",
+        "de": "Obock",
+        "de:t": "Dschibuti"
+    },
+    {
+        "en": "Tadjoura",
+        "en:t": "Djibouti | Tadjourah",
+        "a": true,
+        "g": {
+            "lat": 11.7913,
+            "lon": 42.8796
+        },
+        "it": "Tagiura",
+        "it:t": "Gibuti | Tagiura",
+        "es": "Tadjoura",
+        "es:t": "Yibuti",
+        "de": "Tadjoura",
+        "de:t": "Dschibuti"
+    }
+]

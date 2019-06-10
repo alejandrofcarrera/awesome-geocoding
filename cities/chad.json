@@ -1,0 +1,362 @@
+[
+    {
+        "en": "Abeche",
+        "en:t": "Chad | Ouara",
+        "a": true,
+        "g": {
+            "lat": 13.8359,
+            "lon": 20.8434
+        },
+        "it": "Ab\u00e9ch\u00e9",
+        "it:t": "Ciad | Ouara",
+        "es": "Ab\u00e9ch\u00e9",
+        "es:t": "Chad | Ouara",
+        "de": "Ab\u00e9ch\u00e9",
+        "de:t": "Tschad | Ouara"
+    },
+    {
+        "en": "Am Timan",
+        "en:t": "Chad | Barh Azoum",
+        "a": true,
+        "g": {
+            "lat": 11.0446,
+            "lon": 20.2862
+        },
+        "it": "Am Timan",
+        "it:t": "Ciad | Barh Azoum",
+        "es": "Am Timan",
+        "es:t": "Chad | Barh Azoum",
+        "de": "Am Timan",
+        "de:t": "Tschad | Barh Azoum"
+    },
+    {
+        "en": "Ati",
+        "en:t": "Chad | Batha-Ouest",
+        "a": true,
+        "g": {
+            "lat": 13.2166,
+            "lon": 18.3386
+        },
+        "it": "Ati",
+        "it:t": "Ciad | Batha Occidentale",
+        "es": "Ati",
+        "es:t": "Chad | Batha-Ouest",
+        "de": "Ati",
+        "de:t": "Tschad | Batha-Ouest"
+    },
+    {
+        "en": "Benoy",
+        "en:t": "Chad | Ngourkosso",
+        "a": true,
+        "g": {
+            "lat": 8.991,
+            "lon": 16.3169
+        },
+        "it": "B\u00e9noye",
+        "it:t": "Ciad | Ngourkosso",
+        "es": "Benoy",
+        "es:t": "Chad | Ngourkosso",
+        "de": "Benoy",
+        "de:t": "Tschad | Ngourkosso"
+    },
+    {
+        "en": "Bitkine",
+        "en:t": "Chad | Guera",
+        "a": true,
+        "g": {
+            "lat": 11.9781,
+            "lon": 18.2111
+        },
+        "it": "Bitkine",
+        "it:t": "Ciad | Gu\u00e9ra",
+        "es": "Bitkine",
+        "es:t": "Chad | Guera",
+        "de": "Bitkine",
+        "de:t": "Tschad | Guera"
+    },
+    {
+        "en": "Bongor",
+        "en:t": "Chad | Mayo Boneye",
+        "a": true,
+        "g": {
+            "lat": 10.2749,
+            "lon": 15.3775
+        },
+        "it": "Bongor",
+        "it:t": "Ciad | Mayo-Boneye",
+        "es": "Bongor",
+        "es:t": "Chad | Mayo Boneye",
+        "de": "Bongor",
+        "de:t": "Tschad | Mayo Boneye"
+    },
+    {
+        "en": "Doba",
+        "en:t": "Chad | La Pende",
+        "a": true,
+        "g": {
+            "lat": 8.6792,
+            "lon": 16.8591
+        },
+        "it": "Doba",
+        "it:t": "Ciad | La Pend\u00e9",
+        "es": "Doba",
+        "es:t": "Chad | La Pende",
+        "de": "Doba",
+        "de:t": "Tschad | La Pende"
+    },
+    {
+        "en": "Dourbali",
+        "en:t": "Chad | Baguirmi",
+        "a": true,
+        "g": {
+            "lat": 11.8043,
+            "lon": 15.8613
+        },
+        "it": "Dourbali",
+        "it:t": "Ciad | Baguirmi",
+        "es": "Dourbali",
+        "es:t": "Chad | Baguirmi",
+        "de": "Dourbali",
+        "de:t": "Tschad | Baguirmi"
+    },
+    {
+        "en": "Fada",
+        "en:t": "Chad | Ennedi Ouest",
+        "a": true,
+        "g": {
+            "lat": 17.1947,
+            "lon": 21.582
+        },
+        "it": "Fada",
+        "it:t": "Ciad | Ennedi Ovest",
+        "es": "Fada",
+        "es:t": "Chad | Ennedi Ouest",
+        "de": "Fada",
+        "de:t": "Tschad | Ennedi Ouest"
+    },
+    {
+        "en": "Kelo",
+        "en:t": "Chad | Tandjile-Ouest",
+        "a": true,
+        "g": {
+            "lat": 9.3091,
+            "lon": 15.7938
+        },
+        "it": "K\u00e9lo",
+        "it:t": "Ciad | Tandjil\u00e9 Occidentale",
+        "es": "K\u00e9lo",
+        "es:t": "Chad | Tandjile-Ouest",
+        "de": "K\u00e9lo",
+        "de:t": "Tschad | Tandjile-Ouest"
+    },
+    {
+        "en": "Koumra",
+        "en:t": "Chad | Mandoul Oriental",
+        "a": true,
+        "g": {
+            "lat": 8.9173,
+            "lon": 17.5505
+        },
+        "it": "Koumra",
+        "it:t": "Ciad | Mandoul Orientale",
+        "es": "Koumra",
+        "es:t": "Chad | Mandoul Oriental",
+        "de": "Koumra",
+        "de:t": "Tschad | Mandoul Oriental"
+    },
+    {
+        "en": "Kyabe",
+        "en:t": "Chad | Lac Iro",
+        "a": true,
+        "g": {
+            "lat": 9.4548,
+            "lon": 18.9443
+        },
+        "it": "Kyab\u00e9",
+        "it:t": "Ciad | Lac Iro",
+        "es": "Kyabe",
+        "es:t": "Chad | Lac Iro",
+        "de": "Kyabe",
+        "de:t": "Tschad | Lac Iro"
+    },
+    {
+        "en": "Lai",
+        "en:t": "Chad | Tandjile-Est",
+        "a": true,
+        "g": {
+            "lat": 9.3982,
+            "lon": 16.3052
+        },
+        "it": "La\u00ef",
+        "it:t": "Ciad | Tandjil\u00e9 Orientale",
+        "es": "Lai",
+        "es:t": "Chad | Tandjile-Est",
+        "de": "Lai",
+        "de:t": "Tschad | Tandjile-Est"
+    },
+    {
+        "en": "Lere",
+        "en:t": "Chad | Lac Lere",
+        "a": true,
+        "g": {
+            "lat": 9.6555,
+            "lon": 14.2251
+        },
+        "it": "L\u00e9r\u00e9",
+        "it:t": "Ciad | Lac L\u00e9r\u00e9",
+        "es": "Lere",
+        "es:t": "Chad | Lac Lere",
+        "de": "L\u00e9r\u00e9",
+        "de:t": "Tschad | Lac Lere"
+    },
+    {
+        "en": "Mao",
+        "en:t": "Chad | Kanem",
+        "a": true,
+        "g": {
+            "lat": 14.131,
+            "lon": 15.319
+        },
+        "it": "Mao",
+        "it:t": "Ciad | Kanem",
+        "es": "Mao",
+        "es:t": "Chad | Kanem",
+        "de": "Mao",
+        "de:t": "Tschad | Kanem"
+    },
+    {
+        "en": "Massaguet",
+        "en:t": "Chad | Haraze-Al-Biar",
+        "a": true,
+        "g": {
+            "lat": 12.483,
+            "lon": 15.439
+        },
+        "it": "Massaguet",
+        "it:t": "Ciad | Haraze Al Biar",
+        "es": "Massaguet",
+        "es:t": "Chad | Haraze-Al-Biar",
+        "de": "Massaguet",
+        "de:t": "Tschad | Haraze-Al-Biar"
+    },
+    {
+        "en": "Massakory",
+        "en:t": "Chad | Dagana",
+        "a": true,
+        "g": {
+            "lat": 12.9954,
+            "lon": 15.7322
+        },
+        "it": "Massakory",
+        "it:t": "Ciad | Dagana",
+        "es": "Massakory",
+        "es:t": "Chad | Dagana",
+        "de": "Massakory",
+        "de:t": "Tschad | Dagana"
+    },
+    {
+        "en": "Mongo",
+        "en:t": "Chad | Guera",
+        "a": true,
+        "g": {
+            "lat": 12.1863,
+            "lon": 18.6918
+        },
+        "it": "Mongo",
+        "it:t": "Ciad | Gu\u00e9ra",
+        "es": "Mongo",
+        "es:t": "Chad | Guera",
+        "de": "Mongo",
+        "de:t": "Tschad | Guera"
+    },
+    {
+        "en": "Moundou",
+        "en:t": "Chad | Lac Wey",
+        "a": true,
+        "g": {
+            "lat": 8.5915,
+            "lon": 16.0758
+        },
+        "it": "Moundou",
+        "it:t": "Ciad | Lac Wey",
+        "es": "Moundou",
+        "es:t": "Chad | Lac Wey",
+        "de": "Moundou",
+        "de:t": "Tschad | Lac Wey"
+    },
+    {
+        "en": "Moussoro",
+        "en:t": "Chad | Barh-El-Gazal",
+        "a": true,
+        "g": {
+            "lat": 13.6481,
+            "lon": 16.4936
+        },
+        "it": "Moussoro",
+        "it:t": "Ciad | Barh-El-Gazal",
+        "es": "Moussoro",
+        "es:t": "Chad | Barh-El-Gazal",
+        "de": "Moussoro",
+        "de:t": "Tschad | Barh-El-Gazal"
+    },
+    {
+        "en": "N'Djamena",
+        "en:t": "Chad | Chari",
+        "a": true,
+        "g": {
+            "lat": 12.1348,
+            "lon": 15.0557
+        },
+        "it": "N'Djamena",
+        "it:t": "Ciad | Chari",
+        "es": "Yamena",
+        "es:t": "Chad | Chari",
+        "de": "N'Djamena",
+        "de:t": "Tschad | Chari"
+    },
+    {
+        "en": "Oum Hadjer",
+        "en:t": "Chad | Batha-Est",
+        "a": true,
+        "g": {
+            "lat": 13.292,
+            "lon": 19.6907
+        },
+        "it": "Oum Hadjer",
+        "it:t": "Ciad | Batha Orientale",
+        "es": "Oum Hadjer",
+        "es:t": "Chad | Batha-Est",
+        "de": "Oum Hadjer",
+        "de:t": "Tschad | Batha-Est"
+    },
+    {
+        "en": "Pala",
+        "en:t": "Chad | Mayo Dallah",
+        "a": true,
+        "g": {
+            "lat": 9.3641,
+            "lon": 14.9097
+        },
+        "it": "Mayo-Kebbi Ouest",
+        "it:t": "Ciad",
+        "es": "Pala",
+        "es:t": "Chad | Mayo Dallah",
+        "de": "Pala",
+        "de:t": "Tschad | Mayo Dallah"
+    },
+    {
+        "en": "Sarh",
+        "en:t": "Chad | Barh Koh",
+        "a": true,
+        "g": {
+            "lat": 9.1412,
+            "lon": 18.3683
+        },
+        "it": "Sarh",
+        "it:t": "Ciad | Barh K\u00f6h",
+        "es": "Sarh",
+        "es:t": "Chad | Barh Koh",
+        "de": "Sarh",
+        "de:t": "Tschad | Barh Koh"
+    }
+]

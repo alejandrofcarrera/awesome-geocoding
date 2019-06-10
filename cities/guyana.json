@@ -1,0 +1,47 @@
+[
+    {
+        "en": "Georgetown",
+        "en:t": "Guyana | Demerara-Mahaica",
+        "a": true,
+        "g": {
+            "lat": 6.8013,
+            "lon": -58.1551
+        },
+        "it": "Georgetown",
+        "it:t": "Guyana | Demerara-Mahaica",
+        "es": "Georgetown",
+        "es:t": "Guyana | Demerara-Mahaica",
+        "de": "Georgetown",
+        "de:t": "Guyana | Demerara-Mahaica"
+    },
+    {
+        "en": "Linden",
+        "en:t": "Guyana | Upper Demerara-Berbice",
+        "a": true,
+        "g": {
+            "lat": 6.0116,
+            "lon": -58.309
+        },
+        "it": "Linden",
+        "it:t": "Guyana | Alto Demerara-Berbice",
+        "es": "Linden",
+        "es:t": "Guyana | Alto Demerara-Berbice",
+        "de": "Linden",
+        "de:t": "Guyana | Upper Demerara-Berbice"
+    },
+    {
+        "en": "New Amsterdam",
+        "en:t": "Guyana | East Berbice-Corentyne",
+        "a": true,
+        "g": {
+            "lat": 6.2431,
+            "lon": -57.5137
+        },
+        "it": "New Amsterdam",
+        "it:t": "Guyana | Berbice Orientale-Corentyne",
+        "es": "Nueva \u00c1msterdam",
+        "es:t": "Guyana | Berbice Oriental-Corentyne",
+        "de": "New Amsterdam",
+        "de:t": "Guyana | East Berbice-Corentyne"
+    }
+]

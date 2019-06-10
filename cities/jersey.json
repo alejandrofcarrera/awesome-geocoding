@@ -1,0 +1,17 @@
+[
+    {
+        "en": "Saint Helier",
+        "en:t": "Jersey",
+        "a": true,
+        "g": {
+            "lat": 49.1805,
+            "lon": -2.1032
+        },
+        "it": "Saint Helier",
+        "it:t": "Jersey",
+        "es": "Saint Helier",
+        "es:t": "Jersey",
+        "de": "Saint Helier",
+        "de:t": "Jersey"
+    }
+]

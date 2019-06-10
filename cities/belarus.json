@@ -1,0 +1,707 @@
+[
+    {
+        "en": "Asipovichy",
+        "en:t": "Belarus | Asipovichy District",
+        "a": true,
+        "g": {
+            "lat": 53.3126,
+            "lon": 28.6411
+        },
+        "it": "Asipovi\u010dy",
+        "it:t": "Bielorussia | Ra\u00ebn di Asipovi\u010dy",
+        "es": "Asip\u00f3vichy",
+        "es:t": "Bielorrusia | Rai\u00f3n de Asipovichy",
+        "de": "Assipowitschy",
+        "de:t": "Wei\u00dfrussland | Asipovichy District"
+    },
+    {
+        "en": "Babruysk",
+        "en:t": "Belarus | Babruysk District",
+        "a": true,
+        "g": {
+            "lat": 53.1446,
+            "lon": 29.2214
+        },
+        "it": "Babrujsk",
+        "it:t": "Bielorussia | Ra\u00ebn di Babrujsk",
+        "es": "Bobruisk",
+        "es:t": "Bielorrusia | Rai\u00f3n de Babruysk",
+        "de": "Babrujsk",
+        "de:t": "Wei\u00dfrussland | Babruysk District"
+    },
+    {
+        "en": "Baranovichi",
+        "en:t": "Belarus | Baranavichy District",
+        "a": true,
+        "g": {
+            "lat": 53.1256,
+            "lon": 26.0092
+        },
+        "it": "Baranavichy",
+        "it:t": "Bielorussia | Ra\u00ebn di Baranavi\u010dy",
+        "es": "Bar\u00e1navichi",
+        "es:t": "Bielorrusia | Rai\u00f3n de Baranavi\u010dy",
+        "de": "Baranawitschy",
+        "de:t": "Wei\u00dfrussland | Rajon Baranawitschy"
+    },
+    {
+        "en": "Barysaw",
+        "en:t": "Belarus | Barysaw District",
+        "a": true,
+        "g": {
+            "lat": 54.2144,
+            "lon": 28.5084
+        },
+        "it": "Barysa\u016d",
+        "it:t": "Bielorussia | Ra\u00ebn di Barysa\u016d",
+        "es": "Borisov",
+        "es:t": "Bielorrusia | Rai\u00f3n de Borisov",
+        "de": "Baryssau",
+        "de:t": "Wei\u00dfrussland | Barysaw District"
+    },
+    {
+        "en": "Biaroza",
+        "en:t": "Belarus | Biaroza District",
+        "a": true,
+        "g": {
+            "lat": 52.5373,
+            "lon": 24.9789
+        },
+        "it": "Bjaroza",
+        "it:t": "Bielorussia | Ra\u00ebn di Bjaroza",
+        "es": "Biaroza",
+        "es:t": "Bielorrusia | Rai\u00f3n de Biaroza",
+        "de": "Bjarosa",
+        "de:t": "Wei\u00dfrussland | Rajon Bjarosa"
+    },
+    {
+        "en": "Brest",
+        "en:t": "Belarus | Brest District",
+        "a": true,
+        "g": {
+            "lat": 52.0976,
+            "lon": 23.7341
+        },
+        "it": "Br\u0117st",
+        "it:t": "Bielorussia | Ra\u00ebn di Br\u0117st",
+        "es": "Brest",
+        "es:t": "Bielorrusia | Rai\u00f3n de Brest",
+        "de": "Brest",
+        "de:t": "Wei\u00dfrussland | Rajon Brest"
+    },
+    {
+        "en": "Bycha\u016d",
+        "en:t": "Belarus | Bykhaw District",
+        "a": true,
+        "g": {
+            "lat": 53.518,
+            "lon": 30.2403
+        },
+        "it": "Bycha\u016d",
+        "it:t": "Bielorussia | Ra\u00ebn di Bycha\u016d",
+        "es": "Bycha\u016d",
+        "es:t": "Bielorrusia | Bykhaw District",
+        "de": "Bychau",
+        "de:t": "Wei\u00dfrussland | Rajon Bychau"
+    },
+    {
+        "en": "Dobru\u0161",
+        "en:t": "Belarus | Dobrush District",
+        "a": true,
+        "g": {
+            "lat": 52.4032,
+            "lon": 31.3295
+        },
+        "it": "Dobru\u0161",
+        "it:t": "Bielorussia | Distretto di Dobru\u0161",
+        "es": "Dobru\u0161",
+        "es:t": "Bielorrusia | Dobrush District",
+        "de": "Dobrusch",
+        "de:t": "Wei\u00dfrussland | Rajon Dobrusch"
+    },
+    {
+        "en": "Dzyarzhynsk",
+        "en:t": "Belarus | Dzyarzhynsk District",
+        "a": true,
+        "g": {
+            "lat": 53.6855,
+            "lon": 27.1308
+        },
+        "it": "Dziar\u017einsk",
+        "it:t": "Bielorussia | Ra\u00ebn di Dzjar\u017eynsk",
+        "es": "Dzyarzhynsk",
+        "es:t": "Bielorrusia | Dzyarzhynsk District",
+        "de": "Dsjarschynsk",
+        "de:t": "Wei\u00dfrussland | Rajon Dsjarschynsk"
+    },
+    {
+        "en": "Gomel",
+        "en:t": "Belarus | Gomel District",
+        "a": true,
+        "g": {
+            "lat": 52.4412,
+            "lon": 30.9878
+        },
+        "it": "Homel'",
+        "it:t": "Bielorussia | Ra\u00ebn di Homel'",
+        "es": "G\u00f3mel",
+        "es:t": "Bielorrusia | Rai\u00f3n de G\u00f3mel",
+        "de": "Gomel",
+        "de:t": "Wei\u00dfrussland | Rajon Homel"
+    },
+    {
+        "en": "Grodno",
+        "en:t": "Belarus | Grodna District",
+        "a": true,
+        "g": {
+            "lat": 53.6694,
+            "lon": 23.8131
+        },
+        "it": "Hrodna",
+        "it:t": "Bielorussia | Ra\u00ebn di Hrodna",
+        "es": "Grodno",
+        "es:t": "Bielorrusia | Rai\u00f3n de Grodno",
+        "de": "Hrodna",
+        "de:t": "Wei\u00dfrussland | Rajon Hrodna"
+    },
+    {
+        "en": "Horki",
+        "en:t": "Belarus | Horki District",
+        "a": true,
+        "g": {
+            "lat": 54.2825,
+            "lon": 30.9904
+        },
+        "it": "Horki",
+        "it:t": "Bielorussia | Ra\u00ebn di Horki",
+        "es": "Gorki",
+        "es:t": "Bielorrusia | Rai\u00f3n de Gorki",
+        "de": "Horki",
+        "de:t": "Wei\u00dfrussland | Horki District"
+    },
+    {
+        "en": "Ivatsevichy",
+        "en:t": "Belarus | Ivatsevichy District",
+        "a": true,
+        "g": {
+            "lat": 52.708,
+            "lon": 25.3354
+        },
+        "it": "Ivac\u0117vi\u010dy",
+        "it:t": "Bielorussia | Ra\u00ebn di Ivac\u0117vi\u010dy",
+        "es": "Ivatsevichy",
+        "es:t": "Bielorrusia | Ivatsevichy District",
+        "de": "Iwazewitschy",
+        "de:t": "Wei\u00dfrussland | Rajon Iwazewitschy"
+    },
+    {
+        "en": "Kalinkavichy",
+        "en:t": "Belarus | Kalinkavichy District",
+        "a": true,
+        "g": {
+            "lat": 52.1254,
+            "lon": 29.3298
+        },
+        "it": "Kalinkavi\u010dy",
+        "it:t": "Bielorussia | Distretto di Kalinkavi\u010dy",
+        "es": "Kalinkavichy",
+        "es:t": "Bielorrusia | Kalinkavichy District",
+        "de": "Kalinkawitschy",
+        "de:t": "Wei\u00dfrussland | Rajon Kalinkawitschy"
+    },
+    {
+        "en": "Kalodzi\u0161\u010dy",
+        "en:t": "Belarus | Minsk Region",
+        "a": true,
+        "g": {
+            "lat": 53.9403,
+            "lon": 27.7743
+        },
+        "it": "Kalodzi\u0161\u010dy",
+        "it:t": "Bielorussia | Minsk Region",
+        "es": "Kalodzi\u0161\u010dy",
+        "es:t": "Bielorrusia | Minsk Region",
+        "de": "Kalodzi\u0161\u010dy",
+        "de:t": "Wei\u00dfrussland | Minsk Region"
+    },
+    {
+        "en": "Kobryn",
+        "en:t": "Belarus | Kobryn District",
+        "a": true,
+        "g": {
+            "lat": 52.2141,
+            "lon": 24.3582
+        },
+        "it": "Kobryn",
+        "it:t": "Bielorussia | Ra\u00ebn di Kobryn",
+        "es": "K\u00f3briny",
+        "es:t": "Bielorrusia | Rai\u00f3n de Kobryn",
+        "de": "Kobryn",
+        "de:t": "Wei\u00dfrussland | Rajon Kobryn"
+    },
+    {
+        "en": "Lepiel",
+        "en:t": "Belarus | Lepel District",
+        "a": true,
+        "g": {
+            "lat": 54.8782,
+            "lon": 28.6981
+        },
+        "it": "Ra\u00ebn di Lepel'",
+        "it:t": "Bielorussia | Distretto di Lepel'",
+        "es": "Rai\u00f3n de Lepiel",
+        "es:t": "Bielorrusia",
+        "de": "Rajon Lepel",
+        "de:t": "Wei\u00dfrussland"
+    },
+    {
+        "en": "Lida",
+        "en:t": "Belarus | Lida District",
+        "a": true,
+        "g": {
+            "lat": 53.8874,
+            "lon": 25.2894
+        },
+        "it": "Lida",
+        "it:t": "Bielorussia | Ra\u00ebn di Lida",
+        "es": "Lida",
+        "es:t": "Bielorrusia | Rai\u00f3n de Lida",
+        "de": "Lida",
+        "de:t": "Wei\u00dfrussland | Lida District"
+    },
+    {
+        "en": "Luninets",
+        "en:t": "Belarus | Luninets District",
+        "a": true,
+        "g": {
+            "lat": 52.2514,
+            "lon": 26.8066
+        },
+        "it": "Luninec",
+        "it:t": "Bielorussia | Ra\u00ebn di Luninec",
+        "es": "Luninets",
+        "es:t": "Bielorrusia | Rai\u00f3n de \u0141uniniec",
+        "de": "Luninez",
+        "de:t": "Wei\u00dfrussland | Rajon Luninez"
+    },
+    {
+        "en": "Maladzyechna",
+        "en:t": "Belarus | Maladzechna District",
+        "a": true,
+        "g": {
+            "lat": 54.3104,
+            "lon": 26.8489
+        },
+        "it": "Maladze\u010dna",
+        "it:t": "Bielorussia | Ra\u00ebn di Maladze\u010dna",
+        "es": "Maladzyechna",
+        "es:t": "Bielorrusia | Maladzechna District",
+        "de": "Maladsetschna",
+        "de:t": "Wei\u00dfrussland | Rajon Maladsetschna"
+    },
+    {
+        "en": "Malinovka",
+        "en:t": "Belarus | Minsk Region",
+        "a": true,
+        "g": {
+            "lat": 53.8409,
+            "lon": 27.4547
+        },
+        "it": "Malinovka",
+        "it:t": "Bielorussia | Minsk Region",
+        "es": "Malinovka",
+        "es:t": "Bielorrusia | Masko\u016dski rajon",
+        "de": "Malinovka",
+        "de:t": "Wei\u00dfrussland | Minsk Region"
+    },
+    {
+        "en": "Maryina Horka",
+        "en:t": "Belarus | Pukhavichy District",
+        "a": true,
+        "g": {
+            "lat": 53.5068,
+            "lon": 28.1528
+        },
+        "it": "Marina Gorka",
+        "it:t": "Bielorussia | Ra\u00ebn di Puchavi\u010dy",
+        "es": "Maryina Horka",
+        "es:t": "Bielorrusia | Pukhavichy District",
+        "de": "Marjina Horka",
+        "de:t": "Wei\u00dfrussland | Rajon Puchawizki"
+    },
+    {
+        "en": "Masty",
+        "en:t": "Belarus | Masty District",
+        "a": true,
+        "g": {
+            "lat": 53.41,
+            "lon": 24.534
+        },
+        "it": "Masty",
+        "it:t": "Bielorussia | Ra\u00ebn di Masty",
+        "es": "Masty",
+        "es:t": "Bielorrusia | Masty District",
+        "de": "Masty",
+        "de:t": "Wei\u00dfrussland | Rajon Masty"
+    },
+    {
+        "en": "Mazyr",
+        "en:t": "Belarus | Mazyr District",
+        "a": true,
+        "g": {
+            "lat": 52.0322,
+            "lon": 29.2223
+        },
+        "it": "Mazyr",
+        "it:t": "Bielorussia | Ra\u00ebn di Mazyr",
+        "es": "M\u00f3zyr",
+        "es:t": "Bielorrusia | Rai\u00f3n de Mazyr",
+        "de": "Masyr",
+        "de:t": "Wei\u00dfrussland | Rajon Masyr"
+    },
+    {
+        "en": "Minsk",
+        "en:t": "Belarus | Minsk Region",
+        "a": true,
+        "g": {
+            "lat": 53.9045,
+            "lon": 27.5615
+        },
+        "it": "Minsk",
+        "it:t": "Bielorussia | Voblasc' di Minsk",
+        "es": "Minsk",
+        "es:t": "Bielorrusia | Provincia de Minsk",
+        "de": "Minsk",
+        "de:t": "Wei\u00dfrussland | Minskaja Woblasz"
+    },
+    {
+        "en": "Mogilev",
+        "en:t": "Belarus | Mahilyow District",
+        "a": true,
+        "g": {
+            "lat": 53.9007,
+            "lon": 30.3314
+        },
+        "it": "Mahil\u00eb\u016d",
+        "it:t": "Bielorussia | Ra\u00ebn di Mahil\u00eb\u016d",
+        "es": "Moguilov",
+        "es:t": "Bielorrusia | Rai\u00f3n de Maguilov",
+        "de": "Mahiljou",
+        "de:t": "Wei\u00dfrussland | Rajon Mahiljou"
+    },
+    {
+        "en": "Navahrudak",
+        "en:t": "Belarus | Navahrudak District",
+        "a": true,
+        "g": {
+            "lat": 53.5977,
+            "lon": 25.8244
+        },
+        "it": "Navahrudak",
+        "it:t": "Bielorussia | Distretto di Navahrudak",
+        "es": "Navahrudak",
+        "es:t": "Bielorrusia | Rai\u00f3n de Navahrudak",
+        "de": "Nawahradak",
+        "de:t": "Wei\u00dfrussland | Rajon Nawahrudak"
+    },
+    {
+        "en": "Navapolatsk",
+        "en:t": "Belarus | Polatsk District",
+        "a": true,
+        "g": {
+            "lat": 55.5146,
+            "lon": 28.5606
+        },
+        "it": "Navapolack",
+        "it:t": "Bielorussia | Distretto di Polack",
+        "es": "Navapolatsk",
+        "es:t": "Bielorrusia | Rai\u00f3n de Polotsk",
+        "de": "Nawapolazk",
+        "de:t": "Wei\u00dfrussland | Rajon Polazk"
+    },
+    {
+        "en": "Orsha",
+        "en:t": "Belarus | Orsha District",
+        "a": true,
+        "g": {
+            "lat": 54.5071,
+            "lon": 30.412
+        },
+        "it": "Or\u0161a",
+        "it:t": "Bielorussia | Ra\u00ebn di Or\u0161a",
+        "es": "Orsha",
+        "es:t": "Bielorrusia | Rai\u00f3n de Orsha",
+        "de": "Ors\u0441ha",
+        "de:t": "Wei\u00dfrussland | Rajon Orscha"
+    },
+    {
+        "en": "Pastavy",
+        "en:t": "Belarus | Pastavy District",
+        "a": true,
+        "g": {
+            "lat": 55.1134,
+            "lon": 26.8433
+        },
+        "it": "Pastavy",
+        "it:t": "Bielorussia | Distretto di Pastavy",
+        "es": "Pastavy",
+        "es:t": "Bielorrusia | Rai\u00f3n de Pastavy",
+        "de": "Pastawy",
+        "de:t": "Wei\u00dfrussland | Rajon Pastawy"
+    },
+    {
+        "en": "Pinsk",
+        "en:t": "Belarus | Pinsk District",
+        "a": true,
+        "g": {
+            "lat": 52.1125,
+            "lon": 26.0635
+        },
+        "it": "Pinsk",
+        "it:t": "Bielorussia | Ra\u00ebn di Pinsk",
+        "es": "Pinsk",
+        "es:t": "Bielorrusia | Rai\u00f3n de Pinsk",
+        "de": "Pinsk",
+        "de:t": "Wei\u00dfrussland | Rajon Pinsk"
+    },
+    {
+        "en": "Polatsk",
+        "en:t": "Belarus | Polatsk District",
+        "a": true,
+        "g": {
+            "lat": 55.4832,
+            "lon": 28.7991
+        },
+        "it": "Polack",
+        "it:t": "Bielorussia | Distretto di Polack",
+        "es": "Polatsk",
+        "es:t": "Bielorrusia | Rai\u00f3n de Polotsk",
+        "de": "Polazk",
+        "de:t": "Wei\u00dfrussland | Rajon Polazk"
+    },
+    {
+        "en": "Pruzhany",
+        "en:t": "Belarus | Pruzhany District",
+        "a": true,
+        "g": {
+            "lat": 52.5558,
+            "lon": 24.4555
+        },
+        "it": "Pru\u017eany",
+        "it:t": "Bielorussia | Ra\u00ebn di Pru\u017eany",
+        "es": "Pruzhany",
+        "es:t": "Bielorrusia | Pruzhany District",
+        "de": "Pruschany",
+        "de:t": "Wei\u00dfrussland | Rajon Pruschany"
+    },
+    {
+        "en": "Rahachow",
+        "en:t": "Belarus | Rahachow District",
+        "a": true,
+        "g": {
+            "lat": 53.0747,
+            "lon": 30.0512
+        },
+        "it": "Raha\u010do\u016d",
+        "it:t": "Bielorussia | Ra\u00ebn di Raha\u010do\u016d",
+        "es": "Rahachow",
+        "es:t": "Bielorrusia | Rahachow District",
+        "de": "Rahatschou",
+        "de:t": "Wei\u00dfrussland | Rajon Rahatschou"
+    },
+    {
+        "en": "Re\u010dyca",
+        "en:t": "Belarus | Rechitsa District",
+        "a": true,
+        "g": {
+            "lat": 52.3635,
+            "lon": 30.3924
+        },
+        "it": "R\u0117\u010dica",
+        "it:t": "Bielorussia | Ra\u00ebn di R\u0117\u010dyca",
+        "es": "Re\u010dyca",
+        "es:t": "Bielorrusia | Rechitsa District",
+        "de": "Retschyza",
+        "de:t": "Wei\u00dfrussland | Rajon Retschyza"
+    },
+    {
+        "en": "Salihorsk",
+        "en:t": "Belarus | Salihorsk District",
+        "a": true,
+        "g": {
+            "lat": 52.7899,
+            "lon": 27.536
+        },
+        "it": "Salihorsk",
+        "it:t": "Bielorussia | Ra\u00ebn di Salihorsk",
+        "es": "Saligorsk",
+        "es:t": "Bielorrusia | Rai\u00f3n de Saligorsk",
+        "de": "Salihorsk",
+        "de:t": "Wei\u00dfrussland | Salihorsk District"
+    },
+    {
+        "en": "Shchuchyn",
+        "en:t": "Belarus | Shchuchyn District",
+        "a": true,
+        "g": {
+            "lat": 53.6041,
+            "lon": 24.7419
+        },
+        "it": "\u0160\u010du\u010dyn",
+        "it:t": "Bielorussia | Ra\u00ebn di \u0160\u010du\u010dyn",
+        "es": "Shchuchyn",
+        "es:t": "Bielorrusia | Rai\u00f3n de \u0160\u010du\u010dyn",
+        "de": "Shchuchyn",
+        "de:t": "Wei\u00dfrussland | Shchuchyn District"
+    },
+    {
+        "en": "Slonim",
+        "en:t": "Belarus | Slonim District",
+        "a": true,
+        "g": {
+            "lat": 53.0875,
+            "lon": 25.3087
+        },
+        "it": "Slonim",
+        "it:t": "Bielorussia | Distretto di Slonim",
+        "es": "Slonim",
+        "es:t": "Bielorrusia | Rai\u00f3n de S\u0142onim",
+        "de": "Slonim",
+        "de:t": "Wei\u00dfrussland | Rajon Slonim"
+    },
+    {
+        "en": "Slutsk",
+        "en:t": "Belarus | Slutsk District",
+        "a": true,
+        "g": {
+            "lat": 53.021,
+            "lon": 27.554
+        },
+        "it": "Sluck",
+        "it:t": "Bielorussia | Ra\u00ebn di Sluck",
+        "es": "Slutsk",
+        "es:t": "Bielorrusia | Rai\u00f3n de Slutsk",
+        "de": "Sluzk",
+        "de:t": "Wei\u00dfrussland | Slutsk District"
+    },
+    {
+        "en": "Smarho\u0144",
+        "en:t": "Belarus | Smarhon District",
+        "a": true,
+        "g": {
+            "lat": 54.4762,
+            "lon": 26.3981
+        },
+        "it": "Smarhon'",
+        "it:t": "Bielorussia | Distretto di Smarhon'",
+        "es": "Smarho\u0144",
+        "es:t": "Bielorrusia | Smarhon District",
+        "de": "Smarhon",
+        "de:t": "Wei\u00dfrussland | Smarhon District"
+    },
+    {
+        "en": "Stowbtsy",
+        "en:t": "Belarus | Stowbtsy District",
+        "a": true,
+        "g": {
+            "lat": 53.4806,
+            "lon": 26.7364
+        },
+        "it": "Sto\u016dbcy",
+        "it:t": "Bielorussia | Distretto di Sto\u016dbcy",
+        "es": "Stowbtsy",
+        "es:t": "Bielorrusia | Stowbtsy District",
+        "de": "Stowbtsy",
+        "de:t": "Wei\u00dfrussland | Stowbtsy District"
+    },
+    {
+        "en": "Svietlahorsk",
+        "en:t": "Belarus | Svetlahorsk District",
+        "a": true,
+        "g": {
+            "lat": 52.6267,
+            "lon": 29.749
+        },
+        "it": "Svetlahorsk",
+        "it:t": "Bielorussia | Distretto di Svetlahorsk",
+        "es": "Svietlah\u043ersk",
+        "es:t": "Bielorrusia | Rai\u00f3n de Svetlahorsk",
+        "de": "Swetlahorsk",
+        "de:t": "Wei\u00dfrussland | Rajon Swetlahorsk"
+    },
+    {
+        "en": "Vawkavysk",
+        "en:t": "Belarus | Vaukavysk District",
+        "a": true,
+        "g": {
+            "lat": 53.1516,
+            "lon": 24.4422
+        },
+        "it": "Vawkavysk",
+        "it:t": "Bielorussia | Ra\u00ebn di Va\u016dkavysk",
+        "es": "Vawkavysk",
+        "es:t": "Bielorrusia | Rai\u00f3n de Va\u016dkavysk",
+        "de": "Waukawysk",
+        "de:t": "Wei\u00dfrussland | Raion Waukawyski"
+    },
+    {
+        "en": "Viciebsk",
+        "en:t": "Belarus | Vitsebsk District",
+        "a": true,
+        "g": {
+            "lat": 55.1848,
+            "lon": 30.2016
+        },
+        "it": "Vicebsk",
+        "it:t": "Bielorussia | Ra\u00ebn di Vicebsk",
+        "es": "V\u00edtebsk",
+        "es:t": "Bielorrusia | Rai\u00f3n de Vitebsk",
+        "de": "Wizebsk",
+        "de:t": "Wei\u00dfrussland | Rajon Wizebsk"
+    },
+    {
+        "en": "Vileyka",
+        "en:t": "Belarus | Vileyka District",
+        "a": true,
+        "g": {
+            "lat": 54.498,
+            "lon": 26.9201
+        },
+        "it": "Vilejka",
+        "it:t": "Bielorussia | Ra\u00ebn di Vilejka",
+        "es": "Vileyka",
+        "es:t": "Bielorrusia | Vileyka District",
+        "de": "Wilejka",
+        "de:t": "Wei\u00dfrussland | Rajon Wilejka"
+    },
+    {
+        "en": "Zhodzina",
+        "en:t": "Belarus | Smaliavichy District",
+        "a": true,
+        "g": {
+            "lat": 54.0958,
+            "lon": 28.3288
+        },
+        "it": "\u017dodzina",
+        "it:t": "Bielorussia | Ra\u00ebn di Smaljavi\u010dy",
+        "es": "Zhodino",
+        "es:t": "Bielorrusia | Rai\u00f3n de Smalyavichy",
+        "de": "Schodsina",
+        "de:t": "Wei\u00dfrussland | Smaliavichy District"
+    },
+    {
+        "en": "\u017dlobin",
+        "en:t": "Belarus | Zhlobin District",
+        "a": true,
+        "g": {
+            "lat": 52.8889,
+            "lon": 30.0282
+        },
+        "it": "\u017dlobin",
+        "it:t": "Bielorussia | Distretto di \u017dlobin",
+        "es": "Zhlobin",
+        "es:t": "Bielorrusia | Rai\u00f3n de \u017d\u0142obin",
+        "de": "Schlobin",
+        "de:t": "Wei\u00dfrussland | Rajon Schlobin"
+    }
+]

@@ -1,0 +1,362 @@
+[
+    {
+        "en": "Bjelovar",
+        "en:t": "Croatia | Op\u0107ina Bjelovar",
+        "a": true,
+        "g": {
+            "lat": 45.8988,
+            "lon": 16.8423
+        },
+        "it": "Bjelovar",
+        "it:t": "Croazia | Op\u0107ina Bjelovar",
+        "es": "Bjelovar",
+        "es:t": "Croacia | Op\u0107ina Bjelovar",
+        "de": "Bjelovar",
+        "de:t": "Kroatien | Op\u0107ina Bjelovar"
+    },
+    {
+        "en": "Dubrovnik",
+        "en:t": "Croatia | Op\u0107ina Dubrovnik",
+        "a": true,
+        "g": {
+            "lat": 42.6507,
+            "lon": 18.0944
+        },
+        "it": "Ragusa",
+        "it:t": "Croazia | Op\u0107ina Dubrovnik",
+        "es": "Dubrovnik (Ragusa)",
+        "es:t": "Croacia | Op\u0107ina Dubrovnik",
+        "de": "Dubrovnik",
+        "de:t": "Kroatien | Op\u0107ina Dubrovnik"
+    },
+    {
+        "en": "Karlovac",
+        "en:t": "Croatia",
+        "a": true,
+        "g": {
+            "lat": 45.4929,
+            "lon": 15.5553
+        },
+        "it": "Karlovac",
+        "it:t": "Croazia",
+        "es": "Karlovac",
+        "es:t": "Croacia",
+        "de": "Karlovac",
+        "de:t": "Kroatien"
+    },
+    {
+        "en": "Koprivnica",
+        "en:t": "Croatia | Op\u0107ina Koprivnica",
+        "a": true,
+        "g": {
+            "lat": 46.1639,
+            "lon": 16.8335
+        },
+        "it": "Koprivnica",
+        "it:t": "Croazia | Op\u0107ina Koprivnica",
+        "es": "Koprivnica",
+        "es:t": "Croacia | Op\u0107ina Koprivnica",
+        "de": "Koprivnica",
+        "de:t": "Kroatien | Op\u0107ina Koprivnica"
+    },
+    {
+        "en": "Osijek",
+        "en:t": "Croatia | Osijek Oblast",
+        "a": true,
+        "g": {
+            "lat": 45.555,
+            "lon": 18.6955
+        },
+        "it": "Osijek",
+        "it:t": "Croazia | Osijek Oblast",
+        "es": "Osijek",
+        "es:t": "Croacia | Osijek Oblast",
+        "de": "Osijek",
+        "de:t": "Kroatien | Osijek Oblast"
+    },
+    {
+        "en": "Po\u017eega",
+        "en:t": "Croatia | Op\u0107ina Po\u017eega",
+        "a": true,
+        "g": {
+            "lat": 45.3315,
+            "lon": 17.6745
+        },
+        "it": "Po\u017eega",
+        "it:t": "Croazia | Op\u0107ina Po\u017eega",
+        "es": "Po\u017eega",
+        "es:t": "Croacia | Op\u0107ina Po\u017eega",
+        "de": "Po\u017eega",
+        "de:t": "Kroatien | Op\u0107ina Po\u017eega"
+    },
+    {
+        "en": "Pula",
+        "en:t": "Croatia | Op\u0107ina Pula",
+        "a": true,
+        "g": {
+            "lat": 44.8666,
+            "lon": 13.8496
+        },
+        "it": "Pola",
+        "it:t": "Croazia | Op\u0107ina Pula",
+        "es": "Pula",
+        "es:t": "Croacia | Op\u0107ina Pula",
+        "de": "Pula",
+        "de:t": "Kroatien | Op\u0107ina Pula"
+    },
+    {
+        "en": "Rijeka",
+        "en:t": "Croatia | Op\u0107ina Rijeka",
+        "a": true,
+        "g": {
+            "lat": 45.3271,
+            "lon": 14.4422
+        },
+        "it": "Fiume",
+        "it:t": "Croazia | Op\u0107ina Rijeka",
+        "es": "Rijeka",
+        "es:t": "Croacia | Op\u0107ina Rijeka",
+        "de": "Rijeka",
+        "de:t": "Kroatien | Op\u0107ina Rijeka"
+    },
+    {
+        "en": "Samobor",
+        "en:t": "Croatia | Grad Samobor",
+        "a": true,
+        "g": {
+            "lat": 45.8011,
+            "lon": 15.711
+        },
+        "it": "Samobor",
+        "it:t": "Croazia | Grad Samobor",
+        "es": "Samobor",
+        "es:t": "Croacia | Grad Samobor",
+        "de": "Samobor",
+        "de:t": "Kroatien | Grad Samobor"
+    },
+    {
+        "en": "Sesvete",
+        "en:t": "Croatia | City of Zagreb",
+        "a": true,
+        "g": {
+            "lat": 45.8272,
+            "lon": 16.1113
+        },
+        "it": "Sesvete",
+        "it:t": "Croazia | City of Zagreb",
+        "es": "Sesvete",
+        "es:t": "Croacia | City of Zagreb",
+        "de": "Sesvete",
+        "de:t": "Kroatien | Zagreb"
+    },
+    {
+        "en": "Sisak",
+        "en:t": "Croatia | Op\u0107ina Sisak",
+        "a": true,
+        "g": {
+            "lat": 45.4851,
+            "lon": 16.3731
+        },
+        "it": "Sisak",
+        "it:t": "Croazia | Op\u0107ina Sisak",
+        "es": "Sisak",
+        "es:t": "Croacia | Op\u0107ina Sisak",
+        "de": "Sisak",
+        "de:t": "Kroatien | Op\u0107ina Sisak"
+    },
+    {
+        "en": "Slavonski Brod",
+        "en:t": "Croatia | Op\u0107ina Slavonski Brod",
+        "a": true,
+        "g": {
+            "lat": 45.1631,
+            "lon": 18.0116
+        },
+        "it": "Slavonski Brod",
+        "it:t": "Croazia | Op\u0107ina Slavonski Brod",
+        "es": "Slavonski Brod",
+        "es:t": "Croacia | Op\u0107ina Slavonski Brod",
+        "de": "Slavonski Brod",
+        "de:t": "Kroatien | Op\u0107ina Slavonski Brod"
+    },
+    {
+        "en": "Solin",
+        "en:t": "Croatia | Op\u0107ina Solin",
+        "a": true,
+        "g": {
+            "lat": 43.5423,
+            "lon": 16.492
+        },
+        "it": "Salona",
+        "it:t": "Croazia | Op\u0107ina Solin",
+        "es": "Solin",
+        "es:t": "Croacia | Op\u0107ina Solin",
+        "de": "Solin",
+        "de:t": "Kroatien | Op\u0107ina Solin"
+    },
+    {
+        "en": "Split",
+        "en:t": "Croatia | Op\u0107ina Split",
+        "a": true,
+        "g": {
+            "lat": 43.5081,
+            "lon": 16.4402
+        },
+        "it": "Spalato",
+        "it:t": "Croazia | Op\u0107ina Split",
+        "es": "Split",
+        "es:t": "Croacia | Op\u0107ina Split",
+        "de": "Split",
+        "de:t": "Kroatien | Op\u0107ina Split"
+    },
+    {
+        "en": "Vara\u017edin",
+        "en:t": "Croatia",
+        "a": true,
+        "g": {
+            "lat": 46.3057,
+            "lon": 16.3366
+        },
+        "it": "Vara\u017edin",
+        "it:t": "Croazia",
+        "es": "Vara\u017edin",
+        "es:t": "Croacia",
+        "de": "Vara\u017edin",
+        "de:t": "Kroatien"
+    },
+    {
+        "en": "Velika Gorica",
+        "en:t": "Croatia | Op\u0107ina Velika Gorica",
+        "a": true,
+        "g": {
+            "lat": 45.7142,
+            "lon": 16.0752
+        },
+        "it": "Velika Gorica",
+        "it:t": "Croazia | Op\u0107ina Velika Gorica",
+        "es": "Velika Gorica",
+        "es:t": "Croacia | Op\u0107ina Velika Gorica",
+        "de": "Velika Gorica",
+        "de:t": "Kroatien | Op\u0107ina Velika Gorica"
+    },
+    {
+        "en": "Vinkovci",
+        "en:t": "Croatia | Op\u0107ina Vinkovci",
+        "a": true,
+        "g": {
+            "lat": 45.2879,
+            "lon": 18.8057
+        },
+        "it": "Vinkovci",
+        "it:t": "Croazia | Op\u0107ina Vinkovci",
+        "es": "Vinkovci",
+        "es:t": "Croacia | Op\u0107ina Vinkovci",
+        "de": "Vinkovci",
+        "de:t": "Kroatien | Op\u0107ina Vinkovci"
+    },
+    {
+        "en": "Virovitica",
+        "en:t": "Croatia | Op\u0107ina Virovitica",
+        "a": true,
+        "g": {
+            "lat": 45.8316,
+            "lon": 17.3855
+        },
+        "it": "Virovitica",
+        "it:t": "Croazia | Op\u0107ina Virovitica",
+        "es": "Virovitica",
+        "es:t": "Croacia | Op\u0107ina Virovitica",
+        "de": "Virovitica",
+        "de:t": "Kroatien | Op\u0107ina Virovitica"
+    },
+    {
+        "en": "Vukovar",
+        "en:t": "Croatia | Op\u0107ina Vukovar",
+        "a": true,
+        "g": {
+            "lat": 45.3452,
+            "lon": 19.001
+        },
+        "it": "Vukovar",
+        "it:t": "Croazia | Op\u0107ina Vukovar",
+        "es": "Vukovar",
+        "es:t": "Croacia | Op\u0107ina Vukovar",
+        "de": "Vukovar",
+        "de:t": "Kroatien | Op\u0107ina Vukovar"
+    },
+    {
+        "en": "Zadar",
+        "en:t": "Croatia",
+        "a": true,
+        "g": {
+            "lat": 44.1194,
+            "lon": 15.2314
+        },
+        "it": "Zara",
+        "it:t": "Croazia",
+        "es": "Zadar",
+        "es:t": "Croacia",
+        "de": "Zadar",
+        "de:t": "Kroatien"
+    },
+    {
+        "en": "Zagreb",
+        "en:t": "Croatia",
+        "a": true,
+        "g": {
+            "lat": 45.815,
+            "lon": 15.9819
+        },
+        "it": "Zagabria",
+        "it:t": "Croazia",
+        "es": "Zagreb",
+        "es:t": "Croacia",
+        "de": "Zagreb",
+        "de:t": "Kroatien"
+    },
+    {
+        "en": "Zapre\u0161i\u0107",
+        "en:t": "Croatia | Op\u0107ina Zapre\u0161i\u0107",
+        "a": true,
+        "g": {
+            "lat": 45.8572,
+            "lon": 15.8047
+        },
+        "it": "Zapre\u0161i\u0107",
+        "it:t": "Croazia | Op\u0107ina Zapre\u0161i\u0107",
+        "es": "Zapre\u0161i\u0107",
+        "es:t": "Croacia | Op\u0107ina Zapre\u0161i\u0107",
+        "de": "Zapre\u0161i\u0107",
+        "de:t": "Kroatien | Op\u0107ina Zapre\u0161i\u0107"
+    },
+    {
+        "en": "\u010cakovec",
+        "en:t": "Croatia | Op\u0107ina \u010cakovec",
+        "a": true,
+        "g": {
+            "lat": 46.3897,
+            "lon": 16.438
+        },
+        "it": "\u010cakovec",
+        "it:t": "Croazia | Op\u0107ina \u010cakovec",
+        "es": "\u010cakovec",
+        "es:t": "Croacia | Op\u0107ina \u010cakovec",
+        "de": "\u010cakovec",
+        "de:t": "Kroatien | Op\u0107ina \u010cakovec"
+    },
+    {
+        "en": "\u0160ibenik",
+        "en:t": "Croatia | Op\u0107ina \u0160ibenik",
+        "a": true,
+        "g": {
+            "lat": 43.735,
+            "lon": 15.8952
+        },
+        "it": "Sibenico",
+        "it:t": "Croazia | Op\u0107ina \u0160ibenik",
+        "es": "\u0160ibenik",
+        "es:t": "Croacia | Op\u0107ina \u0160ibenik",
+        "de": "\u0160ibenik",
+        "de:t": "Kroatien | Op\u0107ina \u0160ibenik"
+    }
+]

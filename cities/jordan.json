@@ -1,0 +1,92 @@
+[
+    {
+        "en": "Ajloun",
+        "en:t": "Jordan | Ajlun Qasabah",
+        "a": true,
+        "g": {
+            "lat": 32.3326,
+            "lon": 35.7517
+        },
+        "it": "Ajlun",
+        "it:t": "Jordan | Ajlun Qasabah",
+        "es": "Ajlun",
+        "es:t": "Jordan | Ajlun Qasabah",
+        "de": "Ajloun",
+        "de:t": "Jordanien | Ajlun Qasabah"
+    },
+    {
+        "en": "Amman",
+        "en:t": "Jordan | Amman",
+        "a": true,
+        "g": {
+            "lat": 31.9539,
+            "lon": 35.9106
+        },
+        "it": "Amman",
+        "it:t": "Jordan | Amman",
+        "es": "Amm\u00e1n",
+        "es:t": "Jordan | Amman",
+        "de": "Amman",
+        "de:t": "Jordanien | Amman"
+    },
+    {
+        "en": "At-Tafilah",
+        "en:t": "Jordan | Tafiela Qasabah",
+        "a": true,
+        "g": {
+            "lat": 30.8337,
+            "lon": 35.6161
+        },
+        "it": "At-Tafilah",
+        "it:t": "Jordan | Tafiela Qasabah",
+        "es": "At-Tafilah",
+        "es:t": "Jordan | Tafiela Qasabah",
+        "de": "At-Tafilah",
+        "de:t": "Jordanien | Tafiela Qasabah"
+    },
+    {
+        "en": "Irbid",
+        "en:t": "Jordan | Irbid Qasabah",
+        "a": true,
+        "g": {
+            "lat": 32.557,
+            "lon": 35.8479
+        },
+        "it": "Irbid",
+        "it:t": "Jordan | Irbid Qasabah",
+        "es": "Irbid",
+        "es:t": "Jordan | Irbid Qasabah",
+        "de": "Irbid",
+        "de:t": "Jordanien | Irbid Qasabah"
+    },
+    {
+        "en": "Ma'an",
+        "en:t": "Jordan | Ma'an Qasabah",
+        "a": true,
+        "g": {
+            "lat": 30.1927,
+            "lon": 35.7249
+        },
+        "it": "Ma'an",
+        "it:t": "Jordan | Ma'an Qasabah",
+        "es": "Ma'an",
+        "es:t": "Jordan | Ma'an Qasabah",
+        "de": "Ma'an",
+        "de:t": "Jordanien | Ma'an Qasabah"
+    },
+    {
+        "en": "Zarqa",
+        "en:t": "Jordan | Zarqa Qasabah",
+        "a": true,
+        "g": {
+            "lat": 32.0608,
+            "lon": 36.0942
+        },
+        "it": "Zarqa",
+        "it:t": "Jordan | Zarqa Qasabah",
+        "es": "Zarqa",
+        "es:t": "Jordan | Zarqa Qasabah",
+        "de": "Zarqa",
+        "de:t": "Jordanien | Zarqa Qasabah"
+    }
+]

@@ -1,0 +1,392 @@
+[
+    {
+        "en": "Banlung",
+        "en:t": "Cambodia | Ratanakiri Province",
+        "a": true,
+        "g": {
+            "lat": 13.7061,
+            "lon": 107.0303
+        },
+        "it": "distretto di Banlung",
+        "it:t": "Cambogia | Provincia di Ratanakiri",
+        "es": "Banlung",
+        "es:t": "Camboya | Ratanakiri Province",
+        "de": "Banlung",
+        "de:t": "Kambodscha | Ratanakiri Province"
+    },
+    {
+        "en": "Kampong Thom Province",
+        "en:t": "Cambodia",
+        "a": true,
+        "g": {
+            "lat": 12.9062,
+            "lon": 105.2195
+        },
+        "it": "Provincia di Kampong Thom",
+        "it:t": "Cambogia",
+        "es": "Kompung Thum",
+        "es:t": "Camboya",
+        "de": "Kampong Thom",
+        "de:t": "Kambodscha"
+    },
+    {
+        "en": "Koh Kong Province",
+        "en:t": "Cambodia",
+        "a": true,
+        "g": {
+            "lat": 11.5763,
+            "lon": 103.3587
+        },
+        "it": "Provincia di Koh Kong",
+        "it:t": "Cambogia",
+        "es": "Koh Kong",
+        "es:t": "Camboya",
+        "de": "Ka\u00f4h K\u014fng",
+        "de:t": "Kambodscha"
+    },
+    {
+        "en": "Krong Battambang",
+        "en:t": "Cambodia | Battambang Province",
+        "a": true,
+        "g": {
+            "lat": 13.0957,
+            "lon": 103.2022
+        },
+        "it": "Battambang",
+        "it:t": "Cambogia | Provincia di Battambang",
+        "es": "Battambang",
+        "es:t": "Camboya",
+        "de": "Battambang",
+        "de:t": "Kambodscha"
+    },
+    {
+        "en": "Krong Chbar Mon",
+        "en:t": "Cambodia | Chbar Mon",
+        "a": true,
+        "g": {
+            "lat": 11.465,
+            "lon": 104.5073
+        },
+        "it": "Kampong Speu",
+        "it:t": "Cambogia | distretto di Chbar Mon",
+        "es": "Provincia de Kompung Speu",
+        "es:t": "Camboya | Chbar Mon",
+        "de": "Kompong Speu",
+        "de:t": "Kambodscha | Chbar Mon"
+    },
+    {
+        "en": "Krong Doun Kaev",
+        "en:t": "Cambodia | Doun Kaev",
+        "a": true,
+        "g": {
+            "lat": 10.9877,
+            "lon": 104.7871
+        },
+        "it": "Tak\u00e9o",
+        "it:t": "Cambogia | distretto di Doun Kaev",
+        "es": "Tak\u00e9o",
+        "es:t": "Camboya",
+        "de": "Takeo",
+        "de:t": "Kambodscha | Doun Kaev"
+    },
+    {
+        "en": "Krong Kampong Cham",
+        "en:t": "Cambodia | Kampong Cham Province",
+        "a": true,
+        "g": {
+            "lat": 11.9924,
+            "lon": 105.4645
+        },
+        "it": "Kampong Cham",
+        "it:t": "Cambogia",
+        "es": "Ciudad de Kompung Cham",
+        "es:t": "Camboya",
+        "de": "Kampong Cham",
+        "de:t": "Kambodscha"
+    },
+    {
+        "en": "Krong Kampong Chhnang",
+        "en:t": "Cambodia | Kampong Chhnang Province",
+        "a": true,
+        "g": {
+            "lat": 12.2614,
+            "lon": 104.6763
+        },
+        "it": "Kampong Chhnang",
+        "it:t": "Cambogia | Provincia di Kampong Chhnang",
+        "es": "Ciudad de Kompung Chinang",
+        "es:t": "Camboya | Kompung Chinang",
+        "de": "Kompong Chhnang",
+        "de:t": "Kambodscha"
+    },
+    {
+        "en": "Krong Kampot",
+        "en:t": "Cambodia | Tuek Chhou",
+        "a": true,
+        "g": {
+            "lat": 10.5942,
+            "lon": 104.164
+        },
+        "it": "Kampot",
+        "it:t": "Cambogia | distretto di Kampot",
+        "es": "Kampot",
+        "es:t": "Camboya | Tuek Chhou",
+        "de": "Kampot",
+        "de:t": "Kambodscha | Tuek Chhou"
+    },
+    {
+        "en": "Krong Kracheh",
+        "en:t": "Cambodia | Kracheh",
+        "a": true,
+        "g": {
+            "lat": 12.4897,
+            "lon": 106.0288
+        },
+        "it": "Krati\u00e9",
+        "it:t": "Cambogia",
+        "es": "Provincia de Krati\u00e9",
+        "es:t": "Camboya",
+        "de": "Kratie",
+        "de:t": "Kambodscha"
+    },
+    {
+        "en": "Krong Preah Sihanouk",
+        "en:t": "Cambodia | Sihanoukville",
+        "a": true,
+        "g": {
+            "lat": 10.6253,
+            "lon": 103.5234
+        },
+        "it": "Sihanoukville",
+        "it:t": "Cambogia",
+        "es": "Sihanoukville",
+        "es:t": "Camboya",
+        "de": "Sihanoukville",
+        "de:t": "Kambodscha"
+    },
+    {
+        "en": "Krong Pursat",
+        "en:t": "Cambodia | Pursat Province",
+        "a": true,
+        "g": {
+            "lat": 12.4652,
+            "lon": 103.8912
+        },
+        "it": "Pursat",
+        "it:t": "Cambogia | Provincia di Pursat",
+        "es": "Provincia de Pursat",
+        "es:t": "Camboya | Pursat",
+        "de": "Pursat",
+        "de:t": "Kambodscha"
+    },
+    {
+        "en": "Krong Samraong",
+        "en:t": "Cambodia | Samraong",
+        "a": true,
+        "g": {
+            "lat": 14.2199,
+            "lon": 103.59
+        },
+        "it": "Samraong",
+        "it:t": "Cambogia",
+        "es": "Samraong",
+        "es:t": "Camboya",
+        "de": "Samraong",
+        "de:t": "Kambodscha"
+    },
+    {
+        "en": "Krong Siem Reap",
+        "en:t": "Cambodia | Siem Reap Province",
+        "a": true,
+        "g": {
+            "lat": 13.355,
+            "lon": 103.8552
+        },
+        "it": "Siem Reap",
+        "it:t": "Cambogia | Provincia di Siem Reap",
+        "es": "Ciudad de Siem Riep",
+        "es:t": "Camboya | Siem Riep",
+        "de": "Siem Reap",
+        "de:t": "Kambodscha"
+    },
+    {
+        "en": "Krong Svay Rieng",
+        "en:t": "Cambodia | Svay Rieng Province",
+        "a": true,
+        "g": {
+            "lat": 11.0878,
+            "lon": 105.801
+        },
+        "it": "Svay Rieng",
+        "it:t": "Cambogia | Provincia di Svay Rieng",
+        "es": "Svay Rieng",
+        "es:t": "Camboya | Provincia de Svay Rieng",
+        "de": "Svay Rieng",
+        "de:t": "Kambodscha"
+    },
+    {
+        "en": "Krong Ta Khmau",
+        "en:t": "Cambodia | Kandal Province",
+        "a": true,
+        "g": {
+            "lat": 11.4592,
+            "lon": 104.9447
+        },
+        "it": "Ta Khmau",
+        "it:t": "Cambogia | Provincia di Kandal",
+        "es": "Krong Ta Khmau",
+        "es:t": "Camboya | Kandal Province",
+        "de": "Ta Khmau",
+        "de:t": "Kambodscha | Kandal"
+    },
+    {
+        "en": "Lumphat",
+        "en:t": "Cambodia",
+        "a": true,
+        "g": {
+            "lat": 13.4833,
+            "lon": 106.9801
+        },
+        "it": "Lumphat",
+        "it:t": "Cambogia",
+        "es": "Lumphat",
+        "es:t": "Camboya",
+        "de": "Lumphat",
+        "de:t": "Kambodscha"
+    },
+    {
+        "en": "Pailin Province",
+        "en:t": "Cambodia",
+        "a": true,
+        "g": {
+            "lat": 12.9093,
+            "lon": 102.6676
+        },
+        "it": "distretto di Pailin",
+        "it:t": "Cambogia | Pailin",
+        "es": "Pailin",
+        "es:t": "Camboya | Pailin Province",
+        "de": "Pailin",
+        "de:t": "Kambodscha"
+    },
+    {
+        "en": "Pa\u00f4y P\u00eat",
+        "en:t": "Cambodia | Paoy Paet",
+        "a": true,
+        "g": {
+            "lat": 13.657,
+            "lon": 102.566
+        },
+        "it": "Pa\u00f4y P\u00eat",
+        "it:t": "Cambogia | Paoy Paet",
+        "es": "Pa\u00f4y P\u00eat",
+        "es:t": "Camboya | Paoy Paet",
+        "de": "Pa\u00f4y P\u00eat",
+        "de:t": "Kambodscha | Paoy Paet"
+    },
+    {
+        "en": "Phnom Penh",
+        "en:t": "Cambodia",
+        "a": true,
+        "g": {
+            "lat": 11.5564,
+            "lon": 104.9282
+        },
+        "it": "Phnom Penh",
+        "it:t": "Cambogia",
+        "es": "Nom Pen",
+        "es:t": "Camboya",
+        "de": "Phnom Penh",
+        "de:t": "Kambodscha"
+    },
+    {
+        "en": "Prey Veng Province",
+        "en:t": "Cambodia",
+        "a": true,
+        "g": {
+            "lat": 11.3802,
+            "lon": 105.5005
+        },
+        "it": "Provincia di Prey Veng",
+        "it:t": "Cambogia",
+        "es": "Prey Veng",
+        "es:t": "Camboya | Pur Rieng",
+        "de": "Prey Veng",
+        "de:t": "Kambodscha | Pur Rieng"
+    },
+    {
+        "en": "Sisophon",
+        "en:t": "Cambodia | Serei Saophoan",
+        "a": true,
+        "g": {
+            "lat": 13.5836,
+            "lon": 102.9738
+        },
+        "it": "Sisophon",
+        "it:t": "Cambogia | distretto di Serei Saophoan",
+        "es": "Ciudad de Sisophon",
+        "es:t": "Camboya | Serei Saophoan",
+        "de": "Sisophon",
+        "de:t": "Kambodscha | Serei Saophoan"
+    },
+    {
+        "en": "Smach Mean Chey",
+        "en:t": "Cambodia | Krong Khemara Phoumin",
+        "a": true,
+        "g": {
+            "lat": 11.623,
+            "lon": 103.0703
+        },
+        "it": "Smach Mean Chey",
+        "it:t": "Cambogia | Krong Khemara Phoumin",
+        "es": "Smach Mean Chey",
+        "es:t": "Camboya | Krong Khemara Phoumin",
+        "de": "Smach Mean Chey",
+        "de:t": "Kambodscha | Krong Khemara Phoumin"
+    },
+    {
+        "en": "Steung Treng Province",
+        "en:t": "Cambodia",
+        "a": true,
+        "g": {
+            "lat": 13.5765,
+            "lon": 105.97
+        },
+        "it": "Krong Stung Treng",
+        "it:t": "Cambogia | Steung Treng Province",
+        "es": "Ciudad de Stung Treng",
+        "es:t": "Camboya | Stung Treng",
+        "de": "Krong Stung Treng",
+        "de:t": "Kambodscha | Steung Treng Province"
+    },
+    {
+        "en": "Tak\u00e9o Province",
+        "en:t": "Cambodia",
+        "a": true,
+        "g": {
+            "lat": 10.9322,
+            "lon": 104.7988
+        },
+        "it": "Phumi Sr\u00ea V\u00e9al",
+        "it:t": "Cambogia | Sre Veal",
+        "es": "Tak\u00e9o",
+        "es:t": "Camboya",
+        "de": "Takeo",
+        "de:t": "Kambodscha"
+    },
+    {
+        "en": "Tbaeng Meanchey",
+        "en:t": "Cambodia | Preah Vihear Province",
+        "a": true,
+        "g": {
+            "lat": 13.7741,
+            "lon": 104.9856
+        },
+        "it": "distretto di Tbaeng Meanchey",
+        "it:t": "Cambogia | Provincia di Preah Vihear",
+        "es": "Tbaeng Meanchey",
+        "es:t": "Camboya | Preah Vihear Province",
+        "de": "Tbaeng Meanchey",
+        "de:t": "Kambodscha | Preah Vihear"
+    }
+]

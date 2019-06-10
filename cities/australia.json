@@ -1,0 +1,2477 @@
+[
+    {
+        "en": "Adelaide",
+        "en:t": "Australia | South Australia",
+        "a": true,
+        "g": {
+            "lat": -34.9285,
+            "lon": 138.6007
+        },
+        "it": "Adelaide",
+        "it:t": "Australia | Australia Meridionale",
+        "es": "Adelaida",
+        "es:t": "Australia | Australia Meridional",
+        "de": "Adelaide",
+        "de:t": "Australien | South Australia"
+    },
+    {
+        "en": "Albany",
+        "en:t": "Australia | City of Albany",
+        "a": true,
+        "g": {
+            "lat": -35.0269,
+            "lon": 117.8837
+        },
+        "it": "Citt\u00e0 di Albany",
+        "it:t": "Australia",
+        "es": "Albany",
+        "es:t": "Australia | City of Albany",
+        "de": "Albany City",
+        "de:t": "Australien"
+    },
+    {
+        "en": "Albury",
+        "en:t": "Australia | Albury City Council",
+        "a": true,
+        "g": {
+            "lat": -36.0737,
+            "lon": 146.9135
+        },
+        "it": "Albury",
+        "it:t": "Australia | Citt\u00e0 di Albury",
+        "es": "Albury",
+        "es:t": "Australia | Albury City Council",
+        "de": "Albury",
+        "de:t": "Australien | Albury City"
+    },
+    {
+        "en": "Alice Springs",
+        "en:t": "Australia | Alice Springs Municipality",
+        "a": true,
+        "g": {
+            "lat": -23.698,
+            "lon": 133.8807
+        },
+        "it": "Alice Springs",
+        "it:t": "Australia | Alice Springs Municipality",
+        "es": "Alice Springs",
+        "es:t": "Australia | Alice Springs Municipality",
+        "de": "Alice Springs",
+        "de:t": "Australien | Alice Springs Municipality"
+    },
+    {
+        "en": "Armadale",
+        "en:t": "Australia | City of Armadale",
+        "a": true,
+        "g": {
+            "lat": -32.1473,
+            "lon": 116.0129
+        },
+        "it": "Armadale",
+        "it:t": "Australia | Citt\u00e0 di Armadale",
+        "es": "Armadale",
+        "es:t": "Australia | City of Armadale",
+        "de": "Armadale",
+        "de:t": "Australien | Armadale City"
+    },
+    {
+        "en": "Armidale",
+        "en:t": "Australia | Armidale Dumaresq Council",
+        "a": true,
+        "g": {
+            "lat": -30.5016,
+            "lon": 151.6662
+        },
+        "it": "Armidale",
+        "it:t": "Australia | Contea di Armidale Dumaresq",
+        "es": "Armidale",
+        "es:t": "Australia | Armidale Dumaresq Council",
+        "de": "Armidale",
+        "de:t": "Australien | Armidale Dumaresq Council"
+    },
+    {
+        "en": "Ashfield",
+        "en:t": "Australia | Inner West Council",
+        "a": true,
+        "g": {
+            "lat": -33.8889,
+            "lon": 151.1249
+        },
+        "it": "Ashfield",
+        "it:t": "Australia | Inner West Council",
+        "es": "Ashfield",
+        "es:t": "Australia | Inner West Council",
+        "de": "Ashfield",
+        "de:t": "Australien | Inner West Council"
+    },
+    {
+        "en": "Auburn",
+        "en:t": "Australia | Cumberland Council",
+        "a": true,
+        "g": {
+            "lat": -33.8606,
+            "lon": 151.0248
+        },
+        "it": "Auburn",
+        "it:t": "Australia | Cumberland Council",
+        "es": "Auburn",
+        "es:t": "Australia | Cumberland Council",
+        "de": "Auburn",
+        "de:t": "Australien | Holroyd City"
+    },
+    {
+        "en": "Ballarat",
+        "en:t": "Australia | Ballarat City",
+        "a": true,
+        "g": {
+            "lat": -37.5622,
+            "lon": 143.8503
+        },
+        "it": "Ballarat",
+        "it:t": "Australia | Citt\u00e0 di Ballarat",
+        "es": "Ballarat",
+        "es:t": "Australia | Ballarat City",
+        "de": "Ballarat",
+        "de:t": "Australien | Ballarat City"
+    },
+    {
+        "en": "Bankstown",
+        "en:t": "Australia | Bankstown City Council",
+        "a": true,
+        "g": {
+            "lat": -33.9182,
+            "lon": 151.035
+        },
+        "it": "Bankstown",
+        "it:t": "Australia | Bankstown City Council",
+        "es": "Bankstown",
+        "es:t": "Australia | Bankstown City Council",
+        "de": "Bankstown",
+        "de:t": "Australien | Bankstown City Council"
+    },
+    {
+        "en": "Banora Point",
+        "en:t": "Australia | Tweed Shire Council",
+        "a": true,
+        "g": {
+            "lat": -28.2233,
+            "lon": 153.5381
+        },
+        "it": "Banora Point",
+        "it:t": "Australia | Tweed Shire Council",
+        "es": "Banora Point",
+        "es:t": "Australia | Tweed Shire Council",
+        "de": "Banora Point",
+        "de:t": "Australien | Tweed Shire Council"
+    },
+    {
+        "en": "Bathurst",
+        "en:t": "Australia | Bathurst Regional Council",
+        "a": true,
+        "g": {
+            "lat": -33.4193,
+            "lon": 149.5775
+        },
+        "it": "Bathurst",
+        "it:t": "Australia | Bathurst Regional Council",
+        "es": "Bathurst",
+        "es:t": "Australia | Bathurst Regional Council",
+        "de": "Bathurst",
+        "de:t": "Australien | Bathurst Regional Council"
+    },
+    {
+        "en": "Baulkham Hills",
+        "en:t": "Australia | New South Wales",
+        "a": true,
+        "g": {
+            "lat": -33.7629,
+            "lon": 150.9921
+        },
+        "it": "Baulkham Hills",
+        "it:t": "Australia | New South Wales",
+        "es": "Baulkham Hills",
+        "es:t": "Australia | New South Wales",
+        "de": "Baulkham Hills",
+        "de:t": "Australien | New South Wales"
+    },
+    {
+        "en": "Bendigo",
+        "en:t": "Australia | Greater Bendigo City",
+        "a": true,
+        "g": {
+            "lat": -36.757,
+            "lon": 144.2794
+        },
+        "it": "Bendigo",
+        "it:t": "Australia | Citt\u00e0 di Greater Bendigo",
+        "es": "Bendigo",
+        "es:t": "Australia | Greater Bendigo City",
+        "de": "Bendigo",
+        "de:t": "Australien | Greater Bendigo City"
+    },
+    {
+        "en": "Berwick",
+        "en:t": "Australia | City of Casey",
+        "a": true,
+        "g": {
+            "lat": -38.031,
+            "lon": 145.344
+        },
+        "it": "Berwick",
+        "it:t": "Australia | City of Casey",
+        "es": "Berwick",
+        "es:t": "Australia | City of Casey",
+        "de": "Berwick",
+        "de:t": "Australien | Casey City"
+    },
+    {
+        "en": "Blacktown",
+        "en:t": "Australia | City of Blacktown",
+        "a": true,
+        "g": {
+            "lat": -33.771,
+            "lon": 150.9063
+        },
+        "it": "Blacktown",
+        "it:t": "Australia | Citt\u00e0 di Blacktown",
+        "es": "Blacktown",
+        "es:t": "Australia | City of Blacktown",
+        "de": "Blacktown",
+        "de:t": "Australien | Blacktown City"
+    },
+    {
+        "en": "Boronia",
+        "en:t": "Australia | City of Knox",
+        "a": true,
+        "g": {
+            "lat": -37.862,
+            "lon": 145.286
+        },
+        "it": "Boronia",
+        "it:t": "Australia | City of Knox",
+        "es": "Boronia",
+        "es:t": "Australia | City of Knox",
+        "de": "Boronia",
+        "de:t": "Australien | Knox City"
+    },
+    {
+        "en": "Brisbane",
+        "en:t": "Australia | Queensland",
+        "a": true,
+        "g": {
+            "lat": -27.4698,
+            "lon": 153.0251
+        },
+        "it": "Brisbane",
+        "it:t": "Australia | Queensland",
+        "es": "Brisbane",
+        "es:t": "Australia | Queensland",
+        "de": "Brisbane",
+        "de:t": "Australien | Queensland"
+    },
+    {
+        "en": "Broken Hill",
+        "en:t": "Australia | New South Wales",
+        "a": true,
+        "g": {
+            "lat": -31.9539,
+            "lon": 141.4539
+        },
+        "it": "Broken Hill",
+        "it:t": "Australia | Nuovo Galles del Sud",
+        "es": "Broken Hill",
+        "es:t": "Australia | Nueva Gales del Sur",
+        "de": "Broken Hill",
+        "de:t": "Australien | New South Wales"
+    },
+    {
+        "en": "Brunswick",
+        "en:t": "Australia | Moreland City",
+        "a": true,
+        "g": {
+            "lat": -37.7667,
+            "lon": 144.9628
+        },
+        "it": "Brunswick",
+        "it:t": "Australia | Citt\u00e0 di Moreland",
+        "es": "Brunswick",
+        "es:t": "Australia | Moreland City",
+        "de": "Brunswick",
+        "de:t": "Australien | Moreland City"
+    },
+    {
+        "en": "Buderim",
+        "en:t": "Australia | Sunshine Coast Regional",
+        "a": true,
+        "g": {
+            "lat": -26.685,
+            "lon": 153.053
+        },
+        "it": "Buderim",
+        "it:t": "Australia | Sunshine Coast Regional",
+        "es": "Buderim",
+        "es:t": "Australia | Sunshine Coast Regional",
+        "de": "Buderim",
+        "de:t": "Australien | Sunshine Coast Regional"
+    },
+    {
+        "en": "Bunbury",
+        "en:t": "Australia | City of Bunbury",
+        "a": true,
+        "g": {
+            "lat": -33.321,
+            "lon": 115.6383
+        },
+        "it": "Bunbury",
+        "it:t": "Australia | Citt\u00e0 di Bunbury",
+        "es": "Bunbury",
+        "es:t": "Australia | City of Bunbury",
+        "de": "Bunbury",
+        "de:t": "Australien | Bunbury City"
+    },
+    {
+        "en": "Bundaberg Central",
+        "en:t": "Australia | Bundaberg Regional",
+        "a": true,
+        "g": {
+            "lat": -24.867,
+            "lon": 152.351
+        },
+        "it": "Bundaberg",
+        "it:t": "Australia | Regione di Bundaberg",
+        "es": "Bundaberg",
+        "es:t": "Australia | Bundaberg Regional",
+        "de": "Bundaberg",
+        "de:t": "Australien | Bundaberg Region"
+    },
+    {
+        "en": "Burnie",
+        "en:t": "Australia | Tasmania",
+        "a": true,
+        "g": {
+            "lat": -41.0529,
+            "lon": 145.9052
+        },
+        "it": "Burnie",
+        "it:t": "Australia | Tasmania",
+        "es": "Burnie",
+        "es:t": "Australia | Tasmania",
+        "de": "Burnie",
+        "de:t": "Australien | Tasmanien"
+    },
+    {
+        "en": "Busselton",
+        "en:t": "Australia | City of Busselton",
+        "a": true,
+        "g": {
+            "lat": -33.6532,
+            "lon": 115.3455
+        },
+        "it": "Busselton",
+        "it:t": "Australia | Contea di Busselton",
+        "es": "Busselton",
+        "es:t": "Australia | City of Busselton",
+        "de": "Busselton",
+        "de:t": "Australien | Busselton Shire"
+    },
+    {
+        "en": "Caboolture",
+        "en:t": "Australia | Moreton Bay Region",
+        "a": true,
+        "g": {
+            "lat": -27.0667,
+            "lon": 152.9667
+        },
+        "it": "Caboolture",
+        "it:t": "Australia | Moreton Bay Region",
+        "es": "Caboolture",
+        "es:t": "Australia | Moreton Bay Region",
+        "de": "Caboolture",
+        "de:t": "Australien | Moreton Bay Region"
+    },
+    {
+        "en": "Cairns",
+        "en:t": "Australia | Cairns Regional",
+        "a": true,
+        "g": {
+            "lat": -16.9186,
+            "lon": 145.7781
+        },
+        "it": "Cairns",
+        "it:t": "Australia | Regione di Cairns",
+        "es": "Cairns",
+        "es:t": "Australia | Cairns Regional",
+        "de": "Cairns",
+        "de:t": "Australien | Cairns Region"
+    },
+    {
+        "en": "Caloundra",
+        "en:t": "Australia | Sunshine Coast Regional",
+        "a": true,
+        "g": {
+            "lat": -26.799,
+            "lon": 153.133
+        },
+        "it": "Caloundra",
+        "it:t": "Australia | Sunshine Coast Regional",
+        "es": "Caloundra",
+        "es:t": "Australia | Sunshine Coast Regional",
+        "de": "Caloundra",
+        "de:t": "Australien | Sunshine Coast Region"
+    },
+    {
+        "en": "Camberwell",
+        "en:t": "Australia | Boroondara City",
+        "a": true,
+        "g": {
+            "lat": -37.835,
+            "lon": 145.071
+        },
+        "it": "Camberwell",
+        "it:t": "Australia | Boroondara City",
+        "es": "Camberwell",
+        "es:t": "Australia | Boroondara City",
+        "de": "Camberwell",
+        "de:t": "Australien | Boroondara City"
+    },
+    {
+        "en": "Canberra",
+        "en:t": "Australia | Australian Capital Territory",
+        "a": true,
+        "g": {
+            "lat": -35.2809,
+            "lon": 149.13
+        },
+        "it": "Canberra",
+        "it:t": "Australia | Territorio della Capitale Australiana",
+        "es": "Canberra",
+        "es:t": "Australia | Territorio de la Capital Australiana",
+        "de": "Canberra",
+        "de:t": "Australien | Australian Capital Territory"
+    },
+    {
+        "en": "Caringbah",
+        "en:t": "Australia | Sutherland Shire",
+        "a": true,
+        "g": {
+            "lat": -34.0452,
+            "lon": 151.1218
+        },
+        "it": "Caringbah",
+        "it:t": "Australia | Sutherland Shire",
+        "es": "Caringbah",
+        "es:t": "Australia | Sutherland Shire",
+        "de": "Caringbah",
+        "de:t": "Australien | Sutherland Shire"
+    },
+    {
+        "en": "Carlingford",
+        "en:t": "Australia | New South Wales",
+        "a": true,
+        "g": {
+            "lat": -33.777,
+            "lon": 151.048
+        },
+        "it": "Carlingford",
+        "it:t": "Australia | New South Wales",
+        "es": "Carlingford",
+        "es:t": "Australia | New South Wales",
+        "de": "Carlingford",
+        "de:t": "Australien | New South Wales"
+    },
+    {
+        "en": "Carnegie",
+        "en:t": "Australia | Glen Eira City",
+        "a": true,
+        "g": {
+            "lat": -37.888,
+            "lon": 145.062
+        },
+        "it": "Carnegie",
+        "it:t": "Australia | Glen Eira City",
+        "es": "Carnegie",
+        "es:t": "Australia | Glen Eira City",
+        "de": "Carnegie",
+        "de:t": "Australien | Glen Eira City"
+    },
+    {
+        "en": "Carrum Downs",
+        "en:t": "Australia | Frankston City",
+        "a": true,
+        "g": {
+            "lat": -38.096,
+            "lon": 145.178
+        },
+        "it": "Carrum Downs",
+        "it:t": "Australia | Frankston City",
+        "es": "Carrum Downs",
+        "es:t": "Australia | Frankston City",
+        "de": "Carrum Downs",
+        "de:t": "Australien | Frankston City"
+    },
+    {
+        "en": "Castle Hill",
+        "en:t": "Australia | New South Wales",
+        "a": true,
+        "g": {
+            "lat": -33.7293,
+            "lon": 151.004
+        },
+        "it": "Castle Hill",
+        "it:t": "Australia | Nuovo Galles del Sud",
+        "es": "Castle Hill",
+        "es:t": "Australia | Nueva Gales del Sur",
+        "de": "Castle Hill",
+        "de:t": "Australien | New South Wales"
+    },
+    {
+        "en": "Cessnock",
+        "en:t": "Australia | Cessnock City Council",
+        "a": true,
+        "g": {
+            "lat": -32.8345,
+            "lon": 151.3624
+        },
+        "it": "Citt\u00e0 di Cessnock",
+        "it:t": "Australia | Cessnock City Council",
+        "es": "Cessnock",
+        "es:t": "Australia | Cessnock City Council",
+        "de": "Cessnock City",
+        "de:t": "Australien | Cessnock City Council"
+    },
+    {
+        "en": "Cheltenham",
+        "en:t": "Australia | Victoria",
+        "a": true,
+        "g": {
+            "lat": -37.967,
+            "lon": 145.068
+        },
+        "it": "Cheltenham",
+        "it:t": "Australia | Victoria",
+        "es": "Cheltenham",
+        "es:t": "Australia | Victoria",
+        "de": "Cheltenham",
+        "de:t": "Australien | Victoria"
+    },
+    {
+        "en": "Clayton",
+        "en:t": "Australia | Monash City",
+        "a": true,
+        "g": {
+            "lat": -37.915,
+            "lon": 145.13
+        },
+        "it": "Clayton",
+        "it:t": "Australia | Monash City",
+        "es": "Clayton",
+        "es:t": "Australia | Monash City",
+        "de": "Clayton",
+        "de:t": "Australien | Monash City"
+    },
+    {
+        "en": "Coburg",
+        "en:t": "Australia | Moreland City",
+        "a": true,
+        "g": {
+            "lat": -37.7438,
+            "lon": 144.9645
+        },
+        "it": "Coburg",
+        "it:t": "Australia | Moreland City",
+        "es": "Coburg",
+        "es:t": "Australia | Moreland City",
+        "de": "Coburg",
+        "de:t": "Australien | Moreland City"
+    },
+    {
+        "en": "Coffs Harbour",
+        "en:t": "Australia | Coffs Harbour City Council",
+        "a": true,
+        "g": {
+            "lat": -30.2986,
+            "lon": 153.1094
+        },
+        "it": "Citt\u00e0 di Coffs Harbour",
+        "it:t": "Australia | Coffs Harbour City Council",
+        "es": "Coffs Harbour",
+        "es:t": "Australia | Coffs Harbour City Council",
+        "de": "Coffs Harbour City",
+        "de:t": "Australien | Coffs Harbour City Council"
+    },
+    {
+        "en": "Craigieburn",
+        "en:t": "Australia | City of Hume",
+        "a": true,
+        "g": {
+            "lat": -37.594,
+            "lon": 144.934
+        },
+        "it": "Craigieburn",
+        "it:t": "Australia | City of Hume",
+        "es": "Craigieburn",
+        "es:t": "Australia | City of Hume",
+        "de": "Craigieburn",
+        "de:t": "Australien | City of Hume"
+    },
+    {
+        "en": "Cranbourne",
+        "en:t": "Australia | City of Casey",
+        "a": true,
+        "g": {
+            "lat": -38.105,
+            "lon": 145.279
+        },
+        "it": "Cranbourne",
+        "it:t": "Australia | City of Casey",
+        "es": "Cranbourne",
+        "es:t": "Australia | City of Casey",
+        "de": "Cranbourne",
+        "de:t": "Australien | City of Casey"
+    },
+    {
+        "en": "Cronulla",
+        "en:t": "Australia | Sutherland Shire",
+        "a": true,
+        "g": {
+            "lat": -34.0574,
+            "lon": 151.1522
+        },
+        "it": "Cronulla",
+        "it:t": "Australia | Contea di Sutherland",
+        "es": "Cronulla",
+        "es:t": "Australia | Sutherland",
+        "de": "Cronulla",
+        "de:t": "Australien | Sutherland Shire"
+    },
+    {
+        "en": "Dandenong",
+        "en:t": "Australia | Greater Dandenong City",
+        "a": true,
+        "g": {
+            "lat": -37.981,
+            "lon": 145.215
+        },
+        "it": "Dandenong",
+        "it:t": "Australia | Greater Dandenong City",
+        "es": "Dandenong",
+        "es:t": "Australia | Greater Dandenong City",
+        "de": "Dandenong",
+        "de:t": "Australien | Greater Dandenong City"
+    },
+    {
+        "en": "Darwin",
+        "en:t": "Australia | Northern Territory",
+        "a": true,
+        "g": {
+            "lat": -12.4634,
+            "lon": 130.8456
+        },
+        "it": "Darwin",
+        "it:t": "Australia | Territorio del Nord",
+        "es": "Darwin",
+        "es:t": "Australia | Territorio del Norte",
+        "de": "Darwin",
+        "de:t": "Australien | Northern Territory"
+    },
+    {
+        "en": "Deception Bay",
+        "en:t": "Australia | Moreton Bay Region",
+        "a": true,
+        "g": {
+            "lat": -27.2,
+            "lon": 153.0333
+        },
+        "it": "Deception Bay",
+        "it:t": "Australia | Moreton Bay Region",
+        "es": "Deception Bay",
+        "es:t": "Australia | Moreton Bay Region",
+        "de": "Deception Bay",
+        "de:t": "Australien | Moreton Bay Region"
+    },
+    {
+        "en": "Dee Why",
+        "en:t": "Australia | Northern Beaches Council",
+        "a": true,
+        "g": {
+            "lat": -33.7544,
+            "lon": 151.2854
+        },
+        "it": "Dee Why",
+        "it:t": "Australia | Northern Beaches Council",
+        "es": "Dee Why",
+        "es:t": "Australia | Northern Beaches Council",
+        "de": "Dee Why",
+        "de:t": "Australien | Northern Beaches Council"
+    },
+    {
+        "en": "Deer Park",
+        "en:t": "Australia | Brimbank City",
+        "a": true,
+        "g": {
+            "lat": -37.763,
+            "lon": 144.767
+        },
+        "it": "Deer Park",
+        "it:t": "Australia | Brimbank City",
+        "es": "Deer Park",
+        "es:t": "Australia | Brimbank City",
+        "de": "Deer Park",
+        "de:t": "Australien | Brimbank City"
+    },
+    {
+        "en": "Devonport",
+        "en:t": "Australia | Devonport City Council",
+        "a": true,
+        "g": {
+            "lat": -41.1771,
+            "lon": 146.3452
+        },
+        "it": "Devonport",
+        "it:t": "Australia | Citt\u00e0 di Devonport",
+        "es": "Devonport",
+        "es:t": "Australia | Devonport City Council",
+        "de": "Devonport",
+        "de:t": "Australien | Devonport City"
+    },
+    {
+        "en": "Doncaster",
+        "en:t": "Australia | Manningham City",
+        "a": true,
+        "g": {
+            "lat": -37.787,
+            "lon": 145.124
+        },
+        "it": "Doncaster",
+        "it:t": "Australia | Manningham City",
+        "es": "Doncaster",
+        "es:t": "Australia | Manningham City",
+        "de": "Doncaster",
+        "de:t": "Australien | Manningham City"
+    },
+    {
+        "en": "Doncaster East",
+        "en:t": "Australia | Manningham City",
+        "a": true,
+        "g": {
+            "lat": -37.783,
+            "lon": 145.166
+        },
+        "it": "Doncaster East",
+        "it:t": "Australia | Manningham City",
+        "es": "Doncaster East",
+        "es:t": "Australia | Manningham City",
+        "de": "Doncaster East",
+        "de:t": "Australien | Manningham City"
+    },
+    {
+        "en": "Dubbo",
+        "en:t": "Australia | Dubbo City Council",
+        "a": true,
+        "g": {
+            "lat": -32.2315,
+            "lon": 148.633
+        },
+        "it": "Dubbo",
+        "it:t": "Australia | Dubbo City Council",
+        "es": "Dubbo",
+        "es:t": "Australia | Dubbo City Council",
+        "de": "Dubbo",
+        "de:t": "Australien | Dubbo City Council"
+    },
+    {
+        "en": "Earlwood",
+        "en:t": "Australia | Canterbury City Council",
+        "a": true,
+        "g": {
+            "lat": -33.9202,
+            "lon": 151.1268
+        },
+        "it": "Earlwood",
+        "it:t": "Australia | Citt\u00e0 di Canterbury",
+        "es": "Earlwood",
+        "es:t": "Australia | Canterbury City Council",
+        "de": "Earlwood",
+        "de:t": "Australien | Canterbury City"
+    },
+    {
+        "en": "Echuca",
+        "en:t": "Australia | Campaspe Shire",
+        "a": true,
+        "g": {
+            "lat": -36.146,
+            "lon": 144.7448
+        },
+        "it": "Echuca",
+        "it:t": "Australia | Campaspe Shire",
+        "es": "Echuca",
+        "es:t": "Australia | Campaspe Shire",
+        "de": "Echuca",
+        "de:t": "Australien | Campaspe Shire"
+    },
+    {
+        "en": "Eltham",
+        "en:t": "Australia | Nillumbik Shire",
+        "a": true,
+        "g": {
+            "lat": -37.715,
+            "lon": 145.158
+        },
+        "it": "Eltham",
+        "it:t": "Australia | Nillumbik Shire",
+        "es": "Eltham",
+        "es:t": "Australia | Nillumbik Shire",
+        "de": "Eltham",
+        "de:t": "Australien | Nillumbik Shire"
+    },
+    {
+        "en": "Engadine",
+        "en:t": "Australia | Sutherland Shire",
+        "a": true,
+        "g": {
+            "lat": -34.0657,
+            "lon": 151.0127
+        },
+        "it": "Engadine",
+        "it:t": "Australia | Sutherland Shire",
+        "es": "Engadine",
+        "es:t": "Australia | Sutherland Shire",
+        "de": "Engadine",
+        "de:t": "Australien | Sutherland Shire"
+    },
+    {
+        "en": "Epping",
+        "en:t": "Australia | New South Wales",
+        "a": true,
+        "g": {
+            "lat": -33.7746,
+            "lon": 151.0788
+        },
+        "it": "Epping",
+        "it:t": "Australia | New South Wales",
+        "es": "Epping",
+        "es:t": "Australia | New South Wales",
+        "de": "Epping",
+        "de:t": "Australien | New South Wales"
+    },
+    {
+        "en": "Epping",
+        "en:t": "Australia | Whittlesea City",
+        "a": true,
+        "g": {
+            "lat": -37.638,
+            "lon": 145.01
+        },
+        "it": "Epping",
+        "it:t": "Australia | Whittlesea City",
+        "es": "Epping",
+        "es:t": "Australia | Whittlesea City",
+        "de": "Epping",
+        "de:t": "Australien | Whittlesea City"
+    },
+    {
+        "en": "Essendon",
+        "en:t": "Australia | Moonee Valley City",
+        "a": true,
+        "g": {
+            "lat": -37.749,
+            "lon": 144.912
+        },
+        "it": "Essendon",
+        "it:t": "Australia | Moonee Valley City",
+        "es": "Essendon",
+        "es:t": "Australia | Moonee Valley City",
+        "de": "Essendon",
+        "de:t": "Australien | Moonee Valley City"
+    },
+    {
+        "en": "Forster",
+        "en:t": "Australia | Great Lakes Council",
+        "a": true,
+        "g": {
+            "lat": -32.1806,
+            "lon": 152.5117
+        },
+        "it": "Forster",
+        "it:t": "Australia | Great Lakes Council",
+        "es": "Forster",
+        "es:t": "Australia | Great Lakes Council",
+        "de": "Forster",
+        "de:t": "Australien | Great Lakes Council"
+    },
+    {
+        "en": "Frankston",
+        "en:t": "Australia | Frankston City",
+        "a": true,
+        "g": {
+            "lat": -38.158,
+            "lon": 145.135
+        },
+        "it": "Frankston",
+        "it:t": "Australia | Frankston City",
+        "es": "Frankston",
+        "es:t": "Australia | Frankston City",
+        "de": "Frankston",
+        "de:t": "Australien | Frankston City"
+    },
+    {
+        "en": "Fremantle",
+        "en:t": "Australia | City of Fremantle",
+        "a": true,
+        "g": {
+            "lat": -32.0518,
+            "lon": 115.7551
+        },
+        "it": "Citt\u00e0 di Fremantle",
+        "it:t": "Australia",
+        "es": "Fremantle",
+        "es:t": "Australia | City of Fremantle",
+        "de": "Fremantle City",
+        "de:t": "Australien"
+    },
+    {
+        "en": "Gawler",
+        "en:t": "Australia | Town of Gawler",
+        "a": true,
+        "g": {
+            "lat": -34.5974,
+            "lon": 138.7449
+        },
+        "it": "Gawler",
+        "it:t": "Australia | Citt\u00e0 di Gawler",
+        "es": "Gawler",
+        "es:t": "Australia | Town of Gawler",
+        "de": "Gawler",
+        "de:t": "Australien | Town of Gawler"
+    },
+    {
+        "en": "Geelong",
+        "en:t": "Australia | Greater Geelong City",
+        "a": true,
+        "g": {
+            "lat": -38.1499,
+            "lon": 144.3617
+        },
+        "it": "Geelong",
+        "it:t": "Australia | Citt\u00e0 di Greater Geelong",
+        "es": "Geelong",
+        "es:t": "Australia | Ciudad de Greater Geelong",
+        "de": "Geelong",
+        "de:t": "Australien | Greater Geelong City"
+    },
+    {
+        "en": "Geraldton",
+        "en:t": "Australia | City of Greater Geraldton",
+        "a": true,
+        "g": {
+            "lat": -28.7797,
+            "lon": 114.6144
+        },
+        "it": "Geraldton",
+        "it:t": "Australia | Citt\u00e0 di Greater Geraldton",
+        "es": "Geraldton",
+        "es:t": "Australia | City of Greater Geraldton",
+        "de": "Geraldton",
+        "de:t": "Australien | City of Greater Geraldton"
+    },
+    {
+        "en": "Gladstone Central",
+        "en:t": "Australia | Gladstone Regional",
+        "a": true,
+        "g": {
+            "lat": -23.8416,
+            "lon": 151.2498
+        },
+        "it": "Gladstone",
+        "it:t": "Australia | Gladstone Regional",
+        "es": "Gladstone",
+        "es:t": "Australia | Gladstone Regional",
+        "de": "Gladstone",
+        "de:t": "Australien | Gladstone Regional"
+    },
+    {
+        "en": "Glenferrie Road",
+        "en:t": "Australia | Melbourne",
+        "a": true,
+        "g": {
+            "lat": -37.837,
+            "lon": 145.0327
+        },
+        "it": "Glenferrie Road",
+        "it:t": "Australia | Melbourne",
+        "es": "Glenferrie Road",
+        "es:t": "Australia | Melbourne",
+        "de": "Glenferrie Road",
+        "de:t": "Australien | Melbourne"
+    },
+    {
+        "en": "Glenroy",
+        "en:t": "Australia | Moreland City",
+        "a": true,
+        "g": {
+            "lat": -37.706,
+            "lon": 144.924
+        },
+        "it": "Glenroy",
+        "it:t": "Australia | Moreland City",
+        "es": "Glenroy",
+        "es:t": "Australia | Moreland City",
+        "de": "Glenroy",
+        "de:t": "Australien | Moreland City"
+    },
+    {
+        "en": "Gold Coast",
+        "en:t": "Australia | City of Gold Coast",
+        "a": true,
+        "g": {
+            "lat": -28.0167,
+            "lon": 153.4
+        },
+        "it": "Gold Coast",
+        "it:t": "Australia | Citt\u00e0 di Gold Coast",
+        "es": "Gold Coast",
+        "es:t": "Australia | City of Gold Coast",
+        "de": "Gold Coast",
+        "de:t": "Australien | Gold Coast City"
+    },
+    {
+        "en": "Gosnells",
+        "en:t": "Australia | City of Gosnells",
+        "a": true,
+        "g": {
+            "lat": -32.0823,
+            "lon": 115.9903
+        },
+        "it": "Gosnells",
+        "it:t": "Australia | Citt\u00e0 di Gosnells",
+        "es": "Ciudad de Gosnells",
+        "es:t": "Australia",
+        "de": "Gosnells City",
+        "de:t": "Australien"
+    },
+    {
+        "en": "Goulburn",
+        "en:t": "Australia | Goulburn Mulwaree Council",
+        "a": true,
+        "g": {
+            "lat": -34.7479,
+            "lon": 149.7277
+        },
+        "it": "Goulburn",
+        "it:t": "Australia | Municipalit\u00e0 di Goulburn Mulwaree",
+        "es": "Goulburn",
+        "es:t": "Australia | Goulburn Mulwaree Council",
+        "de": "Goulburn",
+        "de:t": "Australien | Goulburn Mulwaree Council"
+    },
+    {
+        "en": "Granville",
+        "en:t": "Australia | New South Wales",
+        "a": true,
+        "g": {
+            "lat": -33.8404,
+            "lon": 151.0079
+        },
+        "it": "Granville",
+        "it:t": "Australia | New South Wales",
+        "es": "Granville",
+        "es:t": "Australia | New South Wales",
+        "de": "Granville",
+        "de:t": "Australien | New South Wales"
+    },
+    {
+        "en": "Greensborough",
+        "en:t": "Australia | Victoria",
+        "a": true,
+        "g": {
+            "lat": -37.686,
+            "lon": 145.117
+        },
+        "it": "Greensborough",
+        "it:t": "Australia | Victoria",
+        "es": "Greensborough",
+        "es:t": "Australia | Victoria",
+        "de": "Greensborough",
+        "de:t": "Australien | Victoria"
+    },
+    {
+        "en": "Griffith",
+        "en:t": "Australia | Griffith City Council",
+        "a": true,
+        "g": {
+            "lat": -34.2801,
+            "lon": 146.0455
+        },
+        "it": "Citt\u00e0 di Griffith",
+        "it:t": "Australia | Griffith City Council",
+        "es": "Griffith",
+        "es:t": "Australia | Griffith City Council",
+        "de": "Griffith City",
+        "de:t": "Australien | Griffith City Council"
+    },
+    {
+        "en": "Hampton Park",
+        "en:t": "Australia | City of Casey",
+        "a": true,
+        "g": {
+            "lat": -38.029,
+            "lon": 145.26
+        },
+        "it": "Hampton Park",
+        "it:t": "Australia | City of Casey",
+        "es": "Hampton Park",
+        "es:t": "Australia | City of Casey",
+        "de": "Hampton Park",
+        "de:t": "Australien | City of Casey"
+    },
+    {
+        "en": "Hawthorn",
+        "en:t": "Australia | Boroondara City",
+        "a": true,
+        "g": {
+            "lat": -37.8226,
+            "lon": 145.0354
+        },
+        "it": "Hawthorn",
+        "it:t": "Australia | Boroondara City",
+        "es": "Hawthorn",
+        "es:t": "Australia | Boroondara City",
+        "de": "Hawthorn",
+        "de:t": "Australien | Boroondara City"
+    },
+    {
+        "en": "Hobart",
+        "en:t": "Australia | Tasmania",
+        "a": true,
+        "g": {
+            "lat": -42.8821,
+            "lon": 147.3272
+        },
+        "it": "Hobart",
+        "it:t": "Australia | Tasmania",
+        "es": "Hobart",
+        "es:t": "Australia | Tasmania",
+        "de": "Hobart",
+        "de:t": "Australien | Tasmanien"
+    },
+    {
+        "en": "Hornsby",
+        "en:t": "Australia | The Council of the Shire of Hornsby",
+        "a": true,
+        "g": {
+            "lat": -33.7049,
+            "lon": 151.099
+        },
+        "it": "Hornsby",
+        "it:t": "Australia | The Council of the Shire of Hornsby",
+        "es": "Hornsby",
+        "es:t": "Australia | The Council of the Shire of Hornsby",
+        "de": "Hornsby",
+        "de:t": "Australien | Hornsby Shire"
+    },
+    {
+        "en": "Kalgoorlie - Boulder",
+        "en:t": "Australia | City of Kalgoorlie-Boulder",
+        "a": true,
+        "g": {
+            "lat": -30.749,
+            "lon": 121.466
+        },
+        "it": "Citt\u00e0 di Kalgoorlie-Boulder",
+        "it:t": "Australia | City of Kalgoorlie-Boulder",
+        "es": "Kalgoorlie",
+        "es:t": "Australia | City of Kalgoorlie-Boulder",
+        "de": "Kalgoorlie-Boulder City",
+        "de:t": "Australien | City of Kalgoorlie-Boulder"
+    },
+    {
+        "en": "Katoomba",
+        "en:t": "Australia | Blue Mountains City Council",
+        "a": true,
+        "g": {
+            "lat": -33.7125,
+            "lon": 150.3119
+        },
+        "it": "Katoomba",
+        "it:t": "Australia | Citt\u00e0 di Blue Mountains",
+        "es": "Katoomba",
+        "es:t": "Australia | Blue Mountains City Council",
+        "de": "Katoomba",
+        "de:t": "Australien | Blue Mountains City"
+    },
+    {
+        "en": "Kew",
+        "en:t": "Australia | Boroondara City",
+        "a": true,
+        "g": {
+            "lat": -37.8053,
+            "lon": 145.0358
+        },
+        "it": "Kew",
+        "it:t": "Australia | Boroondara City",
+        "es": "Kew",
+        "es:t": "Australia | Boroondara City",
+        "de": "Kew",
+        "de:t": "Australien | Boroondara City"
+    },
+    {
+        "en": "Keysborough",
+        "en:t": "Australia | Greater Dandenong City",
+        "a": true,
+        "g": {
+            "lat": -37.989,
+            "lon": 145.172
+        },
+        "it": "Keysborough",
+        "it:t": "Australia | Greater Dandenong City",
+        "es": "Keysborough",
+        "es:t": "Australia | Greater Dandenong City",
+        "de": "Keysborough",
+        "de:t": "Australien | Greater Dandenong City"
+    },
+    {
+        "en": "Kwinana Beach",
+        "en:t": "Australia | City of Kwinana",
+        "a": true,
+        "g": {
+            "lat": -32.2261,
+            "lon": 115.7764
+        },
+        "it": "Kwinana",
+        "it:t": "Australia | Citt\u00e0 di Kwinana",
+        "es": "Kwinana Beach",
+        "es:t": "Australia | City of Kwinana",
+        "de": "Kwinana",
+        "de:t": "Australien | Kwinana City"
+    },
+    {
+        "en": "Lalor",
+        "en:t": "Australia | Whittlesea City",
+        "a": true,
+        "g": {
+            "lat": -37.667,
+            "lon": 145.02
+        },
+        "it": "Lalor",
+        "it:t": "Australia | Whittlesea City",
+        "es": "Lalor",
+        "es:t": "Australia | Whittlesea City",
+        "de": "Lalor",
+        "de:t": "Australien | Whittlesea City"
+    },
+    {
+        "en": "Langwarrin",
+        "en:t": "Australia | Frankston City",
+        "a": true,
+        "g": {
+            "lat": -38.151,
+            "lon": 145.181
+        },
+        "it": "Langwarrin",
+        "it:t": "Australia | Frankston City",
+        "es": "Langwarrin",
+        "es:t": "Australia | Frankston City",
+        "de": "Langwarrin Flora and Fauna reserve",
+        "de:t": "Australien | Frankston City"
+    },
+    {
+        "en": "Lara",
+        "en:t": "Australia | Greater Geelong City",
+        "a": true,
+        "g": {
+            "lat": -38.0167,
+            "lon": 144.4167
+        },
+        "it": "Lara",
+        "it:t": "Australia | Greater Geelong City",
+        "es": "Lara",
+        "es:t": "Australia | Greater Geelong City",
+        "de": "Lara",
+        "de:t": "Australien | Greater Geelong City"
+    },
+    {
+        "en": "Launceston",
+        "en:t": "Australia | Launceston City Council",
+        "a": true,
+        "g": {
+            "lat": -41.4332,
+            "lon": 147.1441
+        },
+        "it": "Launceston",
+        "it:t": "Australia | Launceston City Council",
+        "es": "Launceston",
+        "es:t": "Australia | Launceston City Council",
+        "de": "Launceston",
+        "de:t": "Australien | Launceston City Council"
+    },
+    {
+        "en": "Lilydale",
+        "en:t": "Australia | Yarra Ranges Shire",
+        "a": true,
+        "g": {
+            "lat": -37.758,
+            "lon": 145.35
+        },
+        "it": "Lilydale",
+        "it:t": "Australia | Yarra Ranges Shire",
+        "es": "Lilydale",
+        "es:t": "Australia | Yarra Ranges Shire",
+        "de": "Lilydale",
+        "de:t": "Australien | Yarra Ranges Shire"
+    },
+    {
+        "en": "Lismore",
+        "en:t": "Australia | Lismore City Council",
+        "a": true,
+        "g": {
+            "lat": -28.8093,
+            "lon": 153.2883
+        },
+        "it": "Lismore",
+        "it:t": "Australia | Lismore City Council",
+        "es": "Lismore",
+        "es:t": "Australia | Lismore City Council",
+        "de": "Lismore",
+        "de:t": "Australien | Lismore City Council"
+    },
+    {
+        "en": "Liverpool",
+        "en:t": "Australia | City of Liverpool",
+        "a": true,
+        "g": {
+            "lat": -33.9209,
+            "lon": 150.9231
+        },
+        "it": "Liverpool",
+        "it:t": "Australia | Citt\u00e0 di Liverpool",
+        "es": "Liverpool",
+        "es:t": "Australia | City of Liverpool",
+        "de": "Liverpool",
+        "de:t": "Australien | City of Liverpool"
+    },
+    {
+        "en": "Mackay",
+        "en:t": "Australia | Mackay Regional",
+        "a": true,
+        "g": {
+            "lat": -21.1425,
+            "lon": 149.1821
+        },
+        "it": "Mackay",
+        "it:t": "Australia | Regione di Mackay",
+        "es": "Mackay",
+        "es:t": "Australia | Mackay Regional",
+        "de": "Mackay",
+        "de:t": "Australien | Mackay Region"
+    },
+    {
+        "en": "Maitland",
+        "en:t": "Australia | Maitland City Council",
+        "a": true,
+        "g": {
+            "lat": -32.7384,
+            "lon": 151.5492
+        },
+        "it": "Maitland",
+        "it:t": "Australia | Maitland City Council",
+        "es": "Maitland",
+        "es:t": "Australia | Maitland City Council",
+        "de": "Maitland",
+        "de:t": "Australien | Maitland City"
+    },
+    {
+        "en": "Mandurah",
+        "en:t": "Australia | Western Australia",
+        "a": true,
+        "g": {
+            "lat": -32.5361,
+            "lon": 115.7424
+        },
+        "it": "Mandurah",
+        "it:t": "Australia | Australia Occidentale",
+        "es": "Mandurah",
+        "es:t": "Australia | Australia Occidental",
+        "de": "Mandurah",
+        "de:t": "Australien | Western Australia"
+    },
+    {
+        "en": "Maroubra",
+        "en:t": "Australia | Randwick City Council",
+        "a": true,
+        "g": {
+            "lat": -33.9495,
+            "lon": 151.2437
+        },
+        "it": "Maroubra",
+        "it:t": "Australia | Randwick City Council",
+        "es": "Maroubra",
+        "es:t": "Australia | Randwick City Council",
+        "de": "Maroubra",
+        "de:t": "Australien | Randwick City Council"
+    },
+    {
+        "en": "Marrickville",
+        "en:t": "Australia | Inner West Council",
+        "a": true,
+        "g": {
+            "lat": -33.9051,
+            "lon": 151.1551
+        },
+        "it": "Marrickville",
+        "it:t": "Australia | Inner West Council",
+        "es": "Marrickville",
+        "es:t": "Australia | Inner West Council",
+        "de": "Marrickville",
+        "de:t": "Australien | Inner West Council"
+    },
+    {
+        "en": "Maryborough",
+        "en:t": "Australia | Fraser Coast Regional",
+        "a": true,
+        "g": {
+            "lat": -25.5233,
+            "lon": 152.6971
+        },
+        "it": "Maryborough",
+        "it:t": "Australia | Regione di Fraser Coast",
+        "es": "Maryborough",
+        "es:t": "Australia | Fraser Coast Regional",
+        "de": "Maryborough",
+        "de:t": "Australien | Fraser Coast Regional"
+    },
+    {
+        "en": "Melbourne",
+        "en:t": "Australia | Victoria",
+        "a": true,
+        "g": {
+            "lat": -37.8136,
+            "lon": 144.9631
+        },
+        "it": "Melbourne",
+        "it:t": "Australia | Victoria",
+        "es": "Melbourne",
+        "es:t": "Australia | Victoria",
+        "de": "Melbourne",
+        "de:t": "Australien | Victoria"
+    },
+    {
+        "en": "Melton",
+        "en:t": "Australia | Melton City",
+        "a": true,
+        "g": {
+            "lat": -37.6691,
+            "lon": 144.5437
+        },
+        "it": "Melton",
+        "it:t": "Australia | Melton City",
+        "es": "Melton",
+        "es:t": "Australia | Melton City",
+        "de": "Melton",
+        "de:t": "Australien | Melton City"
+    },
+    {
+        "en": "Mildura",
+        "en:t": "Australia | Mildura Rural City",
+        "a": true,
+        "g": {
+            "lat": -34.208,
+            "lon": 142.1246
+        },
+        "it": "Mildura",
+        "it:t": "Australia | Citt\u00e0 Rurale di Mildura",
+        "es": "Mildura",
+        "es:t": "Australia | Mildura Rural City",
+        "de": "Mildura",
+        "de:t": "Australien | Mildura Rural City"
+    },
+    {
+        "en": "Mill Park",
+        "en:t": "Australia | Whittlesea City",
+        "a": true,
+        "g": {
+            "lat": -37.671,
+            "lon": 145.062
+        },
+        "it": "Mill Park",
+        "it:t": "Australia | Whittlesea City",
+        "es": "Mill Park",
+        "es:t": "Australia | Whittlesea City",
+        "de": "Mill Park",
+        "de:t": "Australien | Whittlesea City"
+    },
+    {
+        "en": "Moe",
+        "en:t": "Australia | Victoria",
+        "a": true,
+        "g": {
+            "lat": -38.1722,
+            "lon": 146.2678
+        },
+        "it": "Moe",
+        "it:t": "Australia | Victoria",
+        "es": "Moe",
+        "es:t": "Australia | Victoria",
+        "de": "Moe",
+        "de:t": "Australien | Victoria"
+    },
+    {
+        "en": "Morayfield",
+        "en:t": "Australia | Moreton Bay Region",
+        "a": true,
+        "g": {
+            "lat": -27.1053,
+            "lon": 152.9475
+        },
+        "it": "Morayfield",
+        "it:t": "Australia | Moreton Bay Region",
+        "es": "Morayfield",
+        "es:t": "Australia | Moreton Bay Region",
+        "de": "Morayfield",
+        "de:t": "Australien | Moreton Bay Region"
+    },
+    {
+        "en": "Mornington",
+        "en:t": "Australia | Shire of Mornington Peninsula",
+        "a": true,
+        "g": {
+            "lat": -38.228,
+            "lon": 145.062
+        },
+        "it": "Mornington",
+        "it:t": "Australia | Shire of Mornington Peninsula",
+        "es": "Mornington",
+        "es:t": "Australia | Shire of Mornington Peninsula",
+        "de": "Mornington",
+        "de:t": "Australien | Shire of Mornington Peninsula"
+    },
+    {
+        "en": "Morphett Vale",
+        "en:t": "Australia | City of Onkaparinga",
+        "a": true,
+        "g": {
+            "lat": -35.118,
+            "lon": 138.529
+        },
+        "it": "Morphett Vale",
+        "it:t": "Australia | City of Onkaparinga",
+        "es": "Morphett Vale",
+        "es:t": "Australia | City of Onkaparinga",
+        "de": "Morphett Vale",
+        "de:t": "Australien | City of Onkaparinga"
+    },
+    {
+        "en": "Mosman",
+        "en:t": "Australia | New South Wales",
+        "a": true,
+        "g": {
+            "lat": -33.8291,
+            "lon": 151.2441
+        },
+        "it": "Mosman",
+        "it:t": "Australia | Nuovo Galles del Sud",
+        "es": "Mosman",
+        "es:t": "Australia | Nueva Gales del Sur",
+        "de": "Mosman",
+        "de:t": "Australien | New South Wales"
+    },
+    {
+        "en": "Mount Eliza",
+        "en:t": "Australia | Shire of Mornington Peninsula",
+        "a": true,
+        "g": {
+            "lat": -38.189,
+            "lon": 145.092
+        },
+        "it": "Mount Eliza",
+        "it:t": "Australia | Shire of Mornington Peninsula",
+        "es": "Mount Eliza",
+        "es:t": "Australia | Shire of Mornington Peninsula",
+        "de": "Mount Eliza",
+        "de:t": "Australien | Shire of Mornington Peninsula"
+    },
+    {
+        "en": "Mount Gambier",
+        "en:t": "Australia | City of Mount Gambier",
+        "a": true,
+        "g": {
+            "lat": -37.8284,
+            "lon": 140.7804
+        },
+        "it": "Mount Gambier",
+        "it:t": "Australia | Citt\u00e0 di Mount Gambier",
+        "es": "Mount Gambier",
+        "es:t": "Australia | City of Mount Gambier",
+        "de": "Mount Gambier",
+        "de:t": "Australien | Mount Gambier City"
+    },
+    {
+        "en": "Mount Isa",
+        "en:t": "Australia | Mount Isa City",
+        "a": true,
+        "g": {
+            "lat": -20.7256,
+            "lon": 139.4927
+        },
+        "it": "Citt\u00e0 di Mount Isa",
+        "it:t": "Australia | Mount Isa City",
+        "es": "Mount Isa",
+        "es:t": "Australia | Mount Isa City",
+        "de": "Mount Isa City",
+        "de:t": "Australien"
+    },
+    {
+        "en": "Mount Martha",
+        "en:t": "Australia | Shire of Mornington Peninsula",
+        "a": true,
+        "g": {
+            "lat": -38.267,
+            "lon": 145.018
+        },
+        "it": "Mount Martha",
+        "it:t": "Australia | Shire of Mornington Peninsula",
+        "es": "Mount Martha",
+        "es:t": "Australia | Shire of Mornington Peninsula",
+        "de": "Mount Martha",
+        "de:t": "Australien | Shire of Mornington Peninsula"
+    },
+    {
+        "en": "Mulgrave",
+        "en:t": "Australia | Monash City",
+        "a": true,
+        "g": {
+            "lat": -37.9187,
+            "lon": 145.1588
+        },
+        "it": "Mulgrave",
+        "it:t": "Australia | Monash City",
+        "es": "Mulgrave",
+        "es:t": "Australia | Monash City",
+        "de": "Mulgrave",
+        "de:t": "Australien | Monash City"
+    },
+    {
+        "en": "Murray Bridge",
+        "en:t": "Australia | The Rural City of Murray Bridge",
+        "a": true,
+        "g": {
+            "lat": -35.1311,
+            "lon": 139.2651
+        },
+        "it": "Murray Bridge",
+        "it:t": "Australia | Citt\u00e0 rurale di Murray Bridge",
+        "es": "Murray Bridge",
+        "es:t": "Australia | The Rural City of Murray Bridge",
+        "de": "Murray Bridge",
+        "de:t": "Australien | Murray Bridge Rural City"
+    },
+    {
+        "en": "Narangba",
+        "en:t": "Australia | Moreton Bay Region",
+        "a": true,
+        "g": {
+            "lat": -27.2015,
+            "lon": 152.9655
+        },
+        "it": "Narangba",
+        "it:t": "Australia | Moreton Bay Region",
+        "es": "Narangba",
+        "es:t": "Australia | Moreton Bay Region",
+        "de": "Narangba",
+        "de:t": "Australien | Moreton Bay Region"
+    },
+    {
+        "en": "Narre Warren",
+        "en:t": "Australia | City of Casey",
+        "a": true,
+        "g": {
+            "lat": -38.018,
+            "lon": 145.3
+        },
+        "it": "Narre Warren",
+        "it:t": "Australia | City of Casey",
+        "es": "Narre Warren",
+        "es:t": "Australia | City of Casey",
+        "de": "Narre Warren",
+        "de:t": "Australien | Casey City"
+    },
+    {
+        "en": "Nerang",
+        "en:t": "Australia | City of Gold Coast",
+        "a": true,
+        "g": {
+            "lat": -27.9956,
+            "lon": 153.3222
+        },
+        "it": "Nerang",
+        "it:t": "Australia | City of Gold Coast",
+        "es": "Nerang",
+        "es:t": "Australia | City of Gold Coast",
+        "de": "Nerang",
+        "de:t": "Australien | City of Gold Coast"
+    },
+    {
+        "en": "Newcastle",
+        "en:t": "Australia | New South Wales",
+        "a": true,
+        "g": {
+            "lat": -32.9283,
+            "lon": 151.7817
+        },
+        "it": "Newcastle",
+        "it:t": "Australia | Nuovo Galles del Sud",
+        "es": "Newcastle",
+        "es:t": "Australia | Nueva Gales del Sur",
+        "de": "Newcastle",
+        "de:t": "Australien | New South Wales"
+    },
+    {
+        "en": "Noble Park",
+        "en:t": "Australia | Greater Dandenong City",
+        "a": true,
+        "g": {
+            "lat": -37.967,
+            "lon": 145.176
+        },
+        "it": "Noble Park",
+        "it:t": "Australia | Greater Dandenong City",
+        "es": "Noble Park",
+        "es:t": "Australia | Greater Dandenong City",
+        "de": "Noble Park",
+        "de:t": "Australien | Greater Dandenong City"
+    },
+    {
+        "en": "Northcote",
+        "en:t": "Australia | Darebin City",
+        "a": true,
+        "g": {
+            "lat": -37.7722,
+            "lon": 144.9994
+        },
+        "it": "Northcote",
+        "it:t": "Australia | Darebin City",
+        "es": "Northcote",
+        "es:t": "Australia | Darebin City",
+        "de": "Northcote",
+        "de:t": "Australien | Darebin City"
+    },
+    {
+        "en": "Nowra",
+        "en:t": "Australia | City of Shoalhaven",
+        "a": true,
+        "g": {
+            "lat": -34.8833,
+            "lon": 150.6
+        },
+        "it": "Nowra",
+        "it:t": "Australia | City of Shoalhaven",
+        "es": "Nowra",
+        "es:t": "Australia | City of Shoalhaven",
+        "de": "Nowra",
+        "de:t": "Australien | Shoalhaven City"
+    },
+    {
+        "en": "Orange",
+        "en:t": "Australia | New South Wales",
+        "a": true,
+        "g": {
+            "lat": -33.2833,
+            "lon": 149.1
+        },
+        "it": "Citt\u00e0 di Orange",
+        "it:t": "Australia | Nuovo Galles del Sud",
+        "es": "Orange",
+        "es:t": "Australia | Nueva Gales del Sur",
+        "de": "Orange City",
+        "de:t": "Australien | New South Wales"
+    },
+    {
+        "en": "Pakenham South",
+        "en:t": "Australia | Cardinia Shire",
+        "a": true,
+        "g": {
+            "lat": -38.1343,
+            "lon": 145.5026
+        },
+        "it": "Pakenham South",
+        "it:t": "Australia | Cardinia Shire",
+        "es": "Pakenham South",
+        "es:t": "Australia | Cardinia Shire",
+        "de": "Pakenham South",
+        "de:t": "Australien | Cardinia Shire"
+    },
+    {
+        "en": "Perth",
+        "en:t": "Australia | Western Australia",
+        "a": true,
+        "g": {
+            "lat": -31.9505,
+            "lon": 115.8605
+        },
+        "it": "Perth",
+        "it:t": "Australia | Australia Occidentale",
+        "es": "Perth",
+        "es:t": "Australia | Australia Occidental",
+        "de": "Perth",
+        "de:t": "Australien | Western Australia"
+    },
+    {
+        "en": "Point Cook",
+        "en:t": "Australia | City of Wyndham",
+        "a": true,
+        "g": {
+            "lat": -37.9178,
+            "lon": 144.7477
+        },
+        "it": "Point Cook",
+        "it:t": "Australia | City of Wyndham",
+        "es": "Point Cook",
+        "es:t": "Australia | City of Wyndham",
+        "de": "Point Cook",
+        "de:t": "Australien | City of Wyndham"
+    },
+    {
+        "en": "Port Hedland",
+        "en:t": "Australia | Town of Port Hedland",
+        "a": true,
+        "g": {
+            "lat": -20.3839,
+            "lon": 118.6484
+        },
+        "it": "Port Hedland",
+        "it:t": "Australia | Citt\u00e0 di Port Hedland",
+        "es": "Port Hedland",
+        "es:t": "Australia | Town of Port Hedland",
+        "de": "Port Hedland",
+        "de:t": "Australien | Port Hedland Town"
+    },
+    {
+        "en": "Port Macquarie",
+        "en:t": "Australia | Port Macquarie-Hastings Council",
+        "a": true,
+        "g": {
+            "lat": -31.4333,
+            "lon": 152.9
+        },
+        "it": "Port Macquarie",
+        "it:t": "Australia | Port Macquarie-Hastings Council",
+        "es": "Port Macquarie",
+        "es:t": "Australia | Port Macquarie-Hastings Council",
+        "de": "Port Macquarie",
+        "de:t": "Australien | Port Macquarie-Hastings Council"
+    },
+    {
+        "en": "Port Stephens",
+        "en:t": "Australia | New South Wales",
+        "a": true,
+        "g": {
+            "lat": -32.7171,
+            "lon": 152.1049
+        },
+        "it": "Port Stephens",
+        "it:t": "Australia | New South Wales",
+        "es": "Port Stephens",
+        "es:t": "Australia | New South Wales",
+        "de": "Port Stephens",
+        "de:t": "Australien | New South Wales"
+    },
+    {
+        "en": "Preston",
+        "en:t": "Australia | Darebin City",
+        "a": true,
+        "g": {
+            "lat": -37.743,
+            "lon": 145.008
+        },
+        "it": "Preston",
+        "it:t": "Australia | Darebin City",
+        "es": "Preston",
+        "es:t": "Australia | Darebin City",
+        "de": "Preston",
+        "de:t": "Australien | Darebin City"
+    },
+    {
+        "en": "Prospect",
+        "en:t": "Australia | City of Prospect",
+        "a": true,
+        "g": {
+            "lat": -34.884,
+            "lon": 138.594
+        },
+        "it": "Prospect",
+        "it:t": "Australia | Citt\u00e0 di Prospect",
+        "es": "Prospect",
+        "es:t": "Australia | Ciudad de Prospect",
+        "de": "Prospect",
+        "de:t": "Australien | Prospect City"
+    },
+    {
+        "en": "Quakers Hill",
+        "en:t": "Australia | City of Blacktown",
+        "a": true,
+        "g": {
+            "lat": -33.7242,
+            "lon": 150.889
+        },
+        "it": "Quakers Hill",
+        "it:t": "Australia | City of Blacktown",
+        "es": "Quakers Hill",
+        "es:t": "Australia | City of Blacktown",
+        "de": "Quakers Hill",
+        "de:t": "Australien | City of Blacktown"
+    },
+    {
+        "en": "Queanbeyan",
+        "en:t": "Australia | Queanbeyan City Council",
+        "a": true,
+        "g": {
+            "lat": -35.353,
+            "lon": 149.2309
+        },
+        "it": "Queanbeyan",
+        "it:t": "Australia | Citt\u00e0 di Queanbeyan",
+        "es": "Queanbeyan",
+        "es:t": "Australia | Queanbeyan City Council",
+        "de": "Queanbeyan",
+        "de:t": "Australien | Queanbeyan City"
+    },
+    {
+        "en": "Randwick",
+        "en:t": "Australia | Randwick City Council",
+        "a": true,
+        "g": {
+            "lat": -33.9164,
+            "lon": 151.2365
+        },
+        "it": "Randwick",
+        "it:t": "Australia | Citt\u00e0 di Randwick",
+        "es": "Randwick",
+        "es:t": "Australia | Randwick City Council",
+        "de": "Randwick",
+        "de:t": "Australien | Randwick City"
+    },
+    {
+        "en": "Reservoir",
+        "en:t": "Australia | Darebin City",
+        "a": true,
+        "g": {
+            "lat": -37.7131,
+            "lon": 145.0119
+        },
+        "it": "Reservoir",
+        "it:t": "Australia | Darebin City",
+        "es": "Reservoir",
+        "es:t": "Australia | Darebin City",
+        "de": "Reservoir",
+        "de:t": "Australien | Darebin City"
+    },
+    {
+        "en": "Richmond",
+        "en:t": "Australia | City of Yarra",
+        "a": true,
+        "g": {
+            "lat": -37.823,
+            "lon": 144.998
+        },
+        "it": "Richmond",
+        "it:t": "Australia | City of Yarra",
+        "es": "Richmond",
+        "es:t": "Australia | City of Yarra",
+        "de": "Richmond",
+        "de:t": "Australien | Yarra City"
+    },
+    {
+        "en": "Rockhampton",
+        "en:t": "Australia | Rockhampton Regional",
+        "a": true,
+        "g": {
+            "lat": -23.3791,
+            "lon": 150.51
+        },
+        "it": "Rockhampton",
+        "it:t": "Australia | Regione di Rockhampton",
+        "es": "Rockhampton",
+        "es:t": "Australia | Rockhampton Regional",
+        "de": "Rockhampton",
+        "de:t": "Australien | Rockhampton Region"
+    },
+    {
+        "en": "Rockingham",
+        "en:t": "Australia | City of Rockingham",
+        "a": true,
+        "g": {
+            "lat": -32.2781,
+            "lon": 115.7351
+        },
+        "it": "Rockingham",
+        "it:t": "Australia | Citt\u00e0 di Rockingham",
+        "es": "Rockingham",
+        "es:t": "Australia | City of Rockingham",
+        "de": "Rockingham",
+        "de:t": "Australien | Rockingham City"
+    },
+    {
+        "en": "Rowville",
+        "en:t": "Australia | City of Knox",
+        "a": true,
+        "g": {
+            "lat": -37.937,
+            "lon": 145.229
+        },
+        "it": "Rowville",
+        "it:t": "Australia | City of Knox",
+        "es": "Rowville",
+        "es:t": "Australia | City of Knox",
+        "de": "Rowville",
+        "de:t": "Australien | City of Knox"
+    },
+    {
+        "en": "Saint Albans",
+        "en:t": "Australia | Brimbank City",
+        "a": true,
+        "g": {
+            "lat": -37.7361,
+            "lon": 144.8039
+        },
+        "it": "Saint Albans",
+        "it:t": "Australia | Brimbank City",
+        "es": "Saint Albans",
+        "es:t": "Australia | Brimbank City",
+        "de": "Sankt Albans",
+        "de:t": "Australien | Brimbank City"
+    },
+    {
+        "en": "Seaford",
+        "en:t": "Australia | Frankston City",
+        "a": true,
+        "g": {
+            "lat": -38.105,
+            "lon": 145.132
+        },
+        "it": "Seaford",
+        "it:t": "Australia | Frankston City",
+        "es": "Seaford",
+        "es:t": "Australia | Frankston City",
+        "de": "Seaford",
+        "de:t": "Australien | Frankston City"
+    },
+    {
+        "en": "Shepparton",
+        "en:t": "Australia | Greater Shepparton City",
+        "a": true,
+        "g": {
+            "lat": -36.3833,
+            "lon": 145.4
+        },
+        "it": "Shepparton",
+        "it:t": "Australia | Greater Shepparton City",
+        "es": "Shepparton",
+        "es:t": "Australia | Greater Shepparton City",
+        "de": "Shepparton",
+        "de:t": "Australien | Greater Shepparton City"
+    },
+    {
+        "en": "South Brisbane",
+        "en:t": "Australia | Brisbane City",
+        "a": true,
+        "g": {
+            "lat": -27.4766,
+            "lon": 153.0167
+        },
+        "it": "South Brisbane",
+        "it:t": "Australia | Brisbane City",
+        "es": "South Brisbane",
+        "es:t": "Australia | Brisbane City",
+        "de": "South Brisbane",
+        "de:t": "Australien | Brisbane City"
+    },
+    {
+        "en": "South Grafton",
+        "en:t": "Australia | Clarence Valley Council",
+        "a": true,
+        "g": {
+            "lat": -29.7257,
+            "lon": 152.9382
+        },
+        "it": "South Grafton",
+        "it:t": "Australia | Clarence Valley Council",
+        "es": "South Grafton",
+        "es:t": "Australia | Clarence Valley Council",
+        "de": "South Grafton",
+        "de:t": "Australien | Clarence Valley Council"
+    },
+    {
+        "en": "Southport",
+        "en:t": "Australia | City of Gold Coast",
+        "a": true,
+        "g": {
+            "lat": -27.9738,
+            "lon": 153.4183
+        },
+        "it": "Southport",
+        "it:t": "Australia | City of Gold Coast",
+        "es": "Southport",
+        "es:t": "Australia | City of Gold Coast",
+        "de": "Southport",
+        "de:t": "Australien | Gold Coast City"
+    },
+    {
+        "en": "Springvale",
+        "en:t": "Australia | Greater Dandenong City",
+        "a": true,
+        "g": {
+            "lat": -37.947,
+            "lon": 145.153
+        },
+        "it": "Springvale",
+        "it:t": "Australia | Greater Dandenong City",
+        "es": "Springvale",
+        "es:t": "Australia | Greater Dandenong City",
+        "de": "Springvale",
+        "de:t": "Australien | Greater Dandenong City"
+    },
+    {
+        "en": "St Kilda",
+        "en:t": "Australia | Port Phillip City",
+        "a": true,
+        "g": {
+            "lat": -37.864,
+            "lon": 144.982
+        },
+        "it": "St. Kilda",
+        "it:t": "Australia | Citt\u00e0 di Port Phillip",
+        "es": "St Kilda",
+        "es:t": "Australia | Port Phillip City",
+        "de": "St Kilda",
+        "de:t": "Australien | Port Phillip City"
+    },
+    {
+        "en": "Sunbury",
+        "en:t": "Australia | City of Hume",
+        "a": true,
+        "g": {
+            "lat": -37.5811,
+            "lon": 144.7139
+        },
+        "it": "Sunbury",
+        "it:t": "Australia | City of Hume",
+        "es": "Sunbury",
+        "es:t": "Australia | City of Hume",
+        "de": "Sunbury",
+        "de:t": "Australien | City of Hume"
+    },
+    {
+        "en": "Sunnybank",
+        "en:t": "Australia | Brisbane City",
+        "a": true,
+        "g": {
+            "lat": -27.579,
+            "lon": 153.059
+        },
+        "it": "Sunnybank",
+        "it:t": "Australia | Brisbane City",
+        "es": "Sunnybank",
+        "es:t": "Australia | Brisbane City",
+        "de": "Sunnybank",
+        "de:t": "Australien | Brisbane City"
+    },
+    {
+        "en": "Surfers Paradise",
+        "en:t": "Australia | City of Gold Coast",
+        "a": true,
+        "g": {
+            "lat": -28.0,
+            "lon": 153.4167
+        },
+        "it": "Surfers Paradise",
+        "it:t": "Australia | Citt\u00e0 di Gold Coast",
+        "es": "Surfers Paradise",
+        "es:t": "Australia | City of Gold Coast",
+        "de": "Surfers Paradise",
+        "de:t": "Australien | Gold Coast City"
+    },
+    {
+        "en": "Sydney",
+        "en:t": "Australia | New South Wales",
+        "a": true,
+        "g": {
+            "lat": -33.8688,
+            "lon": 151.2093
+        },
+        "it": "Sydney",
+        "it:t": "Australia | Nuovo Galles del Sud",
+        "es": "S\u00eddney",
+        "es:t": "Australia | Nueva Gales del Sur",
+        "de": "Sydney",
+        "de:t": "Australien | New South Wales"
+    },
+    {
+        "en": "Tamworth",
+        "en:t": "Australia | Tamworth Regional Council",
+        "a": true,
+        "g": {
+            "lat": -31.0927,
+            "lon": 150.932
+        },
+        "it": "Tamworth",
+        "it:t": "Australia | Municipalit\u00e0 di Tamworth",
+        "es": "Tamworth",
+        "es:t": "Australia | Tamworth Regional Council",
+        "de": "Tamworth",
+        "de:t": "Australien | Tamworth Regional Council"
+    },
+    {
+        "en": "Taree",
+        "en:t": "Australia | Greater Taree City Council",
+        "a": true,
+        "g": {
+            "lat": -31.8895,
+            "lon": 152.4444
+        },
+        "it": "Taree",
+        "it:t": "Australia | Citt\u00e0 di Greater Taree",
+        "es": "Taree",
+        "es:t": "Australia | Greater Taree City Council",
+        "de": "Taree",
+        "de:t": "Australien | Greater Taree City"
+    },
+    {
+        "en": "Tarneit",
+        "en:t": "Australia | City of Wyndham",
+        "a": true,
+        "g": {
+            "lat": -37.8092,
+            "lon": 144.6672
+        },
+        "it": "Tarneit",
+        "it:t": "Australia | City of Wyndham",
+        "es": "Tarneit",
+        "es:t": "Australia | City of Wyndham",
+        "de": "Tarneit",
+        "de:t": "Australien | City of Wyndham"
+    },
+    {
+        "en": "Thomastown",
+        "en:t": "Australia | Whittlesea City",
+        "a": true,
+        "g": {
+            "lat": -37.682,
+            "lon": 145.014
+        },
+        "it": "Thomastown",
+        "it:t": "Australia | Whittlesea City",
+        "es": "Thomastown",
+        "es:t": "Australia | Whittlesea City",
+        "de": "Thomastown",
+        "de:t": "Australien | Whittlesea City"
+    },
+    {
+        "en": "Thornbury",
+        "en:t": "Australia | Darebin City",
+        "a": true,
+        "g": {
+            "lat": -37.76,
+            "lon": 145.007
+        },
+        "it": "Thornbury",
+        "it:t": "Australia | Darebin City",
+        "es": "Thornbury",
+        "es:t": "Australia | Darebin City",
+        "de": "Thornbury",
+        "de:t": "Australien | Darebin City"
+    },
+    {
+        "en": "Toowoomba",
+        "en:t": "Australia | Toowoomba Regional",
+        "a": true,
+        "g": {
+            "lat": -27.5598,
+            "lon": 151.9507
+        },
+        "it": "Toowoomba",
+        "it:t": "Australia | Toowoomba Regional",
+        "es": "Toowoomba",
+        "es:t": "Australia | Toowoomba Regional",
+        "de": "Toowoomba",
+        "de:t": "Australien | Toowoomba Regional"
+    },
+    {
+        "en": "Townsville",
+        "en:t": "Australia | Townsville City",
+        "a": true,
+        "g": {
+            "lat": -19.259,
+            "lon": 146.8169
+        },
+        "it": "Citt\u00e0 di Townsville",
+        "it:t": "Australia | Townsville City",
+        "es": "Townsville",
+        "es:t": "Australia | Townsville City",
+        "de": "Townsville City",
+        "de:t": "Australien"
+    },
+    {
+        "en": "Traralgon",
+        "en:t": "Australia | Latrobe City",
+        "a": true,
+        "g": {
+            "lat": -38.2034,
+            "lon": 146.5198
+        },
+        "it": "Traralgon",
+        "it:t": "Australia | Citt\u00e0 di Latrobe",
+        "es": "Traralgon",
+        "es:t": "Australia | Latrobe City",
+        "de": "Traralgon",
+        "de:t": "Australien | Latrobe City"
+    },
+    {
+        "en": "Umina Beach",
+        "en:t": "Australia | Central Coast Council",
+        "a": true,
+        "g": {
+            "lat": -33.518,
+            "lon": 151.31
+        },
+        "it": "Umina Beach",
+        "it:t": "Australia | Central Coast Council",
+        "es": "Umina Beach",
+        "es:t": "Australia | Central Coast Council",
+        "de": "Umina Beach",
+        "de:t": "Australien | Central Coast Council"
+    },
+    {
+        "en": "Wagga Wagga",
+        "en:t": "Australia | Wagga Wagga City Council",
+        "a": true,
+        "g": {
+            "lat": -35.1082,
+            "lon": 147.3598
+        },
+        "it": "Wagga Wagga",
+        "it:t": "Australia | Wagga Wagga City Council",
+        "es": "Wagga Wagga",
+        "es:t": "Australia | Wagga Wagga City Council",
+        "de": "Wagga Wagga",
+        "de:t": "Australien | Wagga Wagga City Council"
+    },
+    {
+        "en": "Wangaratta",
+        "en:t": "Australia | Wangaratta Rural City",
+        "a": true,
+        "g": {
+            "lat": -36.3683,
+            "lon": 146.3172
+        },
+        "it": "Wangaratta",
+        "it:t": "Australia | Wangaratta Rural City",
+        "es": "Wangaratta",
+        "es:t": "Australia | Wangaratta Rural City",
+        "de": "Wangaratta",
+        "de:t": "Australien | Wangaratta Rural City"
+    },
+    {
+        "en": "Wantirna South",
+        "en:t": "Australia | City of Knox",
+        "a": true,
+        "g": {
+            "lat": -37.881,
+            "lon": 145.224
+        },
+        "it": "Wantirna South",
+        "it:t": "Australia | City of Knox",
+        "es": "Wantirna South",
+        "es:t": "Australia | City of Knox",
+        "de": "Wantirna South",
+        "de:t": "Australien | Knox City"
+    },
+    {
+        "en": "Warrnambool",
+        "en:t": "Australia | Victoria",
+        "a": true,
+        "g": {
+            "lat": -38.3687,
+            "lon": 142.4982
+        },
+        "it": "Warrnambool",
+        "it:t": "Australia | Victoria",
+        "es": "Warrnambool",
+        "es:t": "Australia | Victoria",
+        "de": "Warrnambool",
+        "de:t": "Australien | Victoria"
+    },
+    {
+        "en": "Werribee",
+        "en:t": "Australia | City of Wyndham",
+        "a": true,
+        "g": {
+            "lat": -37.9,
+            "lon": 144.664
+        },
+        "it": "Werribee",
+        "it:t": "Australia | City of Wyndham",
+        "es": "Werribee",
+        "es:t": "Australia | City of Wyndham",
+        "de": "Werribee",
+        "de:t": "Australien | Wyndham City"
+    },
+    {
+        "en": "Whyalla",
+        "en:t": "Australia | The Corporation of the City of Whyalla",
+        "a": true,
+        "g": {
+            "lat": -33.038,
+            "lon": 137.5753
+        },
+        "it": "Whyalla",
+        "it:t": "Australia | The Corporation of the City of Whyalla",
+        "es": "Whyalla",
+        "es:t": "Australia | The Corporation of the City of Whyalla",
+        "de": "Whyalla",
+        "de:t": "Australien | The Corporation of the City of Whyalla"
+    },
+    {
+        "en": "Wodonga",
+        "en:t": "Australia | Wodonga City",
+        "a": true,
+        "g": {
+            "lat": -36.1241,
+            "lon": 146.8818
+        },
+        "it": "Wodonga",
+        "it:t": "Australia | Citt\u00e0 di Wodonga",
+        "es": "Wodonga",
+        "es:t": "Australia | Wodonga City",
+        "de": "Wodonga",
+        "de:t": "Australien | Wodonga City"
+    },
+    {
+        "en": "Wollongong",
+        "en:t": "Australia | Wollongong City Council",
+        "a": true,
+        "g": {
+            "lat": -34.4278,
+            "lon": 150.8931
+        },
+        "it": "Wollongong",
+        "it:t": "Australia | Wollongong City Council",
+        "es": "Wollongong",
+        "es:t": "Australia | Wollongong City Council",
+        "de": "Wollongong",
+        "de:t": "Australien | Wollongong City Council"
+    },
+    {
+        "en": "Woodridge",
+        "en:t": "Australia | Logan City",
+        "a": true,
+        "g": {
+            "lat": -27.6333,
+            "lon": 153.1
+        },
+        "it": "Woodridge",
+        "it:t": "Australia | Logan City",
+        "es": "Woodridge",
+        "es:t": "Australia | Logan City",
+        "de": "Woodridge",
+        "de:t": "Australien | Logan City"
+    }
+]

@@ -1,0 +1,287 @@
+[
+    {
+        "en": "Berat",
+        "en:t": "Albania | Berat County",
+        "a": true,
+        "g": {
+            "lat": 40.7086,
+            "lon": 19.9437
+        },
+        "it": "Distretto di Berat",
+        "it:t": "Albania | Prefettura di Berat",
+        "es": "Distrito de Berat",
+        "es:t": "Albania | Condado de Berat",
+        "de": "Kreis Berat",
+        "de:t": "Albanien | Qark Berat"
+    },
+    {
+        "en": "Burrel",
+        "en:t": "Albania | Mat District",
+        "a": true,
+        "g": {
+            "lat": 41.6089,
+            "lon": 20.0063
+        },
+        "it": "Burrel",
+        "it:t": "Albania | Distretto di Mat",
+        "es": "Burrel",
+        "es:t": "Albania | Distrito de Mat",
+        "de": "Burrel",
+        "de:t": "Albanien | Kreis Mat"
+    },
+    {
+        "en": "Durr\u00ebs",
+        "en:t": "Albania | Durr\u00ebs County",
+        "a": true,
+        "g": {
+            "lat": 41.3246,
+            "lon": 19.4565
+        },
+        "it": "Durazzo",
+        "it:t": "Albania | Prefettura di Durazzo",
+        "es": "Durr\u00ebs",
+        "es:t": "Albania | Condado de Durr\u00ebs",
+        "de": "Durr\u00ebs",
+        "de:t": "Albanien | Qark Durr\u00ebs"
+    },
+    {
+        "en": "Elbasan",
+        "en:t": "Albania | Elbasan County",
+        "a": true,
+        "g": {
+            "lat": 41.1102,
+            "lon": 20.0867
+        },
+        "it": "Distretto di Elbasan",
+        "it:t": "Albania | Prefettura di Elbasan",
+        "es": "Distrito de Elbasan",
+        "es:t": "Albania | Condado de Elbasan",
+        "de": "Kreis Elbasan",
+        "de:t": "Albanien | Qark Elbasan"
+    },
+    {
+        "en": "Fier",
+        "en:t": "Albania",
+        "a": true,
+        "g": {
+            "lat": 40.7275,
+            "lon": 19.5628
+        },
+        "it": "Prefettura di Fier",
+        "it:t": "Albania | Fier",
+        "es": "Condado de Fier",
+        "es:t": "Albania | Fier",
+        "de": "Qark Fier",
+        "de:t": "Albanien | Fier"
+    },
+    {
+        "en": "Gjirokaster",
+        "en:t": "Albania | Gjirokast\u00ebr County",
+        "a": true,
+        "g": {
+            "lat": 40.0673,
+            "lon": 20.1045
+        },
+        "it": "Argirocastro",
+        "it:t": "Albania | Distretto di Argirocastro",
+        "es": "Distrito de Gjirokast\u00ebr",
+        "es:t": "Albania",
+        "de": "Kreis Gjirokastra",
+        "de:t": "Albanien"
+    },
+    {
+        "en": "Kavaj\u00eb",
+        "en:t": "Albania | Tirana County",
+        "a": true,
+        "g": {
+            "lat": 41.1845,
+            "lon": 19.5628
+        },
+        "it": "Distretto di Kavaj\u00eb",
+        "it:t": "Albania | Prefettura di Tirana",
+        "es": "Distrito de Kavaj\u00eb",
+        "es:t": "Albania | Condado de Tirana",
+        "de": "Kreis Kavaja",
+        "de:t": "Albanien | Qark Tirana"
+    },
+    {
+        "en": "Kor\u00e7\u00eb",
+        "en:t": "Albania | Kor\u00e7\u00eb District",
+        "a": true,
+        "g": {
+            "lat": 40.6141,
+            "lon": 20.7778
+        },
+        "it": "Corizza",
+        "it:t": "Albania | Distretto di Coriza",
+        "es": "Kor\u00e7\u00eb",
+        "es:t": "Albania | Distrito de Kor\u00e7\u00eb",
+        "de": "Kor\u00e7a",
+        "de:t": "Albanien | Kreis Kor\u00e7a"
+    },
+    {
+        "en": "Kruj\u00eb District",
+        "en:t": "Albania",
+        "a": true,
+        "g": {
+            "lat": 41.5095,
+            "lon": 19.7711
+        },
+        "it": "Distretto di Croia",
+        "it:t": "Albania",
+        "es": "Distrito de Kruj\u00eb",
+        "es:t": "Albania",
+        "de": "Kreis Kruja",
+        "de:t": "Albanien"
+    },
+    {
+        "en": "Kuk\u00ebs",
+        "en:t": "Albania | Kuk\u00ebs County",
+        "a": true,
+        "g": {
+            "lat": 42.0807,
+            "lon": 20.4143
+        },
+        "it": "Kuk\u00ebs",
+        "it:t": "Albania | Prefettura di Kuk\u00ebs",
+        "es": "Kuk\u00ebs",
+        "es:t": "Albania | Condado de Kuk\u00ebs",
+        "de": "Kuk\u00ebs",
+        "de:t": "Albanien | Qark Kuk\u00ebs"
+    },
+    {
+        "en": "Ku\u00e7ov\u00eb",
+        "en:t": "Albania | Ku\u00e7ov\u00eb District",
+        "a": true,
+        "g": {
+            "lat": 40.8103,
+            "lon": 19.9199
+        },
+        "it": "Ku\u00e7ov\u00eb",
+        "it:t": "Albania | Distretto di Ku\u00e7ov\u00eb",
+        "es": "Ku\u00e7ov\u00eb",
+        "es:t": "Albania | Distrito de Ku\u00e7ov\u00eb",
+        "de": "Ku\u00e7ova",
+        "de:t": "Albanien | Kreis Ku\u00e7ova"
+    },
+    {
+        "en": "La\u00e7",
+        "en:t": "Albania | Kurbin District",
+        "a": true,
+        "g": {
+            "lat": 41.6413,
+            "lon": 19.7056
+        },
+        "it": "La\u00e7",
+        "it:t": "Albania | Distretto di Kurbin",
+        "es": "La\u00e7",
+        "es:t": "Albania | Distrito de Kurbin",
+        "de": "La\u00e7",
+        "de:t": "Albanien | Kreis Kurbin"
+    },
+    {
+        "en": "Lezh\u00eb District",
+        "en:t": "Albania",
+        "a": true,
+        "g": {
+            "lat": 41.7861,
+            "lon": 19.6461
+        },
+        "it": "Alessio",
+        "it:t": "Albania | Distretto di Alessio",
+        "es": "Distrito de Lezh\u00eb",
+        "es:t": "Albania",
+        "de": "Kreis Lezha",
+        "de:t": "Albanien"
+    },
+    {
+        "en": "Lushnj\u00eb",
+        "en:t": "Albania | Lushnj\u00eb District",
+        "a": true,
+        "g": {
+            "lat": 40.942,
+            "lon": 19.6996
+        },
+        "it": "Lushnj\u00eb",
+        "it:t": "Albania | Distretto di Lushnj\u00eb",
+        "es": "Lushnj\u00eb",
+        "es:t": "Albania | Distrito de Lushnj\u00eb",
+        "de": "Lushnja",
+        "de:t": "Albanien | Kreis Lushnja"
+    },
+    {
+        "en": "Patos",
+        "en:t": "Albania | Fier",
+        "a": true,
+        "g": {
+            "lat": 40.6877,
+            "lon": 19.6223
+        },
+        "it": "Patos",
+        "it:t": "Albania | Fier",
+        "es": "Patos",
+        "es:t": "Albania | Fier",
+        "de": "Patos",
+        "de:t": "Albanien | Fier"
+    },
+    {
+        "en": "Sarand\u00eb",
+        "en:t": "Albania | Vlor\u00eb County",
+        "a": true,
+        "g": {
+            "lat": 39.8592,
+            "lon": 20.0271
+        },
+        "it": "Saranda",
+        "it:t": "Albania | Distretto di Valona",
+        "es": "Sarand\u00eb",
+        "es:t": "Albania | Distrito de Vlor\u00eb",
+        "de": "Saranda",
+        "de:t": "Albanien | Kreis Vlora"
+    },
+    {
+        "en": "Shkod\u00ebr",
+        "en:t": "Albania | Shkod\u00ebr County",
+        "a": true,
+        "g": {
+            "lat": 42.0693,
+            "lon": 19.5033
+        },
+        "it": "Scutari",
+        "it:t": "Albania | Prefettura di Scutari",
+        "es": "Shkod\u00ebr",
+        "es:t": "Albania | Condado de Shkod\u00ebr",
+        "de": "Shkodra",
+        "de:t": "Albanien | Qark Shkodra"
+    },
+    {
+        "en": "Tirana",
+        "en:t": "Albania",
+        "a": true,
+        "g": {
+            "lat": 41.3275,
+            "lon": 19.8187
+        },
+        "it": "Tirana",
+        "it:t": "Albania",
+        "es": "Tirana",
+        "es:t": "Albania",
+        "de": "Tirana",
+        "de:t": "Albanien"
+    },
+    {
+        "en": "Vlor\u00eb",
+        "en:t": "Albania | Vlor\u00eb County",
+        "a": true,
+        "g": {
+            "lat": 40.4661,
+            "lon": 19.4914
+        },
+        "it": "Valona",
+        "it:t": "Albania | Distretto di Valona",
+        "es": "Vlor\u00eb",
+        "es:t": "Albania | Distrito de Vlor\u00eb",
+        "de": "Vlora",
+        "de:t": "Albanien | Kreis Vlora"
+    }
+]

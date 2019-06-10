@@ -1,0 +1,47 @@
+[
+    {
+        "en": "Fa'a'\u0101",
+        "en:t": "French Polynesia | Windward Islands",
+        "a": true,
+        "g": {
+            "lat": -17.5637,
+            "lon": -149.5988
+        },
+        "it": "Faa'a",
+        "it:t": "Polinesia Francese | Windward Islands",
+        "es": "Faa'a",
+        "es:t": "Polinesia Francesa | Windward Islands",
+        "de": "Faa'a",
+        "de:t": "Franz\u00f6sisch-Polynesien | Windward Islands"
+    },
+    {
+        "en": "Pape'ete",
+        "en:t": "French Polynesia | Windward Islands",
+        "a": true,
+        "g": {
+            "lat": -17.5516,
+            "lon": -149.5585
+        },
+        "it": "Papeete",
+        "it:t": "Polinesia Francese | Windward Islands",
+        "es": "Papeete",
+        "es:t": "Polinesia Francesa | Windward Islands",
+        "de": "Papeete",
+        "de:t": "Franz\u00f6sisch-Polynesien | Windward Islands"
+    },
+    {
+        "en": "Puna'auia",
+        "en:t": "French Polynesia | Windward Islands",
+        "a": true,
+        "g": {
+            "lat": -17.623,
+            "lon": -149.6046
+        },
+        "it": "Punaauia",
+        "it:t": "Polinesia Francese | Windward Islands",
+        "es": "Punaauia",
+        "es:t": "Polinesia Francesa | Windward Islands",
+        "de": "Punaauia",
+        "de:t": "Franz\u00f6sisch-Polynesien | Windward Islands"
+    }
+]

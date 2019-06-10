@@ -1,0 +1,107 @@
+[
+    {
+        "en": "Famagusta",
+        "en:t": "Cyprus",
+        "a": true,
+        "g": {
+            "lat": 35.1149,
+            "lon": 33.9192
+        },
+        "it": "Famagosta",
+        "it:t": "Cipro",
+        "es": "Famagusta",
+        "es:t": "Chipre",
+        "de": "Famagusta",
+        "de:t": "Zypern"
+    },
+    {
+        "en": "Girne",
+        "en:t": "Cyprus",
+        "a": true,
+        "g": {
+            "lat": 35.3237,
+            "lon": 33.3149
+        },
+        "it": "Kyrenia",
+        "it:t": "Cipro",
+        "es": "Kyrenia",
+        "es:t": "Chipre",
+        "de": "Kyrenia",
+        "de:t": "Zypern"
+    },
+    {
+        "en": "Larnaca",
+        "en:t": "Cyprus",
+        "a": true,
+        "g": {
+            "lat": 34.9003,
+            "lon": 33.6232
+        },
+        "it": "Larnaca",
+        "it:t": "Cipro | Larnaca",
+        "es": "L\u00e1rnaca",
+        "es:t": "Chipre | L\u00e1rnaca",
+        "de": "Larnaka",
+        "de:t": "Zypern | Larnaka"
+    },
+    {
+        "en": "Limassol",
+        "en:t": "Cyprus",
+        "a": true,
+        "g": {
+            "lat": 34.7071,
+            "lon": 33.0226
+        },
+        "it": "Limisso",
+        "it:t": "Cipro | Limassol",
+        "es": "Limasol",
+        "es:t": "Chipre | Limasol",
+        "de": "Limassol",
+        "de:t": "Zypern | Limassol"
+    },
+    {
+        "en": "Nicosia",
+        "en:t": "Cyprus",
+        "a": true,
+        "g": {
+            "lat": 35.1856,
+            "lon": 33.3823
+        },
+        "it": "Nicosia",
+        "it:t": "Cipro | Nicosia",
+        "es": "Nicosia",
+        "es:t": "Chipre | Nicosia",
+        "de": "Nikosia",
+        "de:t": "Zypern | Nikosia"
+    },
+    {
+        "en": "Paphos",
+        "en:t": "Cyprus",
+        "a": true,
+        "g": {
+            "lat": 34.772,
+            "lon": 32.4297
+        },
+        "it": "Pafo",
+        "it:t": "Cipro | Pafo",
+        "es": "Pafos",
+        "es:t": "Chipre | Pafos",
+        "de": "Paphos",
+        "de:t": "Zypern | Paphos"
+    },
+    {
+        "en": "Protaras",
+        "en:t": "Cyprus | Famagusta",
+        "a": true,
+        "g": {
+            "lat": 35.0012,
+            "lon": 34.0474
+        },
+        "it": "Protaras",
+        "it:t": "Cipro | Famagusta",
+        "es": "Protaras",
+        "es:t": "Chipre | Famagusta",
+        "de": "Protaras",
+        "de:t": "Zypern | Famagusta"
+    }
+]

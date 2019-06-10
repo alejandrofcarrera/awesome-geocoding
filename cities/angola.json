@@ -1,0 +1,377 @@
+[
+    {
+        "en": "Benguela",
+        "en:t": "Angola",
+        "a": true,
+        "g": {
+            "lat": -12.5905,
+            "lon": 13.4165
+        },
+        "it": "Benguela",
+        "it:t": "Angola",
+        "es": "Benguela",
+        "es:t": "Angola",
+        "de": "Benguela",
+        "de:t": "Angola"
+    },
+    {
+        "en": "Cabinda",
+        "en:t": "Angola",
+        "a": true,
+        "g": {
+            "lat": -5.5775,
+            "lon": 12.1927
+        },
+        "it": "Cabinda",
+        "it:t": "Angola",
+        "es": "Cabinda",
+        "es:t": "Angola",
+        "de": "Cabinda",
+        "de:t": "Angola"
+    },
+    {
+        "en": "Caluquembe",
+        "en:t": "Angola",
+        "a": true,
+        "g": {
+            "lat": -13.7867,
+            "lon": 14.6879
+        },
+        "it": "Caluquembe",
+        "it:t": "Angola",
+        "es": "Caluquembe",
+        "es:t": "Angola",
+        "de": "Caluquembe",
+        "de:t": "Angola"
+    },
+    {
+        "en": "Camacupa",
+        "en:t": "Angola",
+        "a": true,
+        "g": {
+            "lat": -12.0181,
+            "lon": 17.4736
+        },
+        "it": "Camacupa",
+        "it:t": "Angola",
+        "es": "Camacupa",
+        "es:t": "Angola",
+        "de": "Camacupa",
+        "de:t": "Angola"
+    },
+    {
+        "en": "Catabola",
+        "en:t": "Angola",
+        "a": true,
+        "g": {
+            "lat": -12.1433,
+            "lon": 17.2814
+        },
+        "it": "Catabola",
+        "it:t": "Angola",
+        "es": "Catabola",
+        "es:t": "Angola",
+        "de": "Catabola",
+        "de:t": "Angola"
+    },
+    {
+        "en": "Caxito",
+        "en:t": "Angola | Dande",
+        "a": true,
+        "g": {
+            "lat": -8.5822,
+            "lon": 13.6565
+        },
+        "it": "Caxito",
+        "it:t": "Angola | Dande",
+        "es": "Caxito",
+        "es:t": "Angola | Dande",
+        "de": "Caxito",
+        "de:t": "Angola | Dande"
+    },
+    {
+        "en": "Huambo",
+        "en:t": "Angola",
+        "a": true,
+        "g": {
+            "lat": -12.774,
+            "lon": 15.7469
+        },
+        "it": "Huambo",
+        "it:t": "Angola",
+        "es": "Huambo",
+        "es:t": "Angola",
+        "de": "Huambo",
+        "de:t": "Angola"
+    },
+    {
+        "en": "Kuito",
+        "en:t": "Angola",
+        "a": true,
+        "g": {
+            "lat": -12.394,
+            "lon": 16.9418
+        },
+        "it": "Kuito",
+        "it:t": "Angola",
+        "es": "Kuito",
+        "es:t": "Angola",
+        "de": "Kuito",
+        "de:t": "Angola"
+    },
+    {
+        "en": "Lobito",
+        "en:t": "Angola",
+        "a": true,
+        "g": {
+            "lat": -12.3757,
+            "lon": 13.561
+        },
+        "it": "Lobito",
+        "it:t": "Angola",
+        "es": "Lobito",
+        "es:t": "Angola",
+        "de": "Lobito",
+        "de:t": "Angola"
+    },
+    {
+        "en": "Longonjo",
+        "en:t": "Angola",
+        "a": true,
+        "g": {
+            "lat": -12.9018,
+            "lon": 15.2458
+        },
+        "it": "Longonjo",
+        "it:t": "Angola",
+        "es": "Longonjo",
+        "es:t": "Angola",
+        "de": "Longonjo",
+        "de:t": "Angola"
+    },
+    {
+        "en": "Luanda",
+        "en:t": "Angola",
+        "a": true,
+        "g": {
+            "lat": -8.8147,
+            "lon": 13.2302
+        },
+        "it": "Luanda",
+        "it:t": "Angola",
+        "es": "Luanda",
+        "es:t": "Angola",
+        "de": "Luanda",
+        "de:t": "Angola"
+    },
+    {
+        "en": "Luau",
+        "en:t": "Angola",
+        "a": true,
+        "g": {
+            "lat": -10.7073,
+            "lon": 22.2295
+        },
+        "it": "Luau",
+        "it:t": "Angola",
+        "es": "Luau",
+        "es:t": "Angola",
+        "de": "Luau",
+        "de:t": "Angola"
+    },
+    {
+        "en": "Lubango",
+        "en:t": "Angola",
+        "a": true,
+        "g": {
+            "lat": -14.9186,
+            "lon": 13.5321
+        },
+        "it": "Lubango",
+        "it:t": "Angola",
+        "es": "Lubango",
+        "es:t": "Angola",
+        "de": "Lubango",
+        "de:t": "Angola"
+    },
+    {
+        "en": "Lucapa",
+        "en:t": "Angola",
+        "a": true,
+        "g": {
+            "lat": -8.4432,
+            "lon": 20.7301
+        },
+        "it": "Lucapa",
+        "it:t": "Angola",
+        "es": "Lucapa",
+        "es:t": "Angola",
+        "de": "Lucapa",
+        "de:t": "Angola"
+    },
+    {
+        "en": "Luena",
+        "en:t": "Angola | Moxico",
+        "a": true,
+        "g": {
+            "lat": -11.7714,
+            "lon": 19.8901
+        },
+        "it": "Luena",
+        "it:t": "Angola | Moxico",
+        "es": "Luena",
+        "es:t": "Angola | Moxico",
+        "de": "Luena",
+        "de:t": "Angola | Moxico"
+    },
+    {
+        "en": "M'banza-Kongo",
+        "en:t": "Angola | Mbanza Congo",
+        "a": true,
+        "g": {
+            "lat": -6.2694,
+            "lon": 14.2338
+        },
+        "it": "Mbanza Congo",
+        "it:t": "Angola",
+        "es": "M'Banza Kongo",
+        "es:t": "Angola | Mbanza Congo",
+        "de": "M'banza Kongo",
+        "de:t": "Angola | Mbanza Congo"
+    },
+    {
+        "en": "Malanje",
+        "en:t": "Angola",
+        "a": true,
+        "g": {
+            "lat": -9.5418,
+            "lon": 16.3346
+        },
+        "it": "Malanje",
+        "it:t": "Angola",
+        "es": "Malanje",
+        "es:t": "Angola",
+        "de": "Malanje",
+        "de:t": "Angola"
+    },
+    {
+        "en": "Menongue",
+        "en:t": "Angola",
+        "a": true,
+        "g": {
+            "lat": -14.6594,
+            "lon": 17.6985
+        },
+        "it": "Menongue",
+        "it:t": "Angola",
+        "es": "Menongue",
+        "es:t": "Angola",
+        "de": "Menongue",
+        "de:t": "Angola"
+    },
+    {
+        "en": "N'dalatando",
+        "en:t": "Angola | Cazengo",
+        "a": true,
+        "g": {
+            "lat": -9.2994,
+            "lon": 14.9097
+        },
+        "it": "N'dalatando",
+        "it:t": "Angola | Cazengo",
+        "es": "N'Dalantando",
+        "es:t": "Angola | Cazengo",
+        "de": "N'dalatando",
+        "de:t": "Angola | Cazengo"
+    },
+    {
+        "en": "N'zeto",
+        "en:t": "Angola",
+        "a": true,
+        "g": {
+            "lat": -7.2269,
+            "lon": 12.8687
+        },
+        "it": "N'Zeto",
+        "it:t": "Angola | N'zeto",
+        "es": "N'Zeto",
+        "es:t": "Angola | Nzeto",
+        "de": "N'Zeto",
+        "de:t": "Angola | Nzeto"
+    },
+    {
+        "en": "Namibe",
+        "en:t": "Angola",
+        "a": true,
+        "g": {
+            "lat": -15.1978,
+            "lon": 12.1576
+        },
+        "it": "Namibe",
+        "it:t": "Angola",
+        "es": "Namibe",
+        "es:t": "Angola",
+        "de": "Namibe",
+        "de:t": "Angola"
+    },
+    {
+        "en": "Saurimo",
+        "en:t": "Angola",
+        "a": true,
+        "g": {
+            "lat": -9.6612,
+            "lon": 20.3905
+        },
+        "it": "Saurimo",
+        "it:t": "Angola",
+        "es": "Saurimo",
+        "es:t": "Angola",
+        "de": "Saurimo",
+        "de:t": "Angola"
+    },
+    {
+        "en": "Soyo",
+        "en:t": "Angola",
+        "a": true,
+        "g": {
+            "lat": -6.141,
+            "lon": 12.3521
+        },
+        "it": "Soyo",
+        "it:t": "Angola",
+        "es": "Soyo",
+        "es:t": "Angola",
+        "de": "Soyo",
+        "de:t": "Angola"
+    },
+    {
+        "en": "Sumbe",
+        "en:t": "Angola",
+        "a": true,
+        "g": {
+            "lat": -11.2123,
+            "lon": 13.8477
+        },
+        "it": "Sumbe",
+        "it:t": "Angola",
+        "es": "Sumbe",
+        "es:t": "Angola",
+        "de": "Sumbe",
+        "de:t": "Angola"
+    },
+    {
+        "en": "Uige",
+        "en:t": "Angola",
+        "a": true,
+        "g": {
+            "lat": -7.6102,
+            "lon": 15.0616
+        },
+        "it": "U\u00edge",
+        "it:t": "Angola",
+        "es": "U\u00edge",
+        "es:t": "Angola | Uige",
+        "de": "U\u00edge",
+        "de:t": "Angola | Uige"
+    }
+]

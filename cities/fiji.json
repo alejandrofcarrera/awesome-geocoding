@@ -1,0 +1,62 @@
+[
+    {
+        "en": "Labasa",
+        "en:t": "Fiji",
+        "a": true,
+        "g": {
+            "lat": -16.4308,
+            "lon": 179.363
+        },
+        "it": "Labasa",
+        "it:t": "Figi",
+        "es": "Labasa",
+        "es:t": "Fiyi",
+        "de": "Labasa",
+        "de:t": "Fidschi"
+    },
+    {
+        "en": "Lautoka",
+        "en:t": "Fiji | Ba",
+        "a": true,
+        "g": {
+            "lat": -17.617,
+            "lon": 177.4505
+        },
+        "it": "Lautoka",
+        "it:t": "Figi | Ba",
+        "es": "Lautoka",
+        "es:t": "Fiyi | Ba",
+        "de": "Lautoka",
+        "de:t": "Fidschi | Ba"
+    },
+    {
+        "en": "Nadi",
+        "en:t": "Fiji | Ba",
+        "a": true,
+        "g": {
+            "lat": -17.7765,
+            "lon": 177.4356
+        },
+        "it": "Nadi",
+        "it:t": "Figi | Ba",
+        "es": "Nadi",
+        "es:t": "Fiyi | Ba",
+        "de": "Nadi",
+        "de:t": "Fidschi | Ba"
+    },
+    {
+        "en": "Suva",
+        "en:t": "Fiji | Rewa",
+        "a": true,
+        "g": {
+            "lat": -18.1248,
+            "lon": 178.4501
+        },
+        "it": "Suva",
+        "it:t": "Figi | Rewa",
+        "es": "Suva",
+        "es:t": "Fiyi | Rewa",
+        "de": "Suva",
+        "de:t": "Fidschi | Rewa"
+    }
+]

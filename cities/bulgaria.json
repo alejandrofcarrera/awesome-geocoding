@@ -1,0 +1,827 @@
+[
+    {
+        "en": "Asenovgrad",
+        "en:t": "Bulgaria | Plovdiv Province",
+        "a": true,
+        "g": {
+            "lat": 42.0134,
+            "lon": 24.8784
+        },
+        "it": "Asenovgrad",
+        "it:t": "Bulgaria | Regione di Plovdiv",
+        "es": "Asenovgrad",
+        "es:t": "Bulgaria | Provincia de Plovdiv",
+        "de": "Assenowgrad",
+        "de:t": "Bulgarien | Oblast Plowdiw"
+    },
+    {
+        "en": "Aytos",
+        "en:t": "Bulgaria | Burgas",
+        "a": true,
+        "g": {
+            "lat": 42.7031,
+            "lon": 27.2506
+        },
+        "it": "Ajtos",
+        "it:t": "Bulgaria | Regione di Burgas",
+        "es": "Aytos",
+        "es:t": "Bulgaria | Provincia de Burgas",
+        "de": "Ajtos",
+        "de:t": "Bulgarien | Oblast Burgas"
+    },
+    {
+        "en": "Berkovitsa",
+        "en:t": "Bulgaria | Montana Province",
+        "a": true,
+        "g": {
+            "lat": 43.237,
+            "lon": 23.1251
+        },
+        "it": "Berkovica",
+        "it:t": "Bulgaria | Regione di Montana",
+        "es": "Berkovitsa",
+        "es:t": "Bulgaria | Provincia de Montana",
+        "de": "Berkowiza",
+        "de:t": "Bulgarien | Oblast Montana"
+    },
+    {
+        "en": "Blagoevgrad",
+        "en:t": "Bulgaria | Blagoevgrad Province",
+        "a": true,
+        "g": {
+            "lat": 42.0209,
+            "lon": 23.0943
+        },
+        "it": "Blagoevgrad",
+        "it:t": "Bulgaria | Regione di Blagoevgrad",
+        "es": "Blagoevgrad",
+        "es:t": "Bulgaria | Provincia de Blagoevgrad",
+        "de": "Blagoewgrad",
+        "de:t": "Bulgarien"
+    },
+    {
+        "en": "Botevgrad",
+        "en:t": "Bulgaria | Sofia Province",
+        "a": true,
+        "g": {
+            "lat": 42.9077,
+            "lon": 23.7934
+        },
+        "it": "Botevgrad",
+        "it:t": "Bulgaria | Sofia Province",
+        "es": "Botevgrad",
+        "es:t": "Bulgaria | Provincia de Sof\u00eda",
+        "de": "Botewgrad",
+        "de:t": "Bulgarien | Oblast Sofia"
+    },
+    {
+        "en": "Burgas",
+        "en:t": "Bulgaria",
+        "a": true,
+        "g": {
+            "lat": 42.5048,
+            "lon": 27.4626
+        },
+        "it": "Burgas",
+        "it:t": "Bulgaria | Regione di Burgas",
+        "es": "Burgas",
+        "es:t": "Bulgaria | Provincia de Burgas",
+        "de": "Burgas",
+        "de:t": "Bulgarien | Oblast Burgas"
+    },
+    {
+        "en": "Cherven Bryag",
+        "en:t": "Bulgaria | Pleven Province",
+        "a": true,
+        "g": {
+            "lat": 43.2805,
+            "lon": 24.0829
+        },
+        "it": "Cherven Bryag",
+        "it:t": "Bulgaria | Pleven Province",
+        "es": "Cherven Bryag",
+        "es:t": "Bulgaria | Provincia de Pleven",
+        "de": "Tscherwen Brjag",
+        "de:t": "Bulgarien | Plewen"
+    },
+    {
+        "en": "Chirpan",
+        "en:t": "Bulgaria | Stara Zagora",
+        "a": true,
+        "g": {
+            "lat": 42.2021,
+            "lon": 25.3249
+        },
+        "it": "Chirpan",
+        "it:t": "Bulgaria | Stara Zagora",
+        "es": "Chirpan",
+        "es:t": "Bulgaria | Provincia de Stara Zagora",
+        "de": "Tschirpan",
+        "de:t": "Bulgarien | Stara Sagora"
+    },
+    {
+        "en": "Dimitrovgrad",
+        "en:t": "Bulgaria | Haskovo Province",
+        "a": true,
+        "g": {
+            "lat": 42.0545,
+            "lon": 25.5945
+        },
+        "it": "Dimitrovgrad",
+        "it:t": "Bulgaria | Regione di Haskovo",
+        "es": "Dimitrovgrad",
+        "es:t": "Bulgaria | Provincia de Haskovo",
+        "de": "Dimitrowgrad",
+        "de:t": "Bulgarien | Chaskowo"
+    },
+    {
+        "en": "Dobrich",
+        "en:t": "Bulgaria | Dobrich Province",
+        "a": true,
+        "g": {
+            "lat": 43.5726,
+            "lon": 27.8273
+        },
+        "it": "Dobri\u010d",
+        "it:t": "Bulgaria | Regione di Dobri\u010d",
+        "es": "Dobrich",
+        "es:t": "Bulgaria | Provincia de Dobrich",
+        "de": "Dobritsch",
+        "de:t": "Bulgarien | Oblast Dobritsch"
+    },
+    {
+        "en": "Dupnica",
+        "en:t": "Bulgaria | Kyustendil Province",
+        "a": true,
+        "g": {
+            "lat": 42.2613,
+            "lon": 23.1124
+        },
+        "it": "Dupnica",
+        "it:t": "Bulgaria | Regione di Kjustendil",
+        "es": "Dupnitsa",
+        "es:t": "Bulgaria | Provincia de Kyustendil",
+        "de": "Dupniza",
+        "de:t": "Bulgarien | Oblast Kjustendil"
+    },
+    {
+        "en": "Gabrovo",
+        "en:t": "Bulgaria",
+        "a": true,
+        "g": {
+            "lat": 42.8742,
+            "lon": 25.3187
+        },
+        "it": "Gabrovo",
+        "it:t": "Bulgaria | Regione di Gabrovo",
+        "es": "Gabrovo",
+        "es:t": "Bulgaria | Provincia de Gabrovo",
+        "de": "Gabrowo",
+        "de:t": "Bulgarien"
+    },
+    {
+        "en": "Gorna Oryahovitsa",
+        "en:t": "Bulgaria | Veliko Tarnovo Province",
+        "a": true,
+        "g": {
+            "lat": 43.1208,
+            "lon": 25.6897
+        },
+        "it": "Gorna Orjahovica",
+        "it:t": "Bulgaria | Regione di Veliko T\u0103rnovo",
+        "es": "Gorna Oryahovitsa",
+        "es:t": "Bulgaria | Provincia de Veliko Tarnovo",
+        "de": "Gorna Orjachowiza",
+        "de:t": "Bulgarien | Weliko Tarnowo"
+    },
+    {
+        "en": "Gotse Delchev",
+        "en:t": "Bulgaria | Blagoevgrad Province",
+        "a": true,
+        "g": {
+            "lat": 41.5728,
+            "lon": 23.7283
+        },
+        "it": "Gotse Delchev",
+        "it:t": "Bulgaria | Blagoevgrad Province",
+        "es": "Gotse Delchev",
+        "es:t": "Bulgaria | Provincia de Blagoevgrad",
+        "de": "Goze Deltschew",
+        "de:t": "Bulgarien | Blagoewgrad"
+    },
+    {
+        "en": "Harmanli",
+        "en:t": "Bulgaria | Haskovo Province",
+        "a": true,
+        "g": {
+            "lat": 41.9304,
+            "lon": 25.9026
+        },
+        "it": "Harmanli",
+        "it:t": "Bulgaria | Haskovo Province",
+        "es": "Harmanli",
+        "es:t": "Bulgaria | Provincia de Haskovo",
+        "de": "Charmanli",
+        "de:t": "Bulgarien | Chaskowo"
+    },
+    {
+        "en": "Haskovo",
+        "en:t": "Bulgaria | Haskovo Province",
+        "a": true,
+        "g": {
+            "lat": 41.9344,
+            "lon": 25.5554
+        },
+        "it": "Haskovo",
+        "it:t": "Bulgaria | Regione di Haskovo",
+        "es": "Haskovo",
+        "es:t": "Bulgaria | Provincia de Haskovo",
+        "de": "Chaskowo",
+        "de:t": "Bulgarien"
+    },
+    {
+        "en": "Kardzali",
+        "en:t": "Bulgaria | Kardzhali Province",
+        "a": true,
+        "g": {
+            "lat": 41.6338,
+            "lon": 25.3777
+        },
+        "it": "Kardzhali",
+        "it:t": "Bulgaria | Regione di K\u0103rd\u017eali",
+        "es": "Kardzhali",
+        "es:t": "Bulgaria",
+        "de": "Kardschali",
+        "de:t": "Bulgarien | Oblast Kardschali"
+    },
+    {
+        "en": "Karlovo",
+        "en:t": "Bulgaria | Plovdiv Province",
+        "a": true,
+        "g": {
+            "lat": 42.6413,
+            "lon": 24.8059
+        },
+        "it": "Karlovo",
+        "it:t": "Bulgaria | Plovdiv Province",
+        "es": "Karlovo",
+        "es:t": "Bulgaria | Provincia de Plovdiv",
+        "de": "Karlowo",
+        "de:t": "Bulgarien | Oblast Plowdiw"
+    },
+    {
+        "en": "Karnobat",
+        "en:t": "Bulgaria | Burgas",
+        "a": true,
+        "g": {
+            "lat": 42.6511,
+            "lon": 26.9804
+        },
+        "it": "Karnobat",
+        "it:t": "Bulgaria | Regione di Burgas",
+        "es": "Karnobat",
+        "es:t": "Bulgaria | Provincia de Burgas",
+        "de": "Karnobat",
+        "de:t": "Bulgarien | Oblast Burgas"
+    },
+    {
+        "en": "Kazanluk",
+        "en:t": "Bulgaria | Stara Zagora",
+        "a": true,
+        "g": {
+            "lat": 42.6194,
+            "lon": 25.393
+        },
+        "it": "Kazanluk",
+        "it:t": "Bulgaria | Stara Zagora",
+        "es": "Kazanlak",
+        "es:t": "Bulgaria | Provincia de Stara Zagora",
+        "de": "Kasanlak",
+        "de:t": "Bulgarien | Stara Sagora"
+    },
+    {
+        "en": "Kyustendil",
+        "en:t": "Bulgaria | Kyustendil Province",
+        "a": true,
+        "g": {
+            "lat": 42.2869,
+            "lon": 22.6939
+        },
+        "it": "Kjustendil",
+        "it:t": "Bulgaria | Regione di Kjustendil",
+        "es": "Kyustendil",
+        "es:t": "Bulgaria | Provincia de Kyustendil",
+        "de": "Kjustendil",
+        "de:t": "Bulgarien | Oblast Kjustendil"
+    },
+    {
+        "en": "Lom",
+        "en:t": "Bulgaria | Montana Province",
+        "a": true,
+        "g": {
+            "lat": 43.8178,
+            "lon": 23.2383
+        },
+        "it": "Lom",
+        "it:t": "Bulgaria | Regione di Montana",
+        "es": "Lom",
+        "es:t": "Bulgaria | Provincia de Montana",
+        "de": "Lom",
+        "de:t": "Bulgarien | Oblast Montana"
+    },
+    {
+        "en": "Lovech",
+        "en:t": "Bulgaria | Lovec",
+        "a": true,
+        "g": {
+            "lat": 43.137,
+            "lon": 24.7142
+        },
+        "it": "Love\u010d",
+        "it:t": "Bulgaria | Regione di Love\u010d",
+        "es": "Lovech",
+        "es:t": "Bulgaria",
+        "de": "Lowetsch",
+        "de:t": "Bulgarien"
+    },
+    {
+        "en": "Montana",
+        "en:t": "Bulgaria | Montana Province",
+        "a": true,
+        "g": {
+            "lat": 43.4085,
+            "lon": 23.2257
+        },
+        "it": "Montana",
+        "it:t": "Bulgaria | Regione di Montana",
+        "es": "Montana",
+        "es:t": "Bulgaria | Provincia de Montana",
+        "de": "Montana",
+        "de:t": "Bulgarien | Oblast Montana"
+    },
+    {
+        "en": "Nova Zagora",
+        "en:t": "Bulgaria | Sliven Province",
+        "a": true,
+        "g": {
+            "lat": 42.4936,
+            "lon": 26.0085
+        },
+        "it": "Nova Zagora",
+        "it:t": "Bulgaria | Sliven Province",
+        "es": "Nova Zagora",
+        "es:t": "Bulgaria | Provincia de Sliven",
+        "de": "Nowa Sagora",
+        "de:t": "Bulgarien | Sliwen"
+    },
+    {
+        "en": "Panagyurishte",
+        "en:t": "Bulgaria | Pazardzhik",
+        "a": true,
+        "g": {
+            "lat": 42.5008,
+            "lon": 24.186
+        },
+        "it": "Panagyurishte",
+        "it:t": "Bulgaria | Regione di Pazard\u017eik",
+        "es": "Panagyurshiste",
+        "es:t": "Bulgaria | Pazardzhik",
+        "de": "Panagjurischte",
+        "de:t": "Bulgarien | Oblast Pasardschik"
+    },
+    {
+        "en": "Pazardzhik",
+        "en:t": "Bulgaria",
+        "a": true,
+        "g": {
+            "lat": 42.1928,
+            "lon": 24.3336
+        },
+        "it": "Pazard\u017eik",
+        "it:t": "Bulgaria | Regione di Pazard\u017eik",
+        "es": "Pazardzhik",
+        "es:t": "Bulgaria",
+        "de": "Pasardschik",
+        "de:t": "Bulgarien | Oblast Pasardschik"
+    },
+    {
+        "en": "Pernik",
+        "en:t": "Bulgaria",
+        "a": true,
+        "g": {
+            "lat": 42.6052,
+            "lon": 23.0378
+        },
+        "it": "Pernik",
+        "it:t": "Bulgaria | Regione di Pernik",
+        "es": "Pernik",
+        "es:t": "Bulgaria | Provincia de Pernik",
+        "de": "Pernik",
+        "de:t": "Bulgarien | Oblast Pernik"
+    },
+    {
+        "en": "Peshtera",
+        "en:t": "Bulgaria | Pazardzhik",
+        "a": true,
+        "g": {
+            "lat": 42.0299,
+            "lon": 24.2987
+        },
+        "it": "Pe\u0161tera",
+        "it:t": "Bulgaria | Regione di Pazard\u017eik",
+        "es": "Peshtera",
+        "es:t": "Bulgaria | Pazardzhik",
+        "de": "Peschtera",
+        "de:t": "Bulgarien | Oblast Pasardschik"
+    },
+    {
+        "en": "Petrich",
+        "en:t": "Bulgaria | Blagoevgrad Province",
+        "a": true,
+        "g": {
+            "lat": 41.3981,
+            "lon": 23.2067
+        },
+        "it": "Petri\u010d",
+        "it:t": "Bulgaria | Regione di Blagoevgrad",
+        "es": "Petrich",
+        "es:t": "Bulgaria | Provincia de Blagoevgrad",
+        "de": "Petritsch",
+        "de:t": "Bulgarien | Blagoewgrad"
+    },
+    {
+        "en": "Pleven",
+        "en:t": "Bulgaria | Pleven Province",
+        "a": true,
+        "g": {
+            "lat": 43.417,
+            "lon": 24.6067
+        },
+        "it": "Pleven",
+        "it:t": "Bulgaria | Regione di Pleven",
+        "es": "Pleven",
+        "es:t": "Bulgaria | Provincia de Pleven",
+        "de": "Plewen",
+        "de:t": "Bulgarien"
+    },
+    {
+        "en": "Plovdiv",
+        "en:t": "Bulgaria | Plovdiv Province",
+        "a": true,
+        "g": {
+            "lat": 42.1354,
+            "lon": 24.7453
+        },
+        "it": "Plovdiv",
+        "it:t": "Bulgaria | Regione di Plovdiv",
+        "es": "Plovdiv",
+        "es:t": "Bulgaria | Provincia de Plovdiv",
+        "de": "Plowdiw",
+        "de:t": "Bulgarien | Oblast Plowdiw"
+    },
+    {
+        "en": "Popovo",
+        "en:t": "Bulgaria | Targovishte Province",
+        "a": true,
+        "g": {
+            "lat": 43.3491,
+            "lon": 26.2268
+        },
+        "it": "Popovo",
+        "it:t": "Bulgaria | Targovishte Province",
+        "es": "Popovo",
+        "es:t": "Bulgaria | Targovishte",
+        "de": "Popowo",
+        "de:t": "Bulgarien | Targowischte"
+    },
+    {
+        "en": "Rakovski",
+        "en:t": "Bulgaria | Plovdiv Province",
+        "a": true,
+        "g": {
+            "lat": 42.2716,
+            "lon": 24.9431
+        },
+        "it": "Rakovski",
+        "it:t": "Bulgaria | Plovdiv Province",
+        "es": "Rakovski",
+        "es:t": "Bulgaria | Provincia de Plovdiv",
+        "de": "Rakowski",
+        "de:t": "Bulgarien | Oblast Plowdiw"
+    },
+    {
+        "en": "Razgrad",
+        "en:t": "Bulgaria",
+        "a": true,
+        "g": {
+            "lat": 43.5337,
+            "lon": 26.5411
+        },
+        "it": "Razgrad",
+        "it:t": "Bulgaria",
+        "es": "Razgrad",
+        "es:t": "Bulgaria | Provincia de Razgrad",
+        "de": "Rasgrad",
+        "de:t": "Bulgarien | Oblast Rasgrad"
+    },
+    {
+        "en": "Ruse",
+        "en:t": "Bulgaria",
+        "a": true,
+        "g": {
+            "lat": 43.8356,
+            "lon": 25.9657
+        },
+        "it": "Ruse",
+        "it:t": "Bulgaria | Regione di Ruse",
+        "es": "Ruse",
+        "es:t": "Bulgaria | Provincia de Ruse",
+        "de": "Russe",
+        "de:t": "Bulgarien"
+    },
+    {
+        "en": "Samokov",
+        "en:t": "Bulgaria | Sofia Province",
+        "a": true,
+        "g": {
+            "lat": 42.337,
+            "lon": 23.5528
+        },
+        "it": "Samokov",
+        "it:t": "Bulgaria | Regione di Sofia",
+        "es": "Samokov",
+        "es:t": "Bulgaria | Provincia de Sof\u00eda",
+        "de": "Samokow",
+        "de:t": "Bulgarien | Oblast Sofia"
+    },
+    {
+        "en": "Sandanski",
+        "en:t": "Bulgaria | Blagoevgrad Province",
+        "a": true,
+        "g": {
+            "lat": 41.5678,
+            "lon": 23.2804
+        },
+        "it": "Sandanski",
+        "it:t": "Bulgaria | Regione di Blagoevgrad",
+        "es": "Sandanski",
+        "es:t": "Bulgaria | Provincia de Blagoevgrad",
+        "de": "Sandanski",
+        "de:t": "Bulgarien | Blagoewgrad"
+    },
+    {
+        "en": "Sevlievo",
+        "en:t": "Bulgaria | Gabrovo",
+        "a": true,
+        "g": {
+            "lat": 43.0267,
+            "lon": 25.1034
+        },
+        "it": "Sevlievo",
+        "it:t": "Bulgaria | Regione di Gabrovo",
+        "es": "Sevlievo",
+        "es:t": "Bulgaria | Provincia de Gabrovo",
+        "de": "Sewliewo",
+        "de:t": "Bulgarien | Gabrowo"
+    },
+    {
+        "en": "Shumen",
+        "en:t": "Bulgaria | Shumen Province",
+        "a": true,
+        "g": {
+            "lat": 43.2712,
+            "lon": 26.9361
+        },
+        "it": "\u0160umen",
+        "it:t": "Bulgaria | Regione di \u0160umen",
+        "es": "Shumen",
+        "es:t": "Bulgaria | Provincia de Shumen",
+        "de": "Schumen",
+        "de:t": "Bulgarien | Oblast Schumen"
+    },
+    {
+        "en": "Silistra",
+        "en:t": "Bulgaria",
+        "a": true,
+        "g": {
+            "lat": 44.1147,
+            "lon": 27.2672
+        },
+        "it": "Silistra",
+        "it:t": "Bulgaria | Regione di Silistra",
+        "es": "Silistra",
+        "es:t": "Bulgaria | Provincia de Silistra",
+        "de": "Silistra",
+        "de:t": "Bulgarien | Oblast Silistra"
+    },
+    {
+        "en": "Sliven",
+        "en:t": "Bulgaria | Sliven Province",
+        "a": true,
+        "g": {
+            "lat": 42.6817,
+            "lon": 26.3229
+        },
+        "it": "Sliven",
+        "it:t": "Bulgaria | Distretto di Sliven",
+        "es": "Sliven",
+        "es:t": "Bulgaria | Provincia de Sliven",
+        "de": "Sliwen",
+        "de:t": "Bulgarien"
+    },
+    {
+        "en": "Smolyan",
+        "en:t": "Bulgaria | Smoljan",
+        "a": true,
+        "g": {
+            "lat": 41.5774,
+            "lon": 24.7011
+        },
+        "it": "Smoljan",
+        "it:t": "Bulgaria | Regione di Smoljan",
+        "es": "Smolyan",
+        "es:t": "Bulgaria | Smoljan",
+        "de": "Smoljan",
+        "de:t": "Bulgarien | Oblast Smoljan"
+    },
+    {
+        "en": "Sofia",
+        "en:t": "Bulgaria | Sofia City Province",
+        "a": true,
+        "g": {
+            "lat": 42.6977,
+            "lon": 23.3219
+        },
+        "it": "Sofia",
+        "it:t": "Bulgaria | Sofia-grad",
+        "es": "Sof\u00eda",
+        "es:t": "Bulgaria | Provincia de Sof\u00eda-Ciudad",
+        "de": "Sofia",
+        "de:t": "Bulgarien | Oblast Sofia-Stadt"
+    },
+    {
+        "en": "Stara Zagora",
+        "en:t": "Bulgaria",
+        "a": true,
+        "g": {
+            "lat": 42.4258,
+            "lon": 25.6345
+        },
+        "it": "Stara Zagora",
+        "it:t": "Bulgaria | Regione di Stara Zagora",
+        "es": "Stara Zagora",
+        "es:t": "Bulgaria | Provincia de Stara Zagora",
+        "de": "Stara Sagora",
+        "de:t": "Bulgarien"
+    },
+    {
+        "en": "Svilengrad",
+        "en:t": "Bulgaria | Haskovo Province",
+        "a": true,
+        "g": {
+            "lat": 41.7655,
+            "lon": 26.2019
+        },
+        "it": "Svilengrad",
+        "it:t": "Bulgaria | Regione di Haskovo",
+        "es": "Svilengrad",
+        "es:t": "Bulgaria | Provincia de Haskovo",
+        "de": "Swilengrad",
+        "de:t": "Bulgarien | Chaskowo"
+    },
+    {
+        "en": "Svishtov",
+        "en:t": "Bulgaria | Veliko Tarnovo Province",
+        "a": true,
+        "g": {
+            "lat": 43.6184,
+            "lon": 25.3506
+        },
+        "it": "Svishtov",
+        "it:t": "Bulgaria | Veliko Tarnovo Province",
+        "es": "Svishtov",
+        "es:t": "Bulgaria | Provincia de Veliko Tarnovo",
+        "de": "Swischtow",
+        "de:t": "Bulgarien | Weliko Tarnowo"
+    },
+    {
+        "en": "Targovishte",
+        "en:t": "Bulgaria | Targovishte Province",
+        "a": true,
+        "g": {
+            "lat": 43.2494,
+            "lon": 26.5727
+        },
+        "it": "T\u0103rgovi\u0161te",
+        "it:t": "Bulgaria | Regione di T\u0103rgovi\u0161te",
+        "es": "T\u0103rgovi\u0161te",
+        "es:t": "Bulgaria | Targovishte",
+        "de": "Targowischte",
+        "de:t": "Bulgarien"
+    },
+    {
+        "en": "Troyan",
+        "en:t": "Bulgaria | Lovec",
+        "a": true,
+        "g": {
+            "lat": 42.8904,
+            "lon": 24.713
+        },
+        "it": "Trojan",
+        "it:t": "Bulgaria | Regione di Love\u010d",
+        "es": "Troyan",
+        "es:t": "Bulgaria | Lovech",
+        "de": "Trojan",
+        "de:t": "Bulgarien | Lowetsch"
+    },
+    {
+        "en": "Varna",
+        "en:t": "Bulgaria",
+        "a": true,
+        "g": {
+            "lat": 43.2141,
+            "lon": 27.9147
+        },
+        "it": "Varna",
+        "it:t": "Bulgaria | Regione di Varna",
+        "es": "Varna",
+        "es:t": "Bulgaria | Provincia de Varna",
+        "de": "Warna",
+        "de:t": "Bulgarien | Oblast Warna"
+    },
+    {
+        "en": "Veliko Tarnovo",
+        "en:t": "Bulgaria | Veliko Tarnovo Province",
+        "a": true,
+        "g": {
+            "lat": 43.0757,
+            "lon": 25.6172
+        },
+        "it": "Veliko T\u0103rnovo",
+        "it:t": "Bulgaria | Regione di Veliko T\u0103rnovo",
+        "es": "Veliko Tarnovo",
+        "es:t": "Bulgaria | Provincia de Veliko Tarnovo",
+        "de": "Weliko Tarnowo",
+        "de:t": "Bulgarien"
+    },
+    {
+        "en": "Velingrad",
+        "en:t": "Bulgaria | Pazardzhik",
+        "a": true,
+        "g": {
+            "lat": 42.0275,
+            "lon": 23.9916
+        },
+        "it": "Velingrad",
+        "it:t": "Bulgaria | Regione di Pazard\u017eik",
+        "es": "Velingrad",
+        "es:t": "Bulgaria | Pazardzhik",
+        "de": "Welingrad",
+        "de:t": "Bulgarien | Oblast Pasardschik"
+    },
+    {
+        "en": "Vidin",
+        "en:t": "Bulgaria",
+        "a": true,
+        "g": {
+            "lat": 43.9962,
+            "lon": 22.8679
+        },
+        "it": "Vidin",
+        "it:t": "Bulgaria | Regione di Vidin",
+        "es": "Vidin",
+        "es:t": "Bulgaria | Provincia de Vidin",
+        "de": "Widin",
+        "de:t": "Bulgarien | Oblast Widin"
+    },
+    {
+        "en": "Vratsa",
+        "en:t": "Bulgaria | Vraca",
+        "a": true,
+        "g": {
+            "lat": 43.2102,
+            "lon": 23.5529
+        },
+        "it": "Vraca",
+        "it:t": "Bulgaria | Regione di Vraca",
+        "es": "Vratsa",
+        "es:t": "Bulgaria",
+        "de": "Wraza",
+        "de:t": "Bulgarien"
+    },
+    {
+        "en": "Yambol",
+        "en:t": "Bulgaria | Jambol",
+        "a": true,
+        "g": {
+            "lat": 42.4842,
+            "lon": 26.5035
+        },
+        "it": "Jambol",
+        "it:t": "Bulgaria | Regione di Jambol",
+        "es": "Yambol",
+        "es:t": "Bulgaria",
+        "de": "Jambol",
+        "de:t": "Bulgarien | Oblast Jambol"
+    }
+]

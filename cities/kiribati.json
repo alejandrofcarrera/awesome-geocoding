@@ -1,0 +1,17 @@
+[
+    {
+        "en": "Gilbert Islands",
+        "en:t": "Kiribati",
+        "a": true,
+        "g": {
+            "lat": 0.3524,
+            "lon": 174.7553
+        },
+        "it": "Isole Gilbert",
+        "it:t": "Kiribati",
+        "es": "Islas Gilbert",
+        "es:t": "Kiribati",
+        "de": "Gilbertinseln",
+        "de:t": "Kiribati"
+    }
+]

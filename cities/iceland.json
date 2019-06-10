@@ -1,0 +1,62 @@
+[
+    {
+        "en": "Akureyri",
+        "en:t": "Iceland",
+        "a": true,
+        "g": {
+            "lat": 65.6826,
+            "lon": -18.0907
+        },
+        "it": "Akureyri",
+        "it:t": "Islanda",
+        "es": "Akureyri",
+        "es:t": "Islandia",
+        "de": "Akureyri",
+        "de:t": "Island"
+    },
+    {
+        "en": "Hafnarfjordur",
+        "en:t": "Iceland",
+        "a": true,
+        "g": {
+            "lat": 64.0291,
+            "lon": -21.9685
+        },
+        "it": "Hafnarfj\u00f6r\u00f0ur",
+        "it:t": "Islanda",
+        "es": "Hafnarfj\u00f6r\u00f0ur",
+        "es:t": "Islandia",
+        "de": "Hafnarfj\u00f6r\u00f0ur",
+        "de:t": "Island"
+    },
+    {
+        "en": "K\u00f3pavogur",
+        "en:t": "Iceland",
+        "a": true,
+        "g": {
+            "lat": 64.1033,
+            "lon": -21.8833
+        },
+        "it": "K\u00f3pavogur",
+        "it:t": "Islanda",
+        "es": "K\u00f3pavogur",
+        "es:t": "Islandia",
+        "de": "K\u00f3pavogur",
+        "de:t": "Island"
+    },
+    {
+        "en": "Reykjav\u00edk",
+        "en:t": "Iceland",
+        "a": true,
+        "g": {
+            "lat": 64.1466,
+            "lon": -21.9426
+        },
+        "it": "Reykjav\u00edk",
+        "it:t": "Islanda",
+        "es": "Reikiavik",
+        "es:t": "Islandia",
+        "de": "Reykjav\u00edk",
+        "de:t": "Island"
+    }
+]

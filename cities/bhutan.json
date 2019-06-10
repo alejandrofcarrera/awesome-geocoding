@@ -1,0 +1,62 @@
+[
+    {
+        "en": "Phuentsholing",
+        "en:t": "Bhutan | Chukha",
+        "a": true,
+        "g": {
+            "lat": 26.8603,
+            "lon": 89.3938
+        },
+        "it": "Phuentsholing",
+        "it:t": "Bhutan | Distretto di Chukha",
+        "es": "Phuntsholing",
+        "es:t": "But\u00e1n | Distrito de Chukha",
+        "de": "Phuentsholing",
+        "de:t": "Bhutan | Chukha"
+    },
+    {
+        "en": "Punakha",
+        "en:t": "Bhutan",
+        "a": true,
+        "g": {
+            "lat": 27.5921,
+            "lon": 89.8797
+        },
+        "it": "Punakha",
+        "it:t": "Bhutan",
+        "es": "Punakha",
+        "es:t": "But\u00e1n | Punaca",
+        "de": "Punakha",
+        "de:t": "Bhutan"
+    },
+    {
+        "en": "Thimphu",
+        "en:t": "Bhutan",
+        "a": true,
+        "g": {
+            "lat": 27.4728,
+            "lon": 89.6393
+        },
+        "it": "Thimphu",
+        "it:t": "Bhutan | Distretto di Thimphu",
+        "es": "Timbu",
+        "es:t": "But\u00e1n",
+        "de": "Thimphu",
+        "de:t": "Bhutan"
+    },
+    {
+        "en": "Tsirang",
+        "en:t": "Bhutan",
+        "a": true,
+        "g": {
+            "lat": 27.0322,
+            "lon": 90.187
+        },
+        "it": "Distretto di Tsirang",
+        "it:t": "Bhutan",
+        "es": "Distrito de Tsirang",
+        "es:t": "But\u00e1n",
+        "de": "Tsirang",
+        "de:t": "Bhutan"
+    }
+]

@@ -1,0 +1,422 @@
+[
+    {
+        "en": "Alajuela",
+        "en:t": "Costa Rica | Alajuela",
+        "a": true,
+        "g": {
+            "lat": 10.0159,
+            "lon": -84.2142
+        },
+        "it": "Alajuela",
+        "it:t": "Costa Rica | Alajuela",
+        "es": "Alajuela",
+        "es:t": "Costa Rica | Alajuela",
+        "de": "Alajuela",
+        "de:t": "Costa Rica | Alajuela"
+    },
+    {
+        "en": "Aserri",
+        "en:t": "Costa Rica | San Jos\u00e9",
+        "a": true,
+        "g": {
+            "lat": 9.8642,
+            "lon": -84.0934
+        },
+        "it": "Aserr\u00ed",
+        "it:t": "Costa Rica | San Jos\u00e9",
+        "es": "Aserri",
+        "es:t": "Costa Rica | San Jos\u00e9",
+        "de": "Aserri",
+        "de:t": "Costa Rica | San Jos\u00e9"
+    },
+    {
+        "en": "Calle Blancos",
+        "en:t": "Costa Rica | San Jos\u00e9",
+        "a": true,
+        "g": {
+            "lat": 9.9471,
+            "lon": -84.067
+        },
+        "it": "Calle Blancos",
+        "it:t": "Costa Rica | San Jos\u00e9",
+        "es": "Calle Blancos",
+        "es:t": "Costa Rica | San Jos\u00e9",
+        "de": "Calle Blancos",
+        "de:t": "Costa Rica | San Jos\u00e9"
+    },
+    {
+        "en": "Cartago",
+        "en:t": "Costa Rica | Cartago",
+        "a": true,
+        "g": {
+            "lat": 9.8638,
+            "lon": -83.9162
+        },
+        "it": "Cartago",
+        "it:t": "Costa Rica | Cartago",
+        "es": "Cartago",
+        "es:t": "Costa Rica | Cartago",
+        "de": "Cartago",
+        "de:t": "Costa Rica | Cartago"
+    },
+    {
+        "en": "Ca\u00f1as",
+        "en:t": "Costa Rica | Guanacaste",
+        "a": true,
+        "g": {
+            "lat": 10.4274,
+            "lon": -85.0935
+        },
+        "it": "Cantone di Ca\u00f1as",
+        "it:t": "Costa Rica | Guanacaste",
+        "es": "Ca\u00f1as",
+        "es:t": "Costa Rica | Guanacaste",
+        "de": "Ca\u00f1as",
+        "de:t": "Costa Rica | Guanacaste"
+    },
+    {
+        "en": "Chacarita",
+        "en:t": "Costa Rica | Puntarenas",
+        "a": true,
+        "g": {
+            "lat": 9.9867,
+            "lon": -84.7707
+        },
+        "it": "Chacarita",
+        "it:t": "Costa Rica | Puntarenas",
+        "es": "Chacarita",
+        "es:t": "Costa Rica | Puntarenas",
+        "de": "Chacarita",
+        "de:t": "Costa Rica | Puntarenas"
+    },
+    {
+        "en": "Colima",
+        "en:t": "Costa Rica | Tibas",
+        "a": true,
+        "g": {
+            "lat": 9.9531,
+            "lon": -84.0881
+        },
+        "it": "Colima",
+        "it:t": "Costa Rica | Tib\u00e1s",
+        "es": "Colima",
+        "es:t": "Costa Rica | Tib\u00e1s",
+        "de": "Colima",
+        "de:t": "Costa Rica | Tibas"
+    },
+    {
+        "en": "Curridabat",
+        "en:t": "Costa Rica | San Jos\u00e9",
+        "a": true,
+        "g": {
+            "lat": 9.9146,
+            "lon": -84.0387
+        },
+        "it": "Curridabat",
+        "it:t": "Costa Rica | San Jos\u00e9",
+        "es": "Curridabat",
+        "es:t": "Costa Rica | San Jos\u00e9",
+        "de": "Curridabat",
+        "de:t": "Costa Rica | San Jos\u00e9"
+    },
+    {
+        "en": "Esparza",
+        "en:t": "Costa Rica | Puntarenas",
+        "a": true,
+        "g": {
+            "lat": 9.9907,
+            "lon": -84.6674
+        },
+        "it": "Cantone di Esparza",
+        "it:t": "Costa Rica | Puntarenas",
+        "es": "Esparza",
+        "es:t": "Costa Rica | Puntarenas",
+        "de": "Esparza",
+        "de:t": "Costa Rica | Puntarenas"
+    },
+    {
+        "en": "Guadalupe",
+        "en:t": "Costa Rica | San Jos\u00e9",
+        "a": true,
+        "g": {
+            "lat": 9.9466,
+            "lon": -84.0536
+        },
+        "it": "Guadalupe",
+        "it:t": "Costa Rica | San Jos\u00e9",
+        "es": "Guadalupe",
+        "es:t": "Costa Rica | San Jos\u00e9",
+        "de": "Guadalupe",
+        "de:t": "Costa Rica | San Jos\u00e9"
+    },
+    {
+        "en": "Guapiles",
+        "en:t": "Costa Rica | Lim\u00f3n",
+        "a": true,
+        "g": {
+            "lat": 10.2133,
+            "lon": -83.7869
+        },
+        "it": "Gu\u00e1piles",
+        "it:t": "Costa Rica | Lim\u00f3n",
+        "es": "Gu\u00e1piles",
+        "es:t": "Costa Rica | Lim\u00f3n",
+        "de": "Guapiles",
+        "de:t": "Costa Rica | Lim\u00f3n"
+    },
+    {
+        "en": "Heredia",
+        "en:t": "Costa Rica | Heredia",
+        "a": true,
+        "g": {
+            "lat": 9.9981,
+            "lon": -84.1198
+        },
+        "it": "Heredia",
+        "it:t": "Costa Rica | Heredia",
+        "es": "Heredia",
+        "es:t": "Costa Rica | Heredia",
+        "de": "Heredia",
+        "de:t": "Costa Rica | Heredia"
+    },
+    {
+        "en": "Ip\u00eds de Goicoechea",
+        "en:t": "Costa Rica | San Jos\u00e9",
+        "a": true,
+        "g": {
+            "lat": 9.9655,
+            "lon": -84.0221
+        },
+        "it": "Ip\u00eds de Goicoechea",
+        "it:t": "Costa Rica | San Jos\u00e9",
+        "es": "Ip\u00eds de Goicoechea",
+        "es:t": "Costa Rica | San Jos\u00e9",
+        "de": "Ip\u00eds de Goicoechea",
+        "de:t": "Costa Rica | San Jos\u00e9"
+    },
+    {
+        "en": "Liberia",
+        "en:t": "Costa Rica | Guanacaste",
+        "a": true,
+        "g": {
+            "lat": 10.6346,
+            "lon": -85.4407
+        },
+        "it": "Cantone di Liberia",
+        "it:t": "Costa Rica | Guanacaste",
+        "es": "Liberia",
+        "es:t": "Costa Rica | Guanacaste",
+        "de": "Liberia",
+        "de:t": "Costa Rica | Guanacaste"
+    },
+    {
+        "en": "Limon",
+        "en:t": "Costa Rica",
+        "a": true,
+        "g": {
+            "lat": 9.9913,
+            "lon": -83.0415
+        },
+        "it": "Lim\u00f3n",
+        "it:t": "Costa Rica",
+        "es": "Lim\u00f3n",
+        "es:t": "Costa Rica",
+        "de": "Lim\u00f3n",
+        "de:t": "Costa Rica"
+    },
+    {
+        "en": "Nicoya",
+        "en:t": "Costa Rica | Guanacaste",
+        "a": true,
+        "g": {
+            "lat": 10.1446,
+            "lon": -85.453
+        },
+        "it": "Nicoya",
+        "it:t": "Costa Rica | Guanacaste",
+        "es": "Nicoya",
+        "es:t": "Costa Rica | Guanacaste",
+        "de": "Nicoya",
+        "de:t": "Costa Rica | Guanacaste"
+    },
+    {
+        "en": "Para\u00edso",
+        "en:t": "Costa Rica | Cartago",
+        "a": true,
+        "g": {
+            "lat": 9.8392,
+            "lon": -83.8664
+        },
+        "it": "Para\u00edso",
+        "it:t": "Costa Rica | Cartago",
+        "es": "Para\u00edso",
+        "es:t": "Costa Rica | Cartago",
+        "de": "Para\u00edso",
+        "de:t": "Costa Rica | Cartago"
+    },
+    {
+        "en": "Patarra",
+        "en:t": "Costa Rica | San Jos\u00e9",
+        "a": true,
+        "g": {
+            "lat": 9.8853,
+            "lon": -84.03
+        },
+        "it": "Patarr\u00e1",
+        "it:t": "Costa Rica | San Jos\u00e9",
+        "es": "Patarr\u00e1",
+        "es:t": "Costa Rica | San Jos\u00e9",
+        "de": "Patarra",
+        "de:t": "Costa Rica | San Jos\u00e9"
+    },
+    {
+        "en": "Punta Arenas",
+        "en:t": "Costa Rica | Puntarenas",
+        "a": true,
+        "g": {
+            "lat": 9.9778,
+            "lon": -84.8294
+        },
+        "it": "Puntarenas",
+        "it:t": "Costa Rica | Puntarenas",
+        "es": "Puntarenas",
+        "es:t": "Costa Rica | Puntarenas",
+        "de": "Puntarenas",
+        "de:t": "Costa Rica | Puntarenas"
+    },
+    {
+        "en": "Purral",
+        "en:t": "Costa Rica | San Jos\u00e9",
+        "a": true,
+        "g": {
+            "lat": 9.9622,
+            "lon": -84.0073
+        },
+        "it": "Purral",
+        "it:t": "Costa Rica | San Jos\u00e9",
+        "es": "Purral",
+        "es:t": "Costa Rica | San Jos\u00e9",
+        "de": "Purral",
+        "de:t": "Costa Rica | San Jos\u00e9"
+    },
+    {
+        "en": "Quesada",
+        "en:t": "Costa Rica | Alajuela",
+        "a": true,
+        "g": {
+            "lat": 10.3271,
+            "lon": -84.4357
+        },
+        "it": "Quesada",
+        "it:t": "Costa Rica | Alajuela",
+        "es": "Ciudad Quesada",
+        "es:t": "Costa Rica | Alajuela",
+        "de": "Quesada",
+        "de:t": "Costa Rica | Alajuela"
+    },
+    {
+        "en": "San Diego",
+        "en:t": "Costa Rica | Cartago",
+        "a": true,
+        "g": {
+            "lat": 9.9015,
+            "lon": -84.0035
+        },
+        "it": "San Diego",
+        "it:t": "Costa Rica | Cartago",
+        "es": "San Diego",
+        "es:t": "Costa Rica | Cartago",
+        "de": "San Diego",
+        "de:t": "Costa Rica | Cartago"
+    },
+    {
+        "en": "San Felipe",
+        "en:t": "Costa Rica | Alajuelita",
+        "a": true,
+        "g": {
+            "lat": 9.9075,
+            "lon": -84.1052
+        },
+        "it": "San Felipe",
+        "it:t": "Costa Rica | Alajuelita",
+        "es": "San Felipe",
+        "es:t": "Costa Rica | Alajuelita",
+        "de": "San Felipe",
+        "de:t": "Costa Rica | Alajuelita"
+    },
+    {
+        "en": "San Isidro de El General",
+        "en:t": "Costa Rica | San Jos\u00e9",
+        "a": true,
+        "g": {
+            "lat": 9.366,
+            "lon": -83.6961
+        },
+        "it": "San Isidro de El General",
+        "it:t": "Costa Rica | San Jos\u00e9",
+        "es": "San Isidro de El General",
+        "es:t": "Costa Rica | San Jos\u00e9",
+        "de": "San Isidro de El General",
+        "de:t": "Costa Rica | San Jos\u00e9"
+    },
+    {
+        "en": "San Jos\u00e9",
+        "en:t": "Costa Rica",
+        "a": true,
+        "g": {
+            "lat": 9.9281,
+            "lon": -84.0907
+        },
+        "it": "San Jos\u00e9",
+        "it:t": "Costa Rica",
+        "es": "San Jos\u00e9",
+        "es:t": "Costa Rica",
+        "de": "San Jos\u00e9",
+        "de:t": "Costa Rica"
+    },
+    {
+        "en": "San Miguel",
+        "en:t": "Costa Rica | San Jos\u00e9",
+        "a": true,
+        "g": {
+            "lat": 9.8761,
+            "lon": -84.063
+        },
+        "it": "San Miguel",
+        "it:t": "Costa Rica | San Jos\u00e9",
+        "es": "San Miguel",
+        "es:t": "Costa Rica | San Jos\u00e9",
+        "de": "San Miguel",
+        "de:t": "Costa Rica | San Jos\u00e9"
+    },
+    {
+        "en": "San Pablo",
+        "en:t": "Costa Rica | Heredia",
+        "a": true,
+        "g": {
+            "lat": 10.0003,
+            "lon": -84.0854
+        },
+        "it": "San Pablo",
+        "it:t": "Costa Rica | Heredia",
+        "es": "San Pablo",
+        "es:t": "Costa Rica | Heredia",
+        "de": "San Pablo",
+        "de:t": "Costa Rica | Heredia Province"
+    },
+    {
+        "en": "San Vicente",
+        "en:t": "Costa Rica | San Jos\u00e9",
+        "a": true,
+        "g": {
+            "lat": 9.9634,
+            "lon": -84.0458
+        },
+        "it": "San Vicente",
+        "it:t": "Costa Rica | San Jos\u00e9",
+        "es": "San Vicente",
+        "es:t": "Costa Rica | San Jos\u00e9",
+        "de": "San Vicente",
+        "de:t": "Costa Rica | San Jos\u00e9"
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "en": "Belize City",
+        "en:t": "Belize | Belize District",
+        "a": true,
+        "g": {
+            "lat": 17.5046,
+            "lon": -88.1962
+        },
+        "it": "Belize City",
+        "it:t": "Belize | Distretto di Belize",
+        "es": "Ciudad de Belice",
+        "es:t": "Belice",
+        "de": "Belize Stadt",
+        "de:t": "Belize | Belize District"
+    },
+    {
+        "en": "Belmopan",
+        "en:t": "Belize | Cayo District",
+        "a": true,
+        "g": {
+            "lat": 17.251,
+            "lon": -88.759
+        },
+        "it": "Belmopan",
+        "it:t": "Belize | Distretto di Cayo",
+        "es": "Belmop\u00e1n",
+        "es:t": "Belice | Distrito de Cayo",
+        "de": "Belmopan",
+        "de:t": "Belize | Cayo District"
+    },
+    {
+        "en": "Orange Walk",
+        "en:t": "Belize | Orange Walk District",
+        "a": true,
+        "g": {
+            "lat": 18.0842,
+            "lon": -88.571
+        },
+        "it": "Orange Walk Town",
+        "it:t": "Belize | Distretto di Orange Walk",
+        "es": "Orange Walk",
+        "es:t": "Belice | Distrito de Orange Walk",
+        "de": "Orange Walk Town",
+        "de:t": "Belize | Orange Walk District"
+    },
+    {
+        "en": "San Ignacio",
+        "en:t": "Belize | Cayo District",
+        "a": true,
+        "g": {
+            "lat": 17.1523,
+            "lon": -89.08
+        },
+        "it": "San Ignacio",
+        "it:t": "Belize | Distretto di Cayo",
+        "es": "San Ignacio",
+        "es:t": "Belice | Distrito de Cayo",
+        "de": "San Ignacio",
+        "de:t": "Belize | Cayo District"
+    }
+]

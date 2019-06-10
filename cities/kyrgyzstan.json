@@ -1,0 +1,317 @@
+[
+    {
+        "en": "At-Bashi",
+        "en:t": "Kyrgyzstan | At-Bashi",
+        "a": true,
+        "g": {
+            "lat": 41.1695,
+            "lon": 75.8098
+        },
+        "it": "At-Ba\u0161y",
+        "it:t": "Kirghizistan | At-Ba\u0161y",
+        "es": "At-Bashi",
+        "es:t": "Kirguist\u00e1n | At-Bashi",
+        "de": "At-Bashi",
+        "de:t": "Kirgisistan | At-Bashi"
+    },
+    {
+        "en": "Balykchy",
+        "en:t": "Kyrgyzstan | Issyk-Kul",
+        "a": true,
+        "g": {
+            "lat": 42.4625,
+            "lon": 76.19
+        },
+        "it": "Balyk\u010dy",
+        "it:t": "Kirghizistan | Ysyk-K\u00f6l",
+        "es": "Balikci",
+        "es:t": "Kirguist\u00e1n | Ysyk-Kol",
+        "de": "Balyktschy",
+        "de:t": "Kirgisistan | Issyk-Kul"
+    },
+    {
+        "en": "Bazar-Korgon",
+        "en:t": "Kyrgyzstan | Bazar Korgon",
+        "a": true,
+        "g": {
+            "lat": 41.0285,
+            "lon": 72.7393
+        },
+        "it": "Bazar-Korgon",
+        "it:t": "Kirghizistan | Bazar-Korgon",
+        "es": "Bazar-Korgon",
+        "es:t": "Kirguist\u00e1n | Bazar Korgon",
+        "de": "Bazar-Korgon",
+        "de:t": "Kirgisistan | Bazar Korgon"
+    },
+    {
+        "en": "Bishkek",
+        "en:t": "Kyrgyzstan | Chuy",
+        "a": true,
+        "g": {
+            "lat": 42.8746,
+            "lon": 74.5698
+        },
+        "it": "Bi\u0161kek",
+        "it:t": "Kirghizistan | \u010cuj",
+        "es": "Biskek",
+        "es:t": "Kirguist\u00e1n | Chuy",
+        "de": "Bischkek",
+        "de:t": "Kirgisistan | Gebiet Tsch\u00fci"
+    },
+    {
+        "en": "Cholpon Ata",
+        "en:t": "Kyrgyzstan | Issyk-Kul",
+        "a": true,
+        "g": {
+            "lat": 42.6503,
+            "lon": 77.0852
+        },
+        "it": "\u010colponata",
+        "it:t": "Kirghizistan | Ysyk-K\u00f6l",
+        "es": "Cholpon-Ata",
+        "es:t": "Kirguist\u00e1n | Ysyk-Kol",
+        "de": "Tscholponata",
+        "de:t": "Kirgisistan | Issyk-Kul"
+    },
+    {
+        "en": "Iradan",
+        "en:t": "Kyrgyzstan | Nookat",
+        "a": true,
+        "g": {
+            "lat": 40.2667,
+            "lon": 72.1
+        },
+        "it": "Iradan",
+        "it:t": "Kirghizistan | Nookat",
+        "es": "Iradan",
+        "es:t": "Kirguist\u00e1n | Nookat",
+        "de": "Iradan",
+        "de:t": "Kirgisistan | Nookat"
+    },
+    {
+        "en": "Isfana",
+        "en:t": "Kyrgyzstan | Leilek",
+        "a": true,
+        "g": {
+            "lat": 39.8286,
+            "lon": 69.5321
+        },
+        "it": "Isfana",
+        "it:t": "Kirghizistan | Lejlek",
+        "es": "Isfana",
+        "es:t": "Kirguist\u00e1n | Leilek",
+        "de": "Isfana",
+        "de:t": "Kirgisistan | Rajon Leilek"
+    },
+    {
+        "en": "Jalal-Abad",
+        "en:t": "Kyrgyzstan | Suzak",
+        "a": true,
+        "g": {
+            "lat": 40.9332,
+            "lon": 72.9815
+        },
+        "it": "\u017dalalabad",
+        "it:t": "Kirghizistan | Suzak",
+        "es": "Jalal-Abad",
+        "es:t": "Kirguist\u00e1n | Suzak",
+        "de": "Dschalalabat",
+        "de:t": "Kirgisistan | Suzak"
+    },
+    {
+        "en": "Kant",
+        "en:t": "Kyrgyzstan | Ysyk-Ata",
+        "a": true,
+        "g": {
+            "lat": 42.8883,
+            "lon": 74.8449
+        },
+        "it": "Kant",
+        "it:t": "Kirghizistan | Ysyk-Ata",
+        "es": "Kant",
+        "es:t": "Kirguist\u00e1n | Ysyk-Ata",
+        "de": "Kant",
+        "de:t": "Kirgisistan | Rajon Yssyk-Ata"
+    },
+    {
+        "en": "Kara Balta",
+        "en:t": "Kyrgyzstan | Jaiyl",
+        "a": true,
+        "g": {
+            "lat": 42.8212,
+            "lon": 73.8537
+        },
+        "it": "Kara-Balta",
+        "it:t": "Kirghizistan | \u017dajyl",
+        "es": "Kara-Balta",
+        "es:t": "Kirguist\u00e1n | Jaiyl",
+        "de": "Karabalta",
+        "de:t": "Kirgisistan | Jaiyl"
+    },
+    {
+        "en": "Karakol",
+        "en:t": "Kyrgyzstan | Ak-Su",
+        "a": true,
+        "g": {
+            "lat": 42.4782,
+            "lon": 78.3956
+        },
+        "it": "Karakol",
+        "it:t": "Kirghizistan | Ak-Suu",
+        "es": "Karakol",
+        "es:t": "Kirguist\u00e1n | Ak-Suu",
+        "de": "Karakol",
+        "de:t": "Kirgisistan | Ak-Su"
+    },
+    {
+        "en": "Kyzyl Suu",
+        "en:t": "Kyrgyzstan | Jety - Oguz",
+        "a": true,
+        "g": {
+            "lat": 42.343,
+            "lon": 78.0053
+        },
+        "it": "Kyzyl-Suu",
+        "it:t": "Kirghizistan | \u017deti-\u00d6guz",
+        "es": "Kyzyl Suu",
+        "es:t": "Kirguist\u00e1n | Jety - Oguz",
+        "de": "Kysyl-Suu",
+        "de:t": "Kirgisistan | Jety - Oguz"
+    },
+    {
+        "en": "Kyzyl-Kiya",
+        "en:t": "Kyrgyzstan | Kadamzhai",
+        "a": true,
+        "g": {
+            "lat": 40.2487,
+            "lon": 72.1298
+        },
+        "it": "Kyzyl-Kiya",
+        "it:t": "Kirghizistan | Kadamzhai",
+        "es": "Kyzyl-Kiya",
+        "es:t": "Kirguist\u00e1n | Kadamjay",
+        "de": "Kyzyl-Kiya",
+        "de:t": "Kirgisistan | Kadamzhai"
+    },
+    {
+        "en": "Naryn",
+        "en:t": "Kyrgyzstan | Naryn",
+        "a": true,
+        "g": {
+            "lat": 41.4274,
+            "lon": 75.9841
+        },
+        "it": "Naryn",
+        "it:t": "Kirghizistan | Tyan'-Shan'",
+        "es": "Naryn",
+        "es:t": "Kirguist\u00e1n | Naryn",
+        "de": "Naryn",
+        "de:t": "Kirgisistan | Rajon Naryn"
+    },
+    {
+        "en": "Osh",
+        "en:t": "Kyrgyzstan | Kara-Suu",
+        "a": true,
+        "g": {
+            "lat": 40.514,
+            "lon": 72.8161
+        },
+        "it": "O\u0161",
+        "it:t": "Kirghizistan | Kara-Suu",
+        "es": "Osh",
+        "es:t": "Kirguist\u00e1n | Kara-Suu",
+        "de": "Osch",
+        "de:t": "Kirgisistan | Rajon Karasuu"
+    },
+    {
+        "en": "Selo Chuy",
+        "en:t": "Kyrgyzstan | Tokmok",
+        "a": true,
+        "g": {
+            "lat": 42.8198,
+            "lon": 75.28
+        },
+        "it": "Tokmok",
+        "it:t": "Kirghizistan | \u010cuj",
+        "es": "Selo Chuy",
+        "es:t": "Kirguist\u00e1n | Tokmok",
+        "de": "Tokmok",
+        "de:t": "Kirgisistan | Rajon Tsch\u00fci"
+    },
+    {
+        "en": "Suluktu\u200e",
+        "en:t": "Kyrgyzstan | Leilek",
+        "a": true,
+        "g": {
+            "lat": 39.9338,
+            "lon": 69.5678
+        },
+        "it": "Suluktu\u200e",
+        "it:t": "Kirghizistan | Leilek",
+        "es": "Suliukta",
+        "es:t": "Kirguist\u00e1n | Leilek",
+        "de": "Suluktu\u200e",
+        "de:t": "Kirgisistan | Leilek"
+    },
+    {
+        "en": "Talas",
+        "en:t": "Kyrgyzstan",
+        "a": true,
+        "g": {
+            "lat": 42.5318,
+            "lon": 72.2305
+        },
+        "it": "Talas",
+        "it:t": "Kirghizistan",
+        "es": "Talas",
+        "es:t": "Kirguist\u00e1n",
+        "de": "Talas",
+        "de:t": "Kirgisistan"
+    },
+    {
+        "en": "Ta\u015fkomur",
+        "en:t": "Kyrgyzstan | Aksy",
+        "a": true,
+        "g": {
+            "lat": 41.3374,
+            "lon": 72.2186
+        },
+        "it": "Ta\u0161k\u00f6mur",
+        "it:t": "Kirghizistan | Aksy",
+        "es": "Tashk\u00f6m\u00fcr",
+        "es:t": "Kirguist\u00e1n | Aksy",
+        "de": "Taschk\u00f6m\u00fcr",
+        "de:t": "Kirgisistan | Rajon Aksy"
+    },
+    {
+        "en": "Toktogul",
+        "en:t": "Kyrgyzstan",
+        "a": true,
+        "g": {
+            "lat": 41.876,
+            "lon": 72.9402
+        },
+        "it": "Toktogul",
+        "it:t": "Kirghizistan",
+        "es": "Toktogul",
+        "es:t": "Kirguist\u00e1n",
+        "de": "Toktogul",
+        "de:t": "Kirgisistan"
+    },
+    {
+        "en": "Uzgen",
+        "en:t": "Kyrgyzstan | Uzgen",
+        "a": true,
+        "g": {
+            "lat": 40.7674,
+            "lon": 73.3031
+        },
+        "it": "Uzgen",
+        "it:t": "Kirghizistan | Uzgen",
+        "es": "Uzgen",
+        "es:t": "Kirguist\u00e1n | Uzgen",
+        "de": "\u00d6sg\u00f6n",
+        "de:t": "Kirgisistan | Rajon \u00d6sg\u00f6n"
+    }
+]

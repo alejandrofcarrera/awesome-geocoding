@@ -1,0 +1,722 @@
+[
+    {
+        "en": "Andkhoy",
+        "en:t": "Afghanistan | Khani Chahar Bagh",
+        "a": true,
+        "g": {
+            "lat": 36.955,
+            "lon": 65.1254
+        },
+        "it": "distretto di Andkhoy",
+        "it:t": "Afghanistan | Distretto di Khan Char Bagh",
+        "es": "Andhvoy",
+        "es:t": "Afganist\u00e1n | Khani Chahar Bagh",
+        "de": "Andkhoy",
+        "de:t": "Afghanistan | Khani Chahar Bagh"
+    },
+    {
+        "en": "Asadabad",
+        "en:t": "Afghanistan | Kunar",
+        "a": true,
+        "g": {
+            "lat": 34.8743,
+            "lon": 71.1538
+        },
+        "it": "Asadabad",
+        "it:t": "Afghanistan | Konar",
+        "es": "Asadabad",
+        "es:t": "Afganist\u00e1n | Kunar",
+        "de": "Asadabad",
+        "de:t": "Afghanistan | Kunar"
+    },
+    {
+        "en": "Asmar",
+        "en:t": "Afghanistan | Dangam",
+        "a": true,
+        "g": {
+            "lat": 35.0299,
+            "lon": 71.3542
+        },
+        "it": "Asmar",
+        "it:t": "Afghanistan | Dangam",
+        "es": "Asmar",
+        "es:t": "Afganist\u00e1n | Dangam",
+        "de": "Asmar",
+        "de:t": "Afghanistan | Dangam"
+    },
+    {
+        "en": "Aybak",
+        "en:t": "Afghanistan | Samangan",
+        "a": true,
+        "g": {
+            "lat": 36.156,
+            "lon": 68.0478
+        },
+        "it": "Distretto di Aybak",
+        "it:t": "Afghanistan | Samangan",
+        "es": "Samangan",
+        "es:t": "Afganist\u00e1n | Aybak",
+        "de": "Aybak",
+        "de:t": "Afghanistan | Samangan"
+    },
+    {
+        "en": "Baghlan",
+        "en:t": "Afghanistan",
+        "a": true,
+        "g": {
+            "lat": 36.1789,
+            "lon": 68.7453
+        },
+        "it": "Baghlan",
+        "it:t": "Afghanistan",
+        "es": "Baghl\u00e1n",
+        "es:t": "Afganist\u00e1n",
+        "de": "Baglan",
+        "de:t": "Afghanistan"
+    },
+    {
+        "en": "Balkh",
+        "en:t": "Afghanistan | Chahar Bolak",
+        "a": true,
+        "g": {
+            "lat": 36.7551,
+            "lon": 66.8975
+        },
+        "it": "Balkh",
+        "it:t": "Afghanistan | Distretto di Chahar Bolak",
+        "es": "Balj",
+        "es:t": "Afganist\u00e1n | Chahar Bolak",
+        "de": "Balch",
+        "de:t": "Afghanistan | Chahar Bolak"
+    },
+    {
+        "en": "Bamyan",
+        "en:t": "Afghanistan | Bamiyan",
+        "a": true,
+        "g": {
+            "lat": 34.81,
+            "lon": 67.8212
+        },
+        "it": "Distretto di Bamiyan",
+        "it:t": "Afghanistan",
+        "es": "Bamiy\u00e1n",
+        "es:t": "Afganist\u00e1n | Bamiyan",
+        "de": "Bamiyan-Tal",
+        "de:t": "Afghanistan | Bamiyan"
+    },
+    {
+        "en": "Baraki Barak",
+        "en:t": "Afghanistan",
+        "a": true,
+        "g": {
+            "lat": 33.9691,
+            "lon": 68.951
+        },
+        "it": "Baraki Barak",
+        "it:t": "Afghanistan",
+        "es": "Baraki Barak",
+        "es:t": "Afganist\u00e1n",
+        "de": "Baraki Barak",
+        "de:t": "Afghanistan"
+    },
+    {
+        "en": "Bazarak District",
+        "en:t": "Afghanistan | Kuz Kunar",
+        "a": true,
+        "g": {
+            "lat": 34.55,
+            "lon": 70.55
+        },
+        "it": "Distretto di Bazarak",
+        "it:t": "Afghanistan | Kuz Kunar",
+        "es": "Provincia de Panjsh\u012br",
+        "es:t": "Afganist\u00e1n",
+        "de": "Bazarak District",
+        "de:t": "Afghanistan | Kuz Kunar"
+    },
+    {
+        "en": "Charikar",
+        "en:t": "Afghanistan | Jabul Saraj",
+        "a": true,
+        "g": {
+            "lat": 35.0108,
+            "lon": 69.1626
+        },
+        "it": "Charikar",
+        "it:t": "Afghanistan | Distretto di Jabal Saraj",
+        "es": "Charikar",
+        "es:t": "Afganist\u00e1n | Jabul Saraj",
+        "de": "Charikar",
+        "de:t": "Afghanistan | Jabul Saraj"
+    },
+    {
+        "en": "Farah",
+        "en:t": "Afghanistan",
+        "a": true,
+        "g": {
+            "lat": 32.4465,
+            "lon": 62.1454
+        },
+        "it": "Farah",
+        "it:t": "Afghanistan | Provincia di Farah",
+        "es": "Far\u0101h",
+        "es:t": "Afganist\u00e1n | Provincia de Far\u0101h",
+        "de": "Farah",
+        "de:t": "Afghanistan"
+    },
+    {
+        "en": "Fayzabad",
+        "en:t": "Afghanistan",
+        "a": true,
+        "g": {
+            "lat": 37.1017,
+            "lon": 70.5552
+        },
+        "it": "Feyzabad",
+        "it:t": "Afghanistan | Distretto di Fayzabad",
+        "es": "Fayz\u0101b\u0101d",
+        "es:t": "Afganist\u00e1n | Distrito de Fayzabad",
+        "de": "Faizabad",
+        "de:t": "Afghanistan | Fayzabad"
+    },
+    {
+        "en": "Gardez",
+        "en:t": "Afghanistan",
+        "a": true,
+        "g": {
+            "lat": 33.6043,
+            "lon": 69.2282
+        },
+        "it": "Gardez",
+        "it:t": "Afghanistan",
+        "es": "Gardez",
+        "es:t": "Afganist\u00e1n",
+        "de": "Gardez",
+        "de:t": "Afghanistan"
+    },
+    {
+        "en": "Gereshk",
+        "en:t": "Afghanistan | Nahri Saraj",
+        "a": true,
+        "g": {
+            "lat": 31.8299,
+            "lon": 64.5681
+        },
+        "it": "Gereshk",
+        "it:t": "Afghanistan | Nahri Saraj",
+        "es": "Gere\u0161k",
+        "es:t": "Afganist\u00e1n | Ruta 611",
+        "de": "Girishk",
+        "de:t": "Afghanistan | Nahri Saraj"
+    },
+    {
+        "en": "Ghazni",
+        "en:t": "Afghanistan",
+        "a": true,
+        "g": {
+            "lat": 33.5451,
+            "lon": 68.4174
+        },
+        "it": "Ghazni",
+        "it:t": "Afghanistan | Provincia di Ghazni",
+        "es": "Gazni",
+        "es:t": "Afganist\u00e1n",
+        "de": "Ghazni",
+        "de:t": "Afghanistan"
+    },
+    {
+        "en": "Ghormach",
+        "en:t": "Afghanistan | Badghis",
+        "a": true,
+        "g": {
+            "lat": 35.8792,
+            "lon": 63.6751
+        },
+        "it": "Distretto di Ghormach",
+        "it:t": "Afghanistan | Badghis",
+        "es": "Ghurmach",
+        "es:t": "Afganist\u00e1n | Ghormach",
+        "de": "Ghurmach",
+        "de:t": "Afghanistan | Ghormach"
+    },
+    {
+        "en": "Hazart Imam",
+        "en:t": "Afghanistan | Imam Sahib",
+        "a": true,
+        "g": {
+            "lat": 37.2095,
+            "lon": 68.7751
+        },
+        "it": "Hazart Imam",
+        "it:t": "Afghanistan | Imam Sahib",
+        "es": "Hazart Imam",
+        "es:t": "Afganist\u00e1n | Imam Sahib",
+        "de": "Hazart Imam",
+        "de:t": "Afghanistan | Imam Sahib"
+    },
+    {
+        "en": "Herat",
+        "en:t": "Afghanistan | Injil",
+        "a": true,
+        "g": {
+            "lat": 34.3529,
+            "lon": 62.204
+        },
+        "it": "Herat",
+        "it:t": "Afghanistan | Distretto di Injil",
+        "es": "Her\u0101t",
+        "es:t": "Afganist\u00e1n | Injil",
+        "de": "Herat",
+        "de:t": "Afghanistan | Injil"
+    },
+    {
+        "en": "Islam Qala",
+        "en:t": "Afghanistan | Kohsan",
+        "a": true,
+        "g": {
+            "lat": 34.6667,
+            "lon": 61.0667
+        },
+        "it": "Islam Qala",
+        "it:t": "Afghanistan | Kohsan",
+        "es": "Esl\u0101m Qal\u02bfeh",
+        "es:t": "Afganist\u00e1n | K\u016bhest\u0101n",
+        "de": "Islam Qala",
+        "de:t": "Afghanistan | Kohsan"
+    },
+    {
+        "en": "Jabal-os-Sar\u0101j",
+        "en:t": "Afghanistan | Jabul Saraj",
+        "a": true,
+        "g": {
+            "lat": 35.1183,
+            "lon": 69.2341
+        },
+        "it": "Jabal-os-Sar\u0101j",
+        "it:t": "Afghanistan | Jabul Saraj",
+        "es": "Jabal-os-Sar\u0101j",
+        "es:t": "Afganist\u00e1n | Jabul Saraj",
+        "de": "Jabal-os-Sar\u0101j",
+        "de:t": "Afghanistan | Jabul Saraj"
+    },
+    {
+        "en": "Jalalabad",
+        "en:t": "Afghanistan | Surkh Rod",
+        "a": true,
+        "g": {
+            "lat": 34.4284,
+            "lon": 70.4578
+        },
+        "it": "Jalalabad",
+        "it:t": "Afghanistan | Distretto di Surkh Rod",
+        "es": "Jalalabad",
+        "es:t": "Afganist\u00e1n | Surkh Rod",
+        "de": "Dschalalabad",
+        "de:t": "Afghanistan | Surkh Rod"
+    },
+    {
+        "en": "Kabul",
+        "en:t": "Afghanistan",
+        "a": true,
+        "g": {
+            "lat": 34.5553,
+            "lon": 69.2075
+        },
+        "it": "Kabul",
+        "it:t": "Afghanistan | Provincia di Kabul",
+        "es": "Kabul",
+        "es:t": "Afganist\u00e1n | Provincia de Kabul",
+        "de": "Kabul",
+        "de:t": "Afghanistan"
+    },
+    {
+        "en": "Kahmard Woluswali",
+        "en:t": "Afghanistan | Kahmard",
+        "a": true,
+        "g": {
+            "lat": 35.3287,
+            "lon": 67.6439
+        },
+        "it": "Kahmard Woluswali",
+        "it:t": "Afghanistan | Kahmard",
+        "es": "Kahmard Woluswali",
+        "es:t": "Afganist\u00e1n | Kahmard",
+        "de": "Kahmard Woluswali",
+        "de:t": "Afghanistan | Kahmard"
+    },
+    {
+        "en": "Kandahar",
+        "en:t": "Afghanistan",
+        "a": true,
+        "g": {
+            "lat": 31.6289,
+            "lon": 65.7372
+        },
+        "it": "Kandahar",
+        "it:t": "Afghanistan | Distretto di Kandahar",
+        "es": "Kandahar",
+        "es:t": "Afganist\u00e1n",
+        "de": "Kandahar",
+        "de:t": "Afghanistan"
+    },
+    {
+        "en": "Karokh",
+        "en:t": "Afghanistan | Karukh",
+        "a": true,
+        "g": {
+            "lat": 34.4911,
+            "lon": 62.6031
+        },
+        "it": "Karokh",
+        "it:t": "Afghanistan | Karukh",
+        "es": "Karukh",
+        "es:t": "Afganist\u00e1n",
+        "de": "Karokh",
+        "de:t": "Afghanistan | Karukh"
+    },
+    {
+        "en": "Khanabad",
+        "en:t": "Afghanistan | Kunduz",
+        "a": true,
+        "g": {
+            "lat": 36.6814,
+            "lon": 69.1149
+        },
+        "it": "Khanabad",
+        "it:t": "Afghanistan | Kunduz",
+        "es": "Khanabad",
+        "es:t": "Afganist\u00e1n | Kunduz",
+        "de": "Khanabad",
+        "de:t": "Afghanistan | Kunduz"
+    },
+    {
+        "en": "Khash",
+        "en:t": "Afghanistan | Khash Rod",
+        "a": true,
+        "g": {
+            "lat": 31.5281,
+            "lon": 62.7897
+        },
+        "it": "Khash",
+        "it:t": "Afghanistan | Khash Rod",
+        "es": "Khash",
+        "es:t": "Afganist\u00e1n | Khash Rod",
+        "de": "Khash",
+        "de:t": "Afghanistan | Khash Rod"
+    },
+    {
+        "en": "Kholm",
+        "en:t": "Afghanistan | Khulm",
+        "a": true,
+        "g": {
+            "lat": 36.7027,
+            "lon": 67.7079
+        },
+        "it": "Kholm",
+        "it:t": "Afghanistan | Khulm",
+        "es": "Kholm",
+        "es:t": "Afganist\u00e1n | Khulm",
+        "de": "Kholm",
+        "de:t": "Afghanistan | Khulm"
+    },
+    {
+        "en": "Khost",
+        "en:t": "Afghanistan",
+        "a": true,
+        "g": {
+            "lat": 33.3338,
+            "lon": 69.9372
+        },
+        "it": "Khowst",
+        "it:t": "Afghanistan | Distretto di Khowst",
+        "es": "Jost",
+        "es:t": "Afganist\u00e1n | Khost",
+        "de": "Chost",
+        "de:t": "Afghanistan | Khost"
+    },
+    {
+        "en": "Kunduz",
+        "en:t": "Afghanistan",
+        "a": true,
+        "g": {
+            "lat": 36.7286,
+            "lon": 68.8681
+        },
+        "it": "Konduz",
+        "it:t": "Afghanistan | Kunduz",
+        "es": "Qund\u016bz",
+        "es:t": "Afganist\u00e1n | Kunduz",
+        "de": "Kunduz",
+        "de:t": "Afghanistan"
+    },
+    {
+        "en": "Kushk, Afghanistan",
+        "en:t": "Afghanistan | Kushk",
+        "a": true,
+        "g": {
+            "lat": 34.9558,
+            "lon": 62.2332
+        },
+        "it": "Kushk, Afghanistan",
+        "it:t": "Afghanistan | Kushk",
+        "es": "K\u016b\u0161k",
+        "es:t": "Afganist\u00e1n",
+        "de": "Kushk, Afghanistan",
+        "de:t": "Afghanistan | Kushk"
+    },
+    {
+        "en": "Lashkar Gah",
+        "en:t": "Afghanistan",
+        "a": true,
+        "g": {
+            "lat": 31.6096,
+            "lon": 64.4082
+        },
+        "it": "Lashkar Gah",
+        "it:t": "Afghanistan | Distretto di Lashkar Gah",
+        "es": "Lashkar Gah",
+        "es:t": "Afganist\u00e1n",
+        "de": "Lashkar Gah",
+        "de:t": "Afghanistan"
+    },
+    {
+        "en": "Maymana",
+        "en:t": "Afghanistan | Khwaja Sabz",
+        "a": true,
+        "g": {
+            "lat": 35.9178,
+            "lon": 64.7755
+        },
+        "it": "Meymaneh",
+        "it:t": "Afghanistan | Khwaja Sabz",
+        "es": "Maymanah",
+        "es:t": "Afganist\u00e1n | Khwaja Sabz",
+        "de": "Maimana",
+        "de:t": "Afghanistan | Khwaja Sabz"
+    },
+    {
+        "en": "Mazari Sharif",
+        "en:t": "Afghanistan | Balkh",
+        "a": true,
+        "g": {
+            "lat": 36.6926,
+            "lon": 67.118
+        },
+        "it": "Mazar-i Sharif",
+        "it:t": "Afghanistan | Balkh",
+        "es": "Mazar-e Sarif",
+        "es:t": "Afganist\u00e1n | Balkh",
+        "de": "Masar-e Scharif",
+        "de:t": "Afghanistan | Balkh"
+    },
+    {
+        "en": "Mitarlam",
+        "en:t": "Afghanistan | Mihtarlam",
+        "a": true,
+        "g": {
+            "lat": 34.6673,
+            "lon": 70.2117
+        },
+        "it": "Mehtar Lam",
+        "it:t": "Afghanistan | Distretto di Mihtarlam",
+        "es": "Mehtar Lam",
+        "es:t": "Afganist\u00e1n | Mihtarlam",
+        "de": "Mehtarlam",
+        "de:t": "Afghanistan | Mihtarlam"
+    },
+    {
+        "en": "Nahrain",
+        "en:t": "Afghanistan",
+        "a": true,
+        "g": {
+            "lat": 36.0535,
+            "lon": 69.1089
+        },
+        "it": "Nahrain",
+        "it:t": "Afghanistan",
+        "es": "Nahr\u012bn",
+        "es:t": "Afganist\u00e1n | Nahrain",
+        "de": "Nahrain",
+        "de:t": "Afghanistan"
+    },
+    {
+        "en": "Paghman",
+        "en:t": "Afghanistan | Kabul",
+        "a": true,
+        "g": {
+            "lat": 34.5245,
+            "lon": 68.954
+        },
+        "it": "Distretto di Paghman",
+        "it:t": "Afghanistan | Provincia di Kabul",
+        "es": "Paghman",
+        "es:t": "Afganist\u00e1n | Kabul",
+        "de": "Paghman",
+        "de:t": "Afghanistan | Kabul"
+    },
+    {
+        "en": "Pol-e-Khomri",
+        "en:t": "Afghanistan | Puli Khumri",
+        "a": true,
+        "g": {
+            "lat": 35.9438,
+            "lon": 68.7095
+        },
+        "it": "Pol-e Khomri",
+        "it:t": "Afghanistan | Puli Khumri",
+        "es": "Puli Khumri",
+        "es:t": "Afganist\u00e1n",
+        "de": "Pol-e Chomri",
+        "de:t": "Afghanistan | Puli Khumri"
+    },
+    {
+        "en": "Qarqin",
+        "en:t": "Afghanistan",
+        "a": true,
+        "g": {
+            "lat": 37.4202,
+            "lon": 66.0196
+        },
+        "it": "Qarqin",
+        "it:t": "Afghanistan",
+        "es": "Qarq\u012bn",
+        "es:t": "Afganist\u00e1n | Qarqin",
+        "de": "Qarqin",
+        "de:t": "Afghanistan"
+    },
+    {
+        "en": "Rustaq",
+        "en:t": "Afghanistan | Takhar",
+        "a": true,
+        "g": {
+            "lat": 37.1669,
+            "lon": 69.955
+        },
+        "it": "Rostaq",
+        "it:t": "Afghanistan | Rustaq",
+        "es": "Rustaq",
+        "es:t": "Afganist\u00e1n | Takhar",
+        "de": "Rustaq",
+        "de:t": "Afghanistan"
+    },
+    {
+        "en": "Sangcharak",
+        "en:t": "Afghanistan | Sar-e Pol",
+        "a": true,
+        "g": {
+            "lat": 35.8524,
+            "lon": 66.5224
+        },
+        "it": "Distretto di Sangcharak",
+        "it:t": "Afghanistan | Provincia di Sar-e Pol",
+        "es": "Sang-e \u010c\u0101rak",
+        "es:t": "Afganist\u00e1n | Sar-e Pul",
+        "de": "Sangcharak",
+        "de:t": "Afghanistan | Sar-e Pol"
+    },
+    {
+        "en": "Sar-e Pol",
+        "en:t": "Afghanistan | Sari Pul",
+        "a": true,
+        "g": {
+            "lat": 36.2166,
+            "lon": 65.9334
+        },
+        "it": "Sar-e Pol",
+        "it:t": "Afghanistan | Sari Pul",
+        "es": "Sar-e Pol",
+        "es:t": "Afganist\u00e1n | Sari Pul",
+        "de": "Sar-e Pol",
+        "de:t": "Afghanistan | Sari Pul"
+    },
+    {
+        "en": "Shahrak",
+        "en:t": "Afghanistan | Ghor",
+        "a": true,
+        "g": {
+            "lat": 34.0164,
+            "lon": 64.5266
+        },
+        "it": "Distretto di Shahrak",
+        "it:t": "Afghanistan | Ghowr",
+        "es": "Shahrak",
+        "es:t": "Afganist\u00e1n | Ghor",
+        "de": "Shahrak",
+        "de:t": "Afghanistan | Ghor"
+    },
+    {
+        "en": "Sheberghan",
+        "en:t": "Afghanistan | Shibirghan",
+        "a": true,
+        "g": {
+            "lat": 36.6817,
+            "lon": 65.7491
+        },
+        "it": "Sheberghan",
+        "it:t": "Afghanistan | Shibirghan",
+        "es": "\u0160ibar\u0121an",
+        "es:t": "Afganist\u00e1n | Shibirghan",
+        "de": "Scheberghan",
+        "de:t": "Afghanistan | Shibirghan"
+    },
+    {
+        "en": "Shindand",
+        "en:t": "Afghanistan",
+        "a": true,
+        "g": {
+            "lat": 33.307,
+            "lon": 62.1364
+        },
+        "it": "Shindand",
+        "it:t": "Afghanistan",
+        "es": "Shindand",
+        "es:t": "Afganist\u00e1n",
+        "de": "Shindand",
+        "de:t": "Afghanistan"
+    },
+    {
+        "en": "Takhar",
+        "en:t": "Afghanistan",
+        "a": true,
+        "g": {
+            "lat": 36.6698,
+            "lon": 69.4785
+        },
+        "it": "Takhar",
+        "it:t": "Afghanistan",
+        "es": "Tahar",
+        "es:t": "Afganist\u00e1n",
+        "de": "Tachar",
+        "de:t": "Afghanistan"
+    },
+    {
+        "en": "Taleqan",
+        "en:t": "Afghanistan | Taluqan",
+        "a": true,
+        "g": {
+            "lat": 36.7339,
+            "lon": 69.5394
+        },
+        "it": "Taloqan",
+        "it:t": "Afghanistan | Distretto di Taluqan",
+        "es": "Taloqan",
+        "es:t": "Afganist\u00e1n | Taluqan",
+        "de": "Taloqan",
+        "de:t": "Afghanistan | Taluqan"
+    },
+    {
+        "en": "Zaranj",
+        "en:t": "Afghanistan",
+        "a": true,
+        "g": {
+            "lat": 30.9607,
+            "lon": 61.8526
+        },
+        "it": "Zaranj",
+        "it:t": "Afghanistan | Distretto di Zaranj",
+        "es": "Zaranj",
+        "es:t": "Afganist\u00e1n",
+        "de": "Sarandsch",
+        "de:t": "Afghanistan | Zaranj"
+    }
+]

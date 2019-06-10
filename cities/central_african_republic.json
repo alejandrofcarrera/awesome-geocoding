@@ -1,0 +1,242 @@
+[
+    {
+        "en": "Bambari",
+        "en:t": "Central African Republic",
+        "a": true,
+        "g": {
+            "lat": 5.7643,
+            "lon": 20.6705
+        },
+        "it": "Bambari",
+        "it:t": "Repubblica Centrafricana",
+        "es": "Bambari",
+        "es:t": "Rep\u00fablica Centroafricana",
+        "de": "Bambari",
+        "de:t": "Zentralafrikanische Republik"
+    },
+    {
+        "en": "Bangassou",
+        "en:t": "Central African Republic",
+        "a": true,
+        "g": {
+            "lat": 4.7379,
+            "lon": 22.8165
+        },
+        "it": "Bangassou",
+        "it:t": "Repubblica Centrafricana",
+        "es": "Bangassou",
+        "es:t": "Rep\u00fablica Centroafricana",
+        "de": "Bangassou",
+        "de:t": "Zentralafrikanische Republik"
+    },
+    {
+        "en": "Bangui",
+        "en:t": "Central African Republic",
+        "a": true,
+        "g": {
+            "lat": 4.3947,
+            "lon": 18.5582
+        },
+        "it": "Bangui",
+        "it:t": "Repubblica Centrafricana",
+        "es": "Bangui",
+        "es:t": "Rep\u00fablica Centroafricana",
+        "de": "Bangui",
+        "de:t": "Zentralafrikanische Republik"
+    },
+    {
+        "en": "Batangafo",
+        "en:t": "Central African Republic",
+        "a": true,
+        "g": {
+            "lat": 7.3008,
+            "lon": 18.2882
+        },
+        "it": "Batangafo",
+        "it:t": "Repubblica Centrafricana",
+        "es": "Batangafo",
+        "es:t": "Rep\u00fablica Centroafricana",
+        "de": "Batangafo",
+        "de:t": "Zentralafrikanische Republik"
+    },
+    {
+        "en": "Boda",
+        "en:t": "Central African Republic",
+        "a": true,
+        "g": {
+            "lat": 4.321,
+            "lon": 17.4647
+        },
+        "it": "Boda",
+        "it:t": "Repubblica Centrafricana",
+        "es": "Boda",
+        "es:t": "Rep\u00fablica Centroafricana",
+        "de": "Boda",
+        "de:t": "Zentralafrikanische Republik"
+    },
+    {
+        "en": "Bossangoa",
+        "en:t": "Central African Republic",
+        "a": true,
+        "g": {
+            "lat": 6.4977,
+            "lon": 17.4499
+        },
+        "it": "Bossangoa",
+        "it:t": "Repubblica Centrafricana",
+        "es": "Bossangoa",
+        "es:t": "Rep\u00fablica Centroafricana",
+        "de": "Bossangoa",
+        "de:t": "Zentralafrikanische Republik"
+    },
+    {
+        "en": "Bouar",
+        "en:t": "Central African Republic",
+        "a": true,
+        "g": {
+            "lat": 5.943,
+            "lon": 15.6002
+        },
+        "it": "Bouar",
+        "it:t": "Repubblica Centrafricana",
+        "es": "Bouar",
+        "es:t": "Rep\u00fablica Centroafricana",
+        "de": "Bouar",
+        "de:t": "Zentralafrikanische Republik"
+    },
+    {
+        "en": "Bria",
+        "en:t": "Central African Republic",
+        "a": true,
+        "g": {
+            "lat": 6.539,
+            "lon": 21.991
+        },
+        "it": "Bria",
+        "it:t": "Repubblica Centrafricana",
+        "es": "Bria",
+        "es:t": "Rep\u00fablica Centroafricana",
+        "de": "Bria",
+        "de:t": "Zentralafrikanische Republik"
+    },
+    {
+        "en": "Carnot",
+        "en:t": "Central African Republic",
+        "a": true,
+        "g": {
+            "lat": 4.9404,
+            "lon": 15.8789
+        },
+        "it": "Carnot",
+        "it:t": "Repubblica Centrafricana",
+        "es": "Carnot",
+        "es:t": "Rep\u00fablica Centroafricana",
+        "de": "Carnot",
+        "de:t": "Zentralafrikanische Republik"
+    },
+    {
+        "en": "Ippy",
+        "en:t": "Central African Republic",
+        "a": true,
+        "g": {
+            "lat": 6.2716,
+            "lon": 21.1951
+        },
+        "it": "Ippy",
+        "it:t": "Repubblica Centrafricana",
+        "es": "Ippy",
+        "es:t": "Rep\u00fablica Centroafricana",
+        "de": "Ippy",
+        "de:t": "Zentralafrikanische Republik"
+    },
+    {
+        "en": "Kaga-Bandoro",
+        "en:t": "Central African Republic",
+        "a": true,
+        "g": {
+            "lat": 6.996,
+            "lon": 19.185
+        },
+        "it": "Kaga-Bandoro",
+        "it:t": "Repubblica Centrafricana",
+        "es": "Kaga Bandoro",
+        "es:t": "Rep\u00fablica Centroafricana",
+        "de": "Kaga-Bandoro",
+        "de:t": "Zentralafrikanische Republik"
+    },
+    {
+        "en": "Mba\u00efki",
+        "en:t": "Central African Republic",
+        "a": true,
+        "g": {
+            "lat": 3.8665,
+            "lon": 17.9828
+        },
+        "it": "Mba\u00efki",
+        "it:t": "Repubblica Centrafricana",
+        "es": "Mbaiki",
+        "es:t": "Rep\u00fablica Centroafricana",
+        "de": "Mbaiki",
+        "de:t": "Zentralafrikanische Republik"
+    },
+    {
+        "en": "Mobaye",
+        "en:t": "Central African Republic",
+        "a": true,
+        "g": {
+            "lat": 4.3203,
+            "lon": 21.1861
+        },
+        "it": "Mobaye",
+        "it:t": "Repubblica Centrafricana",
+        "es": "Mobaye",
+        "es:t": "Rep\u00fablica Centroafricana",
+        "de": "Mobaye",
+        "de:t": "Zentralafrikanische Republik"
+    },
+    {
+        "en": "Nola",
+        "en:t": "Central African Republic",
+        "a": true,
+        "g": {
+            "lat": 3.5249,
+            "lon": 16.0464
+        },
+        "it": "Nola",
+        "it:t": "Repubblica Centrafricana",
+        "es": "Nola",
+        "es:t": "Rep\u00fablica Centroafricana",
+        "de": "Nola",
+        "de:t": "Zentralafrikanische Republik"
+    },
+    {
+        "en": "Paoua",
+        "en:t": "Central African Republic",
+        "a": true,
+        "g": {
+            "lat": 7.2466,
+            "lon": 16.4347
+        },
+        "it": "Paoua",
+        "it:t": "Repubblica Centrafricana",
+        "es": "Paoua",
+        "es:t": "Rep\u00fablica Centroafricana",
+        "de": "Paoua",
+        "de:t": "Zentralafrikanische Republik"
+    },
+    {
+        "en": "Sibut",
+        "en:t": "Central African Republic",
+        "a": true,
+        "g": {
+            "lat": 5.7316,
+            "lon": 19.0869
+        },
+        "it": "Sibut",
+        "it:t": "Repubblica Centrafricana",
+        "es": "Sibut",
+        "es:t": "Rep\u00fablica Centroafricana",
+        "de": "Sibut",
+        "de:t": "Zentralafrikanische Republik"
+    }
+]

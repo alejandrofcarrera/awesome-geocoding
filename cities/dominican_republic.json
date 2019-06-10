@@ -1,0 +1,662 @@
+[
+    {
+        "en": "Azua",
+        "en:t": "Dominican Republic | Azua",
+        "a": true,
+        "g": {
+            "lat": 18.4532,
+            "lon": -70.7347
+        },
+        "it": "Azua de Compostela",
+        "it:t": "Repubblica Dominicana | Azua",
+        "es": "Azua",
+        "es:t": "Rep\u00fablica Dominicana",
+        "de": "Azua",
+        "de:t": "Dominikanische Republik | Azua"
+    },
+    {
+        "en": "Bajos de Haina",
+        "en:t": "Dominican Republic | San Crist\u00f3bal",
+        "a": true,
+        "g": {
+            "lat": 18.4235,
+            "lon": -70.0324
+        },
+        "it": "Haina",
+        "it:t": "Repubblica Dominicana | San Crist\u00f3bal",
+        "es": "Bajos de Haina",
+        "es:t": "Rep\u00fablica Dominicana | San Crist\u00f3bal",
+        "de": "Bajos de Haina",
+        "de:t": "Dominikanische Republik | San Crist\u00f3bal"
+    },
+    {
+        "en": "Ban\u00ed",
+        "en:t": "Dominican Republic | Peravia",
+        "a": true,
+        "g": {
+            "lat": 18.2802,
+            "lon": -70.3368
+        },
+        "it": "Ban\u00ed",
+        "it:t": "Repubblica Dominicana | Peravia",
+        "es": "Ban\u00ed",
+        "es:t": "Rep\u00fablica Dominicana | Peravia",
+        "de": "Ban\u00ed",
+        "de:t": "Dominikanische Republik | Peravia"
+    },
+    {
+        "en": "Barahona",
+        "en:t": "Dominican Republic | Santa Cruz de Barahona",
+        "a": true,
+        "g": {
+            "lat": 18.2121,
+            "lon": -71.1024
+        },
+        "it": "Santa Cruz de Barahona",
+        "it:t": "Repubblica Dominicana | Santa Cruz de Barahona",
+        "es": "Barahona",
+        "es:t": "Rep\u00fablica Dominicana | Santa Cruz de Barahona",
+        "de": "Barahona",
+        "de:t": "Dominikanische Republik | Santa Cruz de Barahona"
+    },
+    {
+        "en": "Bella Vista",
+        "en:t": "Dominican Republic | Santo Domingo",
+        "a": true,
+        "g": {
+            "lat": 18.4569,
+            "lon": -69.9406
+        },
+        "it": "Bella Vista",
+        "it:t": "Repubblica Dominicana | Santo Domingo",
+        "es": "Bella Vista",
+        "es:t": "Rep\u00fablica Dominicana | Santo Domingo",
+        "de": "Bella Vista",
+        "de:t": "Dominikanische Republik | Santo Domingo"
+    },
+    {
+        "en": "Bison\u00f3",
+        "en:t": "Dominican Republic | Santiago",
+        "a": true,
+        "g": {
+            "lat": 19.5594,
+            "lon": -70.8693
+        },
+        "it": "Villa Bison\u00f3",
+        "it:t": "Repubblica Dominicana | Santiago",
+        "es": "Navarrete",
+        "es:t": "Rep\u00fablica Dominicana | Santiago",
+        "de": "Bison\u00f3",
+        "de:t": "Dominikanische Republik | Santiago"
+    },
+    {
+        "en": "Boca Chica",
+        "en:t": "Dominican Republic | Santo Domingo",
+        "a": true,
+        "g": {
+            "lat": 18.4529,
+            "lon": -69.6066
+        },
+        "it": "Boca Chica",
+        "it:t": "Repubblica Dominicana | Santo Domingo",
+        "es": "Boca Chica",
+        "es:t": "Rep\u00fablica Dominicana | Boca Chica",
+        "de": "Boca Chica",
+        "de:t": "Dominikanische Republik | Santo Domingo",
+    },
+    {
+        "en": "Bonao",
+        "en:t": "Dominican Republic | Monse\u00f1or Nouel",
+        "a": true,
+        "g": {
+            "lat": 18.933,
+            "lon": -70.4085
+        },
+        "it": "Bonao",
+        "it:t": "Repubblica Dominicana | Monse\u00f1or Nouel",
+        "es": "Bonao",
+        "es:t": "Rep\u00fablica Dominicana | Monse\u00f1or Nouel",
+        "de": "Bonao",
+        "de:t": "Dominikanische Republik | Monse\u00f1or Nouel"
+    },
+    {
+        "en": "Ciudad Nueva",
+        "en:t": "Dominican Republic | Gazcue",
+        "a": true,
+        "g": {
+            "lat": 18.467,
+            "lon": -69.8932
+        },
+        "it": "Ciudad Nueva",
+        "it:t": "Repubblica Dominicana | Gazcue",
+        "es": "Ciudad Nueva",
+        "es:t": "Rep\u00fablica Dominicana | Gazcue",
+        "de": "Ciudad Nueva",
+        "de:t": "Dominikanische Republik | Gazcue",
+    },
+    {
+        "en": "Constanza",
+        "en:t": "Dominican Republic | La Vega",
+        "a": true,
+        "g": {
+            "lat": 18.9115,
+            "lon": -70.7377
+        },
+        "it": "Constanza",
+        "it:t": "Repubblica Dominicana | La Vega",
+        "es": "Constanza",
+        "es:t": "Rep\u00fablica Dominicana | La Vega",
+        "de": "Constanza",
+        "de:t": "Dominikanische Republik | La Vega"
+    },
+    {
+        "en": "Cotui",
+        "en:t": "Dominican Republic | S\u00e1nchez Ram\u00edrez",
+        "a": true,
+        "g": {
+            "lat": 19.0583,
+            "lon": -70.153
+        },
+        "it": "Cotu\u00ed",
+        "it:t": "Repubblica Dominicana | S\u00e1nchez Ram\u00edrez",
+        "es": "Cotu\u00ed",
+        "es:t": "Rep\u00fablica Dominicana | S\u00e1nchez Ram\u00edrez",
+        "de": "Cotui",
+        "de:t": "Dominikanische Republik | S\u00e1nchez Ram\u00edrez"
+    },
+    {
+        "en": "Dajabon",
+        "en:t": "Dominican Republic | Dajab\u00f3n",
+        "a": true,
+        "g": {
+            "lat": 19.5499,
+            "lon": -71.7087
+        },
+        "it": "Dajab\u00f3n",
+        "it:t": "Repubblica Dominicana | Dajab\u00f3n",
+        "es": "Dajab\u00f3n",
+        "es:t": "Rep\u00fablica Dominicana | Dajab\u00f3n",
+        "de": "Dajab\u00f3n",
+        "de:t": "Dominikanische Republik | Dajab\u00f3n"
+    },
+    {
+        "en": "El Seibo",
+        "en:t": "Dominican Republic",
+        "a": true,
+        "g": {
+            "lat": 18.7653,
+            "lon": -69.0389
+        },
+        "it": "Santa Cruz del Seibo",
+        "it:t": "Repubblica Dominicana",
+        "es": "El Seibo",
+        "es:t": "Rep\u00fablica Dominicana",
+        "de": "El Seibo",
+        "de:t": "Dominikanische Republik"
+    },
+    {
+        "en": "Esperanza",
+        "en:t": "Dominican Republic | Valverde",
+        "a": true,
+        "g": {
+            "lat": 19.5853,
+            "lon": -70.9844
+        },
+        "it": "Esperanza",
+        "it:t": "Repubblica Dominicana | Valverde",
+        "es": "Esperanza",
+        "es:t": "Rep\u00fablica Dominicana | Valverde",
+        "de": "Esperanza",
+        "de:t": "Dominikanische Republik | Valverde"
+    },
+    {
+        "en": "Hato Mayor del Rey",
+        "en:t": "Dominican Republic | Hato Mayor",
+        "a": true,
+        "g": {
+            "lat": 18.7635,
+            "lon": -69.255
+        },
+        "it": "Hato Mayor del Rey",
+        "it:t": "Repubblica Dominicana | Hato Mayor",
+        "es": "Hato Mayor del Rey",
+        "es:t": "Rep\u00fablica Dominicana | Hato Mayor",
+        "de": "Hato Mayor del Rey",
+        "de:t": "Dominikanische Republik | Hato Mayor"
+    },
+    {
+        "en": "Higuey",
+        "en:t": "Dominican Republic | La Altagracia",
+        "a": true,
+        "g": {
+            "lat": 18.6128,
+            "lon": -68.7154
+        },
+        "it": "Salvale\u00f3n de Hig\u00fcey",
+        "it:t": "Repubblica Dominicana | La Altagracia",
+        "es": "Hig\u00fcey",
+        "es:t": "Rep\u00fablica Dominicana | La Altagracia",
+        "de": "Hig\u00fcey",
+        "de:t": "Dominikanische Republik | La Altagracia"
+    },
+    {
+        "en": "Jarabacoa",
+        "en:t": "Dominican Republic | La Vega",
+        "a": true,
+        "g": {
+            "lat": 19.1237,
+            "lon": -70.6422
+        },
+        "it": "Jarabacoa",
+        "it:t": "Repubblica Dominicana | La Vega",
+        "es": "Jarabacoa",
+        "es:t": "Rep\u00fablica Dominicana | La Vega",
+        "de": "Jarabacoa",
+        "de:t": "Dominikanische Republik | La Vega"
+    },
+    {
+        "en": "La Romana",
+        "en:t": "Dominican Republic",
+        "a": true,
+        "g": {
+            "lat": 18.4339,
+            "lon": -68.9659
+        },
+        "it": "La Romana",
+        "it:t": "Repubblica Dominicana",
+        "es": "La Romana",
+        "es:t": "Rep\u00fablica Dominicana",
+        "de": "La Romana",
+        "de:t": "Dominikanische Republik"
+    },
+    {
+        "en": "La Vega",
+        "en:t": "Dominican Republic | La Vega",
+        "a": true,
+        "g": {
+            "lat": 19.2153,
+            "lon": -70.5205
+        },
+        "it": "Concepci\u00f3n de La Vega",
+        "it:t": "Repubblica Dominicana",
+        "es": "Concepci\u00f3n de La Vega",
+        "es:t": "Rep\u00fablica Dominicana",
+        "de": "La Vega",
+        "de:t": "Dominikanische Republik"
+    },
+    {
+        "en": "Las Matas de Farf\u00e1n",
+        "en:t": "Dominican Republic | San Juan",
+        "a": true,
+        "g": {
+            "lat": 18.8732,
+            "lon": -71.516
+        },
+        "it": "Las Matas de Farf\u00e1n",
+        "it:t": "Repubblica Dominicana | San Juan",
+        "es": "Las Matas de Farf\u00e1n",
+        "es:t": "Rep\u00fablica Dominicana | San Juan",
+        "de": "Las Matas de Farf\u00e1n",
+        "de:t": "Dominikanische Republik | San Juan"
+    },
+    {
+        "en": "Mao",
+        "en:t": "Dominican Republic | Valverde",
+        "a": true,
+        "g": {
+            "lat": 19.5583,
+            "lon": -71.0803
+        },
+        "it": "Santa Cruz de Mao",
+        "it:t": "Repubblica Dominicana | Valverde",
+        "es": "Santa Cruz de Mao",
+        "es:t": "Rep\u00fablica Dominicana | Valverde",
+        "de": "Mao",
+        "de:t": "Dominikanische Republik | Valverde"
+    },
+    {
+        "en": "Moca",
+        "en:t": "Dominican Republic",
+        "a": true,
+        "g": {
+            "lat": 19.3892,
+            "lon": -70.5235
+        },
+        "it": "Moca",
+        "it:t": "Repubblica Dominicana",
+        "es": "Moca",
+        "es:t": "Rep\u00fablica Dominicana",
+        "de": "Moca",
+        "de:t": "Dominikanische Republik"
+    },
+    {
+        "en": "Monte Cristi",
+        "en:t": "Dominican Republic",
+        "a": true,
+        "g": {
+            "lat": 19.8473,
+            "lon": -71.6406
+        },
+        "it": "San Fernando de Montecristi",
+        "it:t": "Repubblica Dominicana",
+        "es": "Monte Cristi",
+        "es:t": "Rep\u00fablica Dominicana",
+        "de": "San Fernando de Monte Cristi",
+        "de:t": "Dominikanische Republik"
+    },
+    {
+        "en": "Monte Plata",
+        "en:t": "Dominican Republic",
+        "a": true,
+        "g": {
+            "lat": 18.8069,
+            "lon": -69.7853
+        },
+        "it": "Monte Plata",
+        "it:t": "Repubblica Dominicana",
+        "es": "Monte Plata",
+        "es:t": "Rep\u00fablica Dominicana",
+        "de": "Monte Plata",
+        "de:t": "Dominikanische Republik"
+    },
+    {
+        "en": "Monte Plata",
+        "en:t": "Dominican Republic",
+        "a": true,
+        "g": {
+            "lat": 18.8081,
+            "lon": -69.7869
+        },
+        "it": "Bayaguana",
+        "it:t": "Repubblica Dominicana",
+        "es": "Monte Plata",
+        "es:t": "Rep\u00fablica Dominicana",
+        "de": "Bayaguana",
+        "de:t": "Dominikanische Republik"
+    },
+    {
+        "en": "Nagua",
+        "en:t": "Dominican Republic | Mar\u00eda Trinidad S\u00e1nchez",
+        "a": true,
+        "g": {
+            "lat": 19.3791,
+            "lon": -69.8538
+        },
+        "it": "Nagua",
+        "it:t": "Repubblica Dominicana | Mar\u00eda Trinidad S\u00e1nchez",
+        "es": "Nagua",
+        "es:t": "Rep\u00fablica Dominicana | Mar\u00eda Trinidad S\u00e1nchez",
+        "de": "Nagua",
+        "de:t": "Dominikanische Republik | Mar\u00eda Trinidad S\u00e1nchez"
+    },
+    {
+        "en": "Neyba",
+        "en:t": "Dominican Republic | Baoruco",
+        "a": true,
+        "g": {
+            "lat": 18.4863,
+            "lon": -71.4151
+        },
+        "it": "Neyba",
+        "it:t": "Repubblica Dominicana | Baoruco",
+        "es": "Neiba",
+        "es:t": "Rep\u00fablica Dominicana | Bahoruco",
+        "de": "Neyba",
+        "de:t": "Dominikanische Republik | Baoruco"
+    },
+    {
+        "en": "Puerto Plata",
+        "en:t": "Dominican Republic",
+        "a": true,
+        "g": {
+            "lat": 19.7808,
+            "lon": -70.6871
+        },
+        "it": "San Felipe de Puerto Plata",
+        "it:t": "Repubblica Dominicana",
+        "es": "Puerto Plata",
+        "es:t": "Rep\u00fablica Dominicana",
+        "de": "Puerto Plata",
+        "de:t": "Dominikanische Republik"
+    },
+    {
+        "en": "Punta Cana",
+        "en:t": "Dominican Republic | La Altagracia",
+        "a": true,
+        "g": {
+            "lat": 18.5601,
+            "lon": -68.3725
+        },
+        "it": "Punta Cana",
+        "it:t": "Repubblica Dominicana | La Altagracia",
+        "es": "Punta Cana",
+        "es:t": "Rep\u00fablica Dominicana | La Altagracia",
+        "de": "Punta Cana",
+        "de:t": "Dominikanische Republik | La Altagracia"
+    },
+    {
+        "en": "Quisqueya",
+        "en:t": "Dominican Republic | San Pedro de Macor\u00eds",
+        "a": true,
+        "g": {
+            "lat": 18.5545,
+            "lon": -69.404
+        },
+        "it": "Quisqueya",
+        "it:t": "Repubblica Dominicana | San Pedro de Macor\u00eds",
+        "es": "Quisqueya",
+        "es:t": "Rep\u00fablica Dominicana | San Pedro de Macoris",
+        "de": "Quisqueya, San Pedro de Macor\u00eds",
+        "de:t": "Dominikanische Republik | San Pedro de Macor\u00eds"
+    },
+    {
+        "en": "Sabana Grande de Boy\u00e1",
+        "en:t": "Dominican Republic | Monte Plata",
+        "a": true,
+        "g": {
+            "lat": 18.9436,
+            "lon": -69.7912
+        },
+        "it": "Sabana Grande de Boy\u00e1",
+        "it:t": "Repubblica Dominicana | Monte Plata",
+        "es": "Sabana Grande de Boy\u00e1",
+        "es:t": "Rep\u00fablica Dominicana | Monte Plata",
+        "de": "Sabana Grande de Boy\u00e1",
+        "de:t": "Dominikanische Republik | Monte Plata"
+    },
+    {
+        "en": "Sabaneta",
+        "en:t": "Dominican Republic | Santiago Rodr\u00edguez",
+        "a": true,
+        "g": {
+            "lat": 19.4791,
+            "lon": -71.3398
+        },
+        "it": "San Ignacio de Sabaneta",
+        "it:t": "Repubblica Dominicana | Santiago Rodr\u00edguez",
+        "es": "Sabaneta",
+        "es:t": "Rep\u00fablica Dominicana | Santiago Rodr\u00edguez",
+        "de": "Sabaneta",
+        "de:t": "Dominikanische Republik | Santiago Rodr\u00edguez"
+    },
+    {
+        "en": "Salcedo",
+        "en:t": "Dominican Republic | Hermanas Mirabal",
+        "a": true,
+        "g": {
+            "lat": 19.3787,
+            "lon": -70.4168
+        },
+        "it": "Salcedo",
+        "it:t": "Repubblica Dominicana | Hermanas Mirabal",
+        "es": "Salcedo",
+        "es:t": "Rep\u00fablica Dominicana | Hermanas Mirabal",
+        "de": "Salcedo",
+        "de:t": "Dominikanische Republik | Hermanas Mirabal"
+    },
+    {
+        "en": "San Crist\u00f3bal",
+        "en:t": "Dominican Republic",
+        "a": true,
+        "g": {
+            "lat": 18.418,
+            "lon": -70.1066
+        },
+        "it": "San Crist\u00f3bal",
+        "it:t": "Repubblica Dominicana",
+        "es": "San Crist\u00f3bal",
+        "es:t": "Rep\u00fablica Dominicana",
+        "de": "San Crist\u00f3bal",
+        "de:t": "Dominikanische Republik"
+    },
+    {
+        "en": "San Francisco de Macoris",
+        "en:t": "Dominican Republic | Duarte",
+        "a": true,
+        "g": {
+            "lat": 19.2899,
+            "lon": -70.2615
+        },
+        "it": "San Francisco de Macor\u00eds",
+        "it:t": "Repubblica Dominicana | Duarte",
+        "es": "San Francisco de Macor\u00eds",
+        "es:t": "Rep\u00fablica Dominicana | Duarte",
+        "de": "San Francisco de Macor\u00eds",
+        "de:t": "Dominikanische Republik | Duarte"
+    },
+    {
+        "en": "San Jose de Ocoa",
+        "en:t": "Dominican Republic | San Jos\u00e9 de Ocoa",
+        "a": true,
+        "g": {
+            "lat": 18.5439,
+            "lon": -70.5042
+        },
+        "it": "San Jos\u00e9 de Ocoa",
+        "it:t": "Repubblica Dominicana | San Jos\u00e9 de Ocoa",
+        "es": "San Jos\u00e9 de Ocoa",
+        "es:t": "Rep\u00fablica Dominicana",
+        "de": "San Jose de Ocoa",
+        "de:t": "Dominikanische Republik | San Jos\u00e9 de Ocoa"
+    },
+    {
+        "en": "San Juan de la Maguana",
+        "en:t": "Dominican Republic | San Juan",
+        "a": true,
+        "g": {
+            "lat": 18.8096,
+            "lon": -71.231
+        },
+        "it": "San Juan de la Maguana",
+        "it:t": "Repubblica Dominicana | San Juan",
+        "es": "San Juan de la Maguana",
+        "es:t": "Rep\u00fablica Dominicana | San Juan",
+        "de": "San Juan de la Maguana",
+        "de:t": "Dominikanische Republik | San Juan"
+    },
+    {
+        "en": "San Pedro De Macoris",
+        "en:t": "Dominican Republic",
+        "a": true,
+        "g": {
+            "lat": 18.4721,
+            "lon": -69.2997
+        },
+        "it": "San Pedro de Macor\u00eds",
+        "it:t": "Repubblica Dominicana",
+        "es": "San Pedro de Macoris",
+        "es:t": "Rep\u00fablica Dominicana",
+        "de": "San Pedro de Macor\u00eds",
+        "de:t": "Dominikanische Republik"
+    },
+    {
+        "en": "Santiago De Los Caballeros",
+        "en:t": "Dominican Republic | Santiago",
+        "a": true,
+        "g": {
+            "lat": 19.4792,
+            "lon": -70.6931
+        },
+        "it": "Santiago de los Caballeros",
+        "it:t": "Repubblica Dominicana | Santiago",
+        "es": "Santiago De Los Caballeros",
+        "es:t": "Rep\u00fablica Dominicana | Santiago",
+        "de": "Santiago de los Caballeros",
+        "de:t": "Dominikanische Republik | Santiago"
+    },
+    {
+        "en": "Santo Domingo Oeste",
+        "en:t": "Dominican Republic | Santo Domingo",
+        "a": true,
+        "g": {
+            "lat": 18.4889,
+            "lon": -70.0086
+        },
+        "it": "Santo Domingo Oeste",
+        "it:t": "Repubblica Dominicana | Santo Domingo",
+        "es": "Santo Domingo Oeste",
+        "es:t": "Rep\u00fablica Dominicana | Santo Domingo",
+        "de": "Santo Domingo Oeste",
+        "de:t": "Dominikanische Republik | Santo Domingo"
+    },
+    {
+        "en": "Tamboril",
+        "en:t": "Dominican Republic | Santiago",
+        "a": true,
+        "g": {
+            "lat": 19.486,
+            "lon": -70.6108
+        },
+        "it": "Tamboril",
+        "it:t": "Repubblica Dominicana | Santiago",
+        "es": "Tamboril",
+        "es:t": "Rep\u00fablica Dominicana | Santiago",
+        "de": "Tamboril",
+        "de:t": "Dominikanische Republik | Santiago"
+    },
+    {
+        "en": "Villa Altagracia",
+        "en:t": "Dominican Republic | San Crist\u00f3bal",
+        "a": true,
+        "g": {
+            "lat": 18.6741,
+            "lon": -70.1724
+        },
+        "it": "Villa Altagracia",
+        "it:t": "Repubblica Dominicana | San Crist\u00f3bal",
+        "es": "Villa Altagracia",
+        "es:t": "Rep\u00fablica Dominicana | San Crist\u00f3bal",
+        "de": "Villa Altagracia",
+        "de:t": "Dominikanische Republik | San Crist\u00f3bal"
+    },
+    {
+        "en": "Villa Consuelo",
+        "en:t": "Dominican Republic | Santo Domingo",
+        "a": true,
+        "g": {
+            "lat": 18.4869,
+            "lon": -69.8999
+        },
+        "it": "Villa Consuelo",
+        "it:t": "Repubblica Dominicana | Santo Domingo",
+        "es": "Villa Consuelo",
+        "es:t": "Rep\u00fablica Dominicana | Santo Domingo",
+        "de": "Villa Consuelo",
+        "de:t": "Dominikanische Republik | Santo Domingo"
+    },
+    {
+        "en": "Villa Francisca",
+        "en:t": "Dominican Republic | Santo Domingo",
+        "a": true,
+        "g": {
+            "lat": 18.4827,
+            "lon": -69.888
+        },
+        "it": "Villa Francisca",
+        "it:t": "Repubblica Dominicana | Santo Domingo",
+        "es": "Villa Francisca",
+        "es:t": "Rep\u00fablica Dominicana | Santo Domingo",
+        "de": "Villa Francisca",
+        "de:t": "Dominikanische Republik | Santo Domingo"
+    }
+]

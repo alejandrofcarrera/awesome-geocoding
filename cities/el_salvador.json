@@ -1,0 +1,512 @@
+[
+    {
+        "en": "Acajutla",
+        "en:t": "El Salvador | Sonsonate",
+        "a": true,
+        "g": {
+            "lat": 13.5957,
+            "lon": -89.8271
+        },
+        "it": "Acajutla",
+        "it:t": "El Salvador | Sonsonate",
+        "es": "Acajutla",
+        "es:t": "El Salvador | Sonsonate",
+        "de": "Acajutla",
+        "de:t": "El Salvador | Sonsonate"
+    },
+    {
+        "en": "Aguilares",
+        "en:t": "El Salvador | San Salvador",
+        "a": true,
+        "g": {
+            "lat": 13.9653,
+            "lon": -89.1849
+        },
+        "it": "Aguilares",
+        "it:t": "El Salvador | San Salvador",
+        "es": "Aguilares",
+        "es:t": "El Salvador | San Salvador",
+        "de": "Aguilares",
+        "de:t": "El Salvador | San Salvador"
+    },
+    {
+        "en": "Ahuachapan",
+        "en:t": "El Salvador | Ahuachap\u00e1n",
+        "a": true,
+        "g": {
+            "lat": 13.9259,
+            "lon": -89.8411
+        },
+        "it": "Ahuachap\u00e1n",
+        "it:t": "El Salvador | Ahuachap\u00e1n",
+        "es": "Ahuachap\u00e1n",
+        "es:t": "El Salvador",
+        "de": "Ahuachap\u00e1n",
+        "de:t": "El Salvador | Ahuachap\u00e1n"
+    },
+    {
+        "en": "Antiguo Cuscatl\u00e1n",
+        "en:t": "El Salvador | La Libertad",
+        "a": true,
+        "g": {
+            "lat": 13.6641,
+            "lon": -89.2515
+        },
+        "it": "Antiguo Cuscatl\u00e1n",
+        "it:t": "El Salvador | La Libertad",
+        "es": "Antiguo Cuscatl\u00e1n",
+        "es:t": "El Salvador | La Libertad",
+        "de": "Antiguo Cuscatl\u00e1n",
+        "de:t": "El Salvador | La Libertad"
+    },
+    {
+        "en": "Apopa",
+        "en:t": "El Salvador | San Salvador",
+        "a": true,
+        "g": {
+            "lat": 13.8087,
+            "lon": -89.1801
+        },
+        "it": "Apopa",
+        "it:t": "El Salvador | San Salvador",
+        "es": "Apopa",
+        "es:t": "El Salvador | San Salvador",
+        "de": "Apopa",
+        "de:t": "El Salvador | San Salvador"
+    },
+    {
+        "en": "Ayutuxtepeque",
+        "en:t": "El Salvador | San Salvador",
+        "a": true,
+        "g": {
+            "lat": 13.7421,
+            "lon": -89.2015
+        },
+        "it": "Ayutuxtepeque",
+        "it:t": "El Salvador | San Salvador",
+        "es": "Ayutuxtepeque",
+        "es:t": "El Salvador | San Salvador",
+        "de": "Ayutuxtepeque",
+        "de:t": "El Salvador | San Salvador"
+    },
+    {
+        "en": "Chalatenango",
+        "en:t": "El Salvador | Chalatenango",
+        "a": true,
+        "g": {
+            "lat": 14.0164,
+            "lon": -88.9126
+        },
+        "it": "Chalatenango",
+        "it:t": "El Salvador | Chalatenango",
+        "es": "Chalatenango",
+        "es:t": "El Salvador | Chalatenango",
+        "de": "Chalatenango",
+        "de:t": "El Salvador | Chalatenango"
+    },
+    {
+        "en": "Chalchuapa",
+        "en:t": "El Salvador",
+        "a": true,
+        "g": {
+            "lat": 13.9896,
+            "lon": -89.6769
+        },
+        "it": "Chalchuapa",
+        "it:t": "El Salvador",
+        "es": "Chalchuapa",
+        "es:t": "El Salvador",
+        "de": "Chalchuapa",
+        "de:t": "El Salvador"
+    },
+    {
+        "en": "Cojutepeque",
+        "en:t": "El Salvador | Cuscatl\u00e1n",
+        "a": true,
+        "g": {
+            "lat": 13.7209,
+            "lon": -88.9366
+        },
+        "it": "Cojutepeque",
+        "it:t": "El Salvador | Cuscatl\u00e1n",
+        "es": "Cojutepeque",
+        "es:t": "El Salvador | Cuscatlan",
+        "de": "Cojutepeque",
+        "de:t": "El Salvador | Cuscatl\u00e1n"
+    },
+    {
+        "en": "Cuscatancingo",
+        "en:t": "El Salvador",
+        "a": true,
+        "g": {
+            "lat": 13.7247,
+            "lon": -89.1777
+        },
+        "it": "Cuscatancingo",
+        "it:t": "El Salvador",
+        "es": "Cuscatancingo",
+        "es:t": "El Salvador",
+        "de": "Cuscatancingo",
+        "de:t": "El Salvador"
+    },
+    {
+        "en": "Delgado",
+        "en:t": "El Salvador | San Salvador",
+        "a": true,
+        "g": {
+            "lat": 13.7391,
+            "lon": -89.1611
+        },
+        "it": "Delgado",
+        "it:t": "El Salvador | San Salvador",
+        "es": "Delgado",
+        "es:t": "El Salvador | San Salvador",
+        "de": "Delgado",
+        "de:t": "El Salvador | San Salvador"
+    },
+    {
+        "en": "Ilopango",
+        "en:t": "El Salvador",
+        "a": true,
+        "g": {
+            "lat": 13.6993,
+            "lon": -89.1057
+        },
+        "it": "Ilopango",
+        "it:t": "El Salvador",
+        "es": "Ilopango",
+        "es:t": "El Salvador",
+        "de": "Ilopango",
+        "de:t": "El Salvador"
+    },
+    {
+        "en": "Izalco",
+        "en:t": "El Salvador",
+        "a": true,
+        "g": {
+            "lat": 13.7461,
+            "lon": -89.6769
+        },
+        "it": "Izalco",
+        "it:t": "El Salvador",
+        "es": "Izalco",
+        "es:t": "El Salvador",
+        "de": "Izalco",
+        "de:t": "El Salvador"
+    },
+    {
+        "en": "La Libertad",
+        "en:t": "El Salvador | La Libertad",
+        "a": true,
+        "g": {
+            "lat": 13.4907,
+            "lon": -89.3085
+        },
+        "it": "La Libertad",
+        "it:t": "El Salvador | La Libertad",
+        "es": "La Libertad",
+        "es:t": "El Salvador | La Libertad",
+        "de": "La Libertad",
+        "de:t": "El Salvador | La Libertad"
+    },
+    {
+        "en": "La Union",
+        "en:t": "El Salvador | La Uni\u00f3n",
+        "a": true,
+        "g": {
+            "lat": 13.3323,
+            "lon": -87.8501
+        },
+        "it": "La Uni\u00f3n",
+        "it:t": "El Salvador | La Uni\u00f3n",
+        "es": "La Uni\u00f3n",
+        "es:t": "El Salvador | La Uni\u00f3n",
+        "de": "La Uni\u00f3n",
+        "de:t": "El Salvador | La Uni\u00f3n"
+    },
+    {
+        "en": "Mejicanos",
+        "en:t": "El Salvador",
+        "a": true,
+        "g": {
+            "lat": 13.7335,
+            "lon": -89.2134
+        },
+        "it": "Mejicanos",
+        "it:t": "El Salvador",
+        "es": "Mejicanos",
+        "es:t": "El Salvador",
+        "de": "Mejicanos",
+        "de:t": "El Salvador"
+    },
+    {
+        "en": "Puerto El Triunfo",
+        "en:t": "El Salvador | Usulut\u00e1n",
+        "a": true,
+        "g": {
+            "lat": 13.2767,
+            "lon": -88.5493
+        },
+        "it": "Puerto El Triunfo",
+        "it:t": "El Salvador | Usulut\u00e1n",
+        "es": "Puerto El Triunfo",
+        "es:t": "El Salvador | Usulut\u00e1n",
+        "de": "Puerto El Triunfo",
+        "de:t": "El Salvador | Usulut\u00e1n"
+    },
+    {
+        "en": "Quezaltepeque",
+        "en:t": "El Salvador | La Libertad",
+        "a": true,
+        "g": {
+            "lat": 13.8263,
+            "lon": -89.2705
+        },
+        "it": "Quezaltepeque",
+        "it:t": "El Salvador | La Libertad",
+        "es": "Quezaltepeque",
+        "es:t": "El Salvador | La Libertad",
+        "de": "Quezaltepeque",
+        "de:t": "El Salvador | La Libertad"
+    },
+    {
+        "en": "San Francisco Moraz\u00e1n",
+        "en:t": "El Salvador | Chalatenango",
+        "a": true,
+        "g": {
+            "lat": 14.1753,
+            "lon": -89.0461
+        },
+        "it": "San Francisco Moraz\u00e1n",
+        "it:t": "El Salvador | Chalatenango",
+        "es": "San Francisco Moraz\u00e1n",
+        "es:t": "El Salvador | Chalatenango",
+        "de": "San Francisco Moraz\u00e1n",
+        "de:t": "El Salvador | Chalatenango"
+    },
+    {
+        "en": "San Marcos",
+        "en:t": "El Salvador | San Salvador",
+        "a": true,
+        "g": {
+            "lat": 13.6639,
+            "lon": -89.1849
+        },
+        "it": "San Marcos",
+        "it:t": "El Salvador | San Salvador",
+        "es": "San Marcos",
+        "es:t": "El Salvador | San Salvador",
+        "de": "San Marcos",
+        "de:t": "El Salvador | San Salvador"
+    },
+    {
+        "en": "San Mart\u00edn",
+        "en:t": "El Salvador | San Salvador",
+        "a": true,
+        "g": {
+            "lat": 13.7387,
+            "lon": -89.0657
+        },
+        "it": "San Mart\u00edn",
+        "it:t": "El Salvador | San Salvador",
+        "es": "San Mart\u00edn",
+        "es:t": "El Salvador | San Salvador",
+        "de": "San Mart\u00edn",
+        "de:t": "El Salvador | San Salvador"
+    },
+    {
+        "en": "San Miguel",
+        "en:t": "El Salvador",
+        "a": true,
+        "g": {
+            "lat": 13.4793,
+            "lon": -88.1779
+        },
+        "it": "San Miguel",
+        "it:t": "El Salvador",
+        "es": "San Miguel",
+        "es:t": "El Salvador",
+        "de": "San Miguel",
+        "de:t": "El Salvador"
+    },
+    {
+        "en": "San Rafael Oriente",
+        "en:t": "El Salvador | San Miguel",
+        "a": true,
+        "g": {
+            "lat": 13.3794,
+            "lon": -88.3506
+        },
+        "it": "San Rafael Oriente",
+        "it:t": "El Salvador | San Miguel",
+        "es": "San Rafael Oriente",
+        "es:t": "El Salvador | San Miguel",
+        "de": "San Rafael Oriente",
+        "de:t": "El Salvador | San Miguel"
+    },
+    {
+        "en": "San Salvador",
+        "en:t": "El Salvador",
+        "a": true,
+        "g": {
+            "lat": 13.6929,
+            "lon": -89.2182
+        },
+        "it": "San Salvador",
+        "it:t": "El Salvador",
+        "es": "San Salvador",
+        "es:t": "El Salvador",
+        "de": "San Salvador",
+        "de:t": "El Salvador"
+    },
+    {
+        "en": "San Vicente",
+        "en:t": "El Salvador | San Vicente",
+        "a": true,
+        "g": {
+            "lat": 13.6391,
+            "lon": -88.7831
+        },
+        "it": "San Vicente",
+        "it:t": "El Salvador | San Vicente",
+        "es": "San Vicente",
+        "es:t": "El Salvador | San Vicente",
+        "de": "Ciudad San Vicente",
+        "de:t": "El Salvador | San Vicente"
+    },
+    {
+        "en": "Santa Ana",
+        "en:t": "El Salvador",
+        "a": true,
+        "g": {
+            "lat": 13.9778,
+            "lon": -89.5639
+        },
+        "it": "Santa Ana",
+        "it:t": "El Salvador",
+        "es": "Santa Ana",
+        "es:t": "El Salvador",
+        "de": "Santa Ana",
+        "de:t": "El Salvador"
+    },
+    {
+        "en": "Santa Tecla",
+        "en:t": "El Salvador",
+        "a": true,
+        "g": {
+            "lat": 13.6758,
+            "lon": -89.2895
+        },
+        "it": "Santa Tecla",
+        "it:t": "El Salvador",
+        "es": "Santa Tecla",
+        "es:t": "El Salvador",
+        "de": "Santa Tecla",
+        "de:t": "El Salvador"
+    },
+    {
+        "en": "Santiago de Maria",
+        "en:t": "El Salvador | Usulut\u00e1n",
+        "a": true,
+        "g": {
+            "lat": 13.4841,
+            "lon": -88.467
+        },
+        "it": "Santiago de Mar\u00eda",
+        "it:t": "El Salvador | Usulut\u00e1n",
+        "es": "Santiago de Mar\u00eda",
+        "es:t": "El Salvador | Usulut\u00e1n",
+        "de": "Santiago de Mar\u00eda",
+        "de:t": "El Salvador | Usulut\u00e1n"
+    },
+    {
+        "en": "Sensuntepeque",
+        "en:t": "El Salvador | Caba\u00f1as",
+        "a": true,
+        "g": {
+            "lat": 13.87,
+            "lon": -88.629
+        },
+        "it": "Sensuntepeque",
+        "it:t": "El Salvador | Caba\u00f1as",
+        "es": "Sensuntepeque",
+        "es:t": "El Salvador | Caba\u00f1as",
+        "de": "Sensuntepeque",
+        "de:t": "El Salvador | Caba\u00f1as"
+    },
+    {
+        "en": "Sonsonate",
+        "en:t": "El Salvador | Sonsonate",
+        "a": true,
+        "g": {
+            "lat": 13.7114,
+            "lon": -89.7239
+        },
+        "it": "Sonsonate",
+        "it:t": "El Salvador | Sonsonate",
+        "es": "Sonsonate",
+        "es:t": "El Salvador | Sonsonate",
+        "de": "Sonsonate",
+        "de:t": "El Salvador | Sonsonate"
+    },
+    {
+        "en": "Sonzacate",
+        "en:t": "El Salvador | Sonsonate",
+        "a": true,
+        "g": {
+            "lat": 13.7374,
+            "lon": -89.7122
+        },
+        "it": "Sonzacate",
+        "it:t": "El Salvador | Sonsonate",
+        "es": "Sonzacate",
+        "es:t": "El Salvador | Sonsonate",
+        "de": "Sonzacate",
+        "de:t": "El Salvador | Sonsonate"
+    },
+    {
+        "en": "Soyapango",
+        "en:t": "El Salvador",
+        "a": true,
+        "g": {
+            "lat": 13.71,
+            "lon": -89.1373
+        },
+        "it": "Soyapango",
+        "it:t": "El Salvador",
+        "es": "Soyapango",
+        "es:t": "El Salvador",
+        "de": "Soyapango",
+        "de:t": "El Salvador"
+    },
+    {
+        "en": "Usulutan",
+        "en:t": "El Salvador | Usulut\u00e1n",
+        "a": true,
+        "g": {
+            "lat": 13.3453,
+            "lon": -88.4428
+        },
+        "it": "Usulut\u00e1n",
+        "it:t": "El Salvador | Usulut\u00e1n",
+        "es": "Usulut\u00e1n",
+        "es:t": "El Salvador | Usulut\u00e1n",
+        "de": "Usulut\u00e1n",
+        "de:t": "El Salvador | Usulut\u00e1n"
+    },
+    {
+        "en": "Zacatecoluca",
+        "en:t": "El Salvador | La Paz",
+        "a": true,
+        "g": {
+            "lat": 13.5122,
+            "lon": -88.8695
+        },
+        "it": "Zacatecoluca",
+        "it:t": "El Salvador | La Paz",
+        "es": "Zacatecoluca",
+        "es:t": "El Salvador | La Paz",
+        "de": "Zacatecoluca",
+        "de:t": "El Salvador | La Paz"
+    }
+]

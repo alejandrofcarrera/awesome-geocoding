@@ -1,0 +1,1442 @@
+[
+    {
+        "en": "Abony",
+        "en:t": "Hungary",
+        "a": true,
+        "g": {
+            "lat": 47.1885,
+            "lon": 20.0096
+        },
+        "it": "Abony",
+        "it:t": "Ungheria",
+        "es": "Abony",
+        "es:t": "Hungr\u00eda",
+        "de": "Abony",
+        "de:t": "Ungarn"
+    },
+    {
+        "en": "Ajka",
+        "en:t": "Hungary",
+        "a": true,
+        "g": {
+            "lat": 47.1036,
+            "lon": 17.5518
+        },
+        "it": "Ajka",
+        "it:t": "Ungheria",
+        "es": "Ajka",
+        "es:t": "Hungr\u00eda",
+        "de": "Ajka",
+        "de:t": "Ungarn"
+    },
+    {
+        "en": "Baja",
+        "en:t": "Hungary",
+        "a": true,
+        "g": {
+            "lat": 46.1818,
+            "lon": 18.9543
+        },
+        "it": "Baja",
+        "it:t": "Ungheria",
+        "es": "Baja",
+        "es:t": "Hungr\u00eda",
+        "de": "Baja",
+        "de:t": "Ungarn"
+    },
+    {
+        "en": "Balassagyarmat",
+        "en:t": "Hungary",
+        "a": true,
+        "g": {
+            "lat": 48.0712,
+            "lon": 19.2937
+        },
+        "it": "Balassagyarmat",
+        "it:t": "Ungheria",
+        "es": "Balassagyarmat",
+        "es:t": "Hungr\u00eda",
+        "de": "Jahrmarkt",
+        "de:t": "Ungarn"
+    },
+    {
+        "en": "Balmaz\u00fajv\u00e1ros",
+        "en:t": "Hungary",
+        "a": true,
+        "g": {
+            "lat": 47.6145,
+            "lon": 21.3417
+        },
+        "it": "Balmaz\u00fajv\u00e1ros",
+        "it:t": "Ungheria",
+        "es": "Balmaz\u00fajv\u00e1ros",
+        "es:t": "Hungr\u00eda",
+        "de": "Balmaz\u00fajv\u00e1ros",
+        "de:t": "Ungarn"
+    },
+    {
+        "en": "Beretty\u00f3\u00fajfalu",
+        "en:t": "Hungary",
+        "a": true,
+        "g": {
+            "lat": 47.2196,
+            "lon": 21.5363
+        },
+        "it": "Beretty\u00f3\u00fajfalu",
+        "it:t": "Ungheria",
+        "es": "Beretty\u00f3\u00fajfalu",
+        "es:t": "Hungr\u00eda",
+        "de": "Beretty\u00f3\u00fajfalu",
+        "de:t": "Ungarn"
+    },
+    {
+        "en": "Budafok-T\u00e9t\u00e9ny",
+        "en:t": "Hungary | Budapest",
+        "a": true,
+        "g": {
+            "lat": 47.425,
+            "lon": 19.0317
+        },
+        "it": "Budafok-T\u00e9t\u00e9ny",
+        "it:t": "Ungheria | Budapest",
+        "es": "Budafok-T\u00e9t\u00e9ny",
+        "es:t": "Hungr\u00eda | Budapest",
+        "de": "Budafok-T\u00e9t\u00e9ny",
+        "de:t": "Ungarn | Budapest"
+    },
+    {
+        "en": "Budapest",
+        "en:t": "Hungary",
+        "a": true,
+        "g": {
+            "lat": 47.4979,
+            "lon": 19.0402
+        },
+        "it": "Budapest",
+        "it:t": "Ungheria",
+        "es": "Budapest",
+        "es:t": "Hungr\u00eda",
+        "de": "Budapest",
+        "de:t": "Ungarn"
+    },
+    {
+        "en": "Buda\u00f6rs",
+        "en:t": "Hungary",
+        "a": true,
+        "g": {
+            "lat": 47.4621,
+            "lon": 18.953
+        },
+        "it": "Buda\u00f6rs",
+        "it:t": "Ungheria",
+        "es": "Buda\u00f6rs",
+        "es:t": "Hungr\u00eda",
+        "de": "Buda\u00f6rs",
+        "de:t": "Ungarn"
+    },
+    {
+        "en": "B\u00e9k\u00e9s",
+        "en:t": "Hungary",
+        "a": true,
+        "g": {
+            "lat": 46.7711,
+            "lon": 21.129
+        },
+        "it": "B\u00e9k\u00e9s",
+        "it:t": "Ungheria",
+        "es": "B\u00e9k\u00e9s",
+        "es:t": "Hungr\u00eda",
+        "de": "B\u00e9k\u00e9s",
+        "de:t": "Ungarn"
+    },
+    {
+        "en": "B\u00e9k\u00e9scsaba",
+        "en:t": "Hungary",
+        "a": true,
+        "g": {
+            "lat": 46.6736,
+            "lon": 21.0877
+        },
+        "it": "B\u00e9k\u00e9scsaba",
+        "it:t": "Ungheria",
+        "es": "B\u00e9k\u00e9scsaba",
+        "es:t": "Hungr\u00eda",
+        "de": "B\u00e9k\u00e9scsaba",
+        "de:t": "Ungarn"
+    },
+    {
+        "en": "Cegl\u00e9d",
+        "en:t": "Hungary",
+        "a": true,
+        "g": {
+            "lat": 47.1738,
+            "lon": 19.7966
+        },
+        "it": "Cegl\u00e9d",
+        "it:t": "Ungheria",
+        "es": "Cegl\u00e9d",
+        "es:t": "Hungr\u00eda",
+        "de": "Cegl\u00e9d",
+        "de:t": "Ungarn"
+    },
+    {
+        "en": "Csongr\u00e1d",
+        "en:t": "Hungary",
+        "a": true,
+        "g": {
+            "lat": 46.7084,
+            "lon": 20.1436
+        },
+        "it": "Csongr\u00e1d",
+        "it:t": "Ungheria",
+        "es": "Csongr\u00e1d",
+        "es:t": "Hungr\u00eda",
+        "de": "Csongr\u00e1d",
+        "de:t": "Ungarn"
+    },
+    {
+        "en": "Dabas",
+        "en:t": "Hungary",
+        "a": true,
+        "g": {
+            "lat": 47.1876,
+            "lon": 19.3119
+        },
+        "it": "Dabas",
+        "it:t": "Ungheria",
+        "es": "Dabas",
+        "es:t": "Hungr\u00eda",
+        "de": "Dabas",
+        "de:t": "Ungarn"
+    },
+    {
+        "en": "Debrecen",
+        "en:t": "Hungary",
+        "a": true,
+        "g": {
+            "lat": 47.5316,
+            "lon": 21.6273
+        },
+        "it": "Debrecen",
+        "it:t": "Ungheria",
+        "es": "Debrecen",
+        "es:t": "Hungr\u00eda",
+        "de": "Debrecen",
+        "de:t": "Ungarn"
+    },
+    {
+        "en": "Domb\u00f3v\u00e1r",
+        "en:t": "Hungary",
+        "a": true,
+        "g": {
+            "lat": 46.3829,
+            "lon": 18.1453
+        },
+        "it": "Domb\u00f3v\u00e1r",
+        "it:t": "Ungheria",
+        "es": "Domb\u00f3v\u00e1r",
+        "es:t": "Hungr\u00eda",
+        "de": "Domb\u00f3v\u00e1r",
+        "de:t": "Ungarn"
+    },
+    {
+        "en": "Dunaharaszti",
+        "en:t": "Hungary",
+        "a": true,
+        "g": {
+            "lat": 47.3537,
+            "lon": 19.0971
+        },
+        "it": "Dunaharaszti",
+        "it:t": "Ungheria",
+        "es": "Dunaharaszti",
+        "es:t": "Hungr\u00eda",
+        "de": "Dunaharaszti",
+        "de:t": "Ungarn"
+    },
+    {
+        "en": "Dunakeszi",
+        "en:t": "Hungary",
+        "a": true,
+        "g": {
+            "lat": 47.6344,
+            "lon": 19.1397
+        },
+        "it": "Dunakeszi",
+        "it:t": "Ungheria",
+        "es": "Dunakeszi",
+        "es:t": "Hungr\u00eda",
+        "de": "Dunakeszi",
+        "de:t": "Ungarn"
+    },
+    {
+        "en": "Duna\u00fajv\u00e1ros",
+        "en:t": "Hungary",
+        "a": true,
+        "g": {
+            "lat": 46.9619,
+            "lon": 18.9355
+        },
+        "it": "Duna\u00fajv\u00e1ros",
+        "it:t": "Ungheria",
+        "es": "Duna\u00fajv\u00e1ros",
+        "es:t": "Hungr\u00eda",
+        "de": "Duna\u00fajv\u00e1ros",
+        "de:t": "Ungarn"
+    },
+    {
+        "en": "Eger",
+        "en:t": "Hungary",
+        "a": true,
+        "g": {
+            "lat": 47.9025,
+            "lon": 20.3772
+        },
+        "it": "Cheb",
+        "it:t": "Ungheria",
+        "es": "Eger",
+        "es:t": "Hungr\u00eda",
+        "de": "Eger",
+        "de:t": "Ungarn"
+    },
+    {
+        "en": "Esztergom",
+        "en:t": "Hungary",
+        "a": true,
+        "g": {
+            "lat": 47.7884,
+            "lon": 18.7434
+        },
+        "it": "Strigonio",
+        "it:t": "Ungheria",
+        "es": "Esztergom",
+        "es:t": "Hungr\u00eda",
+        "de": "Gran",
+        "de:t": "Ungarn"
+    },
+    {
+        "en": "F\u00f3t",
+        "en:t": "Hungary",
+        "a": true,
+        "g": {
+            "lat": 47.6173,
+            "lon": 19.1892
+        },
+        "it": "F\u00f3t",
+        "it:t": "Ungheria",
+        "es": "F\u00f3t",
+        "es:t": "Hungr\u00eda",
+        "de": "F\u00f3t",
+        "de:t": "Ungarn"
+    },
+    {
+        "en": "Gyomaendr\u0151d",
+        "en:t": "Hungary",
+        "a": true,
+        "g": {
+            "lat": 46.9318,
+            "lon": 20.8113
+        },
+        "it": "Gyomaendr\u0151d",
+        "it:t": "Ungheria",
+        "es": "Gyomaendr\u0151d",
+        "es:t": "Hungr\u00eda",
+        "de": "Gyomaendr\u0151d",
+        "de:t": "Ungarn"
+    },
+    {
+        "en": "Gyula",
+        "en:t": "Hungary",
+        "a": true,
+        "g": {
+            "lat": 46.6473,
+            "lon": 21.2784
+        },
+        "it": "Gyula",
+        "it:t": "Ungheria",
+        "es": "Gyula",
+        "es:t": "Hungr\u00eda",
+        "de": "Jula",
+        "de:t": "Ungarn"
+    },
+    {
+        "en": "Gy\u00e1l",
+        "en:t": "Hungary",
+        "a": true,
+        "g": {
+            "lat": 47.3837,
+            "lon": 19.2171
+        },
+        "it": "Gy\u00e1l",
+        "it:t": "Ungheria",
+        "es": "Gy\u00e1l",
+        "es:t": "Hungr\u00eda",
+        "de": "Gy\u00e1l",
+        "de:t": "Ungarn"
+    },
+    {
+        "en": "Gy\u00f6ngy\u00f6s",
+        "en:t": "Hungary",
+        "a": true,
+        "g": {
+            "lat": 47.7773,
+            "lon": 19.9295
+        },
+        "it": "Gy\u00f6ngy\u00f6s",
+        "it:t": "Ungheria",
+        "es": "Gy\u00f6ngy\u00f6s",
+        "es:t": "Hungr\u00eda",
+        "de": "Gy\u00f6ngy\u00f6s",
+        "de:t": "Ungarn"
+    },
+    {
+        "en": "Gy\u0151r",
+        "en:t": "Hungary",
+        "a": true,
+        "g": {
+            "lat": 47.6875,
+            "lon": 17.6504
+        },
+        "it": "Gy\u0151r",
+        "it:t": "Ungheria",
+        "es": "Gy\u0151r",
+        "es:t": "Hungr\u00eda",
+        "de": "Gy\u0151r",
+        "de:t": "Ungarn"
+    },
+    {
+        "en": "G\u00f6d",
+        "en:t": "Hungary",
+        "a": true,
+        "g": {
+            "lat": 47.6942,
+            "lon": 19.1401
+        },
+        "it": "G\u00f6d",
+        "it:t": "Ungheria",
+        "es": "G\u00f6d",
+        "es:t": "Hungr\u00eda",
+        "de": "G\u00f6d",
+        "de:t": "Ungarn"
+    },
+    {
+        "en": "G\u00f6d\u00f6ll\u0151",
+        "en:t": "Hungary",
+        "a": true,
+        "g": {
+            "lat": 47.6008,
+            "lon": 19.3605
+        },
+        "it": "G\u00f6d\u00f6ll\u0151",
+        "it:t": "Ungheria",
+        "es": "G\u00f6d\u00f6ll\u0151",
+        "es:t": "Hungr\u00eda",
+        "de": "Getterle",
+        "de:t": "Ungarn"
+    },
+    {
+        "en": "Hajd\u00fab\u00f6sz\u00f6rm\u00e9ny",
+        "en:t": "Hungary",
+        "a": true,
+        "g": {
+            "lat": 47.6719,
+            "lon": 21.5127
+        },
+        "it": "Hajd\u00fab\u00f6sz\u00f6rm\u00e9ny",
+        "it:t": "Ungheria",
+        "es": "Hajd\u00fab\u00f6sz\u00f6rm\u00e9ny",
+        "es:t": "Hungr\u00eda",
+        "de": "Hajd\u00fab\u00f6sz\u00f6rm\u00e9ny",
+        "de:t": "Ungarn"
+    },
+    {
+        "en": "Hajd\u00fan\u00e1n\u00e1s",
+        "en:t": "Hungary",
+        "a": true,
+        "g": {
+            "lat": 47.843,
+            "lon": 21.4243
+        },
+        "it": "Hajd\u00fan\u00e1n\u00e1s",
+        "it:t": "Ungheria",
+        "es": "Hajd\u00fan\u00e1n\u00e1s",
+        "es:t": "Hungr\u00eda",
+        "de": "Hajd\u00fan\u00e1n\u00e1s",
+        "de:t": "Ungarn"
+    },
+    {
+        "en": "Hajd\u00faszoboszl\u00f3",
+        "en:t": "Hungary",
+        "a": true,
+        "g": {
+            "lat": 47.4435,
+            "lon": 21.3966
+        },
+        "it": "Hajd\u00faszoboszl\u00f3",
+        "it:t": "Ungheria",
+        "es": "Hajd\u00faszoboszl\u00f3",
+        "es:t": "Hungr\u00eda",
+        "de": "Hajd\u00faszoboszl\u00f3",
+        "de:t": "Ungarn"
+    },
+    {
+        "en": "Hatvan",
+        "en:t": "Hungary",
+        "a": true,
+        "g": {
+            "lat": 47.6657,
+            "lon": 19.6767
+        },
+        "it": "Hatvan",
+        "it:t": "Ungheria",
+        "es": "Hatvan",
+        "es:t": "Hungr\u00eda",
+        "de": "Hatvan",
+        "de:t": "Ungarn"
+    },
+    {
+        "en": "H\u00f3dmez\u0151v\u00e1s\u00e1rhely",
+        "en:t": "Hungary",
+        "a": true,
+        "g": {
+            "lat": 46.4181,
+            "lon": 20.33
+        },
+        "it": "H\u00f3dmez\u0151v\u00e1s\u00e1rhely",
+        "it:t": "Ungheria",
+        "es": "H\u00f3dmez\u0151v\u00e1s\u00e1rhely",
+        "es:t": "Hungr\u00eda",
+        "de": "H\u00f3dmez\u0151v\u00e1s\u00e1rhely",
+        "de:t": "Ungarn"
+    },
+    {
+        "en": "J\u00e1szber\u00e9ny",
+        "en:t": "Hungary",
+        "a": true,
+        "g": {
+            "lat": 47.5002,
+            "lon": 19.9063
+        },
+        "it": "J\u00e1szber\u00e9ny",
+        "it:t": "Ungheria",
+        "es": "J\u00e1szber\u00e9ny",
+        "es:t": "Hungr\u00eda",
+        "de": "J\u00e1szber\u00e9ny",
+        "de:t": "Ungarn"
+    },
+    {
+        "en": "J\u00f3zsefv\u00e1ros",
+        "en:t": "Hungary | VIII.",
+        "a": true,
+        "g": {
+            "lat": 47.4894,
+            "lon": 19.0707
+        },
+        "it": "J\u00f3zsefv\u00e1ros",
+        "it:t": "Ungheria | VIII.",
+        "es": "J\u00f3zsefv\u00e1ros",
+        "es:t": "Hungr\u00eda | VIII.",
+        "de": "J\u00f3zsefv\u00e1ros",
+        "de:t": "Ungarn"
+    },
+    {
+        "en": "Kalocsa",
+        "en:t": "Hungary",
+        "a": true,
+        "g": {
+            "lat": 46.5281,
+            "lon": 18.984
+        },
+        "it": "Kalocsa",
+        "it:t": "Ungheria",
+        "es": "Kalocsa",
+        "es:t": "Hungr\u00eda",
+        "de": "Kalocsa",
+        "de:t": "Ungarn"
+    },
+    {
+        "en": "Kaposv\u00e1r",
+        "en:t": "Hungary",
+        "a": true,
+        "g": {
+            "lat": 46.3594,
+            "lon": 17.7968
+        },
+        "it": "Kaposv\u00e1r",
+        "it:t": "Ungheria",
+        "es": "Kaposv\u00e1r",
+        "es:t": "Hungr\u00eda",
+        "de": "Kaposv\u00e1r",
+        "de:t": "Ungarn"
+    },
+    {
+        "en": "Karcag",
+        "en:t": "Hungary",
+        "a": true,
+        "g": {
+            "lat": 47.3149,
+            "lon": 20.9197
+        },
+        "it": "Karcag",
+        "it:t": "Ungheria",
+        "es": "Karcag",
+        "es:t": "Hungr\u00eda",
+        "de": "Karcag",
+        "de:t": "Ungarn"
+    },
+    {
+        "en": "Kazincbarcika",
+        "en:t": "Hungary",
+        "a": true,
+        "g": {
+            "lat": 48.2489,
+            "lon": 20.619
+        },
+        "it": "Kazincbarcika",
+        "it:t": "Ungheria",
+        "es": "Kazincbarcika",
+        "es:t": "Hungr\u00eda",
+        "de": "Kazincbarcika",
+        "de:t": "Ungarn"
+    },
+    {
+        "en": "Kecskem\u00e9t",
+        "en:t": "Hungary",
+        "a": true,
+        "g": {
+            "lat": 46.8964,
+            "lon": 19.6897
+        },
+        "it": "Kecskem\u00e9t",
+        "it:t": "Ungheria",
+        "es": "Kecskem\u00e9t",
+        "es:t": "Hungr\u00eda",
+        "de": "Kecskem\u00e9t",
+        "de:t": "Ungarn"
+    },
+    {
+        "en": "Keszthely",
+        "en:t": "Hungary",
+        "a": true,
+        "g": {
+            "lat": 46.7655,
+            "lon": 17.248
+        },
+        "it": "Keszthely",
+        "it:t": "Ungheria",
+        "es": "Keszthely",
+        "es:t": "Hungr\u00eda",
+        "de": "Keszthely",
+        "de:t": "Ungarn"
+    },
+    {
+        "en": "Kiskunf\u00e9legyh\u00e1za",
+        "en:t": "Hungary",
+        "a": true,
+        "g": {
+            "lat": 46.7113,
+            "lon": 19.8515
+        },
+        "it": "Kiskunf\u00e9legyh\u00e1za",
+        "it:t": "Ungheria",
+        "es": "Kiskunf\u00e9legyh\u00e1za",
+        "es:t": "Hungr\u00eda",
+        "de": "Kiskunf\u00e9legyh\u00e1za",
+        "de:t": "Ungarn"
+    },
+    {
+        "en": "Kiskunhalas",
+        "en:t": "Hungary",
+        "a": true,
+        "g": {
+            "lat": 46.4354,
+            "lon": 19.4834
+        },
+        "it": "Kiskunhalas",
+        "it:t": "Ungheria",
+        "es": "Kiskunhalas",
+        "es:t": "Hungr\u00eda",
+        "de": "Kiskunhalas",
+        "de:t": "Ungarn"
+    },
+    {
+        "en": "Kisk\u0151r\u00f6s",
+        "en:t": "Hungary",
+        "a": true,
+        "g": {
+            "lat": 46.6225,
+            "lon": 19.2875
+        },
+        "it": "Kisk\u0151r\u00f6s",
+        "it:t": "Ungheria",
+        "es": "Kisk\u0151r\u00f6s",
+        "es:t": "Hungr\u00eda",
+        "de": "Kisk\u0151r\u00f6s",
+        "de:t": "Ungarn"
+    },
+    {
+        "en": "Kisv\u00e1rda",
+        "en:t": "Hungary",
+        "a": true,
+        "g": {
+            "lat": 48.2181,
+            "lon": 22.0824
+        },
+        "it": "Kisv\u00e1rda",
+        "it:t": "Ungheria",
+        "es": "Kisv\u00e1rda",
+        "es:t": "Hungr\u00eda",
+        "de": "Kisv\u00e1rda",
+        "de:t": "Ungarn"
+    },
+    {
+        "en": "Koml\u00f3",
+        "en:t": "Hungary | Mecsekj\u00e1nosi",
+        "a": true,
+        "g": {
+            "lat": 46.193,
+            "lon": 18.2512
+        },
+        "it": "Koml\u00f3",
+        "it:t": "Ungheria | Mecsekj\u00e1nosi",
+        "es": "Koml\u00f3",
+        "es:t": "Hungr\u00eda | Mecsekj\u00e1nosi",
+        "de": "Koml\u00f3",
+        "de:t": "Ungarn | Mecsekj\u00e1nosi"
+    },
+    {
+        "en": "Kom\u00e1rom",
+        "en:t": "Hungary",
+        "a": true,
+        "g": {
+            "lat": 47.7391,
+            "lon": 18.1267
+        },
+        "it": "Kom\u00e1rom",
+        "it:t": "Ungheria",
+        "es": "Kom\u00e1rom",
+        "es:t": "Hungr\u00eda",
+        "de": "Kom\u00e1rom",
+        "de:t": "Ungarn"
+    },
+    {
+        "en": "Mak\u00f3",
+        "en:t": "Hungary",
+        "a": true,
+        "g": {
+            "lat": 46.2219,
+            "lon": 20.4809
+        },
+        "it": "Mak\u00f3",
+        "it:t": "Ungheria",
+        "es": "Mak\u00f3",
+        "es:t": "Hungr\u00eda",
+        "de": "Mak\u00f3",
+        "de:t": "Ungarn"
+    },
+    {
+        "en": "Mez\u0151k\u00f6vesd",
+        "en:t": "Hungary",
+        "a": true,
+        "g": {
+            "lat": 47.8075,
+            "lon": 20.5699
+        },
+        "it": "Mez\u0151k\u00f6vesd",
+        "it:t": "Ungheria",
+        "es": "Mez\u0151k\u00f6vesd",
+        "es:t": "Hungr\u00eda",
+        "de": "Mez\u0151k\u00f6vesd",
+        "de:t": "Ungarn"
+    },
+    {
+        "en": "Mez\u0151t\u00far",
+        "en:t": "Hungary",
+        "a": true,
+        "g": {
+            "lat": 47.0041,
+            "lon": 20.6162
+        },
+        "it": "Mez\u0151t\u00far",
+        "it:t": "Ungheria",
+        "es": "Mez\u0151t\u00far",
+        "es:t": "Hungr\u00eda",
+        "de": "Mez\u0151t\u00far",
+        "de:t": "Ungarn"
+    },
+    {
+        "en": "Miskolc",
+        "en:t": "Hungary",
+        "a": true,
+        "g": {
+            "lat": 48.1035,
+            "lon": 20.7784
+        },
+        "it": "Miskolc",
+        "it:t": "Ungheria",
+        "es": "Miskolc",
+        "es:t": "Hungr\u00eda",
+        "de": "Miskolc",
+        "de:t": "Ungarn"
+    },
+    {
+        "en": "Moh\u00e1cs",
+        "en:t": "Hungary",
+        "a": true,
+        "g": {
+            "lat": 46.0046,
+            "lon": 18.6794
+        },
+        "it": "Moh\u00e1cs",
+        "it:t": "Ungheria",
+        "es": "Moh\u00e1cs",
+        "es:t": "Hungr\u00eda",
+        "de": "Moh\u00e1cs",
+        "de:t": "Ungarn"
+    },
+    {
+        "en": "Monor",
+        "en:t": "Hungary",
+        "a": true,
+        "g": {
+            "lat": 47.3481,
+            "lon": 19.4401
+        },
+        "it": "Monor",
+        "it:t": "Ungheria",
+        "es": "Monor",
+        "es:t": "Hungr\u00eda",
+        "de": "Monor",
+        "de:t": "Ungarn"
+    },
+    {
+        "en": "Mosonmagyar\u00f3v\u00e1r",
+        "en:t": "Hungary",
+        "a": true,
+        "g": {
+            "lat": 47.8681,
+            "lon": 17.2689
+        },
+        "it": "Mosonmagyar\u00f3v\u00e1r",
+        "it:t": "Ungheria",
+        "es": "Mosonmagyar\u00f3v\u00e1r",
+        "es:t": "Hungr\u00eda",
+        "de": "Mosonmagyar\u00f3v\u00e1r",
+        "de:t": "Ungarn"
+    },
+    {
+        "en": "M\u00e1t\u00e9szalka",
+        "en:t": "Hungary",
+        "a": true,
+        "g": {
+            "lat": 47.9516,
+            "lon": 22.3161
+        },
+        "it": "M\u00e1t\u00e9szalka",
+        "it:t": "Ungheria",
+        "es": "M\u00e1t\u00e9szalka",
+        "es:t": "Hungr\u00eda",
+        "de": "M\u00e1t\u00e9szalka",
+        "de:t": "Ungarn"
+    },
+    {
+        "en": "Nagykanizsa",
+        "en:t": "Hungary",
+        "a": true,
+        "g": {
+            "lat": 46.459,
+            "lon": 16.9897
+        },
+        "it": "Nagykanizsa",
+        "it:t": "Ungheria",
+        "es": "Nagykanizsa",
+        "es:t": "Hungr\u00eda",
+        "de": "Nagykanizsa",
+        "de:t": "Ungarn"
+    },
+    {
+        "en": "Nagyk\u0151r\u00f6s",
+        "en:t": "Hungary",
+        "a": true,
+        "g": {
+            "lat": 47.0317,
+            "lon": 19.7804
+        },
+        "it": "Nagyk\u0151r\u00f6s",
+        "it:t": "Ungheria",
+        "es": "Nagyk\u0151r\u00f6s",
+        "es:t": "Hungr\u00eda",
+        "de": "Nagyk\u0151r\u00f6s",
+        "de:t": "Ungarn"
+    },
+    {
+        "en": "Ny\u00edregyh\u00e1za",
+        "en:t": "Hungary",
+        "a": true,
+        "g": {
+            "lat": 47.9495,
+            "lon": 21.7244
+        },
+        "it": "Ny\u00edregyh\u00e1za",
+        "it:t": "Ungheria",
+        "es": "Ny\u00edregyh\u00e1za",
+        "es:t": "Hungr\u00eda",
+        "de": "Ny\u00edregyh\u00e1za",
+        "de:t": "Ungarn"
+    },
+    {
+        "en": "Orosh\u00e1za",
+        "en:t": "Hungary",
+        "a": true,
+        "g": {
+            "lat": 46.5684,
+            "lon": 20.6545
+        },
+        "it": "Orosh\u00e1za",
+        "it:t": "Ungheria",
+        "es": "Orosh\u00e1za",
+        "es:t": "Hungr\u00eda",
+        "de": "Orosh\u00e1za",
+        "de:t": "Ungarn"
+    },
+    {
+        "en": "Oroszl\u00e1ny",
+        "en:t": "Hungary",
+        "a": true,
+        "g": {
+            "lat": 47.4859,
+            "lon": 18.3155
+        },
+        "it": "Oroszl\u00e1ny",
+        "it:t": "Ungheria",
+        "es": "Oroszl\u00e1ny",
+        "es:t": "Hungr\u00eda",
+        "de": "Oroszl\u00e1ny",
+        "de:t": "Ungarn"
+    },
+    {
+        "en": "Paks",
+        "en:t": "Hungary",
+        "a": true,
+        "g": {
+            "lat": 46.6061,
+            "lon": 18.8547
+        },
+        "it": "Paks",
+        "it:t": "Ungheria",
+        "es": "Paks",
+        "es:t": "Hungr\u00eda",
+        "de": "Paks",
+        "de:t": "Ungarn"
+    },
+    {
+        "en": "Par\u00e1dsasv\u00e1r",
+        "en:t": "Hungary",
+        "a": true,
+        "g": {
+            "lat": 47.9123,
+            "lon": 19.9765
+        },
+        "it": "Par\u00e1dsasv\u00e1r",
+        "it:t": "Ungheria",
+        "es": "Par\u00e1dsasv\u00e1r",
+        "es:t": "Hungr\u00eda",
+        "de": "Par\u00e1dsasv\u00e1r",
+        "de:t": "Ungarn"
+    },
+    {
+        "en": "Pesterzs\u00e9bet",
+        "en:t": "Hungary | Budapest",
+        "a": true,
+        "g": {
+            "lat": 47.4333,
+            "lon": 19.1193
+        },
+        "it": "Distretto XX",
+        "it:t": "Ungheria | Budapest",
+        "es": "Pesterzs\u00e9bet",
+        "es:t": "Hungr\u00eda | Budapest",
+        "de": "Pesterzs\u00e9bet",
+        "de:t": "Ungarn | Budapest"
+    },
+    {
+        "en": "P\u00e1pa",
+        "en:t": "Hungary",
+        "a": true,
+        "g": {
+            "lat": 47.326,
+            "lon": 17.4698
+        },
+        "it": "P\u00e1pa",
+        "it:t": "Ungheria",
+        "es": "P\u00e1pa",
+        "es:t": "Hungr\u00eda",
+        "de": "P\u00e1pa",
+        "de:t": "Ungarn"
+    },
+    {
+        "en": "P\u00e9cs",
+        "en:t": "Hungary",
+        "a": true,
+        "g": {
+            "lat": 46.0727,
+            "lon": 18.2323
+        },
+        "it": "P\u00e9cs",
+        "it:t": "Ungheria",
+        "es": "P\u00e9cs",
+        "es:t": "Hungr\u00eda",
+        "de": "P\u00e9cs",
+        "de:t": "Ungarn"
+    },
+    {
+        "en": "P\u00fcsp\u00f6klad\u00e1ny",
+        "en:t": "Hungary",
+        "a": true,
+        "g": {
+            "lat": 47.3217,
+            "lon": 21.1186
+        },
+        "it": "P\u00fcsp\u00f6klad\u00e1ny",
+        "it:t": "Ungheria",
+        "es": "P\u00fcsp\u00f6klad\u00e1ny",
+        "es:t": "Hungr\u00eda",
+        "de": "P\u00fcsp\u00f6klad\u00e1ny",
+        "de:t": "Ungarn"
+    },
+    {
+        "en": "R\u00e1kosmente",
+        "en:t": "Hungary | Budapest",
+        "a": true,
+        "g": {
+            "lat": 47.4803,
+            "lon": 19.2667
+        },
+        "it": "R\u00e1kosmente",
+        "it:t": "Ungheria | Budapest",
+        "es": "R\u00e1kosmente",
+        "es:t": "Hungr\u00eda | Budapest",
+        "de": "R\u00e1kosmente",
+        "de:t": "Ungarn | Budapest"
+    },
+    {
+        "en": "Salg\u00f3tarj\u00e1n",
+        "en:t": "Hungary",
+        "a": true,
+        "g": {
+            "lat": 48.0935,
+            "lon": 19.8
+        },
+        "it": "Salg\u00f3tarj\u00e1n",
+        "it:t": "Ungheria",
+        "es": "Salg\u00f3tarj\u00e1n",
+        "es:t": "Hungr\u00eda",
+        "de": "Salg\u00f3tarj\u00e1n",
+        "de:t": "Ungarn"
+    },
+    {
+        "en": "Si\u00f3fok",
+        "en:t": "Hungary",
+        "a": true,
+        "g": {
+            "lat": 46.9091,
+            "lon": 18.0746
+        },
+        "it": "Si\u00f3fok",
+        "it:t": "Ungheria",
+        "es": "Si\u00f3fok",
+        "es:t": "Hungr\u00eda",
+        "de": "Si\u00f3fok",
+        "de:t": "Ungarn"
+    },
+    {
+        "en": "Sopron",
+        "en:t": "Hungary",
+        "a": true,
+        "g": {
+            "lat": 47.6817,
+            "lon": 16.5845
+        },
+        "it": "Sopron",
+        "it:t": "Ungheria",
+        "es": "Sopron",
+        "es:t": "Hungr\u00eda",
+        "de": "\u00d6denburg",
+        "de:t": "Ungarn"
+    },
+    {
+        "en": "Szarvas",
+        "en:t": "Hungary",
+        "a": true,
+        "g": {
+            "lat": 46.8636,
+            "lon": 20.5527
+        },
+        "it": "Szarvas",
+        "it:t": "Ungheria",
+        "es": "Szarvas",
+        "es:t": "Hungr\u00eda",
+        "de": "Szarvas",
+        "de:t": "Ungarn"
+    },
+    {
+        "en": "Szeged",
+        "en:t": "Hungary",
+        "a": true,
+        "g": {
+            "lat": 46.253,
+            "lon": 20.1414
+        },
+        "it": "Seghedino",
+        "it:t": "Ungheria",
+        "es": "Szeged",
+        "es:t": "Hungr\u00eda",
+        "de": "Szeged",
+        "de:t": "Ungarn"
+    },
+    {
+        "en": "Szeksz\u00e1rd",
+        "en:t": "Hungary",
+        "a": true,
+        "g": {
+            "lat": 46.3474,
+            "lon": 18.7062
+        },
+        "it": "Szeksz\u00e1rd",
+        "it:t": "Ungheria",
+        "es": "Szeksz\u00e1rd",
+        "es:t": "Hungr\u00eda",
+        "de": "Szeksz\u00e1rd",
+        "de:t": "Ungarn"
+    },
+    {
+        "en": "Szentendre",
+        "en:t": "Hungary",
+        "a": true,
+        "g": {
+            "lat": 47.6795,
+            "lon": 19.0669
+        },
+        "it": "Szentendre",
+        "it:t": "Ungheria",
+        "es": "Szentendre",
+        "es:t": "Hungr\u00eda",
+        "de": "Szentendre",
+        "de:t": "Ungarn"
+    },
+    {
+        "en": "Szentes",
+        "en:t": "Hungary",
+        "a": true,
+        "g": {
+            "lat": 46.6548,
+            "lon": 20.2637
+        },
+        "it": "Szentes",
+        "it:t": "Ungheria",
+        "es": "Szentes",
+        "es:t": "Hungr\u00eda",
+        "de": "Szentes",
+        "de:t": "Ungarn"
+    },
+    {
+        "en": "Szigetszentmikl\u00f3s",
+        "en:t": "Hungary",
+        "a": true,
+        "g": {
+            "lat": 47.3396,
+            "lon": 19.0352
+        },
+        "it": "Szigetszentmikl\u00f3s",
+        "it:t": "Ungheria",
+        "es": "Szigetszentmikl\u00f3s",
+        "es:t": "Hungr\u00eda",
+        "de": "Szigetszentmikl\u00f3s",
+        "de:t": "Ungarn"
+    },
+    {
+        "en": "Szolnok",
+        "en:t": "Hungary",
+        "a": true,
+        "g": {
+            "lat": 47.1621,
+            "lon": 20.1825
+        },
+        "it": "Szolnok",
+        "it:t": "Ungheria",
+        "es": "Szolnok",
+        "es:t": "Hungr\u00eda",
+        "de": "Szolnok",
+        "de:t": "Ungarn"
+    },
+    {
+        "en": "Szombathely",
+        "en:t": "Hungary",
+        "a": true,
+        "g": {
+            "lat": 47.2307,
+            "lon": 16.6218
+        },
+        "it": "Szombathely",
+        "it:t": "Ungheria",
+        "es": "Szombathely",
+        "es:t": "Hungr\u00eda",
+        "de": "Szombathely",
+        "de:t": "Ungarn"
+    },
+    {
+        "en": "Sz\u00e1zhalombatta",
+        "en:t": "Hungary",
+        "a": true,
+        "g": {
+            "lat": 47.3083,
+            "lon": 18.9097
+        },
+        "it": "Sz\u00e1zhalombatta",
+        "it:t": "Ungheria",
+        "es": "Sz\u00e1zhalombatta",
+        "es:t": "Hungr\u00eda",
+        "de": "Sz\u00e1zhalombatta",
+        "de:t": "Ungarn"
+    },
+    {
+        "en": "Sz\u00e9kesfeh\u00e9rv\u00e1r",
+        "en:t": "Hungary",
+        "a": true,
+        "g": {
+            "lat": 47.186,
+            "lon": 18.4221
+        },
+        "it": "Sz\u00e9kesfeh\u00e9rv\u00e1r",
+        "it:t": "Ungheria",
+        "es": "Sz\u00e9kesfeh\u00e9rv\u00e1r",
+        "es:t": "Hungr\u00eda",
+        "de": "Sz\u00e9kesfeh\u00e9rv\u00e1r",
+        "de:t": "Ungarn"
+    },
+    {
+        "en": "S\u00e1rv\u00e1r",
+        "en:t": "Hungary",
+        "a": true,
+        "g": {
+            "lat": 47.2524,
+            "lon": 16.9295
+        },
+        "it": "S\u00e1rv\u00e1r",
+        "it:t": "Ungheria",
+        "es": "S\u00e1rv\u00e1r",
+        "es:t": "Hungr\u00eda",
+        "de": "S\u00e1rv\u00e1r",
+        "de:t": "Ungarn"
+    },
+    {
+        "en": "S\u00e1toralja\u00fajhely",
+        "en:t": "Hungary",
+        "a": true,
+        "g": {
+            "lat": 48.3961,
+            "lon": 21.6551
+        },
+        "it": "S\u00e1toralja\u00fajhely",
+        "it:t": "Ungheria",
+        "es": "S\u00e1toralja\u00fajhely",
+        "es:t": "Hungr\u00eda",
+        "de": "S\u00e1toralja\u00fajhely",
+        "de:t": "Ungarn"
+    },
+    {
+        "en": "Tapolca",
+        "en:t": "Hungary",
+        "a": true,
+        "g": {
+            "lat": 46.8834,
+            "lon": 17.4371
+        },
+        "it": "Tapolca",
+        "it:t": "Ungheria",
+        "es": "Tapolca",
+        "es:t": "Hungr\u00eda",
+        "de": "Tapolca",
+        "de:t": "Ungarn"
+    },
+    {
+        "en": "Tata",
+        "en:t": "Hungary",
+        "a": true,
+        "g": {
+            "lat": 47.6606,
+            "lon": 18.3342
+        },
+        "it": "Tata",
+        "it:t": "Ungheria",
+        "es": "Tata",
+        "es:t": "Hungr\u00eda",
+        "de": "Tata",
+        "de:t": "Ungarn"
+    },
+    {
+        "en": "Tatab\u00e1nya",
+        "en:t": "Hungary",
+        "a": true,
+        "g": {
+            "lat": 47.5692,
+            "lon": 18.4048
+        },
+        "it": "Tatab\u00e1nya",
+        "it:t": "Ungheria",
+        "es": "Tatab\u00e1nya",
+        "es:t": "Hungr\u00eda",
+        "de": "Tatab\u00e1nya",
+        "de:t": "Ungarn"
+    },
+    {
+        "en": "Ter\u00e9zv\u00e1ros",
+        "en:t": "Hungary | VI.",
+        "a": true,
+        "g": {
+            "lat": 47.5099,
+            "lon": 19.0626
+        },
+        "it": "Ter\u00e9zv\u00e1ros",
+        "it:t": "Ungheria | VI.",
+        "es": "District VI.",
+        "es:t": "Hungr\u00eda | Budapest",
+        "de": "VI. Budapester Bezirk",
+        "de:t": "Ungarn | VI. Bezirk"
+    },
+    {
+        "en": "Tisza\u00fajv\u00e1ros",
+        "en:t": "Hungary",
+        "a": true,
+        "g": {
+            "lat": 47.916,
+            "lon": 21.0427
+        },
+        "it": "Tisza\u00fajv\u00e1ros",
+        "it:t": "Ungheria",
+        "es": "Tisza\u00fajv\u00e1ros",
+        "es:t": "Hungr\u00eda",
+        "de": "Tisza\u00fajv\u00e1ros",
+        "de:t": "Ungarn"
+    },
+    {
+        "en": "T\u00f6r\u00f6kszentmikl\u00f3s",
+        "en:t": "Hungary",
+        "a": true,
+        "g": {
+            "lat": 47.1759,
+            "lon": 20.4133
+        },
+        "it": "T\u00f6r\u00f6kszentmikl\u00f3s",
+        "it:t": "Ungheria",
+        "es": "T\u00f6r\u00f6kszentmikl\u00f3s",
+        "es:t": "Hungr\u00eda",
+        "de": "T\u00f6r\u00f6kszentmikl\u00f3s",
+        "de:t": "Ungarn"
+    },
+    {
+        "en": "Vecs\u00e9s",
+        "en:t": "Hungary",
+        "a": true,
+        "g": {
+            "lat": 47.4069,
+            "lon": 19.2624
+        },
+        "it": "Vecs\u00e9s",
+        "it:t": "Ungheria",
+        "es": "Vecs\u00e9s",
+        "es:t": "Hungr\u00eda",
+        "de": "Vecs\u00e9s",
+        "de:t": "Ungarn"
+    },
+    {
+        "en": "Veszpr\u00e9m",
+        "en:t": "Hungary",
+        "a": true,
+        "g": {
+            "lat": 47.1028,
+            "lon": 17.9093
+        },
+        "it": "Veszpr\u00e9m",
+        "it:t": "Ungheria",
+        "es": "Veszpr\u00e9m",
+        "es:t": "Hungr\u00eda",
+        "de": "Veszpr\u00e9m",
+        "de:t": "Ungarn"
+    },
+    {
+        "en": "V\u00e1c",
+        "en:t": "Hungary",
+        "a": true,
+        "g": {
+            "lat": 47.7842,
+            "lon": 19.1352
+        },
+        "it": "V\u00e1c",
+        "it:t": "Ungheria",
+        "es": "V\u00e1c",
+        "es:t": "Hungr\u00eda",
+        "de": "V\u00e1c",
+        "de:t": "Ungarn"
+    },
+    {
+        "en": "V\u00e1rpalota",
+        "en:t": "Hungary",
+        "a": true,
+        "g": {
+            "lat": 47.2006,
+            "lon": 18.1614
+        },
+        "it": "V\u00e1rpalota",
+        "it:t": "Ungheria",
+        "es": "V\u00e1rpalota",
+        "es:t": "Hungr\u00eda",
+        "de": "V\u00e1rpalota",
+        "de:t": "Ungarn"
+    },
+    {
+        "en": "Zalaegerszeg",
+        "en:t": "Hungary",
+        "a": true,
+        "g": {
+            "lat": 46.8417,
+            "lon": 16.8416
+        },
+        "it": "Zalaegerszeg",
+        "it:t": "Ungheria",
+        "es": "Zalaegerszeg",
+        "es:t": "Hungr\u00eda",
+        "de": "Zalaegerszeg",
+        "de:t": "Ungarn"
+    },
+    {
+        "en": "\u00c9rd",
+        "en:t": "Hungary",
+        "a": true,
+        "g": {
+            "lat": 47.392,
+            "lon": 18.9045
+        },
+        "it": "\u00c9rd",
+        "it:t": "Ungheria",
+        "es": "\u00c9rd",
+        "es:t": "Hungr\u00eda",
+        "de": "\u00c9rd",
+        "de:t": "Ungarn"
+    },
+    {
+        "en": "\u00d3zd",
+        "en:t": "Hungary",
+        "a": true,
+        "g": {
+            "lat": 48.2241,
+            "lon": 20.2889
+        },
+        "it": "\u00d3zd",
+        "it:t": "Ungheria",
+        "es": "\u00d3zd",
+        "es:t": "Hungr\u00eda",
+        "de": "\u00d3zd",
+        "de:t": "Ungarn"
+    }
+]

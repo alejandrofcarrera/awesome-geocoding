@@ -1,0 +1,2747 @@
+[
+    {
+        "en": "Aalst",
+        "en:t": "Belgium | East Flanders",
+        "a": true,
+        "g": {
+            "lat": 50.9378,
+            "lon": 4.041
+        },
+        "it": "Aalst",
+        "it:t": "Belgio | Provincia delle Fiandre Orientali",
+        "es": "Aalst",
+        "es:t": "B\u00e9lgica | Flandes Oriental",
+        "de": "Aalst",
+        "de:t": "Belgien | Ostflandern"
+    },
+    {
+        "en": "Aalter",
+        "en:t": "Belgium | East Flanders",
+        "a": true,
+        "g": {
+            "lat": 51.0873,
+            "lon": 3.4484
+        },
+        "it": "Aalter",
+        "it:t": "Belgio | Provincia delle Fiandre Orientali",
+        "es": "Aalter",
+        "es:t": "B\u00e9lgica | Flandes Oriental",
+        "de": "Aalter",
+        "de:t": "Belgien | Ostflandern"
+    },
+    {
+        "en": "Aarschot",
+        "en:t": "Belgium | Flemish Brabant",
+        "a": true,
+        "g": {
+            "lat": 50.986,
+            "lon": 4.8365
+        },
+        "it": "Aarschot",
+        "it:t": "Belgio | Provincia del Brabante Fiammingo",
+        "es": "Aarschot",
+        "es:t": "B\u00e9lgica | Brabante Flamenco",
+        "de": "Aarschot",
+        "de:t": "Belgien | Fl\u00e4misch-Brabant"
+    },
+    {
+        "en": "Andenne",
+        "en:t": "Belgium | Province of Namur",
+        "a": true,
+        "g": {
+            "lat": 50.4912,
+            "lon": 5.0965
+        },
+        "it": "Andenne",
+        "it:t": "Belgio | Provincia di Namur",
+        "es": "Andenne",
+        "es:t": "B\u00e9lgica | Provincia de Namur",
+        "de": "Andenne",
+        "de:t": "Belgien | Provinz Namur"
+    },
+    {
+        "en": "Ans",
+        "en:t": "Belgium | Liege",
+        "a": true,
+        "g": {
+            "lat": 50.6569,
+            "lon": 5.5286
+        },
+        "it": "Ans",
+        "it:t": "Belgio | Provincia di Liegi",
+        "es": "Ans",
+        "es:t": "B\u00e9lgica | Provincia de Lieja",
+        "de": "Ans",
+        "de:t": "Belgien | Provinz L\u00fcttich"
+    },
+    {
+        "en": "Antwerp",
+        "en:t": "Belgium",
+        "a": true,
+        "g": {
+            "lat": 51.2194,
+            "lon": 4.4025
+        },
+        "it": "Anversa",
+        "it:t": "Belgio",
+        "es": "Amberes",
+        "es:t": "B\u00e9lgica",
+        "de": "Antwerpen",
+        "de:t": "Belgien"
+    },
+    {
+        "en": "Arlon",
+        "en:t": "Belgium | Luxembourg",
+        "a": true,
+        "g": {
+            "lat": 49.6851,
+            "lon": 5.8105
+        },
+        "it": "Arlon",
+        "it:t": "Belgio | Lussemburgo",
+        "es": "Arlon",
+        "es:t": "B\u00e9lgica | Luxemburgo",
+        "de": "Arel",
+        "de:t": "Belgien | Luxemburg"
+    },
+    {
+        "en": "Asse",
+        "en:t": "Belgium | Flemish Brabant",
+        "a": true,
+        "g": {
+            "lat": 50.9094,
+            "lon": 4.2005
+        },
+        "it": "Asse",
+        "it:t": "Belgio | Provincia del Brabante Fiammingo",
+        "es": "Asse",
+        "es:t": "B\u00e9lgica | Brabante Flamenco",
+        "de": "Asse",
+        "de:t": "Belgien | Fl\u00e4misch-Brabant"
+    },
+    {
+        "en": "Ath",
+        "en:t": "Belgium | Hainaut",
+        "a": true,
+        "g": {
+            "lat": 50.6304,
+            "lon": 3.777
+        },
+        "it": "Ath",
+        "it:t": "Belgio | Provincia dell'Hainaut",
+        "es": "Ath",
+        "es:t": "B\u00e9lgica | Provincia de Henao",
+        "de": "Ath",
+        "de:t": "Belgien | Hennegau"
+    },
+    {
+        "en": "Balen",
+        "en:t": "Belgium | Antwerp",
+        "a": true,
+        "g": {
+            "lat": 51.1709,
+            "lon": 5.1668
+        },
+        "it": "Balen",
+        "it:t": "Belgio | Anversa",
+        "es": "Balen",
+        "es:t": "B\u00e9lgica | Amberes",
+        "de": "Balen",
+        "de:t": "Belgien | Antwerpen"
+    },
+    {
+        "en": "Beerse",
+        "en:t": "Belgium | Antwerp",
+        "a": true,
+        "g": {
+            "lat": 51.3195,
+            "lon": 4.8548
+        },
+        "it": "Beerse",
+        "it:t": "Belgio | Anversa",
+        "es": "Beerse",
+        "es:t": "B\u00e9lgica | Amberes",
+        "de": "Beerse",
+        "de:t": "Belgien | Antwerpen"
+    },
+    {
+        "en": "Beersel",
+        "en:t": "Belgium | Flemish Brabant",
+        "a": true,
+        "g": {
+            "lat": 50.7669,
+            "lon": 4.3085
+        },
+        "it": "Beersel",
+        "it:t": "Belgio | Provincia del Brabante Fiammingo",
+        "es": "Beersel",
+        "es:t": "B\u00e9lgica | Brabante Flamenco",
+        "de": "Beersel",
+        "de:t": "Belgien | Fl\u00e4misch-Brabant"
+    },
+    {
+        "en": "Beringen",
+        "en:t": "Belgium | Limburg",
+        "a": true,
+        "g": {
+            "lat": 51.0479,
+            "lon": 5.2186
+        },
+        "it": "Beringen",
+        "it:t": "Belgio | Limburgo",
+        "es": "Beringen",
+        "es:t": "B\u00e9lgica | Limburgo",
+        "de": "Beringen",
+        "de:t": "Belgien | Limburg"
+    },
+    {
+        "en": "Beveren",
+        "en:t": "Belgium | East Flanders",
+        "a": true,
+        "g": {
+            "lat": 51.2132,
+            "lon": 4.2582
+        },
+        "it": "Beveren",
+        "it:t": "Belgio | Provincia delle Fiandre Orientali",
+        "es": "Beveren",
+        "es:t": "B\u00e9lgica | Flandes Oriental",
+        "de": "Beveren",
+        "de:t": "Belgien | Ostflandern"
+    },
+    {
+        "en": "Bilzen",
+        "en:t": "Belgium | Limburg",
+        "a": true,
+        "g": {
+            "lat": 50.8719,
+            "lon": 5.5167
+        },
+        "it": "Bilzen",
+        "it:t": "Belgio | Limburgo",
+        "es": "Bilzen",
+        "es:t": "B\u00e9lgica | Limburgo",
+        "de": "Bilzen",
+        "de:t": "Belgien | Limburg"
+    },
+    {
+        "en": "Binche",
+        "en:t": "Belgium | Hainaut",
+        "a": true,
+        "g": {
+            "lat": 50.4122,
+            "lon": 4.1659
+        },
+        "it": "Binche",
+        "it:t": "Belgio | Provincia dell'Hainaut",
+        "es": "Binche",
+        "es:t": "B\u00e9lgica | Provincia de Henao",
+        "de": "Binche",
+        "de:t": "Belgien | Hennegau"
+    },
+    {
+        "en": "Blankenberge",
+        "en:t": "Belgium | West Flanders",
+        "a": true,
+        "g": {
+            "lat": 51.3124,
+            "lon": 3.1328
+        },
+        "it": "Blankenberge",
+        "it:t": "Belgio | Provincia delle Fiandre Occidentali",
+        "es": "Blankenberge",
+        "es:t": "B\u00e9lgica | Provincia de Flandes Occidental",
+        "de": "Blankenberge",
+        "de:t": "Belgien | Westflandern"
+    },
+    {
+        "en": "Boom",
+        "en:t": "Belgium",
+        "a": true,
+        "g": {
+            "lat": 51.0929,
+            "lon": 4.3654
+        },
+        "it": "Boom",
+        "it:t": "Belgio | Anversa",
+        "es": "Boom",
+        "es:t": "B\u00e9lgica",
+        "de": "Boom",
+        "de:t": "Belgien | Antwerpen"
+    },
+    {
+        "en": "Bornem",
+        "en:t": "Belgium | Antwerp",
+        "a": true,
+        "g": {
+            "lat": 51.0996,
+            "lon": 4.2405
+        },
+        "it": "Bornem",
+        "it:t": "Belgio | Anversa",
+        "es": "Bornem",
+        "es:t": "B\u00e9lgica | Amberes",
+        "de": "Bornem",
+        "de:t": "Belgien | Antwerpen"
+    },
+    {
+        "en": "Boussu",
+        "en:t": "Belgium | Hainaut",
+        "a": true,
+        "g": {
+            "lat": 50.4335,
+            "lon": 3.7956
+        },
+        "it": "Boussu",
+        "it:t": "Belgio | Provincia dell'Hainaut",
+        "es": "Boussu",
+        "es:t": "B\u00e9lgica | Provincia de Henao",
+        "de": "Boussu",
+        "de:t": "Belgien | Hennegau"
+    },
+    {
+        "en": "Braine-l'Alleud",
+        "en:t": "Belgium | Walloon Brabant",
+        "a": true,
+        "g": {
+            "lat": 50.6854,
+            "lon": 4.3779
+        },
+        "it": "Braine-l'Alleud",
+        "it:t": "Belgio | Brabante Vallone",
+        "es": "Braine-l'Alleud",
+        "es:t": "B\u00e9lgica | Brabante Val\u00f3n",
+        "de": "Braine-l'Alleud",
+        "de:t": "Belgien | Wallonisch-Brabant"
+    },
+    {
+        "en": "Braine-le-Comte",
+        "en:t": "Belgium | Hainaut",
+        "a": true,
+        "g": {
+            "lat": 50.6094,
+            "lon": 4.1348
+        },
+        "it": "Braine-le-Comte",
+        "it:t": "Belgio | Provincia dell'Hainaut",
+        "es": "Braine-le-Comte",
+        "es:t": "B\u00e9lgica | Provincia de Henao",
+        "de": "Braine-le-Comte",
+        "de:t": "Belgien | Hennegau"
+    },
+    {
+        "en": "Brasschaat",
+        "en:t": "Belgium | Antwerp",
+        "a": true,
+        "g": {
+            "lat": 51.2923,
+            "lon": 4.4942
+        },
+        "it": "Brasschaat",
+        "it:t": "Belgio | Anversa",
+        "es": "Brasschaat",
+        "es:t": "B\u00e9lgica | Amberes",
+        "de": "Brasschaat",
+        "de:t": "Belgien | Antwerpen"
+    },
+    {
+        "en": "Brecht",
+        "en:t": "Belgium | Antwerp",
+        "a": true,
+        "g": {
+            "lat": 51.3497,
+            "lon": 4.6377
+        },
+        "it": "Brecht",
+        "it:t": "Belgio | Anversa",
+        "es": "Brecht",
+        "es:t": "B\u00e9lgica | Amberes",
+        "de": "Brecht",
+        "de:t": "Belgien | Antwerpen"
+    },
+    {
+        "en": "Bruges",
+        "en:t": "Belgium | West Flanders",
+        "a": true,
+        "g": {
+            "lat": 51.2093,
+            "lon": 3.2247
+        },
+        "it": "Bruges",
+        "it:t": "Belgio | Provincia delle Fiandre Occidentali",
+        "es": "Brujas",
+        "es:t": "B\u00e9lgica | Provincia de Flandes Occidental",
+        "de": "Br\u00fcgge",
+        "de:t": "Belgien | Westflandern"
+    },
+    {
+        "en": "Brussels",
+        "en:t": "Belgium",
+        "a": true,
+        "g": {
+            "lat": 50.8503,
+            "lon": 4.3517
+        },
+        "it": "Regione di Bruxelles-Capitale",
+        "it:t": "Belgio",
+        "es": "Regi\u00f3n de Bruselas-Capital",
+        "es:t": "B\u00e9lgica",
+        "de": "Br\u00fcssel",
+        "de:t": "Belgien | Region Br\u00fcssel-Hauptstadt"
+    },
+    {
+        "en": "Charleroi",
+        "en:t": "Belgium | Hainaut",
+        "a": true,
+        "g": {
+            "lat": 50.4108,
+            "lon": 4.4446
+        },
+        "it": "Charleroi",
+        "it:t": "Belgio | Provincia dell'Hainaut",
+        "es": "Charleroi",
+        "es:t": "B\u00e9lgica | Provincia de Henao",
+        "de": "Charleroi",
+        "de:t": "Belgien | Hennegau"
+    },
+    {
+        "en": "Chasse Royale",
+        "en:t": "Belgium | Brugelette",
+        "a": true,
+        "g": {
+            "lat": 50.5984,
+            "lon": 3.8237
+        },
+        "it": "Chasse Royale",
+        "it:t": "Belgio | Brugelette",
+        "es": "Chasse Royale",
+        "es:t": "B\u00e9lgica | Brugelette",
+        "de": "Chasse Royale",
+        "de:t": "Belgien | Brugelette"
+    },
+    {
+        "en": "Chaudfontaine",
+        "en:t": "Belgium | Liege",
+        "a": true,
+        "g": {
+            "lat": 50.5865,
+            "lon": 5.6394
+        },
+        "it": "Chaudfontaine",
+        "it:t": "Belgio | Provincia di Liegi",
+        "es": "Chaudfontaine",
+        "es:t": "B\u00e9lgica | Provincia de Lieja",
+        "de": "Chaudfontaine",
+        "de:t": "Belgien | Provinz L\u00fcttich"
+    },
+    {
+        "en": "Ch\u00e2telet",
+        "en:t": "Belgium | Hainaut",
+        "a": true,
+        "g": {
+            "lat": 50.4061,
+            "lon": 4.5279
+        },
+        "it": "Ch\u00e2telet",
+        "it:t": "Belgio | Provincia dell'Hainaut",
+        "es": "Ch\u00e2telet",
+        "es:t": "B\u00e9lgica | Provincia de Henao",
+        "de": "Ch\u00e2telet",
+        "de:t": "Belgien | Hennegau"
+    },
+    {
+        "en": "Colfontaine",
+        "en:t": "Belgium | Hainaut",
+        "a": true,
+        "g": {
+            "lat": 50.4142,
+            "lon": 3.846
+        },
+        "it": "Colfontaine",
+        "it:t": "Belgio | Provincia dell'Hainaut",
+        "es": "Colfontaine",
+        "es:t": "B\u00e9lgica | Provincia de Henao",
+        "de": "Colfontaine",
+        "de:t": "Belgien | Hennegau"
+    },
+    {
+        "en": "Courcelles",
+        "en:t": "Belgium | Hainaut",
+        "a": true,
+        "g": {
+            "lat": 50.4633,
+            "lon": 4.3741
+        },
+        "it": "Courcelles",
+        "it:t": "Belgio | Provincia dell'Hainaut",
+        "es": "Courcelles",
+        "es:t": "B\u00e9lgica | Provincia de Henao",
+        "de": "Courcelles",
+        "de:t": "Belgien | Hennegau"
+    },
+    {
+        "en": "Deinze",
+        "en:t": "Belgium | East Flanders",
+        "a": true,
+        "g": {
+            "lat": 50.9875,
+            "lon": 3.5236
+        },
+        "it": "Deinze",
+        "it:t": "Belgio | Provincia delle Fiandre Orientali",
+        "es": "Deinze",
+        "es:t": "B\u00e9lgica | Flandes Oriental",
+        "de": "Deinze",
+        "de:t": "Belgien | Ostflandern"
+    },
+    {
+        "en": "Denderleeuw",
+        "en:t": "Belgium | East Flanders",
+        "a": true,
+        "g": {
+            "lat": 50.8846,
+            "lon": 4.076
+        },
+        "it": "Denderleeuw",
+        "it:t": "Belgio | Provincia delle Fiandre Orientali",
+        "es": "Denderleeuw",
+        "es:t": "B\u00e9lgica | Flandes Oriental",
+        "de": "Denderleeuw",
+        "de:t": "Belgien | Ostflandern"
+    },
+    {
+        "en": "Dendermonde",
+        "en:t": "Belgium | East Flanders",
+        "a": true,
+        "g": {
+            "lat": 51.0255,
+            "lon": 4.102
+        },
+        "it": "Dendermonde",
+        "it:t": "Belgio | Provincia delle Fiandre Orientali",
+        "es": "Dendermonde",
+        "es:t": "B\u00e9lgica | Flandes Oriental",
+        "de": "Dendermonde",
+        "de:t": "Belgien | Ostflandern"
+    },
+    {
+        "en": "Destelbergen",
+        "en:t": "Belgium | East Flanders",
+        "a": true,
+        "g": {
+            "lat": 51.0609,
+            "lon": 3.7978
+        },
+        "it": "Destelbergen",
+        "it:t": "Belgio | Provincia delle Fiandre Orientali",
+        "es": "Destelbergen",
+        "es:t": "B\u00e9lgica | Flandes Oriental",
+        "de": "Destelbergen",
+        "de:t": "Belgien | Ostflandern"
+    },
+    {
+        "en": "Diepenbeek",
+        "en:t": "Belgium | Limburg",
+        "a": true,
+        "g": {
+            "lat": 50.9108,
+            "lon": 5.4134
+        },
+        "it": "Diepenbeek",
+        "it:t": "Belgio | Limburgo",
+        "es": "Diepenbeek",
+        "es:t": "B\u00e9lgica | Limburgo",
+        "de": "Diepenbeek",
+        "de:t": "Belgien | Limburg"
+    },
+    {
+        "en": "Diest",
+        "en:t": "Belgium | Flemish Brabant",
+        "a": true,
+        "g": {
+            "lat": 50.9896,
+            "lon": 5.0502
+        },
+        "it": "Diest",
+        "it:t": "Belgio | Provincia del Brabante Fiammingo",
+        "es": "Diest",
+        "es:t": "B\u00e9lgica | Brabante Flamenco",
+        "de": "Diest",
+        "de:t": "Belgien | Fl\u00e4misch-Brabant"
+    },
+    {
+        "en": "Diksmuide",
+        "en:t": "Belgium | West Flanders",
+        "a": true,
+        "g": {
+            "lat": 51.0333,
+            "lon": 2.8658
+        },
+        "it": "Diksmuide",
+        "it:t": "Belgio | Provincia delle Fiandre Occidentali",
+        "es": "Dixmuda",
+        "es:t": "B\u00e9lgica | Provincia de Flandes Occidental",
+        "de": "Diksmuide",
+        "de:t": "Belgien | Westflandern"
+    },
+    {
+        "en": "Dilbeek",
+        "en:t": "Belgium | Flemish Brabant",
+        "a": true,
+        "g": {
+            "lat": 50.8465,
+            "lon": 4.2621
+        },
+        "it": "Dilbeek",
+        "it:t": "Belgio | Provincia del Brabante Fiammingo",
+        "es": "Dilbeek",
+        "es:t": "B\u00e9lgica | Brabante Flamenco",
+        "de": "Dilbeek",
+        "de:t": "Belgien | Fl\u00e4misch-Brabant"
+    },
+    {
+        "en": "Dour",
+        "en:t": "Belgium | Hainaut",
+        "a": true,
+        "g": {
+            "lat": 50.4,
+            "lon": 3.7828
+        },
+        "it": "Dour",
+        "it:t": "Belgio | Provincia dell'Hainaut",
+        "es": "Dour",
+        "es:t": "B\u00e9lgica | Provincia de Henao",
+        "de": "Dour",
+        "de:t": "Belgien | Hennegau"
+    },
+    {
+        "en": "Duffel",
+        "en:t": "Belgium | Antwerp",
+        "a": true,
+        "g": {
+            "lat": 51.0954,
+            "lon": 4.5052
+        },
+        "it": "Duffel",
+        "it:t": "Belgio | Anversa",
+        "es": "Duffel",
+        "es:t": "B\u00e9lgica | Amberes",
+        "de": "Duffel",
+        "de:t": "Belgien | Antwerpen"
+    },
+    {
+        "en": "Edegem",
+        "en:t": "Belgium | Antwerp",
+        "a": true,
+        "g": {
+            "lat": 51.156,
+            "lon": 4.4319
+        },
+        "it": "Edegem",
+        "it:t": "Belgio | Anversa",
+        "es": "Edegem",
+        "es:t": "B\u00e9lgica | Amberes",
+        "de": "Edegem",
+        "de:t": "Belgien | Antwerpen"
+    },
+    {
+        "en": "Eeklo",
+        "en:t": "Belgium | East Flanders",
+        "a": true,
+        "g": {
+            "lat": 51.1853,
+            "lon": 3.5639
+        },
+        "it": "Eeklo",
+        "it:t": "Belgio | Provincia delle Fiandre Orientali",
+        "es": "Eeklo",
+        "es:t": "B\u00e9lgica | Flandes Oriental",
+        "de": "Eeklo",
+        "de:t": "Belgien | Ostflandern"
+    },
+    {
+        "en": "Essen",
+        "en:t": "Belgium | Antwerp",
+        "a": true,
+        "g": {
+            "lat": 51.4678,
+            "lon": 4.4684
+        },
+        "it": "Essen",
+        "it:t": "Belgio | Anversa",
+        "es": "Essen",
+        "es:t": "B\u00e9lgica | Amberes",
+        "de": "Essen",
+        "de:t": "Belgien | Antwerpen"
+    },
+    {
+        "en": "Eupen",
+        "en:t": "Belgium | Liege",
+        "a": true,
+        "g": {
+            "lat": 50.6292,
+            "lon": 6.0337
+        },
+        "it": "Eupen",
+        "it:t": "Belgio | Provincia di Liegi",
+        "es": "Eupen",
+        "es:t": "B\u00e9lgica | Provincia de Lieja",
+        "de": "Eupen",
+        "de:t": "Belgien | Provinz L\u00fcttich"
+    },
+    {
+        "en": "Evergem",
+        "en:t": "Belgium | East Flanders",
+        "a": true,
+        "g": {
+            "lat": 51.11,
+            "lon": 3.7067
+        },
+        "it": "Evergem",
+        "it:t": "Belgio | Provincia delle Fiandre Orientali",
+        "es": "Evergem",
+        "es:t": "B\u00e9lgica | Flandes Oriental",
+        "de": "Evergem",
+        "de:t": "Belgien | Ostflandern"
+    },
+    {
+        "en": "Fleurus",
+        "en:t": "Belgium | Hainaut",
+        "a": true,
+        "g": {
+            "lat": 50.4823,
+            "lon": 4.5512
+        },
+        "it": "Fleurus",
+        "it:t": "Belgio | Provincia dell'Hainaut",
+        "es": "Fleurus",
+        "es:t": "B\u00e9lgica | Provincia de Henao",
+        "de": "Fleurus",
+        "de:t": "Belgien | Hennegau"
+    },
+    {
+        "en": "Fl\u00e9malle-Haute",
+        "en:t": "Belgium | Flemalle",
+        "a": true,
+        "g": {
+            "lat": 50.6002,
+            "lon": 5.446
+        },
+        "it": "Fl\u00e9malle-Haute",
+        "it:t": "Belgio | Flemalle",
+        "es": "Fl\u00e9malle-Haute",
+        "es:t": "B\u00e9lgica | Flemalle",
+        "de": "Fl\u00e9malle-Haute",
+        "de:t": "Belgien | Flemalle"
+    },
+    {
+        "en": "Fl\u00e9ron",
+        "en:t": "Belgium | Liege",
+        "a": true,
+        "g": {
+            "lat": 50.6206,
+            "lon": 5.6862
+        },
+        "it": "Fl\u00e9ron",
+        "it:t": "Belgio | Provincia di Liegi",
+        "es": "Fl\u00e9ron",
+        "es:t": "B\u00e9lgica | Provincia de Lieja",
+        "de": "Fl\u00e9ron",
+        "de:t": "Belgien | Provinz L\u00fcttich"
+    },
+    {
+        "en": "Frameries",
+        "en:t": "Belgium | Hainaut",
+        "a": true,
+        "g": {
+            "lat": 50.4109,
+            "lon": 3.8955
+        },
+        "it": "Frameries",
+        "it:t": "Belgio | Provincia dell'Hainaut",
+        "es": "Frameries",
+        "es:t": "B\u00e9lgica | Provincia de Henao",
+        "de": "Frameries",
+        "de:t": "Belgien | Hennegau"
+    },
+    {
+        "en": "Geel",
+        "en:t": "Belgium | Antwerp",
+        "a": true,
+        "g": {
+            "lat": 51.1626,
+            "lon": 4.9908
+        },
+        "it": "Geel",
+        "it:t": "Belgio | Anversa",
+        "es": "Geel",
+        "es:t": "B\u00e9lgica | Amberes",
+        "de": "Geel",
+        "de:t": "Belgien | Antwerpen"
+    },
+    {
+        "en": "Gembloux",
+        "en:t": "Belgium | Province of Namur",
+        "a": true,
+        "g": {
+            "lat": 50.5652,
+            "lon": 4.6884
+        },
+        "it": "Gembloux",
+        "it:t": "Belgio | Provincia di Namur",
+        "es": "Gembloux",
+        "es:t": "B\u00e9lgica | Provincia de Namur",
+        "de": "Gembloux",
+        "de:t": "Belgien | Provinz Namur"
+    },
+    {
+        "en": "Genk",
+        "en:t": "Belgium | Limburg",
+        "a": true,
+        "g": {
+            "lat": 50.9661,
+            "lon": 5.5021
+        },
+        "it": "Genk",
+        "it:t": "Belgio | Limburgo",
+        "es": "Genk",
+        "es:t": "B\u00e9lgica | Limburgo",
+        "de": "Genk",
+        "de:t": "Belgien | Limburg"
+    },
+    {
+        "en": "Geraardsbergen",
+        "en:t": "Belgium | East Flanders",
+        "a": true,
+        "g": {
+            "lat": 50.7707,
+            "lon": 3.8752
+        },
+        "it": "Geraardsbergen",
+        "it:t": "Belgio | Provincia delle Fiandre Orientali",
+        "es": "Geraardsbergen",
+        "es:t": "B\u00e9lgica | Flandes Oriental",
+        "de": "Gerhardsbergen",
+        "de:t": "Belgien | Ostflandern"
+    },
+    {
+        "en": "Ghent",
+        "en:t": "Belgium | East Flanders",
+        "a": true,
+        "g": {
+            "lat": 51.0543,
+            "lon": 3.7174
+        },
+        "it": "Gand",
+        "it:t": "Belgio | Provincia delle Fiandre Orientali",
+        "es": "Gante",
+        "es:t": "B\u00e9lgica | Flandes Oriental",
+        "de": "Gent",
+        "de:t": "Belgien | Ostflandern"
+    },
+    {
+        "en": "Grimbergen",
+        "en:t": "Belgium | Flemish Brabant",
+        "a": true,
+        "g": {
+            "lat": 50.9336,
+            "lon": 4.3733
+        },
+        "it": "Grimbergen",
+        "it:t": "Belgio | Provincia del Brabante Fiammingo",
+        "es": "Grimbergen",
+        "es:t": "B\u00e9lgica | Brabante Flamenco",
+        "de": "Grimbergen",
+        "de:t": "Belgien | Fl\u00e4misch-Brabant"
+    },
+    {
+        "en": "Haaltert",
+        "en:t": "Belgium | East Flanders",
+        "a": true,
+        "g": {
+            "lat": 50.9024,
+            "lon": 4.0057
+        },
+        "it": "Haaltert",
+        "it:t": "Belgio | Provincia delle Fiandre Orientali",
+        "es": "Haaltert",
+        "es:t": "B\u00e9lgica | Flandes Oriental",
+        "de": "Haaltert",
+        "de:t": "Belgien | Ostflandern"
+    },
+    {
+        "en": "Halle",
+        "en:t": "Belgium | Flemish Brabant",
+        "a": true,
+        "g": {
+            "lat": 50.7376,
+            "lon": 4.2325
+        },
+        "it": "Halle",
+        "it:t": "Belgio | Provincia del Brabante Fiammingo",
+        "es": "Halle",
+        "es:t": "B\u00e9lgica | Brabante Flamenco",
+        "de": "Halle",
+        "de:t": "Belgien | Fl\u00e4misch-Brabant"
+    },
+    {
+        "en": "Hamme",
+        "en:t": "Belgium | East Flanders",
+        "a": true,
+        "g": {
+            "lat": 51.0902,
+            "lon": 4.1403
+        },
+        "it": "Hamme",
+        "it:t": "Belgio | Provincia delle Fiandre Orientali",
+        "es": "Hamme",
+        "es:t": "B\u00e9lgica | Flandes Oriental",
+        "de": "Hamme",
+        "de:t": "Belgien | Ostflandern"
+    },
+    {
+        "en": "Harelbeke",
+        "en:t": "Belgium | West Flanders",
+        "a": true,
+        "g": {
+            "lat": 50.8567,
+            "lon": 3.3107
+        },
+        "it": "Harelbeke",
+        "it:t": "Belgio | Provincia delle Fiandre Occidentali",
+        "es": "Harelbeke",
+        "es:t": "B\u00e9lgica | Provincia de Flandes Occidental",
+        "de": "Harelbeke",
+        "de:t": "Belgien | Westflandern"
+    },
+    {
+        "en": "Hasselt",
+        "en:t": "Belgium | Limburg",
+        "a": true,
+        "g": {
+            "lat": 50.9307,
+            "lon": 5.3325
+        },
+        "it": "Hasselt",
+        "it:t": "Belgio | Limburgo",
+        "es": "Hasselt",
+        "es:t": "B\u00e9lgica | Limburgo",
+        "de": "Hasselt",
+        "de:t": "Belgien | Limburg"
+    },
+    {
+        "en": "Heist-op-den-Berg",
+        "en:t": "Belgium | Antwerp",
+        "a": true,
+        "g": {
+            "lat": 51.0744,
+            "lon": 4.7295
+        },
+        "it": "Heist-op-den-Berg",
+        "it:t": "Belgio | Anversa",
+        "es": "Heist-op-den-Berg",
+        "es:t": "B\u00e9lgica | Amberes",
+        "de": "Heist-op-den-Berg",
+        "de:t": "Belgien | Antwerpen"
+    },
+    {
+        "en": "Helchteren",
+        "en:t": "Belgium | Houthalen-Helchteren",
+        "a": true,
+        "g": {
+            "lat": 51.0566,
+            "lon": 5.3827
+        },
+        "it": "Helchteren",
+        "it:t": "Belgio | Houthalen-Helchteren",
+        "es": "Houthalen-Helchteren",
+        "es:t": "B\u00e9lgica | Limburgo",
+        "de": "Helchteren",
+        "de:t": "Belgien | Houthalen-Helchteren"
+    },
+    {
+        "en": "Herent",
+        "en:t": "Belgium | Flemish Brabant",
+        "a": true,
+        "g": {
+            "lat": 50.9092,
+            "lon": 4.6769
+        },
+        "it": "Herent",
+        "it:t": "Belgio | Provincia del Brabante Fiammingo",
+        "es": "Herent",
+        "es:t": "B\u00e9lgica | Brabante Flamenco",
+        "de": "Herent",
+        "de:t": "Belgien | Fl\u00e4misch-Brabant"
+    },
+    {
+        "en": "Herentals",
+        "en:t": "Belgium | Antwerp",
+        "a": true,
+        "g": {
+            "lat": 51.1769,
+            "lon": 4.8356
+        },
+        "it": "Herentals",
+        "it:t": "Belgio | Anversa",
+        "es": "Herentals",
+        "es:t": "B\u00e9lgica | Amberes",
+        "de": "Herentals",
+        "de:t": "Belgien | Antwerpen"
+    },
+    {
+        "en": "Herstal",
+        "en:t": "Belgium | Liege",
+        "a": true,
+        "g": {
+            "lat": 50.6662,
+            "lon": 5.6329
+        },
+        "it": "Herstal",
+        "it:t": "Belgio | Provincia di Liegi",
+        "es": "Herstal",
+        "es:t": "B\u00e9lgica | Provincia de Lieja",
+        "de": "Herstal",
+        "de:t": "Belgien | Provinz L\u00fcttich"
+    },
+    {
+        "en": "Herve",
+        "en:t": "Belgium | Liege",
+        "a": true,
+        "g": {
+            "lat": 50.6407,
+            "lon": 5.7947
+        },
+        "it": "Herve",
+        "it:t": "Belgio | Provincia di Liegi",
+        "es": "Herve",
+        "es:t": "B\u00e9lgica | Provincia de Lieja",
+        "de": "Herve",
+        "de:t": "Belgien | Provinz L\u00fcttich"
+    },
+    {
+        "en": "Herzele",
+        "en:t": "Belgium | East Flanders",
+        "a": true,
+        "g": {
+            "lat": 50.8844,
+            "lon": 3.8928
+        },
+        "it": "Herzele",
+        "it:t": "Belgio | Provincia delle Fiandre Orientali",
+        "es": "Herzele",
+        "es:t": "B\u00e9lgica | Flandes Oriental",
+        "de": "Herzele",
+        "de:t": "Belgien | Ostflandern"
+    },
+    {
+        "en": "Heusden",
+        "en:t": "Belgium | Destelbergen",
+        "a": true,
+        "g": {
+            "lat": 51.0328,
+            "lon": 3.8037
+        },
+        "it": "Heusden",
+        "it:t": "Belgio | Destelbergen",
+        "es": "Heusden",
+        "es:t": "B\u00e9lgica | Destelbergen",
+        "de": "Destelbergen#Heusden",
+        "de:t": "Belgien | Destelbergen"
+    },
+    {
+        "en": "Hoogstraten",
+        "en:t": "Belgium | Antwerp",
+        "a": true,
+        "g": {
+            "lat": 51.4022,
+            "lon": 4.7619
+        },
+        "it": "Hoogstraten",
+        "it:t": "Belgio | Anversa",
+        "es": "Hoogstraten",
+        "es:t": "B\u00e9lgica | Amberes",
+        "de": "Hoogstraten",
+        "de:t": "Belgien | Antwerpen"
+    },
+    {
+        "en": "Houthalen-Helchteren",
+        "en:t": "Belgium | Limburg",
+        "a": true,
+        "g": {
+            "lat": 51.0312,
+            "lon": 5.3765
+        },
+        "it": "Houthalen-Helchteren",
+        "it:t": "Belgio | Limburgo",
+        "es": "Houthalen-Helchteren",
+        "es:t": "B\u00e9lgica | Limburgo",
+        "de": "Houthalen-Helchteren",
+        "de:t": "Belgien | Limburg"
+    },
+    {
+        "en": "Huy",
+        "en:t": "Belgium | Liege",
+        "a": true,
+        "g": {
+            "lat": 50.5187,
+            "lon": 5.2397
+        },
+        "it": "Huy",
+        "it:t": "Belgio | Provincia di Liegi",
+        "es": "Huy",
+        "es:t": "B\u00e9lgica | Provincia de Lieja",
+        "de": "Huy",
+        "de:t": "Belgien | Provinz L\u00fcttich"
+    },
+    {
+        "en": "Izegem",
+        "en:t": "Belgium | West Flanders",
+        "a": true,
+        "g": {
+            "lat": 50.9181,
+            "lon": 3.2132
+        },
+        "it": "Izegem",
+        "it:t": "Belgio | Provincia delle Fiandre Occidentali",
+        "es": "Izegem",
+        "es:t": "B\u00e9lgica | Provincia de Flandes Occidental",
+        "de": "Izegem",
+        "de:t": "Belgien | Westflandern"
+    },
+    {
+        "en": "Kalmthout",
+        "en:t": "Belgium | Antwerp",
+        "a": true,
+        "g": {
+            "lat": 51.383,
+            "lon": 4.4752
+        },
+        "it": "Kalmthout",
+        "it:t": "Belgio | Anversa",
+        "es": "Kalmthout",
+        "es:t": "B\u00e9lgica | Amberes",
+        "de": "Kalmthout",
+        "de:t": "Belgien | Antwerpen"
+    },
+    {
+        "en": "Kapellen",
+        "en:t": "Belgium | Antwerp",
+        "a": true,
+        "g": {
+            "lat": 51.314,
+            "lon": 4.4324
+        },
+        "it": "Kapellen",
+        "it:t": "Belgio | Anversa",
+        "es": "Kapellen",
+        "es:t": "B\u00e9lgica | Amberes",
+        "de": "Kapelle",
+        "de:t": "Belgien | Antwerpen"
+    },
+    {
+        "en": "Kasterlee",
+        "en:t": "Belgium | Antwerp",
+        "a": true,
+        "g": {
+            "lat": 51.2405,
+            "lon": 4.9674
+        },
+        "it": "Kasterlee",
+        "it:t": "Belgio | Anversa",
+        "es": "Kasterlee",
+        "es:t": "B\u00e9lgica | Amberes",
+        "de": "Kasterlee",
+        "de:t": "Belgien | Antwerpen"
+    },
+    {
+        "en": "Knokke-Heist",
+        "en:t": "Belgium | West Flanders",
+        "a": true,
+        "g": {
+            "lat": 51.3464,
+            "lon": 3.2859
+        },
+        "it": "Knokke-Heist",
+        "it:t": "Belgio | Provincia delle Fiandre Occidentali",
+        "es": "Knokke",
+        "es:t": "B\u00e9lgica | Knokke-Heist",
+        "de": "Knokke-Heist",
+        "de:t": "Belgien | Westflandern"
+    },
+    {
+        "en": "Koksijde",
+        "en:t": "Belgium | West Flanders",
+        "a": true,
+        "g": {
+            "lat": 51.1055,
+            "lon": 2.6501
+        },
+        "it": "Koksijde",
+        "it:t": "Belgio | Provincia delle Fiandre Occidentali",
+        "es": "Koksijde",
+        "es:t": "B\u00e9lgica | Provincia de Flandes Occidental",
+        "de": "Koksijde",
+        "de:t": "Belgien | Westflandern"
+    },
+    {
+        "en": "Kontich",
+        "en:t": "Belgium | Antwerp",
+        "a": true,
+        "g": {
+            "lat": 51.1352,
+            "lon": 4.445
+        },
+        "it": "Kontich",
+        "it:t": "Belgio | Anversa",
+        "es": "Kontich",
+        "es:t": "B\u00e9lgica | Amberes",
+        "de": "Kontich",
+        "de:t": "Belgien | Antwerpen"
+    },
+    {
+        "en": "Kortenberg",
+        "en:t": "Belgium | Flemish Brabant",
+        "a": true,
+        "g": {
+            "lat": 50.8884,
+            "lon": 4.544
+        },
+        "it": "Kortenberg",
+        "it:t": "Belgio | Provincia del Brabante Fiammingo",
+        "es": "Kortenberg",
+        "es:t": "B\u00e9lgica | Brabante Flamenco",
+        "de": "Kortenberg",
+        "de:t": "Belgien | Fl\u00e4misch-Brabant"
+    },
+    {
+        "en": "Kortrijk",
+        "en:t": "Belgium | West Flanders",
+        "a": true,
+        "g": {
+            "lat": 50.8195,
+            "lon": 3.2577
+        },
+        "it": "Courtrai",
+        "it:t": "Belgio | Provincia delle Fiandre Occidentali",
+        "es": "Cortrique",
+        "es:t": "B\u00e9lgica | Provincia de Flandes Occidental",
+        "de": "Kortrijk",
+        "de:t": "Belgien | Westflandern"
+    },
+    {
+        "en": "La Louvi\u00e8re",
+        "en:t": "Belgium | Hainaut",
+        "a": true,
+        "g": {
+            "lat": 50.4748,
+            "lon": 4.1837
+        },
+        "it": "La Louvi\u00e8re",
+        "it:t": "Belgio | Provincia dell'Hainaut",
+        "es": "La Louvi\u00e8re",
+        "es:t": "B\u00e9lgica | Provincia de Henao",
+        "de": "La Louvi\u00e8re",
+        "de:t": "Belgien | Hennegau"
+    },
+    {
+        "en": "Lanaken",
+        "en:t": "Belgium | Limburg",
+        "a": true,
+        "g": {
+            "lat": 50.892,
+            "lon": 5.6572
+        },
+        "it": "Lanaken",
+        "it:t": "Belgio | Limburgo",
+        "es": "Lanaken",
+        "es:t": "B\u00e9lgica | Limburgo",
+        "de": "Lanaken",
+        "de:t": "Belgien | Limburg"
+    },
+    {
+        "en": "Lebbeke",
+        "en:t": "Belgium | East Flanders",
+        "a": true,
+        "g": {
+            "lat": 51.0006,
+            "lon": 4.1292
+        },
+        "it": "Lebbeke",
+        "it:t": "Belgio | Provincia delle Fiandre Orientali",
+        "es": "Lebbeke",
+        "es:t": "B\u00e9lgica | Flandes Oriental",
+        "de": "Lebbeke",
+        "de:t": "Belgien | Ostflandern"
+    },
+    {
+        "en": "Lede",
+        "en:t": "Belgium | East Flanders",
+        "a": true,
+        "g": {
+            "lat": 50.9659,
+            "lon": 3.9774
+        },
+        "it": "Lede",
+        "it:t": "Belgio | Provincia delle Fiandre Orientali",
+        "es": "Lede",
+        "es:t": "B\u00e9lgica | Flandes Oriental",
+        "de": "Lede",
+        "de:t": "Belgien | Ostflandern"
+    },
+    {
+        "en": "Lessines",
+        "en:t": "Belgium | Hainaut",
+        "a": true,
+        "g": {
+            "lat": 50.7124,
+            "lon": 3.8289
+        },
+        "it": "Lessines",
+        "it:t": "Belgio | Provincia dell'Hainaut",
+        "es": "Lessines",
+        "es:t": "B\u00e9lgica | Provincia de Henao",
+        "de": "Lessines",
+        "de:t": "Belgien | Hennegau"
+    },
+    {
+        "en": "Leuven",
+        "en:t": "Belgium | Flemish Brabant",
+        "a": true,
+        "g": {
+            "lat": 50.8798,
+            "lon": 4.7005
+        },
+        "it": "Lovanio",
+        "it:t": "Belgio | Provincia del Brabante Fiammingo",
+        "es": "Lovaina",
+        "es:t": "B\u00e9lgica | Brabante Flamenco",
+        "de": "L\u00f6wen",
+        "de:t": "Belgien | Fl\u00e4misch-Brabant"
+    },
+    {
+        "en": "Lier",
+        "en:t": "Belgium | Antwerp",
+        "a": true,
+        "g": {
+            "lat": 51.1302,
+            "lon": 4.5715
+        },
+        "it": "Lier",
+        "it:t": "Belgio | Anversa",
+        "es": "Lier",
+        "es:t": "B\u00e9lgica | Amberes",
+        "de": "Lier",
+        "de:t": "Belgien | Antwerpen"
+    },
+    {
+        "en": "Lille",
+        "en:t": "Belgium | Antwerp",
+        "a": true,
+        "g": {
+            "lat": 51.242,
+            "lon": 4.8232
+        },
+        "it": "Lille",
+        "it:t": "Belgio | Anversa",
+        "es": "Lille",
+        "es:t": "B\u00e9lgica | Amberes",
+        "de": "Lille",
+        "de:t": "Belgien | Antwerpen"
+    },
+    {
+        "en": "Li\u00e8ge",
+        "en:t": "Belgium | Liege",
+        "a": true,
+        "g": {
+            "lat": 50.6326,
+            "lon": 5.5797
+        },
+        "it": "Liegi",
+        "it:t": "Belgio | Provincia di Liegi",
+        "es": "Lieja",
+        "es:t": "B\u00e9lgica | Provincia de Lieja",
+        "de": "L\u00fcttich",
+        "de:t": "Belgien | Provinz L\u00fcttich"
+    },
+    {
+        "en": "Lochristi",
+        "en:t": "Belgium | East Flanders",
+        "a": true,
+        "g": {
+            "lat": 51.0975,
+            "lon": 3.8378
+        },
+        "it": "Lochristi",
+        "it:t": "Belgio | Provincia delle Fiandre Orientali",
+        "es": "Lochristi",
+        "es:t": "B\u00e9lgica | Flandes Oriental",
+        "de": "Lochristi",
+        "de:t": "Belgien | Ostflandern"
+    },
+    {
+        "en": "Lokeren",
+        "en:t": "Belgium | East Flanders",
+        "a": true,
+        "g": {
+            "lat": 51.1023,
+            "lon": 3.9941
+        },
+        "it": "Lokeren",
+        "it:t": "Belgio | Provincia delle Fiandre Orientali",
+        "es": "Lokeren",
+        "es:t": "B\u00e9lgica | Flandes Oriental",
+        "de": "Lokeren",
+        "de:t": "Belgien | Ostflandern"
+    },
+    {
+        "en": "Lommel",
+        "en:t": "Belgium | Limburg",
+        "a": true,
+        "g": {
+            "lat": 51.2304,
+            "lon": 5.311
+        },
+        "it": "Lommel",
+        "it:t": "Belgio | Limburgo",
+        "es": "Lommel",
+        "es:t": "B\u00e9lgica | Limburgo",
+        "de": "Lommel",
+        "de:t": "Belgien | Limburg"
+    },
+    {
+        "en": "Londerzeel",
+        "en:t": "Belgium | Flemish Brabant",
+        "a": true,
+        "g": {
+            "lat": 51.0031,
+            "lon": 4.3026
+        },
+        "it": "Londerzeel",
+        "it:t": "Belgio | Provincia del Brabante Fiammingo",
+        "es": "Londerzeel",
+        "es:t": "B\u00e9lgica | Brabante Flamenco",
+        "de": "Londerzeel",
+        "de:t": "Belgien | Fl\u00e4misch-Brabant"
+    },
+    {
+        "en": "Louvain-la-Neuve",
+        "en:t": "Belgium | Ottignies-Louvain-la-Neuve",
+        "a": true,
+        "g": {
+            "lat": 50.6681,
+            "lon": 4.6118
+        },
+        "it": "Louvain-la-Neuve",
+        "it:t": "Belgio | Ottignies-Louvain-la-Neuve",
+        "es": "Louvain-la-Neuve",
+        "es:t": "B\u00e9lgica | Ottignies-Louvain-la-Neuve",
+        "de": "Louvain-la-Neuve",
+        "de:t": "Belgien | Ottignies-Louvain-la-Neuve"
+    },
+    {
+        "en": "Maaseik",
+        "en:t": "Belgium | Limburg",
+        "a": true,
+        "g": {
+            "lat": 51.0984,
+            "lon": 5.7838
+        },
+        "it": "Maaseik",
+        "it:t": "Belgio | Limburgo",
+        "es": "Maaseik",
+        "es:t": "B\u00e9lgica | Limburgo",
+        "de": "Maaseik",
+        "de:t": "Belgien | Limburg"
+    },
+    {
+        "en": "Maasmechelen",
+        "en:t": "Belgium | Limburg",
+        "a": true,
+        "g": {
+            "lat": 50.9798,
+            "lon": 5.7018
+        },
+        "it": "Maasmechelen",
+        "it:t": "Belgio | Limburgo",
+        "es": "Maasmechelen",
+        "es:t": "B\u00e9lgica | Limburgo",
+        "de": "Maasmechelen",
+        "de:t": "Belgien | Limburg"
+    },
+    {
+        "en": "Maldegem",
+        "en:t": "Belgium | East Flanders",
+        "a": true,
+        "g": {
+            "lat": 51.2091,
+            "lon": 3.4487
+        },
+        "it": "Maldegem",
+        "it:t": "Belgio | Provincia delle Fiandre Orientali",
+        "es": "Maldegem",
+        "es:t": "B\u00e9lgica | Flandes Oriental",
+        "de": "Maldegem",
+        "de:t": "Belgien | Ostflandern"
+    },
+    {
+        "en": "Marche-en-Famenne",
+        "en:t": "Belgium | Luxembourg",
+        "a": true,
+        "g": {
+            "lat": 50.2283,
+            "lon": 5.3442
+        },
+        "it": "Marche-en-Famenne",
+        "it:t": "Belgio | Lussemburgo",
+        "es": "Marche-en-Famenne",
+        "es:t": "B\u00e9lgica | Luxemburgo",
+        "de": "Marche-en-Famenne",
+        "de:t": "Belgien | Luxemburg"
+    },
+    {
+        "en": "Mechelen",
+        "en:t": "Belgium | Antwerp",
+        "a": true,
+        "g": {
+            "lat": 51.0259,
+            "lon": 4.4775
+        },
+        "it": "Mechelen",
+        "it:t": "Belgio | Anversa",
+        "es": "Malinas",
+        "es:t": "B\u00e9lgica | Amberes",
+        "de": "Mecheln",
+        "de:t": "Belgien | Antwerpen"
+    },
+    {
+        "en": "Meise",
+        "en:t": "Belgium | Flemish Brabant",
+        "a": true,
+        "g": {
+            "lat": 50.9359,
+            "lon": 4.3295
+        },
+        "it": "Meise",
+        "it:t": "Belgio | Provincia del Brabante Fiammingo",
+        "es": "Meise",
+        "es:t": "B\u00e9lgica | Brabante Flamenco",
+        "de": "Meise",
+        "de:t": "Belgien | Fl\u00e4misch-Brabant"
+    },
+    {
+        "en": "Menen",
+        "en:t": "Belgium | West Flanders",
+        "a": true,
+        "g": {
+            "lat": 50.7963,
+            "lon": 3.1213
+        },
+        "it": "Menen",
+        "it:t": "Belgio | Provincia delle Fiandre Occidentali",
+        "es": "Menen",
+        "es:t": "B\u00e9lgica | Provincia de Flandes Occidental",
+        "de": "Menen",
+        "de:t": "Belgien | Westflandern"
+    },
+    {
+        "en": "Merelbeke",
+        "en:t": "Belgium | East Flanders",
+        "a": true,
+        "g": {
+            "lat": 50.9945,
+            "lon": 3.7456
+        },
+        "it": "Merelbeke",
+        "it:t": "Belgio | Provincia delle Fiandre Orientali",
+        "es": "Merelbeke",
+        "es:t": "B\u00e9lgica | Flandes Oriental",
+        "de": "Merelbeke",
+        "de:t": "Belgien | Ostflandern"
+    },
+    {
+        "en": "Middelkerke",
+        "en:t": "Belgium | West Flanders",
+        "a": true,
+        "g": {
+            "lat": 51.1851,
+            "lon": 2.8208
+        },
+        "it": "Middelkerke",
+        "it:t": "Belgio | Provincia delle Fiandre Occidentali",
+        "es": "Middelkerke",
+        "es:t": "B\u00e9lgica | Provincia de Flandes Occidental",
+        "de": "Middelkerke",
+        "de:t": "Belgien | Westflandern"
+    },
+    {
+        "en": "Mol",
+        "en:t": "Belgium | Antwerp",
+        "a": true,
+        "g": {
+            "lat": 51.1911,
+            "lon": 5.1171
+        },
+        "it": "Mol",
+        "it:t": "Belgio | Anversa",
+        "es": "Mol",
+        "es:t": "B\u00e9lgica | Amberes",
+        "de": "Mol",
+        "de:t": "Belgien | Antwerpen"
+    },
+    {
+        "en": "Mons",
+        "en:t": "Belgium | Hainaut",
+        "a": true,
+        "g": {
+            "lat": 50.4542,
+            "lon": 3.9567
+        },
+        "it": "Mons",
+        "it:t": "Belgio | Provincia dell'Hainaut",
+        "es": "Mons",
+        "es:t": "B\u00e9lgica | Provincia de Henao",
+        "de": "Mons",
+        "de:t": "Belgien | Hennegau"
+    },
+    {
+        "en": "Morlanwelz",
+        "en:t": "Belgium | Hainaut",
+        "a": true,
+        "g": {
+            "lat": 50.4489,
+            "lon": 4.2403
+        },
+        "it": "Morlanwelz",
+        "it:t": "Belgio | Provincia dell'Hainaut",
+        "es": "Morlanwelz",
+        "es:t": "B\u00e9lgica | Provincia de Henao",
+        "de": "Morlanwelz",
+        "de:t": "Belgien | Hennegau"
+    },
+    {
+        "en": "Mortsel",
+        "en:t": "Belgium | Antwerp",
+        "a": true,
+        "g": {
+            "lat": 51.1691,
+            "lon": 4.4662
+        },
+        "it": "Mortsel",
+        "it:t": "Belgio | Anversa",
+        "es": "Mortsel",
+        "es:t": "B\u00e9lgica | Amberes",
+        "de": "Mortsel",
+        "de:t": "Belgien | Antwerpen"
+    },
+    {
+        "en": "Mouscron",
+        "en:t": "Belgium | Hainaut",
+        "a": true,
+        "g": {
+            "lat": 50.7459,
+            "lon": 3.2193
+        },
+        "it": "Mouscron",
+        "it:t": "Belgio | Provincia dell'Hainaut",
+        "es": "Mouscron",
+        "es:t": "B\u00e9lgica | Provincia de Henao",
+        "de": "Mouscron",
+        "de:t": "Belgien | Hennegau"
+    },
+    {
+        "en": "Namur",
+        "en:t": "Belgium | Province of Namur",
+        "a": true,
+        "g": {
+            "lat": 50.4674,
+            "lon": 4.872
+        },
+        "it": "Namur",
+        "it:t": "Belgio | Provincia di Namur",
+        "es": "Namur",
+        "es:t": "B\u00e9lgica | Provincia de Namur",
+        "de": "Namur",
+        "de:t": "Belgien | Provinz Namur"
+    },
+    {
+        "en": "Neerpelt",
+        "en:t": "Belgium | Pelt",
+        "a": true,
+        "g": {
+            "lat": 51.2272,
+            "lon": 5.4317
+        },
+        "it": "Neerpelt",
+        "it:t": "Belgio | Pelt",
+        "es": "Neerpelt",
+        "es:t": "B\u00e9lgica | Pelt",
+        "de": "Neerpelt",
+        "de:t": "Belgien | Pelt"
+    },
+    {
+        "en": "Nijlen",
+        "en:t": "Belgium | Antwerp",
+        "a": true,
+        "g": {
+            "lat": 51.1614,
+            "lon": 4.6705
+        },
+        "it": "Nijlen",
+        "it:t": "Belgio | Anversa",
+        "es": "Nijlen",
+        "es:t": "B\u00e9lgica | Amberes",
+        "de": "Nijlen",
+        "de:t": "Belgien | Antwerpen"
+    },
+    {
+        "en": "Ninove",
+        "en:t": "Belgium | East Flanders",
+        "a": true,
+        "g": {
+            "lat": 50.8336,
+            "lon": 4.0188
+        },
+        "it": "Ninove",
+        "it:t": "Belgio | Provincia delle Fiandre Orientali",
+        "es": "Ninove",
+        "es:t": "B\u00e9lgica | Flandes Oriental",
+        "de": "Ninove",
+        "de:t": "Belgien | Ostflandern"
+    },
+    {
+        "en": "Nivelles",
+        "en:t": "Belgium | Walloon Brabant",
+        "a": true,
+        "g": {
+            "lat": 50.5979,
+            "lon": 4.3285
+        },
+        "it": "Nivelles",
+        "it:t": "Belgio | Brabante Vallone",
+        "es": "Nivelles",
+        "es:t": "B\u00e9lgica | Brabante Val\u00f3n",
+        "de": "Nivelles",
+        "de:t": "Belgien | Wallonisch-Brabant"
+    },
+    {
+        "en": "Oostkamp",
+        "en:t": "Belgium | West Flanders",
+        "a": true,
+        "g": {
+            "lat": 51.1545,
+            "lon": 3.2332
+        },
+        "it": "Oostkamp",
+        "it:t": "Belgio | Provincia delle Fiandre Occidentali",
+        "es": "Oostkamp",
+        "es:t": "B\u00e9lgica | Provincia de Flandes Occidental",
+        "de": "Oostkamp",
+        "de:t": "Belgien | Westflandern"
+    },
+    {
+        "en": "Ostend",
+        "en:t": "Belgium | West Flanders",
+        "a": true,
+        "g": {
+            "lat": 51.2154,
+            "lon": 2.9287
+        },
+        "it": "Ostenda",
+        "it:t": "Belgio | Provincia delle Fiandre Occidentali",
+        "es": "Ostende",
+        "es:t": "B\u00e9lgica | Provincia de Flandes Occidental",
+        "de": "Ostende",
+        "de:t": "Belgien | Westflandern"
+    },
+    {
+        "en": "Oudenaarde",
+        "en:t": "Belgium | East Flanders",
+        "a": true,
+        "g": {
+            "lat": 50.847,
+            "lon": 3.6014
+        },
+        "it": "Oudenaarde",
+        "it:t": "Belgio | Provincia delle Fiandre Orientali",
+        "es": "Oudenaarde",
+        "es:t": "B\u00e9lgica | Flandes Oriental",
+        "de": "Oudenaarde",
+        "de:t": "Belgien | Ostflandern"
+    },
+    {
+        "en": "Oupeye",
+        "en:t": "Belgium | Liege",
+        "a": true,
+        "g": {
+            "lat": 50.7085,
+            "lon": 5.6468
+        },
+        "it": "Oupeye",
+        "it:t": "Belgio | Provincia di Liegi",
+        "es": "Oupeye",
+        "es:t": "B\u00e9lgica | Provincia de Lieja",
+        "de": "Oupeye",
+        "de:t": "Belgien | Provinz L\u00fcttich"
+    },
+    {
+        "en": "Overijse",
+        "en:t": "Belgium | Flemish Brabant",
+        "a": true,
+        "g": {
+            "lat": 50.7738,
+            "lon": 4.5347
+        },
+        "it": "Overijse",
+        "it:t": "Belgio | Provincia del Brabante Fiammingo",
+        "es": "Overijse",
+        "es:t": "B\u00e9lgica | Brabante Flamenco",
+        "de": "Overijse",
+        "de:t": "Belgien | Fl\u00e4misch-Brabant"
+    },
+    {
+        "en": "Peer",
+        "en:t": "Belgium | Limburg",
+        "a": true,
+        "g": {
+            "lat": 51.1329,
+            "lon": 5.4536
+        },
+        "it": "Peer",
+        "it:t": "Belgio | Limburgo",
+        "es": "Peer",
+        "es:t": "B\u00e9lgica | Limburgo",
+        "de": "Peer",
+        "de:t": "Belgien | Limburg"
+    },
+    {
+        "en": "Peruwelz",
+        "en:t": "Belgium | Hainaut",
+        "a": true,
+        "g": {
+            "lat": 50.5106,
+            "lon": 3.5937
+        },
+        "it": "P\u00e9ruwelz",
+        "it:t": "Belgio | Provincia dell'Hainaut",
+        "es": "P\u00e9ruwelz",
+        "es:t": "B\u00e9lgica | Provincia de Henao",
+        "de": "P\u00e9ruwelz",
+        "de:t": "Belgien | Hennegau"
+    },
+    {
+        "en": "Pont-a-Celles",
+        "en:t": "Belgium | Hainaut",
+        "a": true,
+        "g": {
+            "lat": 50.5135,
+            "lon": 4.358
+        },
+        "it": "Pont-\u00e0-Celles",
+        "it:t": "Belgio | Provincia dell'Hainaut",
+        "es": "Pont-\u00e0-Celles",
+        "es:t": "B\u00e9lgica | Provincia de Henao",
+        "de": "Pont-\u00e0-Celles",
+        "de:t": "Belgien | Hennegau"
+    },
+    {
+        "en": "Poperinge",
+        "en:t": "Belgium | West Flanders",
+        "a": true,
+        "g": {
+            "lat": 50.855,
+            "lon": 2.7268
+        },
+        "it": "Poperinge",
+        "it:t": "Belgio | Provincia delle Fiandre Occidentali",
+        "es": "Poperinge",
+        "es:t": "B\u00e9lgica | Provincia de Flandes Occidental",
+        "de": "Poperinge",
+        "de:t": "Belgien | Westflandern"
+    },
+    {
+        "en": "Putte",
+        "en:t": "Belgium | Antwerp",
+        "a": true,
+        "g": {
+            "lat": 51.0548,
+            "lon": 4.6287
+        },
+        "it": "Putte",
+        "it:t": "Belgio | Anversa",
+        "es": "Putte",
+        "es:t": "B\u00e9lgica | Amberes",
+        "de": "Putte",
+        "de:t": "Belgien | Antwerpen"
+    },
+    {
+        "en": "Puurs",
+        "en:t": "Belgium | Antwerp",
+        "a": true,
+        "g": {
+            "lat": 51.075,
+            "lon": 4.2893
+        },
+        "it": "Puurs",
+        "it:t": "Belgio | Anversa",
+        "es": "Puurs",
+        "es:t": "B\u00e9lgica | Amberes",
+        "de": "Puurs",
+        "de:t": "Belgien | Antwerpen"
+    },
+    {
+        "en": "Quaregnon",
+        "en:t": "Belgium | Hainaut",
+        "a": true,
+        "g": {
+            "lat": 50.4444,
+            "lon": 3.8646
+        },
+        "it": "Quaregnon",
+        "it:t": "Belgio | Provincia dell'Hainaut",
+        "es": "Quaregnon",
+        "es:t": "B\u00e9lgica | Provincia de Henao",
+        "de": "Quaregnon",
+        "de:t": "Belgien | Hennegau"
+    },
+    {
+        "en": "Ranst",
+        "en:t": "Belgium | Antwerp",
+        "a": true,
+        "g": {
+            "lat": 51.189,
+            "lon": 4.5609
+        },
+        "it": "Ranst",
+        "it:t": "Belgio | Anversa",
+        "es": "Ranst",
+        "es:t": "B\u00e9lgica | Amberes",
+        "de": "Ranst",
+        "de:t": "Belgien | Antwerpen"
+    },
+    {
+        "en": "Riemst",
+        "en:t": "Belgium | Limburg",
+        "a": true,
+        "g": {
+            "lat": 50.809,
+            "lon": 5.6012
+        },
+        "it": "Riemst",
+        "it:t": "Belgio | Limburgo",
+        "es": "Riemst",
+        "es:t": "B\u00e9lgica | Limburgo",
+        "de": "Riemst",
+        "de:t": "Belgien | Limburg"
+    },
+    {
+        "en": "Rixensart",
+        "en:t": "Belgium | Walloon Brabant",
+        "a": true,
+        "g": {
+            "lat": 50.7156,
+            "lon": 4.531
+        },
+        "it": "Rixensart",
+        "it:t": "Belgio | Brabante Vallone",
+        "es": "Rixensart",
+        "es:t": "B\u00e9lgica | Brabante Val\u00f3n",
+        "de": "Rixensart",
+        "de:t": "Belgien | Wallonisch-Brabant"
+    },
+    {
+        "en": "Roeselare",
+        "en:t": "Belgium | West Flanders",
+        "a": true,
+        "g": {
+            "lat": 50.9499,
+            "lon": 3.1294
+        },
+        "it": "Roeselare",
+        "it:t": "Belgio | Provincia delle Fiandre Occidentali",
+        "es": "Roeselare",
+        "es:t": "B\u00e9lgica | Provincia de Flandes Occidental",
+        "de": "Roeselare",
+        "de:t": "Belgien | Westflandern"
+    },
+    {
+        "en": "Ronse",
+        "en:t": "Belgium | East Flanders",
+        "a": true,
+        "g": {
+            "lat": 50.7505,
+            "lon": 3.6005
+        },
+        "it": "Ronse",
+        "it:t": "Belgio | Provincia delle Fiandre Orientali",
+        "es": "Ronse",
+        "es:t": "B\u00e9lgica | Flandes Oriental",
+        "de": "Ronse",
+        "de:t": "Belgien | Ostflandern"
+    },
+    {
+        "en": "Rotselaar",
+        "en:t": "Belgium | Flemish Brabant",
+        "a": true,
+        "g": {
+            "lat": 50.9537,
+            "lon": 4.7184
+        },
+        "it": "Rotselaar",
+        "it:t": "Belgio | Provincia del Brabante Fiammingo",
+        "es": "Rotselaar",
+        "es:t": "B\u00e9lgica | Brabante Flamenco",
+        "de": "Rotselaar",
+        "de:t": "Belgien | Fl\u00e4misch-Brabant"
+    },
+    {
+        "en": "Saint-Ghislain",
+        "en:t": "Belgium | Hainaut",
+        "a": true,
+        "g": {
+            "lat": 50.4491,
+            "lon": 3.8184
+        },
+        "it": "Saint-Ghislain",
+        "it:t": "Belgio | Provincia dell'Hainaut",
+        "es": "Saint-Ghislain",
+        "es:t": "B\u00e9lgica | Provincia de Henao",
+        "de": "Saint-Ghislain",
+        "de:t": "Belgien | Hennegau"
+    },
+    {
+        "en": "Saint-Nicolas",
+        "en:t": "Belgium | Liege",
+        "a": true,
+        "g": {
+            "lat": 50.6292,
+            "lon": 5.5322
+        },
+        "it": "Saint-Nicolas",
+        "it:t": "Belgio | Provincia di Liegi",
+        "es": "Saint-Nicolas",
+        "es:t": "B\u00e9lgica | Provincia de Lieja",
+        "de": "Sint-Niklaas",
+        "de:t": "Belgien | Provinz L\u00fcttich"
+    },
+    {
+        "en": "Schilde",
+        "en:t": "Belgium | Antwerp",
+        "a": true,
+        "g": {
+            "lat": 51.2407,
+            "lon": 4.5834
+        },
+        "it": "Schilde",
+        "it:t": "Belgio | Anversa",
+        "es": "Schilde",
+        "es:t": "B\u00e9lgica | Amberes",
+        "de": "Schilde",
+        "de:t": "Belgien | Antwerpen"
+    },
+    {
+        "en": "Schoten",
+        "en:t": "Belgium | Antwerp",
+        "a": true,
+        "g": {
+            "lat": 51.2498,
+            "lon": 4.4977
+        },
+        "it": "Schoten",
+        "it:t": "Belgio | Anversa",
+        "es": "Schoten",
+        "es:t": "B\u00e9lgica | Amberes",
+        "de": "Schoten",
+        "de:t": "Belgien | Antwerpen"
+    },
+    {
+        "en": "Seraing",
+        "en:t": "Belgium | Liege",
+        "a": true,
+        "g": {
+            "lat": 50.5839,
+            "lon": 5.4996
+        },
+        "it": "Seraing",
+        "it:t": "Belgio | Provincia di Liegi",
+        "es": "Seraing",
+        "es:t": "B\u00e9lgica | Provincia de Lieja",
+        "de": "Seraing",
+        "de:t": "Belgien | Provinz L\u00fcttich"
+    },
+    {
+        "en": "Sint-Genesius-Rode",
+        "en:t": "Belgium | Flemish Brabant",
+        "a": true,
+        "g": {
+            "lat": 50.7459,
+            "lon": 4.3575
+        },
+        "it": "Sint-Genesius-Rode",
+        "it:t": "Belgio | Provincia del Brabante Fiammingo",
+        "es": "Sint-Genesius-Rode",
+        "es:t": "B\u00e9lgica | Brabante Flamenco",
+        "de": "Sint-Genesius-Rode",
+        "de:t": "Belgien | Fl\u00e4misch-Brabant"
+    },
+    {
+        "en": "Sint-Gillis-Waas",
+        "en:t": "Belgium | East Flanders",
+        "a": true,
+        "g": {
+            "lat": 51.2199,
+            "lon": 4.1243
+        },
+        "it": "Sint-Gillis-Waas",
+        "it:t": "Belgio | Provincia delle Fiandre Orientali",
+        "es": "Sint-Gillis-Waas",
+        "es:t": "B\u00e9lgica | Flandes Oriental",
+        "de": "Sint-Gillis-Waas",
+        "de:t": "Belgien | Ostflandern"
+    },
+    {
+        "en": "Sint-Katelijne-Waver",
+        "en:t": "Belgium | Antwerp",
+        "a": true,
+        "g": {
+            "lat": 51.0705,
+            "lon": 4.5314
+        },
+        "it": "Sint-Katelijne-Waver",
+        "it:t": "Belgio | Anversa",
+        "es": "Sint Katelijne Waver",
+        "es:t": "B\u00e9lgica | Amberes",
+        "de": "Sint-Katelijne-Waver",
+        "de:t": "Belgien | Antwerpen"
+    },
+    {
+        "en": "Sint-Kruis",
+        "en:t": "Belgium | Bruges",
+        "a": true,
+        "g": {
+            "lat": 51.2143,
+            "lon": 3.2513
+        },
+        "it": "Sint-Kruis",
+        "it:t": "Belgio | Bruges",
+        "es": "Sint-Kruis",
+        "es:t": "B\u00e9lgica | Bruges",
+        "de": "Sint-Kruis",
+        "de:t": "Belgien | Br\u00fcgge"
+    },
+    {
+        "en": "Sint-Niklaas",
+        "en:t": "Belgium | East Flanders",
+        "a": true,
+        "g": {
+            "lat": 51.1559,
+            "lon": 4.1544
+        },
+        "it": "Saint Niklaas",
+        "it:t": "Belgio | Provincia delle Fiandre Orientali",
+        "es": "San Nicol\u00e1s",
+        "es:t": "B\u00e9lgica | Flandes Oriental",
+        "de": "Sint-Niklaas",
+        "de:t": "Belgien | Ostflandern"
+    },
+    {
+        "en": "Sint-Pieters-Leeuw",
+        "en:t": "Belgium | Flemish Brabant",
+        "a": true,
+        "g": {
+            "lat": 50.7798,
+            "lon": 4.2437
+        },
+        "it": "Sint-Pieters-Leeuw",
+        "it:t": "Belgio | Provincia del Brabante Fiammingo",
+        "es": "Sint-Pieters-Leeuw",
+        "es:t": "B\u00e9lgica | Brabante Flamenco",
+        "de": "Sint-Pieters-Leeuw",
+        "de:t": "Belgien | Fl\u00e4misch-Brabant"
+    },
+    {
+        "en": "Sint-Truiden",
+        "en:t": "Belgium | Limburg",
+        "a": true,
+        "g": {
+            "lat": 50.8157,
+            "lon": 5.1863
+        },
+        "it": "Sint-Truiden",
+        "it:t": "Belgio | Limburgo",
+        "es": "Sint-Truiden",
+        "es:t": "B\u00e9lgica | Limburgo",
+        "de": "Sint-Truiden",
+        "de:t": "Belgien | Limburg"
+    },
+    {
+        "en": "Soignies",
+        "en:t": "Belgium | Hainaut",
+        "a": true,
+        "g": {
+            "lat": 50.5764,
+            "lon": 4.0707
+        },
+        "it": "Soignies",
+        "it:t": "Belgio | Provincia dell'Hainaut",
+        "es": "Soignies",
+        "es:t": "B\u00e9lgica | Provincia de Henao",
+        "de": "Soignies",
+        "de:t": "Belgien | Hennegau"
+    },
+    {
+        "en": "Soumagne",
+        "en:t": "Belgium | Liege",
+        "a": true,
+        "g": {
+            "lat": 50.6323,
+            "lon": 5.7361
+        },
+        "it": "Soumagne",
+        "it:t": "Belgio | Provincia di Liegi",
+        "es": "Soumagne",
+        "es:t": "B\u00e9lgica | Provincia de Lieja",
+        "de": "Soumagne",
+        "de:t": "Belgien | Provinz L\u00fcttich"
+    },
+    {
+        "en": "Stabroek",
+        "en:t": "Belgium | Antwerp",
+        "a": true,
+        "g": {
+            "lat": 51.3347,
+            "lon": 4.3717
+        },
+        "it": "Stabroek",
+        "it:t": "Belgio | Anversa",
+        "es": "Stabroek",
+        "es:t": "B\u00e9lgica | Amberes",
+        "de": "Stabroek",
+        "de:t": "Belgien | Antwerpen"
+    },
+    {
+        "en": "Stekene",
+        "en:t": "Belgium | East Flanders",
+        "a": true,
+        "g": {
+            "lat": 51.2064,
+            "lon": 4.0409
+        },
+        "it": "Stekene",
+        "it:t": "Belgio | Provincia delle Fiandre Orientali",
+        "es": "Stekene",
+        "es:t": "B\u00e9lgica | Flandes Oriental",
+        "de": "Stekene",
+        "de:t": "Belgien | Ostflandern"
+    },
+    {
+        "en": "Temse",
+        "en:t": "Belgium | East Flanders",
+        "a": true,
+        "g": {
+            "lat": 51.1295,
+            "lon": 4.2127
+        },
+        "it": "Temse",
+        "it:t": "Belgio | Provincia delle Fiandre Orientali",
+        "es": "Temse",
+        "es:t": "B\u00e9lgica | Flandes Oriental",
+        "de": "Temse",
+        "de:t": "Belgien | Ostflandern"
+    },
+    {
+        "en": "Tervuren",
+        "en:t": "Belgium | Flemish Brabant",
+        "a": true,
+        "g": {
+            "lat": 50.8259,
+            "lon": 4.5078
+        },
+        "it": "Tervuren",
+        "it:t": "Belgio | Provincia del Brabante Fiammingo",
+        "es": "Tervuren",
+        "es:t": "B\u00e9lgica | Brabante Flamenco",
+        "de": "Tervuren",
+        "de:t": "Belgien | Fl\u00e4misch-Brabant"
+    },
+    {
+        "en": "Tessenderlo",
+        "en:t": "Belgium | Limburg",
+        "a": true,
+        "g": {
+            "lat": 51.0643,
+            "lon": 5.0882
+        },
+        "it": "Tessenderlo",
+        "it:t": "Belgio | Limburgo",
+        "es": "Tessenderlo",
+        "es:t": "B\u00e9lgica | Limburgo",
+        "de": "Tessenderlo",
+        "de:t": "Belgien | Limburg"
+    },
+    {
+        "en": "Tielt",
+        "en:t": "Belgium | West Flanders",
+        "a": true,
+        "g": {
+            "lat": 51.0002,
+            "lon": 3.3264
+        },
+        "it": "Tielt",
+        "it:t": "Belgio | Provincia delle Fiandre Occidentali",
+        "es": "Tielt",
+        "es:t": "B\u00e9lgica | Provincia de Flandes Occidental",
+        "de": "Tielt",
+        "de:t": "Belgien | Westflandern"
+    },
+    {
+        "en": "Tienen",
+        "en:t": "Belgium | Flemish Brabant",
+        "a": true,
+        "g": {
+            "lat": 50.8106,
+            "lon": 4.9362
+        },
+        "it": "Tienen",
+        "it:t": "Belgio | Provincia del Brabante Fiammingo",
+        "es": "Tienen",
+        "es:t": "B\u00e9lgica | Brabante Flamenco",
+        "de": "Tienen",
+        "de:t": "Belgien | Fl\u00e4misch-Brabant"
+    },
+    {
+        "en": "Tongeren",
+        "en:t": "Belgium | Limburg",
+        "a": true,
+        "g": {
+            "lat": 50.7842,
+            "lon": 5.4745
+        },
+        "it": "Tongeren",
+        "it:t": "Belgio | Limburgo",
+        "es": "Tongeren",
+        "es:t": "B\u00e9lgica | Limburgo",
+        "de": "Tongern",
+        "de:t": "Belgien | Limburg"
+    },
+    {
+        "en": "Torhout",
+        "en:t": "Belgium | West Flanders",
+        "a": true,
+        "g": {
+            "lat": 51.065,
+            "lon": 3.1016
+        },
+        "it": "Torhout",
+        "it:t": "Belgio | Provincia delle Fiandre Occidentali",
+        "es": "Torhout",
+        "es:t": "B\u00e9lgica | Provincia de Flandes Occidental",
+        "de": "Torhout",
+        "de:t": "Belgien | Westflandern"
+    },
+    {
+        "en": "Tournai",
+        "en:t": "Belgium | Hainaut",
+        "a": true,
+        "g": {
+            "lat": 50.6056,
+            "lon": 3.3879
+        },
+        "it": "Tournai",
+        "it:t": "Belgio | Provincia dell'Hainaut",
+        "es": "Tournai",
+        "es:t": "B\u00e9lgica | Provincia de Henao",
+        "de": "Tournai",
+        "de:t": "Belgien | Hennegau"
+    },
+    {
+        "en": "Tubize",
+        "en:t": "Belgium | Walloon Brabant",
+        "a": true,
+        "g": {
+            "lat": 50.6905,
+            "lon": 4.2026
+        },
+        "it": "Tubize",
+        "it:t": "Belgio | Brabante Vallone",
+        "es": "Tubize",
+        "es:t": "B\u00e9lgica | Brabante Val\u00f3n",
+        "de": "Tubize",
+        "de:t": "Belgien | Wallonisch-Brabant"
+    },
+    {
+        "en": "Turnhout",
+        "en:t": "Belgium | Antwerp",
+        "a": true,
+        "g": {
+            "lat": 51.3217,
+            "lon": 4.9376
+        },
+        "it": "Turnhout",
+        "it:t": "Belgio | Anversa",
+        "es": "Turnhout",
+        "es:t": "B\u00e9lgica | Amberes",
+        "de": "Turnhout",
+        "de:t": "Belgien | Antwerpen"
+    },
+    {
+        "en": "Verviers",
+        "en:t": "Belgium | Liege",
+        "a": true,
+        "g": {
+            "lat": 50.5911,
+            "lon": 5.8656
+        },
+        "it": "Verviers",
+        "it:t": "Belgio | Provincia di Liegi",
+        "es": "Verviers",
+        "es:t": "B\u00e9lgica | Provincia de Lieja",
+        "de": "Verviers",
+        "de:t": "Belgien | Provinz L\u00fcttich"
+    },
+    {
+        "en": "Vilvoorde",
+        "en:t": "Belgium | Flemish Brabant",
+        "a": true,
+        "g": {
+            "lat": 50.9273,
+            "lon": 4.4258
+        },
+        "it": "Vilvoorde",
+        "it:t": "Belgio | Provincia del Brabante Fiammingo",
+        "es": "Vilvoorde",
+        "es:t": "B\u00e9lgica | Brabante Flamenco",
+        "de": "Vilvoorde",
+        "de:t": "Belgien | Fl\u00e4misch-Brabant"
+    },
+    {
+        "en": "Vise",
+        "en:t": "Belgium | Liege",
+        "a": true,
+        "g": {
+            "lat": 50.7372,
+            "lon": 5.699
+        },
+        "it": "Vis\u00e9",
+        "it:t": "Belgio | Provincia di Liegi",
+        "es": "Vis\u00e9",
+        "es:t": "B\u00e9lgica | Provincia de Lieja",
+        "de": "Vis\u00e9",
+        "de:t": "Belgien | Provinz L\u00fcttich"
+    },
+    {
+        "en": "Walcourt",
+        "en:t": "Belgium | Province of Namur",
+        "a": true,
+        "g": {
+            "lat": 50.2539,
+            "lon": 4.4349
+        },
+        "it": "Walcourt",
+        "it:t": "Belgio | Provincia di Namur",
+        "es": "Walcourt",
+        "es:t": "B\u00e9lgica | Provincia de Namur",
+        "de": "Walcourt",
+        "de:t": "Belgien | Provinz Namur"
+    },
+    {
+        "en": "Wallonia",
+        "en:t": "Belgium",
+        "a": true,
+        "g": {
+            "lat": 50.4176,
+            "lon": 4.451
+        },
+        "it": "Manage",
+        "it:t": "Belgio | Provincia dell'Hainaut",
+        "es": "Manage",
+        "es:t": "B\u00e9lgica | Provincia de Henao",
+        "de": "Manage",
+        "de:t": "Belgien | Hennegau"
+    },
+    {
+        "en": "Waregem",
+        "en:t": "Belgium | West Flanders",
+        "a": true,
+        "g": {
+            "lat": 50.8869,
+            "lon": 3.4232
+        },
+        "it": "Waregem",
+        "it:t": "Belgio | Provincia delle Fiandre Occidentali",
+        "es": "Waregem",
+        "es:t": "B\u00e9lgica | Provincia de Flandes Occidental",
+        "de": "Waregem",
+        "de:t": "Belgien | Westflandern"
+    },
+    {
+        "en": "Waterloo",
+        "en:t": "Belgium | Walloon Brabant",
+        "a": true,
+        "g": {
+            "lat": 50.7147,
+            "lon": 4.3991
+        },
+        "it": "Waterloo",
+        "it:t": "Belgio | Brabante Vallone",
+        "es": "Waterloo",
+        "es:t": "B\u00e9lgica | Brabante Val\u00f3n",
+        "de": "Waterloo",
+        "de:t": "Belgien | Wallonisch-Brabant"
+    },
+    {
+        "en": "Wavre",
+        "en:t": "Belgium | Walloon Brabant",
+        "a": true,
+        "g": {
+            "lat": 50.7159,
+            "lon": 4.6128
+        },
+        "it": "Wavre",
+        "it:t": "Belgio | Brabante Vallone",
+        "es": "Wavre",
+        "es:t": "B\u00e9lgica | Brabante Val\u00f3n",
+        "de": "Wavre",
+        "de:t": "Belgien | Wallonisch-Brabant"
+    },
+    {
+        "en": "Wervik",
+        "en:t": "Belgium | West Flanders",
+        "a": true,
+        "g": {
+            "lat": 50.7841,
+            "lon": 3.0449
+        },
+        "it": "Wervik",
+        "it:t": "Belgio | Provincia delle Fiandre Occidentali",
+        "es": "Wervik",
+        "es:t": "B\u00e9lgica | Provincia de Flandes Occidental",
+        "de": "Wervik",
+        "de:t": "Belgien | Westflandern"
+    },
+    {
+        "en": "Westerlo",
+        "en:t": "Belgium | Antwerp",
+        "a": true,
+        "g": {
+            "lat": 51.0899,
+            "lon": 4.9143
+        },
+        "it": "Westerlo",
+        "it:t": "Belgio | Anversa",
+        "es": "Westerlo",
+        "es:t": "B\u00e9lgica | Amberes",
+        "de": "Westerlo",
+        "de:t": "Belgien | Antwerpen"
+    },
+    {
+        "en": "Wetteren",
+        "en:t": "Belgium | East Flanders",
+        "a": true,
+        "g": {
+            "lat": 51.0029,
+            "lon": 3.8897
+        },
+        "it": "Wetteren",
+        "it:t": "Belgio | Provincia delle Fiandre Orientali",
+        "es": "Wetteren",
+        "es:t": "B\u00e9lgica | Flandes Oriental",
+        "de": "Wetteren",
+        "de:t": "Belgien | Ostflandern"
+    },
+    {
+        "en": "Wevelgem",
+        "en:t": "Belgium | West Flanders",
+        "a": true,
+        "g": {
+            "lat": 50.8089,
+            "lon": 3.1836
+        },
+        "it": "Wevelgem",
+        "it:t": "Belgio | Provincia delle Fiandre Occidentali",
+        "es": "Wevelgem",
+        "es:t": "B\u00e9lgica | Provincia de Flandes Occidental",
+        "de": "Wevelgem",
+        "de:t": "Belgien | Westflandern"
+    },
+    {
+        "en": "Willebroek",
+        "en:t": "Belgium | Antwerp",
+        "a": true,
+        "g": {
+            "lat": 51.0598,
+            "lon": 4.364
+        },
+        "it": "Willebroek",
+        "it:t": "Belgio | Anversa",
+        "es": "Willebroek",
+        "es:t": "B\u00e9lgica | Amberes",
+        "de": "Willebroek",
+        "de:t": "Belgien | Antwerpen"
+    },
+    {
+        "en": "Wuustwezel",
+        "en:t": "Belgium | Antwerp",
+        "a": true,
+        "g": {
+            "lat": 51.3894,
+            "lon": 4.5912
+        },
+        "it": "Wuustwezel",
+        "it:t": "Belgio | Anversa",
+        "es": "Wuustwezel",
+        "es:t": "B\u00e9lgica | Amberes",
+        "de": "Wuustwezel",
+        "de:t": "Belgien | Antwerpen"
+    },
+    {
+        "en": "Ypres",
+        "en:t": "Belgium | West Flanders",
+        "a": true,
+        "g": {
+            "lat": 50.8492,
+            "lon": 2.8779
+        },
+        "it": "Ypres",
+        "it:t": "Belgio | Provincia delle Fiandre Occidentali",
+        "es": "Ypres",
+        "es:t": "B\u00e9lgica | Provincia de Flandes Occidental",
+        "de": "Ypern",
+        "de:t": "Belgien | Westflandern"
+    },
+    {
+        "en": "Zaventem",
+        "en:t": "Belgium | Flemish Brabant",
+        "a": true,
+        "g": {
+            "lat": 50.8855,
+            "lon": 4.471
+        },
+        "it": "Zaventem",
+        "it:t": "Belgio | Provincia del Brabante Fiammingo",
+        "es": "Aeropuerto de Bruselas",
+        "es:t": "B\u00e9lgica | Leopoldlaan",
+        "de": "Zaventem",
+        "de:t": "Belgien | Fl\u00e4misch-Brabant"
+    },
+    {
+        "en": "Zedelgem",
+        "en:t": "Belgium | West Flanders",
+        "a": true,
+        "g": {
+            "lat": 51.1422,
+            "lon": 3.1368
+        },
+        "it": "Zedelgem",
+        "it:t": "Belgio | Provincia delle Fiandre Occidentali",
+        "es": "Zedelgem",
+        "es:t": "B\u00e9lgica | Provincia de Flandes Occidental",
+        "de": "Zedelgem",
+        "de:t": "Belgien | Westflandern"
+    },
+    {
+        "en": "Zele",
+        "en:t": "Belgium | East Flanders",
+        "a": true,
+        "g": {
+            "lat": 51.0701,
+            "lon": 4.0403
+        },
+        "it": "Zele",
+        "it:t": "Belgio | Provincia delle Fiandre Orientali",
+        "es": "Zele",
+        "es:t": "B\u00e9lgica | Flandes Oriental",
+        "de": "Zele",
+        "de:t": "Belgien | Ostflandern"
+    },
+    {
+        "en": "Zemst",
+        "en:t": "Belgium | Flemish Brabant",
+        "a": true,
+        "g": {
+            "lat": 50.9855,
+            "lon": 4.4558
+        },
+        "it": "Zemst",
+        "it:t": "Belgio | Provincia del Brabante Fiammingo",
+        "es": "Zemst",
+        "es:t": "B\u00e9lgica | Brabante Flamenco",
+        "de": "Zemst",
+        "de:t": "Belgien | Fl\u00e4misch-Brabant"
+    },
+    {
+        "en": "Zoersel",
+        "en:t": "Belgium | Antwerp",
+        "a": true,
+        "g": {
+            "lat": 51.2682,
+            "lon": 4.7126
+        },
+        "it": "Zoersel",
+        "it:t": "Belgio | Anversa",
+        "es": "Zoersel",
+        "es:t": "B\u00e9lgica | Amberes",
+        "de": "Zoersel",
+        "de:t": "Belgien | Antwerpen"
+    },
+    {
+        "en": "Zonhoven",
+        "en:t": "Belgium | Limburg",
+        "a": true,
+        "g": {
+            "lat": 50.9871,
+            "lon": 5.3672
+        },
+        "it": "Zonhoven",
+        "it:t": "Belgio | Limburgo",
+        "es": "Zonhoven",
+        "es:t": "B\u00e9lgica | Limburgo",
+        "de": "Zonhoven",
+        "de:t": "Belgien | Limburg"
+    },
+    {
+        "en": "Zottegem",
+        "en:t": "Belgium | East Flanders",
+        "a": true,
+        "g": {
+            "lat": 50.8695,
+            "lon": 3.8107
+        },
+        "it": "Zottegem",
+        "it:t": "Belgio | Provincia delle Fiandre Orientali",
+        "es": "Zottegem",
+        "es:t": "B\u00e9lgica | Flandes Oriental",
+        "de": "Zottegem",
+        "de:t": "Belgien | Ostflandern"
+    },
+    {
+        "en": "Zwevegem",
+        "en:t": "Belgium | West Flanders",
+        "a": true,
+        "g": {
+            "lat": 50.8129,
+            "lon": 3.3327
+        },
+        "it": "Zwevegem",
+        "it:t": "Belgio | Provincia delle Fiandre Occidentali",
+        "es": "Zwevegem",
+        "es:t": "B\u00e9lgica | Provincia de Flandes Occidental",
+        "de": "Zwevegem",
+        "de:t": "Belgien | Westflandern"
+    },
+    {
+        "en": "Zwijndrecht",
+        "en:t": "Belgium | Antwerp",
+        "a": true,
+        "g": {
+            "lat": 51.2164,
+            "lon": 4.3336
+        },
+        "it": "Zwijndrecht",
+        "it:t": "Belgio | Anversa",
+        "es": "Zwijndrecht",
+        "es:t": "B\u00e9lgica | Amberes",
+        "de": "Zwijndrecht",
+        "de:t": "Belgien | Antwerpen"
+    }
+]

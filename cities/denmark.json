@@ -1,0 +1,707 @@
+[
+    {
+        "en": "Aabenraa",
+        "en:t": "Denmark",
+        "a": true,
+        "g": {
+            "lat": 55.0409,
+            "lon": 9.4152
+        },
+        "it": "Aabenraa",
+        "it:t": "Danimarca",
+        "es": "Aabenraa",
+        "es:t": "Dinamarca",
+        "de": "Apenrade",
+        "de:t": "D\u00e4nemark"
+    },
+    {
+        "en": "Aalborg",
+        "en:t": "Denmark",
+        "a": true,
+        "g": {
+            "lat": 57.0488,
+            "lon": 9.9217
+        },
+        "it": "Aalborg",
+        "it:t": "Danimarca",
+        "es": "Aalborg",
+        "es:t": "Dinamarca",
+        "de": "Aalborg",
+        "de:t": "D\u00e4nemark"
+    },
+    {
+        "en": "Aarhus",
+        "en:t": "Denmark",
+        "a": true,
+        "g": {
+            "lat": 56.1629,
+            "lon": 10.2039
+        },
+        "it": "\u00c5rhus",
+        "it:t": "Danimarca",
+        "es": "Aarhus",
+        "es:t": "Dinamarca",
+        "de": "Aarhus",
+        "de:t": "D\u00e4nemark"
+    },
+    {
+        "en": "Albertslund",
+        "en:t": "Denmark",
+        "a": true,
+        "g": {
+            "lat": 55.6596,
+            "lon": 12.3571
+        },
+        "it": "Albertslund",
+        "it:t": "Danimarca",
+        "es": "Albertslund",
+        "es:t": "Dinamarca",
+        "de": "Albertslund",
+        "de:t": "D\u00e4nemark"
+    },
+    {
+        "en": "Ballerup",
+        "en:t": "Denmark",
+        "a": true,
+        "g": {
+            "lat": 55.7245,
+            "lon": 12.3548
+        },
+        "it": "Ballerup",
+        "it:t": "Danimarca",
+        "es": "Ballerup",
+        "es:t": "Dinamarca",
+        "de": "Ballerup Sogn",
+        "de:t": "D\u00e4nemark"
+    },
+    {
+        "en": "Birker\u00f8d",
+        "en:t": "Denmark",
+        "a": true,
+        "g": {
+            "lat": 55.8443,
+            "lon": 12.4221
+        },
+        "it": "Birker\u00f8d",
+        "it:t": "Danimarca",
+        "es": "Birker\u00f8d",
+        "es:t": "Dinamarca",
+        "de": "Birker\u00f8d Kommune",
+        "de:t": "D\u00e4nemark"
+    },
+    {
+        "en": "Charlottenlund",
+        "en:t": "Denmark",
+        "a": true,
+        "g": {
+            "lat": 55.7564,
+            "lon": 12.5798
+        },
+        "it": "Charlottenlund",
+        "it:t": "Danimarca",
+        "es": "Charlottenlund",
+        "es:t": "Dinamarca",
+        "de": "Charlottenlund",
+        "de:t": "D\u00e4nemark"
+    },
+    {
+        "en": "Copenhagen",
+        "en:t": "Denmark",
+        "a": true,
+        "g": {
+            "lat": 55.6761,
+            "lon": 12.5683
+        },
+        "it": "Copenaghen",
+        "it:t": "Danimarca",
+        "es": "Copenhague",
+        "es:t": "Dinamarca",
+        "de": "Kopenhagen",
+        "de:t": "D\u00e4nemark"
+    },
+    {
+        "en": "Esbjerg",
+        "en:t": "Denmark",
+        "a": true,
+        "g": {
+            "lat": 55.4765,
+            "lon": 8.4594
+        },
+        "it": "Esbjerg",
+        "it:t": "Danimarca",
+        "es": "Esbjerg",
+        "es:t": "Dinamarca",
+        "de": "Esberg",
+        "de:t": "D\u00e4nemark"
+    },
+    {
+        "en": "Farum",
+        "en:t": "Denmark",
+        "a": true,
+        "g": {
+            "lat": 55.813,
+            "lon": 12.3708
+        },
+        "it": "Farum",
+        "it:t": "Danimarca",
+        "es": "Farum",
+        "es:t": "Dinamarca",
+        "de": "Farum",
+        "de:t": "D\u00e4nemark"
+    },
+    {
+        "en": "Fredericia",
+        "en:t": "Denmark",
+        "a": true,
+        "g": {
+            "lat": 55.5689,
+            "lon": 9.7495
+        },
+        "it": "Fredericia",
+        "it:t": "Danimarca",
+        "es": "Fredericia",
+        "es:t": "Dinamarca",
+        "de": "Fredericia",
+        "de:t": "D\u00e4nemark"
+    },
+    {
+        "en": "Frederiksberg",
+        "en:t": "Denmark",
+        "a": true,
+        "g": {
+            "lat": 55.6771,
+            "lon": 12.5133
+        },
+        "it": "Frederiksberg",
+        "it:t": "Danimarca",
+        "es": "Frederiksberg",
+        "es:t": "Dinamarca",
+        "de": "Frederiksberg",
+        "de:t": "D\u00e4nemark"
+    },
+    {
+        "en": "Frederikshavn",
+        "en:t": "Denmark",
+        "a": true,
+        "g": {
+            "lat": 57.4427,
+            "lon": 10.521
+        },
+        "it": "Frederikshavn",
+        "it:t": "Danimarca",
+        "es": "Frederikshavn",
+        "es:t": "Dinamarca",
+        "de": "Frederikshavn",
+        "de:t": "D\u00e4nemark"
+    },
+    {
+        "en": "Glostrup",
+        "en:t": "Denmark",
+        "a": true,
+        "g": {
+            "lat": 55.6692,
+            "lon": 12.4021
+        },
+        "it": "Glostrup",
+        "it:t": "Danimarca",
+        "es": "Glostrup",
+        "es:t": "Dinamarca",
+        "de": "Glostrup",
+        "de:t": "D\u00e4nemark"
+    },
+    {
+        "en": "Greve",
+        "en:t": "Denmark",
+        "a": true,
+        "g": {
+            "lat": 55.5791,
+            "lon": 12.2553
+        },
+        "it": "Greve",
+        "it:t": "Danimarca",
+        "es": "Greve",
+        "es:t": "Dinamarca",
+        "de": "Greve",
+        "de:t": "D\u00e4nemark"
+    },
+    {
+        "en": "Haderslev",
+        "en:t": "Denmark",
+        "a": true,
+        "g": {
+            "lat": 55.2501,
+            "lon": 9.4891
+        },
+        "it": "Haderslev",
+        "it:t": "Danimarca",
+        "es": "Haderslev",
+        "es:t": "Dinamarca",
+        "de": "Hadersleben",
+        "de:t": "D\u00e4nemark"
+    },
+    {
+        "en": "Helsing\u00f8r",
+        "en:t": "Denmark",
+        "a": true,
+        "g": {
+            "lat": 56.0308,
+            "lon": 12.5921
+        },
+        "it": "Helsing\u00f8r",
+        "it:t": "Danimarca",
+        "es": "Elsinor",
+        "es:t": "Dinamarca",
+        "de": "Helsing\u00f8r",
+        "de:t": "D\u00e4nemark"
+    },
+    {
+        "en": "Herning",
+        "en:t": "Denmark",
+        "a": true,
+        "g": {
+            "lat": 56.1386,
+            "lon": 8.9673
+        },
+        "it": "Herning",
+        "it:t": "Danimarca",
+        "es": "Herning",
+        "es:t": "Dinamarca",
+        "de": "Herning",
+        "de:t": "D\u00e4nemark"
+    },
+    {
+        "en": "Hiller\u00f8d",
+        "en:t": "Denmark",
+        "a": true,
+        "g": {
+            "lat": 55.9279,
+            "lon": 12.3008
+        },
+        "it": "Hiller\u00f8d",
+        "it:t": "Danimarca",
+        "es": "Hiller\u00f8d",
+        "es:t": "Dinamarca",
+        "de": "Hiller\u00f8d",
+        "de:t": "D\u00e4nemark"
+    },
+    {
+        "en": "Hj\u00f8rring",
+        "en:t": "Denmark",
+        "a": true,
+        "g": {
+            "lat": 57.4568,
+            "lon": 9.9958
+        },
+        "it": "Hj\u00f8rring",
+        "it:t": "Danimarca",
+        "es": "Hj\u00f8rring",
+        "es:t": "Dinamarca",
+        "de": "Hj\u00f8rring",
+        "de:t": "D\u00e4nemark"
+    },
+    {
+        "en": "Holb\u00e6k",
+        "en:t": "Denmark",
+        "a": true,
+        "g": {
+            "lat": 55.7147,
+            "lon": 11.7176
+        },
+        "it": "Holb\u00e6k",
+        "it:t": "Danimarca",
+        "es": "Holb\u00e6k",
+        "es:t": "Dinamarca",
+        "de": "Holb\u00e6k",
+        "de:t": "D\u00e4nemark"
+    },
+    {
+        "en": "Holstebro",
+        "en:t": "Denmark",
+        "a": true,
+        "g": {
+            "lat": 56.3615,
+            "lon": 8.6217
+        },
+        "it": "Holstebro",
+        "it:t": "Danimarca",
+        "es": "Holstebro",
+        "es:t": "Dinamarca",
+        "de": "Holstebro",
+        "de:t": "D\u00e4nemark"
+    },
+    {
+        "en": "Horsens",
+        "en:t": "Denmark",
+        "a": true,
+        "g": {
+            "lat": 55.8581,
+            "lon": 9.8476
+        },
+        "it": "Horsens",
+        "it:t": "Danimarca",
+        "es": "Horsens",
+        "es:t": "Dinamarca",
+        "de": "Horsens",
+        "de:t": "D\u00e4nemark"
+    },
+    {
+        "en": "Hvidovre",
+        "en:t": "Denmark",
+        "a": true,
+        "g": {
+            "lat": 55.6425,
+            "lon": 12.4754
+        },
+        "it": "Hvidovre",
+        "it:t": "Danimarca",
+        "es": "Hvidovre",
+        "es:t": "Dinamarca",
+        "de": "Hvidovre",
+        "de:t": "D\u00e4nemark"
+    },
+    {
+        "en": "H\u00f8rsholm",
+        "en:t": "Denmark",
+        "a": true,
+        "g": {
+            "lat": 55.8835,
+            "lon": 12.5049
+        },
+        "it": "H\u00f8rsholm",
+        "it:t": "Danimarca",
+        "es": "H\u00f8rsholm",
+        "es:t": "Dinamarca",
+        "de": "H\u00f8rsholm",
+        "de:t": "D\u00e4nemark"
+    },
+    {
+        "en": "Ish\u00f8j",
+        "en:t": "Denmark",
+        "a": true,
+        "g": {
+            "lat": 55.614,
+            "lon": 12.3464
+        },
+        "it": "Ish\u00f8j",
+        "it:t": "Danimarca",
+        "es": "Ish\u00f8j",
+        "es:t": "Dinamarca",
+        "de": "Ish\u00f8j",
+        "de:t": "D\u00e4nemark"
+    },
+    {
+        "en": "Kalundborg",
+        "en:t": "Denmark",
+        "a": true,
+        "g": {
+            "lat": 55.6864,
+            "lon": 11.0892
+        },
+        "it": "Kalundborg",
+        "it:t": "Danimarca",
+        "es": "Kalundborg",
+        "es:t": "Dinamarca",
+        "de": "Kalundborg",
+        "de:t": "D\u00e4nemark"
+    },
+    {
+        "en": "Kors\u00f8r",
+        "en:t": "Denmark",
+        "a": true,
+        "g": {
+            "lat": 55.3258,
+            "lon": 11.1494
+        },
+        "it": "Kors\u00f8r",
+        "it:t": "Danimarca",
+        "es": "Kors\u00f8r",
+        "es:t": "Dinamarca",
+        "de": "Kors\u00f8r",
+        "de:t": "D\u00e4nemark"
+    },
+    {
+        "en": "K\u00f8ge",
+        "en:t": "Denmark",
+        "a": true,
+        "g": {
+            "lat": 55.4575,
+            "lon": 12.1822
+        },
+        "it": "K\u00f8ge",
+        "it:t": "Danimarca",
+        "es": "K\u00f8ge",
+        "es:t": "Dinamarca",
+        "de": "K\u00f8ge",
+        "de:t": "D\u00e4nemark"
+    },
+    {
+        "en": "Liller\u00f8d",
+        "en:t": "Denmark",
+        "a": true,
+        "g": {
+            "lat": 55.8685,
+            "lon": 12.343
+        },
+        "it": "Liller\u00f8d",
+        "it:t": "Danimarca",
+        "es": "Liller\u00f8d",
+        "es:t": "Dinamarca",
+        "de": "Liller\u00f8d",
+        "de:t": "D\u00e4nemark"
+    },
+    {
+        "en": "Norresundby",
+        "en:t": "Denmark",
+        "a": true,
+        "g": {
+            "lat": 57.0593,
+            "lon": 9.9357
+        },
+        "it": "N\u00f8rresundby",
+        "it:t": "Danimarca",
+        "es": "N\u00f8rresundby",
+        "es:t": "Dinamarca",
+        "de": "N\u00f8rresundby",
+        "de:t": "D\u00e4nemark"
+    },
+    {
+        "en": "Nyborg",
+        "en:t": "Denmark",
+        "a": true,
+        "g": {
+            "lat": 55.3242,
+            "lon": 10.7996
+        },
+        "it": "Nyborg",
+        "it:t": "Danimarca",
+        "es": "Nyborg",
+        "es:t": "Dinamarca",
+        "de": "Nyborg",
+        "de:t": "D\u00e4nemark"
+    },
+    {
+        "en": "Nyk\u00f8bing Falster",
+        "en:t": "Denmark",
+        "a": true,
+        "g": {
+            "lat": 54.7654,
+            "lon": 11.8755
+        },
+        "it": "Nyk\u00f8bing Falster",
+        "it:t": "Danimarca",
+        "es": "Nyk\u00f8bing Falster",
+        "es:t": "Dinamarca",
+        "de": "Nyk\u00f8bing Falster",
+        "de:t": "D\u00e4nemark"
+    },
+    {
+        "en": "N\u00e6stved",
+        "en:t": "Denmark",
+        "a": true,
+        "g": {
+            "lat": 55.2246,
+            "lon": 11.7592
+        },
+        "it": "N\u00e6stved",
+        "it:t": "Danimarca",
+        "es": "N\u00e6stved",
+        "es:t": "Dinamarca",
+        "de": "N\u00e6stved",
+        "de:t": "D\u00e4nemark"
+    },
+    {
+        "en": "Randers",
+        "en:t": "Denmark",
+        "a": true,
+        "g": {
+            "lat": 56.4606,
+            "lon": 10.0365
+        },
+        "it": "Randers",
+        "it:t": "Danimarca",
+        "es": "Randers",
+        "es:t": "Dinamarca",
+        "de": "Randers",
+        "de:t": "D\u00e4nemark"
+    },
+    {
+        "en": "Ringsted",
+        "en:t": "Denmark",
+        "a": true,
+        "g": {
+            "lat": 55.443,
+            "lon": 11.7914
+        },
+        "it": "Ringsted",
+        "it:t": "Danimarca",
+        "es": "Ringsted",
+        "es:t": "Dinamarca",
+        "de": "Ringsted",
+        "de:t": "D\u00e4nemark"
+    },
+    {
+        "en": "Roskilde",
+        "en:t": "Denmark",
+        "a": true,
+        "g": {
+            "lat": 55.6419,
+            "lon": 12.0878
+        },
+        "it": "Roskilde",
+        "it:t": "Danimarca",
+        "es": "Roskilde",
+        "es:t": "Dinamarca",
+        "de": "Roskilde",
+        "de:t": "D\u00e4nemark"
+    },
+    {
+        "en": "R\u00f8dovre",
+        "en:t": "Denmark",
+        "a": true,
+        "g": {
+            "lat": 55.6735,
+            "lon": 12.4657
+        },
+        "it": "R\u00f8dovre",
+        "it:t": "Danimarca",
+        "es": "R\u00f8dovre",
+        "es:t": "Dinamarca",
+        "de": "R\u00f8dovre",
+        "de:t": "D\u00e4nemark"
+    },
+    {
+        "en": "Silkeborg",
+        "en:t": "Denmark",
+        "a": true,
+        "g": {
+            "lat": 56.1764,
+            "lon": 9.5549
+        },
+        "it": "Silkeborg",
+        "it:t": "Danimarca",
+        "es": "Silkeborg",
+        "es:t": "Dinamarca",
+        "de": "Silkeborg",
+        "de:t": "D\u00e4nemark"
+    },
+    {
+        "en": "Skive",
+        "en:t": "Denmark",
+        "a": true,
+        "g": {
+            "lat": 56.5651,
+            "lon": 9.0309
+        },
+        "it": "Skive",
+        "it:t": "Danimarca",
+        "es": "Skive",
+        "es:t": "Dinamarca",
+        "de": "Skive",
+        "de:t": "D\u00e4nemark"
+    },
+    {
+        "en": "Slagelse",
+        "en:t": "Denmark",
+        "a": true,
+        "g": {
+            "lat": 55.4037,
+            "lon": 11.3553
+        },
+        "it": "Slagelse",
+        "it:t": "Danimarca",
+        "es": "Slagelse",
+        "es:t": "Dinamarca",
+        "de": "Slagelse",
+        "de:t": "D\u00e4nemark"
+    },
+    {
+        "en": "Stenl\u00f8se",
+        "en:t": "Denmark",
+        "a": true,
+        "g": {
+            "lat": 55.7686,
+            "lon": 12.1983
+        },
+        "it": "Stenl\u00f8se",
+        "it:t": "Danimarca",
+        "es": "Stenl\u00f8se",
+        "es:t": "Dinamarca",
+        "de": "Stenl\u00f8se",
+        "de:t": "D\u00e4nemark"
+    },
+    {
+        "en": "Svendborg",
+        "en:t": "Denmark",
+        "a": true,
+        "g": {
+            "lat": 55.0674,
+            "lon": 10.6073
+        },
+        "it": "Svendborg",
+        "it:t": "Danimarca",
+        "es": "Svendborg",
+        "es:t": "Dinamarca",
+        "de": "Svendborg",
+        "de:t": "D\u00e4nemark"
+    },
+    {
+        "en": "Taastrup",
+        "en:t": "Denmark",
+        "a": true,
+        "g": {
+            "lat": 55.646,
+            "lon": 12.2979
+        },
+        "it": "Taastrup",
+        "it:t": "Danimarca",
+        "es": "Taastrup",
+        "es:t": "Dinamarca",
+        "de": "Taastrup",
+        "de:t": "D\u00e4nemark"
+    },
+    {
+        "en": "Vanl\u00f8se",
+        "en:t": "Denmark | Copenhagen",
+        "a": true,
+        "g": {
+            "lat": 55.6912,
+            "lon": 12.4812
+        },
+        "it": "Vanl\u00f8se",
+        "it:t": "Danimarca | Copenaghen",
+        "es": "Vanl\u00f8se",
+        "es:t": "Dinamarca | Copenhagen",
+        "de": "Vanl\u00f8se",
+        "de:t": "D\u00e4nemark | Kopenhagen"
+    },
+    {
+        "en": "Vejle",
+        "en:t": "Denmark",
+        "a": true,
+        "g": {
+            "lat": 55.7113,
+            "lon": 9.5364
+        },
+        "it": "Vejle",
+        "it:t": "Danimarca",
+        "es": "Vejle",
+        "es:t": "Dinamarca",
+        "de": "Vejle",
+        "de:t": "D\u00e4nemark"
+    },
+    {
+        "en": "Viborg",
+        "en:t": "Denmark",
+        "a": true,
+        "g": {
+            "lat": 56.452,
+            "lon": 9.3963
+        },
+        "it": "Viborg",
+        "it:t": "Danimarca",
+        "es": "Viborg",
+        "es:t": "Dinamarca",
+        "de": "Viborg",
+        "de:t": "D\u00e4nemark"
+    }
+]

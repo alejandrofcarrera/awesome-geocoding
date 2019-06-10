@@ -1,0 +1,62 @@
+[
+    {
+        "en": "Cova Figueira",
+        "en:t": "Cape Verde | Sao Filipe",
+        "a": true,
+        "g": {
+            "lat": 14.8892,
+            "lon": -24.294
+        },
+        "it": "Fogo",
+        "it:t": "Capo Verde",
+        "es": "Cova Figueira",
+        "es:t": "Cabo Verde | S\u00e3o Filipe",
+        "de": "Cova Figueira",
+        "de:t": "Kap Verde | Sao Filipe"
+    },
+    {
+        "en": "Mindelo",
+        "en:t": "Cape Verde | S\u00e3o Vicente",
+        "a": true,
+        "g": {
+            "lat": 16.8765,
+            "lon": -24.9813
+        },
+        "it": "Mindelo",
+        "it:t": "Capo Verde | Contea di S\u00e3o Vicente",
+        "es": "Mindelo",
+        "es:t": "Cabo Verde | S\u00e3o Vicente",
+        "de": "Mindelo",
+        "de:t": "Kap Verde | S\u00e3o Vicente"
+    },
+    {
+        "en": "Praia",
+        "en:t": "Cape Verde",
+        "a": true,
+        "g": {
+            "lat": 14.9453,
+            "lon": -23.5014
+        },
+        "it": "Praia",
+        "it:t": "Capo Verde | Contea di Praia",
+        "es": "Praia",
+        "es:t": "Cabo Verde",
+        "de": "Praia",
+        "de:t": "Kap Verde"
+    },
+    {
+        "en": "Santa Maria",
+        "en:t": "Cape Verde | Sal",
+        "a": true,
+        "g": {
+            "lat": 16.6001,
+            "lon": -22.9103
+        },
+        "it": "Santa Maria",
+        "it:t": "Capo Verde | Contea di Sal",
+        "es": "Santa Maria",
+        "es:t": "Cabo Verde | Sal",
+        "de": "Santa Maria",
+        "de:t": "Kap Verde | Sal"
+    }
+]

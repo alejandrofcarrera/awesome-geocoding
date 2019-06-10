@@ -1,0 +1,77 @@
+[
+    {
+        "en": "Arrondissement of Saint-Laurent-du-Maroni",
+        "en:t": "French Guiana | Saint-Laurent-du-Maroni",
+        "a": true,
+        "g": {
+            "lat": 5.4839,
+            "lon": -54.0249
+        },
+        "it": "Arrondissement di Saint-Laurent-du-Maroni",
+        "it:t": "Guyana francese | Saint-Laurent-du-Maroni",
+        "es": "Saint-Laurent-du-Maroni",
+        "es:t": "Guayana Francesa | Saint-Laurent-du-Maroni",
+        "de": "Arrondissement Saint-Laurent-du-Maroni",
+        "de:t": "Franz\u00f6sisch-Guyana | Saint-Laurent-du-Maroni"
+    },
+    {
+        "en": "Cayenne",
+        "en:t": "French Guiana",
+        "a": true,
+        "g": {
+            "lat": 4.9224,
+            "lon": -52.3135
+        },
+        "it": "Cayenne",
+        "it:t": "Guyana francese",
+        "es": "Cayena",
+        "es:t": "Guayana Francesa | Cayenne",
+        "de": "Cayenne",
+        "de:t": "Franz\u00f6sisch-Guyana"
+    },
+    {
+        "en": "Kourou",
+        "en:t": "French Guiana",
+        "a": true,
+        "g": {
+            "lat": 5.1611,
+            "lon": -52.6493
+        },
+        "it": "Kourou",
+        "it:t": "Guyana francese | Centre spatial guyanais",
+        "es": "Kourou",
+        "es:t": "Guayana Francesa | Puerto espacial de Kourou",
+        "de": "Kourou",
+        "de:t": "Franz\u00f6sisch-Guyana | Centre Spatial Guyanais"
+    },
+    {
+        "en": "Matoury",
+        "en:t": "French Guiana",
+        "a": true,
+        "g": {
+            "lat": 4.8318,
+            "lon": -52.3454
+        },
+        "it": "Matoury",
+        "it:t": "Guyana francese",
+        "es": "Matoury",
+        "es:t": "Guayana Francesa",
+        "de": "Matoury",
+        "de:t": "Franz\u00f6sisch-Guyana"
+    },
+    {
+        "en": "Remire-Montjoly",
+        "en:t": "French Guiana",
+        "a": true,
+        "g": {
+            "lat": 4.8827,
+            "lon": -52.2869
+        },
+        "it": "Remire-Montjoly",
+        "it:t": "Guyana francese",
+        "es": "Remire-Montjoly",
+        "es:t": "Guayana Francesa",
+        "de": "Remire-Montjoly",
+        "de:t": "Franz\u00f6sisch-Guyana"
+    }
+]

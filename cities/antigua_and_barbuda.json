@@ -1,0 +1,17 @@
+[
+    {
+        "en": "Saint John's",
+        "en:t": "Antigua and Barbuda | Saint John",
+        "a": true,
+        "g": {
+            "lat": 17.1274,
+            "lon": -61.8468
+        },
+        "it": "Saint John's",
+        "it:t": "Antigua e Barbuda | Saint John",
+        "es": "Saint John",
+        "es:t": "Antigua y Barbuda | Saint John",
+        "de": "Saint John\u2019s",
+        "de:t": "Antigua und Barbuda | Saint John"
+    }
+]

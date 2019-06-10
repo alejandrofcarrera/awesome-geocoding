@@ -1,0 +1,17 @@
+[
+    {
+        "en": "Saint George's",
+        "en:t": "Grenada | Saint George",
+        "a": true,
+        "g": {
+            "lat": 12.0561,
+            "lon": -61.7488
+        },
+        "it": "Saint George's",
+        "it:t": "Grenada | Parrocchia di Saint George",
+        "es": "Saint George",
+        "es:t": "Granada | Parroquia de Saint George",
+        "de": "Sankt George's",
+        "de:t": "Grenada | Saint George"
+    }
+]

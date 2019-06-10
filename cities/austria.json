@@ -1,0 +1,527 @@
+[
+    {
+        "en": "Amstetten",
+        "en:t": "Austria | Amstetten District",
+        "a": true,
+        "g": {
+            "lat": 48.125,
+            "lon": 14.8693
+        },
+        "it": "Amstetten",
+        "it:t": "Austria | Distretto di Amstetten",
+        "es": "Amstetten",
+        "es:t": "Austria | Distrito de Amstetten",
+        "de": "Amstetten",
+        "de:t": "\u00d6sterreich"
+    },
+    {
+        "en": "Ansfelden",
+        "en:t": "Austria | Salzburg-Umgebung",
+        "a": true,
+        "g": {
+            "lat": 47.9648,
+            "lon": 13.0493
+        },
+        "it": "Ansfelden",
+        "it:t": "Austria | Salzburg-Umgebung",
+        "es": "Ansfelden",
+        "es:t": "Austria | Salzburg-Umgebung",
+        "de": "Ansfelden",
+        "de:t": "\u00d6sterreich | Salzburg-Umgebung"
+    },
+    {
+        "en": "Baden bei Wien",
+        "en:t": "Austria | Baden District",
+        "a": true,
+        "g": {
+            "lat": 48.0021,
+            "lon": 16.2309
+        },
+        "it": "Baden bei Wien",
+        "it:t": "Austria | Distretto di Baden",
+        "es": "Baden bei Wien",
+        "es:t": "Austria | Distrito de Baden",
+        "de": "Baden",
+        "de:t": "\u00d6sterreich"
+    },
+    {
+        "en": "Braunau am Inn",
+        "en:t": "Austria | Braunau am Inn District",
+        "a": true,
+        "g": {
+            "lat": 48.2557,
+            "lon": 13.0443
+        },
+        "it": "Braunau am Inn",
+        "it:t": "Austria | Distretto di Braunau am Inn",
+        "es": "Braunau am Inn",
+        "es:t": "Austria | Distrito de Braunau am Inn",
+        "de": "Braunau am Inn",
+        "de:t": "\u00d6sterreich"
+    },
+    {
+        "en": "Bregenz",
+        "en:t": "Austria | Bregenz District",
+        "a": true,
+        "g": {
+            "lat": 47.5007,
+            "lon": 9.7423
+        },
+        "it": "Bregenz",
+        "it:t": "Austria | Distretto di Bregenz",
+        "es": "Bregenz",
+        "es:t": "Austria | Distrito de Bregenz",
+        "de": "Bregenz",
+        "de:t": "\u00d6sterreich"
+    },
+    {
+        "en": "Dornbirn",
+        "en:t": "Austria | Dornbirn District",
+        "a": true,
+        "g": {
+            "lat": 47.4124,
+            "lon": 9.7438
+        },
+        "it": "Dornbirn",
+        "it:t": "Austria | Distretto di Dornbirn",
+        "es": "Dornbirn",
+        "es:t": "Austria | Distrito de Dornbirn",
+        "de": "Dornbirn",
+        "de:t": "\u00d6sterreich"
+    },
+    {
+        "en": "Feldkirch",
+        "en:t": "Austria | Feldkirch District",
+        "a": true,
+        "g": {
+            "lat": 47.2413,
+            "lon": 9.6019
+        },
+        "it": "Feldkirch",
+        "it:t": "Austria | Distretto di Feldkirch",
+        "es": "Feldkirch",
+        "es:t": "Austria | Distrito de Feldkirch",
+        "de": "Feldkirch",
+        "de:t": "\u00d6sterreich"
+    },
+    {
+        "en": "Graz",
+        "en:t": "Austria",
+        "a": true,
+        "g": {
+            "lat": 47.0707,
+            "lon": 15.4395
+        },
+        "it": "Graz",
+        "it:t": "Austria",
+        "es": "Graz",
+        "es:t": "Austria",
+        "de": "Graz",
+        "de:t": "\u00d6sterreich"
+    },
+    {
+        "en": "Hallein",
+        "en:t": "Austria | Hallein District",
+        "a": true,
+        "g": {
+            "lat": 47.6825,
+            "lon": 13.1004
+        },
+        "it": "Hallein",
+        "it:t": "Austria | Distretto di Hallein",
+        "es": "Hallein",
+        "es:t": "Austria | Distrito de Hallein",
+        "de": "Hallein",
+        "de:t": "\u00d6sterreich"
+    },
+    {
+        "en": "Innsbruck",
+        "en:t": "Austria",
+        "a": true,
+        "g": {
+            "lat": 47.2692,
+            "lon": 11.4041
+        },
+        "it": "Innsbruck",
+        "it:t": "Austria",
+        "es": "Innsbruck",
+        "es:t": "Austria",
+        "de": "Innsbruck",
+        "de:t": "\u00d6sterreich"
+    },
+    {
+        "en": "Kapfenberg",
+        "en:t": "Austria | Bruck-M\u00fcrzzuschlag District",
+        "a": true,
+        "g": {
+            "lat": 47.4433,
+            "lon": 15.2792
+        },
+        "it": "Kapfenberg",
+        "it:t": "Austria | Distretto di Bruck-M\u00fcrzzuschlag",
+        "es": "Kapfenberg",
+        "es:t": "Austria | Distrito de Bruck-M\u00fcrzzuschlag",
+        "de": "Kapfenberg",
+        "de:t": "\u00d6sterreich | Bruck-M\u00fcrzzuschlag"
+    },
+    {
+        "en": "Klagenfurt",
+        "en:t": "Austria",
+        "a": true,
+        "g": {
+            "lat": 46.6365,
+            "lon": 14.3122
+        },
+        "it": "Klagenfurt am W\u00f6rthersee",
+        "it:t": "Austria | Klagenfurt",
+        "es": "Klagenfurt",
+        "es:t": "Austria",
+        "de": "Klagenfurt am W\u00f6rthersee",
+        "de:t": "\u00d6sterreich"
+    },
+    {
+        "en": "Klosterneuburg",
+        "en:t": "Austria | Wien-Umgebung District",
+        "a": true,
+        "g": {
+            "lat": 48.3099,
+            "lon": 16.3238
+        },
+        "it": "Klosterneuburg",
+        "it:t": "Austria | Distretto di Wien-Umgebung",
+        "es": "Klosterneuburg",
+        "es:t": "Austria | Distrito de Wien-Umgebung",
+        "de": "Klosterneuburg",
+        "de:t": "\u00d6sterreich | Wien-Umgebung"
+    },
+    {
+        "en": "Krems an der Donau",
+        "en:t": "Austria",
+        "a": true,
+        "g": {
+            "lat": 48.41,
+            "lon": 15.6038
+        },
+        "it": "Krems",
+        "it:t": "Austria | Krems an der Donau",
+        "es": "Krems an der Donau",
+        "es:t": "Austria",
+        "de": "Krems an der Donau",
+        "de:t": "\u00d6sterreich"
+    },
+    {
+        "en": "Kufstein",
+        "en:t": "Austria | Kufstein District",
+        "a": true,
+        "g": {
+            "lat": 47.5824,
+            "lon": 12.1628
+        },
+        "it": "Kufstein",
+        "it:t": "Austria | Distretto di Kufstein",
+        "es": "Kufstein",
+        "es:t": "Austria | Distrito de Kufstein",
+        "de": "Kufstein",
+        "de:t": "\u00d6sterreich"
+    },
+    {
+        "en": "Leoben",
+        "en:t": "Austria | Leoben District",
+        "a": true,
+        "g": {
+            "lat": 47.3764,
+            "lon": 15.0911
+        },
+        "it": "Leoben",
+        "it:t": "Austria | Distretto di Leoben",
+        "es": "Leoben",
+        "es:t": "Austria | Distrito de Leoben",
+        "de": "Leoben",
+        "de:t": "\u00d6sterreich"
+    },
+    {
+        "en": "Leonding",
+        "en:t": "Austria | Linz-Land District",
+        "a": true,
+        "g": {
+            "lat": 48.2793,
+            "lon": 14.2528
+        },
+        "it": "Leonding",
+        "it:t": "Austria | Distretto di Linz-Land",
+        "es": "Leonding",
+        "es:t": "Austria | Distrito de Linz-Land",
+        "de": "Leonding",
+        "de:t": "\u00d6sterreich | Linz-Land"
+    },
+    {
+        "en": "Linz",
+        "en:t": "Austria",
+        "a": true,
+        "g": {
+            "lat": 48.3069,
+            "lon": 14.2858
+        },
+        "it": "Linz",
+        "it:t": "Austria",
+        "es": "Linz",
+        "es:t": "Austria",
+        "de": "Linz",
+        "de:t": "\u00d6sterreich"
+    },
+    {
+        "en": "Lustenau",
+        "en:t": "Austria | Dornbirn District",
+        "a": true,
+        "g": {
+            "lat": 47.4208,
+            "lon": 9.6594
+        },
+        "it": "Lustenau",
+        "it:t": "Austria | Distretto di Dornbirn",
+        "es": "Lustenau",
+        "es:t": "Austria | Distrito de Dornbirn",
+        "de": "Lustenau",
+        "de:t": "\u00d6sterreich | Dornbirn"
+    },
+    {
+        "en": "M\u00f6dling",
+        "en:t": "Austria | M\u00f6dling District",
+        "a": true,
+        "g": {
+            "lat": 48.0825,
+            "lon": 16.2869
+        },
+        "it": "M\u00f6dling",
+        "it:t": "Austria | Distretto di M\u00f6dling",
+        "es": "M\u00f6dling",
+        "es:t": "Austria | Distrito de M\u00f6dling",
+        "de": "M\u00f6dling",
+        "de:t": "\u00d6sterreich"
+    },
+    {
+        "en": "Saalfelden",
+        "en:t": "Austria | Zell am See District",
+        "a": true,
+        "g": {
+            "lat": 47.4274,
+            "lon": 12.8411
+        },
+        "it": "Saalfelden am Steinernen Meer",
+        "it:t": "Austria | Distretto di Zell am See",
+        "es": "Saalfelden am Steinernen Meer",
+        "es:t": "Austria | Distrito de Zell am See",
+        "de": "Saalfelden am Steinernen Meer",
+        "de:t": "\u00d6sterreich | Zell am See"
+    },
+    {
+        "en": "Saint P\u00f6lten",
+        "en:t": "Austria | Sankt P\u00f6lten",
+        "a": true,
+        "g": {
+            "lat": 48.2035,
+            "lon": 15.6382
+        },
+        "it": "Sankt P\u00f6lten",
+        "it:t": "Austria",
+        "es": "Sankt P\u00f6lten",
+        "es:t": "Austria",
+        "de": "Sankt P\u00f6lten",
+        "de:t": "\u00d6sterreich"
+    },
+    {
+        "en": "Salzburg",
+        "en:t": "Austria",
+        "a": true,
+        "g": {
+            "lat": 47.8095,
+            "lon": 13.055
+        },
+        "it": "Salisburgo",
+        "it:t": "Austria | Salzburg",
+        "es": "Salzburgo",
+        "es:t": "Austria | Salzburg",
+        "de": "Salzburg",
+        "de:t": "\u00d6sterreich"
+    },
+    {
+        "en": "Schwechat",
+        "en:t": "Austria | Wien-Umgebung District",
+        "a": true,
+        "g": {
+            "lat": 48.1409,
+            "lon": 16.4764
+        },
+        "it": "Schwechat",
+        "it:t": "Austria | Distretto di Wien-Umgebung",
+        "es": "Schwechat",
+        "es:t": "Austria | Distrito de Wien-Umgebung",
+        "de": "Schwechat",
+        "de:t": "\u00d6sterreich | Wien-Umgebung"
+    },
+    {
+        "en": "Spittal an der Drau",
+        "en:t": "Austria | Spittal an der Drau District",
+        "a": true,
+        "g": {
+            "lat": 46.7997,
+            "lon": 13.4928
+        },
+        "it": "Spittal an der Drau",
+        "it:t": "Austria | Distretto di Spittal an der Drau",
+        "es": "Spittal an der Drau",
+        "es:t": "Austria | Distrito de Spittal an der Drau",
+        "de": "Spittal an der Drau",
+        "de:t": "\u00d6sterreich | Gemeinde Mallnitz"
+    },
+    {
+        "en": "Steyr",
+        "en:t": "Austria",
+        "a": true,
+        "g": {
+            "lat": 48.0501,
+            "lon": 14.4183
+        },
+        "it": "Steyr",
+        "it:t": "Austria",
+        "es": "Steyr",
+        "es:t": "Austria",
+        "de": "Steyr",
+        "de:t": "\u00d6sterreich"
+    },
+    {
+        "en": "Ternitz",
+        "en:t": "Austria | Neunkirchen District",
+        "a": true,
+        "g": {
+            "lat": 47.7133,
+            "lon": 16.0315
+        },
+        "it": "Ternitz",
+        "it:t": "Austria | Distretto di Neunkirchen",
+        "es": "Ternitz",
+        "es:t": "Austria | Distrito de Neunkirchen",
+        "de": "Ternitz",
+        "de:t": "\u00d6sterreich | Neunkirchen"
+    },
+    {
+        "en": "Traiskirchen",
+        "en:t": "Austria | Baden District",
+        "a": true,
+        "g": {
+            "lat": 48.016,
+            "lon": 16.294
+        },
+        "it": "Traiskirchen",
+        "it:t": "Austria | Distretto di Baden",
+        "es": "Traiskirchen",
+        "es:t": "Austria | Distrito de Baden",
+        "de": "Traiskirchen",
+        "de:t": "\u00d6sterreich | Baden"
+    },
+    {
+        "en": "Traun",
+        "en:t": "Austria | Linz-Land District",
+        "a": true,
+        "g": {
+            "lat": 48.2211,
+            "lon": 14.2368
+        },
+        "it": "Traun",
+        "it:t": "Austria | Distretto di Linz-Land",
+        "es": "Traun",
+        "es:t": "Austria | Linz-Land District",
+        "de": "Traun",
+        "de:t": "\u00d6sterreich | Linz-Land"
+    },
+    {
+        "en": "Vienna",
+        "en:t": "Austria",
+        "a": true,
+        "g": {
+            "lat": 48.2082,
+            "lon": 16.3738
+        },
+        "it": "Vienna",
+        "it:t": "Austria",
+        "es": "Viena",
+        "es:t": "Austria",
+        "de": "Wien",
+        "de:t": "\u00d6sterreich"
+    },
+    {
+        "en": "Villach",
+        "en:t": "Austria",
+        "a": true,
+        "g": {
+            "lat": 46.6086,
+            "lon": 13.8506
+        },
+        "it": "Villaco",
+        "it:t": "Austria | Villach",
+        "es": "Villach",
+        "es:t": "Austria",
+        "de": "Villach",
+        "de:t": "\u00d6sterreich"
+    },
+    {
+        "en": "Weinzierl am Walde",
+        "en:t": "Austria | Krems-Land District",
+        "a": true,
+        "g": {
+            "lat": 48.4326,
+            "lon": 15.4325
+        },
+        "it": "Weinzierl am Walde",
+        "it:t": "Austria | Distretto di Krems-Land",
+        "es": "Weinzierl am Walde",
+        "es:t": "Austria | Distrito de Krems-Land",
+        "de": "Weinzierl am Walde",
+        "de:t": "\u00d6sterreich | Krems-Land"
+    },
+    {
+        "en": "Wels",
+        "en:t": "Austria",
+        "a": true,
+        "g": {
+            "lat": 48.1654,
+            "lon": 14.0366
+        },
+        "it": "Wels",
+        "it:t": "Austria",
+        "es": "Wels",
+        "es:t": "Austria",
+        "de": "Wels",
+        "de:t": "\u00d6sterreich"
+    },
+    {
+        "en": "Wiener Neustadt",
+        "en:t": "Austria",
+        "a": true,
+        "g": {
+            "lat": 47.8028,
+            "lon": 16.2332
+        },
+        "it": "Wiener Neustadt",
+        "it:t": "Austria",
+        "es": "Wiener Neustadt",
+        "es:t": "Austria",
+        "de": "Wiener Neustadt",
+        "de:t": "\u00d6sterreich"
+    },
+    {
+        "en": "Wolfsberg",
+        "en:t": "Austria | Wolfsberg District",
+        "a": true,
+        "g": {
+            "lat": 46.8401,
+            "lon": 14.8428
+        },
+        "it": "Wolfsberg",
+        "it:t": "Austria | Distretto di Wolfsberg",
+        "es": "Wolfsberg",
+        "es:t": "Austria | Distrito de Wolfsberg",
+        "de": "Wolfsberg",
+        "de:t": "\u00d6sterreich"
+    }
+]

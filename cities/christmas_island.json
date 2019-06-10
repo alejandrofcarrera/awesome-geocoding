@@ -1,0 +1,17 @@
+[
+    {
+        "en": "Murray Road",
+        "en:t": "Christmas Island | Flying Fish Cove",
+        "a": true,
+        "g": {
+            "lat": -10.4165,
+            "lon": 105.6749
+        },
+        "it": "Flying Fish Cove",
+        "it:t": "Isola di Natale",
+        "es": "Flying Fish Cove",
+        "es:t": "Isla de Navidad",
+        "de": "Flying Fish Cove",
+        "de:t": "Weihnachtsinsel"
+    }
+]

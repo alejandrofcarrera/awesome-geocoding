@@ -1,0 +1,1007 @@
+[
+    {
+        "en": "Anjala",
+        "en:t": "Finland",
+        "a": true,
+        "g": {
+            "lat": 60.6887,
+            "lon": 26.808
+        },
+        "it": "Anjala",
+        "it:t": "Finlandia",
+        "es": "Anjala",
+        "es:t": "Finlandia",
+        "de": "Anjala",
+        "de:t": "Finnland"
+    },
+    {
+        "en": "Espoo",
+        "en:t": "Finland",
+        "a": true,
+        "g": {
+            "lat": 60.2055,
+            "lon": 24.6559
+        },
+        "it": "Espoo",
+        "it:t": "Finlandia",
+        "es": "Espoo",
+        "es:t": "Finlandia",
+        "de": "Espoo",
+        "de:t": "Finnland"
+    },
+    {
+        "en": "Forssa",
+        "en:t": "Finland",
+        "a": true,
+        "g": {
+            "lat": 60.8146,
+            "lon": 23.6339
+        },
+        "it": "Forssa",
+        "it:t": "Finlandia",
+        "es": "Forssa",
+        "es:t": "Finlandia",
+        "de": "Forssa",
+        "de:t": "Finnland"
+    },
+    {
+        "en": "Hamina",
+        "en:t": "Finland",
+        "a": true,
+        "g": {
+            "lat": 60.5693,
+            "lon": 27.1878
+        },
+        "it": "Hamina",
+        "it:t": "Finlandia",
+        "es": "Hamina",
+        "es:t": "Finlandia",
+        "de": "Hamina",
+        "de:t": "Finnland"
+    },
+    {
+        "en": "Haukipudas",
+        "en:t": "Finland",
+        "a": true,
+        "g": {
+            "lat": 65.1763,
+            "lon": 25.3532
+        },
+        "it": "Haukipudas",
+        "it:t": "Finlandia",
+        "es": "Haukipudas",
+        "es:t": "Finlandia",
+        "de": "Haukipudas",
+        "de:t": "Finnland"
+    },
+    {
+        "en": "Heinola",
+        "en:t": "Finland",
+        "a": true,
+        "g": {
+            "lat": 61.2102,
+            "lon": 26.0458
+        },
+        "it": "Heinola",
+        "it:t": "Finlandia",
+        "es": "Heinola",
+        "es:t": "Finlandia",
+        "de": "Heinola",
+        "de:t": "Finnland"
+    },
+    {
+        "en": "Helsinki",
+        "en:t": "Finland",
+        "a": true,
+        "g": {
+            "lat": 60.1699,
+            "lon": 24.9384
+        },
+        "it": "Helsinki",
+        "it:t": "Finlandia",
+        "es": "Helsinki",
+        "es:t": "Finlandia",
+        "de": "Helsinki",
+        "de:t": "Finnland"
+    },
+    {
+        "en": "Hollola",
+        "en:t": "Finland",
+        "a": true,
+        "g": {
+            "lat": 60.9887,
+            "lon": 25.5163
+        },
+        "it": "Hollola",
+        "it:t": "Finlandia",
+        "es": "Hollola",
+        "es:t": "Finlandia",
+        "de": "Hollola",
+        "de:t": "Finnland"
+    },
+    {
+        "en": "Hyvink\u00e4\u00e4",
+        "en:t": "Finland",
+        "a": true,
+        "g": {
+            "lat": 60.63,
+            "lon": 24.8581
+        },
+        "it": "Hyvink\u00e4\u00e4",
+        "it:t": "Finlandia",
+        "es": "Hyvink\u00e4\u00e4",
+        "es:t": "Finlandia",
+        "de": "Hyvink\u00e4\u00e4",
+        "de:t": "Finnland"
+    },
+    {
+        "en": "H\u00e4meenlinna",
+        "en:t": "Finland",
+        "a": true,
+        "g": {
+            "lat": 60.9929,
+            "lon": 24.459
+        },
+        "it": "H\u00e4meenlinna",
+        "it:t": "Finlandia",
+        "es": "H\u00e4meenlinna",
+        "es:t": "Finlandia",
+        "de": "H\u00e4meenlinna",
+        "de:t": "Finnland"
+    },
+    {
+        "en": "Iisalmi",
+        "en:t": "Finland",
+        "a": true,
+        "g": {
+            "lat": 63.5694,
+            "lon": 27.1826
+        },
+        "it": "Iisalmi",
+        "it:t": "Finlandia",
+        "es": "Iisalmi",
+        "es:t": "Finlandia",
+        "de": "Iisalmi",
+        "de:t": "Finnland"
+    },
+    {
+        "en": "Imatra",
+        "en:t": "Finland",
+        "a": true,
+        "g": {
+            "lat": 61.1696,
+            "lon": 28.7645
+        },
+        "it": "Imatra",
+        "it:t": "Finlandia",
+        "es": "Imatra",
+        "es:t": "Finlandia",
+        "de": "Imatra",
+        "de:t": "Finnland"
+    },
+    {
+        "en": "Jakobstad",
+        "en:t": "Finland",
+        "a": true,
+        "g": {
+            "lat": 63.6744,
+            "lon": 22.6966
+        },
+        "it": "Jakobstad",
+        "it:t": "Finlandia",
+        "es": "Jakobstad",
+        "es:t": "Finlandia",
+        "de": "Jakobstad",
+        "de:t": "Finnland"
+    },
+    {
+        "en": "Janakkala",
+        "en:t": "Finland",
+        "a": true,
+        "g": {
+            "lat": 60.9201,
+            "lon": 24.646
+        },
+        "it": "Janakkala",
+        "it:t": "Finlandia",
+        "es": "Janakkala",
+        "es:t": "Finlandia",
+        "de": "Janakkala",
+        "de:t": "Finnland"
+    },
+    {
+        "en": "Joensuu",
+        "en:t": "Finland",
+        "a": true,
+        "g": {
+            "lat": 62.601,
+            "lon": 29.7636
+        },
+        "it": "Joensuu",
+        "it:t": "Finlandia",
+        "es": "Joensuu",
+        "es:t": "Finlandia",
+        "de": "Joensuu",
+        "de:t": "Finnland"
+    },
+    {
+        "en": "Jyv\u00e4skyl\u00e4",
+        "en:t": "Finland",
+        "a": true,
+        "g": {
+            "lat": 62.2426,
+            "lon": 25.7473
+        },
+        "it": "Jyv\u00e4skyl\u00e4",
+        "it:t": "Finlandia",
+        "es": "Jyv\u00e4skyl\u00e4",
+        "es:t": "Finlandia",
+        "de": "Jyv\u00e4skyl\u00e4",
+        "de:t": "Finnland"
+    },
+    {
+        "en": "J\u00e4ms\u00e4",
+        "en:t": "Finland",
+        "a": true,
+        "g": {
+            "lat": 61.862,
+            "lon": 25.1802
+        },
+        "it": "J\u00e4ms\u00e4",
+        "it:t": "Finlandia",
+        "es": "J\u00e4ms\u00e4",
+        "es:t": "Finlandia",
+        "de": "J\u00e4ms\u00e4",
+        "de:t": "Finnland"
+    },
+    {
+        "en": "J\u00e4rvenp\u00e4\u00e4",
+        "en:t": "Finland",
+        "a": true,
+        "g": {
+            "lat": 60.4748,
+            "lon": 25.0971
+        },
+        "it": "J\u00e4rvenp\u00e4\u00e4",
+        "it:t": "Finlandia",
+        "es": "J\u00e4rvenp\u00e4\u00e4",
+        "es:t": "Finlandia",
+        "de": "J\u00e4rvenp\u00e4\u00e4",
+        "de:t": "Finnland"
+    },
+    {
+        "en": "Kaarina",
+        "en:t": "Finland",
+        "a": true,
+        "g": {
+            "lat": 60.4095,
+            "lon": 22.3841
+        },
+        "it": "Kaarina",
+        "it:t": "Finlandia",
+        "es": "Kaarina",
+        "es:t": "Finlandia",
+        "de": "Kaarina",
+        "de:t": "Finnland"
+    },
+    {
+        "en": "Kajaani",
+        "en:t": "Finland",
+        "a": true,
+        "g": {
+            "lat": 64.2222,
+            "lon": 27.7278
+        },
+        "it": "Kajaani",
+        "it:t": "Finlandia",
+        "es": "Kajaani",
+        "es:t": "Finlandia",
+        "de": "Kajaani",
+        "de:t": "Finnland"
+    },
+    {
+        "en": "Kangasala",
+        "en:t": "Finland",
+        "a": true,
+        "g": {
+            "lat": 61.4692,
+            "lon": 24.0399
+        },
+        "it": "Kangasala",
+        "it:t": "Finlandia",
+        "es": "Kangasala",
+        "es:t": "Finlandia",
+        "de": "Kangasala",
+        "de:t": "Finnland"
+    },
+    {
+        "en": "Karhula",
+        "en:t": "Finland | Kotka",
+        "a": true,
+        "g": {
+            "lat": 60.5151,
+            "lon": 26.9351
+        },
+        "it": "Karhula",
+        "it:t": "Finlandia | Kotka",
+        "es": "Karhula",
+        "es:t": "Finlandia | Kotka",
+        "de": "Karhula",
+        "de:t": "Finnland | Kotka"
+    },
+    {
+        "en": "Kemi",
+        "en:t": "Finland",
+        "a": true,
+        "g": {
+            "lat": 65.7356,
+            "lon": 24.5657
+        },
+        "it": "Kemi",
+        "it:t": "Finlandia",
+        "es": "Kemi",
+        "es:t": "Finlandia",
+        "de": "Kemi",
+        "de:t": "Finnland"
+    },
+    {
+        "en": "Kerava",
+        "en:t": "Finland",
+        "a": true,
+        "g": {
+            "lat": 60.401,
+            "lon": 25.102
+        },
+        "it": "Kerava",
+        "it:t": "Finlandia",
+        "es": "Kerava",
+        "es:t": "Finlandia",
+        "de": "Kerava",
+        "de:t": "Finnland"
+    },
+    {
+        "en": "Kirkkonummi",
+        "en:t": "Finland",
+        "a": true,
+        "g": {
+            "lat": 60.1235,
+            "lon": 24.4413
+        },
+        "it": "Kirkkonummi",
+        "it:t": "Finlandia",
+        "es": "Kirkkonummi",
+        "es:t": "Finlandia",
+        "de": "Kirkkonummi",
+        "de:t": "Finnland"
+    },
+    {
+        "en": "Kokkola",
+        "en:t": "Finland",
+        "a": true,
+        "g": {
+            "lat": 63.8415,
+            "lon": 23.125
+        },
+        "it": "Kokkola",
+        "it:t": "Finlandia",
+        "es": "Kokkola",
+        "es:t": "Finlandia",
+        "de": "Kokkola",
+        "de:t": "Finnland"
+    },
+    {
+        "en": "Korsholm",
+        "en:t": "Finland",
+        "a": true,
+        "g": {
+            "lat": 63.1141,
+            "lon": 21.6822
+        },
+        "it": "Korsholm",
+        "it:t": "Finlandia",
+        "es": "Korsholm",
+        "es:t": "Finlandia",
+        "de": "Korsholm",
+        "de:t": "Finnland"
+    },
+    {
+        "en": "Kotka",
+        "en:t": "Finland",
+        "a": true,
+        "g": {
+            "lat": 60.4666,
+            "lon": 26.9459
+        },
+        "it": "Kotka",
+        "it:t": "Finlandia",
+        "es": "Kotka",
+        "es:t": "Finlandia",
+        "de": "Kotka",
+        "de:t": "Finnland"
+    },
+    {
+        "en": "Kouvola",
+        "en:t": "Finland",
+        "a": true,
+        "g": {
+            "lat": 60.8679,
+            "lon": 26.7042
+        },
+        "it": "Kouvola",
+        "it:t": "Finlandia",
+        "es": "Kouvola",
+        "es:t": "Finlandia",
+        "de": "Kouvola",
+        "de:t": "Finnland"
+    },
+    {
+        "en": "Kuopio",
+        "en:t": "Finland",
+        "a": true,
+        "g": {
+            "lat": 62.898,
+            "lon": 27.6782
+        },
+        "it": "Kuopio",
+        "it:t": "Finlandia",
+        "es": "Kuopio",
+        "es:t": "Finlandia",
+        "de": "Kuopio",
+        "de:t": "Finnland"
+    },
+    {
+        "en": "Kuusamo",
+        "en:t": "Finland",
+        "a": true,
+        "g": {
+            "lat": 65.9646,
+            "lon": 29.1887
+        },
+        "it": "Kuusamo",
+        "it:t": "Finlandia",
+        "es": "Kuusamo",
+        "es:t": "Finlandia",
+        "de": "Kuusamo",
+        "de:t": "Finnland"
+    },
+    {
+        "en": "Lahti",
+        "en:t": "Finland",
+        "a": true,
+        "g": {
+            "lat": 60.9827,
+            "lon": 25.6612
+        },
+        "it": "Lahti",
+        "it:t": "Finlandia",
+        "es": "Lahti",
+        "es:t": "Finlandia",
+        "de": "Lahti",
+        "de:t": "Finnland"
+    },
+    {
+        "en": "Lappeenranta",
+        "en:t": "Finland",
+        "a": true,
+        "g": {
+            "lat": 61.055,
+            "lon": 28.1897
+        },
+        "it": "Lappeenranta",
+        "it:t": "Finlandia",
+        "es": "Lappeenranta",
+        "es:t": "Finlandia",
+        "de": "Lappeenranta",
+        "de:t": "Finnland"
+    },
+    {
+        "en": "Lemp\u00e4\u00e4l\u00e4",
+        "en:t": "Finland",
+        "a": true,
+        "g": {
+            "lat": 61.3141,
+            "lon": 23.7524
+        },
+        "it": "Lemp\u00e4\u00e4l\u00e4",
+        "it:t": "Finlandia",
+        "es": "Lemp\u00e4\u00e4l\u00e4",
+        "es:t": "Finlandia",
+        "de": "Lemp\u00e4\u00e4l\u00e4",
+        "de:t": "Finnland"
+    },
+    {
+        "en": "Lieto",
+        "en:t": "Finland",
+        "a": true,
+        "g": {
+            "lat": 60.5009,
+            "lon": 22.4613
+        },
+        "it": "Lieto",
+        "it:t": "Finlandia",
+        "es": "Lieto",
+        "es:t": "Finlandia",
+        "de": "Lieto",
+        "de:t": "Finnland"
+    },
+    {
+        "en": "Lohja",
+        "en:t": "Finland",
+        "a": true,
+        "g": {
+            "lat": 60.2512,
+            "lon": 24.0675
+        },
+        "it": "Lohja",
+        "it:t": "Finlandia",
+        "es": "Lohja",
+        "es:t": "Finlandia",
+        "de": "Lohja",
+        "de:t": "Finnland"
+    },
+    {
+        "en": "Lovisa",
+        "en:t": "Finland",
+        "a": true,
+        "g": {
+            "lat": 60.4579,
+            "lon": 26.2278
+        },
+        "it": "Loviisa",
+        "it:t": "Finlandia",
+        "es": "Loviisa",
+        "es:t": "Finlandia",
+        "de": "Loviisa",
+        "de:t": "Finnland"
+    },
+    {
+        "en": "Mikkeli",
+        "en:t": "Finland",
+        "a": true,
+        "g": {
+            "lat": 61.6887,
+            "lon": 27.2721
+        },
+        "it": "Mikkeli",
+        "it:t": "Finlandia",
+        "es": "Mikkeli",
+        "es:t": "Finlandia",
+        "de": "Mikkeli",
+        "de:t": "Finnland"
+    },
+    {
+        "en": "M\u00e4nts\u00e4l\u00e4",
+        "en:t": "Finland",
+        "a": true,
+        "g": {
+            "lat": 60.6375,
+            "lon": 25.3189
+        },
+        "it": "M\u00e4nts\u00e4l\u00e4",
+        "it:t": "Finlandia",
+        "es": "M\u00e4nts\u00e4l\u00e4",
+        "es:t": "Finlandia",
+        "de": "M\u00e4nts\u00e4l\u00e4",
+        "de:t": "Finnland"
+    },
+    {
+        "en": "Nokia",
+        "en:t": "Finland",
+        "a": true,
+        "g": {
+            "lat": 61.4803,
+            "lon": 23.5012
+        },
+        "it": "Nokia",
+        "it:t": "Finlandia",
+        "es": "Nokia",
+        "es:t": "Finlandia",
+        "de": "Nokia",
+        "de:t": "Finnland"
+    },
+    {
+        "en": "Nurmij\u00e4rvi",
+        "en:t": "Finland",
+        "a": true,
+        "g": {
+            "lat": 60.4655,
+            "lon": 24.8072
+        },
+        "it": "Nurmij\u00e4rvi",
+        "it:t": "Finlandia",
+        "es": "Nurmij\u00e4rvi",
+        "es:t": "Finlandia",
+        "de": "Nurmij\u00e4rvi",
+        "de:t": "Finnland"
+    },
+    {
+        "en": "Oulu",
+        "en:t": "Finland",
+        "a": true,
+        "g": {
+            "lat": 65.0121,
+            "lon": 25.4651
+        },
+        "it": "Oulu",
+        "it:t": "Finlandia",
+        "es": "Oulu",
+        "es:t": "Finlandia",
+        "de": "Oulu",
+        "de:t": "Finnland"
+    },
+    {
+        "en": "Pargas",
+        "en:t": "Finland",
+        "a": true,
+        "g": {
+            "lat": 60.3011,
+            "lon": 22.3022
+        },
+        "it": "Pargas",
+        "it:t": "Finlandia",
+        "es": "Pargas",
+        "es:t": "Finlandia",
+        "de": "Pargas",
+        "de:t": "Finnland"
+    },
+    {
+        "en": "Pirkkala",
+        "en:t": "Finland",
+        "a": true,
+        "g": {
+            "lat": 61.4669,
+            "lon": 23.6415
+        },
+        "it": "Pirkkala",
+        "it:t": "Finlandia",
+        "es": "Pirkkala",
+        "es:t": "Finlandia",
+        "de": "Pirkkala",
+        "de:t": "Finnland"
+    },
+    {
+        "en": "Pori",
+        "en:t": "Finland",
+        "a": true,
+        "g": {
+            "lat": 61.4851,
+            "lon": 21.7974
+        },
+        "it": "Pori",
+        "it:t": "Finlandia",
+        "es": "Pori",
+        "es:t": "Finlandia",
+        "de": "Pori",
+        "de:t": "Finnland"
+    },
+    {
+        "en": "Porvoo",
+        "en:t": "Finland",
+        "a": true,
+        "g": {
+            "lat": 60.3932,
+            "lon": 25.6653
+        },
+        "it": "Porvoo",
+        "it:t": "Finlandia",
+        "es": "Porvoo",
+        "es:t": "Finlandia",
+        "de": "Porvoo",
+        "de:t": "Finnland"
+    },
+    {
+        "en": "Raahe",
+        "en:t": "Finland",
+        "a": true,
+        "g": {
+            "lat": 64.684,
+            "lon": 24.4884
+        },
+        "it": "Raahe",
+        "it:t": "Finlandia",
+        "es": "Raahe",
+        "es:t": "Finlandia",
+        "de": "Raahe",
+        "de:t": "Finnland"
+    },
+    {
+        "en": "Raisio",
+        "en:t": "Finland",
+        "a": true,
+        "g": {
+            "lat": 60.4859,
+            "lon": 22.1689
+        },
+        "it": "Raisio",
+        "it:t": "Finlandia",
+        "es": "Raisio",
+        "es:t": "Finlandia",
+        "de": "Raisio",
+        "de:t": "Finnland"
+    },
+    {
+        "en": "Rauma",
+        "en:t": "Finland",
+        "a": true,
+        "g": {
+            "lat": 61.1309,
+            "lon": 21.5059
+        },
+        "it": "Rauma",
+        "it:t": "Finlandia",
+        "es": "Rauma",
+        "es:t": "Finlandia",
+        "de": "Rauma",
+        "de:t": "Finnland"
+    },
+    {
+        "en": "Riihim\u00e4ki",
+        "en:t": "Finland",
+        "a": true,
+        "g": {
+            "lat": 60.7373,
+            "lon": 24.7549
+        },
+        "it": "Riihim\u00e4ki",
+        "it:t": "Finlandia",
+        "es": "Riihim\u00e4ki",
+        "es:t": "Finlandia",
+        "de": "Riihim\u00e4ki",
+        "de:t": "Finnland"
+    },
+    {
+        "en": "Rovaniemi",
+        "en:t": "Finland",
+        "a": true,
+        "g": {
+            "lat": 66.5039,
+            "lon": 25.7294
+        },
+        "it": "Rovaniemi",
+        "it:t": "Finlandia",
+        "es": "Rovaniemi",
+        "es:t": "Finlandia",
+        "de": "Rovaniemi",
+        "de:t": "Finnland"
+    },
+    {
+        "en": "Salo",
+        "en:t": "Finland",
+        "a": true,
+        "g": {
+            "lat": 60.39,
+            "lon": 23.1172
+        },
+        "it": "Sal\u00f2",
+        "it:t": "Finlandia",
+        "es": "Salo",
+        "es:t": "Finlandia",
+        "de": "Salo",
+        "de:t": "Finnland"
+    },
+    {
+        "en": "Savonlinna",
+        "en:t": "Finland",
+        "a": true,
+        "g": {
+            "lat": 61.868,
+            "lon": 28.8864
+        },
+        "it": "Savonlinna",
+        "it:t": "Finlandia",
+        "es": "Savonlinna",
+        "es:t": "Finlandia",
+        "de": "Savonlinna",
+        "de:t": "Finnland"
+    },
+    {
+        "en": "Sein\u00e4joki",
+        "en:t": "Finland",
+        "a": true,
+        "g": {
+            "lat": 62.7877,
+            "lon": 22.8504
+        },
+        "it": "Sein\u00e4joki",
+        "it:t": "Finlandia",
+        "es": "Sein\u00e4joki",
+        "es:t": "Finlandia",
+        "de": "Sein\u00e4joki",
+        "de:t": "Finnland"
+    },
+    {
+        "en": "Siilinj\u00e4rvi",
+        "en:t": "Finland",
+        "a": true,
+        "g": {
+            "lat": 63.0737,
+            "lon": 27.6619
+        },
+        "it": "Siilinj\u00e4rvi",
+        "it:t": "Finlandia",
+        "es": "Siilinj\u00e4rvi",
+        "es:t": "Finlandia",
+        "de": "Siilinj\u00e4rvi",
+        "de:t": "Finnland"
+    },
+    {
+        "en": "Sipoo",
+        "en:t": "Finland",
+        "a": true,
+        "g": {
+            "lat": 60.3768,
+            "lon": 25.269
+        },
+        "it": "Sipoo",
+        "it:t": "Finlandia",
+        "es": "Sipoo",
+        "es:t": "Finlandia",
+        "de": "Sipoo",
+        "de:t": "Finnland"
+    },
+    {
+        "en": "Tampere",
+        "en:t": "Finland",
+        "a": true,
+        "g": {
+            "lat": 61.4978,
+            "lon": 23.761
+        },
+        "it": "Tampere",
+        "it:t": "Finlandia",
+        "es": "Tampere",
+        "es:t": "Finlandia",
+        "de": "Tampere",
+        "de:t": "Finnland"
+    },
+    {
+        "en": "Tornio",
+        "en:t": "Finland",
+        "a": true,
+        "g": {
+            "lat": 65.8473,
+            "lon": 24.152
+        },
+        "it": "Tornio",
+        "it:t": "Finlandia",
+        "es": "Tornio",
+        "es:t": "Finlandia",
+        "de": "Tornio",
+        "de:t": "Finnland"
+    },
+    {
+        "en": "Turku",
+        "en:t": "Finland",
+        "a": true,
+        "g": {
+            "lat": 60.4518,
+            "lon": 22.2666
+        },
+        "it": "Turku",
+        "it:t": "Finlandia",
+        "es": "Turku",
+        "es:t": "Finlandia",
+        "de": "Turku",
+        "de:t": "Finnland"
+    },
+    {
+        "en": "Tuusula",
+        "en:t": "Finland",
+        "a": true,
+        "g": {
+            "lat": 60.404,
+            "lon": 25.0131
+        },
+        "it": "Tuusula",
+        "it:t": "Finlandia",
+        "es": "Tuusula",
+        "es:t": "Finlandia",
+        "de": "Tuusula",
+        "de:t": "Finnland"
+    },
+    {
+        "en": "Uusikaupunki",
+        "en:t": "Finland",
+        "a": true,
+        "g": {
+            "lat": 60.8076,
+            "lon": 21.4027
+        },
+        "it": "Uusikaupunki",
+        "it:t": "Finlandia",
+        "es": "Uusikaupunki",
+        "es:t": "Finlandia",
+        "de": "Uusikaupunki",
+        "de:t": "Finnland"
+    },
+    {
+        "en": "Vaasa",
+        "en:t": "Finland",
+        "a": true,
+        "g": {
+            "lat": 63.0951,
+            "lon": 21.6165
+        },
+        "it": "Vaasa",
+        "it:t": "Finlandia",
+        "es": "Vaasa",
+        "es:t": "Finlandia",
+        "de": "Vaasa",
+        "de:t": "Finnland"
+    },
+    {
+        "en": "Valkeakoski",
+        "en:t": "Finland",
+        "a": true,
+        "g": {
+            "lat": 61.2712,
+            "lon": 24.0333
+        },
+        "it": "Valkeakoski",
+        "it:t": "Finlandia",
+        "es": "Valkeakoski",
+        "es:t": "Finlandia",
+        "de": "Valkeakoski",
+        "de:t": "Finnland"
+    },
+    {
+        "en": "Vantaa",
+        "en:t": "Finland",
+        "a": true,
+        "g": {
+            "lat": 60.2934,
+            "lon": 25.0378
+        },
+        "it": "Vantaa",
+        "it:t": "Finlandia",
+        "es": "Vantaa",
+        "es:t": "Finlandia",
+        "de": "Vantaa",
+        "de:t": "Finnland"
+    },
+    {
+        "en": "Varkaus",
+        "en:t": "Finland",
+        "a": true,
+        "g": {
+            "lat": 62.3247,
+            "lon": 27.8961
+        },
+        "it": "Varkaus",
+        "it:t": "Finlandia",
+        "es": "Varkaus",
+        "es:t": "Finlandia",
+        "de": "Varkaus",
+        "de:t": "Finnland"
+    },
+    {
+        "en": "Vihti",
+        "en:t": "Finland",
+        "a": true,
+        "g": {
+            "lat": 60.4166,
+            "lon": 24.3256
+        },
+        "it": "Vihti",
+        "it:t": "Finlandia",
+        "es": "Vihti",
+        "es:t": "Finlandia",
+        "de": "Vihti",
+        "de:t": "Finnland"
+    },
+    {
+        "en": "Yl\u00f6j\u00e4rvi",
+        "en:t": "Finland",
+        "a": true,
+        "g": {
+            "lat": 61.5496,
+            "lon": 23.5961
+        },
+        "it": "Yl\u00f6j\u00e4rvi",
+        "it:t": "Finlandia",
+        "es": "Yl\u00f6j\u00e4rvi",
+        "es:t": "Finlandia",
+        "de": "Yl\u00f6j\u00e4rvi",
+        "de:t": "Finnland"
+    }
+]

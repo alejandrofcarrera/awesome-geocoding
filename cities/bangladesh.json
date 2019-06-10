@@ -1,0 +1,1292 @@
+[
+    {
+        "en": "Azimpur",
+        "en:t": "Bangladesh | Lalbagh",
+        "a": true,
+        "g": {
+            "lat": 23.7286,
+            "lon": 90.3854
+        },
+        "it": "Azimpur",
+        "it:t": "Bangladesh | Lalbagh",
+        "es": "Azimpur",
+        "es:t": "Bangladesh | Lalbagh",
+        "de": "Azimpur",
+        "de:t": "Bangladesch | Lalbagh"
+    },
+    {
+        "en": "Badarganj",
+        "en:t": "Bangladesh | Rangpur District",
+        "a": true,
+        "g": {
+            "lat": 25.654,
+            "lon": 89.0705
+        },
+        "it": "Badarganj",
+        "it:t": "Bangladesh | Distretto di Rangpur",
+        "es": "Badarganj",
+        "es:t": "Bangladesh | Rangpur District",
+        "de": "Badarganj",
+        "de:t": "Bangladesch | Rangpur District"
+    },
+    {
+        "en": "Bajitpur",
+        "en:t": "Bangladesh | Kishoreganj District",
+        "a": true,
+        "g": {
+            "lat": 24.2138,
+            "lon": 90.9522
+        },
+        "it": "Bajitpur",
+        "it:t": "Bangladesh | Kishoreganj District",
+        "es": "Bajitpur",
+        "es:t": "Bangladesh | Kishoreganj District",
+        "de": "Bajitpur",
+        "de:t": "Bangladesch | Kishoreganj District"
+    },
+    {
+        "en": "Bandarban",
+        "en:t": "Bangladesh | Bandarban District",
+        "a": true,
+        "g": {
+            "lat": 22.1936,
+            "lon": 92.2187
+        },
+        "it": "Bandarban",
+        "it:t": "Bangladesh | Bandarban District",
+        "es": "Bandarban",
+        "es:t": "Bangladesh | Bandarban District",
+        "de": "Bandarban",
+        "de:t": "Bangladesch"
+    },
+    {
+        "en": "Baniachong",
+        "en:t": "Bangladesh | Habiganj District",
+        "a": true,
+        "g": {
+            "lat": 24.5063,
+            "lon": 91.3566
+        },
+        "it": "Baniachong",
+        "it:t": "Bangladesh | Distretto di Habiganj",
+        "es": "Baniachong",
+        "es:t": "Bangladesh | Habiganj District",
+        "de": "Baniachong",
+        "de:t": "Bangladesch | Habiganj District"
+    },
+    {
+        "en": "Barisal",
+        "en:t": "Bangladesh | Barisal District",
+        "a": true,
+        "g": {
+            "lat": 22.701,
+            "lon": 90.3535
+        },
+        "it": "Barisal",
+        "it:t": "Bangladesh | Distretto di Barisal",
+        "es": "Barisal",
+        "es:t": "Bangladesh",
+        "de": "Barishal",
+        "de:t": "Bangladesch"
+    },
+    {
+        "en": "Bera",
+        "en:t": "Bangladesh | Pabna District",
+        "a": true,
+        "g": {
+            "lat": 24.0766,
+            "lon": 89.6146
+        },
+        "it": "Bera",
+        "it:t": "Bangladesh | Distretto di Pabna",
+        "es": "Bera",
+        "es:t": "Bangladesh | Pabna",
+        "de": "Bera",
+        "de:t": "Bangladesch | Pabna District"
+    },
+    {
+        "en": "Bhairab Bazar",
+        "en:t": "Bangladesh | Kishoreganj District",
+        "a": true,
+        "g": {
+            "lat": 24.0442,
+            "lon": 90.9857
+        },
+        "it": "Bhairab",
+        "it:t": "Bangladesh | Distretto di Kishoreganj",
+        "es": "Bhairab",
+        "es:t": "Bangladesh | Kishoreganj",
+        "de": "Bhairab",
+        "de:t": "Bangladesch | Kishoreganj District"
+    },
+    {
+        "en": "Bhandaria Upazila",
+        "en:t": "Bangladesh | Pirojpur District",
+        "a": true,
+        "g": {
+            "lat": 22.4411,
+            "lon": 90.0093
+        },
+        "it": "Bhandaria",
+        "it:t": "Bangladesh | Distretto di Pirojpur",
+        "es": "Bhandaria",
+        "es:t": "Bangladesh | Pirojpur",
+        "de": "Bhandaria Upazila",
+        "de:t": "Bangladesch | Pirojpur District"
+    },
+    {
+        "en": "Bhat Para Abhaynagar",
+        "en:t": "Bangladesh | Jessore District",
+        "a": true,
+        "g": {
+            "lat": 23.0211,
+            "lon": 89.4435
+        },
+        "it": "Bhat Para Abhaynagar",
+        "it:t": "Bangladesh | Jessore District",
+        "es": "Bhat Para Abhaynagar",
+        "es:t": "Bangladesh | Jessore District",
+        "de": "Bhat Para Abhaynagar",
+        "de:t": "Bangladesch | Jessore District"
+    },
+    {
+        "en": "Bheramara",
+        "en:t": "Bangladesh | Kushtia District",
+        "a": true,
+        "g": {
+            "lat": 24.021,
+            "lon": 88.9922
+        },
+        "it": "Bheramara",
+        "it:t": "Bangladesh | Distretto di Kushtia",
+        "es": "Bheramara",
+        "es:t": "Bangladesh | Kushtia District",
+        "de": "Bheramara",
+        "de:t": "Bangladesch | Kushtia District"
+    },
+    {
+        "en": "Bhola Sadar Upazila",
+        "en:t": "Bangladesh | Bhola District",
+        "a": true,
+        "g": {
+            "lat": 22.6902,
+            "lon": 90.6204
+        },
+        "it": "Distretto di Bhola",
+        "it:t": "Bangladesh | Divisione di Barisal",
+        "es": "Bhola",
+        "es:t": "Bangladesh | Barisal",
+        "de": "Bhola",
+        "de:t": "Bangladesch | Barishal"
+    },
+    {
+        "en": "Bogra",
+        "en:t": "Bangladesh | Bogra District",
+        "a": true,
+        "g": {
+            "lat": 24.8481,
+            "lon": 89.373
+        },
+        "it": "Bogra",
+        "it:t": "Bangladesh | Distretto di Bogra",
+        "es": "Bogra",
+        "es:t": "Bangladesh",
+        "de": "Bogra",
+        "de:t": "Bangladesch | Bogra District"
+    },
+    {
+        "en": "Chapai Nawabganj",
+        "en:t": "Bangladesh | Chapainawabganj District",
+        "a": true,
+        "g": {
+            "lat": 24.5797,
+            "lon": 88.2704
+        },
+        "it": "Chapai Nawabganj",
+        "it:t": "Bangladesh | Chapainawabganj District",
+        "es": "Chapai Nawabganj",
+        "es:t": "Bangladesh | Chapainawabganj District",
+        "de": "Chapai Nawabganj",
+        "de:t": "Bangladesch | Chapainawabganj District"
+    },
+    {
+        "en": "Charbhadrasan Upazila",
+        "en:t": "Bangladesh | Faridpur District",
+        "a": true,
+        "g": {
+            "lat": 23.5967,
+            "lon": 89.9813
+        },
+        "it": "Charbhadrasan",
+        "it:t": "Bangladesh | Distretto di Faridpur",
+        "es": "Charbhadrasan Upazila",
+        "es:t": "Bangladesh | Faridpur District",
+        "de": "Charbhadrasan Upazila",
+        "de:t": "Bangladesch | Faridpur District"
+    },
+    {
+        "en": "Chhagalnaiya",
+        "en:t": "Bangladesh | Feni District",
+        "a": true,
+        "g": {
+            "lat": 23.0386,
+            "lon": 91.5184
+        },
+        "it": "Chhagalnaiya",
+        "it:t": "Bangladesh | Distretto di Feni",
+        "es": "Chhagalnaiya",
+        "es:t": "Bangladesh | Feni",
+        "de": "Chhagalnaiya",
+        "de:t": "Bangladesch | Feni District"
+    },
+    {
+        "en": "Chilmari",
+        "en:t": "Bangladesh | Kurigram District",
+        "a": true,
+        "g": {
+            "lat": 25.581,
+            "lon": 89.6616
+        },
+        "it": "Chilmari",
+        "it:t": "Bangladesh | Distretto di Kurigram",
+        "es": "Chilmari",
+        "es:t": "Bangladesh | Kurigram District",
+        "de": "Chilmari",
+        "de:t": "Bangladesch | Kurigram District"
+    },
+    {
+        "en": "Chittagong",
+        "en:t": "Bangladesh | Chittagong District",
+        "a": true,
+        "g": {
+            "lat": 22.3569,
+            "lon": 91.7832
+        },
+        "it": "Chittagong",
+        "it:t": "Bangladesh | Distretto di Chittagong",
+        "es": "Chittagong",
+        "es:t": "Bangladesh",
+        "de": "Chittagong",
+        "de:t": "Bangladesch"
+    },
+    {
+        "en": "Cox's Bazar",
+        "en:t": "Bangladesh | Cox's Bazar District",
+        "a": true,
+        "g": {
+            "lat": 21.4272,
+            "lon": 92.0058
+        },
+        "it": "Cox's Bazar",
+        "it:t": "Bangladesh | Distretto di Cox's Bazar",
+        "es": "Cox's Bazar",
+        "es:t": "Bangladesh",
+        "de": "Cox\u2019s Bazar",
+        "de:t": "Bangladesch"
+    },
+    {
+        "en": "Dhaka",
+        "en:t": "Bangladesh | Dhaka District",
+        "a": true,
+        "g": {
+            "lat": 23.8103,
+            "lon": 90.4125
+        },
+        "it": "Dacca",
+        "it:t": "Bangladesh | Distretto di Dacca",
+        "es": "Daca",
+        "es:t": "Bangladesh | Dacca",
+        "de": "Narayanganj",
+        "de:t": "Bangladesch | Narayanganj District"
+    },
+    {
+        "en": "Dinajpur",
+        "en:t": "Bangladesh | Dinajpur District",
+        "a": true,
+        "g": {
+            "lat": 25.6221,
+            "lon": 88.6438
+        },
+        "it": "Dinajpur",
+        "it:t": "Bangladesh | Distretto di Dinajpur",
+        "es": "Dinajpur",
+        "es:t": "Bangladesh",
+        "de": "Dinajpur",
+        "de:t": "Bangladesch | Dinajpur District"
+    },
+    {
+        "en": "Dohar",
+        "en:t": "Bangladesh | Manikganj District",
+        "a": true,
+        "g": {
+            "lat": 23.6182,
+            "lon": 90.1197
+        },
+        "it": "Dohar",
+        "it:t": "Bangladesh | Manikganj District",
+        "es": "Daca",
+        "es:t": "Bangladesh | Dacca",
+        "de": "Dohar",
+        "de:t": "Bangladesch | Manikganj District"
+    },
+    {
+        "en": "Faridpur",
+        "en:t": "Bangladesh | Faridpur District",
+        "a": true,
+        "g": {
+            "lat": 23.6019,
+            "lon": 89.8333
+        },
+        "it": "Faridpur",
+        "it:t": "Bangladesh | Faridpur District",
+        "es": "Faridpur",
+        "es:t": "Bangladesh | Faridpur District",
+        "de": "Faridpur",
+        "de:t": "Bangladesch | Faridpur District"
+    },
+    {
+        "en": "Fatikchhari Upazila",
+        "en:t": "Bangladesh | Chittagong District",
+        "a": true,
+        "g": {
+            "lat": 22.7537,
+            "lon": 91.715
+        },
+        "it": "Fatikchhari",
+        "it:t": "Bangladesh | Distretto di Chittagong",
+        "es": "Fatikchhari",
+        "es:t": "Bangladesh | Chittagong",
+        "de": "Fatikchhari Upazila",
+        "de:t": "Bangladesch | Chittagong"
+    },
+    {
+        "en": "Feni",
+        "en:t": "Bangladesh | Feni District",
+        "a": true,
+        "g": {
+            "lat": 23.0159,
+            "lon": 91.3976
+        },
+        "it": "Feni",
+        "it:t": "Bangladesh | Distretto di Feni",
+        "es": "Chittagong",
+        "es:t": "Bangladesh",
+        "de": "Feni",
+        "de:t": "Bangladesch | Chittagong"
+    },
+    {
+        "en": "Gafargaon Upazila",
+        "en:t": "Bangladesh | Mymensingh District",
+        "a": true,
+        "g": {
+            "lat": 24.4572,
+            "lon": 90.5487
+        },
+        "it": "Gaffargaon",
+        "it:t": "Bangladesh | Distretto di Mymensingh",
+        "es": "Gafargaon Upazila",
+        "es:t": "Bangladesh | Mymensingh District",
+        "de": "Gafargaon",
+        "de:t": "Bangladesch | Mymensingh District"
+    },
+    {
+        "en": "Gournadi",
+        "en:t": "Bangladesh | Barisal District",
+        "a": true,
+        "g": {
+            "lat": 22.9742,
+            "lon": 90.2221
+        },
+        "it": "Gournadi",
+        "it:t": "Bangladesh | Barisal District",
+        "es": "Gournadi",
+        "es:t": "Bangladesh | Barisal District",
+        "de": "Gournadi",
+        "de:t": "Bangladesch | Barisal District"
+    },
+    {
+        "en": "Habiganj",
+        "en:t": "Bangladesh | Habiganj District",
+        "a": true,
+        "g": {
+            "lat": 24.384,
+            "lon": 91.4169
+        },
+        "it": "Habiganj",
+        "it:t": "Bangladesh | Habiganj District",
+        "es": "Habiganj",
+        "es:t": "Bangladesh | Habiganj District",
+        "de": "Habiganj",
+        "de:t": "Bangladesch"
+    },
+    {
+        "en": "Haziganj",
+        "en:t": "Bangladesh | Chandpur District",
+        "a": true,
+        "g": {
+            "lat": 23.252,
+            "lon": 90.8508
+        },
+        "it": "Haziganj",
+        "it:t": "Bangladesh | Chandpur District",
+        "es": "Hajiganj",
+        "es:t": "Bangladesh | Chandpur",
+        "de": "Haziganj",
+        "de:t": "Bangladesch | Chandpur District"
+    },
+    {
+        "en": "Ishwardi",
+        "en:t": "Bangladesh | Pabna District",
+        "a": true,
+        "g": {
+            "lat": 24.1292,
+            "lon": 89.0657
+        },
+        "it": "Ishwardi",
+        "it:t": "Bangladesh | Pabna District",
+        "es": "Ishwardi",
+        "es:t": "Bangladesh | Pabna District",
+        "de": "Ishwardi",
+        "de:t": "Bangladesch | Pabna District"
+    },
+    {
+        "en": "Jamalpur District",
+        "en:t": "Bangladesh | Dhaka Division",
+        "a": true,
+        "g": {
+            "lat": 25.0831,
+            "lon": 89.7853
+        },
+        "it": "Jamalpur",
+        "it:t": "Bangladesh | Jamalpur District",
+        "es": "Jamalpur",
+        "es:t": "Bangladesh | Jamalpur District",
+        "de": "Jamalpur",
+        "de:t": "Bangladesch | Dhaka"
+    },
+    {
+        "en": "Jessore District",
+        "en:t": "Bangladesh | Khulna Division",
+        "a": true,
+        "g": {
+            "lat": 23.1634,
+            "lon": 89.2182
+        },
+        "it": "Jessore",
+        "it:t": "Bangladesh | Distretto di Jessore",
+        "es": "Jessore",
+        "es:t": "Bangladesh | Jessore District",
+        "de": "Jessore",
+        "de:t": "Bangladesch"
+    },
+    {
+        "en": "Joypurhat",
+        "en:t": "Bangladesh | Jaipurhat District",
+        "a": true,
+        "g": {
+            "lat": 25.0968,
+            "lon": 89.0227
+        },
+        "it": "Distretto di Joypurhat",
+        "it:t": "Bangladesh",
+        "es": "Jaipurhat",
+        "es:t": "Bangladesh",
+        "de": "Joypurhat",
+        "de:t": "Bangladesch | Jaipurhat District"
+    },
+    {
+        "en": "Kalia Upazila",
+        "en:t": "Bangladesh | Narail District",
+        "a": true,
+        "g": {
+            "lat": 23.0246,
+            "lon": 89.644
+        },
+        "it": "Kalia",
+        "it:t": "Bangladesh | Narail District",
+        "es": "Kalia Upazila",
+        "es:t": "Bangladesh | Narail District",
+        "de": "Khulna",
+        "de:t": "Bangladesch | Khulna District"
+    },
+    {
+        "en": "Kaliganj",
+        "en:t": "Bangladesh | Jhenaidah District",
+        "a": true,
+        "g": {
+            "lat": 23.4098,
+            "lon": 89.1373
+        },
+        "it": "Kaliganj",
+        "it:t": "Bangladesh | Satkhira District",
+        "es": "Kaliganj",
+        "es:t": "Bangladesh | Satkhira District",
+        "de": "Kaliganj",
+        "de:t": "Bangladesch | Satkhira District"
+    },
+    {
+        "en": "Keshabpur",
+        "en:t": "Bangladesh | Jessore District",
+        "a": true,
+        "g": {
+            "lat": 22.9055,
+            "lon": 89.2194
+        },
+        "it": "Keshabpur",
+        "it:t": "Bangladesh | Jessore District",
+        "es": "Keshabpur",
+        "es:t": "Bangladesh | Jessore District",
+        "de": "Keshabpur",
+        "de:t": "Bangladesch | Jessore District"
+    },
+    {
+        "en": "Khagrachhari",
+        "en:t": "Bangladesh | Khagrachari District",
+        "a": true,
+        "g": {
+            "lat": 23.1108,
+            "lon": 91.9906
+        },
+        "it": "Distretto di Khagrachhari",
+        "it:t": "Bangladesh | Divisione di Chittagong",
+        "es": "Jagrachari",
+        "es:t": "Bangladesh | Chittagong",
+        "de": "Khagrachhari",
+        "de:t": "Bangladesch"
+    },
+    {
+        "en": "Khulna",
+        "en:t": "Bangladesh | Khulna District",
+        "a": true,
+        "g": {
+            "lat": 22.8456,
+            "lon": 89.5403
+        },
+        "it": "Khulna",
+        "it:t": "Bangladesh | Distretto di Khulna",
+        "es": "Khulna",
+        "es:t": "Bangladesh",
+        "de": "Khulna",
+        "de:t": "Bangladesch | Khulna District"
+    },
+    {
+        "en": "Kishoreganj",
+        "en:t": "Bangladesh | Kishoreganj District",
+        "a": true,
+        "g": {
+            "lat": 24.4331,
+            "lon": 90.7866
+        },
+        "it": "Dhaka",
+        "it:t": "Bangladesh | Dhaka District",
+        "es": "Dhaka",
+        "es:t": "Bangladesh | Dhaka District",
+        "de": "Kishoreganj",
+        "de:t": "Bangladesch | Kishoreganj District"
+    },
+    {
+        "en": "Laksam Upazila",
+        "en:t": "Bangladesh | Comilla District",
+        "a": true,
+        "g": {
+            "lat": 23.2117,
+            "lon": 91.1161
+        },
+        "it": "Laksam",
+        "it:t": "Bangladesh | Distretto di Comilla",
+        "es": "Laksham",
+        "es:t": "Bangladesh | Comilla",
+        "de": "Laksam Upazila",
+        "de:t": "Bangladesch | Comilla District"
+    },
+    {
+        "en": "Lakshmipur",
+        "en:t": "Bangladesh | Lakshmipur District",
+        "a": true,
+        "g": {
+            "lat": 22.9454,
+            "lon": 90.8342
+        },
+        "it": "Lakshmipur",
+        "it:t": "Bangladesh | Lakshmipur District",
+        "es": "Lakshmipur",
+        "es:t": "Bangladesh | Lakshmipur District",
+        "de": "Lakshmipur",
+        "de:t": "Bangladesch | Lakshmipur District"
+    },
+    {
+        "en": "Lalmohan",
+        "en:t": "Bangladesh | Bhola District",
+        "a": true,
+        "g": {
+            "lat": 22.3411,
+            "lon": 90.7319
+        },
+        "it": "Lalmohan",
+        "it:t": "Bangladesh | Bhola District",
+        "es": "Lalmohan",
+        "es:t": "Bangladesh | Bhola District",
+        "de": "Lalmohan",
+        "de:t": "Bangladesch | Bhola District"
+    },
+    {
+        "en": "Lalmonirhat",
+        "en:t": "Bangladesh | Lalmonirhat District",
+        "a": true,
+        "g": {
+            "lat": 25.9162,
+            "lon": 89.4506
+        },
+        "it": "Lalmonirhat",
+        "it:t": "Bangladesh | Lalmonirhat District",
+        "es": "Lalmonirhat",
+        "es:t": "Bangladesh | Lalmonirhat District",
+        "de": "Lalmonirhat District",
+        "de:t": "Bangladesch | Rangpur Division"
+    },
+    {
+        "en": "Madaripur",
+        "en:t": "Bangladesh | Madaripur District",
+        "a": true,
+        "g": {
+            "lat": 23.1649,
+            "lon": 90.194
+        },
+        "it": "Madaripur",
+        "it:t": "Bangladesh | Madaripur District",
+        "es": "Madaripur",
+        "es:t": "Bangladesh | Madaripur District",
+        "de": "Madaripur",
+        "de:t": "Bangladesch | Madaripur District"
+    },
+    {
+        "en": "Malitola Road",
+        "en:t": "Bangladesh | Bangshal",
+        "a": true,
+        "g": {
+            "lat": 23.7156,
+            "lon": 90.4089
+        },
+        "it": "Malitola Road",
+        "it:t": "Bangladesh | Bangshal",
+        "es": "Malitola Road",
+        "es:t": "Bangladesh | Bangshal",
+        "de": "Malitola Road",
+        "de:t": "Bangladesch | Bangshal"
+    },
+    {
+        "en": "Manikchari",
+        "en:t": "Bangladesh | Khagrachari District",
+        "a": true,
+        "g": {
+            "lat": 22.8417,
+            "lon": 91.8367
+        },
+        "it": "Manikchhari",
+        "it:t": "Bangladesh | Distretto di Khagrachhari",
+        "es": "Manikchhari",
+        "es:t": "Bangladesh | Jagrachari",
+        "de": "Manikchari",
+        "de:t": "Bangladesch | Khagrachari District"
+    },
+    {
+        "en": "Mathbaria",
+        "en:t": "Bangladesh | Pirojpur District",
+        "a": true,
+        "g": {
+            "lat": 22.292,
+            "lon": 89.958
+        },
+        "it": "Mathbaria",
+        "it:t": "Bangladesh | Pirojpur District",
+        "es": "Mathbaria",
+        "es:t": "Bangladesh | Pirojpur District",
+        "de": "Mathbaria",
+        "de:t": "Bangladesch | Pirojpur District"
+    },
+    {
+        "en": "Mehendiganj",
+        "en:t": "Bangladesh | Barisal District",
+        "a": true,
+        "g": {
+            "lat": 22.8261,
+            "lon": 90.527
+        },
+        "it": "Mehendiganj",
+        "it:t": "Bangladesh | Distretto di Barisal",
+        "es": "Mehendiganj",
+        "es:t": "Bangladesh | Barisal",
+        "de": "Mehendiganj",
+        "de:t": "Bangladesch | Barisal District"
+    },
+    {
+        "en": "Morrelganj",
+        "en:t": "Bangladesh | Bagerhat District",
+        "a": true,
+        "g": {
+            "lat": 22.4499,
+            "lon": 89.8528
+        },
+        "it": "Morrelganj",
+        "it:t": "Bangladesh | Distretto di Bagerhat",
+        "es": "Morrelganj",
+        "es:t": "Bangladesh | Bagerhat District",
+        "de": "Morrelganj",
+        "de:t": "Bangladesch | Bagerhat District"
+    },
+    {
+        "en": "Moulvibazar",
+        "en:t": "Bangladesh | Moulvi Bazar District",
+        "a": true,
+        "g": {
+            "lat": 24.4843,
+            "lon": 91.7685
+        },
+        "it": "Moulvibazar",
+        "it:t": "Bangladesh | Moulvi Bazar District",
+        "es": "Maulvi Bazar",
+        "es:t": "Bangladesh | Maulvibazar",
+        "de": "Moulvibazar",
+        "de:t": "Bangladesch | Moulvi Bazar District"
+    },
+    {
+        "en": "Muktagacha",
+        "en:t": "Bangladesh | Mymensingh District",
+        "a": true,
+        "g": {
+            "lat": 24.766,
+            "lon": 90.2561
+        },
+        "it": "Muktagachha",
+        "it:t": "Bangladesh | Distretto di Mymensingh",
+        "es": "Muktagacha",
+        "es:t": "Bangladesh | Mymensingh District",
+        "de": "Muktagacha",
+        "de:t": "Bangladesch | Mymensingh District"
+    },
+    {
+        "en": "Mymensingh",
+        "en:t": "Bangladesh | Mymensingh District",
+        "a": true,
+        "g": {
+            "lat": 24.7471,
+            "lon": 90.4203
+        },
+        "it": "Mymensingh Lane",
+        "it:t": "Bangladesh | Ramna",
+        "es": "Mymensingh Lane",
+        "es:t": "Bangladesh | Ramna",
+        "de": "Maimansingh",
+        "de:t": "Bangladesch"
+    },
+    {
+        "en": "Nabinagar",
+        "en:t": "Bangladesh | Brahmanbaria District",
+        "a": true,
+        "g": {
+            "lat": 23.8882,
+            "lon": 90.9606
+        },
+        "it": "Nabinagar",
+        "it:t": "Bangladesh | Distretto di Brahmanbaria",
+        "es": "Nabinagar",
+        "es:t": "Bangladesh | Brahmanbaria District",
+        "de": "Nabinagar",
+        "de:t": "Bangladesch | Brahmanbaria District"
+    },
+    {
+        "en": "Nagarpur",
+        "en:t": "Bangladesh | Tangail District",
+        "a": true,
+        "g": {
+            "lat": 24.0577,
+            "lon": 89.8762
+        },
+        "it": "Nagarpur",
+        "it:t": "Bangladesh | Distretto di Tangail",
+        "es": "Nagarpur",
+        "es:t": "Bangladesh | Tangail District",
+        "de": "Nagarpur",
+        "de:t": "Bangladesch | Tangail District"
+    },
+    {
+        "en": "Nageshwari Upazila",
+        "en:t": "Bangladesh | Kurigram District",
+        "a": true,
+        "g": {
+            "lat": 25.9702,
+            "lon": 89.7568
+        },
+        "it": "Nageshwari",
+        "it:t": "Bangladesh | Distretto di Kurigram",
+        "es": "Nageshwari Upazila",
+        "es:t": "Bangladesh | Kurigram District",
+        "de": "Nageshwari Upazila",
+        "de:t": "Bangladesch | Kurigram District"
+    },
+    {
+        "en": "Nalchhiti",
+        "en:t": "Bangladesh | Jhalokati District",
+        "a": true,
+        "g": {
+            "lat": 22.6286,
+            "lon": 90.269
+        },
+        "it": "Nalchity",
+        "it:t": "Bangladesh | Distretto di Jhalakati",
+        "es": "Nalchiti",
+        "es:t": "Bangladesh | Jhalokati",
+        "de": "Nalchity Upazila",
+        "de:t": "Bangladesch | Jhalokati District"
+    },
+    {
+        "en": "Naogaon",
+        "en:t": "Bangladesh | Naogaon District",
+        "a": true,
+        "g": {
+            "lat": 24.8052,
+            "lon": 88.9497
+        },
+        "it": "Naogaon",
+        "it:t": "Bangladesh | Naogaon District",
+        "es": "Naogaon",
+        "es:t": "Bangladesh",
+        "de": "Naogaon",
+        "de:t": "Bangladesch | Naogaon District"
+    },
+    {
+        "en": "Narail District",
+        "en:t": "Bangladesh | Khulna Division",
+        "a": true,
+        "g": {
+            "lat": 23.1163,
+            "lon": 89.584
+        },
+        "it": "Distretto di Narail",
+        "it:t": "Bangladesh | Divisione di Khulna",
+        "es": "Narail",
+        "es:t": "Bangladesh",
+        "de": "Khulna",
+        "de:t": "Bangladesch | Khulna District"
+    },
+    {
+        "en": "Narsingdi District",
+        "en:t": "Bangladesh | Dhaka Division",
+        "a": true,
+        "g": {
+            "lat": 24.1344,
+            "lon": 90.786
+        },
+        "it": "Distretto di Narshingdi",
+        "it:t": "Bangladesh | Divisione di Dacca",
+        "es": "Narsingdi",
+        "es:t": "Bangladesh | Dacca",
+        "de": "Narsingdi",
+        "de:t": "Bangladesch | Narsingdi District"
+    },
+    {
+        "en": "Naya Paltan",
+        "en:t": "Bangladesh | Motijheel",
+        "a": true,
+        "g": {
+            "lat": 23.735,
+            "lon": 90.4144
+        },
+        "it": "Naya Paltan",
+        "it:t": "Bangladesh | Motijheel",
+        "es": "Naya Paltan",
+        "es:t": "Bangladesh | Motijheel",
+        "de": "Purana Paltan",
+        "de:t": "Bangladesch | Motijheel"
+    },
+    {
+        "en": "Pabna",
+        "en:t": "Bangladesh | Pabna District",
+        "a": true,
+        "g": {
+            "lat": 24.0129,
+            "lon": 89.2591
+        },
+        "it": "Pabna",
+        "it:t": "Bangladesh | Distretto di Pabna",
+        "es": "Pabna",
+        "es:t": "Bangladesh",
+        "de": "Pabna",
+        "de:t": "Bangladesch | Pabna District"
+    },
+    {
+        "en": "Panchagarh",
+        "en:t": "Bangladesh | Panchagarh District",
+        "a": true,
+        "g": {
+            "lat": 26.3354,
+            "lon": 88.5517
+        },
+        "it": "Distretto di Panchagarh",
+        "it:t": "Bangladesh",
+        "es": "Panchagarh",
+        "es:t": "Bangladesh",
+        "de": "Panchagarh",
+        "de:t": "Bangladesch | Panchagarh District"
+    },
+    {
+        "en": "Parbatipur",
+        "en:t": "Bangladesh | Dinajpur District",
+        "a": true,
+        "g": {
+            "lat": 25.6544,
+            "lon": 88.9162
+        },
+        "it": "Parbatipur",
+        "it:t": "Bangladesh | Distretto di Dinajpur",
+        "es": "Parbatipur",
+        "es:t": "Bangladesh | Dinajpur District",
+        "de": "Parbatipur",
+        "de:t": "Bangladesch | Dinajpur District"
+    },
+    {
+        "en": "Patiya Upazila",
+        "en:t": "Bangladesh | Chittagong District",
+        "a": true,
+        "g": {
+            "lat": 22.2981,
+            "lon": 91.9686
+        },
+        "it": "Chittagong",
+        "it:t": "Bangladesh | Distretto di Chittagong",
+        "es": "Chittagong",
+        "es:t": "Bangladesh",
+        "de": "Chittagong",
+        "de:t": "Bangladesch"
+    },
+    {
+        "en": "Phultala Upazila",
+        "en:t": "Bangladesh | Khulna District",
+        "a": true,
+        "g": {
+            "lat": 22.9407,
+            "lon": 89.4459
+        },
+        "it": "Phultala",
+        "it:t": "Bangladesh | Distretto di Khulna",
+        "es": "Phultala Upazila",
+        "es:t": "Bangladesh | Khulna District",
+        "de": "Phultala Upazila",
+        "de:t": "Bangladesch | Khulna District"
+    },
+    {
+        "en": "Pirojpur District",
+        "en:t": "Bangladesh | Barisal Division",
+        "a": true,
+        "g": {
+            "lat": 22.5791,
+            "lon": 89.9759
+        },
+        "it": "Distretto di Pirojpur",
+        "it:t": "Bangladesh",
+        "es": "Pirojpur",
+        "es:t": "Bangladesh",
+        "de": "Pirojpur",
+        "de:t": "Bangladesch | Barishal"
+    },
+    {
+        "en": "Purana Paltan",
+        "en:t": "Bangladesh | Motijheel",
+        "a": true,
+        "g": {
+            "lat": 23.7318,
+            "lon": 90.4108
+        },
+        "it": "Purana Paltan",
+        "it:t": "Bangladesh | Motijheel",
+        "es": "Purana Paltan",
+        "es:t": "Bangladesh | Motijheel",
+        "de": "Sherpur District",
+        "de:t": "Bangladesch | Dhaka Division"
+    },
+    {
+        "en": "Rajshahi",
+        "en:t": "Bangladesh | Rajshahi District",
+        "a": true,
+        "g": {
+            "lat": 24.3636,
+            "lon": 88.6241
+        },
+        "it": "Rajshahi",
+        "it:t": "Bangladesh | Distretto di Rajshahi",
+        "es": "Rajshahi",
+        "es:t": "Bangladesh",
+        "de": "Rajshahi",
+        "de:t": "Bangladesch | Rajshahi-Distrikt"
+    },
+    {
+        "en": "Ramganj",
+        "en:t": "Bangladesh | Lakshmipur District",
+        "a": true,
+        "g": {
+            "lat": 23.1001,
+            "lon": 90.8627
+        },
+        "it": "Ramganj",
+        "it:t": "Bangladesh | Lakshmipur District",
+        "es": "Ramganj",
+        "es:t": "Bangladesh | Lakshmipur District",
+        "de": "Ramganj",
+        "de:t": "Bangladesch | Lakshmipur District"
+    },
+    {
+        "en": "Rangpur",
+        "en:t": "Bangladesh | Rangpur District",
+        "a": true,
+        "g": {
+            "lat": 25.7439,
+            "lon": 89.2752
+        },
+        "it": "Rangpur",
+        "it:t": "Bangladesh | Distretto di Rangpur",
+        "es": "Rangpur",
+        "es:t": "Bangladesh | Rangpur District",
+        "de": "Rangpur",
+        "de:t": "Bangladesch | Rangpur-Distrikt"
+    },
+    {
+        "en": "Raozan Upazila",
+        "en:t": "Bangladesh | Chittagong District",
+        "a": true,
+        "g": {
+            "lat": 22.5368,
+            "lon": 91.9295
+        },
+        "it": "Chittagong",
+        "it:t": "Bangladesh | Distretto di Chittagong",
+        "es": "Chittagong",
+        "es:t": "Bangladesh",
+        "de": "Chittagong",
+        "de:t": "Bangladesch"
+    },
+    {
+        "en": "Saidpur",
+        "en:t": "Bangladesh | Bogra District",
+        "a": true,
+        "g": {
+            "lat": 25.0514,
+            "lon": 89.4317
+        },
+        "it": "Saidpur",
+        "it:t": "Bangladesh | Bogra District",
+        "es": "Saidpur",
+        "es:t": "Bangladesh | Nilphamari District",
+        "de": "Saidpur",
+        "de:t": "Bangladesch | Bogra District"
+    },
+    {
+        "en": "Sakhipur",
+        "en:t": "Bangladesh | Tangail District",
+        "a": true,
+        "g": {
+            "lat": 24.3192,
+            "lon": 90.1753
+        },
+        "it": "Sakhipur",
+        "it:t": "Bangladesh | Tangail District",
+        "es": "Sakhipur",
+        "es:t": "Bangladesh | Tangail District",
+        "de": "Sakhipur",
+        "de:t": "Bangladesch | Tangail District"
+    },
+    {
+        "en": "Sandwip",
+        "en:t": "Bangladesh | Chittagong Division",
+        "a": true,
+        "g": {
+            "lat": 22.4937,
+            "lon": 91.5015
+        },
+        "it": "Chittagong",
+        "it:t": "Bangladesh | Chittagong District",
+        "es": "Chittagong",
+        "es:t": "Bangladesh | Chittagong District",
+        "de": "Chittagong",
+        "de:t": "Bangladesch"
+    },
+    {
+        "en": "Sarishabari",
+        "en:t": "Bangladesh | Jamalpur District",
+        "a": true,
+        "g": {
+            "lat": 24.7513,
+            "lon": 89.8283
+        },
+        "it": "Sarishabari",
+        "it:t": "Bangladesh | Distretto di Jamalpur",
+        "es": "Sarishabari",
+        "es:t": "Bangladesh | Jamalpur District",
+        "de": "Sarishabari",
+        "de:t": "Bangladesch | Jamalpur District"
+    },
+    {
+        "en": "Shahjadpur",
+        "en:t": "Bangladesh | Sirajganj District",
+        "a": true,
+        "g": {
+            "lat": 24.1746,
+            "lon": 89.5957
+        },
+        "it": "Shahjadpur",
+        "it:t": "Bangladesh | Sirajganj District",
+        "es": "Shahjadpur",
+        "es:t": "Bangladesh | Sirajganj District",
+        "de": "Shahjadpur",
+        "de:t": "Bangladesch | Sirajganj District"
+    },
+    {
+        "en": "Sharankhola",
+        "en:t": "Bangladesh | Bagerhat District",
+        "a": true,
+        "g": {
+            "lat": 22.3128,
+            "lon": 89.8482
+        },
+        "it": "Sharankhola",
+        "it:t": "Bangladesh | Bagerhat District",
+        "es": "Sharankhola",
+        "es:t": "Bangladesh | Bagerhat District",
+        "de": "Sharankhola",
+        "de:t": "Bangladesch | Bagerhat District"
+    },
+    {
+        "en": "Shibganj",
+        "en:t": "Bangladesh | Chapainawabganj District",
+        "a": true,
+        "g": {
+            "lat": 24.6837,
+            "lon": 88.1572
+        },
+        "it": "Shibganj",
+        "it:t": "Bangladesh | Distretto di Bogra",
+        "es": "Shibganj",
+        "es:t": "Bangladesh | Nawabganj",
+        "de": "Shibganj",
+        "de:t": "Bangladesch | Bogra District"
+    },
+    {
+        "en": "Sirajganj",
+        "en:t": "Bangladesh | Sirajganj District",
+        "a": true,
+        "g": {
+            "lat": 24.4526,
+            "lon": 89.6816
+        },
+        "it": "Sirajganj",
+        "it:t": "Bangladesh | Distretto di Sirajganj",
+        "es": "Sirajganj",
+        "es:t": "Bangladesh",
+        "de": "Sirajganj",
+        "de:t": "Bangladesch | Sirajganj District"
+    },
+    {
+        "en": "Sylhet",
+        "en:t": "Bangladesh | Sylhet District",
+        "a": true,
+        "g": {
+            "lat": 24.8949,
+            "lon": 91.8687
+        },
+        "it": "Sylhet",
+        "it:t": "Bangladesh | Sylhet District",
+        "es": "Sylhet",
+        "es:t": "Bangladesh",
+        "de": "Sylhet",
+        "de:t": "Bangladesch"
+    },
+    {
+        "en": "Tangail District",
+        "en:t": "Bangladesh | Dhaka Division",
+        "a": true,
+        "g": {
+            "lat": 24.3917,
+            "lon": 89.9948
+        },
+        "it": "Tangail",
+        "it:t": "Bangladesh | Distretto di Tangail",
+        "es": "Tangail",
+        "es:t": "Bangladesh | Tangail District",
+        "de": "Dhaka",
+        "de:t": "Bangladesch | Distrikt Dhaka"
+    },
+    {
+        "en": "Teknaf",
+        "en:t": "Bangladesh | Cox's Bazar District",
+        "a": true,
+        "g": {
+            "lat": 20.8578,
+            "lon": 92.2975
+        },
+        "it": "Teknaf",
+        "it:t": "Bangladesh | Cox's Bazar District",
+        "es": "Teknaf",
+        "es:t": "Bangladesh | Cox's Bazar District",
+        "de": "Teknaf",
+        "de:t": "Bangladesch | Cox's Bazar District"
+    },
+    {
+        "en": "Thakurgaon",
+        "en:t": "Bangladesh | Thakurgaon District",
+        "a": true,
+        "g": {
+            "lat": 26.0274,
+            "lon": 88.4646
+        },
+        "it": "Thakurgaon",
+        "it:t": "Bangladesh | Thakurgaon District",
+        "es": "Thakurgaon",
+        "es:t": "Bangladesh | Thakurgaon District",
+        "de": "Thakurgaon",
+        "de:t": "Bangladesch | Thakurgaon District"
+    },
+    {
+        "en": "Tongi",
+        "en:t": "Bangladesh | Gazipur District",
+        "a": true,
+        "g": {
+            "lat": 23.901,
+            "lon": 90.4088
+        },
+        "it": "Tongi",
+        "it:t": "Bangladesh | Gazipur District",
+        "es": "Tongi",
+        "es:t": "Bangladesh | Gazipur District",
+        "de": "Tongi",
+        "de:t": "Bangladesch | Gazipur District"
+    },
+    {
+        "en": "Tungipara",
+        "en:t": "Bangladesh | Gopalganj District",
+        "a": true,
+        "g": {
+            "lat": 22.9073,
+            "lon": 89.8985
+        },
+        "it": "Tungipara",
+        "it:t": "Bangladesh | Distretto di Gopalganj",
+        "es": "Tungipara",
+        "es:t": "Bangladesh | Gopalganj District",
+        "de": "Tungipara",
+        "de:t": "Bangladesch | Gopalganj District"
+    },
+    {
+        "en": "Uttar Char Fasson",
+        "en:t": "Bangladesh | Bhola District",
+        "a": true,
+        "g": {
+            "lat": 22.2474,
+            "lon": 90.7259
+        },
+        "it": "Uttar Char Fasson",
+        "it:t": "Bangladesh | Bhola District",
+        "es": "Uttar Char Fasson",
+        "es:t": "Bangladesh | Bhola District",
+        "de": "Uttar Char Fasson",
+        "de:t": "Bangladesch | Bhola District"
+    }
+]

@@ -1,0 +1,362 @@
+[
+    {
+        "en": "Choloma",
+        "en:t": "Honduras | Cort\u00e9s",
+        "a": true,
+        "g": {
+            "lat": 15.5965,
+            "lon": -87.9433
+        },
+        "it": "Choloma",
+        "it:t": "Honduras | Cort\u00e9s",
+        "es": "Choloma",
+        "es:t": "Honduras | Cort\u00e9s",
+        "de": "Choloma",
+        "de:t": "Honduras | Cort\u00e9s"
+    },
+    {
+        "en": "Choluteca",
+        "en:t": "Honduras | Choluteca",
+        "a": true,
+        "g": {
+            "lat": 13.3199,
+            "lon": -87.1622
+        },
+        "it": "Choluteca",
+        "it:t": "Honduras | Choluteca",
+        "es": "Choluteca",
+        "es:t": "Honduras | Choluteca",
+        "de": "Choluteca",
+        "de:t": "Honduras | Choluteca"
+    },
+    {
+        "en": "Cofrad\u00eda",
+        "en:t": "Honduras | Cort\u00e9s",
+        "a": true,
+        "g": {
+            "lat": 15.4168,
+            "lon": -88.1633
+        },
+        "it": "Cofrad\u00eda",
+        "it:t": "Honduras | Cort\u00e9s",
+        "es": "Cofrad\u00eda",
+        "es:t": "Honduras | Cort\u00e9s",
+        "de": "Cofradia",
+        "de:t": "Honduras | Cort\u00e9s"
+    },
+    {
+        "en": "Comayagua",
+        "en:t": "Honduras | Comayagua",
+        "a": true,
+        "g": {
+            "lat": 14.449,
+            "lon": -87.6482
+        },
+        "it": "Comayagua",
+        "it:t": "Honduras | Comayagua",
+        "es": "Comayagua",
+        "es:t": "Honduras | Comayagua",
+        "de": "Comayagua",
+        "de:t": "Honduras | Comayagua"
+    },
+    {
+        "en": "Danli",
+        "en:t": "Honduras | El Para\u00edso",
+        "a": true,
+        "g": {
+            "lat": 14.0411,
+            "lon": -86.5704
+        },
+        "it": "Danl\u00ed",
+        "it:t": "Honduras | El Para\u00edso",
+        "es": "Danl\u00ed",
+        "es:t": "Honduras | El Para\u00edso",
+        "de": "Danl\u00ed",
+        "de:t": "Honduras | El Para\u00edso"
+    },
+    {
+        "en": "El Paraiso",
+        "en:t": "Honduras | El Para\u00edso",
+        "a": true,
+        "g": {
+            "lat": 13.8641,
+            "lon": -86.5529
+        },
+        "it": "El Para\u00edso",
+        "it:t": "Honduras | El Para\u00edso",
+        "es": "El Para\u00edso",
+        "es:t": "Honduras | El Para\u00edso",
+        "de": "El Paraiso",
+        "de:t": "Honduras | El Para\u00edso"
+    },
+    {
+        "en": "El Progreso",
+        "en:t": "Honduras | Yoro",
+        "a": true,
+        "g": {
+            "lat": 15.3843,
+            "lon": -87.8058
+        },
+        "it": "El Progreso",
+        "it:t": "Honduras | Yoro",
+        "es": "El Progreso",
+        "es:t": "Honduras | Yoro",
+        "de": "El Progreso",
+        "de:t": "Honduras | Yoro"
+    },
+    {
+        "en": "Juticalpa",
+        "en:t": "Honduras | Olancho",
+        "a": true,
+        "g": {
+            "lat": 14.6572,
+            "lon": -86.2108
+        },
+        "it": "Juticalpa",
+        "it:t": "Honduras | Olancho",
+        "es": "Juticalpa",
+        "es:t": "Honduras | Olancho",
+        "de": "Juticalpa",
+        "de:t": "Honduras | Olancho"
+    },
+    {
+        "en": "La Ceiba",
+        "en:t": "Honduras | Atl\u00e1ntida",
+        "a": true,
+        "g": {
+            "lat": 15.7703,
+            "lon": -86.7919
+        },
+        "it": "La Ceiba",
+        "it:t": "Honduras | Atl\u00e1ntida",
+        "es": "La Ceiba",
+        "es:t": "Honduras | Atl\u00e1ntida",
+        "de": "La Ceiba",
+        "de:t": "Honduras | Atl\u00e1ntida"
+    },
+    {
+        "en": "La Lima",
+        "en:t": "Honduras | Cort\u00e9s",
+        "a": true,
+        "g": {
+            "lat": 15.4321,
+            "lon": -87.9041
+        },
+        "it": "La Lima",
+        "it:t": "Honduras | Cort\u00e9s",
+        "es": "La Lima",
+        "es:t": "Honduras | Cort\u00e9s",
+        "de": "La Lima",
+        "de:t": "Honduras | Cort\u00e9s"
+    },
+    {
+        "en": "La Paz",
+        "en:t": "Honduras | La Paz",
+        "a": true,
+        "g": {
+            "lat": 14.3271,
+            "lon": -87.6729
+        },
+        "it": "La Paz",
+        "it:t": "Honduras | La Paz",
+        "es": "La Paz",
+        "es:t": "Honduras | La Paz",
+        "de": "La Paz",
+        "de:t": "Honduras | La Paz"
+    },
+    {
+        "en": "Olanchito",
+        "en:t": "Honduras | Yoro",
+        "a": true,
+        "g": {
+            "lat": 15.4861,
+            "lon": -86.5905
+        },
+        "it": "Olanchito",
+        "it:t": "Honduras | Yoro",
+        "es": "Olanchito",
+        "es:t": "Honduras | Yoro",
+        "de": "Olanchito",
+        "de:t": "Honduras | Yoro"
+    },
+    {
+        "en": "Potrerillos",
+        "en:t": "Honduras | Cort\u00e9s",
+        "a": true,
+        "g": {
+            "lat": 15.2308,
+            "lon": -87.9653
+        },
+        "it": "Potrerillos",
+        "it:t": "Honduras | Cort\u00e9s",
+        "es": "Potrerillos",
+        "es:t": "Honduras | Cort\u00e9s",
+        "de": "Potrerillos",
+        "de:t": "Honduras | Cort\u00e9s"
+    },
+    {
+        "en": "Puerto Cortes",
+        "en:t": "Honduras | Cort\u00e9s",
+        "a": true,
+        "g": {
+            "lat": 15.8251,
+            "lon": -87.9286
+        },
+        "it": "Puerto Cort\u00e9s",
+        "it:t": "Honduras | Cort\u00e9s",
+        "es": "Puerto Cort\u00e9s",
+        "es:t": "Honduras | Cort\u00e9s",
+        "de": "Puerto Cort\u00e9s",
+        "de:t": "Honduras | Cort\u00e9s"
+    },
+    {
+        "en": "San Lorenzo",
+        "en:t": "Honduras | Valle",
+        "a": true,
+        "g": {
+            "lat": 13.4326,
+            "lon": -87.4554
+        },
+        "it": "San Lorenzo",
+        "it:t": "Honduras | Valle",
+        "es": "San Lorenzo",
+        "es:t": "Honduras | Valle",
+        "de": "San Lorenzo",
+        "de:t": "Honduras | Valle"
+    },
+    {
+        "en": "San Pedro Sula",
+        "en:t": "Honduras | Cort\u00e9s",
+        "a": true,
+        "g": {
+            "lat": 15.5039,
+            "lon": -88.0139
+        },
+        "it": "San Pedro Sula",
+        "it:t": "Honduras | Cort\u00e9s",
+        "es": "San Pedro Sula",
+        "es:t": "Honduras | Cort\u00e9s",
+        "de": "San Pedro Sula",
+        "de:t": "Honduras | Cort\u00e9s"
+    },
+    {
+        "en": "Santa B\u00e1rbara",
+        "en:t": "Honduras",
+        "a": true,
+        "g": {
+            "lat": 15.1203,
+            "lon": -88.4016
+        },
+        "it": "Santa B\u00e1rbara",
+        "it:t": "Honduras | Santa B\u00e1rbara",
+        "es": "Santa B\u00e1rbara",
+        "es:t": "Honduras | Santa B\u00e1rbara",
+        "de": "Santa Barbara",
+        "de:t": "Honduras | Santa B\u00e1rbara"
+    },
+    {
+        "en": "Santa Rosa de Copan",
+        "en:t": "Honduras | Cop\u00e1n",
+        "a": true,
+        "g": {
+            "lat": 14.7839,
+            "lon": -88.7783
+        },
+        "it": "Santa Rosa de Cop\u00e1n",
+        "it:t": "Honduras | Cop\u00e1n",
+        "es": "Santa Rosa de Cop\u00e1n",
+        "es:t": "Honduras | Cop\u00e1n",
+        "de": "Santa Rosa de Cop\u00e1n",
+        "de:t": "Honduras | Cop\u00e1n"
+    },
+    {
+        "en": "Siguatepeque",
+        "en:t": "Honduras | Comayagua",
+        "a": true,
+        "g": {
+            "lat": 14.5964,
+            "lon": -87.8402
+        },
+        "it": "Siguatepeque",
+        "it:t": "Honduras | Comayagua",
+        "es": "Siguatepeque",
+        "es:t": "Honduras | Comayagua",
+        "de": "Siguatepeque",
+        "de:t": "Honduras | Comayagua"
+    },
+    {
+        "en": "Tegucigalpa",
+        "en:t": "Honduras | Francisco Moraz\u00e1n",
+        "a": true,
+        "g": {
+            "lat": 14.065,
+            "lon": -87.1715
+        },
+        "it": "Tegucigalpa",
+        "it:t": "Honduras | Francisco Moraz\u00e1n",
+        "es": "Tegucigalpa",
+        "es:t": "Honduras | Francisco Moraz\u00e1n",
+        "de": "Tegucigalpa",
+        "de:t": "Honduras | Francisco Moraz\u00e1n"
+    },
+    {
+        "en": "Tela",
+        "en:t": "Honduras | Atl\u00e1ntida",
+        "a": true,
+        "g": {
+            "lat": 15.7733,
+            "lon": -87.4654
+        },
+        "it": "Tela",
+        "it:t": "Honduras | Atl\u00e1ntida",
+        "es": "Tela",
+        "es:t": "Honduras | Atl\u00e1ntida",
+        "de": "Tela",
+        "de:t": "Honduras | Atl\u00e1ntida"
+    },
+    {
+        "en": "Tocoa",
+        "en:t": "Honduras | Col\u00f3n",
+        "a": true,
+        "g": {
+            "lat": 15.6576,
+            "lon": -85.9968
+        },
+        "it": "Tocoa",
+        "it:t": "Honduras | Col\u00f3n",
+        "es": "Tocoa",
+        "es:t": "Honduras | Col\u00f3n",
+        "de": "Tocoa",
+        "de:t": "Honduras | Col\u00f3n"
+    },
+    {
+        "en": "Villanueva",
+        "en:t": "Honduras | Cort\u00e9s",
+        "a": true,
+        "g": {
+            "lat": 15.3392,
+            "lon": -87.9825
+        },
+        "it": "Villanueva",
+        "it:t": "Honduras | Cort\u00e9s",
+        "es": "Villanueva",
+        "es:t": "Honduras | Cort\u00e9s",
+        "de": "Villanueva",
+        "de:t": "Honduras | Cort\u00e9s"
+    },
+    {
+        "en": "Yoro",
+        "en:t": "Honduras | Yoro",
+        "a": true,
+        "g": {
+            "lat": 15.137,
+            "lon": -87.1273
+        },
+        "it": "Yoro",
+        "it:t": "Honduras | Yoro",
+        "es": "Yoro",
+        "es:t": "Honduras | Yoro",
+        "de": "Yoro",
+        "de:t": "Honduras | Yoro"
+    }
+]

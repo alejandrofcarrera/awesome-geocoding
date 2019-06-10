@@ -1,0 +1,1592 @@
+[
+    {
+        "en": "6th of October",
+        "en:t": "Egypt | Giza",
+        "a": true,
+        "g": {
+            "lat": 29.9285,
+            "lon": 30.9188
+        },
+        "it": "Citt\u00e0 del 6 ottobre",
+        "it:t": "Egitto | Giza",
+        "es": "Seis de Octubre",
+        "es:t": "Egipto | Giza",
+        "de": "Madinat as-Sadis min Uktubar",
+        "de:t": "\u00c4gypten | Al-Dschiza"
+    },
+    {
+        "en": "AZ Zarqa",
+        "en:t": "Egypt | Madinet AZ Zarqa",
+        "a": true,
+        "g": {
+            "lat": 31.2088,
+            "lon": 31.6358
+        },
+        "it": "Al Zarqa",
+        "it:t": "Egitto | Madinet AZ Zarqa",
+        "es": "AZ Zarqa",
+        "es:t": "Egipto | Madinet AZ Zarqa",
+        "de": "AZ Zarqa",
+        "de:t": "\u00c4gypten | Madinet AZ Zarqa"
+    },
+    {
+        "en": "Abnub",
+        "en:t": "Egypt | Abanoub",
+        "a": true,
+        "g": {
+            "lat": 27.2674,
+            "lon": 31.1519
+        },
+        "it": "Asyut",
+        "it:t": "Egitto | Abanoub",
+        "es": "Abnub",
+        "es:t": "Egipto | Abanoub",
+        "de": "Abnub",
+        "de:t": "\u00c4gypten | Abanoub"
+    },
+    {
+        "en": "Abu Al Matamir",
+        "en:t": "Egypt",
+        "a": true,
+        "g": {
+            "lat": 30.9118,
+            "lon": 30.1719
+        },
+        "it": "Abu Al Matamir",
+        "it:t": "Egitto",
+        "es": "Abu Al Matamir",
+        "es:t": "Egipto",
+        "de": "Abu Al Matamir",
+        "de:t": "\u00c4gypten"
+    },
+    {
+        "en": "Abu Kabir",
+        "en:t": "Egypt",
+        "a": true,
+        "g": {
+            "lat": 30.7172,
+            "lon": 31.6625
+        },
+        "it": "Abu Kabir",
+        "it:t": "Egitto",
+        "es": "Abu Kabir",
+        "es:t": "Egipto",
+        "de": "Abu Kabir",
+        "de:t": "\u00c4gypten"
+    },
+    {
+        "en": "Abu Tij",
+        "en:t": "Egypt | Assiut",
+        "a": true,
+        "g": {
+            "lat": 27.0444,
+            "lon": 31.3189
+        },
+        "it": "Abutig",
+        "it:t": "Egitto | Assiut",
+        "es": "Asiut",
+        "es:t": "Egipto | Assiut",
+        "de": "Assiut",
+        "de:t": "\u00c4gypten | Assiut"
+    },
+    {
+        "en": "Ad Dilinjat",
+        "en:t": "Egypt | Ad Daltagat",
+        "a": true,
+        "g": {
+            "lat": 30.8272,
+            "lon": 30.5349
+        },
+        "it": "Ad Dilinjat",
+        "it:t": "Egitto | Ad Daltagat",
+        "es": "Ad Dilinjat",
+        "es:t": "Egipto | Ad Daltagat",
+        "de": "Ad Dilinjat",
+        "de:t": "\u00c4gypten | Ad Daltagat"
+    },
+    {
+        "en": "Aga",
+        "en:t": "Egypt | Al Baylouq",
+        "a": true,
+        "g": {
+            "lat": 30.9421,
+            "lon": 31.2924
+        },
+        "it": "Aga",
+        "it:t": "Egitto | Al Baylouq",
+        "es": "Aj\u0101",
+        "es:t": "Egipto | Al Baylouq",
+        "de": "Aga",
+        "de:t": "\u00c4gypten | Al Baylouq"
+    },
+    {
+        "en": "Ain Sokhna",
+        "en:t": "Egypt | Ataqah",
+        "a": true,
+        "g": {
+            "lat": 29.6326,
+            "lon": 32.33
+        },
+        "it": "Ain Sokhna",
+        "it:t": "Egitto | Ataqah",
+        "es": "Ain Sokhna",
+        "es:t": "Egipto | Ataqah",
+        "de": "Ain Suchna",
+        "de:t": "\u00c4gypten | Ataqah"
+    },
+    {
+        "en": "Akhmim",
+        "en:t": "Egypt",
+        "a": true,
+        "g": {
+            "lat": 26.5626,
+            "lon": 31.7449
+        },
+        "it": "Akhmim",
+        "it:t": "Egitto",
+        "es": "Pan\u00f3polis",
+        "es:t": "Egipto",
+        "de": "Achmim",
+        "de:t": "\u00c4gypten"
+    },
+    {
+        "en": "Al Badari",
+        "en:t": "Egypt",
+        "a": true,
+        "g": {
+            "lat": 26.9916,
+            "lon": 31.4133
+        },
+        "it": "Al Badari",
+        "it:t": "Egitto",
+        "es": "Al Badari",
+        "es:t": "Egipto",
+        "de": "El-Badari",
+        "de:t": "\u00c4gypten"
+    },
+    {
+        "en": "Al Balyana",
+        "en:t": "Egypt | Al Balena",
+        "a": true,
+        "g": {
+            "lat": 26.2354,
+            "lon": 32.003
+        },
+        "it": "Al Balyana",
+        "it:t": "Egitto | Al Balena",
+        "es": "Al-Balyan\u0101",
+        "es:t": "Egipto | Al Balena",
+        "de": "Al Balyana",
+        "de:t": "\u00c4gypten | Al Balena"
+    },
+    {
+        "en": "Al Fashn",
+        "en:t": "Egypt | Madinet Al Fashn",
+        "a": true,
+        "g": {
+            "lat": 28.8234,
+            "lon": 30.8988
+        },
+        "it": "Al Fashn",
+        "it:t": "Egitto | Madinet Al Fashn",
+        "es": "Al Fashn",
+        "es:t": "Egipto | Madinet Al Fashn",
+        "de": "al-Faschn",
+        "de:t": "\u00c4gypten | Madinet Al Fashn"
+    },
+    {
+        "en": "Al Ibrahimiyah",
+        "en:t": "Egypt | Al Ibrahimeyah",
+        "a": true,
+        "g": {
+            "lat": 30.7151,
+            "lon": 31.5624
+        },
+        "it": "Al Ibrahimiyah",
+        "it:t": "Egitto | Al Ibrahimeyah",
+        "es": "Al Ibrahimiyah",
+        "es:t": "Egipto | Al Ibrahimeyah",
+        "de": "Al Ibrahimiyah",
+        "de:t": "\u00c4gypten | Al Ibrahimeyah"
+    },
+    {
+        "en": "Al Jamaliyah",
+        "en:t": "Egypt | Al Basrat",
+        "a": true,
+        "g": {
+            "lat": 31.18,
+            "lon": 31.86
+        },
+        "it": "Al Jamaliyah",
+        "it:t": "Egitto | Al Basrat",
+        "es": "Al Jamaliyah",
+        "es:t": "Egipto | Al Basrat",
+        "de": "Al Jamaliyah",
+        "de:t": "\u00c4gypten | Al Basrat"
+    },
+    {
+        "en": "Al Khankah",
+        "en:t": "Egypt | Madinet Al Khankah",
+        "a": true,
+        "g": {
+            "lat": 30.2201,
+            "lon": 31.3689
+        },
+        "it": "Al Khankah",
+        "it:t": "Egitto | Madinet Al Khankah",
+        "es": "Al Khankah",
+        "es:t": "Egipto | Madinet Al Khankah",
+        "de": "Al Khankah",
+        "de:t": "\u00c4gypten | Madinet Al Khankah"
+    },
+    {
+        "en": "Al Manzalah",
+        "en:t": "Egypt",
+        "a": true,
+        "g": {
+            "lat": 31.1195,
+            "lon": 31.9416
+        },
+        "it": "Al Manzalah",
+        "it:t": "Egitto",
+        "es": "Al Manzalah",
+        "es:t": "Egipto",
+        "de": "Al Manzalah",
+        "de:t": "\u00c4gypten"
+    },
+    {
+        "en": "Al Qanatir Al Khayriyyah",
+        "en:t": "Egypt | Madinet Al Qanater Al Khayreyah",
+        "a": true,
+        "g": {
+            "lat": 30.1913,
+            "lon": 31.1337
+        },
+        "it": "Al Qanatir Al Khayriyyah",
+        "it:t": "Egitto | Madinet Al Qanater Al Khayreyah",
+        "es": "Al Qanatir Al Khayriyyah",
+        "es:t": "Egipto | Madinet Al Qanater Al Khayreyah",
+        "de": "al-Qanatir al-Chairiyya",
+        "de:t": "\u00c4gypten | Madinet Al Qanater Al Khayreyah"
+    },
+    {
+        "en": "Al Qanayat",
+        "en:t": "Egypt | Al Qenayat",
+        "a": true,
+        "g": {
+            "lat": 30.6173,
+            "lon": 31.4605
+        },
+        "it": "Il Cairo",
+        "it:t": "Al Qanayat",
+        "es": "Egypt | Al Qenayat",
+        "es:t": "Egipto | Al Qenayat",
+        "de": "Al Qenayat",
+        "de:t": "\u00c4gypten | Qesm Al Qanayat"
+    },
+    {
+        "en": "Al Qusiyyah",
+        "en:t": "Egypt | Senbo",
+        "a": true,
+        "g": {
+            "lat": 27.4393,
+            "lon": 30.8171
+        },
+        "it": "Cusae",
+        "it:t": "Egitto | Senbo",
+        "es": "Cusae",
+        "es:t": "Egipto | Senbo",
+        "de": "al-Qusiyya",
+        "de:t": "\u00c4gypten | Senbo"
+    },
+    {
+        "en": "Al-Qurain",
+        "en:t": "Egypt | Al Ahsa",
+        "a": true,
+        "g": {
+            "lat": 25.4891,
+            "lon": 49.6057
+        },
+        "it": "Al Qorin",
+        "it:t": "Egitto | Qesm Qurin",
+        "es": "Al-Qurain",
+        "es:t": "Egipto | Al Ahsa",
+        "de": "Al Qorin",
+        "de:t": "\u00c4gypten | Qesm Qurin"
+    },
+    {
+        "en": "Alexandria",
+        "en:t": "Egypt | Alexandria",
+        "a": true,
+        "g": {
+            "lat": 31.2001,
+            "lon": 29.9187
+        },
+        "it": "Alessandria",
+        "it:t": "Egitto | Alessandria",
+        "es": "Alejandr\u00eda",
+        "es:t": "Egipto | Alejandr\u00eda",
+        "de": "Alexandria",
+        "de:t": "\u00c4gypten | al-Iskandariyya"
+    },
+    {
+        "en": "Arish",
+        "en:t": "Egypt | Qesm Thaleth Al Arish",
+        "a": true,
+        "g": {
+            "lat": 31.1321,
+            "lon": 33.8033
+        },
+        "it": "Al-Arish",
+        "it:t": "Egitto | Qesm Thaleth Al Arish",
+        "es": "El Arish",
+        "es:t": "Egipto | Qesm Thaleth Al Arish",
+        "de": "al-Arisch",
+        "de:t": "\u00c4gypten | Qesm Thaleth Al Arish"
+    },
+    {
+        "en": "Ashmun",
+        "en:t": "Egypt | Madinet Ashmoun",
+        "a": true,
+        "g": {
+            "lat": 30.2945,
+            "lon": 30.9782
+        },
+        "it": "Ashmun",
+        "it:t": "Egitto | Madinet Ashmoun",
+        "es": "Ashm\u016bn",
+        "es:t": "Egipto | Madinet Ashmoun",
+        "de": "Ashmun",
+        "de:t": "\u00c4gypten | Madinet Ashmoun"
+    },
+    {
+        "en": "Aswan",
+        "en:t": "Egypt | Aswan",
+        "a": true,
+        "g": {
+            "lat": 24.0889,
+            "lon": 32.8998
+        },
+        "it": "Assuan",
+        "it:t": "Egitto | Assuan",
+        "es": "Asu\u00e1n",
+        "es:t": "Egipto",
+        "de": "Assuan",
+        "de:t": "\u00c4gypten | Aswan"
+    },
+    {
+        "en": "Asyut",
+        "en:t": "Egypt | Al Hamraa Ath Thaneyah",
+        "a": true,
+        "g": {
+            "lat": 27.1783,
+            "lon": 31.1859
+        },
+        "it": "Asyut",
+        "it:t": "Egitto | Al Hamraa Ath Thaneyah",
+        "es": "Asiut",
+        "es:t": "Egipto | Al Hamraa Ath Thaneyah",
+        "de": "Assiut",
+        "de:t": "\u00c4gypten | Al Hamraa Ath Thaneyah"
+    },
+    {
+        "en": "Ausim",
+        "en:t": "Egypt | Madinet Osim",
+        "a": true,
+        "g": {
+            "lat": 30.1175,
+            "lon": 31.1383
+        },
+        "it": "Ausim",
+        "it:t": "Egitto | Madinet Osim",
+        "es": "Aws\u012bm",
+        "es:t": "Egipto | Madinet Osim",
+        "de": "Ausim",
+        "de:t": "\u00c4gypten | Madinet Osim"
+    },
+    {
+        "en": "Banha",
+        "en:t": "Egypt | Qism Banha",
+        "a": true,
+        "g": {
+            "lat": 30.466,
+            "lon": 31.1848
+        },
+        "it": "Banha",
+        "it:t": "Egitto | Qism Banha",
+        "es": "Banha",
+        "es:t": "Egipto | Qism Banha",
+        "de": "Banha",
+        "de:t": "\u00c4gypten | Qism Banha"
+    },
+    {
+        "en": "Bani Mazar",
+        "en:t": "Egypt | Madinet Bani Mazar",
+        "a": true,
+        "g": {
+            "lat": 28.4917,
+            "lon": 30.8026
+        },
+        "it": "Beni Mazar",
+        "it:t": "Egitto | Madinet Bani Mazar",
+        "es": "Bani Mazar",
+        "es:t": "Egipto | Madinet Bani Mazar",
+        "de": "Bani Mazar",
+        "de:t": "\u00c4gypten | Madinet Bani Mazar"
+    },
+    {
+        "en": "Basioun",
+        "en:t": "Egypt | Basioun",
+        "a": true,
+        "g": {
+            "lat": 30.9399,
+            "lon": 30.8176
+        },
+        "it": "Basyoun",
+        "it:t": "Egitto | Basioun",
+        "es": "Basioun",
+        "es:t": "Egipto | Basioun",
+        "de": "Basioun",
+        "de:t": "\u00c4gypten | Basioun"
+    },
+    {
+        "en": "Belkas",
+        "en:t": "Egypt | Belkas",
+        "a": true,
+        "g": {
+            "lat": 31.2164,
+            "lon": 31.3605
+        },
+        "it": "Belkas",
+        "it:t": "Egitto | Belkas",
+        "es": "Belkas",
+        "es:t": "Egipto | Belkas",
+        "de": "Belkas",
+        "de:t": "\u00c4gypten | Belkas"
+    },
+    {
+        "en": "Beni Suef",
+        "en:t": "Egypt | Qism Bani Sweif",
+        "a": true,
+        "g": {
+            "lat": 29.0661,
+            "lon": 31.0994
+        },
+        "it": "Beni Suef",
+        "it:t": "Egitto | Qism Bani Sweif",
+        "es": "Bani Suwaif",
+        "es:t": "Egipto | Qism Bani Sweif",
+        "de": "Bani Suwaif",
+        "de:t": "\u00c4gypten | Qism Bani Sweif"
+    },
+    {
+        "en": "Cairo",
+        "en:t": "Egypt | Cairo",
+        "a": true,
+        "g": {
+            "lat": 30.0444,
+            "lon": 31.2357
+        },
+        "it": "Il Cairo",
+        "it:t": "Egitto | Cairo",
+        "es": "El Cairo",
+        "es:t": "Egipto | El Cairo",
+        "de": "Kairo",
+        "de:t": "\u00c4gypten | Al-Qahira"
+    },
+    {
+        "en": "Damanhour",
+        "en:t": "Egypt | Naqraha",
+        "a": true,
+        "g": {
+            "lat": 31.0425,
+            "lon": 30.4728
+        },
+        "it": "Damanhur",
+        "it:t": "Egitto | Naqraha",
+        "es": "Damanhur",
+        "es:t": "Egipto | Naqraha",
+        "de": "Damanhur",
+        "de:t": "\u00c4gypten | Naqraha"
+    },
+    {
+        "en": "Damietta",
+        "en:t": "Egypt | Qism Damietta",
+        "a": true,
+        "g": {
+            "lat": 31.4175,
+            "lon": 31.8144
+        },
+        "it": "Damietta",
+        "it:t": "Egitto | Qism Damietta",
+        "es": "Damieta",
+        "es:t": "Egipto | Qism Damietta",
+        "de": "Damiette",
+        "de:t": "\u00c4gypten | Qism Damietta"
+    },
+    {
+        "en": "Dayrout",
+        "en:t": "Egypt | Dayrout El-Shareef",
+        "a": true,
+        "g": {
+            "lat": 27.5502,
+            "lon": 30.8078
+        },
+        "it": "Dairut",
+        "it:t": "Egitto | Dayrout El-Shareef",
+        "es": "Dayrout",
+        "es:t": "Egipto | Dayrout El-Shareef",
+        "de": "Dayrout",
+        "de:t": "\u00c4gypten | Dayrout El-Shareef"
+    },
+    {
+        "en": "Desouk",
+        "en:t": "Egypt | Kafr Ibrahim",
+        "a": true,
+        "g": {
+            "lat": 31.1341,
+            "lon": 30.646
+        },
+        "it": "Disuq",
+        "it:t": "Egitto | Kafr Ibrahim",
+        "es": "Desouk",
+        "es:t": "Egipto | Kafr Ibrahim",
+        "de": "Disuk",
+        "de:t": "\u00c4gypten | Kafr Ibrahim"
+    },
+    {
+        "en": "Dikirnis",
+        "en:t": "Egypt | Madinet Dikirnis",
+        "a": true,
+        "g": {
+            "lat": 31.0857,
+            "lon": 31.5888
+        },
+        "it": "Dikirnis",
+        "it:t": "Egitto | Madinet Dikirnis",
+        "es": "Dikirnis",
+        "es:t": "Egipto | Madinet Dikirnis",
+        "de": "Dikirnis",
+        "de:t": "\u00c4gypten | Madinet Dikirnis"
+    },
+    {
+        "en": "Dishna",
+        "en:t": "Egypt | Madinet Dishna",
+        "a": true,
+        "g": {
+            "lat": 26.1255,
+            "lon": 32.4717
+        },
+        "it": "Dishna",
+        "it:t": "Egitto | Madinet Dishna",
+        "es": "Dishna",
+        "es:t": "Egipto | Madinet Dishna",
+        "de": "Dishna",
+        "de:t": "\u00c4gypten | Madinet Dishna"
+    },
+    {
+        "en": "Edfu",
+        "en:t": "Egypt | Adfo",
+        "a": true,
+        "g": {
+            "lat": 24.9792,
+            "lon": 32.8758
+        },
+        "it": "Edfu",
+        "it:t": "Egitto | Adfo",
+        "es": "Edfu",
+        "es:t": "Egipto | Adfo",
+        "de": "Edfu",
+        "de:t": "\u00c4gypten | Adfo"
+    },
+    {
+        "en": "El Beheira",
+        "en:t": "Egypt",
+        "a": true,
+        "g": {
+            "lat": 30.8481,
+            "lon": 30.3436
+        },
+        "it": "Buhayra",
+        "it:t": "Egitto",
+        "es": "Buheira",
+        "es:t": "Egipto",
+        "de": "Al-Buhaira",
+        "de:t": "\u00c4gypten"
+    },
+    {
+        "en": "El Matareya",
+        "en:t": "Egypt | Qesm Awal Al Ganoub",
+        "a": true,
+        "g": {
+            "lat": 31.2,
+            "lon": 32.2
+        },
+        "it": "El Matareya",
+        "it:t": "Egitto | Qesm Awal Al Ganoub",
+        "es": "Dakahlia",
+        "es:t": "Egipto | Qesm Awal Al Ganoub",
+        "de": "El Matareya",
+        "de:t": "\u00c4gypten | Qesm Awal Al Ganoub"
+    },
+    {
+        "en": "El-Bagour",
+        "en:t": "Egypt | Menofia",
+        "a": true,
+        "g": {
+            "lat": 30.4338,
+            "lon": 31.0564
+        },
+        "it": "El-Bagour",
+        "it:t": "Egitto | Menofia",
+        "es": "El-Bagour",
+        "es:t": "Egipto | Menofia",
+        "de": "El-Bagour",
+        "de:t": "\u00c4gypten | Menofia"
+    },
+    {
+        "en": "El-Hamoul",
+        "en:t": "Egypt | Al Kafr Ash Sharqi",
+        "a": true,
+        "g": {
+            "lat": 31.3113,
+            "lon": 31.1463
+        },
+        "it": "El-Hamoul",
+        "it:t": "Egitto | Al Kafr Ash Sharqi",
+        "es": "Al-Hamool",
+        "es:t": "Egipto | Al Kafr Ash Sharqi",
+        "de": "El-Hamoul",
+        "de:t": "\u00c4gypten | Al Kafr Ash Sharqi"
+    },
+    {
+        "en": "El-Hawamdeyya",
+        "en:t": "Egypt | Giza",
+        "a": true,
+        "g": {
+            "lat": 29.8952,
+            "lon": 31.2632
+        },
+        "it": "El-Hawamdeyya",
+        "it:t": "Egitto | Giza",
+        "es": "El-Hawamdeyya",
+        "es:t": "Egipto | Giza",
+        "de": "El-Hawamdeyya",
+        "de:t": "\u00c4gypten | Giza"
+    },
+    {
+        "en": "El-Mahalla El-Kubra",
+        "en:t": "Egypt | Al Mahalah Al Kubra",
+        "a": true,
+        "g": {
+            "lat": 30.9697,
+            "lon": 31.1681
+        },
+        "it": "El-Mahalla El-Kubra",
+        "it:t": "Egitto | Al Mahalah Al Kubra",
+        "es": "El-Mahalla El-Kubra",
+        "es:t": "Egipto | Al Mahalah Al Kubra",
+        "de": "al-Mahalla al-Kubra",
+        "de:t": "\u00c4gypten | Al Mahalah Al Kubra"
+    },
+    {
+        "en": "El-Saf",
+        "en:t": "Egypt | El-Saf",
+        "a": true,
+        "g": {
+            "lat": 29.5762,
+            "lon": 31.2912
+        },
+        "it": "El-Saf",
+        "it:t": "Egitto | El-Saf",
+        "es": "El-Saf",
+        "es:t": "Egipto | El-Saf",
+        "de": "El-Saf",
+        "de:t": "\u00c4gypten | El-Saf"
+    },
+    {
+        "en": "Esna",
+        "en:t": "Egypt | Esna",
+        "a": true,
+        "g": {
+            "lat": 25.2941,
+            "lon": 32.5477
+        },
+        "it": "Esna",
+        "it:t": "Egitto | Esna",
+        "es": "Esna",
+        "es:t": "Egipto | Esna",
+        "de": "Esna",
+        "de:t": "\u00c4gypten | Esna"
+    },
+    {
+        "en": "Faiyum",
+        "en:t": "Egypt | Qesm Al Fayoum",
+        "a": true,
+        "g": {
+            "lat": 29.3084,
+            "lon": 30.8428
+        },
+        "it": "Fayyum",
+        "it:t": "Egitto | Qesm Al Fayoum",
+        "es": "Fay\u00fan",
+        "es:t": "Egipto | Qesm Al Fayoum",
+        "de": "al-Fayy\u016bm",
+        "de:t": "\u00c4gypten | Qesm Al Fayoum"
+    },
+    {
+        "en": "Faqus",
+        "en:t": "Egypt | Ad Daydamoun",
+        "a": true,
+        "g": {
+            "lat": 30.7293,
+            "lon": 31.7978
+        },
+        "it": "Faqus",
+        "it:t": "Egitto | Ad Daydamoun",
+        "es": "Faqus",
+        "es:t": "Egipto | Ad Daydamoun",
+        "de": "Faqus",
+        "de:t": "\u00c4gypten | Ad Daydamoun"
+    },
+    {
+        "en": "Faraskur",
+        "en:t": "Egypt | Madinet Faraskour",
+        "a": true,
+        "g": {
+            "lat": 31.3272,
+            "lon": 31.7173
+        },
+        "it": "Faraskur",
+        "it:t": "Egitto | Madinet Faraskour",
+        "es": "Faraskur",
+        "es:t": "Egipto | Madinet Faraskour",
+        "de": "Faraskur",
+        "de:t": "\u00c4gypten | Madinet Faraskour"
+    },
+    {
+        "en": "Farshut",
+        "en:t": "Egypt | Madinet Farshout",
+        "a": true,
+        "g": {
+            "lat": 26.055,
+            "lon": 32.1619
+        },
+        "it": "Farshut",
+        "it:t": "Egitto | Madinet Farshout",
+        "es": "Farshut",
+        "es:t": "Egipto | Madinet Farshout",
+        "de": "Farshut",
+        "de:t": "\u00c4gypten | Madinet Farshout"
+    },
+    {
+        "en": "Fuwwah",
+        "en:t": "Egypt | Madinet Fowa",
+        "a": true,
+        "g": {
+            "lat": 31.2035,
+            "lon": 30.5502
+        },
+        "it": "Fuwwah",
+        "it:t": "Egitto | Madinet Fowa",
+        "es": "Fuwwah",
+        "es:t": "Egipto | Madinet Fowa",
+        "de": "Fuwwa",
+        "de:t": "\u00c4gypten | Madinet Fowa"
+    },
+    {
+        "en": "Girga",
+        "en:t": "Egypt | Gerga",
+        "a": true,
+        "g": {
+            "lat": 26.3419,
+            "lon": 31.8876
+        },
+        "it": "Thinis",
+        "it:t": "Egitto | Gerga",
+        "es": "Girga",
+        "es:t": "Egipto | Gerga",
+        "de": "Girga",
+        "de:t": "\u00c4gypten | Gerga"
+    },
+    {
+        "en": "Giza",
+        "en:t": "Egypt | El Omraniya",
+        "a": true,
+        "g": {
+            "lat": 30.0131,
+            "lon": 31.2089
+        },
+        "it": "Giza",
+        "it:t": "Egitto | El Omraniya",
+        "es": "Guiza",
+        "es:t": "Egipto | El Omraniya",
+        "de": "Gizeh",
+        "de:t": "\u00c4gypten | El Omraniya"
+    },
+    {
+        "en": "Helwan",
+        "en:t": "Egypt | Helwan Sharkeya",
+        "a": true,
+        "g": {
+            "lat": 29.8403,
+            "lon": 31.2982
+        },
+        "it": "Helwan",
+        "it:t": "Egitto | Helwan Sharkeya",
+        "es": "Helwan",
+        "es:t": "Egipto | Helwan Sharkeya",
+        "de": "Helwan",
+        "de:t": "\u00c4gypten | Helwan Sharkeya"
+    },
+    {
+        "en": "Hihya",
+        "en:t": "Egypt | Hehya",
+        "a": true,
+        "g": {
+            "lat": 30.6719,
+            "lon": 31.5914
+        },
+        "it": "Ahmed Oraby",
+        "it:t": "Egitto | Hihya",
+        "es": "Hihya",
+        "es:t": "Egipto | Hehya",
+        "de": "Hihya",
+        "de:t": "\u00c4gypten | Hehya"
+    },
+    {
+        "en": "Hurghada",
+        "en:t": "Egypt",
+        "a": true,
+        "g": {
+            "lat": 27.2579,
+            "lon": 33.8116
+        },
+        "it": "Hurghada",
+        "it:t": "Egitto",
+        "es": "Hurgada",
+        "es:t": "Egipto",
+        "de": "Hurghada",
+        "de:t": "\u00c4gypten"
+    },
+    {
+        "en": "ITSA",
+        "en:t": "Egypt | Madinet ATSA",
+        "a": true,
+        "g": {
+            "lat": 29.2379,
+            "lon": 30.7913
+        },
+        "it": "ITSA",
+        "it:t": "Egitto | Madinet ATSA",
+        "es": "ITSA",
+        "es:t": "Egipto | Madinet ATSA",
+        "de": "ITSA",
+        "de:t": "\u00c4gypten | Madinet ATSA"
+    },
+    {
+        "en": "Ibshaway",
+        "en:t": "Egypt | Madinet Ibsheway",
+        "a": true,
+        "g": {
+            "lat": 29.3594,
+            "lon": 30.6816
+        },
+        "it": "Ibshaway",
+        "it:t": "Egitto | Madinet Ibsheway",
+        "es": "Ibshaway",
+        "es:t": "Egipto | Madinet Ibsheway",
+        "de": "Ibshaway",
+        "de:t": "\u00c4gypten | Madinet Ibsheway"
+    },
+    {
+        "en": "Idku",
+        "en:t": "Egypt | El Beheira",
+        "a": true,
+        "g": {
+            "lat": 31.304,
+            "lon": 30.3065
+        },
+        "it": "Idku",
+        "it:t": "Egitto | El Beheira",
+        "es": "Idk\u016b",
+        "es:t": "Egipto | Buheira",
+        "de": "Idku",
+        "de:t": "\u00c4gypten | El Beheira"
+    },
+    {
+        "en": "Ismailia",
+        "en:t": "Egypt",
+        "a": true,
+        "g": {
+            "lat": 30.5965,
+            "lon": 32.2715
+        },
+        "it": "Ismailia",
+        "it:t": "Egitto",
+        "es": "Ismail\u00eda",
+        "es:t": "Egipto",
+        "de": "Isma\u02bfilia",
+        "de:t": "\u00c4gypten"
+    },
+    {
+        "en": "Juhaynah",
+        "en:t": "Egypt | Geheinah",
+        "a": true,
+        "g": {
+            "lat": 26.6761,
+            "lon": 31.4946
+        },
+        "it": "Juhaynah",
+        "it:t": "Egitto | Geheinah",
+        "es": "Juhaynah",
+        "es:t": "Egipto | Geheinah",
+        "de": "Juhaynah",
+        "de:t": "\u00c4gypten | Geheinah"
+    },
+    {
+        "en": "Kafr El-Dawar",
+        "en:t": "Egypt | Monshaat Al Awqaf",
+        "a": true,
+        "g": {
+            "lat": 31.1357,
+            "lon": 30.1328
+        },
+        "it": "Kafr el-Dawar",
+        "it:t": "Egitto | Monshaat Al Awqaf",
+        "es": "Kafr El-Dawar",
+        "es:t": "Egipto | Monshaat Al Awqaf",
+        "de": "Kafr ad-Dawwar",
+        "de:t": "\u00c4gypten | Monshaat Al Awqaf"
+    },
+    {
+        "en": "Kafr El-Shaikh",
+        "en:t": "Egypt | Qism Kafr El-Shaikh",
+        "a": true,
+        "g": {
+            "lat": 31.1107,
+            "lon": 30.9388
+        },
+        "it": "Kafr el-Sheikh",
+        "it:t": "Egitto | Qism Kafr El-Shaikh",
+        "es": "Kafr el Sheij",
+        "es:t": "Egipto | Qism Kafr El-Shaikh",
+        "de": "Kafr asch-Schaich",
+        "de:t": "\u00c4gypten | Qism Kafr El-Shaikh"
+    },
+    {
+        "en": "Kafr El-Zayat",
+        "en:t": "Egypt | Kafr El-Zayat",
+        "a": true,
+        "g": {
+            "lat": 30.8285,
+            "lon": 30.8138
+        },
+        "it": "Kafr El-Zayat",
+        "it:t": "Egitto | Kafr El-Zayat",
+        "es": "Kafr El-Zayat",
+        "es:t": "Egipto | Kafr El-Zayat",
+        "de": "Kafr az-Zayyat",
+        "de:t": "\u00c4gypten | Kafr El-Zayat"
+    },
+    {
+        "en": "Kafr Saqr",
+        "en:t": "Egypt | Monshaat Shalaby",
+        "a": true,
+        "g": {
+            "lat": 30.7926,
+            "lon": 31.6235
+        },
+        "it": "Kafr Saqr",
+        "it:t": "Egitto | Monshaat Shalaby",
+        "es": "Kafr Saqr",
+        "es:t": "Egipto | Monshaat Shalaby",
+        "de": "Kafr Saqr",
+        "de:t": "\u00c4gypten | Monshaat Shalaby"
+    },
+    {
+        "en": "Kawm Hamadah",
+        "en:t": "Egypt | Kom Hamada",
+        "a": true,
+        "g": {
+            "lat": 30.7634,
+            "lon": 30.6968
+        },
+        "it": "Kawm Hamadah",
+        "it:t": "Egitto | Kom Hamada",
+        "es": "Kawm Hamadah",
+        "es:t": "Egipto | Kom Hamada",
+        "de": "Kawm Hamadah",
+        "de:t": "\u00c4gypten | Kom Hamada"
+    },
+    {
+        "en": "Kharga",
+        "en:t": "Egypt | Qesm Al Wahat Ad Dakhlah",
+        "a": true,
+        "g": {
+            "lat": 25.439,
+            "lon": 30.5586
+        },
+        "it": "Kharga",
+        "it:t": "Egitto | Qesm Al Wahat Ad Dakhlah",
+        "es": "Jariy\u00e1",
+        "es:t": "Egipto | Qesm Al Wahat Ad Dakhlah",
+        "de": "Charga",
+        "de:t": "\u00c4gypten | Qesm Al Wahat Ad Dakhlah"
+    },
+    {
+        "en": "Kom Ombo",
+        "en:t": "Egypt | Markaz Kom Ombo",
+        "a": true,
+        "g": {
+            "lat": 24.4698,
+            "lon": 32.9381
+        },
+        "it": "K\u00f4m Ombo",
+        "it:t": "Egitto | Markaz Kom Ombo",
+        "es": "Kom Ombo",
+        "es:t": "Egipto | Markaz Kom Ombo",
+        "de": "Kom Ombo",
+        "de:t": "\u00c4gypten | Markaz Kom Ombo"
+    },
+    {
+        "en": "Luxor",
+        "en:t": "Egypt | Luxor",
+        "a": true,
+        "g": {
+            "lat": 25.6872,
+            "lon": 32.6396
+        },
+        "it": "Luxor",
+        "it:t": "Egitto | Luxor",
+        "es": "L\u00faxor",
+        "es:t": "Egipto | Luxor",
+        "de": "Luxor",
+        "de:t": "\u00c4gypten | Luxor"
+    },
+    {
+        "en": "Mallawi",
+        "en:t": "Egypt | Qesm Melawi",
+        "a": true,
+        "g": {
+            "lat": 27.7359,
+            "lon": 30.8448
+        },
+        "it": "Mallawi",
+        "it:t": "Egitto | Qesm Melawi",
+        "es": "Mallawi",
+        "es:t": "Egipto | Qesm Melawi",
+        "de": "Mallaw\u012b",
+        "de:t": "\u00c4gypten | Qesm Melawi"
+    },
+    {
+        "en": "Manfalut",
+        "en:t": "Egypt | Manfalout",
+        "a": true,
+        "g": {
+            "lat": 27.3114,
+            "lon": 30.9715
+        },
+        "it": "Manfalut",
+        "it:t": "Egitto | Manfalout",
+        "es": "Manfalut",
+        "es:t": "Egipto | Manfalout",
+        "de": "Manfalut",
+        "de:t": "\u00c4gypten"
+    },
+    {
+        "en": "Mansoura",
+        "en:t": "Egypt | Mansoura Qism",
+        "a": true,
+        "g": {
+            "lat": 31.0409,
+            "lon": 31.3785
+        },
+        "it": "Mansura",
+        "it:t": "Egitto | Mansoura Qism",
+        "es": "El Mansur\u00e1",
+        "es:t": "Egipto | Mansoura Qism",
+        "de": "al-Mansura",
+        "de:t": "\u00c4gypten | Mansoura Qism"
+    },
+    {
+        "en": "Marsa Matruh",
+        "en:t": "Egypt | Qism Moursy Matrouh",
+        "a": true,
+        "g": {
+            "lat": 31.3543,
+            "lon": 27.2373
+        },
+        "it": "Marsa Matruh",
+        "it:t": "Egitto | Qism Moursy Matrouh",
+        "es": "Marsa Matruh",
+        "es:t": "Egipto | Qism Moursy Matrouh",
+        "de": "Marsa Matruh",
+        "de:t": "\u00c4gypten | Qism Moursy Matrouh"
+    },
+    {
+        "en": "Mashtul as Suq",
+        "en:t": "Egypt | Mashtoul as Souq",
+        "a": true,
+        "g": {
+            "lat": 30.3609,
+            "lon": 31.3793
+        },
+        "it": "Mashtul as Suq",
+        "it:t": "Egitto | Mashtoul as Souq",
+        "es": "Mashtul as Suq",
+        "es:t": "Egipto | Mashtoul as Souq",
+        "de": "Mashtul",
+        "de:t": "\u00c4gypten | Mashtoul as Souq"
+    },
+    {
+        "en": "Matay",
+        "en:t": "Egypt | Madinet Matay",
+        "a": true,
+        "g": {
+            "lat": 28.4173,
+            "lon": 30.7818
+        },
+        "it": "Matay",
+        "it:t": "Egitto | Madinet Matay",
+        "es": "Matay",
+        "es:t": "Egipto | Madinet Matay",
+        "de": "Ma\u1e6d\u0101i",
+        "de:t": "\u00c4gypten | Madinet Matay"
+    },
+    {
+        "en": "Menyet El-Nasr",
+        "en:t": "Egypt | Dakahlia",
+        "a": true,
+        "g": {
+            "lat": 31.1714,
+            "lon": 31.6967
+        },
+        "it": "Menyet El-Nasr",
+        "it:t": "Egitto | Dakahlia",
+        "es": "Menyet El-Nasr",
+        "es:t": "Egipto | Dakahlia",
+        "de": "Menyet El-Nasr",
+        "de:t": "\u00c4gypten | Dakahlia"
+    },
+    {
+        "en": "Minuf",
+        "en:t": "Egypt | Madinet Menuf",
+        "a": true,
+        "g": {
+            "lat": 30.4641,
+            "lon": 30.9358
+        },
+        "it": "Minuf",
+        "it:t": "Egitto | Madinet Menuf",
+        "es": "Menouf",
+        "es:t": "Egipto | Madinet Menuf",
+        "de": "Minuf",
+        "de:t": "\u00c4gypten | Madinet Menuf"
+    },
+    {
+        "en": "Nagaa Hammadi",
+        "en:t": "Egypt | Madinet Najaa Hammadi",
+        "a": true,
+        "g": {
+            "lat": 26.0488,
+            "lon": 32.2403
+        },
+        "it": "Nag Hamm\u00e2di",
+        "it:t": "Egitto | Madinet Najaa Hammadi",
+        "es": "Nag Hammadi",
+        "es:t": "Egipto | Madinet Najaa Hammadi",
+        "de": "Nag Hammadi",
+        "de:t": "\u00c4gypten | Madinet Najaa Hammadi"
+    },
+    {
+        "en": "Naser",
+        "en:t": "Egypt | Nasir",
+        "a": true,
+        "g": {
+            "lat": 29.1493,
+            "lon": 31.1294
+        },
+        "it": "Naser",
+        "it:t": "Egitto | Nasir",
+        "es": "Nasser",
+        "es:t": "Egipto | Nasir",
+        "de": "Nasir",
+        "de:t": "\u00c4gypten | Nasir"
+    },
+    {
+        "en": "Port Said",
+        "en:t": "Egypt | Port Fouad",
+        "a": true,
+        "g": {
+            "lat": 31.2653,
+            "lon": 32.3019
+        },
+        "it": "Porto Said",
+        "it:t": "Egitto | Port Fouad",
+        "es": "Puerto Said",
+        "es:t": "Egipto | Port Fouad",
+        "de": "Port Said",
+        "de:t": "\u00c4gypten | Port Fouad"
+    },
+    {
+        "en": "Qalyub",
+        "en:t": "Egypt | Madinet Qelyoub",
+        "a": true,
+        "g": {
+            "lat": 30.1798,
+            "lon": 31.2068
+        },
+        "it": "Qalyub",
+        "it:t": "Egitto | Madinet Qelyoub",
+        "es": "Qalyub",
+        "es:t": "Egipto | Madinet Qelyoub",
+        "de": "Qalyub",
+        "de:t": "\u00c4gypten | Madinet Qelyoub"
+    },
+    {
+        "en": "Qena",
+        "en:t": "Egypt | Qism Qena",
+        "a": true,
+        "g": {
+            "lat": 26.1551,
+            "lon": 32.716
+        },
+        "it": "Qena",
+        "it:t": "Egitto | Qism Qena",
+        "es": "Quena",
+        "es:t": "Egipto | Qism Qena",
+        "de": "Qina",
+        "de:t": "\u00c4gypten | Qism Qena"
+    },
+    {
+        "en": "Qus",
+        "en:t": "Egypt | Madinet Qaws",
+        "a": true,
+        "g": {
+            "lat": 25.9181,
+            "lon": 32.7597
+        },
+        "it": "Qus",
+        "it:t": "Egitto | Madinet Qaws",
+        "es": "Apolin\u00f3polis Parva",
+        "es:t": "Egipto | Madinet Qaws",
+        "de": "Qus",
+        "de:t": "\u00c4gypten | Madinet Qaws"
+    },
+    {
+        "en": "Quseer",
+        "en:t": "Egypt | Qesm Al Qoseir",
+        "a": true,
+        "g": {
+            "lat": 26.1014,
+            "lon": 34.2803
+        },
+        "it": "Quseir",
+        "it:t": "Egitto | Qesm Al Qoseir",
+        "es": "Quseer",
+        "es:t": "Egipto | Qesm Al Qoseir",
+        "de": "al-Qusair",
+        "de:t": "\u00c4gypten | Qesm Al Qoseir"
+    },
+    {
+        "en": "Qutur",
+        "en:t": "Egypt | Madinet Qotour",
+        "a": true,
+        "g": {
+            "lat": 30.9697,
+            "lon": 30.9572
+        },
+        "it": "Qutur",
+        "it:t": "Egitto | Madinet Qotour",
+        "es": "Qutur",
+        "es:t": "Egipto | Madinet Qotour",
+        "de": "Qutur",
+        "de:t": "\u00c4gypten | Madinet Qotour"
+    },
+    {
+        "en": "Quwaysna",
+        "en:t": "Egypt | Qewaisna Al Balad",
+        "a": true,
+        "g": {
+            "lat": 30.5625,
+            "lon": 31.1599
+        },
+        "it": "Quwaysna",
+        "it:t": "Egitto | Qewaisna Al Balad",
+        "es": "Quwaysna",
+        "es:t": "Egipto | Qewaisna Al Balad",
+        "de": "Quwaysna",
+        "de:t": "\u00c4gypten | Qewaisna Al Balad"
+    },
+    {
+        "en": "Ras Ghareb",
+        "en:t": "Egypt | Qism Ras Ghareb",
+        "a": true,
+        "g": {
+            "lat": 28.3627,
+            "lon": 33.0795
+        },
+        "it": "Ras Gharib",
+        "it:t": "Egitto | Qism Ras Ghareb",
+        "es": "Ras Gharib",
+        "es:t": "Egipto | Qism Ras Ghareb",
+        "de": "Ras Gharib",
+        "de:t": "\u00c4gypten | Qism Ras Ghareb"
+    },
+    {
+        "en": "Rosetta",
+        "en:t": "Egypt | Rasheed",
+        "a": true,
+        "g": {
+            "lat": 31.394,
+            "lon": 30.4148
+        },
+        "it": "Rosetta",
+        "it:t": "Egitto | Rasheed",
+        "es": "Rosetta",
+        "es:t": "Egipto | Rasheed",
+        "de": "Rosette",
+        "de:t": "\u00c4gypten | Rasheed"
+    },
+    {
+        "en": "Safaga",
+        "en:t": "Egypt | Qesm Safaga",
+        "a": true,
+        "g": {
+            "lat": 26.75,
+            "lon": 33.936
+        },
+        "it": "Safaga",
+        "it:t": "Egitto | Qesm Safaga",
+        "es": "Safaga",
+        "es:t": "Egipto | Qesm Safaga",
+        "de": "Safaga",
+        "de:t": "\u00c4gypten | Qesm Safaga"
+    },
+    {
+        "en": "Samalut",
+        "en:t": "Egypt | Madinet Samalout",
+        "a": true,
+        "g": {
+            "lat": 28.2978,
+            "lon": 30.7117
+        },
+        "it": "Samalut",
+        "it:t": "Egitto | Madinet Samalout",
+        "es": "Samalut",
+        "es:t": "Egipto | Madinet Samalout",
+        "de": "Samalut",
+        "de:t": "\u00c4gypten | Madinet Samalout"
+    },
+    {
+        "en": "Samannoud",
+        "en:t": "Egypt | Samannoud",
+        "a": true,
+        "g": {
+            "lat": 30.9614,
+            "lon": 31.2413
+        },
+        "it": "Djebnetjer",
+        "it:t": "Egitto | Samannoud",
+        "es": "Sebennitos",
+        "es:t": "Egipto | Samannoud",
+        "de": "Sebennytos",
+        "de:t": "\u00c4gypten | Samannoud"
+    },
+    {
+        "en": "Shebeen El-Kom",
+        "en:t": "Egypt | Qism Shebeen El-Kom",
+        "a": true,
+        "g": {
+            "lat": 30.5503,
+            "lon": 31.0106
+        },
+        "it": "Shibin El Kom",
+        "it:t": "Egitto | Qism Shebeen El-Kom",
+        "es": "Shibin el-Kom",
+        "es:t": "Egipto | Qism Shebeen El-Kom",
+        "de": "Schibin al-Kaum",
+        "de:t": "\u00c4gypten | Qism Shebeen El-Kom"
+    },
+    {
+        "en": "Shibin Al Kawm",
+        "en:t": "Egypt | El-Shohada",
+        "a": true,
+        "g": {
+            "lat": 30.5921,
+            "lon": 30.9008
+        },
+        "it": "Shibin Al Kawm",
+        "it:t": "Egitto | El-Shohada",
+        "es": "Shibin Al Kawm",
+        "es:t": "Egipto | El-Shohada",
+        "de": "Shibin Al Kawm",
+        "de:t": "\u00c4gypten | El-Shohada"
+    },
+    {
+        "en": "Shibin Al Qanatir",
+        "en:t": "Egypt | Madinet Shibin Al Qanater",
+        "a": true,
+        "g": {
+            "lat": 30.3114,
+            "lon": 31.3229
+        },
+        "it": "Shibin Al Qanatir",
+        "it:t": "Egitto | Madinet Shibin Al Qanater",
+        "es": "Shibin Al Qanatir",
+        "es:t": "Egipto | Madinet Shibin Al Qanater",
+        "de": "Shibin Al Qanatir",
+        "de:t": "\u00c4gypten | Madinet Shibin Al Qanater"
+    },
+    {
+        "en": "Shirbin",
+        "en:t": "Egypt | Sherbeen",
+        "a": true,
+        "g": {
+            "lat": 31.1968,
+            "lon": 31.5209
+        },
+        "it": "Shirbin",
+        "it:t": "Egitto | Sherbeen",
+        "es": "Shirbin",
+        "es:t": "Egipto | Sherbeen",
+        "de": "Scharbin",
+        "de:t": "\u00c4gypten | Sherbeen"
+    },
+    {
+        "en": "Sidi Salem",
+        "en:t": "Egypt | Sidi Salem",
+        "a": true,
+        "g": {
+            "lat": 31.2693,
+            "lon": 30.7873
+        },
+        "it": "Sidi Salem",
+        "it:t": "Egitto | Sidi Salem",
+        "es": "Sidi Salem",
+        "es:t": "Egipto | Sidi Salem",
+        "de": "Sidi Salem",
+        "de:t": "\u00c4gypten | Sidi Salem"
+    },
+    {
+        "en": "Sohag",
+        "en:t": "Egypt | El-Khouly",
+        "a": true,
+        "g": {
+            "lat": 26.5591,
+            "lon": 31.6957
+        },
+        "it": "Sohag",
+        "it:t": "Egitto | El-Khouly",
+        "es": "Suhag",
+        "es:t": "Egipto | El-Khouly",
+        "de": "Sohag",
+        "de:t": "\u00c4gypten | El-Khouly"
+    },
+    {
+        "en": "Suez",
+        "en:t": "Egypt",
+        "a": true,
+        "g": {
+            "lat": 29.9668,
+            "lon": 32.5498
+        },
+        "it": "Suez",
+        "it:t": "Egitto",
+        "es": "Suez",
+        "es:t": "Egipto",
+        "de": "Sues",
+        "de:t": "\u00c4gypten | Suez"
+    },
+    {
+        "en": "Tahta",
+        "en:t": "Egypt",
+        "a": true,
+        "g": {
+            "lat": 26.7648,
+            "lon": 31.4983
+        },
+        "it": "Tahta",
+        "it:t": "Egitto",
+        "es": "Tahta",
+        "es:t": "Egipto",
+        "de": "Tahta",
+        "de:t": "\u00c4gypten"
+    },
+    {
+        "en": "Tala",
+        "en:t": "Egypt | Madinet Tala",
+        "a": true,
+        "g": {
+            "lat": 30.6795,
+            "lon": 30.9427
+        },
+        "it": "Tala",
+        "it:t": "Egitto | Madinet Tala",
+        "es": "Tala",
+        "es:t": "Egipto | Madinet Tala",
+        "de": "Tala",
+        "de:t": "\u00c4gypten | Madinet Tala"
+    },
+    {
+        "en": "Talkha",
+        "en:t": "Egypt | Talkha",
+        "a": true,
+        "g": {
+            "lat": 31.0549,
+            "lon": 31.3802
+        },
+        "it": "Talkha",
+        "it:t": "Egitto | Talkha",
+        "es": "Talkha",
+        "es:t": "Egipto | Talkha",
+        "de": "Talkha",
+        "de:t": "\u00c4gypten | Talkha"
+    },
+    {
+        "en": "Toukh",
+        "en:t": "Egypt | Toukh",
+        "a": true,
+        "g": {
+            "lat": 30.3537,
+            "lon": 31.2021
+        },
+        "it": "Toukh",
+        "it:t": "Egitto | Toukh",
+        "es": "Toukh",
+        "es:t": "Egipto | Toukh",
+        "de": "Toukh",
+        "de:t": "\u00c4gypten | Toukh"
+    },
+    {
+        "en": "Zagazig",
+        "en:t": "Egypt | El-Hariry",
+        "a": true,
+        "g": {
+            "lat": 30.5765,
+            "lon": 31.5041
+        },
+        "it": "Zagazig",
+        "it:t": "Egitto | El-Hariry",
+        "es": "Zaqaziq",
+        "es:t": "Egipto | El-Hariry",
+        "de": "Zagazig",
+        "de:t": "\u00c4gypten | El-Hariry"
+    },
+    {
+        "en": "Zifta",
+        "en:t": "Egypt | Madinet Zefta",
+        "a": true,
+        "g": {
+            "lat": 30.7127,
+            "lon": 31.24
+        },
+        "it": "Zefta",
+        "it:t": "Egitto | Madinet Zefta",
+        "es": "Zifta",
+        "es:t": "Egipto | Madinet Zefta",
+        "de": "Zifta",
+        "de:t": "\u00c4gypten | Madinet Zefta"
+    }
+]

@@ -1,0 +1,137 @@
+[
+    {
+        "en": "Kohtla-J\u00e4rve",
+        "en:t": "Estonia | Ida-Viru",
+        "a": true,
+        "g": {
+            "lat": 59.3973,
+            "lon": 27.28
+        },
+        "it": "Kohtla-J\u00e4rve",
+        "it:t": "Estonia | Ida-Virumaa",
+        "es": "Kohtla-J\u00e4rve",
+        "es:t": "Estonia | Ida-Viru",
+        "de": "Kohtla-J\u00e4rve",
+        "de:t": "Estland | Kreis Ida-Viru"
+    },
+    {
+        "en": "Maardu",
+        "en:t": "Estonia",
+        "a": true,
+        "g": {
+            "lat": 59.4709,
+            "lon": 24.9672
+        },
+        "it": "Maardu",
+        "it:t": "Estonia",
+        "es": "Maardu",
+        "es:t": "Estonia",
+        "de": "Maardu",
+        "de:t": "Estland"
+    },
+    {
+        "en": "Narva",
+        "en:t": "Estonia | Ida-Viru",
+        "a": true,
+        "g": {
+            "lat": 59.3797,
+            "lon": 28.1791
+        },
+        "it": "Narva",
+        "it:t": "Estonia | Ida-Virumaa",
+        "es": "Narva",
+        "es:t": "Estonia | Ida-Viru",
+        "de": "Narwa",
+        "de:t": "Estland | Kreis Ida-Viru"
+    },
+    {
+        "en": "P\u00e4rnu",
+        "en:t": "Estonia | P\u00e4rnu",
+        "a": true,
+        "g": {
+            "lat": 58.3917,
+            "lon": 24.4953
+        },
+        "it": "P\u00e4rnu",
+        "it:t": "Estonia | P\u00e4rnumaa",
+        "es": "P\u00e4rnu",
+        "es:t": "Estonia | P\u00e4rnu",
+        "de": "P\u00e4rnu",
+        "de:t": "Estland | Kreis P\u00e4rnu"
+    },
+    {
+        "en": "Rakvere",
+        "en:t": "Estonia | L\u00e4\u00e4ne-Viru",
+        "a": true,
+        "g": {
+            "lat": 59.3471,
+            "lon": 26.3593
+        },
+        "it": "Rakvere",
+        "it:t": "Estonia | L\u00e4\u00e4ne-Virumaa",
+        "es": "Rakvere",
+        "es:t": "Estonia | L\u00e4\u00e4ne-Viru",
+        "de": "Rakvere",
+        "de:t": "Estland | Kreis L\u00e4\u00e4ne-Viru"
+    },
+    {
+        "en": "Sillam\u00e4e",
+        "en:t": "Estonia | Ida-Viru",
+        "a": true,
+        "g": {
+            "lat": 59.3995,
+            "lon": 27.7481
+        },
+        "it": "Sillam\u00e4e",
+        "it:t": "Estonia | Ida-Virumaa",
+        "es": "Sillam\u00e4e",
+        "es:t": "Estonia | Ida-Viru",
+        "de": "Sillam\u00e4e",
+        "de:t": "Estland | Kreis Ida-Viru"
+    },
+    {
+        "en": "Tallinn",
+        "en:t": "Estonia | Harju",
+        "a": true,
+        "g": {
+            "lat": 59.437,
+            "lon": 24.7536
+        },
+        "it": "Tallinn",
+        "it:t": "Estonia | Harjumaa",
+        "es": "Tallin",
+        "es:t": "Estonia | Harju",
+        "de": "Tallinn",
+        "de:t": "Estland | Kreis Harju"
+    },
+    {
+        "en": "Tartu",
+        "en:t": "Estonia | Tartu",
+        "a": true,
+        "g": {
+            "lat": 58.378,
+            "lon": 26.729
+        },
+        "it": "Tartu",
+        "it:t": "Estonia | Tartumaa",
+        "es": "Tartu",
+        "es:t": "Estonia | Tartu",
+        "de": "Tartu",
+        "de:t": "Estland | Kreis Tartu"
+    },
+    {
+        "en": "Viljandi",
+        "en:t": "Estonia | Viljandi",
+        "a": true,
+        "g": {
+            "lat": 58.3635,
+            "lon": 25.586
+        },
+        "it": "Viljandi",
+        "it:t": "Estonia | Viljandimaa",
+        "es": "Viljandi",
+        "es:t": "Estonia | Viljandi",
+        "de": "Felin",
+        "de:t": "Estland | Kreis Viljandi"
+    }
+]

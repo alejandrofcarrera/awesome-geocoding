@@ -1,0 +1,437 @@
+[
+    {
+        "en": "Abomey",
+        "en:t": "Benin",
+        "a": true,
+        "g": {
+            "lat": 7.1855,
+            "lon": 1.9979
+        },
+        "it": "Abomey",
+        "it:t": "Benin",
+        "es": "Abomey",
+        "es:t": "Ben\u00edn",
+        "de": "Abomey",
+        "de:t": "Benin"
+    },
+    {
+        "en": "Abomey Calavi",
+        "en:t": "Benin | Abomey-Calavi",
+        "a": true,
+        "g": {
+            "lat": 6.4503,
+            "lon": 2.3468
+        },
+        "it": "Abomey-Calavi",
+        "it:t": "Benin",
+        "es": "Abomey-Calavi",
+        "es:t": "Ben\u00edn",
+        "de": "Abomey-Calavi",
+        "de:t": "Benin"
+    },
+    {
+        "en": "Allada",
+        "en:t": "Benin",
+        "a": true,
+        "g": {
+            "lat": 6.6645,
+            "lon": 2.1598
+        },
+        "it": "Allada",
+        "it:t": "Benin",
+        "es": "Allada",
+        "es:t": "Ben\u00edn",
+        "de": "Allada",
+        "de:t": "Benin"
+    },
+    {
+        "en": "Aplahoue",
+        "en:t": "Benin | Aplahou\u00e9",
+        "a": true,
+        "g": {
+            "lat": 6.9421,
+            "lon": 1.6736
+        },
+        "it": "Aplahou\u00e9",
+        "it:t": "Benin",
+        "es": "Aplahou\u00e9",
+        "es:t": "Ben\u00edn",
+        "de": "Aplahoue",
+        "de:t": "Benin | Aplahou\u00e9"
+    },
+    {
+        "en": "Banikoara",
+        "en:t": "Benin",
+        "a": true,
+        "g": {
+            "lat": 11.2935,
+            "lon": 2.4357
+        },
+        "it": "Banikoara",
+        "it:t": "Benin",
+        "es": "Banikoara",
+        "es:t": "Ben\u00edn",
+        "de": "Banikoara",
+        "de:t": "Benin"
+    },
+    {
+        "en": "Bassila",
+        "en:t": "Benin",
+        "a": true,
+        "g": {
+            "lat": 9.0064,
+            "lon": 1.6639
+        },
+        "it": "Bassila",
+        "it:t": "Benin",
+        "es": "Bassila",
+        "es:t": "Ben\u00edn",
+        "de": "Bassila",
+        "de:t": "Benin"
+    },
+    {
+        "en": "Bembereke",
+        "en:t": "Benin | Bemb\u00e9r\u00e9k\u00e9",
+        "a": true,
+        "g": {
+            "lat": 10.2183,
+            "lon": 2.6661
+        },
+        "it": "Bemb\u00e8r\u00e8k\u00e8",
+        "it:t": "Benin | Bemb\u00e9r\u00e9k\u00e9",
+        "es": "Bemb\u00e9r\u00e9k\u00e9",
+        "es:t": "Ben\u00edn",
+        "de": "Bembereke",
+        "de:t": "Benin | Bemb\u00e9r\u00e9k\u00e9"
+    },
+    {
+        "en": "Bohicon",
+        "en:t": "Benin",
+        "a": true,
+        "g": {
+            "lat": 7.1798,
+            "lon": 2.0714
+        },
+        "it": "Bohicon",
+        "it:t": "Benin",
+        "es": "Bohicon",
+        "es:t": "Ben\u00edn",
+        "de": "Bohicon",
+        "de:t": "Benin"
+    },
+    {
+        "en": "Come",
+        "en:t": "Benin | Com\u00e8",
+        "a": true,
+        "g": {
+            "lat": 6.4096,
+            "lon": 1.8855
+        },
+        "it": "Com\u00e8",
+        "it:t": "Benin",
+        "es": "Com\u00e8",
+        "es:t": "Ben\u00edn",
+        "de": "Come",
+        "de:t": "Benin | Com\u00e8"
+    },
+    {
+        "en": "Cotonou",
+        "en:t": "Benin",
+        "a": true,
+        "g": {
+            "lat": 6.3703,
+            "lon": 2.3912
+        },
+        "it": "Cotonou",
+        "it:t": "Benin",
+        "es": "Coton\u00fa",
+        "es:t": "Ben\u00edn | Cotonou",
+        "de": "Cotonou",
+        "de:t": "Benin"
+    },
+    {
+        "en": "Cove",
+        "en:t": "Benin | Cov\u00e9",
+        "a": true,
+        "g": {
+            "lat": 7.2189,
+            "lon": 2.3394
+        },
+        "it": "Cov\u00e8",
+        "it:t": "Benin",
+        "es": "Cov\u00e8",
+        "es:t": "Ben\u00edn | Cov\u00e9",
+        "de": "Cov\u00e8",
+        "de:t": "Benin | Cov\u00e9"
+    },
+    {
+        "en": "Dassa-Zoum\u00e9",
+        "en:t": "Benin | Dassa-Zoum\u00e8",
+        "a": true,
+        "g": {
+            "lat": 7.7849,
+            "lon": 2.1991
+        },
+        "it": "Dassa-Zoum\u00e8",
+        "it:t": "Benin",
+        "es": "Dassa-Zoum\u00e8",
+        "es:t": "Ben\u00edn",
+        "de": "Dassa-Zoum\u00e8",
+        "de:t": "Benin"
+    },
+    {
+        "en": "Djougou",
+        "en:t": "Benin | Djougou Rural",
+        "a": true,
+        "g": {
+            "lat": 9.7081,
+            "lon": 1.6664
+        },
+        "it": "Djougou",
+        "it:t": "Benin | Djougou Rurale",
+        "es": "Djougou",
+        "es:t": "Ben\u00edn | Djougou Rural",
+        "de": "Djougou",
+        "de:t": "Benin | Djougou Rural"
+    },
+    {
+        "en": "Dogbo",
+        "en:t": "Benin",
+        "a": true,
+        "g": {
+            "lat": 6.805,
+            "lon": 1.788
+        },
+        "it": "Dogbo",
+        "it:t": "Benin",
+        "es": "Dogbo",
+        "es:t": "Ben\u00edn",
+        "de": "Dogbo",
+        "de:t": "Benin"
+    },
+    {
+        "en": "Kandi",
+        "en:t": "Benin",
+        "a": true,
+        "g": {
+            "lat": 11.1305,
+            "lon": 2.9326
+        },
+        "it": "Kandi",
+        "it:t": "Benin",
+        "es": "Kandi",
+        "es:t": "Ben\u00edn",
+        "de": "Kandi",
+        "de:t": "Benin"
+    },
+    {
+        "en": "Ketou",
+        "en:t": "Benin | K\u00e9tou",
+        "a": true,
+        "g": {
+            "lat": 7.3603,
+            "lon": 2.604
+        },
+        "it": "K\u00e9tou",
+        "it:t": "Benin",
+        "es": "K\u00e9tou",
+        "es:t": "Ben\u00edn",
+        "de": "Ketou",
+        "de:t": "Benin | K\u00e9tou"
+    },
+    {
+        "en": "Lokossa",
+        "en:t": "Benin | Athieme",
+        "a": true,
+        "g": {
+            "lat": 6.6448,
+            "lon": 1.7198
+        },
+        "it": "Lokossa",
+        "it:t": "Benin | Athieme",
+        "es": "Lokossa",
+        "es:t": "Ben\u00edn | Athieme",
+        "de": "Lokossa",
+        "de:t": "Benin | Athieme"
+    },
+    {
+        "en": "Malanville",
+        "en:t": "Benin",
+        "a": true,
+        "g": {
+            "lat": 11.8633,
+            "lon": 3.3842
+        },
+        "it": "Malanville",
+        "it:t": "Benin",
+        "es": "Malanville",
+        "es:t": "Ben\u00edn",
+        "de": "Malanville",
+        "de:t": "Benin"
+    },
+    {
+        "en": "Natitingou",
+        "en:t": "Benin",
+        "a": true,
+        "g": {
+            "lat": 10.2964,
+            "lon": 1.3807
+        },
+        "it": "Natitingou",
+        "it:t": "Benin",
+        "es": "Natitingou",
+        "es:t": "Ben\u00edn",
+        "de": "Natitingou",
+        "de:t": "Benin"
+    },
+    {
+        "en": "Nikki",
+        "en:t": "Benin",
+        "a": true,
+        "g": {
+            "lat": 9.9368,
+            "lon": 3.2131
+        },
+        "it": "Nikki",
+        "it:t": "Benin",
+        "es": "Nikki",
+        "es:t": "Ben\u00edn",
+        "de": "Nikki",
+        "de:t": "Benin"
+    },
+    {
+        "en": "Ouidah",
+        "en:t": "Benin",
+        "a": true,
+        "g": {
+            "lat": 6.3716,
+            "lon": 2.0763
+        },
+        "it": "Ouidah",
+        "it:t": "Benin",
+        "es": "Ouidah",
+        "es:t": "Ben\u00edn",
+        "de": "Ouidah",
+        "de:t": "Benin"
+    },
+    {
+        "en": "Parakou",
+        "en:t": "Benin",
+        "a": true,
+        "g": {
+            "lat": 9.3467,
+            "lon": 2.609
+        },
+        "it": "Parakou",
+        "it:t": "Benin",
+        "es": "Parakou",
+        "es:t": "Ben\u00edn",
+        "de": "Parakou",
+        "de:t": "Benin"
+    },
+    {
+        "en": "Pobe",
+        "en:t": "Benin | Pob\u00e8",
+        "a": true,
+        "g": {
+            "lat": 6.9832,
+            "lon": 2.6636
+        },
+        "it": "Pob\u00e8",
+        "it:t": "Benin",
+        "es": "Pob\u00e8",
+        "es:t": "Ben\u00edn",
+        "de": "Pobe",
+        "de:t": "Benin | Pob\u00e8"
+    },
+    {
+        "en": "Porto Novo",
+        "en:t": "Benin",
+        "a": true,
+        "g": {
+            "lat": 6.4969,
+            "lon": 2.6289
+        },
+        "it": "Porto-Novo",
+        "it:t": "Benin | Porto Novo",
+        "es": "Porto Novo",
+        "es:t": "Ben\u00edn",
+        "de": "Porto-Novo",
+        "de:t": "Benin | Porto Novo"
+    },
+    {
+        "en": "Sakete",
+        "en:t": "Benin | Sak\u00e9t\u00e9",
+        "a": true,
+        "g": {
+            "lat": 6.7368,
+            "lon": 2.6636
+        },
+        "it": "Sak\u00e9t\u00e9",
+        "it:t": "Benin",
+        "es": "Sak\u00e9t\u00e9",
+        "es:t": "Ben\u00edn",
+        "de": "Sakete",
+        "de:t": "Benin | Sak\u00e9t\u00e9"
+    },
+    {
+        "en": "Savalou",
+        "en:t": "Benin",
+        "a": true,
+        "g": {
+            "lat": 7.9301,
+            "lon": 1.971
+        },
+        "it": "Savalou",
+        "it:t": "Benin",
+        "es": "Savalou",
+        "es:t": "Ben\u00edn",
+        "de": "Savalou",
+        "de:t": "Benin"
+    },
+    {
+        "en": "Save",
+        "en:t": "Benin | Sav\u00e8",
+        "a": true,
+        "g": {
+            "lat": 8.0336,
+            "lon": 2.4851
+        },
+        "it": "Sav\u00e8",
+        "it:t": "Benin",
+        "es": "Sav\u00e8",
+        "es:t": "Ben\u00edn",
+        "de": "Save",
+        "de:t": "Benin | Sav\u00e8"
+    },
+    {
+        "en": "Tanguieta",
+        "en:t": "Benin | Tangui\u00e9ta",
+        "a": true,
+        "g": {
+            "lat": 10.6228,
+            "lon": 1.265
+        },
+        "it": "Tangui\u00e9ta",
+        "it:t": "Benin",
+        "es": "Tangui\u00e9ta",
+        "es:t": "Ben\u00edn",
+        "de": "Tangui\u00e9ta",
+        "de:t": "Benin"
+    },
+    {
+        "en": "Tchaourou",
+        "en:t": "Benin",
+        "a": true,
+        "g": {
+            "lat": 8.888,
+            "lon": 2.5941
+        },
+        "it": "Tchaourou",
+        "it:t": "Benin",
+        "es": "Tchaourou",
+        "es:t": "Ben\u00edn",
+        "de": "Tchaourou",
+        "de:t": "Benin"
+    }
+]

@@ -1,0 +1,8507 @@
+[
+    {
+        "en": "Abano Terme",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 45.3587,
+            "lon": 11.7883
+        },
+        "it": "Abano Terme",
+        "it:t": "Italia",
+        "es": "Abano Terme",
+        "es:t": "Italia",
+        "de": "Abano Terme",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Abbiategrasso",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 45.3991,
+            "lon": 8.9166
+        },
+        "it": "Abbiategrasso",
+        "it:t": "Italia",
+        "es": "Abbiategrasso",
+        "es:t": "Italia",
+        "de": "Abbiategrasso",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Acerra",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 40.9441,
+            "lon": 14.3714
+        },
+        "it": "Acerra",
+        "it:t": "Italia",
+        "es": "Acerra",
+        "es:t": "Italia",
+        "de": "Acerra",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Aci Castello",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 37.5557,
+            "lon": 15.1445
+        },
+        "it": "Aci Castello",
+        "it:t": "Italia",
+        "es": "Aci Castello",
+        "es:t": "Italia",
+        "de": "Aci Castello",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Aci Catena",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 37.6064,
+            "lon": 15.1419
+        },
+        "it": "Aci Catena",
+        "it:t": "Italia",
+        "es": "Aci Catena",
+        "es:t": "Italia",
+        "de": "Aci Catena",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Acilia",
+        "en:t": "Italy | Rome",
+        "a": true,
+        "g": {
+            "lat": 41.7841,
+            "lon": 12.364
+        },
+        "it": "Acilia",
+        "it:t": "Italia | Roma",
+        "es": "Acilia",
+        "es:t": "Italia | Rome",
+        "de": "Acilia",
+        "de:t": "Italien | Rome"
+    },
+    {
+        "en": "Acireale",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 37.6078,
+            "lon": 15.1667
+        },
+        "it": "Acireale",
+        "it:t": "Italia",
+        "es": "Acireale",
+        "es:t": "Italia",
+        "de": "Acireale",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Acquaviva delle Fonti",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 40.8972,
+            "lon": 16.8454
+        },
+        "it": "Acquaviva delle Fonti",
+        "it:t": "Italia",
+        "es": "Acquaviva delle Fonti",
+        "es:t": "Italia",
+        "de": "Acquaviva delle Fonti",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Acqui Terme",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 44.6764,
+            "lon": 8.467
+        },
+        "it": "Acqui Terme",
+        "it:t": "Italia",
+        "es": "Acqui Terme",
+        "es:t": "Italia",
+        "de": "Acqui Terme",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Adelfia",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 41.0038,
+            "lon": 16.8722
+        },
+        "it": "Adelfia",
+        "it:t": "Italia",
+        "es": "Adelfia",
+        "es:t": "Italia",
+        "de": "Adelfia",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Adrano",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 37.6628,
+            "lon": 14.8326
+        },
+        "it": "Adrano",
+        "it:t": "Italia",
+        "es": "Adrano",
+        "es:t": "Italia",
+        "de": "Adrano",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Afragola",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 40.923,
+            "lon": 14.3093
+        },
+        "it": "Afragola",
+        "it:t": "Italia",
+        "es": "Afragola",
+        "es:t": "Italia",
+        "de": "Afragola",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Agrigento",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 37.3089,
+            "lon": 13.5858
+        },
+        "it": "Agrigento",
+        "it:t": "Italia",
+        "es": "Agrigento",
+        "es:t": "Italia",
+        "de": "Agrigent",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Agropoli",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 40.3487,
+            "lon": 14.9912
+        },
+        "it": "Agropoli",
+        "it:t": "Italia",
+        "es": "Agropoli",
+        "es:t": "Italia",
+        "de": "Agropoli",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Alba",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 44.7009,
+            "lon": 8.0357
+        },
+        "it": "Alba",
+        "it:t": "Italia",
+        "es": "Alba",
+        "es:t": "Italia",
+        "de": "Alba",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Albano Laziale",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 41.7285,
+            "lon": 12.6589
+        },
+        "it": "Albano Laziale",
+        "it:t": "Italia",
+        "es": "Albano Laziale",
+        "es:t": "Italia",
+        "de": "Albano Laziale",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Albenga",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 44.0494,
+            "lon": 8.2156
+        },
+        "it": "Albenga",
+        "it:t": "Italia",
+        "es": "Albenga",
+        "es:t": "Italia",
+        "de": "Albenga",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Albignasego",
+        "en:t": "Italy | Padua",
+        "a": true,
+        "g": {
+            "lat": 45.3534,
+            "lon": 11.8522
+        },
+        "it": "Albignasego",
+        "it:t": "Italia | Padova",
+        "es": "Albignasego",
+        "es:t": "Italia | Padua",
+        "de": "Albignasego",
+        "de:t": "Italien | Padua"
+    },
+    {
+        "en": "Alcamo",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 37.9784,
+            "lon": 12.9686
+        },
+        "it": "Alcamo",
+        "it:t": "Italia",
+        "es": "Alcamo",
+        "es:t": "Italia",
+        "de": "Alcamo",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Alessandria",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 44.9073,
+            "lon": 8.6117
+        },
+        "it": "Alessandria",
+        "it:t": "Italia",
+        "es": "Alessandria",
+        "es:t": "Italia",
+        "de": "Alessandria",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Alghero",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 40.558,
+            "lon": 8.3193
+        },
+        "it": "Alghero",
+        "it:t": "Italia",
+        "es": "Alguer",
+        "es:t": "Italia",
+        "de": "Alghero",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Alpignano",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 45.0991,
+            "lon": 7.5166
+        },
+        "it": "Alpignano",
+        "it:t": "Italia",
+        "es": "Alpignano",
+        "es:t": "Italia",
+        "de": "Alpignano",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Altamura",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 40.8254,
+            "lon": 16.5528
+        },
+        "it": "Altamura",
+        "it:t": "Italia",
+        "es": "Altamura",
+        "es:t": "Italia",
+        "de": "Altamura",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Amato",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 38.9415,
+            "lon": 16.4621
+        },
+        "it": "Amato",
+        "it:t": "Italia",
+        "es": "Amato",
+        "es:t": "Italia",
+        "de": "Amato",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Ancona",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 43.6158,
+            "lon": 13.5189
+        },
+        "it": "Ancona",
+        "it:t": "Italia",
+        "es": "Ancona",
+        "es:t": "Italia",
+        "de": "Ancona",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Andria",
+        "en:t": "Italy | Barletta-Andria-Trani",
+        "a": true,
+        "g": {
+            "lat": 41.1382,
+            "lon": 16.2287
+        },
+        "it": "Andria",
+        "it:t": "Italia | Barletta-Andria-Trani",
+        "es": "Andr\u00eda",
+        "es:t": "Italia | Barletta-Andria-Trani",
+        "de": "Andria",
+        "de:t": "Italien | Barletta-Andria-Trani"
+    },
+    {
+        "en": "Angri",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 40.7381,
+            "lon": 14.5712
+        },
+        "it": "Angri",
+        "it:t": "Italia",
+        "es": "Angri",
+        "es:t": "Italia",
+        "de": "Angri",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Anzio",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 41.4496,
+            "lon": 12.6197
+        },
+        "it": "Anzio",
+        "it:t": "Italia",
+        "es": "Anzio",
+        "es:t": "Italia",
+        "de": "Anzio",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Aosta",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 45.735,
+            "lon": 7.3131
+        },
+        "it": "Aosta",
+        "it:t": "Italia",
+        "es": "Aosta",
+        "es:t": "Italia",
+        "de": "Aosta",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Aprilia",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 41.5944,
+            "lon": 12.656
+        },
+        "it": "Aprilia",
+        "it:t": "Italia",
+        "es": "Aprilia",
+        "es:t": "Italia",
+        "de": "Aprilia",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Arcore",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 45.6269,
+            "lon": 9.3265
+        },
+        "it": "Arcore",
+        "it:t": "Italia",
+        "es": "\u00c1rcore",
+        "es:t": "Italia",
+        "de": "Arcore",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Ardea",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 41.608,
+            "lon": 12.5433
+        },
+        "it": "Ardea",
+        "it:t": "Italia",
+        "es": "Ardea",
+        "es:t": "Italia",
+        "de": "Ardea",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Arese",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 45.5508,
+            "lon": 9.0779
+        },
+        "it": "Arese",
+        "it:t": "Italia",
+        "es": "Arese",
+        "es:t": "Italia",
+        "de": "Arese",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Arezzo",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 43.4633,
+            "lon": 11.8796
+        },
+        "it": "Arezzo",
+        "it:t": "Italia",
+        "es": "Arezzo",
+        "es:t": "Italia",
+        "de": "Arezzo",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Ariccia",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 41.7211,
+            "lon": 12.6726
+        },
+        "it": "Ariccia",
+        "it:t": "Italia",
+        "es": "Ariccia",
+        "es:t": "Italia",
+        "de": "Ariccia",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Arpino",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 40.8896,
+            "lon": 14.3225
+        },
+        "it": "Arpino",
+        "it:t": "Italia",
+        "es": "Sant'Arpino",
+        "es:t": "Italia",
+        "de": "Sant\u2019Arpino",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Arzano",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 40.915,
+            "lon": 14.2687
+        },
+        "it": "Arzano",
+        "it:t": "Italia",
+        "es": "Arzano",
+        "es:t": "Italia",
+        "de": "Arzano",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Arzignano",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 45.5224,
+            "lon": 11.3337
+        },
+        "it": "Arzignano",
+        "it:t": "Italia",
+        "es": "Arzignano",
+        "es:t": "Italia",
+        "de": "Arzignano",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Ascoli Piceno",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 42.8536,
+            "lon": 13.5749
+        },
+        "it": "Ascoli Piceno",
+        "it:t": "Italia",
+        "es": "Ascoli Piceno",
+        "es:t": "Italia",
+        "de": "Ascoli Piceno",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Assemini",
+        "en:t": "Italy | Cagliari",
+        "a": true,
+        "g": {
+            "lat": 39.2106,
+            "lon": 9.0018
+        },
+        "it": "Assemini",
+        "it:t": "Italia | Cagliari",
+        "es": "Assemini",
+        "es:t": "Italia | Cagliari",
+        "de": "Assemini",
+        "de:t": "Italien | Cagliari"
+    },
+    {
+        "en": "Asti",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 44.9008,
+            "lon": 8.2064
+        },
+        "it": "Asti",
+        "it:t": "Italia",
+        "es": "Asti",
+        "es:t": "Italia",
+        "de": "Asti",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Augusta",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 37.2501,
+            "lon": 15.2217
+        },
+        "it": "Augusta",
+        "it:t": "Italia",
+        "es": "Augusta",
+        "es:t": "Italia",
+        "de": "Augusta",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Avellino",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 40.9144,
+            "lon": 14.7906
+        },
+        "it": "Avellino",
+        "it:t": "Italia",
+        "es": "Avellino",
+        "es:t": "Italia",
+        "de": "Avellino",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Aversa",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 40.9732,
+            "lon": 14.2077
+        },
+        "it": "Aversa",
+        "it:t": "Italia",
+        "es": "Aversa",
+        "es:t": "Italia",
+        "de": "Aversa",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Avezzano",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 42.0281,
+            "lon": 13.4256
+        },
+        "it": "Avezzano",
+        "it:t": "Italia",
+        "es": "Avezzano",
+        "es:t": "Italia",
+        "de": "Avezzano",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Avola",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 36.9095,
+            "lon": 15.1349
+        },
+        "it": "Avola",
+        "it:t": "Italia",
+        "es": "Avola",
+        "es:t": "Italia",
+        "de": "Avola",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Bacoli",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 40.7948,
+            "lon": 14.0685
+        },
+        "it": "Bacoli",
+        "it:t": "Italia",
+        "es": "Bacoli",
+        "es:t": "Italia",
+        "de": "Bacoli",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Bagheria",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 38.0789,
+            "lon": 13.5124
+        },
+        "it": "Bagheria",
+        "it:t": "Italia",
+        "es": "Bagheria",
+        "es:t": "Italia",
+        "de": "Bagheria",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Bagnoli",
+        "en:t": "Italy | Naples",
+        "a": true,
+        "g": {
+            "lat": 40.8172,
+            "lon": 14.1691
+        },
+        "it": "Bagnoli",
+        "it:t": "Italia | Napoli",
+        "es": "Bagnoli",
+        "es:t": "Italia | Naples",
+        "de": "Bagnoli",
+        "de:t": "Italien | Neapel"
+    },
+    {
+        "en": "Barcellona Pozzo di Gotto",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 38.1473,
+            "lon": 15.2128
+        },
+        "it": "Barcellona Pozzo di Gotto",
+        "it:t": "Italia",
+        "es": "Barcellona Pozzo di Gotto",
+        "es:t": "Italia",
+        "de": "Barcellona Pozzo di Gotto",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Bareggio",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 45.4782,
+            "lon": 8.9963
+        },
+        "it": "Bareggio",
+        "it:t": "Italia",
+        "es": "Bareggio",
+        "es:t": "Italia",
+        "de": "Bareggio",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Bari",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 41.1171,
+            "lon": 16.8719
+        },
+        "it": "Bari",
+        "it:t": "Italia",
+        "es": "Bari",
+        "es:t": "Italia",
+        "de": "Bari",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Barletta",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 41.3197,
+            "lon": 16.2838
+        },
+        "it": "Barletta",
+        "it:t": "Italia",
+        "es": "Barletta",
+        "es:t": "Italia",
+        "de": "Barletta",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Bassano del Grappa",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 45.7657,
+            "lon": 11.7273
+        },
+        "it": "Bassano del Grappa",
+        "it:t": "Italia",
+        "es": "Bassano del Grappa",
+        "es:t": "Italia",
+        "de": "Bassano del Grappa",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Bastia Umbra",
+        "en:t": "Italy | Bastia",
+        "a": true,
+        "g": {
+            "lat": 43.0691,
+            "lon": 12.5492
+        },
+        "it": "Bastia Umbra",
+        "it:t": "Italia | Bastia",
+        "es": "Bastia Umbra",
+        "es:t": "Italia | Bastia",
+        "de": "Bastia Umbra",
+        "de:t": "Italien | Bastia"
+    },
+    {
+        "en": "Battipaglia",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 40.6094,
+            "lon": 14.9808
+        },
+        "it": "Battipaglia",
+        "it:t": "Italia",
+        "es": "Battipaglia",
+        "es:t": "Italia",
+        "de": "Battipaglia",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Bellaria - Igea Marina",
+        "en:t": "Italy | Rimini",
+        "a": true,
+        "g": {
+            "lat": 44.1344,
+            "lon": 12.4667
+        },
+        "it": "Bellaria-Igea Marina",
+        "it:t": "Italia | Rimini",
+        "es": "Bellaria-Igea Marina",
+        "es:t": "Italia | R\u00edmini",
+        "de": "Bellaria-Igea Marina",
+        "de:t": "Italien | Rimini"
+    },
+    {
+        "en": "Belluno",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 46.1425,
+            "lon": 12.2167
+        },
+        "it": "Belluno",
+        "it:t": "Italia",
+        "es": "Belluno",
+        "es:t": "Italia",
+        "de": "Belluno",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Belpasso",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 37.5898,
+            "lon": 14.9768
+        },
+        "it": "Belpasso",
+        "it:t": "Italia",
+        "es": "Belpasso",
+        "es:t": "Italia",
+        "de": "Belpasso",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Benevento",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 41.1298,
+            "lon": 14.7826
+        },
+        "it": "Benevento",
+        "it:t": "Italia",
+        "es": "Benevento",
+        "es:t": "Italia",
+        "de": "Benevento",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Bergamo",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 45.6983,
+            "lon": 9.6773
+        },
+        "it": "Bergamo",
+        "it:t": "Italia",
+        "es": "B\u00e9rgamo",
+        "es:t": "Italia",
+        "de": "Bergamo",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Biancavilla",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 37.6412,
+            "lon": 14.8706
+        },
+        "it": "Biancavilla",
+        "it:t": "Italia",
+        "es": "Biancavilla",
+        "es:t": "Italia",
+        "de": "Biancavilla",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Biella",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 45.5629,
+            "lon": 8.0583
+        },
+        "it": "Biella",
+        "it:t": "Italia",
+        "es": "Biella",
+        "es:t": "Italia",
+        "de": "Biella",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Bisceglie",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 41.2427,
+            "lon": 16.5021
+        },
+        "it": "Bisceglie",
+        "it:t": "Italia",
+        "es": "Bisceglie",
+        "es:t": "Italia",
+        "de": "Bisceglie",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Bitonto",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 41.1078,
+            "lon": 16.6911
+        },
+        "it": "Bitonto",
+        "it:t": "Italia",
+        "es": "Bitonto",
+        "es:t": "Italia",
+        "de": "Bitonto",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Bollate",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 45.5451,
+            "lon": 9.1107
+        },
+        "it": "Bollate",
+        "it:t": "Italia",
+        "es": "Bollate",
+        "es:t": "Italia",
+        "de": "Bollate",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Bologna",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 44.4949,
+            "lon": 11.3426
+        },
+        "it": "Bologna",
+        "it:t": "Italia",
+        "es": "Bolonia",
+        "es:t": "Italia",
+        "de": "Bologna",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Bolzano",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 46.4983,
+            "lon": 11.3548
+        },
+        "it": "Bolzano",
+        "it:t": "Italia",
+        "es": "Bolzano",
+        "es:t": "Italia",
+        "de": "Bozen",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Borgomanero",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 45.6989,
+            "lon": 8.4625
+        },
+        "it": "Borgomanero",
+        "it:t": "Italia",
+        "es": "Borgomanero",
+        "es:t": "Italia",
+        "de": "Borgomanero",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Boscoreale",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 40.7728,
+            "lon": 14.4814
+        },
+        "it": "Boscoreale",
+        "it:t": "Italia",
+        "es": "Boscoreale",
+        "es:t": "Italia",
+        "de": "Boscoreale",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Bovisio-Masciago",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 45.6108,
+            "lon": 9.1523
+        },
+        "it": "Bovisio Masciago",
+        "it:t": "Italia",
+        "es": "Bovisio-Masciago",
+        "es:t": "Italia",
+        "de": "Bovisio-Masciago",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Bra",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 44.6923,
+            "lon": 7.8551
+        },
+        "it": "Bra",
+        "it:t": "Italia",
+        "es": "Bra",
+        "es:t": "Italia",
+        "de": "Bra",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Brescia",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 45.5416,
+            "lon": 10.2118
+        },
+        "it": "Brescia",
+        "it:t": "Italia",
+        "es": "Brescia",
+        "es:t": "Italia",
+        "de": "Brescia",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Bresso",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 45.5391,
+            "lon": 9.1904
+        },
+        "it": "Bresso",
+        "it:t": "Italia",
+        "es": "Bresso",
+        "es:t": "Italia",
+        "de": "Bresso",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Brindisi",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 40.6327,
+            "lon": 17.9418
+        },
+        "it": "Brindisi",
+        "it:t": "Italia",
+        "es": "Br\u00edndisi",
+        "es:t": "Italia",
+        "de": "Brindisi",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Brixen",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 46.7177,
+            "lon": 11.6572
+        },
+        "it": "Bressanone",
+        "it:t": "Italia",
+        "es": "Bresanona",
+        "es:t": "Italia",
+        "de": "Brixen",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Bronte, Sicily",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 37.7884,
+            "lon": 14.8307
+        },
+        "it": "Bronte",
+        "it:t": "Italia",
+        "es": "Bronte",
+        "es:t": "Italia",
+        "de": "Bronte",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Brugherio",
+        "en:t": "Italy | Monza and Brianza",
+        "a": true,
+        "g": {
+            "lat": 45.5489,
+            "lon": 9.2988
+        },
+        "it": "Brugherio",
+        "it:t": "Italia | Monza e della Brianza",
+        "es": "Brugherio",
+        "es:t": "Italia | Monza y Brianza",
+        "de": "Brugherio",
+        "de:t": "Italien | Monza und Brianza"
+    },
+    {
+        "en": "Brusciano",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 40.9208,
+            "lon": 14.4237
+        },
+        "it": "Brusciano",
+        "it:t": "Italia",
+        "es": "Brusciano",
+        "es:t": "Italia",
+        "de": "Brusciano",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Bussolengo",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 45.4733,
+            "lon": 10.8507
+        },
+        "it": "Bussolengo",
+        "it:t": "Italia",
+        "es": "Bussolengo",
+        "es:t": "Italia",
+        "de": "Bussolengo",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Busto Arsizio",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 45.6119,
+            "lon": 8.8531
+        },
+        "it": "Busto Arsizio",
+        "it:t": "Italia",
+        "es": "Busto Arsizio",
+        "es:t": "Italia",
+        "de": "Busto Arsizio",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Cagliari",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 39.2238,
+            "lon": 9.1217
+        },
+        "it": "Cagliari",
+        "it:t": "Italia",
+        "es": "Cagliari",
+        "es:t": "Italia",
+        "de": "Cagliari",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Caivano",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 40.9568,
+            "lon": 14.3046
+        },
+        "it": "Caivano",
+        "it:t": "Italia",
+        "es": "Caivano",
+        "es:t": "Italia",
+        "de": "Caivano",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Caltagirone",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 37.2381,
+            "lon": 14.5126
+        },
+        "it": "Caltagirone",
+        "it:t": "Italia",
+        "es": "Caltagirone",
+        "es:t": "Italia",
+        "de": "Caltagirone",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Caltanissetta",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 37.4901,
+            "lon": 14.0629
+        },
+        "it": "Caltanissetta",
+        "it:t": "Italia",
+        "es": "Caltanissetta",
+        "es:t": "Italia",
+        "de": "Caltanissetta",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Camaiore",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 43.9421,
+            "lon": 10.2969
+        },
+        "it": "Camaiore",
+        "it:t": "Italia",
+        "es": "Camaiore",
+        "es:t": "Italia",
+        "de": "Camaiore",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Campi Bisenzio",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 43.8275,
+            "lon": 11.1278
+        },
+        "it": "Campi Bisenzio",
+        "it:t": "Italia",
+        "es": "Campi Bisenzio",
+        "es:t": "Italia",
+        "de": "Campi Bisenzio",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Canicatt\u00ec",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 37.3582,
+            "lon": 13.8507
+        },
+        "it": "Canicatt\u00ec",
+        "it:t": "Italia",
+        "es": "Canicatt\u00ec",
+        "es:t": "Italia",
+        "de": "Canicatt\u00ec",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Canosa di Puglia",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 41.2224,
+            "lon": 16.0661
+        },
+        "it": "Canosa di Puglia",
+        "it:t": "Italia",
+        "es": "Canosa di Puglia",
+        "es:t": "Italia",
+        "de": "Canosa di Puglia",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Cant\u00f9",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 45.7337,
+            "lon": 9.1362
+        },
+        "it": "Cant\u00f9",
+        "it:t": "Italia",
+        "es": "Cant\u00f9",
+        "es:t": "Italia",
+        "de": "Cant\u00f9",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Capannori",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 43.8419,
+            "lon": 10.5733
+        },
+        "it": "Capannori",
+        "it:t": "Italia",
+        "es": "Capannori",
+        "es:t": "Italia",
+        "de": "Capannori",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Capua",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 41.1061,
+            "lon": 14.213
+        },
+        "it": "Capua",
+        "it:t": "Italia",
+        "es": "Capua",
+        "es:t": "Italia",
+        "de": "Capua",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Carate Brianza",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 45.6766,
+            "lon": 9.2367
+        },
+        "it": "Carate Brianza",
+        "it:t": "Italia",
+        "es": "Carate Brianza",
+        "es:t": "Italia",
+        "de": "Carate Brianza",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Carbonia",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 39.1644,
+            "lon": 8.5229
+        },
+        "it": "Carbonia",
+        "it:t": "Italia",
+        "es": "Carbonia",
+        "es:t": "Italia",
+        "de": "Carbonia",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Cardito",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 40.9464,
+            "lon": 14.2994
+        },
+        "it": "Cardito",
+        "it:t": "Italia",
+        "es": "Cardito",
+        "es:t": "Italia",
+        "de": "Cardito",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Carini",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 38.1312,
+            "lon": 13.1813
+        },
+        "it": "Carini",
+        "it:t": "Italia",
+        "es": "Carini",
+        "es:t": "Italia",
+        "de": "Carini",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Carmagnola",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 44.8459,
+            "lon": 7.7174
+        },
+        "it": "Carmagnola",
+        "it:t": "Italia",
+        "es": "Carma\u00f1ola",
+        "es:t": "Italia",
+        "de": "Carmagnola",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Caronno Pertusella",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 45.5985,
+            "lon": 9.045
+        },
+        "it": "Caronno Pertusella",
+        "it:t": "Italia",
+        "es": "Caronno Pertusella",
+        "es:t": "Italia",
+        "de": "Caronno Pertusella",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Carpi",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 44.7839,
+            "lon": 10.8797
+        },
+        "it": "Carpi",
+        "it:t": "Italia",
+        "es": "Carpi",
+        "es:t": "Italia",
+        "de": "Carpi",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Carrara",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 44.0793,
+            "lon": 10.0977
+        },
+        "it": "Carrara",
+        "it:t": "Italia",
+        "es": "Carrara",
+        "es:t": "Italia",
+        "de": "Carrara",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Casal di Principe",
+        "en:t": "Italy | Caserta",
+        "a": true,
+        "g": {
+            "lat": 41.0188,
+            "lon": 14.1117
+        },
+        "it": "Casal di principe",
+        "it:t": "Italia | Caserta",
+        "es": "Casal di Principe",
+        "es:t": "Italia | Caserta",
+        "de": "Casal di Principe",
+        "de:t": "Italien | Caserta"
+    },
+    {
+        "en": "Casale Monferrato",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 45.1316,
+            "lon": 8.4505
+        },
+        "it": "Casale Monferrato",
+        "it:t": "Italia",
+        "es": "Casale Monferrato",
+        "es:t": "Italia",
+        "de": "Casale Monferrato",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Casalecchio di Reno",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 44.4782,
+            "lon": 11.2774
+        },
+        "it": "Casalecchio di Reno",
+        "it:t": "Italia",
+        "es": "Casalecchio di Reno",
+        "es:t": "Italia",
+        "de": "Casalecchio di Reno",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Casalnuovo di Napoli",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 40.9047,
+            "lon": 14.3501
+        },
+        "it": "Casalnuovo di Napoli",
+        "it:t": "Italia",
+        "es": "Casalnuovo di Napoli",
+        "es:t": "Italia",
+        "de": "Casalnuovo di Napoli",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Casamassima",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 40.9548,
+            "lon": 16.9185
+        },
+        "it": "Casamassima",
+        "it:t": "Italia",
+        "es": "Casamassima",
+        "es:t": "Italia",
+        "de": "Casamassima",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Casarano",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 40.0114,
+            "lon": 18.1614
+        },
+        "it": "Casarano",
+        "it:t": "Italia",
+        "es": "Casarano",
+        "es:t": "Italia",
+        "de": "Casarano",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Casavatore",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 40.9003,
+            "lon": 14.2773
+        },
+        "it": "Casavatore",
+        "it:t": "Italia",
+        "es": "Casavatore",
+        "es:t": "Italia",
+        "de": "Casavatore",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Cascina",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 43.6759,
+            "lon": 10.5559
+        },
+        "it": "Cascina",
+        "it:t": "Italia",
+        "es": "Cascina",
+        "es:t": "Italia",
+        "de": "Cascina",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Caserta",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 41.0854,
+            "lon": 14.3676
+        },
+        "it": "Caserta",
+        "it:t": "Italia",
+        "es": "Caserta",
+        "es:t": "Italia",
+        "de": "Caserta",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Casoria",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 40.9115,
+            "lon": 14.2974
+        },
+        "it": "Casoria",
+        "it:t": "Italia",
+        "es": "Casoria",
+        "es:t": "Italia",
+        "de": "Casoria",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Cassano Magnago",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 45.6717,
+            "lon": 8.8273
+        },
+        "it": "Cassano Magnago",
+        "it:t": "Italia",
+        "es": "Cassano Magnago",
+        "es:t": "Italia",
+        "de": "Cassano Magnago",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Cassano d'Adda",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 45.5266,
+            "lon": 9.5141
+        },
+        "it": "Cassano d'Adda",
+        "it:t": "Italia",
+        "es": "Cassano d'Adda",
+        "es:t": "Italia",
+        "de": "Cassano d\u2019Adda",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Cassino",
+        "en:t": "Italy | Frosinone",
+        "a": true,
+        "g": {
+            "lat": 41.4867,
+            "lon": 13.8332
+        },
+        "it": "Cassino",
+        "it:t": "Italia | Frosinone",
+        "es": "Cassino",
+        "es:t": "Italia | Frosinone",
+        "de": "Cassino",
+        "de:t": "Italien | Frosinone"
+    },
+    {
+        "en": "Castel Maggiore",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 44.5752,
+            "lon": 11.3637
+        },
+        "it": "Castel Maggiore",
+        "it:t": "Italia",
+        "es": "Castel Maggiore",
+        "es:t": "Italia",
+        "de": "Castel Maggiore",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Castel Volturno",
+        "en:t": "Italy | Caserta",
+        "a": true,
+        "g": {
+            "lat": 41.036,
+            "lon": 13.9724
+        },
+        "it": "Castel Volturno",
+        "it:t": "Italia | Caserta",
+        "es": "Castel Volturno",
+        "es:t": "Italia | Caserta",
+        "de": "Castel Volturno",
+        "de:t": "Italien | Caserta"
+    },
+    {
+        "en": "Castelfranco Emilia",
+        "en:t": "Italy | Modena",
+        "a": true,
+        "g": {
+            "lat": 44.59,
+            "lon": 11.0978
+        },
+        "it": "Castelfranco Emilia",
+        "it:t": "Italia | Modena",
+        "es": "Castelfranco Emilia",
+        "es:t": "Italia | M\u00f3dena",
+        "de": "Castelfranco Emilia",
+        "de:t": "Italien | Modena"
+    },
+    {
+        "en": "Castelfranco Veneto",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 45.6717,
+            "lon": 11.9282
+        },
+        "it": "Castelfranco Veneto",
+        "it:t": "Italia",
+        "es": "Castelfranco V\u00e9neto",
+        "es:t": "Italia",
+        "de": "Castelfranco Veneto",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Castellammare di Stabia",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 40.6985,
+            "lon": 14.4898
+        },
+        "it": "Castellammare di Stabia",
+        "it:t": "Italia",
+        "es": "Castellammare di Stabia",
+        "es:t": "Italia",
+        "de": "Castellammare di Stabia",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Castelvetrano",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 37.6785,
+            "lon": 12.7918
+        },
+        "it": "Castelvetrano",
+        "it:t": "Italia",
+        "es": "Castelvetrano",
+        "es:t": "Italia",
+        "de": "Castelvetrano",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Castiglione delle Stiviere",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 45.3874,
+            "lon": 10.483
+        },
+        "it": "Castiglione delle Stiviere",
+        "it:t": "Italia",
+        "es": "Castiglione delle Stiviere",
+        "es:t": "Italia",
+        "de": "Castiglione delle Stiviere",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Castrovillari",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 39.8153,
+            "lon": 16.1997
+        },
+        "it": "Castrovillari",
+        "it:t": "Italia",
+        "es": "Castrovillari",
+        "es:t": "Italia",
+        "de": "Castrovillari",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Catania",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 37.5079,
+            "lon": 15.083
+        },
+        "it": "Catania",
+        "it:t": "Italia",
+        "es": "Catania",
+        "es:t": "Italia",
+        "de": "Catania",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Catanzaro",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 38.9098,
+            "lon": 16.5877
+        },
+        "it": "Catanzaro",
+        "it:t": "Italia",
+        "es": "Catanzaro",
+        "es:t": "Italia",
+        "de": "Catanzaro",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Cattolica",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 43.9633,
+            "lon": 12.7384
+        },
+        "it": "Cattolica",
+        "it:t": "Italia",
+        "es": "Cattolica",
+        "es:t": "Italia",
+        "de": "Cattolica",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Cava de' Tirreni",
+        "en:t": "Italy | Salerno",
+        "a": true,
+        "g": {
+            "lat": 40.707,
+            "lon": 14.6938
+        },
+        "it": "Cava de' Tirreni",
+        "it:t": "Italia | Salerno",
+        "es": "Cava de' Tirreni",
+        "es:t": "Italia | Salerno",
+        "de": "Cava de' Tirreni",
+        "de:t": "Italien | Salerno"
+    },
+    {
+        "en": "Cecina",
+        "en:t": "Italy | Livorno",
+        "a": true,
+        "g": {
+            "lat": 43.3176,
+            "lon": 10.4959
+        },
+        "it": "Cecina",
+        "it:t": "Italia | Livorno",
+        "es": "Cecina",
+        "es:t": "Italia | Livorno",
+        "de": "Cecina",
+        "de:t": "Italien | Livorno"
+    },
+    {
+        "en": "Ceglie Messapica",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 40.6443,
+            "lon": 17.5178
+        },
+        "it": "Ceglie Messapica",
+        "it:t": "Italia",
+        "es": "Ceglie Messapica",
+        "es:t": "Italia",
+        "de": "Ceglie Messapica",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Cento",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 44.7315,
+            "lon": 11.2908
+        },
+        "it": "Cento",
+        "it:t": "Italia",
+        "es": "Cento",
+        "es:t": "Italia",
+        "de": "Cento",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Centro Climatico San Paolo",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 40.6432,
+            "lon": 17.3201
+        },
+        "it": "San Paolo di Civitate",
+        "it:t": "Italia",
+        "es": "San Paolo di Civitate",
+        "es:t": "Italia",
+        "de": "San Paolo di Civitate",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Cercola",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 40.8576,
+            "lon": 14.3538
+        },
+        "it": "Cercola",
+        "it:t": "Italia",
+        "es": "Cercola",
+        "es:t": "Italia",
+        "de": "Cercola",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Cerignola",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 41.2656,
+            "lon": 15.8936
+        },
+        "it": "Cerignola",
+        "it:t": "Italia",
+        "es": "Ceri\u00f1ola",
+        "es:t": "Italia",
+        "de": "Cerignola",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Cernusco sul Naviglio",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 45.525,
+            "lon": 9.333
+        },
+        "it": "Cernusco sul Naviglio",
+        "it:t": "Italia",
+        "es": "Cernusco sul Naviglio",
+        "es:t": "Italia",
+        "de": "Cernusco sul Naviglio",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Cerveteri",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 41.9967,
+            "lon": 12.0974
+        },
+        "it": "Cerveteri",
+        "it:t": "Italia",
+        "es": "Cerveteri",
+        "es:t": "Italia",
+        "de": "Cerveteri",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Cervia",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 44.2635,
+            "lon": 12.3477
+        },
+        "it": "Cervia",
+        "it:t": "Italia",
+        "es": "Cervia",
+        "es:t": "Italia",
+        "de": "Cervia",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Cesano Boscone",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 45.4457,
+            "lon": 9.0906
+        },
+        "it": "Cesano Boscone",
+        "it:t": "Italia",
+        "es": "Cesano Boscone",
+        "es:t": "Italia",
+        "de": "Cesano Boscone",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Cesano Maderno",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 45.6292,
+            "lon": 9.1471
+        },
+        "it": "Cesano Maderno",
+        "it:t": "Italia",
+        "es": "Cesano Maderno",
+        "es:t": "Italia",
+        "de": "Cesano Maderno",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Cesena",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 44.1396,
+            "lon": 12.2464
+        },
+        "it": "Cesena",
+        "it:t": "Italia",
+        "es": "Cesena",
+        "es:t": "Italia",
+        "de": "Cesena",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Cesenatico",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 44.2008,
+            "lon": 12.4052
+        },
+        "it": "Cesenatico",
+        "it:t": "Italia",
+        "es": "Cesenatico",
+        "es:t": "Italia",
+        "de": "Cesenatico",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Chiari",
+        "en:t": "Italy | Brescia",
+        "a": true,
+        "g": {
+            "lat": 45.5387,
+            "lon": 9.9252
+        },
+        "it": "Chiari",
+        "it:t": "Italia | Brescia",
+        "es": "Chiari",
+        "es:t": "Italia | Brescia",
+        "de": "Chiari",
+        "de:t": "Italien | Brescia"
+    },
+    {
+        "en": "Chiavari",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 44.3168,
+            "lon": 9.32
+        },
+        "it": "Chiavari",
+        "it:t": "Italia",
+        "es": "Chiavari",
+        "es:t": "Italia",
+        "de": "Chiavari",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Chieri",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 45.0089,
+            "lon": 7.8276
+        },
+        "it": "Chieri",
+        "it:t": "Italia",
+        "es": "Chieri",
+        "es:t": "Italia",
+        "de": "Chieri",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Chieti",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 42.3479,
+            "lon": 14.1636
+        },
+        "it": "Chieti",
+        "it:t": "Italia",
+        "es": "Chieti",
+        "es:t": "Italia",
+        "de": "Chieti",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Chioggia",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 45.2191,
+            "lon": 12.2787
+        },
+        "it": "Chioggia",
+        "it:t": "Italia",
+        "es": "Chioggia",
+        "es:t": "Italia",
+        "de": "Chioggia",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Chivasso",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 45.19,
+            "lon": 7.889
+        },
+        "it": "Chivasso",
+        "it:t": "Italia",
+        "es": "Chivasso",
+        "es:t": "Italia",
+        "de": "Chivasso",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Ciampino",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 41.8024,
+            "lon": 12.6021
+        },
+        "it": "Ciampino",
+        "it:t": "Italia",
+        "es": "Ciampino",
+        "es:t": "Italia",
+        "de": "Ciampino",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Cinisello Balsamo",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 45.5584,
+            "lon": 9.2144
+        },
+        "it": "Cinisello Balsamo",
+        "it:t": "Italia",
+        "es": "Cinisello Balsamo",
+        "es:t": "Italia",
+        "de": "Cinisello Balsamo",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Ciri\u00e8",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 45.2257,
+            "lon": 7.5949
+        },
+        "it": "Ciri\u00e8",
+        "it:t": "Italia",
+        "es": "Ciri\u00e9",
+        "es:t": "Italia",
+        "de": "Ciri\u00e9",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Cisterna di Latina",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 41.5889,
+            "lon": 12.8296
+        },
+        "it": "Cisterna di Latina",
+        "it:t": "Italia",
+        "es": "Cisterna di Latina",
+        "es:t": "Italia",
+        "de": "Cisterna di Latina",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Citt\u00e0 di Castello",
+        "en:t": "Italy | Perugia",
+        "a": true,
+        "g": {
+            "lat": 43.4578,
+            "lon": 12.2319
+        },
+        "it": "Citt\u00e0 di Castello",
+        "it:t": "Italia | Perugia",
+        "es": "Citt\u00e0 di Castello",
+        "es:t": "Italia | Perusa",
+        "de": "Citt\u00e0 di Castello",
+        "de:t": "Italien | Perugia"
+    },
+    {
+        "en": "Civitanova Marche",
+        "en:t": "Italy | Macerata",
+        "a": true,
+        "g": {
+            "lat": 43.3182,
+            "lon": 13.6942
+        },
+        "it": "Civitanova Marche",
+        "it:t": "Italia | Macerata",
+        "es": "Civitanova Marche",
+        "es:t": "Italia | Macerata",
+        "de": "Civitanova Marche",
+        "de:t": "Italien | Macerata"
+    },
+    {
+        "en": "Civitavecchia",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 42.0924,
+            "lon": 11.7954
+        },
+        "it": "Civitavecchia",
+        "it:t": "Italia",
+        "es": "Civitavecchia",
+        "es:t": "Italia",
+        "de": "Civitavecchia",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Colle di Val d'Elsa",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 43.42,
+            "lon": 11.1272
+        },
+        "it": "Colle di Val d'Elsa",
+        "it:t": "Italia",
+        "es": "Colle di Val d'Elsa",
+        "es:t": "Italia",
+        "de": "Colle di Val d\u2019Elsa",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Colleferro",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 41.7421,
+            "lon": 13.0011
+        },
+        "it": "Colleferro",
+        "it:t": "Italia",
+        "es": "Colleferro",
+        "es:t": "Italia",
+        "de": "Colleferro",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Collegno",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 45.0898,
+            "lon": 7.5866
+        },
+        "it": "Collegno",
+        "it:t": "Italia",
+        "es": "Collegno",
+        "es:t": "Italia",
+        "de": "Collegno",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Cologno Monzese",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 45.5286,
+            "lon": 9.2787
+        },
+        "it": "Cologno Monzese",
+        "it:t": "Italia",
+        "es": "Cologno Monzese",
+        "es:t": "Italia",
+        "de": "Cologno Monzese",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Comiso",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 36.9362,
+            "lon": 14.5772
+        },
+        "it": "Comiso",
+        "it:t": "Italia",
+        "es": "Comiso",
+        "es:t": "Italia",
+        "de": "Comiso",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Como",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 45.8081,
+            "lon": 9.0852
+        },
+        "it": "Como",
+        "it:t": "Italia",
+        "es": "Como",
+        "es:t": "Italia",
+        "de": "Como",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Conegliano",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 45.8892,
+            "lon": 12.3006
+        },
+        "it": "Conegliano",
+        "it:t": "Italia",
+        "es": "Conegliano",
+        "es:t": "Italia",
+        "de": "Conegliano",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Conversano",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 40.9674,
+            "lon": 17.1171
+        },
+        "it": "Conversano",
+        "it:t": "Italia",
+        "es": "Conversano",
+        "es:t": "Italia",
+        "de": "Conversano",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Copertino",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 40.2696,
+            "lon": 18.0605
+        },
+        "it": "Copertino",
+        "it:t": "Italia",
+        "es": "Copertino",
+        "es:t": "Italia",
+        "de": "Copertino",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Corato",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 41.1535,
+            "lon": 16.4132
+        },
+        "it": "Corato",
+        "it:t": "Italia",
+        "es": "Corato",
+        "es:t": "Italia",
+        "de": "Corato",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Cordenons",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 45.9858,
+            "lon": 12.7036
+        },
+        "it": "Cordenons",
+        "it:t": "Italia",
+        "es": "Cordenons",
+        "es:t": "Italia",
+        "de": "Cordenons",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Corigliano Calabro",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 39.5942,
+            "lon": 16.5201
+        },
+        "it": "Corigliano Calabro",
+        "it:t": "Italia",
+        "es": "Corigliano Calabro",
+        "es:t": "Italia",
+        "de": "Corigliano Calabro",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Cormano",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 45.548,
+            "lon": 9.1604
+        },
+        "it": "Cormano",
+        "it:t": "Italia",
+        "es": "Cormano",
+        "es:t": "Italia",
+        "de": "Cormano",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Cornaredo",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 45.5015,
+            "lon": 9.0239
+        },
+        "it": "Cornaredo",
+        "it:t": "Italia",
+        "es": "Cornaredo",
+        "es:t": "Italia",
+        "de": "Cornaredo",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Correggio",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 44.7709,
+            "lon": 10.7819
+        },
+        "it": "Correggio",
+        "it:t": "Italia",
+        "es": "Correggio",
+        "es:t": "Italia",
+        "de": "Correggio",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Corsico",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 45.4323,
+            "lon": 9.1092
+        },
+        "it": "Corsico",
+        "it:t": "Italia",
+        "es": "Corsico",
+        "es:t": "Italia",
+        "de": "Corsico",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Cosenza",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 39.2983,
+            "lon": 16.2537
+        },
+        "it": "Cosenza",
+        "it:t": "Italia",
+        "es": "Cosenza",
+        "es:t": "Italia",
+        "de": "Cosenza",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Crema",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 45.3643,
+            "lon": 9.6825
+        },
+        "it": "Crema",
+        "it:t": "Italia",
+        "es": "Crema",
+        "es:t": "Italia",
+        "de": "Crema",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Cremona",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 45.1332,
+            "lon": 10.0227
+        },
+        "it": "Cremona",
+        "it:t": "Italia",
+        "es": "Cremona",
+        "es:t": "Italia",
+        "de": "Cremona",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Crotone",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 39.0808,
+            "lon": 17.1271
+        },
+        "it": "Crotone",
+        "it:t": "Italia",
+        "es": "Crotona",
+        "es:t": "Italia",
+        "de": "Crotone",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Cuneo",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 44.3845,
+            "lon": 7.5427
+        },
+        "it": "Cuneo",
+        "it:t": "Italia",
+        "es": "Cuneo",
+        "es:t": "Italia",
+        "de": "Cuneo",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Cusano Milanino",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 45.5534,
+            "lon": 9.1845
+        },
+        "it": "Cusano Milanino",
+        "it:t": "Italia",
+        "es": "Cusano Milanino",
+        "es:t": "Italia",
+        "de": "Cusano Milanino",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Dalmine",
+        "en:t": "Italy | Bergamo",
+        "a": true,
+        "g": {
+            "lat": 45.6475,
+            "lon": 9.602
+        },
+        "it": "Dalmine",
+        "it:t": "Italia",
+        "es": "Dalmine",
+        "es:t": "Italia",
+        "de": "Dalmine",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Desenzano del Garda",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 45.4715,
+            "lon": 10.5333
+        },
+        "it": "Desenzano del Garda",
+        "it:t": "Italia",
+        "es": "Desenzano del Garda",
+        "es:t": "Italia",
+        "de": "Desenzano del Garda",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Desio",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 45.6187,
+            "lon": 9.2077
+        },
+        "it": "Desio",
+        "it:t": "Italia",
+        "es": "Desio",
+        "es:t": "Italia",
+        "de": "Desio",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Domodossola",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 46.1132,
+            "lon": 8.292
+        },
+        "it": "Domodossola",
+        "it:t": "Italia",
+        "es": "Domodossola",
+        "es:t": "Italia",
+        "de": "Domodossola",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Eboli",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 40.6179,
+            "lon": 15.0564
+        },
+        "it": "Eboli",
+        "it:t": "Italia",
+        "es": "\u00c9boli",
+        "es:t": "Italia",
+        "de": "Eboli",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Empoli",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 43.7179,
+            "lon": 10.9478
+        },
+        "it": "Empoli",
+        "it:t": "Italia",
+        "es": "Empoli",
+        "es:t": "Italia",
+        "de": "Empoli",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Enna",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 37.5099,
+            "lon": 14.2629
+        },
+        "it": "Enna",
+        "it:t": "Italia",
+        "es": "Enna",
+        "es:t": "Italia",
+        "de": "Enna",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Erba",
+        "en:t": "Italy | Como",
+        "a": true,
+        "g": {
+            "lat": 45.8138,
+            "lon": 9.2091
+        },
+        "it": "Erba",
+        "it:t": "Italia | Como",
+        "es": "Erba",
+        "es:t": "Italia | Como",
+        "de": "Erba",
+        "de:t": "Italien | Como"
+    },
+    {
+        "en": "Ercolano",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 40.8079,
+            "lon": 14.3482
+        },
+        "it": "Ercolano",
+        "it:t": "Italia",
+        "es": "Ercolano",
+        "es:t": "Italia",
+        "de": "Ercolano",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Fabriano",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 43.345,
+            "lon": 12.9062
+        },
+        "it": "Fabriano",
+        "it:t": "Italia",
+        "es": "Fabriano",
+        "es:t": "Italia",
+        "de": "Fabriano",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Faenza",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 44.2899,
+            "lon": 11.8774
+        },
+        "it": "Faenza",
+        "it:t": "Italia",
+        "es": "Faenza",
+        "es:t": "Italia",
+        "de": "Faenza",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Falconara Marittima",
+        "en:t": "Italy | Ancona",
+        "a": true,
+        "g": {
+            "lat": 43.622,
+            "lon": 13.3703
+        },
+        "it": "Falconara Marittima",
+        "it:t": "Italia | Ancona",
+        "es": "Falconara Marittima",
+        "es:t": "Italia | Ancona",
+        "de": "Falconara Marittima",
+        "de:t": "Italien | Ancona"
+    },
+    {
+        "en": "Fano",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 43.8398,
+            "lon": 13.0194
+        },
+        "it": "Fano",
+        "it:t": "Italia",
+        "es": "Fano",
+        "es:t": "Italia",
+        "de": "Fano",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Fasano",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 40.8367,
+            "lon": 17.3609
+        },
+        "it": "Fasano",
+        "it:t": "Italia",
+        "es": "Fasano",
+        "es:t": "Italia",
+        "de": "Fasano",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Favara, Sicily",
+        "en:t": "Italy | Agrigento",
+        "a": true,
+        "g": {
+            "lat": 37.316,
+            "lon": 13.6623
+        },
+        "it": "Favara",
+        "it:t": "Italia | Agrigento",
+        "es": "Favara",
+        "es:t": "Italia | Agrigento",
+        "de": "Favara",
+        "de:t": "Italien | Agrigent"
+    },
+    {
+        "en": "Fermo",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 43.1589,
+            "lon": 13.7201
+        },
+        "it": "Fermo",
+        "it:t": "Italia",
+        "es": "Fermo",
+        "es:t": "Italia",
+        "de": "Fermo",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Ferrara",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 44.8381,
+            "lon": 11.6198
+        },
+        "it": "Ferrara",
+        "it:t": "Italia",
+        "es": "Ferrara",
+        "es:t": "Italia",
+        "de": "Ferrara",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Fidenza",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 44.8663,
+            "lon": 10.0616
+        },
+        "it": "Fidenza",
+        "it:t": "Italia",
+        "es": "Fidenza",
+        "es:t": "Italia",
+        "de": "Fidenza",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Fiorano Modenese",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 44.5385,
+            "lon": 10.8339
+        },
+        "it": "Fiorano modenese",
+        "it:t": "Itali",
+        "es": "Fiorano Modenese",
+        "es:t": "Italia",
+        "de": "Fiorano Modenese",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Fiumicino",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 41.7735,
+            "lon": 12.2397
+        },
+        "it": "Fiumicino",
+        "it:t": "Italia",
+        "es": "Fiumicino",
+        "es:t": "Italia",
+        "de": "Fiumicino",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Florence",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 43.7696,
+            "lon": 11.2558
+        },
+        "it": "Firenze",
+        "it:t": "Italia",
+        "es": "Florencia",
+        "es:t": "Italia",
+        "de": "Florenz",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Floridia",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 37.0833,
+            "lon": 15.152
+        },
+        "it": "Floridia",
+        "it:t": "Italia",
+        "es": "Floridia",
+        "es:t": "Italia",
+        "de": "Floridia",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Foggia",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 41.4622,
+            "lon": 15.5446
+        },
+        "it": "Foggia",
+        "it:t": "Italia",
+        "es": "Foggia",
+        "es:t": "Italia",
+        "de": "Foggia",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Foligno",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 42.9509,
+            "lon": 12.7015
+        },
+        "it": "Foligno",
+        "it:t": "Italia",
+        "es": "Foligno",
+        "es:t": "Italia",
+        "de": "Foligno",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Follonica",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 42.9227,
+            "lon": 10.7593
+        },
+        "it": "Follonica",
+        "it:t": "Italia",
+        "es": "Follonica",
+        "es:t": "Italia",
+        "de": "Follonica",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Fondi",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 41.3591,
+            "lon": 13.4266
+        },
+        "it": "Fondi",
+        "it:t": "Italia",
+        "es": "Fondi",
+        "es:t": "Italia",
+        "de": "Fondi",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Forio",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 40.7383,
+            "lon": 13.8606
+        },
+        "it": "Forio",
+        "it:t": "Italia",
+        "es": "Forio",
+        "es:t": "Italia",
+        "de": "Forio",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Forli",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 44.2227,
+            "lon": 12.0407
+        },
+        "it": "Forl\u00ec",
+        "it:t": "Italia",
+        "es": "Forl\u00ed",
+        "es:t": "Italia",
+        "de": "Forl\u00ec",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Formia",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 41.256,
+            "lon": 13.6069
+        },
+        "it": "Formia",
+        "it:t": "Italia",
+        "es": "Formia",
+        "es:t": "Italia",
+        "de": "Formia",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Formigine",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 44.5728,
+            "lon": 10.8478
+        },
+        "it": "Formigine",
+        "it:t": "Italia",
+        "es": "Formigine",
+        "es:t": "Italia",
+        "de": "Formigine",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Fornacelle",
+        "en:t": "Italy | San Casciano in Val di Pesa",
+        "a": true,
+        "g": {
+            "lat": 43.6268,
+            "lon": 11.2416
+        },
+        "it": "Fornacelle",
+        "it:t": "Italia | San Casciano in Val di pesa",
+        "es": "Fornacelle",
+        "es:t": "Italia | San Casciano in Val di Pesa",
+        "de": "Fornacelle",
+        "de:t": "Italien | San Casciano in Val di Pesa"
+    },
+    {
+        "en": "Fossano",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 44.5525,
+            "lon": 7.7218
+        },
+        "it": "Fossano",
+        "it:t": "Italia",
+        "es": "Fossano",
+        "es:t": "Italia",
+        "de": "Fossano",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Francavilla Fontana",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 40.5305,
+            "lon": 17.5828
+        },
+        "it": "Francavilla Fontana",
+        "it:t": "Italia",
+        "es": "Francavilla Fontana",
+        "es:t": "Italia",
+        "de": "Francavilla Fontana",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Francavilla al Mare",
+        "en:t": "Italy | Chieti",
+        "a": true,
+        "g": {
+            "lat": 42.4087,
+            "lon": 14.2803
+        },
+        "it": "Francavilla al mare",
+        "it:t": "Italia | Chieti",
+        "es": "Francavilla al Mare",
+        "es:t": "Italia | Chieti",
+        "de": "Francavilla al Mare",
+        "de:t": "Italien | Chieti"
+    },
+    {
+        "en": "Frascati",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 41.8085,
+            "lon": 12.6761
+        },
+        "it": "Frascati",
+        "it:t": "Italia",
+        "es": "Frascati",
+        "es:t": "Italia",
+        "de": "Frascati",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Frattamaggiore",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 40.9362,
+            "lon": 14.2774
+        },
+        "it": "Frattamaggiore",
+        "it:t": "Italia",
+        "es": "Frattamaggiore",
+        "es:t": "Italia",
+        "de": "Frattamaggiore",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Frattaminore",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 40.9538,
+            "lon": 14.2718
+        },
+        "it": "Frattaminore",
+        "it:t": "Italia",
+        "es": "Frattaminore",
+        "es:t": "Italia",
+        "de": "Frattaminore",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Frosinone",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 41.6396,
+            "lon": 13.3426
+        },
+        "it": "Frosinone",
+        "it:t": "Italia",
+        "es": "Frosinone",
+        "es:t": "Italia",
+        "de": "Frosinone",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Gaeta",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 41.2107,
+            "lon": 13.5714
+        },
+        "it": "Gaeta",
+        "it:t": "Italia",
+        "es": "Gaeta",
+        "es:t": "Italia",
+        "de": "Gaeta",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Galatina",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 40.1758,
+            "lon": 18.1725
+        },
+        "it": "Galatina",
+        "it:t": "Italia",
+        "es": "Galatina",
+        "es:t": "Italia",
+        "de": "Galatina",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Gallarate",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 45.6624,
+            "lon": 8.7921
+        },
+        "it": "Gallarate",
+        "it:t": "Italia",
+        "es": "Gallarate",
+        "es:t": "Italia",
+        "de": "Galeron",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Gallipoli",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 40.0559,
+            "lon": 17.9926
+        },
+        "it": "Gallipoli",
+        "it:t": "Italia",
+        "es": "Gallipoli",
+        "es:t": "Italia",
+        "de": "Gallipoli",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Garbagnate Milanese",
+        "en:t": "Italy | Milan",
+        "a": true,
+        "g": {
+            "lat": 45.5766,
+            "lon": 9.0742
+        },
+        "it": "Garbagnate Milanese",
+        "it:t": "Italia | Citt\u00e0a di Milano",
+        "es": "Garbagnate Milanese",
+        "es:t": "Italia | Mil\u00e1n",
+        "de": "Garbagnate Milanese",
+        "de:t": "Italien | Mailand"
+    },
+    {
+        "en": "Gela",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 37.0742,
+            "lon": 14.2404
+        },
+        "it": "Gela",
+        "it:t": "Italia",
+        "es": "Gela",
+        "es:t": "Italia",
+        "de": "Gela",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Genoa",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 44.4056,
+            "lon": 8.9463
+        },
+        "it": "Genova",
+        "it:t": "Italia",
+        "es": "G\u00e9nova",
+        "es:t": "Italia",
+        "de": "Genua",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Genzano di Roma",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 41.7089,
+            "lon": 12.6866
+        },
+        "it": "Genzano di Roma",
+        "it:t": "Italia",
+        "es": "Genzano di Roma",
+        "es:t": "Italia",
+        "de": "Genzano di Roma",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Ghedi",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 45.406,
+            "lon": 10.2755
+        },
+        "it": "Ghedi",
+        "it:t": "Italia",
+        "es": "Ghedi",
+        "es:t": "Italia",
+        "de": "Ghedi",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Giarre",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 37.727,
+            "lon": 15.1842
+        },
+        "it": "Giarre",
+        "it:t": "Italia",
+        "es": "Giarre",
+        "es:t": "Italia",
+        "de": "Giarre",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Ginosa",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 40.5774,
+            "lon": 16.7558
+        },
+        "it": "Ginosa",
+        "it:t": "Italia",
+        "es": "Ginosa",
+        "es:t": "Italia",
+        "de": "Ginosa",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Gioia Tauro",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 38.4262,
+            "lon": 15.8989
+        },
+        "it": "Gioia Tauro",
+        "it:t": "Italia",
+        "es": "Gioia Tauro",
+        "es:t": "Italia",
+        "de": "Gioia Tauro",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Gioia del Colle",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 40.7991,
+            "lon": 16.9222
+        },
+        "it": "Gioia del Colle",
+        "it:t": "Italia",
+        "es": "Gioia del Colle",
+        "es:t": "Italia",
+        "de": "Gioia del Colle",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Giovinazzo",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 41.1867,
+            "lon": 16.6736
+        },
+        "it": "Giovinazzo",
+        "it:t": "Italia",
+        "es": "Giovinazzo",
+        "es:t": "Italia",
+        "de": "Giovinazzo",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Giugliano in Campania",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 40.9286,
+            "lon": 14.2032
+        },
+        "it": "Giugliano in Campania",
+        "it:t": "Italia",
+        "es": "Giugliano de Campania",
+        "es:t": "Italia",
+        "de": "Giugliano in Campania",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Giulianova",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 42.7538,
+            "lon": 13.9665
+        },
+        "it": "Giulianova",
+        "it:t": "Italia",
+        "es": "Giulianova",
+        "es:t": "Italia",
+        "de": "Giulianova",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Giussano",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 45.7002,
+            "lon": 9.209
+        },
+        "it": "Giussano",
+        "it:t": "Italia",
+        "es": "Giussano",
+        "es:t": "Italia",
+        "de": "Giussano",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Gorgonzola",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 45.5308,
+            "lon": 9.4054
+        },
+        "it": "Gorgonzola",
+        "it:t": "Italia",
+        "es": "Gorgonzola",
+        "es:t": "Italia",
+        "de": "Gorgonzola",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Gorizia",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 45.9402,
+            "lon": 13.6202
+        },
+        "it": "Gorizia",
+        "it:t": "Italia",
+        "es": "Gorizia",
+        "es:t": "Italia",
+        "de": "G\u00f6rz",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Gragnano",
+        "en:t": "Italy | Naples",
+        "a": true,
+        "g": {
+            "lat": 40.6826,
+            "lon": 14.5364
+        },
+        "it": "Gragnano",
+        "it:t": "Italia | Citt\u00e0a di Napoli",
+        "es": "Gragnano",
+        "es:t": "Italia | N\u00e1poles",
+        "de": "Gragnano",
+        "de:t": "Italien | Neapel"
+    },
+    {
+        "en": "Gravina di Catania",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 37.5607,
+            "lon": 15.0609
+        },
+        "it": "Gravina di Catania",
+        "it:t": "Italia",
+        "es": "Gravina di Catania",
+        "es:t": "Italia",
+        "de": "Gravina di Catania",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Gravina in Puglia",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 40.8171,
+            "lon": 16.4185
+        },
+        "it": "Gravina in Puglia",
+        "it:t": "Italia",
+        "es": "Gravina in Puglia",
+        "es:t": "Italia",
+        "de": "Gravina in Puglia",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Grosseto",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 42.7635,
+            "lon": 11.1124
+        },
+        "it": "Grosseto",
+        "it:t": "Italia",
+        "es": "Grosseto",
+        "es:t": "Italia",
+        "de": "Grosseto",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Grottaferrata",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 41.7866,
+            "lon": 12.6736
+        },
+        "it": "Grottaferrata",
+        "it:t": "Italia",
+        "es": "Grottaferrata",
+        "es:t": "Italia",
+        "de": "Grottaferrata",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Grottaglie",
+        "en:t": "Italy | Taranto",
+        "a": true,
+        "g": {
+            "lat": 40.5369,
+            "lon": 17.4204
+        },
+        "it": "Grottaglie",
+        "it:t": "Italia | Taranto",
+        "es": "Grottaglie",
+        "es:t": "Italia | Tarento",
+        "de": "Grottaglie",
+        "de:t": "Italien | Tarent"
+    },
+    {
+        "en": "Grugliasco",
+        "en:t": "Italy | Turin",
+        "a": true,
+        "g": {
+            "lat": 45.0564,
+            "lon": 7.5944
+        },
+        "it": "Grugliasco",
+        "it:t": "Italia | Citt\u00e0a di Torino",
+        "es": "Grugliasco",
+        "es:t": "Italia | Tur\u00edn",
+        "de": "Grugliasco",
+        "de:t": "Italien | Turin"
+    },
+    {
+        "en": "Grumo Nevano",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 40.9375,
+            "lon": 14.2601
+        },
+        "it": "Grumo Nevano",
+        "it:t": "Italia",
+        "es": "Grumo Nevano",
+        "es:t": "Italia",
+        "de": "Grumo Nevano",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Guidonia",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 41.994,
+            "lon": 12.7245
+        },
+        "it": "Guidonia Montecelio",
+        "it:t": "Italia",
+        "es": "Guidonia Montecelio",
+        "es:t": "Italia",
+        "de": "Guidonia Montecelio",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Iesi",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 43.5271,
+            "lon": 13.2464
+        },
+        "it": "Jesi",
+        "it:t": "Italia",
+        "es": "Iesi",
+        "es:t": "Italia",
+        "de": "Jesi",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Iglesias",
+        "en:t": "Italy | Carbonia-Iglesias",
+        "a": true,
+        "g": {
+            "lat": 39.3128,
+            "lon": 8.536
+        },
+        "it": "Iglesias",
+        "it:t": "Italia | Carbonia-Iglesias",
+        "es": "Iglesias",
+        "es:t": "Italia | Carbonia-Iglesias",
+        "de": "Iglesias",
+        "de:t": "Italien | Carbonia-Iglesias"
+    },
+    {
+        "en": "Imola",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 44.36,
+            "lon": 11.7124
+        },
+        "it": "Imola",
+        "it:t": "Italia",
+        "es": "Imola",
+        "es:t": "Italia",
+        "de": "Imola",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Imperia",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 43.8897,
+            "lon": 8.0395
+        },
+        "it": "Imperia",
+        "it:t": "Italia",
+        "es": "Imperia",
+        "es:t": "Italia",
+        "de": "Imperia",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Intra",
+        "en:t": "Italy | Verbania",
+        "a": true,
+        "g": {
+            "lat": 45.9378,
+            "lon": 8.5694
+        },
+        "it": "Intra",
+        "it:t": "Italia | Verbania",
+        "es": "Via per Suna",
+        "es:t": "Italia | Verbania",
+        "de": "Intra",
+        "de:t": "Italien | Verbania"
+    },
+    {
+        "en": "Ischia",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 40.7379,
+            "lon": 13.9486
+        },
+        "it": "Ischia",
+        "it:t": "Italia",
+        "es": "Ischia Porto",
+        "es:t": "Italia",
+        "de": "Ischia",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Ischia",
+        "en:t": "Italy | Naples",
+        "a": true,
+        "g": {
+            "lat": 40.727,
+            "lon": 13.9029
+        },
+        "it": "Isola d'Ischia",
+        "it:t": "Italia | Citt\u00e0a di Napoli",
+        "es": "Isquia",
+        "es:t": "Italia | N\u00e1poles",
+        "de": "Ischia",
+        "de:t": "Italien | Neapel"
+    },
+    {
+        "en": "Isernia",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 41.596,
+            "lon": 14.2332
+        },
+        "it": "Isernia",
+        "it:t": "Italia",
+        "es": "Isernia",
+        "es:t": "Italia",
+        "de": "Isernia",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Ivrea",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 45.4673,
+            "lon": 7.8801
+        },
+        "it": "Ivrea",
+        "it:t": "Italia",
+        "es": "Ivrea",
+        "es:t": "Italia",
+        "de": "Ivrea",
+        "de:t": "Italien"
+    },
+    {
+        "en": "L'Aquila",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 42.3498,
+            "lon": 13.3995
+        },
+        "it": "L'Aquila",
+        "it:t": "Italia",
+        "es": "L'Aquila",
+        "es:t": "Italia",
+        "de": "L\u2019Aquila",
+        "de:t": "Italien"
+    },
+    {
+        "en": "La Spezia",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 44.1025,
+            "lon": 9.8241
+        },
+        "it": "La Spezia",
+        "it:t": "Italia",
+        "es": "La Spezia",
+        "es:t": "Italia",
+        "de": "La Spezia",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Ladispoli",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 41.9499,
+            "lon": 12.0761
+        },
+        "it": "Ladispoli",
+        "it:t": "Italia",
+        "es": "Ladispoli",
+        "es:t": "Italia",
+        "de": "Ladispoli",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Lainate",
+        "en:t": "Italy | Milan",
+        "a": true,
+        "g": {
+            "lat": 45.5709,
+            "lon": 9.0258
+        },
+        "it": "Lainate",
+        "it:t": "Italia | Citt\u00e0a di Milano",
+        "es": "Lainate",
+        "es:t": "Italia | Mil\u00e1n",
+        "de": "Lainate",
+        "de:t": "Italien | Mailand"
+    },
+    {
+        "en": "Lamezia Terme",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 38.9629,
+            "lon": 16.3093
+        },
+        "it": "Lamezia Terme",
+        "it:t": "Italia",
+        "es": "Lamezia Terme",
+        "es:t": "Italia",
+        "de": "Lamezia Terme",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Lancenigo",
+        "en:t": "Italy | Villorba",
+        "a": true,
+        "g": {
+            "lat": 45.7268,
+            "lon": 12.2525
+        },
+        "it": "Lancenigo",
+        "it:t": "Italia | Villorba",
+        "es": "Lancenigo",
+        "es:t": "Italia | Villorba",
+        "de": "Lancenigo",
+        "de:t": "Italien | Villorba"
+    },
+    {
+        "en": "Lanciano",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 42.2266,
+            "lon": 14.389
+        },
+        "it": "Lanciano",
+        "it:t": "Italia",
+        "es": "Lanciano",
+        "es:t": "Italia",
+        "de": "Lanciano",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Latina",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 41.4676,
+            "lon": 12.9036
+        },
+        "it": "Latina",
+        "it:t": "Italia",
+        "es": "Latina",
+        "es:t": "Italia",
+        "de": "Latina",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Lecce",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 40.3515,
+            "lon": 18.175
+        },
+        "it": "Lecce",
+        "it:t": "Italia",
+        "es": "Lecce",
+        "es:t": "Italia",
+        "de": "Lecce",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Lecco",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 45.8566,
+            "lon": 9.3977
+        },
+        "it": "Lecco",
+        "it:t": "Italia",
+        "es": "Lecco",
+        "es:t": "Italia",
+        "de": "Lecco",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Legnago",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 45.1936,
+            "lon": 11.3032
+        },
+        "it": "Legnago",
+        "it:t": "Italia",
+        "es": "Legnago",
+        "es:t": "Italia",
+        "de": "Legnago",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Legnano",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 45.5983,
+            "lon": 8.9142
+        },
+        "it": "Legnano",
+        "it:t": "Italia",
+        "es": "Legnano",
+        "es:t": "Italia",
+        "de": "Ligni",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Lentini",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 37.2838,
+            "lon": 14.9961
+        },
+        "it": "Lentini",
+        "it:t": "Italia",
+        "es": "Lentini",
+        "es:t": "Italia",
+        "de": "Lentini",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Licata",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 37.1017,
+            "lon": 13.9373
+        },
+        "it": "Licata",
+        "it:t": "Italia",
+        "es": "Licata",
+        "es:t": "Italia",
+        "de": "Licata",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Limbiate",
+        "en:t": "Italy | Monza and Brianza",
+        "a": true,
+        "g": {
+            "lat": 45.6017,
+            "lon": 9.1172
+        },
+        "it": "Limbiate",
+        "it:t": "Italia | Monza e della Brianza",
+        "es": "Limbiate",
+        "es:t": "Italia | Monza y Brianza",
+        "de": "Limbiate",
+        "de:t": "Italien | Monza und Brianza"
+    },
+    {
+        "en": "Lissone",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 45.613,
+            "lon": 9.2426
+        },
+        "it": "Lissone",
+        "it:t": "Italia",
+        "es": "Lissone",
+        "es:t": "Italia",
+        "de": "Lissone",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Livorno",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 43.5485,
+            "lon": 10.3106
+        },
+        "it": "Livorno",
+        "it:t": "Italia",
+        "es": "Livorno",
+        "es:t": "Italia",
+        "de": "Livorno",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Lodi",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 45.3097,
+            "lon": 9.5037
+        },
+        "it": "Lodi",
+        "it:t": "Italia",
+        "es": "Lodi",
+        "es:t": "Italia",
+        "de": "Lauden",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Lucca",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 43.8429,
+            "lon": 10.5027
+        },
+        "it": "Lucca",
+        "it:t": "Italia",
+        "es": "Lucca",
+        "es:t": "Italia",
+        "de": "Lucca",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Lucera",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 41.5055,
+            "lon": 15.3385
+        },
+        "it": "Lucera",
+        "it:t": "Italia",
+        "es": "Lucera",
+        "es:t": "Italia",
+        "de": "Lucera",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Lugo",
+        "en:t": "Italy | Ravenna",
+        "a": true,
+        "g": {
+            "lat": 44.4807,
+            "lon": 11.8963
+        },
+        "it": "Lugo",
+        "it:t": "Italia | Ravenna",
+        "es": "Lugo",
+        "es:t": "Italia | R\u00e1vena",
+        "de": "Lugo",
+        "de:t": "Italien | Ravenna"
+    },
+    {
+        "en": "Lumezzane",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 45.6475,
+            "lon": 10.2654
+        },
+        "it": "Lumezzane",
+        "it:t": "Italia",
+        "es": "Lumezzane",
+        "es:t": "Italia",
+        "de": "Lumezzane",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Macerata",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 43.2984,
+            "lon": 13.4535
+        },
+        "it": "Macerata",
+        "it:t": "Italia",
+        "es": "Macerata",
+        "es:t": "Italia",
+        "de": "Macerata",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Maddaloni",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 41.0367,
+            "lon": 14.3812
+        },
+        "it": "Maddaloni",
+        "it:t": "Italia",
+        "es": "Maddaloni",
+        "es:t": "Italia",
+        "de": "Maddaloni",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Magenta",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 45.4655,
+            "lon": 8.885
+        },
+        "it": "Magenta",
+        "it:t": "Italia",
+        "es": "Magenta",
+        "es:t": "Italia",
+        "de": "Magenta",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Malnate",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 45.7971,
+            "lon": 8.8827
+        },
+        "it": "Malnate",
+        "it:t": "Italia",
+        "es": "Malnate",
+        "es:t": "Italia",
+        "de": "Malnate",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Manduria",
+        "en:t": "Italy | Taranto",
+        "a": true,
+        "g": {
+            "lat": 40.3734,
+            "lon": 17.6452
+        },
+        "it": "Manduria",
+        "it:t": "Italia | Taranto",
+        "es": "Manduria",
+        "es:t": "Italia | Tarento",
+        "de": "Manduria",
+        "de:t": "Italien | Tarent"
+    },
+    {
+        "en": "Manfredonia",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 41.6307,
+            "lon": 15.9165
+        },
+        "it": "Manfredonia",
+        "it:t": "Italia",
+        "es": "Manfredonia",
+        "es:t": "Italia",
+        "de": "Manfredonia",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Mantua",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 45.1564,
+            "lon": 10.7914
+        },
+        "it": "Mantova",
+        "it:t": "Italia",
+        "es": "Mantua",
+        "es:t": "Italia",
+        "de": "Mantua",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Marano di Napoli",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 40.887,
+            "lon": 14.1757
+        },
+        "it": "Marano di Napoli",
+        "it:t": "Italia",
+        "es": "Marano di Napoli",
+        "es:t": "Italia",
+        "de": "Marano di Napoli",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Marcianise",
+        "en:t": "Italy | Caserta",
+        "a": true,
+        "g": {
+            "lat": 41.0152,
+            "lon": 14.2977
+        },
+        "it": "Marcianise",
+        "it:t": "Italia | Caserta",
+        "es": "Marcianise",
+        "es:t": "Italia | Caserta",
+        "de": "Marcianise",
+        "de:t": "Italien | Caserta"
+    },
+    {
+        "en": "Mariano Comense",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 45.6982,
+            "lon": 9.1825
+        },
+        "it": "Mariano Comense",
+        "it:t": "Italia",
+        "es": "Mariano Comense",
+        "es:t": "Italia",
+        "de": "Mariano Comense",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Marigliano",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 40.9249,
+            "lon": 14.4562
+        },
+        "it": "Marigliano",
+        "it:t": "Italia",
+        "es": "Marigliano",
+        "es:t": "Italia",
+        "de": "Marigliano",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Marina di Ardea-Tor San Lorenzo",
+        "en:t": "Italy | Ardea",
+        "a": true,
+        "g": {
+            "lat": 41.5555,
+            "lon": 12.5401
+        },
+        "it": "Marina di San Lorenzo",
+        "it:t": "Italia | Ardea",
+        "es": "Marina di Ardea-Tor San Lorenzo",
+        "es:t": "Italia | Ardea",
+        "de": "Marina di Ardea-Tor San Lorenzo",
+        "de:t": "Italien | Ardea"
+    },
+    {
+        "en": "Marina di Carrara",
+        "en:t": "Italy | Carrara",
+        "a": true,
+        "g": {
+            "lat": 44.036,
+            "lon": 10.0438
+        },
+        "it": "Marina di Carrara",
+        "it:t": "Italia | Carrara",
+        "es": "Marina di Carrara",
+        "es:t": "Italia | Carrara",
+        "de": "Marina di Carrara",
+        "de:t": "Italien | Carrara"
+    },
+    {
+        "en": "Marino",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 41.7701,
+            "lon": 12.6585
+        },
+        "it": "Marino",
+        "it:t": "Italia",
+        "es": "Marino",
+        "es:t": "Italia",
+        "de": "Marino",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Marsala",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 37.7981,
+            "lon": 12.4372
+        },
+        "it": "Marsala",
+        "it:t": "Italia",
+        "es": "Marsala",
+        "es:t": "Italia",
+        "de": "Marsala",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Martina Franca",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 40.7029,
+            "lon": 17.3393
+        },
+        "it": "Martina Franca",
+        "it:t": "Italia",
+        "es": "Martina Franca",
+        "es:t": "Italia",
+        "de": "Martina Franca",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Mascalucia",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 37.5841,
+            "lon": 15.0382
+        },
+        "it": "Mascalucia",
+        "it:t": "Italia",
+        "es": "Mascalucia",
+        "es:t": "Italia",
+        "de": "Mascalucia",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Massa",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 44.0354,
+            "lon": 10.1393
+        },
+        "it": "Massa e Carrara",
+        "it:t": "Italia",
+        "es": "Massa",
+        "es:t": "Italia",
+        "de": "Massa",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Massafra",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 40.5911,
+            "lon": 17.1184
+        },
+        "it": "Massafra",
+        "it:t": "Italia",
+        "es": "Massafra",
+        "es:t": "Italia",
+        "de": "Massafra",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Matera",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 40.6664,
+            "lon": 16.6043
+        },
+        "it": "Matera",
+        "it:t": "Italia",
+        "es": "Matera",
+        "es:t": "Italia",
+        "de": "Matera",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Mazara del Vallo",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 37.6551,
+            "lon": 12.59
+        },
+        "it": "Mazara del Vallo",
+        "it:t": "Italia",
+        "es": "Mazara del Vallo",
+        "es:t": "Italia",
+        "de": "Mazara del Vallo",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Meda",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 45.6611,
+            "lon": 9.1524
+        },
+        "it": "Meda",
+        "it:t": "Italia",
+        "es": "Meda",
+        "es:t": "Italia",
+        "de": "Meda",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Melegnano",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 45.3563,
+            "lon": 9.3215
+        },
+        "it": "Melegnano",
+        "it:t": "Italia",
+        "es": "Melegnano",
+        "es:t": "Italia",
+        "de": "Melegnano",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Melito di Napoli",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 40.9187,
+            "lon": 14.233
+        },
+        "it": "Melito di Napoli",
+        "it:t": "Italia",
+        "es": "Melito di Napoli",
+        "es:t": "Italia",
+        "de": "Melito di Napoli",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Melzo",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 45.5032,
+            "lon": 9.4221
+        },
+        "it": "Melzo",
+        "it:t": "Italia",
+        "es": "Melzo",
+        "es:t": "Italia",
+        "de": "Melzo",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Mentana",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 42.0324,
+            "lon": 12.6424
+        },
+        "it": "Mentana",
+        "it:t": "Italia",
+        "es": "Mentana",
+        "es:t": "Italia",
+        "de": "Mentana",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Merano",
+        "en:t": "Italy | Tirol",
+        "a": true,
+        "g": {
+            "lat": 46.6713,
+            "lon": 11.1525
+        },
+        "it": "Merano",
+        "it:t": "Italia | Tirolo",
+        "es": "Merano",
+        "es:t": "Italia | Tirolo",
+        "de": "Meran",
+        "de:t": "Italien | Tirol"
+    },
+    {
+        "en": "Mesagne",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 40.5577,
+            "lon": 17.8102
+        },
+        "it": "Mesagne",
+        "it:t": "Italia",
+        "es": "Mesagne",
+        "es:t": "Italia",
+        "de": "Mesagne",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Messina",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 38.1937,
+            "lon": 15.5542
+        },
+        "it": "Messina",
+        "it:t": "Italia",
+        "es": "Mesina",
+        "es:t": "Italia",
+        "de": "Messina",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Mestre",
+        "en:t": "Italy | Venice",
+        "a": true,
+        "g": {
+            "lat": 45.4935,
+            "lon": 12.2463
+        },
+        "it": "Mestre",
+        "it:t": "Italia | Venezia",
+        "es": "Mestre",
+        "es:t": "Italia | Venecia",
+        "de": "Mestre",
+        "de:t": "Italien | Venedig"
+    },
+    {
+        "en": "Milan",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 45.4642,
+            "lon": 9.19
+        },
+        "it": "Milano",
+        "it:t": "Italia",
+        "es": "Mil\u00e1n",
+        "es:t": "Italia",
+        "de": "Mailand",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Milazzo",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 38.2207,
+            "lon": 15.2419
+        },
+        "it": "Milazzo",
+        "it:t": "Italia",
+        "es": "Milazzo",
+        "es:t": "Italia",
+        "de": "Milazzo",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Minturno",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 41.2657,
+            "lon": 13.7444
+        },
+        "it": "Minturno",
+        "it:t": "Italia",
+        "es": "Minturno",
+        "es:t": "Italia",
+        "de": "Minturno",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Mirandola",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 44.8864,
+            "lon": 11.0633
+        },
+        "it": "Mirandola",
+        "it:t": "Italia",
+        "es": "Mirandola",
+        "es:t": "Italia",
+        "de": "Mirandola",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Mirano",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 45.495,
+            "lon": 12.1159
+        },
+        "it": "Mirano",
+        "it:t": "Italia",
+        "es": "Mirano",
+        "es:t": "Italia",
+        "de": "Mirano",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Misilmeri",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 38.0299,
+            "lon": 13.4482
+        },
+        "it": "Misilmeri",
+        "it:t": "Italia",
+        "es": "Misilmeri",
+        "es:t": "Italia",
+        "de": "Misilmeri",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Misterbianco",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 37.5183,
+            "lon": 15.0077
+        },
+        "it": "Misterbianco",
+        "it:t": "Italia",
+        "es": "Misterbianco",
+        "es:t": "Italia",
+        "de": "Misterbianco",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Modena",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 44.6471,
+            "lon": 10.9252
+        },
+        "it": "Modena",
+        "it:t": "Italia",
+        "es": "M\u00f3dena",
+        "es:t": "Italia",
+        "de": "Modena",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Modica",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 36.8588,
+            "lon": 14.7608
+        },
+        "it": "Modica",
+        "it:t": "Italia",
+        "es": "M\u00f3dica",
+        "es:t": "Italia",
+        "de": "Modica",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Modugno",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 41.0827,
+            "lon": 16.7824
+        },
+        "it": "Modugno",
+        "it:t": "Italia",
+        "es": "Modugno",
+        "es:t": "Italia",
+        "de": "Modugno",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Mogliano Veneto",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 45.5538,
+            "lon": 12.2343
+        },
+        "it": "Mogliano Veneto",
+        "it:t": "Italia",
+        "es": "Mogliano Veneto",
+        "es:t": "Italia",
+        "de": "Mogliano Veneto",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Mola di Bari",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 41.063,
+            "lon": 17.0903
+        },
+        "it": "Mola di Bari",
+        "it:t": "Italia",
+        "es": "Mola di Bari",
+        "es:t": "Italia",
+        "de": "Mola di Bari",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Molfetta",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 41.2028,
+            "lon": 16.5987
+        },
+        "it": "Molfetta",
+        "it:t": "Italia",
+        "es": "Molfetta",
+        "es:t": "Italia",
+        "de": "Molfetta",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Moncalieri",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 44.9984,
+            "lon": 7.6803
+        },
+        "it": "Moncalieri",
+        "it:t": "Italia",
+        "es": "Moncalieri",
+        "es:t": "Italia",
+        "de": "Moncalieri",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Mondov\u00ec",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 44.3953,
+            "lon": 7.8197
+        },
+        "it": "Mondov\u00ec",
+        "it:t": "Italia",
+        "es": "Mondov\u00ec",
+        "es:t": "Italia",
+        "de": "Mondov\u00ec",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Mondragone",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 41.1148,
+            "lon": 13.8935
+        },
+        "it": "Mondragone",
+        "it:t": "Italia",
+        "es": "Mondragone",
+        "es:t": "Italia",
+        "de": "Mondragone",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Monfalcone",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 45.805,
+            "lon": 13.5332
+        },
+        "it": "Monfalcone",
+        "it:t": "Italia",
+        "es": "Monfalcone",
+        "es:t": "Italia",
+        "de": "Monfalcone",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Monopoli",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 40.9525,
+            "lon": 17.2986
+        },
+        "it": "Monopoli",
+        "it:t": "Italia",
+        "es": "Monopoli",
+        "es:t": "Italia",
+        "de": "Monopoli",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Monreale",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 38.0815,
+            "lon": 13.289
+        },
+        "it": "Monreale",
+        "it:t": "Italia",
+        "es": "Monreale",
+        "es:t": "Italia",
+        "de": "Monreale",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Monserrato",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 39.256,
+            "lon": 9.1454
+        },
+        "it": "Monserrato",
+        "it:t": "Italia",
+        "es": "Monserrato",
+        "es:t": "Italia",
+        "de": "Monserrato",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Montebelluna",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 45.7755,
+            "lon": 12.044
+        },
+        "it": "Montebelluna",
+        "it:t": "Italia",
+        "es": "Montebelluna",
+        "es:t": "Italia",
+        "de": "Montebelluna",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Montecatini Terme",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 43.8809,
+            "lon": 10.7755
+        },
+        "it": "Montecatini Terme",
+        "it:t": "Italia",
+        "es": "Montecatini Terme",
+        "es:t": "Italia",
+        "de": "Montecatini Terme",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Montecchio Maggiore",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 45.5003,
+            "lon": 11.4213
+        },
+        "it": "Montecchio Maggiore-Alte Ceccato",
+        "it:t": "Italia",
+        "es": "Montecchio Maggiore",
+        "es:t": "Italia",
+        "de": "Montecchio Maggiore",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Montemurlo",
+        "en:t": "Italy | Prato",
+        "a": true,
+        "g": {
+            "lat": 43.9285,
+            "lon": 11.0599
+        },
+        "it": "Montemurlo",
+        "it:t": "Italia | Prato",
+        "es": "Montemurlo",
+        "es:t": "Italia | Prato",
+        "de": "Montemurlo",
+        "de:t": "Italien | Prato"
+    },
+    {
+        "en": "Monterotondo",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 42.0518,
+            "lon": 12.6203
+        },
+        "it": "Monterotondo",
+        "it:t": "Italia",
+        "es": "Monterotondo",
+        "es:t": "Italia",
+        "de": "Monterotondo",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Monterusciello",
+        "en:t": "Italy | Pozzuoli",
+        "a": true,
+        "g": {
+            "lat": 40.8689,
+            "lon": 14.0827
+        },
+        "it": "Monterusciello",
+        "it:t": "Italia | Pozzuoli",
+        "es": "Monterusciello",
+        "es:t": "Italia | Pozzuoli",
+        "de": "Monterusciello",
+        "de:t": "Italien | Pozzuoli"
+    },
+    {
+        "en": "Montesilvano",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 42.5102,
+            "lon": 14.1437
+        },
+        "it": "Montesilvano",
+        "it:t": "Italia",
+        "es": "Montesilvano",
+        "es:t": "Italia",
+        "de": "Montesilvano",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Montevarchi",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 43.5308,
+            "lon": 11.564
+        },
+        "it": "Montevarchi",
+        "it:t": "Italia",
+        "es": "Montevarchi",
+        "es:t": "Italia",
+        "de": "Montevarchi",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Montichiari",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 45.4148,
+            "lon": 10.3929
+        },
+        "it": "Montichiari",
+        "it:t": "Italia",
+        "es": "Montichiari",
+        "es:t": "Italia",
+        "de": "Montichiari",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Monza",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 45.5845,
+            "lon": 9.2744
+        },
+        "it": "Monza",
+        "it:t": "Italia",
+        "es": "Monza",
+        "es:t": "Italia",
+        "de": "Monza",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Muggi\u00f2",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 45.5911,
+            "lon": 9.2264
+        },
+        "it": "Muggi\u00f2",
+        "it:t": "Italia",
+        "es": "Muggi\u00f2",
+        "es:t": "Italia",
+        "de": "Muggi\u00f2",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Mugnano di Napoli",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 40.9093,
+            "lon": 14.2066
+        },
+        "it": "Mugnano di Napoli",
+        "it:t": "Italia",
+        "es": "Mugnano di Napoli",
+        "es:t": "Italia",
+        "de": "Mugnano di Napoli",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Naples",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 40.8518,
+            "lon": 14.2681
+        },
+        "it": "Napoli",
+        "it:t": "Italia",
+        "es": "N\u00e1poles",
+        "es:t": "Italia",
+        "de": "Neapel",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Nard\u00f2",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 40.1798,
+            "lon": 18.0332
+        },
+        "it": "Nard\u00f2",
+        "it:t": "Italia",
+        "es": "Nard\u00f2",
+        "es:t": "Italia",
+        "de": "Nard\u00f2",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Nerviano",
+        "en:t": "Italy | Milan",
+        "a": true,
+        "g": {
+            "lat": 45.5551,
+            "lon": 8.9858
+        },
+        "it": "Nerviano",
+        "it:t": "Italia | Citt\u00e0a di Milano",
+        "es": "Nerviano",
+        "es:t": "Italia | Mil\u00e1n",
+        "de": "Nerviano",
+        "de:t": "Italien | Mailand"
+    },
+    {
+        "en": "Nettuno",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 41.4577,
+            "lon": 12.6655
+        },
+        "it": "Nettuno",
+        "it:t": "Italia",
+        "es": "Nettuno",
+        "es:t": "Italia",
+        "de": "Nettuno",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Nicastro",
+        "en:t": "Italy | Lamezia Terme",
+        "a": true,
+        "g": {
+            "lat": 38.9712,
+            "lon": 16.3128
+        },
+        "it": "Nicastro",
+        "it:t": "Italia | Lamezia Terme",
+        "es": "Nicastro",
+        "es:t": "Italia | Lamezia Terme",
+        "de": "Nicastro",
+        "de:t": "Italien | Lamezia Terme"
+    },
+    {
+        "en": "Nichelino",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 45.0021,
+            "lon": 7.6556
+        },
+        "it": "Nichelino",
+        "it:t": "Italia",
+        "es": "Nichelino",
+        "es:t": "Italia",
+        "de": "Nichelino",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Niscemi",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 37.1486,
+            "lon": 14.3878
+        },
+        "it": "Niscemi",
+        "it:t": "Italia",
+        "es": "Niscemi",
+        "es:t": "Italia",
+        "de": "Niscemi",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Nocera Inferiore",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 40.7461,
+            "lon": 14.6475
+        },
+        "it": "Nocera Inferiore",
+        "it:t": "Italia",
+        "es": "Nocera Inferiore",
+        "es:t": "Italia",
+        "de": "Nocera Inferiore",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Nocera Superiore",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 40.7504,
+            "lon": 14.6815
+        },
+        "it": "Nocera Superiore",
+        "it:t": "Italia",
+        "es": "Nocera Superiore",
+        "es:t": "Italia",
+        "de": "Nocera Superiore",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Noci",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 40.7939,
+            "lon": 17.1259
+        },
+        "it": "Noci",
+        "it:t": "Italia",
+        "es": "Noci",
+        "es:t": "Italia",
+        "de": "Noci",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Noic\u00e0ttaro",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 41.0335,
+            "lon": 16.9883
+        },
+        "it": "Noicattaro",
+        "it:t": "Italia",
+        "es": "Noic\u00e0ttaro",
+        "es:t": "Italia",
+        "de": "Noicattaro",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Nola",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 40.9271,
+            "lon": 14.5289
+        },
+        "it": "Nola",
+        "it:t": "Italia",
+        "es": "Nola",
+        "es:t": "Italia",
+        "de": "Nola",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Noto",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 36.8924,
+            "lon": 15.0652
+        },
+        "it": "Noto",
+        "it:t": "Italia",
+        "es": "Noto",
+        "es:t": "Italia",
+        "de": "Noto",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Nova Milanese",
+        "en:t": "Italy | Monza and Brianza",
+        "a": true,
+        "g": {
+            "lat": 45.586,
+            "lon": 9.1939
+        },
+        "it": "Nova milanese",
+        "it:t": "Italia | Monza e della Brianza",
+        "es": "Nova Milanese",
+        "es:t": "Italia | Monza y Brianza",
+        "de": "Nova Milanese",
+        "de:t": "Italien | Monza und Brianza"
+    },
+    {
+        "en": "Novara",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 45.4469,
+            "lon": 8.6222
+        },
+        "it": "Novara",
+        "it:t": "Italia",
+        "es": "Novara",
+        "es:t": "Italia",
+        "de": "Novara",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Novate Milanese",
+        "en:t": "Italy | Milan",
+        "a": true,
+        "g": {
+            "lat": 45.5331,
+            "lon": 9.1418
+        },
+        "it": "Novate Milanese",
+        "it:t": "Italia | Citt\u00e0a di Milano",
+        "es": "Novate Milanese",
+        "es:t": "Italia | Mil\u00e1n",
+        "de": "Novate Milanese",
+        "de:t": "Italien | Mailand"
+    },
+    {
+        "en": "Novi Ligure",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 44.762,
+            "lon": 8.7859
+        },
+        "it": "Novi Ligure",
+        "it:t": "Italia",
+        "es": "Novi Ligure",
+        "es:t": "Italia",
+        "de": "Novi Ligure",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Nuoro",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 40.3202,
+            "lon": 9.3264
+        },
+        "it": "Nuoro",
+        "it:t": "Italia",
+        "es": "Nuoro",
+        "es:t": "Italia",
+        "de": "Nuoro",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Oderzo",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 45.7798,
+            "lon": 12.4973
+        },
+        "it": "Oderzo",
+        "it:t": "Italia",
+        "es": "Oderzo",
+        "es:t": "Italia",
+        "de": "Oderzo",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Olbia",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 40.9236,
+            "lon": 9.4964
+        },
+        "it": "Olbia",
+        "it:t": "Italia",
+        "es": "Olbia",
+        "es:t": "Italia",
+        "de": "Olbia",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Orbassano",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 45.0057,
+            "lon": 7.5354
+        },
+        "it": "Orbassano",
+        "it:t": "Italia",
+        "es": "Orbassano",
+        "es:t": "Italia",
+        "de": "Orbassano",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Oristano",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 39.9062,
+            "lon": 8.5884
+        },
+        "it": "Oristano",
+        "it:t": "Italia",
+        "es": "Orist\u00e1n",
+        "es:t": "Italia",
+        "de": "Oristano",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Orta Nova",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 41.328,
+            "lon": 15.7093
+        },
+        "it": "Orta Nova",
+        "it:t": "Italia",
+        "es": "Orta Nova",
+        "es:t": "Italia",
+        "de": "Orta Nova",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Orta di Atella",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 40.9644,
+            "lon": 14.2692
+        },
+        "it": "Orta di Atella",
+        "it:t": "Italia",
+        "es": "Orta di Atella",
+        "es:t": "Italia",
+        "de": "Orta di Atella",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Osimo",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 43.4884,
+            "lon": 13.4785
+        },
+        "it": "Osimo",
+        "it:t": "Italia",
+        "es": "Osimo",
+        "es:t": "Italia",
+        "de": "Osimo",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Ostia",
+        "en:t": "Italy | Rome",
+        "a": true,
+        "g": {
+            "lat": 41.7311,
+            "lon": 12.2863
+        },
+        "it": "Lido di Ostia",
+        "it:t": "Italia | Roma",
+        "es": "Ostia",
+        "es:t": "Italia | Roma",
+        "de": "Lido di Ostia",
+        "de:t": "Italien | Rom"
+    },
+    {
+        "en": "Ostuni",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 40.7295,
+            "lon": 17.578
+        },
+        "it": "Ostuni",
+        "it:t": "Italia",
+        "es": "Ostuni",
+        "es:t": "Italia",
+        "de": "Ostuni",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Ottaviano",
+        "en:t": "Italy | Naples",
+        "a": true,
+        "g": {
+            "lat": 40.8389,
+            "lon": 14.4782
+        },
+        "it": "Ottaviano",
+        "it:t": "Italia | Citt\u00e0a di Napoli",
+        "es": "Ottaviano",
+        "es:t": "Italia | N\u00e1poles",
+        "de": "Ottaviano",
+        "de:t": "Italien | Neapel"
+    },
+    {
+        "en": "Pachino",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 36.7152,
+            "lon": 15.0913
+        },
+        "it": "Pachino",
+        "it:t": "Italia",
+        "es": "Pachino",
+        "es:t": "Italia",
+        "de": "Pachino",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Paderno Dugnano",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 45.5712,
+            "lon": 9.164
+        },
+        "it": "Paderno Dugnano",
+        "it:t": "Italia",
+        "es": "Paderno Dugnano",
+        "es:t": "Italia",
+        "de": "Paderno Dugnano",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Padua",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 45.4064,
+            "lon": 11.8768
+        },
+        "it": "Padova",
+        "it:t": "Italia",
+        "es": "Padua",
+        "es:t": "Italia",
+        "de": "Padua",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Pagani",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 40.7419,
+            "lon": 14.6146
+        },
+        "it": "Pagani",
+        "it:t": "Italia",
+        "es": "Pagani",
+        "es:t": "Italia",
+        "de": "Pagani",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Palagiano",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 40.5791,
+            "lon": 17.036
+        },
+        "it": "Palagiano",
+        "it:t": "Italia",
+        "es": "Palagiano",
+        "es:t": "Italia",
+        "de": "Palagiano",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Palagonia",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 37.3282,
+            "lon": 14.7467
+        },
+        "it": "Palagonia",
+        "it:t": "Italia",
+        "es": "Palagonia",
+        "es:t": "Italia",
+        "de": "Palagonia",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Palazzolo sull'Oglio",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 45.5965,
+            "lon": 9.8864
+        },
+        "it": "Palazzolo sull'Oglio",
+        "it:t": "Italia",
+        "es": "Palazzolo sull'Oglio",
+        "es:t": "Italia",
+        "de": "Palazzolo sull\u2019Oglio",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Palermo",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 38.1157,
+            "lon": 13.3615
+        },
+        "it": "Palermo",
+        "it:t": "Italia",
+        "es": "Palermo",
+        "es:t": "Italia",
+        "de": "Palermo",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Palma di Montechiaro",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 37.1929,
+            "lon": 13.7619
+        },
+        "it": "Palma di Montechiaro",
+        "it:t": "Italia",
+        "es": "Palma di Montechiaro",
+        "es:t": "Italia",
+        "de": "Palma di Montechiaro",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Palmi",
+        "en:t": "Italy | Reggio Calabria",
+        "a": true,
+        "g": {
+            "lat": 38.3853,
+            "lon": 15.8877
+        },
+        "it": "Palmi",
+        "it:t": "Italia | Reggio Calabria",
+        "es": "Palmi",
+        "es:t": "Italia | Reggio Calabria",
+        "de": "Palmi",
+        "de:t": "Italien | Reggio Calabria"
+    },
+    {
+        "en": "Palo del Colle",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 41.0557,
+            "lon": 16.7066
+        },
+        "it": "Palo del Colle",
+        "it:t": "Italia",
+        "es": "Palo del Colle",
+        "es:t": "Italia",
+        "de": "Palo del Colle",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Paolo VI",
+        "en:t": "Italy | Taranto",
+        "a": true,
+        "g": {
+            "lat": 40.5222,
+            "lon": 17.2755
+        },
+        "it": "Paolo VI",
+        "it:t": "Italia | Taranto",
+        "es": "Paolo VI",
+        "es:t": "Italia | Tarento",
+        "de": "Paolo VI",
+        "de:t": "Italien | Taranto"
+    },
+    {
+        "en": "Parabiago",
+        "en:t": "Italy | Milan",
+        "a": true,
+        "g": {
+            "lat": 45.5494,
+            "lon": 8.9375
+        },
+        "it": "Parabiago",
+        "it:t": "Italia | Citt\u00e0a di Milano",
+        "es": "Parabiago",
+        "es:t": "Italia | Mil\u00e1n",
+        "de": "Parabiago",
+        "de:t": "Italien | Mailand"
+    },
+    {
+        "en": "Parma",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 44.8015,
+            "lon": 10.3279
+        },
+        "it": "Parma",
+        "it:t": "Italia",
+        "es": "Parma",
+        "es:t": "Italia",
+        "de": "Parma",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Partinico",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 38.0467,
+            "lon": 13.1184
+        },
+        "it": "Partinico",
+        "it:t": "Italia",
+        "es": "Partinico",
+        "es:t": "Italia",
+        "de": "Partinico",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Paterno",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 37.5672,
+            "lon": 14.9018
+        },
+        "it": "Patern\u00f2",
+        "it:t": "Italia",
+        "es": "Patern\u00f2",
+        "es:t": "Italia",
+        "de": "Patern\u00f2",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Pavia",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 45.1847,
+            "lon": 9.1582
+        },
+        "it": "Pavia",
+        "it:t": "Italia",
+        "es": "Pav\u00eda",
+        "es:t": "Italia",
+        "de": "Pavia",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Perugia",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 43.1107,
+            "lon": 12.3908
+        },
+        "it": "Perugia",
+        "it:t": "Italia",
+        "es": "Perugia",
+        "es:t": "Italia",
+        "de": "Perugia",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Pesaro",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 43.9125,
+            "lon": 12.9155
+        },
+        "it": "Pesaro",
+        "it:t": "Italia",
+        "es": "P\u00e9saro",
+        "es:t": "Italia",
+        "de": "Pesaro",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Pescara",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 42.4618,
+            "lon": 14.2161
+        },
+        "it": "Pescara",
+        "it:t": "Italia",
+        "es": "Pescara",
+        "es:t": "Italia",
+        "de": "Pescara",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Piacenza",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 45.0526,
+            "lon": 9.693
+        },
+        "it": "Piacenza",
+        "it:t": "Italia",
+        "es": "Plasencia",
+        "es:t": "Italia",
+        "de": "Piacenza",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Piazza Armerina",
+        "en:t": "Italy | Enna",
+        "a": true,
+        "g": {
+            "lat": 37.373,
+            "lon": 14.3559
+        },
+        "it": "Piazza Armerina",
+        "it:t": "Italia | Enna",
+        "es": "Piazza Armerina",
+        "es:t": "Italia | Enna",
+        "de": "Piazza Armerina",
+        "de:t": "Italien | Enna"
+    },
+    {
+        "en": "Pietrasanta",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 43.9596,
+            "lon": 10.2286
+        },
+        "it": "Pietrasanta",
+        "it:t": "Italia",
+        "es": "Pietrasanta",
+        "es:t": "Italia",
+        "de": "Pietrasanta",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Pinerolo",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 44.8846,
+            "lon": 7.3307
+        },
+        "it": "Pinerolo",
+        "it:t": "Italia",
+        "es": "Pinerolo",
+        "es:t": "Italia",
+        "de": "Pinerolo",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Pioltello",
+        "en:t": "Italy | Milan",
+        "a": true,
+        "g": {
+            "lat": 45.4896,
+            "lon": 9.3261
+        },
+        "it": "Pioltello",
+        "it:t": "Italia | Citt\u00e0a di Milano",
+        "es": "Pioltello",
+        "es:t": "Italia | Mil\u00e1n",
+        "de": "Pioltello",
+        "de:t": "Italien | Mailand"
+    },
+    {
+        "en": "Piombino",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 42.9256,
+            "lon": 10.5259
+        },
+        "it": "Piombino",
+        "it:t": "Italia",
+        "es": "Piombino",
+        "es:t": "Italia",
+        "de": "Piombino",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Piossasco",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 44.9898,
+            "lon": 7.4682
+        },
+        "it": "Piossasco",
+        "it:t": "Italia",
+        "es": "Piossasco",
+        "es:t": "Italia",
+        "de": "Piossasco",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Pisa",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 43.7228,
+            "lon": 10.4017
+        },
+        "it": "Pisa",
+        "it:t": "Italia",
+        "es": "Pisa",
+        "es:t": "Italia",
+        "de": "Pisa",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Pistoia",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 43.9303,
+            "lon": 10.9079
+        },
+        "it": "Pistoia",
+        "it:t": "Italia",
+        "es": "Pistoya",
+        "es:t": "Italia",
+        "de": "Pistoia",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Poggibonsi",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 43.4726,
+            "lon": 11.1468
+        },
+        "it": "Poggibonsi",
+        "it:t": "Italia",
+        "es": "Poggibonsi",
+        "es:t": "Italia",
+        "de": "Poggibonsi",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Poggiomarino",
+        "en:t": "Italy | Naples",
+        "a": true,
+        "g": {
+            "lat": 40.8101,
+            "lon": 14.548
+        },
+        "it": "Poggiomarino",
+        "it:t": "Italia | Citt\u00e0a di Napoli",
+        "es": "Poggiomarino",
+        "es:t": "Italia | N\u00e1poles",
+        "de": "Poggiomarino",
+        "de:t": "Italien | Neapel"
+    },
+    {
+        "en": "Pomezia",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 41.6697,
+            "lon": 12.5017
+        },
+        "it": "Pomezia",
+        "it:t": "Italia",
+        "es": "Pomezia",
+        "es:t": "Italia",
+        "de": "Pomezia",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Pomigliano d'Arco",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 40.9101,
+            "lon": 14.3829
+        },
+        "it": "Pomigliano d'Arco",
+        "it:t": "Italia",
+        "es": "Pomigliano d'Arco",
+        "es:t": "Italia",
+        "de": "Pomigliano d\u2019Arco",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Pompei",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 40.7462,
+            "lon": 14.4989
+        },
+        "it": "Pompei",
+        "it:t": "Italia",
+        "es": "Pompeya",
+        "es:t": "Italia",
+        "de": "Pompei",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Pontedera",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 43.6625,
+            "lon": 10.6364
+        },
+        "it": "Pontedera",
+        "it:t": "Italia",
+        "es": "Pontedera",
+        "es:t": "Italia",
+        "de": "Pontedera",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Pordenone",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 45.9564,
+            "lon": 12.6615
+        },
+        "it": "Pordenone",
+        "it:t": "Italia",
+        "es": "Pordenone",
+        "es:t": "Italia",
+        "de": "Pordenone",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Portici",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 40.8141,
+            "lon": 14.3391
+        },
+        "it": "Portici",
+        "it:t": "Italia",
+        "es": "Portici",
+        "es:t": "Italia",
+        "de": "Portici",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Porto Empedocle",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 37.2882,
+            "lon": 13.5272
+        },
+        "it": "Porto Empedocle",
+        "it:t": "Italia",
+        "es": "Porto Empedocle",
+        "es:t": "Italia",
+        "de": "Porto Empedocle",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Porto San Giorgio",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 43.1802,
+            "lon": 13.793
+        },
+        "it": "Porto San Giorgio",
+        "it:t": "Italia",
+        "es": "Porto San Giorgio",
+        "es:t": "Italia",
+        "de": "Porto San Giorgio",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Porto Sant'Elpidio",
+        "en:t": "Italy | Fermo",
+        "a": true,
+        "g": {
+            "lat": 43.2565,
+            "lon": 13.7595
+        },
+        "it": "Porto Sant'Elpidio",
+        "it:t": "Italia | Fermo",
+        "es": "Porto Sant'Elpidio",
+        "es:t": "Italia | Fermo",
+        "de": "Porto Sant'Elpidio",
+        "de:t": "Italien | Fermo"
+    },
+    {
+        "en": "Porto Torres",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 40.8334,
+            "lon": 8.4023
+        },
+        "it": "Porto Torres",
+        "it:t": "Italia",
+        "es": "Porto Torres",
+        "es:t": "Italia",
+        "de": "Porto Torres",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Portogruaro",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 45.7806,
+            "lon": 12.8374
+        },
+        "it": "Portogruaro",
+        "it:t": "Italia",
+        "es": "Portogruaro",
+        "es:t": "Italia",
+        "de": "Portogruaro",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Potenza",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 40.6404,
+            "lon": 15.8056
+        },
+        "it": "Potenza",
+        "it:t": "Italia",
+        "es": "Potenza",
+        "es:t": "Italia",
+        "de": "Potenza",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Pozzallo",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 36.7299,
+            "lon": 14.8491
+        },
+        "it": "Pozzallo",
+        "it:t": "Italia",
+        "es": "Pozzallo",
+        "es:t": "Italia",
+        "de": "Pozzallo",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Pozzuoli",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 40.8459,
+            "lon": 14.0933
+        },
+        "it": "Pozzuoli",
+        "it:t": "Italia",
+        "es": "Pozzuoli",
+        "es:t": "Italia",
+        "de": "Pozzuoli",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Prato",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 43.8777,
+            "lon": 11.1022
+        },
+        "it": "Prato",
+        "it:t": "Italia",
+        "es": "Prato",
+        "es:t": "Italia",
+        "de": "Prato",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Campobasso",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 41.6739,
+            "lon": 14.7521
+        },
+        "it": "Molise",
+        "it:t": "Italia",
+        "es": "Campobasso",
+        "es:t": "Italia",
+        "de": "Molise",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Putignano",
+        "en:t": "Italy | Bari",
+        "a": true,
+        "g": {
+            "lat": 40.8507,
+            "lon": 17.1213
+        },
+        "it": "Putignano",
+        "it:t": "Italia",
+        "es": "Putignano",
+        "es:t": "Italia | Bari",
+        "de": "Putignano",
+        "de:t": "Italien | Bari"
+    },
+    {
+        "en": "Qualiano",
+        "en:t": "Italy | Naples",
+        "a": true,
+        "g": {
+            "lat": 40.9226,
+            "lon": 14.1292
+        },
+        "it": "Qualiano",
+        "it:t": "Italia | Citt\u00e0a di Napoli",
+        "es": "Qualiano",
+        "es:t": "Italia | N\u00e1poles",
+        "de": "Qualiano",
+        "de:t": "Italien | Neapel"
+    },
+    {
+        "en": "Quarto",
+        "en:t": "Italy | Naples",
+        "a": true,
+        "g": {
+            "lat": 40.8829,
+            "lon": 14.1292
+        },
+        "it": "Quarto",
+        "it:t": "Italia | Citt\u00e0a di Napoli",
+        "es": "Quarto",
+        "es:t": "Italia | N\u00e1poles",
+        "de": "Quarto",
+        "de:t": "Italien | Neapel"
+    },
+    {
+        "en": "Quartu Sant'Elena",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 39.2413,
+            "lon": 9.1836
+        },
+        "it": "Quartu Sant'Elena",
+        "it:t": "Italia",
+        "es": "Quartu Sant'Elena",
+        "es:t": "Italia",
+        "de": "Quartu Sant\u2019Elena",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Quattromiglia",
+        "en:t": "Italy | Rende",
+        "a": true,
+        "g": {
+            "lat": 39.3546,
+            "lon": 16.2414
+        },
+        "it": "Quattromiglia",
+        "it:t": "Italia | Rende",
+        "es": "Quattromiglia",
+        "es:t": "Italia | Rende",
+        "de": "Quattromiglia",
+        "de:t": "Italien | Rende"
+    },
+    {
+        "en": "Ragusa",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 36.9269,
+            "lon": 14.7255
+        },
+        "it": "Ragusa",
+        "it:t": "Italia",
+        "es": "Ragusa",
+        "es:t": "Italia",
+        "de": "Ragusa",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Rapallo",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 44.3498,
+            "lon": 9.2339
+        },
+        "it": "Rapallo",
+        "it:t": "Italia",
+        "es": "Rapallo",
+        "es:t": "Italia",
+        "de": "Rapallo",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Ravenna",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 44.4184,
+            "lon": 12.2035
+        },
+        "it": "Ravenna",
+        "it:t": "Italia",
+        "es": "R\u00e1vena",
+        "es:t": "Italia",
+        "de": "Ravenna",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Reggio Calabria",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 38.1113,
+            "lon": 15.6473
+        },
+        "it": "Reggio Calabria",
+        "it:t": "Italia",
+        "es": "Regio de Calabria",
+        "es:t": "Italia",
+        "de": "Reggio Calabria",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Reggio Emilia",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 44.699,
+            "lon": 10.6297
+        },
+        "it": "Reggio Emilia",
+        "it:t": "Italia",
+        "es": "Reggio Emilia",
+        "es:t": "Italia",
+        "de": "Reggio Emilia",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Rho",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 45.5326,
+            "lon": 9.0396
+        },
+        "it": "Rho",
+        "it:t": "Italia",
+        "es": "Rho",
+        "es:t": "Italia",
+        "de": "Rho",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Ribera",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 37.4577,
+            "lon": 13.2894
+        },
+        "it": "Ribera",
+        "it:t": "Italia",
+        "es": "Ribera",
+        "es:t": "Italia",
+        "de": "Ribera",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Riccione",
+        "en:t": "Italy | Rimini",
+        "a": true,
+        "g": {
+            "lat": 43.9921,
+            "lon": 12.6503
+        },
+        "it": "Riccione",
+        "it:t": "Italia | Rimini",
+        "es": "Riccione",
+        "es:t": "Italia | R\u00edmini",
+        "de": "Riccione",
+        "de:t": "Italien | Rimini"
+    },
+    {
+        "en": "Rieti",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 42.4045,
+            "lon": 12.8567
+        },
+        "it": "Rieti",
+        "it:t": "Italia",
+        "es": "Rieti",
+        "es:t": "Italia",
+        "de": "Rieti",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Rimini",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 44.0678,
+            "lon": 12.5695
+        },
+        "it": "Rimini",
+        "it:t": "Italia",
+        "es": "R\u00edmini",
+        "es:t": "Italia",
+        "de": "Rimini",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Rivoli",
+        "en:t": "Italy | Turin",
+        "a": true,
+        "g": {
+            "lat": 45.0607,
+            "lon": 7.5288
+        },
+        "it": "Rivoli",
+        "it:t": "Italia | Citt\u00e0a di Torino",
+        "es": "Rivoli",
+        "es:t": "Italia | Tur\u00edn",
+        "de": "Rivoli",
+        "de:t": "Italien | Turin"
+    },
+    {
+        "en": "Rocca di Papa",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 41.7673,
+            "lon": 12.7112
+        },
+        "it": "Rocca di Papa",
+        "it:t": "Italia",
+        "es": "Rocca di Papa",
+        "es:t": "Italia",
+        "de": "Rocca di Papa",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Romano Banco",
+        "en:t": "Italy | Buccinasco",
+        "a": true,
+        "g": {
+            "lat": 45.423,
+            "lon": 9.1061
+        },
+        "it": "Romano Banco",
+        "it:t": "Italia | Buccinasco",
+        "es": "Romano Banco",
+        "es:t": "Italia | Buccinasco",
+        "de": "Romano Banco",
+        "de:t": "Italien | Buccinasco"
+    },
+    {
+        "en": "Romano di Lombardia",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 45.5211,
+            "lon": 9.755
+        },
+        "it": "Romano di Lombardia",
+        "it:t": "Italia",
+        "es": "Romano di Lombardia",
+        "es:t": "Italia",
+        "de": "Romano di Lombardia",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Rome",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 41.9028,
+            "lon": 12.4964
+        },
+        "it": "Roma",
+        "it:t": "Italia",
+        "es": "Roma",
+        "es:t": "Italia",
+        "de": "Rom",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Roseto degli Abruzzi",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 42.6752,
+            "lon": 14.016
+        },
+        "it": "Roseto degli Abruzzi",
+        "it:t": "Italia",
+        "es": "Roseto degli Abruzzi",
+        "es:t": "Italia",
+        "de": "Roseto degli Abruzzi",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Rosignano Solvay",
+        "en:t": "Italy | Rosignano Marittimo",
+        "a": true,
+        "g": {
+            "lat": 43.3918,
+            "lon": 10.4425
+        },
+        "it": "Rosignano Solvay",
+        "it:t": "Italia | Rosignano Marittimo",
+        "es": "Rosignano Solvay",
+        "es:t": "Italia | Rosignano Marittimo",
+        "de": "Rosignano Solvay",
+        "de:t": "Italien | Rosignano Marittimo"
+    },
+    {
+        "en": "Rosolini",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 36.82,
+            "lon": 14.9538
+        },
+        "it": "Rosolini",
+        "it:t": "Italia",
+        "es": "Rosolini",
+        "es:t": "Italia",
+        "de": "Rosolini",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Rossano Stazione",
+        "en:t": "Italy | Rossano",
+        "a": true,
+        "g": {
+            "lat": 39.604,
+            "lon": 16.6386
+        },
+        "it": "Rossano Stazione",
+        "it:t": "Italia | Rossano",
+        "es": "Rossano Stazione",
+        "es:t": "Italia | Rossano",
+        "de": "Rossano Stazione",
+        "de:t": "Italien | Rossano"
+    },
+    {
+        "en": "Rovereto",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 45.891,
+            "lon": 11.0401
+        },
+        "it": "Rovereto",
+        "it:t": "Italia",
+        "es": "Rovereto",
+        "es:t": "Italia",
+        "de": "Rovereto",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Rovigo",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 45.0698,
+            "lon": 11.7902
+        },
+        "it": "Rovigo",
+        "it:t": "Italia",
+        "es": "Rovigo",
+        "es:t": "Italia",
+        "de": "Rovigo",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Rozzano",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 45.376,
+            "lon": 9.1428
+        },
+        "it": "Rozzano",
+        "it:t": "Italia",
+        "es": "Rozzano",
+        "es:t": "Italia",
+        "de": "Rozzano",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Rutigliano",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 41.0093,
+            "lon": 17.0036
+        },
+        "it": "Rutigliano",
+        "it:t": "Italia",
+        "es": "Rutigliano",
+        "es:t": "Italia",
+        "de": "Rutigliano",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Ruvo di Puglia",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 41.1173,
+            "lon": 16.4837
+        },
+        "it": "Ruvo di Puglia",
+        "it:t": "Italia",
+        "es": "Ruvo di Puglia",
+        "es:t": "Italia",
+        "de": "Ruvo di Puglia",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Sacile",
+        "en:t": "Italy | Pordenone",
+        "a": true,
+        "g": {
+            "lat": 45.9541,
+            "lon": 12.509
+        },
+        "it": "Sacile",
+        "it:t": "Italia | Pordenone",
+        "es": "Sacile",
+        "es:t": "Italia | Pordenone",
+        "de": "Sacile",
+        "de:t": "Italien | Pordenone"
+    },
+    {
+        "en": "Salerno",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 40.6824,
+            "lon": 14.7681
+        },
+        "it": "Salerno",
+        "it:t": "Italia",
+        "es": "Salerno",
+        "es:t": "Italia",
+        "de": "Salerno",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Salsomaggiore Terme",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 44.8183,
+            "lon": 9.9825
+        },
+        "it": "Salsomaggiore Terme",
+        "it:t": "Italia",
+        "es": "Salsomaggiore Terme",
+        "es:t": "Italia",
+        "de": "Salsomaggiore Terme",
+        "de:t": "Italien"
+    },
+    {
+        "en": "San Benedetto del Tronto",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 42.961,
+            "lon": 13.8746
+        },
+        "it": "San Benedetto del Tronto",
+        "it:t": "Italia",
+        "es": "San Benedetto del Tronto",
+        "es:t": "Italia",
+        "de": "San Benedetto del Tronto",
+        "de:t": "Italien"
+    },
+    {
+        "en": "San Bonifacio",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 45.3954,
+            "lon": 11.2742
+        },
+        "it": "San Bonifacio",
+        "it:t": "Italia",
+        "es": "San Bonifacio",
+        "es:t": "Italia",
+        "de": "San Bonifacio",
+        "de:t": "Italien"
+    },
+    {
+        "en": "San Cataldo",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 37.4832,
+            "lon": 13.9881
+        },
+        "it": "San Cataldo",
+        "it:t": "Italia",
+        "es": "San Cataldo",
+        "es:t": "Italia",
+        "de": "San Cataldo",
+        "de:t": "Italien"
+    },
+    {
+        "en": "San Donato Milanese",
+        "en:t": "Italy | Milan",
+        "a": true,
+        "g": {
+            "lat": 45.4184,
+            "lon": 9.2678
+        },
+        "it": "San Donato Milanese",
+        "it:t": "Italia | Citt\u00e0a di Milano",
+        "es": "San Donato Milanese",
+        "es:t": "Italia | Mil\u00e1n",
+        "de": "San Donato Milanese",
+        "de:t": "Italien | Mailand"
+    },
+    {
+        "en": "San Don\u00e0 di Piave",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 45.6303,
+            "lon": 12.5661
+        },
+        "it": "San Don\u00e0 di Piave",
+        "it:t": "Italia",
+        "es": "San Don\u00e0 di Piave",
+        "es:t": "Italia",
+        "de": "San Don\u00e0 di Piave",
+        "de:t": "Italien"
+    },
+    {
+        "en": "San Felice a Cancello",
+        "en:t": "Italy | Caserta",
+        "a": true,
+        "g": {
+            "lat": 40.9946,
+            "lon": 14.4607
+        },
+        "it": "San Felice a Cancello",
+        "it:t": "Italia | Caserta",
+        "es": "San Felice a Cancello",
+        "es:t": "Italia | Caserta",
+        "de": "San Felice a Cancello",
+        "de:t": "Italien | Caserta"
+    },
+    {
+        "en": "San Giorgio a Cremano",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 40.8345,
+            "lon": 14.3447
+        },
+        "it": "San Giorgio a Cremano",
+        "it:t": "Italia",
+        "es": "San Giorgio a Cremano",
+        "es:t": "Italia",
+        "de": "San Giorgio a Cremano",
+        "de:t": "Italien"
+    },
+    {
+        "en": "San Giovanni Lupatoto",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 45.3824,
+            "lon": 11.0445
+        },
+        "it": "San Giovanni Lupatoto",
+        "it:t": "Italia",
+        "es": "San Giovanni Lupatoto",
+        "es:t": "Italia",
+        "de": "San Giovanni Lupatoto",
+        "de:t": "Italien"
+    },
+    {
+        "en": "San Giovanni Rotondo",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 41.7066,
+            "lon": 15.7292
+        },
+        "it": "San Giovanni Rotondo",
+        "it:t": "Italia",
+        "es": "San Giovanni Rotondo",
+        "es:t": "Italia",
+        "de": "San Giovanni Rotondo",
+        "de:t": "Italien"
+    },
+    {
+        "en": "San Giovanni Valdarno",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 43.5725,
+            "lon": 11.523
+        },
+        "it": "San Giovanni Valdarno",
+        "it:t": "Italia",
+        "es": "San Giovanni Valdarno",
+        "es:t": "Italia",
+        "de": "San Giovanni Valdarno",
+        "de:t": "Italien"
+    },
+    {
+        "en": "San Giovanni in Fiore",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 39.2496,
+            "lon": 16.6959
+        },
+        "it": "San Giovanni in Fiore",
+        "it:t": "Italia",
+        "es": "San Giovanni in Fiore",
+        "es:t": "Italia",
+        "de": "San Giovanni in Fiore",
+        "de:t": "Italien"
+    },
+    {
+        "en": "San Giovanni in Persiceto",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 44.6405,
+            "lon": 11.1893
+        },
+        "it": "San Giovanni in Persiceto",
+        "it:t": "Italia",
+        "es": "San Giovanni in Persiceto",
+        "es:t": "Italia",
+        "de": "San Giovanni in Persiceto",
+        "de:t": "Italien"
+    },
+    {
+        "en": "San Giovanni la Punta",
+        "en:t": "Italy | Catania",
+        "a": true,
+        "g": {
+            "lat": 37.5765,
+            "lon": 15.0967
+        },
+        "it": "San Giovanni La Punta",
+        "it:t": "Italia | Catania",
+        "es": "San Giovanni la Punta",
+        "es:t": "Italia | Catania",
+        "de": "San Giovanni la Punta",
+        "de:t": "Italien | Catania"
+    },
+    {
+        "en": "San Giuliano Milanese",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 45.3938,
+            "lon": 9.292
+        },
+        "it": "San Giuliano Milanese",
+        "it:t": "Italia",
+        "es": "San Giuliano Milanese",
+        "es:t": "Italia",
+        "de": "San Giuliano Milanese",
+        "de:t": "Italien"
+    },
+    {
+        "en": "San Giuseppe Vesuviano",
+        "en:t": "Italy | Naples",
+        "a": true,
+        "g": {
+            "lat": 40.826,
+            "lon": 14.5014
+        },
+        "it": "San Giuseppe Vesuviano",
+        "it:t": "Italia | Citt\u00e0a di Napoli",
+        "es": "San Giuseppe Vesuviano",
+        "es:t": "Italia | N\u00e1poles",
+        "de": "San Giuseppe Vesuviano",
+        "de:t": "Italien | Neapel"
+    },
+    {
+        "en": "San Lazzaro",
+        "en:t": "Italy | San Lazzaro di Savena",
+        "a": true,
+        "g": {
+            "lat": 44.469,
+            "lon": 11.4218
+        },
+        "it": "San Lazzaro di Savena",
+        "it:t": "Italia",
+        "es": "San Lazzaro di Savena",
+        "es:t": "Italia",
+        "de": "San Lazzaro di Savena",
+        "de:t": "Italien"
+    },
+    {
+        "en": "San Mauro Torinese",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 45.1021,
+            "lon": 7.7654
+        },
+        "it": "San Mauro Torinese",
+        "it:t": "Italia | San Mauro torinese",
+        "es": "San Mauro Torinese",
+        "es:t": "Italia",
+        "de": "San Mauro Torinese",
+        "de:t": "Italien"
+    },
+    {
+        "en": "San Miniato",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 43.683,
+            "lon": 10.8551
+        },
+        "it": "San Miniato",
+        "it:t": "Italia",
+        "es": "San Miniato",
+        "es:t": "Italia",
+        "de": "San Miniato",
+        "de:t": "Italien"
+    },
+    {
+        "en": "San Miniato Basso",
+        "en:t": "Italy | San Miniato",
+        "a": true,
+        "g": {
+            "lat": 43.6934,
+            "lon": 10.8411
+        },
+        "it": "San Miniato Basso",
+        "it:t": "Italia | San Miniato",
+        "es": "San Miniato Basso",
+        "es:t": "Italia | San Miniato",
+        "de": "San Miniato Basso",
+        "de:t": "Italien | San Miniato"
+    },
+    {
+        "en": "San Nicandro Garganico",
+        "en:t": "Italy | Sannicandro Garganico",
+        "a": true,
+        "g": {
+            "lat": 41.8346,
+            "lon": 15.5717
+        },
+        "it": "San Nicandro Garganico",
+        "it:t": "Italia | Sannicandro Garganico",
+        "es": "San Nicandro Garganico",
+        "es:t": "Italia | Sannicandro Garganico",
+        "de": "San Nicandro Garganico",
+        "de:t": "Italien | Sannicandro Garganico"
+    },
+    {
+        "en": "San Nicola la Strada",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 41.0526,
+            "lon": 14.3353
+        },
+        "it": "San Nicola La Strada",
+        "it:t": "Italia",
+        "es": "San Nicola la Strada",
+        "es:t": "Italia",
+        "de": "San Nicola la Strada",
+        "de:t": "Italien"
+    },
+    {
+        "en": "San Salvo",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 42.044,
+            "lon": 14.7339
+        },
+        "it": "San Salvo",
+        "it:t": "Italia",
+        "es": "San Salvo",
+        "es:t": "Italia",
+        "de": "San Salvo",
+        "de:t": "Italien"
+    },
+    {
+        "en": "San Sebastiano",
+        "en:t": "Italy | Teglio",
+        "a": true,
+        "g": {
+            "lat": 46.2132,
+            "lon": 10.3357
+        },
+        "it": "San Sebastiano",
+        "it:t": "Italia | Teglio",
+        "es": "San Sebastiano",
+        "es:t": "Italia | Teglio",
+        "de": "San Sebastiano",
+        "de:t": "Italien | Teglio"
+    },
+    {
+        "en": "San Severo",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 41.6854,
+            "lon": 15.3795
+        },
+        "it": "San Severo",
+        "it:t": "Italia",
+        "es": "San Severo",
+        "es:t": "Italia",
+        "de": "San Severo",
+        "de:t": "Italien"
+    },
+    {
+        "en": "San Vito dei Normanni",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 40.6583,
+            "lon": 17.7065
+        },
+        "it": "San Vito dei Normanni",
+        "it:t": "Italia",
+        "es": "San Vito dei Normanni",
+        "es:t": "Italia",
+        "de": "San Vito dei Normanni",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Sanremo",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 43.816,
+            "lon": 7.7761
+        },
+        "it": "Sanremo",
+        "it:t": "Italia",
+        "es": "San Remo",
+        "es:t": "Italia",
+        "de": "Sanremo",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Sant'Anastasia",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 40.8691,
+            "lon": 14.3967
+        },
+        "it": "Sant'Anastasia",
+        "it:t": "Italia",
+        "es": "Sant'Anastasia",
+        "es:t": "Italia",
+        "de": "Sant'Anastasia",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Sant'Antimo",
+        "en:t": "Italy | Naples",
+        "a": true,
+        "g": {
+            "lat": 40.942,
+            "lon": 14.2309
+        },
+        "it": "Sant'Antimo",
+        "it:t": "Italia | Citt\u00e0a di Napoli",
+        "es": "Sant'Antimo",
+        "es:t": "Italia | N\u00e1poles",
+        "de": "Sant'Antimo",
+        "de:t": "Italien | Neapel"
+    },
+    {
+        "en": "Sant'Antonio Abate",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 40.7219,
+            "lon": 14.5432
+        },
+        "it": "Sant'Antonio Abate",
+        "it:t": "Italia",
+        "es": "Sant'Antonio Abate",
+        "es:t": "Italia",
+        "de": "Sant\u2019Antonio Abate",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Santa Maria Capua Vetere",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 41.0821,
+            "lon": 14.2542
+        },
+        "it": "Santa Maria Capua Vetere",
+        "it:t": "Italia",
+        "es": "Santa Maria Capua Vetere",
+        "es:t": "Italia",
+        "de": "Santa Maria Capua Vetere",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Santeramo in Colle",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 40.7918,
+            "lon": 16.7529
+        },
+        "it": "Santeramo In Colle",
+        "it:t": "Italia",
+        "es": "Santeramo in Colle",
+        "es:t": "Italia",
+        "de": "Santeramo in Colle",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Sarno",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 40.8101,
+            "lon": 14.6216
+        },
+        "it": "Sarno",
+        "it:t": "Italia",
+        "es": "Sarno",
+        "es:t": "Italia",
+        "de": "Sarno",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Saronno",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 45.6242,
+            "lon": 9.036
+        },
+        "it": "Saronno",
+        "it:t": "Italia",
+        "es": "Saronno",
+        "es:t": "Italia",
+        "de": "Saronno",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Sarzana",
+        "en:t": "Italy | La Spezia",
+        "a": true,
+        "g": {
+            "lat": 44.1249,
+            "lon": 9.9577
+        },
+        "it": "Sarzana",
+        "it:t": "Italia | La Spezia",
+        "es": "Sarzana",
+        "es:t": "Italia | La Spezia",
+        "de": "Sarzana",
+        "de:t": "Italien | La Spezia"
+    },
+    {
+        "en": "Sassari",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 40.7259,
+            "lon": 8.5557
+        },
+        "it": "Sassari",
+        "it:t": "Italia",
+        "es": "Sassari",
+        "es:t": "Italia",
+        "de": "Sassari",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Sassuolo",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 44.5443,
+            "lon": 10.7848
+        },
+        "it": "Sassuolo",
+        "it:t": "Italia",
+        "es": "Sassuolo",
+        "es:t": "Italia",
+        "de": "Sassuolo",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Sava",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 40.4037,
+            "lon": 17.5573
+        },
+        "it": "Sava",
+        "it:t": "Italia",
+        "es": "Sava",
+        "es:t": "Italia",
+        "de": "Sava",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Savigliano",
+        "en:t": "Italy | Cuneo",
+        "a": true,
+        "g": {
+            "lat": 44.6488,
+            "lon": 7.6765
+        },
+        "it": "Savigliano",
+        "it:t": "Italia | Cuneo",
+        "es": "Savigliano",
+        "es:t": "Italia | Cuneo",
+        "de": "Savigliano",
+        "de:t": "Italien | Cuneo"
+    },
+    {
+        "en": "Savona",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 44.2984,
+            "lon": 8.4645
+        },
+        "it": "Savona",
+        "it:t": "Italia",
+        "es": "Savona",
+        "es:t": "Italia",
+        "de": "Savona",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Scafati",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 40.7602,
+            "lon": 14.5378
+        },
+        "it": "Scafati",
+        "it:t": "Italia",
+        "es": "Scafati",
+        "es:t": "Italia",
+        "de": "Scafati",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Scandicci",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 43.7307,
+            "lon": 11.1504
+        },
+        "it": "Scandicci",
+        "it:t": "Italia",
+        "es": "Scandicci",
+        "es:t": "Italia",
+        "de": "Scandicci",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Schio",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 45.7171,
+            "lon": 11.3598
+        },
+        "it": "Schio",
+        "it:t": "Italia",
+        "es": "Schio",
+        "es:t": "Italia",
+        "de": "Schio",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Sciacca",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 37.5085,
+            "lon": 13.0816
+        },
+        "it": "Sciacca",
+        "it:t": "Italia",
+        "es": "Sciacca",
+        "es:t": "Italia",
+        "de": "Sciacca",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Scicli",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 36.7932,
+            "lon": 14.707
+        },
+        "it": "Scicli",
+        "it:t": "Italia",
+        "es": "Scicli",
+        "es:t": "Italia",
+        "de": "Scicli",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Scordia",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 37.2939,
+            "lon": 14.8428
+        },
+        "it": "Scordia",
+        "it:t": "Italia",
+        "es": "Scordia",
+        "es:t": "Italia",
+        "de": "Scordia",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Segrate",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 45.492,
+            "lon": 9.2981
+        },
+        "it": "Segrate",
+        "it:t": "Italia",
+        "es": "Segrate",
+        "es:t": "Italia",
+        "de": "Segrate",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Selargius",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 39.2597,
+            "lon": 9.1629
+        },
+        "it": "Selargius",
+        "it:t": "Italia",
+        "es": "Selargius",
+        "es:t": "Italia",
+        "de": "Selargius",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Senago",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 45.5764,
+            "lon": 9.1261
+        },
+        "it": "Senago",
+        "it:t": "Italia",
+        "es": "Senago",
+        "es:t": "Italia",
+        "de": "Senago",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Senigallia",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 43.7198,
+            "lon": 13.2152
+        },
+        "it": "Senigallia",
+        "it:t": "Italia",
+        "es": "Senigallia",
+        "es:t": "Italia",
+        "de": "Senigallia",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Seregno",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 45.6505,
+            "lon": 9.2052
+        },
+        "it": "Seregno",
+        "it:t": "Italia",
+        "es": "Seregno",
+        "es:t": "Italia",
+        "de": "Seregno",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Seriate",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 45.6854,
+            "lon": 9.7217
+        },
+        "it": "Seriate",
+        "it:t": "Italia",
+        "es": "Seriate",
+        "es:t": "Italia",
+        "de": "Seriate",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Sesto Fiorentino",
+        "en:t": "Italy | Florence",
+        "a": true,
+        "g": {
+            "lat": 43.8374,
+            "lon": 11.2184
+        },
+        "it": "Comune di Sesto Fiorentino",
+        "it:t": "Italia | Sesto Fiorentino",
+        "es": "Sesto Fiorentino",
+        "es:t": "Italia | Florencia",
+        "de": "Sesto Fiorentino",
+        "de:t": "Italien | Florenz"
+    },
+    {
+        "en": "Sesto San Giovanni",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 45.5328,
+            "lon": 9.2257
+        },
+        "it": "Sesto San Giovanni",
+        "it:t": "Italia",
+        "es": "Sesto San Giovanni",
+        "es:t": "Italia",
+        "de": "Sesto San Giovanni",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Sestri Levante",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 44.2764,
+            "lon": 9.4008
+        },
+        "it": "Sestri Levante",
+        "it:t": "Italia",
+        "es": "Sestri Levante",
+        "es:t": "Italia",
+        "de": "Sestri Levante",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Sestu",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 39.3008,
+            "lon": 9.0919
+        },
+        "it": "Sestu",
+        "it:t": "Italia",
+        "es": "Sestu",
+        "es:t": "Italia",
+        "de": "Sestu",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Settimo Torinese",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 45.1383,
+            "lon": 7.7729
+        },
+        "it": "Settimo Torinese",
+        "it:t": "Italia",
+        "es": "Settimo Torinese",
+        "es:t": "Italia",
+        "de": "Settimo Torinese",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Seveso",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 45.6493,
+            "lon": 9.1444
+        },
+        "it": "Seveso",
+        "it:t": "Italia",
+        "es": "Seveso",
+        "es:t": "Italia",
+        "de": "Seveso",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Sezze",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 41.4994,
+            "lon": 13.0618
+        },
+        "it": "Sezze",
+        "it:t": "Italia",
+        "es": "Sezze",
+        "es:t": "Italia",
+        "de": "Sezze",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Siderno",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 38.2694,
+            "lon": 16.2983
+        },
+        "it": "Siderno",
+        "it:t": "Italia",
+        "es": "Siderno",
+        "es:t": "Italia",
+        "de": "Siderno",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Siena",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 43.3188,
+            "lon": 11.3308
+        },
+        "it": "Siena",
+        "it:t": "Italia",
+        "es": "Siena",
+        "es:t": "Italia",
+        "de": "Siena",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Sinnai",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 39.3029,
+            "lon": 9.198
+        },
+        "it": "Sinnai",
+        "it:t": "Italia",
+        "es": "Sinnai",
+        "es:t": "Italia",
+        "de": "Sinnai",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Somma Vesuviana",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 40.873,
+            "lon": 14.4385
+        },
+        "it": "Somma Vesuviana",
+        "it:t": "Italia",
+        "es": "Somma Vesuviana",
+        "es:t": "Italia",
+        "de": "Somma Vesuviana",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Sondrio",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 46.1699,
+            "lon": 9.8788
+        },
+        "it": "Sondrio",
+        "it:t": "Italia",
+        "es": "Sondrio",
+        "es:t": "Italia",
+        "de": "S\u00fcnders",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Sora",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 41.7189,
+            "lon": 13.613
+        },
+        "it": "Sora",
+        "it:t": "Italia",
+        "es": "Sora",
+        "es:t": "Italia",
+        "de": "Sora",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Spinea",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 45.4925,
+            "lon": 12.1626
+        },
+        "it": "Spinea",
+        "it:t": "Italia",
+        "es": "Spinea",
+        "es:t": "Italia",
+        "de": "Spinea",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Spoleto",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 42.7405,
+            "lon": 12.7378
+        },
+        "it": "Spoleto",
+        "it:t": "Italia",
+        "es": "Spoleto",
+        "es:t": "Italia",
+        "de": "Spoleto",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Sulmona",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 42.0482,
+            "lon": 13.9289
+        },
+        "it": "Sulmona",
+        "it:t": "Italia",
+        "es": "Sulmona",
+        "es:t": "Italia",
+        "de": "Sulmona",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Suzzara",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 45.0085,
+            "lon": 10.7508
+        },
+        "it": "Suzzara",
+        "it:t": "Italia",
+        "es": "Suzzara",
+        "es:t": "Italia",
+        "de": "Suzzara",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Syracuse",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 37.0755,
+            "lon": 15.2866
+        },
+        "it": "Siracusa",
+        "it:t": "Italia",
+        "es": "Siracusa",
+        "es:t": "Italia",
+        "de": "Syrakus",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Taranto",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 40.4644,
+            "lon": 17.247
+        },
+        "it": "Taranto",
+        "it:t": "Italia",
+        "es": "Tarento",
+        "es:t": "Italia",
+        "de": "Tarent",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Teramo",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 42.6611,
+            "lon": 13.6987
+        },
+        "it": "Teramo",
+        "it:t": "Italia",
+        "es": "Teramo",
+        "es:t": "Italia",
+        "de": "Teramo",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Terlizzi",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 41.1301,
+            "lon": 16.5427
+        },
+        "it": "Terlizzi",
+        "it:t": "Italia",
+        "es": "Terlizzi",
+        "es:t": "Italia",
+        "de": "Terlizzi",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Termini Imerese",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 37.984,
+            "lon": 13.6962
+        },
+        "it": "Termini Imerese",
+        "it:t": "Italia",
+        "es": "Termini Imerese",
+        "es:t": "Italia",
+        "de": "Termini Imerese",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Termoli",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 42.0005,
+            "lon": 14.9953
+        },
+        "it": "Termoli",
+        "it:t": "Italia",
+        "es": "T\u00e9rmoli",
+        "es:t": "Italia",
+        "de": "Termoli",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Terni",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 42.5636,
+            "lon": 12.6427
+        },
+        "it": "Terni",
+        "it:t": "Italia",
+        "es": "Terni",
+        "es:t": "Italia",
+        "de": "Terni",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Terracina",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 41.2964,
+            "lon": 13.2333
+        },
+        "it": "Terracina",
+        "it:t": "Italia",
+        "es": "Terracina",
+        "es:t": "Italia",
+        "de": "Terracina",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Terzigno",
+        "en:t": "Italy | Naples",
+        "a": true,
+        "g": {
+            "lat": 40.7935,
+            "lon": 14.484
+        },
+        "it": "Terzigno",
+        "it:t": "Italia | Citt\u00e0a di Napoli",
+        "es": "Terzigno",
+        "es:t": "Italia | N\u00e1poles",
+        "de": "Terzigno",
+        "de:t": "Italien | Neapel"
+    },
+    {
+        "en": "Thiene",
+        "en:t": "Italy | Piovene Rocchette",
+        "a": true,
+        "g": {
+            "lat": 45.707,
+            "lon": 11.4774
+        },
+        "it": "Thiene",
+        "it:t": "Italia | Piovene Rocchette",
+        "es": "Thiene",
+        "es:t": "Italia | Piovene Rocchette",
+        "de": "Thiene",
+        "de:t": "Italien | Piovene Rocchette"
+    },
+    {
+        "en": "Tivoli",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 41.9598,
+            "lon": 12.8022
+        },
+        "it": "Tivoli",
+        "it:t": "Italia",
+        "es": "T\u00edvoli",
+        "es:t": "Italia",
+        "de": "Tivoli",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Tolentino",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 43.2112,
+            "lon": 13.2863
+        },
+        "it": "Tolentino",
+        "it:t": "Italia",
+        "es": "Tolentino",
+        "es:t": "Italia",
+        "de": "Tolentino",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Tor Lupara",
+        "en:t": "Italy | Fonte Nuova",
+        "a": true,
+        "g": {
+            "lat": 41.9979,
+            "lon": 12.6188
+        },
+        "it": "Tor Lupara",
+        "it:t": "Italia | Fonte Nuova",
+        "es": "Tor Lupara",
+        "es:t": "Italia | Fonte Nuova",
+        "de": "Tor Lupara",
+        "de:t": "Italien | Fonte Nuova"
+    },
+    {
+        "en": "Torre Annunziata",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 40.7541,
+            "lon": 14.4509
+        },
+        "it": "Torre Annunziata",
+        "it:t": "Italia",
+        "es": "Torre Annunziata",
+        "es:t": "Italia",
+        "de": "Torre Annunziata",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Torre del Greco",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 40.7894,
+            "lon": 14.3675
+        },
+        "it": "Torre del Greco",
+        "it:t": "Italia",
+        "es": "Torre del Greco",
+        "es:t": "Italia",
+        "de": "Torre del Greco",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Torremaggiore",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 41.6868,
+            "lon": 15.2926
+        },
+        "it": "Torremaggiore",
+        "it:t": "Italia",
+        "es": "Torremaggiore",
+        "es:t": "Italia",
+        "de": "Torremaggiore",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Tortona",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 44.8952,
+            "lon": 8.8633
+        },
+        "it": "Tortona",
+        "it:t": "Italia",
+        "es": "Tortona",
+        "es:t": "Italia",
+        "de": "Tortona",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Torvaianica",
+        "en:t": "Italy | Pomezia",
+        "a": true,
+        "g": {
+            "lat": 41.6208,
+            "lon": 12.4626
+        },
+        "it": "Torvaianica",
+        "it:t": "Italia | Pomezia",
+        "es": "Torvaianica",
+        "es:t": "Italia | Pomezia",
+        "de": "Torvaianica",
+        "de:t": "Italien | Pomezia"
+    },
+    {
+        "en": "Tradate",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 45.7115,
+            "lon": 8.9071
+        },
+        "it": "Tradate",
+        "it:t": "Italia",
+        "es": "Tradate",
+        "es:t": "Italia",
+        "de": "Tradate",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Trani",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 41.2775,
+            "lon": 16.4178
+        },
+        "it": "Trani",
+        "it:t": "Italia",
+        "es": "Trani",
+        "es:t": "Italia",
+        "de": "Trani",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Trapani",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 38.0174,
+            "lon": 12.5365
+        },
+        "it": "Trapani",
+        "it:t": "Italia",
+        "es": "Trapani",
+        "es:t": "Italia",
+        "de": "Trapani",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Trecate",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 45.4327,
+            "lon": 8.738
+        },
+        "it": "Trecate",
+        "it:t": "Italia",
+        "es": "Trecate",
+        "es:t": "Italia",
+        "de": "Trecate",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Trento",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 46.0748,
+            "lon": 11.1217
+        },
+        "it": "Trento",
+        "it:t": "Italia",
+        "es": "Trento",
+        "es:t": "Italia",
+        "de": "Trient",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Trentola Ducenta",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 40.9769,
+            "lon": 14.1757
+        },
+        "it": "Trentola-ducenta",
+        "it:t": "Italia",
+        "es": "Trentola-Ducenta",
+        "es:t": "Italia",
+        "de": "Trentola-Ducenta",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Treviglio",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 45.5212,
+            "lon": 9.5951
+        },
+        "it": "Treviglio",
+        "it:t": "Italia",
+        "es": "Treviglio",
+        "es:t": "Italia",
+        "de": "Treviglio",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Treviso",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 45.6669,
+            "lon": 12.243
+        },
+        "it": "Treviso",
+        "it:t": "Italia",
+        "es": "Treviso",
+        "es:t": "Italia",
+        "de": "Treviso",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Trezzano sul Naviglio",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 45.4256,
+            "lon": 9.0609
+        },
+        "it": "Trezzano sul Naviglio",
+        "it:t": "Italia",
+        "es": "Trezzano sul Naviglio",
+        "es:t": "Italia",
+        "de": "Trezzano sul Naviglio",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Trieste",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 45.6495,
+            "lon": 13.7768
+        },
+        "it": "Trieste",
+        "it:t": "Italia",
+        "es": "Trieste",
+        "es:t": "Italia",
+        "de": "Triest",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Triggiano",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 41.0622,
+            "lon": 16.926
+        },
+        "it": "Triggiano",
+        "it:t": "Italia",
+        "es": "Triggiano",
+        "es:t": "Italia",
+        "de": "Triggiano",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Turin",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 45.0703,
+            "lon": 7.6869
+        },
+        "it": "Torino",
+        "it:t": "Italia",
+        "es": "Tur\u00edn",
+        "es:t": "Italia",
+        "de": "Turin",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Udine",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 46.0711,
+            "lon": 13.2346
+        },
+        "it": "Udine",
+        "it:t": "Italia",
+        "es": "\u00dadine",
+        "es:t": "Italia",
+        "de": "Udine",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Valdagno",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 45.6448,
+            "lon": 11.3025
+        },
+        "it": "Valdagno",
+        "it:t": "Italia",
+        "es": "Valdagno",
+        "es:t": "Italia",
+        "de": "Valdagno",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Valenza",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 45.021,
+            "lon": 8.6192
+        },
+        "it": "Valenza",
+        "it:t": "Italia",
+        "es": "Valenza",
+        "es:t": "Italia",
+        "de": "Valenza",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Valenzano",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 41.0438,
+            "lon": 16.8842
+        },
+        "it": "Valenzano",
+        "it:t": "Italia",
+        "es": "Valenzano",
+        "es:t": "Italia",
+        "de": "Valenzano",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Varese",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 45.8206,
+            "lon": 8.8251
+        },
+        "it": "Varese",
+        "it:t": "Italia",
+        "es": "Varese",
+        "es:t": "Italia",
+        "de": "Varese",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Vasto",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 42.1046,
+            "lon": 14.7059
+        },
+        "it": "Vasto",
+        "it:t": "Italia",
+        "es": "Vasto",
+        "es:t": "Italia",
+        "de": "Vasto",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Velletri",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 41.6868,
+            "lon": 12.7785
+        },
+        "it": "Velletri",
+        "it:t": "Italia",
+        "es": "Velletri",
+        "es:t": "Italia",
+        "de": "Velletri",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Venaria",
+        "en:t": "Italy | Venaria Reale",
+        "a": true,
+        "g": {
+            "lat": 45.1302,
+            "lon": 7.631
+        },
+        "it": "Venaria Reale",
+        "it:t": "Italia | Citt\u00e0a di Torino",
+        "es": "Venaria Reale",
+        "es:t": "Italia | Tur\u00edn",
+        "de": "Venaria Reale",
+        "de:t": "Italien | Turin"
+    },
+    {
+        "en": "Venice",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 45.4408,
+            "lon": 12.3155
+        },
+        "it": "Venezia",
+        "it:t": "Italia",
+        "es": "Venecia",
+        "es:t": "Italia",
+        "de": "Venedig",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Ventimiglia",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 43.7912,
+            "lon": 7.6076
+        },
+        "it": "Ventimiglia",
+        "it:t": "Italia",
+        "es": "Ventimiglia",
+        "es:t": "Italia",
+        "de": "Ventimiglia",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Verbania",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 45.9283,
+            "lon": 8.5554
+        },
+        "it": "Verbania",
+        "it:t": "Italia",
+        "es": "Verbania",
+        "es:t": "Italia",
+        "de": "Verbania",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Vercelli",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 45.3202,
+            "lon": 8.4186
+        },
+        "it": "Vercelli",
+        "it:t": "Italia",
+        "es": "Vercelli",
+        "es:t": "Italia",
+        "de": "Vercelli",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Verona",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 45.4384,
+            "lon": 10.9916
+        },
+        "it": "Verona",
+        "it:t": "Italia",
+        "es": "Verona",
+        "es:t": "Italia",
+        "de": "Verona",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Viareggio",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 43.8657,
+            "lon": 10.2513
+        },
+        "it": "Viareggio",
+        "it:t": "Italia",
+        "es": "Viareggio",
+        "es:t": "Italia",
+        "de": "Viareggio",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Vibo Valentia",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 38.6758,
+            "lon": 16.0983
+        },
+        "it": "Vibo Valentia",
+        "it:t": "Italia",
+        "es": "Vibo Valentia",
+        "es:t": "Italia",
+        "de": "Vibo Valentia",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Vicenza",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 45.5455,
+            "lon": 11.5354
+        },
+        "it": "Vicenza",
+        "it:t": "Italia",
+        "es": "Vicenza",
+        "es:t": "Italia",
+        "de": "Vicenza",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Vigevano",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 45.3155,
+            "lon": 8.8355
+        },
+        "it": "Vigevano",
+        "it:t": "Italia",
+        "es": "Vigevano",
+        "es:t": "Italia",
+        "de": "Vigevano",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Vignola",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 44.4836,
+            "lon": 11.0131
+        },
+        "it": "Vignola",
+        "it:t": "Italia",
+        "es": "Vignola",
+        "es:t": "Italia",
+        "de": "Vignola",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Villabate",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 38.0757,
+            "lon": 13.4434
+        },
+        "it": "Villabate",
+        "it:t": "Italia",
+        "es": "Villabate",
+        "es:t": "Italia",
+        "de": "Villabate",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Villafranca di Verona",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 45.3553,
+            "lon": 10.8474
+        },
+        "it": "Villafranca di Verona",
+        "it:t": "Italia",
+        "es": "Villafranca di Verona",
+        "es:t": "Italia",
+        "de": "Villafranca di Verona",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Villanova",
+        "en:t": "Italy | Guidonia",
+        "a": true,
+        "g": {
+            "lat": 41.963,
+            "lon": 12.7566
+        },
+        "it": "Villanova",
+        "it:t": "Italia | Guidonia",
+        "es": "Villanova",
+        "es:t": "Italia | Accumoli",
+        "de": "Villanova",
+        "de:t": "Italien | Guidonia Montecelio"
+    },
+    {
+        "en": "Villaricca",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 40.9196,
+            "lon": 14.1728
+        },
+        "it": "Villaricca",
+        "it:t": "Italia",
+        "es": "Villaricca",
+        "es:t": "Italia",
+        "de": "Villaricca",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Vimercate",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 45.6159,
+            "lon": 9.3684
+        },
+        "it": "Vimercate",
+        "it:t": "Italia",
+        "es": "Vimercate",
+        "es:t": "Italia",
+        "de": "Vimercate",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Vimodrone",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 45.5146,
+            "lon": 9.2839
+        },
+        "it": "Vimodrone",
+        "it:t": "Italia",
+        "es": "Vimodrone",
+        "es:t": "Italia",
+        "de": "Vimodrone",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Viterbo",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 42.4207,
+            "lon": 12.1077
+        },
+        "it": "Viterbo",
+        "it:t": "Italia",
+        "es": "Viterbo",
+        "es:t": "Italia",
+        "de": "Viterbo",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Vittoria",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 36.9521,
+            "lon": 14.5373
+        },
+        "it": "Vittoria",
+        "it:t": "Italia",
+        "es": "Vittoria",
+        "es:t": "Italia",
+        "de": "Vittoria",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Vittorio Veneto",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 45.9786,
+            "lon": 12.3018
+        },
+        "it": "Vittorio Veneto",
+        "it:t": "Italia",
+        "es": "Vittorio Veneto",
+        "es:t": "Italia",
+        "de": "Vittorio Veneto",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Voghera",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 44.9917,
+            "lon": 9.012
+        },
+        "it": "Voghera",
+        "it:t": "Italia",
+        "es": "Voghera",
+        "es:t": "Italia",
+        "de": "Voghera",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Volla",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 40.8767,
+            "lon": 14.3412
+        },
+        "it": "Volla",
+        "it:t": "Italia",
+        "es": "Volla",
+        "es:t": "Italia",
+        "de": "Volla",
+        "de:t": "Italien"
+    },
+    {
+        "en": "Zola Predosa",
+        "en:t": "Italy",
+        "a": true,
+        "g": {
+            "lat": 44.4884,
+            "lon": 11.2155
+        },
+        "it": "Zola Predosa",
+        "it:t": "Italia",
+        "es": "Zola Predosa",
+        "es:t": "Italia",
+        "de": "Zola Predosa",
+        "de:t": "Italien"
+    }
+]

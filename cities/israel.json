@@ -1,0 +1,1082 @@
+[
+    {
+        "en": "Acre",
+        "en:t": "Israel | Akko",
+        "a": true,
+        "g": {
+            "lat": 32.9331,
+            "lon": 35.0827
+        },
+        "it": "Acri",
+        "it:t": "Israele | Akko",
+        "es": "Acre",
+        "es:t": "Israel | Sub-Acre",
+        "de": "Akkon",
+        "de:t": "Israel | Akko"
+    },
+    {
+        "en": "Afula",
+        "en:t": "Israel | Yizrael",
+        "a": true,
+        "g": {
+            "lat": 32.6328,
+            "lon": 35.3252
+        },
+        "it": "Afula",
+        "it:t": "Israele | Yizrael",
+        "es": "Afula",
+        "es:t": "Israel | Yizrael",
+        "de": "Afula",
+        "de:t": "Israel | Yizrael"
+    },
+    {
+        "en": "Arad",
+        "en:t": "Israel | Be'er Sheva",
+        "a": true,
+        "g": {
+            "lat": 31.2614,
+            "lon": 35.2149
+        },
+        "it": "Arad",
+        "it:t": "Israele | Be'er Sheva",
+        "es": "Arad",
+        "es:t": "Israel | Sub-Beersheva",
+        "de": "Arad",
+        "de:t": "Israel | Be'er Sheva"
+    },
+    {
+        "en": "Ari'el Street",
+        "en:t": "Israel | Jerusalem",
+        "a": true,
+        "g": {
+            "lat": 31.7901,
+            "lon": 35.2032
+        },
+        "it": "Ari'el Street",
+        "it:t": "Israele | Jerusalem",
+        "es": "Ari'el Street",
+        "es:t": "Israel | Jerusalem",
+        "de": "Ari'el Street",
+        "de:t": "Israel | Jerusalem"
+    },
+    {
+        "en": "Ashdod",
+        "en:t": "Israel | Ashkelon",
+        "a": true,
+        "g": {
+            "lat": 31.8044,
+            "lon": 34.6553
+        },
+        "it": "Ashdod",
+        "it:t": "Israele | Ashkelon",
+        "es": "Asdod",
+        "es:t": "Israel | SubAscal\u00f3n",
+        "de": "Aschdod",
+        "de:t": "Israel | Ashkelon"
+    },
+    {
+        "en": "Ashkelon",
+        "en:t": "Israel",
+        "a": true,
+        "g": {
+            "lat": 31.6688,
+            "lon": 34.5743
+        },
+        "it": "Ascalona",
+        "it:t": "Israele",
+        "es": "Ascal\u00f3n",
+        "es:t": "Israel",
+        "de": "Aschkelon",
+        "de:t": "Israel"
+    },
+    {
+        "en": "Bat Yam Street",
+        "en:t": "Israel | Tel Aviv-Yafo",
+        "a": true,
+        "g": {
+            "lat": 32.0345,
+            "lon": 34.7445
+        },
+        "it": "Bat Yam",
+        "it:t": "Israele | Distretto Centrale",
+        "es": "Bat Yam Street",
+        "es:t": "Israel | Tel Aviv-Yafo",
+        "de": "Bat Jam",
+        "de:t": "Israel | Zentralbezirk"
+    },
+    {
+        "en": "Be'er Sheva",
+        "en:t": "Israel",
+        "a": true,
+        "g": {
+            "lat": 31.253,
+            "lon": 34.7915
+        },
+        "it": "Be'er Sheva",
+        "it:t": "Israele",
+        "es": "Beerseba",
+        "es:t": "Israel",
+        "de": "Be'er Scheva",
+        "de:t": "Israel"
+    },
+    {
+        "en": "Beit She'an",
+        "en:t": "Israel | Yizrael",
+        "a": true,
+        "g": {
+            "lat": 32.4971,
+            "lon": 35.4973
+        },
+        "it": "Beit She'an",
+        "it:t": "Israele | Yizrael",
+        "es": "Beit She'an",
+        "es:t": "Israel | Yizrael",
+        "de": "Bet Sche'an",
+        "de:t": "Israel | Yizrael"
+    },
+    {
+        "en": "Bet Shemesh",
+        "en:t": "Israel | Jerusalem",
+        "a": true,
+        "g": {
+            "lat": 31.747,
+            "lon": 34.9881
+        },
+        "it": "Bet Shemesh",
+        "it:t": "Israele | Gerusalemme",
+        "es": "Beit Shemesh",
+        "es:t": "Israel | Jerusal\u00e9n",
+        "de": "Bet Schemesch",
+        "de:t": "Israel | Jerusalem"
+    },
+    {
+        "en": "Bnei Brak",
+        "en:t": "Israel | Tel Aviv",
+        "a": true,
+        "g": {
+            "lat": 32.0849,
+            "lon": 34.8352
+        },
+        "it": "Bnei Brak",
+        "it:t": "Israele | Tel Aviv",
+        "es": "Bnei Brak",
+        "es:t": "Israel | Tel Aviv",
+        "de": "Bnei Berak",
+        "de:t": "Israel | Tel Aviv"
+    },
+    {
+        "en": "Carmel",
+        "en:t": "Israel | Isfiya",
+        "a": true,
+        "g": {
+            "lat": 32.7059,
+            "lon": 35.0567
+        },
+        "it": "Carmel",
+        "it:t": "Israele | Isfiya",
+        "es": "Ciudad Carmel",
+        "es:t": "Israel | Isfiya",
+        "de": "Ir haKarmel",
+        "de:t": "Israel | Isfiya"
+    },
+    {
+        "en": "Dimona",
+        "en:t": "Israel | Be'er Sheva",
+        "a": true,
+        "g": {
+            "lat": 31.0694,
+            "lon": 35.0334
+        },
+        "it": "Dimona",
+        "it:t": "Israele | Be'er Sheva",
+        "es": "Dimona",
+        "es:t": "Israel | Sub-Beersheva",
+        "de": "Dimona",
+        "de:t": "Israel | Be'er Sheva"
+    },
+    {
+        "en": "Eilat",
+        "en:t": "Israel | Be'er Sheva",
+        "a": true,
+        "g": {
+            "lat": 29.5577,
+            "lon": 34.9519
+        },
+        "it": "Elat",
+        "it:t": "Israele | Be'er Sheva",
+        "es": "Eilat",
+        "es:t": "Israel | Sub-Beersheva",
+        "de": "Eilat",
+        "de:t": "Israel | Be'er Sheva"
+    },
+    {
+        "en": "Giv'at Shmuel",
+        "en:t": "Israel | Petach Tikva",
+        "a": true,
+        "g": {
+            "lat": 32.0773,
+            "lon": 34.8492
+        },
+        "it": "Giv'at Shmuel",
+        "it:t": "Israele | Petach Tikva",
+        "es": "Guivat Shmuel",
+        "es:t": "Israel | Petach Tikva",
+        "de": "Givat Schmuel",
+        "de:t": "Israel | Petach Tikva"
+    },
+    {
+        "en": "Giv'atayim",
+        "en:t": "Israel | Tel Aviv",
+        "a": true,
+        "g": {
+            "lat": 32.0722,
+            "lon": 34.8089
+        },
+        "it": "Giv'atayim",
+        "it:t": "Israele | Tel Aviv",
+        "es": "Guivatayim",
+        "es:t": "Israel | Tel Aviv",
+        "de": "Giv'atajim",
+        "de:t": "Israel | Tel Aviv"
+    },
+    {
+        "en": "Hadera Street",
+        "en:t": "Israel | Haifa",
+        "a": true,
+        "g": {
+            "lat": 32.8079,
+            "lon": 35.0033
+        },
+        "it": "Hadera Street",
+        "it:t": "Israele | Haifa",
+        "es": "Hadera Street",
+        "es:t": "Israel | Haifa",
+        "de": "Hadera Street",
+        "de:t": "Israel | Haifa"
+    },
+    {
+        "en": "Haifa",
+        "en:t": "Israel",
+        "a": true,
+        "g": {
+            "lat": 32.794,
+            "lon": 34.9896
+        },
+        "it": "Haifa",
+        "it:t": "Israele",
+        "es": "Haifa",
+        "es:t": "Israel",
+        "de": "Haifa",
+        "de:t": "Israel"
+    },
+    {
+        "en": "Herzliya",
+        "en:t": "Israel | Tel Aviv",
+        "a": true,
+        "g": {
+            "lat": 32.1624,
+            "lon": 34.8447
+        },
+        "it": "Herzliya",
+        "it:t": "Israele | Tel Aviv",
+        "es": "Herzliya",
+        "es:t": "Israel | Tel Aviv",
+        "de": "Herzlia",
+        "de:t": "Israel | Tel Aviv"
+    },
+    {
+        "en": "Hod Hasharon",
+        "en:t": "Israel | Petach Tikva",
+        "a": true,
+        "g": {
+            "lat": 32.15,
+            "lon": 34.8839
+        },
+        "it": "Hod HaSharon",
+        "it:t": "Israele | Petach Tikva",
+        "es": "Hod HaSharon",
+        "es:t": "Israel | Petach Tikva",
+        "de": "Hod haScharon",
+        "de:t": "Israel | Petach Tikva"
+    },
+    {
+        "en": "Holon",
+        "en:t": "Israel | Center",
+        "a": true,
+        "g": {
+            "lat": 32.0158,
+            "lon": 34.7874
+        },
+        "it": "Holon",
+        "it:t": "Israele | Distretto Centrale",
+        "es": "Jol\u00f3n",
+        "es:t": "Israel | Distrito Central",
+        "de": "Cholon",
+        "de:t": "Israel | Zentralbezirk"
+    },
+    {
+        "en": "Jadeidi-Makr",
+        "en:t": "Israel | Akko",
+        "a": true,
+        "g": {
+            "lat": 32.9287,
+            "lon": 35.1506
+        },
+        "it": "Jadeidi-Makr",
+        "it:t": "Israele | Akko",
+        "es": "Jadeidi-Makr",
+        "es:t": "Israel | Akko",
+        "de": "Jadeidi-Makr",
+        "de:t": "Israel | Akko"
+    },
+    {
+        "en": "Jaffa",
+        "en:t": "Israel | Tel Aviv-Yafo",
+        "a": true,
+        "g": {
+            "lat": 32.0494,
+            "lon": 34.7584
+        },
+        "it": "Giaffa",
+        "it:t": "Israele | Tel Aviv",
+        "es": "Jaffa",
+        "es:t": "Israel | Tel Aviv-Yafo",
+        "de": "Tel Aviv-Jaffa/Jaffa",
+        "de:t": "Israel | Tel Aviv-Jaffa"
+    },
+    {
+        "en": "Jerusalem",
+        "en:t": "Israel | Jerusalem",
+        "a": true,
+        "g": {
+            "lat": 31.7683,
+            "lon": 35.2137
+        },
+        "it": "Gerusalemme",
+        "it:t": "Israele | Gerusalemme",
+        "es": "Jerusal\u00e9n",
+        "es:t": "Israel | Jerusal\u00e9n",
+        "de": "Jerusalem",
+        "de:t": "Israel | Jerusalem"
+    },
+    {
+        "en": "Jerusalem",
+        "en:t": "Israel",
+        "a": true,
+        "g": {
+            "lat": 31.7683,
+            "lon": 35.2137
+        },
+        "it": "Gerusalemme",
+        "it:t": "Israele",
+        "es": "Jerusal\u00e9n",
+        "es:t": "Israel",
+        "de": "Jerusalem",
+        "de:t": "Israel"
+    },
+    {
+        "en": "Kafr Kanna",
+        "en:t": "Israel | Yizrael",
+        "a": true,
+        "g": {
+            "lat": 32.7482,
+            "lon": 35.3438
+        },
+        "it": "kafr kanna",
+        "it:t": "Israele | Yizrael",
+        "es": "Kafr Kanna",
+        "es:t": "Israel | Yizrael",
+        "de": "Kafr Kana",
+        "de:t": "Israel | Yizrael"
+    },
+    {
+        "en": "Kafr Manda",
+        "en:t": "Israel | Akko",
+        "a": true,
+        "g": {
+            "lat": 32.8124,
+            "lon": 35.2586
+        },
+        "it": "Kafr Manda",
+        "it:t": "Israele | Akko",
+        "es": "Kafr Manda",
+        "es:t": "Israel | Sub-Acre",
+        "de": "Kafr Manda",
+        "de:t": "Israel | Akko"
+    },
+    {
+        "en": "Karmiel",
+        "en:t": "Israel | Akko",
+        "a": true,
+        "g": {
+            "lat": 32.9147,
+            "lon": 35.2924
+        },
+        "it": "Karmiel",
+        "it:t": "Israele | Akko",
+        "es": "Carmiel",
+        "es:t": "Israel | Sub-Acre",
+        "de": "Karmi'el",
+        "de:t": "Israel | Akko"
+    },
+    {
+        "en": "Kefar Sava",
+        "en:t": "Israel | Petach Tikva",
+        "a": true,
+        "g": {
+            "lat": 32.1782,
+            "lon": 34.9076
+        },
+        "it": "Kfar Saba",
+        "it:t": "Israele | Petach Tikva",
+        "es": "Kfar Saba",
+        "es:t": "Israel | Petach Tikva",
+        "de": "Kfar Saba",
+        "de:t": "Israel | Petach Tikva"
+    },
+    {
+        "en": "Kfar Qasim",
+        "en:t": "Israel | Petach Tikva",
+        "a": true,
+        "g": {
+            "lat": 32.1141,
+            "lon": 34.9728
+        },
+        "it": "Kfar Qasim",
+        "it:t": "Israele | Petach Tikva",
+        "es": "Kfar Qasim",
+        "es:t": "Israel | Petach Tikva",
+        "de": "Kfar Qasim",
+        "de:t": "Israel | Petach Tikva"
+    },
+    {
+        "en": "Kiryat Ata",
+        "en:t": "Israel | Haifa",
+        "a": true,
+        "g": {
+            "lat": 32.8091,
+            "lon": 35.1198
+        },
+        "it": "Kiryat Ata",
+        "it:t": "Israele | Haifa",
+        "es": "Kiryat Atta",
+        "es:t": "Israel | Sub-Haifa",
+        "de": "Kiryat Ata",
+        "de:t": "Israel | Haifa"
+    },
+    {
+        "en": "Kiryat Bialik",
+        "en:t": "Israel | Haifa",
+        "a": true,
+        "g": {
+            "lat": 32.8322,
+            "lon": 35.0884
+        },
+        "it": "Kiryat Bialik",
+        "it:t": "Israele | Haifa",
+        "es": "Kiryat Bialik",
+        "es:t": "Israel | Sub-Haifa",
+        "de": "Kirjat Bialik",
+        "de:t": "Israel | Haifa"
+    },
+    {
+        "en": "Kiryat Gat",
+        "en:t": "Israel | Ashkelon",
+        "a": true,
+        "g": {
+            "lat": 31.6111,
+            "lon": 34.7685
+        },
+        "it": "Kiryat Gat",
+        "it:t": "Israele | Ashkelon",
+        "es": "Kiryat Gat",
+        "es:t": "Israel | SubAscal\u00f3n",
+        "de": "Kirjat Gat",
+        "de:t": "Israel | Ashkelon"
+    },
+    {
+        "en": "Kiryat Motzkin",
+        "en:t": "Israel | Haifa",
+        "a": true,
+        "g": {
+            "lat": 32.8382,
+            "lon": 35.0795
+        },
+        "it": "Kiryat Motzkin",
+        "it:t": "Israele | Haifa",
+        "es": "Kiryat Motzkin",
+        "es:t": "Israel | Sub-Haifa",
+        "de": "Kirjat Motzkin",
+        "de:t": "Israel | Haifa"
+    },
+    {
+        "en": "Kiryat Yam",
+        "en:t": "Israel | Haifa",
+        "a": true,
+        "g": {
+            "lat": 32.8493,
+            "lon": 35.0689
+        },
+        "it": "Kiryat Yam",
+        "it:t": "Israele | Haifa",
+        "es": "Kiryat Yam",
+        "es:t": "Israel | Sub-Haifa",
+        "de": "Kirjat Jam",
+        "de:t": "Israel | Haifa"
+    },
+    {
+        "en": "Lod",
+        "en:t": "Israel | Ramla",
+        "a": true,
+        "g": {
+            "lat": 31.951,
+            "lon": 34.8881
+        },
+        "it": "Lod",
+        "it:t": "Israele | Ramla",
+        "es": "Lod",
+        "es:t": "Israel | Sub-Ramla",
+        "de": "Lod",
+        "de:t": "Israel | Ramla"
+    },
+    {
+        "en": "Ma'alot-Tarshiha",
+        "en:t": "Israel | Akko",
+        "a": true,
+        "g": {
+            "lat": 33.015,
+            "lon": 35.276
+        },
+        "it": "Ma'alot-Tarshiha",
+        "it:t": "Israele | Akko",
+        "es": "Ma'alot-Tarshiha",
+        "es:t": "Israel | Sub-Acre",
+        "de": "Ma'alot",
+        "de:t": "Israel | Akko"
+    },
+    {
+        "en": "Maghar",
+        "en:t": "Israel | Kinneret",
+        "a": true,
+        "g": {
+            "lat": 32.8907,
+            "lon": 35.4046
+        },
+        "it": "Maghar",
+        "it:t": "Israele | Kinneret",
+        "es": "Maghar",
+        "es:t": "Israel | Kinneret",
+        "de": "Maghar",
+        "de:t": "Israel | Kinneret"
+    },
+    {
+        "en": "Mevo Beitar",
+        "en:t": "Israel | Jerusalem",
+        "a": true,
+        "g": {
+            "lat": 31.7226,
+            "lon": 35.1067
+        },
+        "it": "Mevo Beitar",
+        "it:t": "Israele | Jerusalem",
+        "es": "Mevo Beitar",
+        "es:t": "Israel | Jerusalem",
+        "de": "Mevo Beitar",
+        "de:t": "Israel | Jerusalem"
+    },
+    {
+        "en": "Migdal HaEmek",
+        "en:t": "Israel | Yizrael",
+        "a": true,
+        "g": {
+            "lat": 32.6778,
+            "lon": 35.2417
+        },
+        "it": "Migdal HaEmek",
+        "it:t": "Israele | Yizrael",
+        "es": "Migdal HaEmek",
+        "es:t": "Israel | Yizrael",
+        "de": "Migdal haEmek",
+        "de:t": "Israel | Yizrael"
+    },
+    {
+        "en": "Modi'in Ilit",
+        "en:t": "Israel",
+        "a": true,
+        "g": {
+            "lat": 31.9325,
+            "lon": 35.0423
+        },
+        "it": "Modi'in Ilit",
+        "it:t": "Israele",
+        "es": "Modi'in Ilit",
+        "es:t": "Israel",
+        "de": "Modi'in Ilit",
+        "de:t": "Israel"
+    },
+    {
+        "en": "Modi'in-Maccabim-Re'ut",
+        "en:t": "Israel | Ramla",
+        "a": true,
+        "g": {
+            "lat": 31.8903,
+            "lon": 35.0104
+        },
+        "it": "Modi'in-Maccabim-Re'ut",
+        "it:t": "Israele | Ramla",
+        "es": "Modi'\u00edn",
+        "es:t": "Israel | Sub-Ramla",
+        "de": "Modi'in",
+        "de:t": "Israel | Ramla"
+    },
+    {
+        "en": "Nahariyya",
+        "en:t": "Israel | Akko",
+        "a": true,
+        "g": {
+            "lat": 33.0085,
+            "lon": 35.0981
+        },
+        "it": "Nahariya",
+        "it:t": "Israele | Akko",
+        "es": "Nahariya",
+        "es:t": "Israel | Sub-Acre",
+        "de": "Naharija",
+        "de:t": "Israel | Akko"
+    },
+    {
+        "en": "Nazareth",
+        "en:t": "Israel | Yizrael",
+        "a": true,
+        "g": {
+            "lat": 32.6996,
+            "lon": 35.3035
+        },
+        "it": "Nazaret",
+        "it:t": "Israele | Yizrael",
+        "es": "Nazaret",
+        "es:t": "Israel | Yizrael",
+        "de": "Nazareth",
+        "de:t": "Israel | Yizrael"
+    },
+    {
+        "en": "Nesher",
+        "en:t": "Israel | Haifa",
+        "a": true,
+        "g": {
+            "lat": 32.7649,
+            "lon": 35.0492
+        },
+        "it": "Nesher",
+        "it:t": "Israele | Haifa",
+        "es": "Nesher",
+        "es:t": "Israel | Sub-Haifa",
+        "de": "Nescher",
+        "de:t": "Israel | Haifa"
+    },
+    {
+        "en": "Ness Ziona",
+        "en:t": "Israel | Rehovot",
+        "a": true,
+        "g": {
+            "lat": 31.9321,
+            "lon": 34.8013
+        },
+        "it": "Ness Ziona",
+        "it:t": "Israele | Rehovot",
+        "es": "Ness Tziona",
+        "es:t": "Israel | Rehovot",
+        "de": "Nes Ziona",
+        "de:t": "Israel | Rehovot"
+    },
+    {
+        "en": "Netanya",
+        "en:t": "Israel | HaSharon",
+        "a": true,
+        "g": {
+            "lat": 32.3215,
+            "lon": 34.8532
+        },
+        "it": "Netanya",
+        "it:t": "Israele | Pianura di Sharon",
+        "es": "Netanya",
+        "es:t": "Israel | Llanura de Sharon",
+        "de": "Netanja",
+        "de:t": "Israel | Scharonebene"
+    },
+    {
+        "en": "Netivot",
+        "en:t": "Israel | Be'er Sheva",
+        "a": true,
+        "g": {
+            "lat": 31.4232,
+            "lon": 34.5953
+        },
+        "it": "Netivot",
+        "it:t": "Israele | Be'er Sheva",
+        "es": "Netivot",
+        "es:t": "Israel | Sub-Beersheva",
+        "de": "Netiwot",
+        "de:t": "Israel | Be'er Sheva"
+    },
+    {
+        "en": "Ofakim",
+        "en:t": "Israel | Be'er Sheva",
+        "a": true,
+        "g": {
+            "lat": 31.3113,
+            "lon": 34.6228
+        },
+        "it": "Ofakim",
+        "it:t": "Israele | Be'er Sheva",
+        "es": "Ofakim",
+        "es:t": "Israel | Sub-Beersheva",
+        "de": "Ofakim",
+        "de:t": "Israel | Be'er Sheva"
+    },
+    {
+        "en": "Or Yehuda",
+        "en:t": "Israel | Tel Aviv",
+        "a": true,
+        "g": {
+            "lat": 32.0297,
+            "lon": 34.8562
+        },
+        "it": "Or Yehuda",
+        "it:t": "Israele | Tel Aviv",
+        "es": "Or Yehuda",
+        "es:t": "Israel | Tel Aviv",
+        "de": "Or Jehuda",
+        "de:t": "Israel | Tel Aviv"
+    },
+    {
+        "en": "Petah Tikva",
+        "en:t": "Israel | Petach Tikva",
+        "a": true,
+        "g": {
+            "lat": 32.084,
+            "lon": 34.8878
+        },
+        "it": "Petah Tiqwa",
+        "it:t": "Israele | Petach Tikva",
+        "es": "Petaj Tikva",
+        "es:t": "Israel | Petach Tikva",
+        "de": "Petach Tikwa",
+        "de:t": "Israel | Petach Tikva"
+    },
+    {
+        "en": "Qalansawe",
+        "en:t": "Israel | HaSharon",
+        "a": true,
+        "g": {
+            "lat": 32.2858,
+            "lon": 34.9815
+        },
+        "it": "Qalansawe",
+        "it:t": "Israele | Pianura di Sharon",
+        "es": "Qalansawe",
+        "es:t": "Israel | Llanura de Sharon",
+        "de": "Qalansawe",
+        "de:t": "Israel | Scharonebene"
+    },
+    {
+        "en": "Qiryat Shemona",
+        "en:t": "Israel | Tzfat",
+        "a": true,
+        "g": {
+            "lat": 33.2079,
+            "lon": 35.5702
+        },
+        "it": "Kiryat Shmona",
+        "it:t": "Israele | Tzfat",
+        "es": "Kiryat Shemona",
+        "es:t": "Israel | Tzfat",
+        "de": "Kirjat Schmona",
+        "de:t": "Israel | Tzfat"
+    },
+    {
+        "en": "Ra'anana",
+        "en:t": "Israel | Petach Tikva",
+        "a": true,
+        "g": {
+            "lat": 32.1848,
+            "lon": 34.8713
+        },
+        "it": "Ra'anana",
+        "it:t": "Israele | Petach Tikva",
+        "es": "Ra'anana",
+        "es:t": "Israel | Petach Tikva",
+        "de": "Ra'anana",
+        "de:t": "Israel | Petach Tikva"
+    },
+    {
+        "en": "Ramat Gan",
+        "en:t": "Israel | Tel Aviv",
+        "a": true,
+        "g": {
+            "lat": 32.0684,
+            "lon": 34.8248
+        },
+        "it": "Ramat Gan",
+        "it:t": "Israele | Tel Aviv",
+        "es": "Ramat Gan",
+        "es:t": "Israel | Tel Aviv",
+        "de": "Ramat Gan",
+        "de:t": "Israel | Tel Aviv"
+    },
+    {
+        "en": "Ramat Hasharon",
+        "en:t": "Israel | Tel Aviv",
+        "a": true,
+        "g": {
+            "lat": 32.1378,
+            "lon": 34.8403
+        },
+        "it": "Ramat HaSharon",
+        "it:t": "Israele | Tel Aviv",
+        "es": "Ramat Hasharon",
+        "es:t": "Israel | Tel Aviv",
+        "de": "Ramat haScharon",
+        "de:t": "Israel | Tel Aviv"
+    },
+    {
+        "en": "Ramla",
+        "en:t": "Israel",
+        "a": true,
+        "g": {
+            "lat": 31.9316,
+            "lon": 34.8729
+        },
+        "it": "Ramla",
+        "it:t": "Israele",
+        "es": "Ramla",
+        "es:t": "Israel",
+        "de": "Ramla",
+        "de:t": "Israel"
+    },
+    {
+        "en": "Reineh",
+        "en:t": "Israel | Yizrael",
+        "a": true,
+        "g": {
+            "lat": 32.7199,
+            "lon": 35.3177
+        },
+        "it": "Reineh",
+        "it:t": "Israele | Yizrael",
+        "es": "Reineh",
+        "es:t": "Israel | Yizrael",
+        "de": "Reina",
+        "de:t": "Israel | Yizrael"
+    },
+    {
+        "en": "Rishon LeTsiyon",
+        "en:t": "Israel | Rehovot",
+        "a": true,
+        "g": {
+            "lat": 31.973,
+            "lon": 34.7925
+        },
+        "it": "Rishon LeZion",
+        "it:t": "Israele | Rehovot",
+        "es": "Rishon LeZion",
+        "es:t": "Israel | Rehovot",
+        "de": "Rischon LeZion",
+        "de:t": "Israel | Rehovot"
+    },
+    {
+        "en": "Rosh Haayin",
+        "en:t": "Israel | Petach Tikva",
+        "a": true,
+        "g": {
+            "lat": 32.0958,
+            "lon": 34.9522
+        },
+        "it": "Rosh HaAyin",
+        "it:t": "Israele | Petach Tikva",
+        "es": "Rosh HaAyin",
+        "es:t": "Israel | Petach Tikva",
+        "de": "Rosch haAjin",
+        "de:t": "Israel | Petach Tikva"
+    },
+    {
+        "en": "Safed",
+        "en:t": "Israel | Tzfat",
+        "a": true,
+        "g": {
+            "lat": 32.9646,
+            "lon": 35.496
+        },
+        "it": "Safad",
+        "it:t": "Israele | Tzfat",
+        "es": "Safed",
+        "es:t": "Israel | Tzfat",
+        "de": "Safed",
+        "de:t": "Israel | Tzfat"
+    },
+    {
+        "en": "Sakhnin",
+        "en:t": "Israel | Akko",
+        "a": true,
+        "g": {
+            "lat": 32.8642,
+            "lon": 35.2945
+        },
+        "it": "Sakhnin",
+        "it:t": "Israele | Akko",
+        "es": "Sajnin",
+        "es:t": "Israel | Sub-Acre",
+        "de": "Sachnin",
+        "de:t": "Israel | Akko"
+    },
+    {
+        "en": "Sderot",
+        "en:t": "Israel | Ashkelon",
+        "a": true,
+        "g": {
+            "lat": 31.5227,
+            "lon": 34.5956
+        },
+        "it": "Sderot",
+        "it:t": "Israele | Ashkelon",
+        "es": "Sederot",
+        "es:t": "Israel | SubAscal\u00f3n",
+        "de": "Sderot",
+        "de:t": "Israel | Ashkelon"
+    },
+    {
+        "en": "Tamra",
+        "en:t": "Israel | Akko",
+        "a": true,
+        "g": {
+            "lat": 32.8522,
+            "lon": 35.2013
+        },
+        "it": "Tamra",
+        "it:t": "Israele | Akko",
+        "es": "Tamra",
+        "es:t": "Israel | Sub-Acre",
+        "de": "Tamra",
+        "de:t": "Israel | Akko"
+    },
+    {
+        "en": "Tayibe",
+        "en:t": "Israel | HaSharon",
+        "a": true,
+        "g": {
+            "lat": 32.2669,
+            "lon": 35.0097
+        },
+        "it": "Tayibe",
+        "it:t": "Israele | HaSharon",
+        "es": "Tayibe",
+        "es:t": "Israel | Llanura de Sharon",
+        "de": "Tayyibe",
+        "de:t": "Israel | Scharonebene"
+    },
+    {
+        "en": "Tel Aviv-Yafo",
+        "en:t": "Israel | Tel Aviv",
+        "a": true,
+        "g": {
+            "lat": 32.0853,
+            "lon": 34.7818
+        },
+        "it": "Tel Aviv",
+        "it:t": "Israele | Tel Aviv",
+        "es": "Tel Aviv-Yafo",
+        "es:t": "Israel | Tel Aviv",
+        "de": "Tel Aviv-Jaffa",
+        "de:t": "Israel | Tel Aviv"
+    },
+    {
+        "en": "Tiberias",
+        "en:t": "Israel | Kinneret",
+        "a": true,
+        "g": {
+            "lat": 32.7959,
+            "lon": 35.531
+        },
+        "it": "Tiberiade",
+        "it:t": "Israele | Kinneret",
+        "es": "Tiber\u00edades",
+        "es:t": "Israel | Sub-Kinneret",
+        "de": "Tiberias",
+        "de:t": "Israel | Kinneret"
+    },
+    {
+        "en": "Tira",
+        "en:t": "Israel | HaSharon",
+        "a": true,
+        "g": {
+            "lat": 32.2355,
+            "lon": 34.9505
+        },
+        "it": "Tira",
+        "it:t": "Israele | HaSharon",
+        "es": "Tira",
+        "es:t": "Israel | Llanura de Sharon",
+        "de": "Tira",
+        "de:t": "Israel | Scharonebene"
+    },
+    {
+        "en": "Tirat Carmel",
+        "en:t": "Israel | Haifa",
+        "a": true,
+        "g": {
+            "lat": 32.7621,
+            "lon": 34.973
+        },
+        "it": "Tirat Carmel",
+        "it:t": "Israele | Haifa",
+        "es": "Tirat Carmel",
+        "es:t": "Israel | Sub-Haifa",
+        "de": "Tirat Carmel",
+        "de:t": "Israel | Haifa"
+    },
+    {
+        "en": "Umm al-Fahm",
+        "en:t": "Israel | Hadera",
+        "a": true,
+        "g": {
+            "lat": 32.5171,
+            "lon": 35.1485
+        },
+        "it": "Umm al-Fahm",
+        "it:t": "Israele | Hadera",
+        "es": "Umm al-Fahm",
+        "es:t": "Israel | Sub-Hadera",
+        "de": "Umm al-Fahm",
+        "de:t": "Israel | Hadera"
+    },
+    {
+        "en": "Yavne",
+        "en:t": "Israel | Rehovot",
+        "a": true,
+        "g": {
+            "lat": 31.878,
+            "lon": 34.7394
+        },
+        "it": "Yavne",
+        "it:t": "Israele | Rehovot",
+        "es": "Yavne",
+        "es:t": "Israel | Rehovot",
+        "de": "Jawne",
+        "de:t": "Israel | Rehovot"
+    },
+    {
+        "en": "Yehud",
+        "en:t": "Israel | Petach Tikva",
+        "a": true,
+        "g": {
+            "lat": 32.0303,
+            "lon": 34.8871
+        },
+        "it": "Yehud",
+        "it:t": "Israele | Petach Tikva",
+        "es": "Yehud",
+        "es:t": "Israel | Petach Tikva",
+        "de": "Jehud",
+        "de:t": "Israel | Petach Tikva"
+    }
+]

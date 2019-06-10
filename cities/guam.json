@@ -1,0 +1,77 @@
+[
+    {
+        "en": "Dededo",
+        "en:t": "Guam",
+        "a": true,
+        "g": {
+            "lat": 13.5453,
+            "lon": 144.8511
+        },
+        "it": "Dededo",
+        "it:t": "Guam",
+        "es": "Dededo",
+        "es:t": "Guam",
+        "de": "Dededo",
+        "de:t": "Guam"
+    },
+    {
+        "en": "Hag\u00e5t\u00f1a",
+        "en:t": "Guam",
+        "a": true,
+        "g": {
+            "lat": 13.4763,
+            "lon": 144.7502
+        },
+        "it": "Hag\u00e5t\u00f1a",
+        "it:t": "Guam",
+        "es": "Aga\u00f1a",
+        "es:t": "Guam",
+        "de": "Hag\u00e5t\u00f1a",
+        "de:t": "Guam"
+    },
+    {
+        "en": "Mangilao",
+        "en:t": "Guam",
+        "a": true,
+        "g": {
+            "lat": 13.4702,
+            "lon": 144.8456
+        },
+        "it": "Mangilao",
+        "it:t": "Guam",
+        "es": "Mangilao",
+        "es:t": "Guam",
+        "de": "Mangilao",
+        "de:t": "Guam"
+    },
+    {
+        "en": "Tumon Lane",
+        "en:t": "Guam | Harmon",
+        "a": true,
+        "g": {
+            "lat": 13.5107,
+            "lon": 144.8135
+        },
+        "it": "Tumon Lane",
+        "it:t": "Guam | Harmon",
+        "es": "Tumon",
+        "es:t": "Guam | Tamuning",
+        "de": "Tumon",
+        "de:t": "Guam | Tamuning"
+    },
+    {
+        "en": "Yigo",
+        "en:t": "Guam",
+        "a": true,
+        "g": {
+            "lat": 13.564,
+            "lon": 144.9061
+        },
+        "it": "Yigo",
+        "it:t": "Guam",
+        "es": "Yigo",
+        "es:t": "Guam",
+        "de": "Yigo",
+        "de:t": "Guam"
+    }
+]

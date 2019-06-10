@@ -1,0 +1,1187 @@
+[
+    {
+        "en": "Alotenango",
+        "en:t": "Guatemala | Sacatep\u00e9quez",
+        "a": true,
+        "g": {
+            "lat": 14.4855,
+            "lon": -90.8032
+        },
+        "it": "San Juan Alotenango",
+        "it:t": "Guatemala | Sacatep\u00e9quez",
+        "es": "Alotenango",
+        "es:t": "Guatemala | Sacatep\u00e9quez",
+        "de": "Alotenango",
+        "de:t": "Guatemala | Sacatep\u00e9quez"
+    },
+    {
+        "en": "Amatitl\u00e1n",
+        "en:t": "Guatemala",
+        "a": true,
+        "g": {
+            "lat": 14.4773,
+            "lon": -90.6346
+        },
+        "it": "Amatitl\u00e1n",
+        "it:t": "Guatemala",
+        "es": "Amatitl\u00e1n",
+        "es:t": "Guatemala",
+        "de": "Amatitl\u00e1n",
+        "de:t": "Guatemala"
+    },
+    {
+        "en": "Antigua Guatemala",
+        "en:t": "Guatemala | Sacatep\u00e9quez",
+        "a": true,
+        "g": {
+            "lat": 14.5573,
+            "lon": -90.7332
+        },
+        "it": "Antigua Guatemala",
+        "it:t": "Guatemala | Sacatep\u00e9quez",
+        "es": "Antigua Guatemala",
+        "es:t": "Guatemala | Sacatep\u00e9quez",
+        "de": "Antigua Guatemala",
+        "de:t": "Guatemala | Sacatep\u00e9quez"
+    },
+    {
+        "en": "Asunci\u00f3n Mita",
+        "en:t": "Guatemala | Jutiapa",
+        "a": true,
+        "g": {
+            "lat": 14.3354,
+            "lon": -89.7075
+        },
+        "it": "Asunci\u00f3n Mita",
+        "it:t": "Guatemala | Jutiapa",
+        "es": "Asunci\u00f3n Mita",
+        "es:t": "Guatemala | Jutiapa",
+        "de": "Asunci\u00f3n Mita",
+        "de:t": "Guatemala | Jutiapa"
+    },
+    {
+        "en": "Avenida Petapa",
+        "en:t": "Guatemala",
+        "a": true,
+        "g": {
+            "lat": 14.5813,
+            "lon": -90.546
+        },
+        "it": "Avenida Petapa",
+        "it:t": "Guatemala",
+        "es": "Avenida Petapa",
+        "es:t": "Guatemala",
+        "de": "Avenida Petapa",
+        "de:t": "Guatemala"
+    },
+    {
+        "en": "Barberena",
+        "en:t": "Guatemala | Santa Rosa",
+        "a": true,
+        "g": {
+            "lat": 14.3062,
+            "lon": -90.3631
+        },
+        "it": "Barberena",
+        "it:t": "Guatemala | Santa Rosa",
+        "es": "Barberena",
+        "es:t": "Guatemala | Santa Rosa",
+        "de": "Barberena",
+        "de:t": "Guatemala | Santa Rosa"
+    },
+    {
+        "en": "Cantel",
+        "en:t": "Guatemala | Quetzaltenango",
+        "a": true,
+        "g": {
+            "lat": 14.8088,
+            "lon": -91.4507
+        },
+        "it": "Cantel",
+        "it:t": "Guatemala | Quetzaltenango",
+        "es": "Cantel",
+        "es:t": "Guatemala | Quetzaltenango",
+        "de": "Cantel",
+        "de:t": "Guatemala | Quetzaltenango"
+    },
+    {
+        "en": "Chicacao",
+        "en:t": "Guatemala | Suchitepequez",
+        "a": true,
+        "g": {
+            "lat": 14.5429,
+            "lon": -91.3264
+        },
+        "it": "Chicacao",
+        "it:t": "Guatemala | Suchitep\u00e9quez",
+        "es": "Chicacao",
+        "es:t": "Guatemala | Suchitep\u00e9quez",
+        "de": "Chicacao",
+        "de:t": "Guatemala | Suchitepequez"
+    },
+    {
+        "en": "Chichicastenango",
+        "en:t": "Guatemala | Quich\u00e9",
+        "a": true,
+        "g": {
+            "lat": 14.945,
+            "lon": -91.1089
+        },
+        "it": "Santo Tom\u00e1s Chichicastenango",
+        "it:t": "Guatemala | Quich\u00e9",
+        "es": "Chichicastenango",
+        "es:t": "Guatemala | Quich\u00e9",
+        "de": "Chichicastenango",
+        "de:t": "Guatemala | Quich\u00e9"
+    },
+    {
+        "en": "Chimaltenango",
+        "en:t": "Guatemala",
+        "a": true,
+        "g": {
+            "lat": 14.6632,
+            "lon": -90.8246
+        },
+        "it": "Chimaltenango",
+        "it:t": "Guatemala",
+        "es": "Chimaltenango",
+        "es:t": "Guatemala",
+        "de": "Chimaltenango",
+        "de:t": "Guatemala"
+    },
+    {
+        "en": "Chinautla",
+        "en:t": "Guatemala",
+        "a": true,
+        "g": {
+            "lat": 14.7034,
+            "lon": -90.4986
+        },
+        "it": "Chinautla",
+        "it:t": "Guatemala",
+        "es": "Chinautla",
+        "es:t": "Guatemala",
+        "de": "Chinautla",
+        "de:t": "Guatemala"
+    },
+    {
+        "en": "Chiquimula",
+        "en:t": "Guatemala",
+        "a": true,
+        "g": {
+            "lat": 14.7925,
+            "lon": -89.545
+        },
+        "it": "Chiquimula",
+        "it:t": "Guatemala",
+        "es": "Chiquimula",
+        "es:t": "Guatemala",
+        "de": "Chiquimula",
+        "de:t": "Guatemala"
+    },
+    {
+        "en": "Chisec",
+        "en:t": "Guatemala | Alta Verapaz",
+        "a": true,
+        "g": {
+            "lat": 15.8142,
+            "lon": -90.2878
+        },
+        "it": "Chisec",
+        "it:t": "Guatemala | Alta Verapaz",
+        "es": "Chisec",
+        "es:t": "Guatemala | Alta Verapaz",
+        "de": "Chisec",
+        "de:t": "Guatemala | Alta Verapaz"
+    },
+    {
+        "en": "Ciudad Vieja",
+        "en:t": "Guatemala | Sacatep\u00e9quez",
+        "a": true,
+        "g": {
+            "lat": 14.5264,
+            "lon": -90.7604
+        },
+        "it": "Ciudad Vieja",
+        "it:t": "Guatemala | Sacatep\u00e9quez",
+        "es": "Ciudad Vieja",
+        "es:t": "Guatemala | Sacatep\u00e9quez",
+        "de": "Ciudad Vieja",
+        "de:t": "Guatemala | Sacatep\u00e9quez"
+    },
+    {
+        "en": "Coatepeque",
+        "en:t": "Guatemala | Quetzaltenango",
+        "a": true,
+        "g": {
+            "lat": 14.7038,
+            "lon": -91.866
+        },
+        "it": "Coatepeque",
+        "it:t": "Guatemala | Quetzaltenango",
+        "es": "Coatepeque",
+        "es:t": "Guatemala | Quetzaltenango",
+        "de": "Coatepeque",
+        "de:t": "Guatemala | Quetzaltenango"
+    },
+    {
+        "en": "Cob\u00e1n",
+        "en:t": "Guatemala | Alta Verapaz",
+        "a": true,
+        "g": {
+            "lat": 15.4651,
+            "lon": -90.3843
+        },
+        "it": "Cob\u00e1n",
+        "it:t": "Guatemala | Alta Verapaz",
+        "es": "Cob\u00e1n",
+        "es:t": "Guatemala | Alta Verapaz",
+        "de": "Cob\u00e1n",
+        "de:t": "Guatemala | Alta Verapaz"
+    },
+    {
+        "en": "Colomba",
+        "en:t": "Guatemala | Quetzaltenango",
+        "a": true,
+        "g": {
+            "lat": 14.7077,
+            "lon": -91.732
+        },
+        "it": "Colomba",
+        "it:t": "Guatemala | Quetzaltenango",
+        "es": "Colomba",
+        "es:t": "Guatemala | Quetzaltenango",
+        "de": "Colomba",
+        "de:t": "Guatemala | Quetzaltenango"
+    },
+    {
+        "en": "Comalapa",
+        "en:t": "Guatemala | Chimaltenango",
+        "a": true,
+        "g": {
+            "lat": 14.7416,
+            "lon": -90.889
+        },
+        "it": "San Juan Comalapa",
+        "it:t": "Guatemala | Chimaltenango",
+        "es": "Comalapa",
+        "es:t": "Guatemala | Chimaltenango",
+        "de": "Comalapa",
+        "de:t": "Guatemala | Chimaltenango"
+    },
+    {
+        "en": "Comitancillo",
+        "en:t": "Guatemala | San Marcos",
+        "a": true,
+        "g": {
+            "lat": 15.0914,
+            "lon": -91.7478
+        },
+        "it": "Comitancillo",
+        "it:t": "Guatemala | San Marcos",
+        "es": "Comitancillo",
+        "es:t": "Guatemala | San Marcos",
+        "de": "Comitancillo",
+        "de:t": "Guatemala | San Marcos"
+    },
+    {
+        "en": "Cuilapa",
+        "en:t": "Guatemala | Santa Rosa",
+        "a": true,
+        "g": {
+            "lat": 14.2772,
+            "lon": -90.2972
+        },
+        "it": "Cuilapa",
+        "it:t": "Guatemala | Santa Rosa",
+        "es": "Cuilapa",
+        "es:t": "Guatemala | Santa Rosa",
+        "de": "Cuilapa",
+        "de:t": "Guatemala | Santa Rosa"
+    },
+    {
+        "en": "El Estor",
+        "en:t": "Guatemala | Izabal",
+        "a": true,
+        "g": {
+            "lat": 15.5289,
+            "lon": -89.3369
+        },
+        "it": "El Estor",
+        "it:t": "Guatemala | Izabal",
+        "es": "El Estor",
+        "es:t": "Guatemala | Izabal",
+        "de": "El Estor",
+        "de:t": "Guatemala | Izabal"
+    },
+    {
+        "en": "El Palmar, Quetzaltenango",
+        "en:t": "Guatemala | Nuevo Palmar",
+        "a": true,
+        "g": {
+            "lat": 14.6463,
+            "lon": -91.556
+        },
+        "it": "El Palmar",
+        "it:t": "Guatemala | Nuevo Palmar",
+        "es": "El Nuevo Palmar",
+        "es:t": "Guatemala | Nuevo Palmar",
+        "de": "El Palmar, Quetzaltenango",
+        "de:t": "Guatemala | Nuevo Palmar"
+    },
+    {
+        "en": "El Tejar",
+        "en:t": "Guatemala | Chimaltenango",
+        "a": true,
+        "g": {
+            "lat": 14.64,
+            "lon": -90.7771
+        },
+        "it": "El Tejar",
+        "it:t": "Guatemala | Chimaltenango",
+        "es": "El Tejar",
+        "es:t": "Guatemala | Chimaltenango",
+        "de": "El Tejar",
+        "de:t": "Guatemala | Chimaltenango"
+    },
+    {
+        "en": "Escuintla",
+        "en:t": "Guatemala",
+        "a": true,
+        "g": {
+            "lat": 14.3009,
+            "lon": -90.7882
+        },
+        "it": "Escuintla",
+        "it:t": "Guatemala",
+        "es": "Escuintla",
+        "es:t": "Guatemala",
+        "de": "Escuintla",
+        "de:t": "Guatemala"
+    },
+    {
+        "en": "Esquipulas",
+        "en:t": "Guatemala | Chiquimula",
+        "a": true,
+        "g": {
+            "lat": 14.5596,
+            "lon": -89.3401
+        },
+        "it": "Esquipulas",
+        "it:t": "Guatemala | Chiquimula",
+        "es": "Esquipulas",
+        "es:t": "Guatemala | Chiquimula",
+        "de": "Esquipulas",
+        "de:t": "Guatemala | Chiquimula"
+    },
+    {
+        "en": "Flores",
+        "en:t": "Guatemala | Pet\u00e9n",
+        "a": true,
+        "g": {
+            "lat": 16.9181,
+            "lon": -89.8926
+        },
+        "it": "Flores",
+        "it:t": "Guatemala | Pet\u00e9n",
+        "es": "Flores",
+        "es:t": "Guatemala | Pet\u00e9n",
+        "de": "Flores",
+        "de:t": "Guatemala | El Pet\u00e9n"
+    },
+    {
+        "en": "Fraijanes",
+        "en:t": "Guatemala",
+        "a": true,
+        "g": {
+            "lat": 14.4632,
+            "lon": -90.4432
+        },
+        "it": "Fraijanes",
+        "it:t": "Guatemala",
+        "es": "Fraijanes",
+        "es:t": "Guatemala",
+        "de": "Fraijanes",
+        "de:t": "Guatemala"
+    },
+    {
+        "en": "Gual\u00e1n",
+        "en:t": "Guatemala | Zacapa",
+        "a": true,
+        "g": {
+            "lat": 15.1191,
+            "lon": -89.3559
+        },
+        "it": "Gual\u00e1n",
+        "it:t": "Guatemala | Zacapa",
+        "es": "Gual\u00e1n",
+        "es:t": "Guatemala | Zacapa",
+        "de": "Gual\u00e1n",
+        "de:t": "Guatemala | Zacapa"
+    },
+    {
+        "en": "Huehuetenango",
+        "en:t": "Guatemala | Huehuetenango",
+        "a": true,
+        "g": {
+            "lat": 15.3201,
+            "lon": -91.47
+        },
+        "it": "Huehuetenango",
+        "it:t": "Guatemala | Huehuetenango",
+        "es": "Huehuetenango",
+        "es:t": "Guatemala",
+        "de": "Huehuetenango",
+        "de:t": "Guatemala | Huehuetenango"
+    },
+    {
+        "en": "Jacaltenango",
+        "en:t": "Guatemala",
+        "a": true,
+        "g": {
+            "lat": 15.6654,
+            "lon": -91.7113
+        },
+        "it": "Jacaltenango",
+        "it:t": "Guatemala",
+        "es": "Jacaltenango",
+        "es:t": "Guatemala",
+        "de": "Jacaltenango",
+        "de:t": "Guatemala"
+    },
+    {
+        "en": "Jalapa",
+        "en:t": "Guatemala",
+        "a": true,
+        "g": {
+            "lat": 14.6325,
+            "lon": -89.993
+        },
+        "it": "Jalapa",
+        "it:t": "Guatemala",
+        "es": "Jalapa",
+        "es:t": "Guatemala",
+        "de": "Jalapa",
+        "de:t": "Guatemala"
+    },
+    {
+        "en": "Jocotenango",
+        "en:t": "Guatemala | Sacatep\u00e9quez",
+        "a": true,
+        "g": {
+            "lat": 14.5789,
+            "lon": -90.7414
+        },
+        "it": "Jocotenango",
+        "it:t": "Guatemala | Sacatep\u00e9quez",
+        "es": "Jocotenango",
+        "es:t": "Guatemala | Sacatep\u00e9quez",
+        "de": "Jocotenango",
+        "de:t": "Guatemala | Sacatep\u00e9quez"
+    },
+    {
+        "en": "Jutiapa",
+        "en:t": "Guatemala",
+        "a": true,
+        "g": {
+            "lat": 14.2745,
+            "lon": -89.8786
+        },
+        "it": "Jutiapa",
+        "it:t": "Guatemala",
+        "es": "Jutiapa",
+        "es:t": "Guatemala",
+        "de": "Jutiapa",
+        "de:t": "Guatemala"
+    },
+    {
+        "en": "La Gomera",
+        "en:t": "Guatemala | Escuintla",
+        "a": true,
+        "g": {
+            "lat": 14.0833,
+            "lon": -91.0562
+        },
+        "it": "La Gomera",
+        "it:t": "Guatemala | Escuintla",
+        "es": "La Gomera",
+        "es:t": "Guatemala | Escuintla",
+        "de": "La Gomera",
+        "de:t": "Guatemala | Escuintla"
+    },
+    {
+        "en": "Mazatenango",
+        "en:t": "Guatemala | Suchitepequez",
+        "a": true,
+        "g": {
+            "lat": 14.5316,
+            "lon": -91.5063
+        },
+        "it": "Mazatenango",
+        "it:t": "Guatemala | Suchitep\u00e9quez",
+        "es": "Mazatenango",
+        "es:t": "Guatemala | Suchitep\u00e9quez",
+        "de": "Mazatenango",
+        "de:t": "Guatemala | Suchitep\u00e9quez"
+    },
+    {
+        "en": "Mixco",
+        "en:t": "Guatemala",
+        "a": true,
+        "g": {
+            "lat": 14.6333,
+            "lon": -90.6
+        },
+        "it": "Mixco",
+        "it:t": "Guatemala",
+        "es": "Mixco",
+        "es:t": "Guatemala",
+        "de": "Mixco",
+        "de:t": "Guatemala"
+    },
+    {
+        "en": "Momostenango",
+        "en:t": "Guatemala | Totonicap\u00e1n",
+        "a": true,
+        "g": {
+            "lat": 15.0426,
+            "lon": -91.4121
+        },
+        "it": "Momostenango",
+        "it:t": "Guatemala | Totonicap\u00e1n",
+        "es": "Momostenango",
+        "es:t": "Guatemala | Totonicap\u00e1n",
+        "de": "Momostenango",
+        "de:t": "Guatemala | Totonicap\u00e1n"
+    },
+    {
+        "en": "Morales",
+        "en:t": "Guatemala | Izabal",
+        "a": true,
+        "g": {
+            "lat": 15.4712,
+            "lon": -88.8431
+        },
+        "it": "Morales",
+        "it:t": "Guatemala | Izabal",
+        "es": "Morales",
+        "es:t": "Guatemala | Izabal",
+        "de": "Morales",
+        "de:t": "Guatemala | Izabal"
+    },
+    {
+        "en": "Nahuala",
+        "en:t": "Guatemala | Solol\u00e1",
+        "a": true,
+        "g": {
+            "lat": 14.83,
+            "lon": -91.318
+        },
+        "it": "Nahual\u00e1",
+        "it:t": "Guatemala | Solol\u00e1",
+        "es": "Nahual\u00e1",
+        "es:t": "Guatemala | Solol\u00e1",
+        "de": "Nahuala",
+        "de:t": "Guatemala | Solol\u00e1"
+    },
+    {
+        "en": "Nebaj",
+        "en:t": "Guatemala | Quich\u00e9",
+        "a": true,
+        "g": {
+            "lat": 15.4068,
+            "lon": -91.1473
+        },
+        "it": "Santa Mar\u00eda Nebaj",
+        "it:t": "Guatemala | Quich\u00e9",
+        "es": "Nebaj",
+        "es:t": "Guatemala | Quich\u00e9",
+        "de": "Nebaj",
+        "de:t": "Guatemala | Quich\u00e9"
+    },
+    {
+        "en": "Nuevo San Carlos",
+        "en:t": "Guatemala | Retalhuleu",
+        "a": true,
+        "g": {
+            "lat": 14.5929,
+            "lon": -91.6943
+        },
+        "it": "Nuevo San Carlos",
+        "it:t": "Guatemala | Retalhuleu",
+        "es": "Nuevo San Carlos",
+        "es:t": "Guatemala | Retalhuleu",
+        "de": "Nuevo San Carlos",
+        "de:t": "Guatemala | Retalhuleu"
+    },
+    {
+        "en": "Palencia",
+        "en:t": "Guatemala",
+        "a": true,
+        "g": {
+            "lat": 14.6673,
+            "lon": -90.3584
+        },
+        "it": "Palencia",
+        "it:t": "Guatemala",
+        "es": "Palencia",
+        "es:t": "Guatemala",
+        "de": "Palencia",
+        "de:t": "Guatemala"
+    },
+    {
+        "en": "Palin",
+        "en:t": "Guatemala | Escuintla",
+        "a": true,
+        "g": {
+            "lat": 14.4073,
+            "lon": -90.6915
+        },
+        "it": "Pal\u00edn",
+        "it:t": "Guatemala | Escuintla",
+        "es": "Pal\u00edn",
+        "es:t": "Guatemala | Escuintla",
+        "de": "Palin",
+        "de:t": "Guatemala | Escuintla"
+    },
+    {
+        "en": "Panz\u00f3s",
+        "en:t": "Guatemala | Alta Verapaz",
+        "a": true,
+        "g": {
+            "lat": 15.3977,
+            "lon": -89.6463
+        },
+        "it": "Panz\u00f3s",
+        "it:t": "Guatemala | Alta Verapaz",
+        "es": "Panz\u00f3s",
+        "es:t": "Guatemala | Alta Verapaz",
+        "de": "Panz\u00f3s",
+        "de:t": "Guatemala | Alta Verapaz"
+    },
+    {
+        "en": "Patzic\u00eda",
+        "en:t": "Guatemala | Chimaltenango",
+        "a": true,
+        "g": {
+            "lat": 14.6279,
+            "lon": -90.9211
+        },
+        "it": "Patzic\u00eda",
+        "it:t": "Guatemala | Chimaltenango",
+        "es": "Patzic\u00eda",
+        "es:t": "Guatemala | Chimaltenango",
+        "de": "Patzic\u00eda",
+        "de:t": "Guatemala | Chimaltenango"
+    },
+    {
+        "en": "Patz\u00fan",
+        "en:t": "Guatemala",
+        "a": true,
+        "g": {
+            "lat": 14.6778,
+            "lon": -91.0167
+        },
+        "it": "Patz\u00fan",
+        "it:t": "Guatemala",
+        "es": "Patz\u00fan",
+        "es:t": "Guatemala",
+        "de": "Patz\u00fan",
+        "de:t": "Guatemala"
+    },
+    {
+        "en": "Popt\u00fan",
+        "en:t": "Guatemala | Pet\u00e9n",
+        "a": true,
+        "g": {
+            "lat": 16.3279,
+            "lon": -89.4222
+        },
+        "it": "Popt\u00fan",
+        "it:t": "Guatemala | Pet\u00e9n",
+        "es": "Popt\u00fan",
+        "es:t": "Guatemala | Pet\u00e9n",
+        "de": "Popt\u00fan",
+        "de:t": "Guatemala | El Pet\u00e9n"
+    },
+    {
+        "en": "Port of San Jose",
+        "en:t": "Guatemala | Escuintla",
+        "a": true,
+        "g": {
+            "lat": 13.9304,
+            "lon": -90.8342
+        },
+        "it": "Port of San Jose",
+        "it:t": "Guatemala | Escuintla",
+        "es": "Puerto San Jos\u00e9",
+        "es:t": "Guatemala | Escuintla",
+        "de": "Puerto San Jos\u00e9",
+        "de:t": "Guatemala | Escuintla"
+    },
+    {
+        "en": "Puerto Barrios",
+        "en:t": "Guatemala | Izabal",
+        "a": true,
+        "g": {
+            "lat": 15.6954,
+            "lon": -88.5855
+        },
+        "it": "Puerto Barrios",
+        "it:t": "Guatemala | Izabal",
+        "es": "Puerto Barrios",
+        "es:t": "Guatemala | Izabal",
+        "de": "Puerto Barrios",
+        "de:t": "Guatemala | Izabal"
+    },
+    {
+        "en": "Quetzaltenango",
+        "en:t": "Guatemala | Quetzaltenango",
+        "a": true,
+        "g": {
+            "lat": 14.8446,
+            "lon": -91.5232
+        },
+        "it": "Quetzaltenango",
+        "it:t": "Guatemala | Quetzaltenango",
+        "es": "Quezaltenango",
+        "es:t": "Guatemala | Quetzaltenango",
+        "de": "Quetzaltenango",
+        "de:t": "Guatemala | Quetzaltenango"
+    },
+    {
+        "en": "Retalhuleu",
+        "en:t": "Guatemala",
+        "a": true,
+        "g": {
+            "lat": 14.5245,
+            "lon": -91.6858
+        },
+        "it": "Retalhuleu",
+        "it:t": "Guatemala",
+        "es": "Retalhuleu",
+        "es:t": "Guatemala",
+        "de": "Retalhuleu",
+        "de:t": "Guatemala"
+    },
+    {
+        "en": "Salama",
+        "en:t": "Guatemala | Baja Verapaz",
+        "a": true,
+        "g": {
+            "lat": 15.1052,
+            "lon": -90.316
+        },
+        "it": "Salam\u00e1",
+        "it:t": "Guatemala | Baja Verapaz",
+        "es": "Salam\u00e1",
+        "es:t": "Guatemala | Baja Verapaz",
+        "de": "Salam\u00e1",
+        "de:t": "Guatemala | Baja Verapaz"
+    },
+    {
+        "en": "San Andr\u00e9s Itzapa",
+        "en:t": "Guatemala | Chimaltenango",
+        "a": true,
+        "g": {
+            "lat": 14.6217,
+            "lon": -90.8418
+        },
+        "it": "San Andr\u00e9s Itzapa",
+        "it:t": "Guatemala | Chimaltenango",
+        "es": "San Andr\u00e9s Itzapa",
+        "es:t": "Guatemala | Chimaltenango",
+        "de": "San Andr\u00e9s Itzapa",
+        "de:t": "Guatemala | Chimaltenango"
+    },
+    {
+        "en": "San Benito",
+        "en:t": "Guatemala | Pet\u00e9n",
+        "a": true,
+        "g": {
+            "lat": 16.9181,
+            "lon": -89.9207
+        },
+        "it": "San Benito",
+        "it:t": "Guatemala | Pet\u00e9n",
+        "es": "San Benito",
+        "es:t": "Guatemala | Pet\u00e9n",
+        "de": "San Benito",
+        "de:t": "Guatemala | El Pet\u00e9n"
+    },
+    {
+        "en": "San Cristobal Verapaz",
+        "en:t": "Guatemala | Alta Verapaz",
+        "a": true,
+        "g": {
+            "lat": 15.3682,
+            "lon": -90.4762
+        },
+        "it": "San Crist\u00f3bal Verapaz",
+        "it:t": "Guatemala | Alta Verapaz",
+        "es": "San Crist\u00f3bal Verapaz",
+        "es:t": "Guatemala | Alta Verapaz",
+        "de": "San Crist\u00f3bal Verapaz",
+        "de:t": "Guatemala | Alta Verapaz"
+    },
+    {
+        "en": "San Francisco El Alto",
+        "en:t": "Guatemala | Totonicap\u00e1n",
+        "a": true,
+        "g": {
+            "lat": 14.9431,
+            "lon": -91.4411
+        },
+        "it": "San Francisco el Alto",
+        "it:t": "Guatemala | Totonicap\u00e1n",
+        "es": "San Francisco El Alto",
+        "es:t": "Guatemala | Totonicap\u00e1n",
+        "de": "San Francisco El Alto",
+        "de:t": "Guatemala | Totonicap\u00e1n"
+    },
+    {
+        "en": "San Jos\u00e9 Pinula",
+        "en:t": "Guatemala",
+        "a": true,
+        "g": {
+            "lat": 14.5448,
+            "lon": -90.4102
+        },
+        "it": "San Jos\u00e9 Pinula",
+        "it:t": "Guatemala",
+        "es": "San Jos\u00e9 Pinula",
+        "es:t": "Guatemala",
+        "de": "San Jos\u00e9 Pinula",
+        "de:t": "Guatemala"
+    },
+    {
+        "en": "San Juan Ostuncalco",
+        "en:t": "Guatemala | Quetzaltenango",
+        "a": true,
+        "g": {
+            "lat": 14.8704,
+            "lon": -91.6214
+        },
+        "it": "Ostuncalco",
+        "it:t": "Guatemala | Quetzaltenango",
+        "es": "San Juan Ostuncalco",
+        "es:t": "Guatemala | Quetzaltenango",
+        "de": "San Juan Ostuncalco",
+        "de:t": "Guatemala | Quetzaltenango"
+    },
+    {
+        "en": "San Juan Sacatep\u00e9quez",
+        "en:t": "Guatemala",
+        "a": true,
+        "g": {
+            "lat": 14.7191,
+            "lon": -90.6465
+        },
+        "it": "San Juan Sacatep\u00e9quez",
+        "it:t": "Guatemala",
+        "es": "San Juan Sacatep\u00e9quez",
+        "es:t": "Guatemala",
+        "de": "San Juan Sacatep\u00e9quez",
+        "de:t": "Guatemala"
+    },
+    {
+        "en": "San Lucas Sacatep\u00e9quez",
+        "en:t": "Guatemala | Sacatep\u00e9quez",
+        "a": true,
+        "g": {
+            "lat": 14.6083,
+            "lon": -90.6607
+        },
+        "it": "San Lucas Sacatep\u00e9quez",
+        "it:t": "Guatemala | Sacatep\u00e9quez",
+        "es": "San Lucas Sacatep\u00e9quez",
+        "es:t": "Guatemala | Sacatep\u00e9quez",
+        "de": "San Lucas Sacatep\u00e9quez",
+        "de:t": "Guatemala | Sacatep\u00e9quez"
+    },
+    {
+        "en": "San Marcos",
+        "en:t": "Guatemala",
+        "a": true,
+        "g": {
+            "lat": 14.961,
+            "lon": -91.8075
+        },
+        "it": "San Marcos",
+        "it:t": "Guatemala",
+        "es": "San Marcos",
+        "es:t": "Guatemala",
+        "de": "San Marcos",
+        "de:t": "Guatemala"
+    },
+    {
+        "en": "San Pablo Jocopilas",
+        "en:t": "Guatemala | Suchitepequez",
+        "a": true,
+        "g": {
+            "lat": 14.5946,
+            "lon": -91.4374
+        },
+        "it": "San Pablo Jocopilas",
+        "it:t": "Guatemala | Suchitep\u00e9quez",
+        "es": "San Pablo Jocopilas",
+        "es:t": "Guatemala | Suchitep\u00e9quez",
+        "de": "San Pablo Jocopilas",
+        "de:t": "Guatemala | Suchitepequez"
+    },
+    {
+        "en": "San Pedro Ayampuc",
+        "en:t": "Guatemala",
+        "a": true,
+        "g": {
+            "lat": 14.7764,
+            "lon": -90.4538
+        },
+        "it": "San Pedro Ayampuc",
+        "it:t": "Guatemala",
+        "es": "San Pedro Ayampuc",
+        "es:t": "Guatemala",
+        "de": "San Pedro Ayampuc",
+        "de:t": "Guatemala"
+    },
+    {
+        "en": "San Pedro Sacatep\u00e9quez",
+        "en:t": "Guatemala | San Marcos",
+        "a": true,
+        "g": {
+            "lat": 14.9699,
+            "lon": -91.7807
+        },
+        "it": "San Pedro Sacatep\u00e9quez",
+        "it:t": "Guatemala | San Marcos",
+        "es": "San Pedro Sacatepequez",
+        "es:t": "Guatemala | San Marcos",
+        "de": "San Pedro Sacatep\u00e9quez",
+        "de:t": "Guatemala | San Marcos"
+    },
+    {
+        "en": "Sanarate",
+        "en:t": "Guatemala | El Progreso",
+        "a": true,
+        "g": {
+            "lat": 14.8016,
+            "lon": -90.194
+        },
+        "it": "Sanarate",
+        "it:t": "Guatemala | El Progreso",
+        "es": "Sanarate",
+        "es:t": "Guatemala | El Progreso",
+        "de": "Sanarate",
+        "de:t": "Guatemala | El Progreso"
+    },
+    {
+        "en": "Santa Catarina Pinula",
+        "en:t": "Guatemala",
+        "a": true,
+        "g": {
+            "lat": 14.5534,
+            "lon": -90.4785
+        },
+        "it": "Santa Catarina Pinula",
+        "it:t": "Guatemala",
+        "es": "Santa Catarina Pinula",
+        "es:t": "Guatemala",
+        "de": "Santa Catarina Pinula",
+        "de:t": "Guatemala"
+    },
+    {
+        "en": "Santa Cruz del Quich\u00e9",
+        "en:t": "Guatemala | Quich\u00e9",
+        "a": true,
+        "g": {
+            "lat": 15.0236,
+            "lon": -91.1497
+        },
+        "it": "Santa Cruz del Quich\u00e9",
+        "it:t": "Guatemala | Quich\u00e9",
+        "es": "Santa Cruz del Quich\u00e9",
+        "es:t": "Guatemala | Quich\u00e9",
+        "de": "Santa Cruz del Quich\u00e9",
+        "de:t": "Guatemala | Quich\u00e9"
+    },
+    {
+        "en": "Santa Luc\u00eda Cotzumalguapa",
+        "en:t": "Guatemala | Escuintla",
+        "a": true,
+        "g": {
+            "lat": 14.3363,
+            "lon": -91.0251
+        },
+        "it": "Santa Luc\u00eda Cotzumalguapa",
+        "it:t": "Guatemala | Escuintla",
+        "es": "Santa Luc\u00eda Cotzumalguapa",
+        "es:t": "Guatemala | Escuintla",
+        "de": "Santa Luc\u00eda Cotzumalguapa",
+        "de:t": "Guatemala | Escuintla"
+    },
+    {
+        "en": "Santa Mar\u00eda de Jes\u00fas",
+        "en:t": "Guatemala | Sacatep\u00e9quez",
+        "a": true,
+        "g": {
+            "lat": 14.4917,
+            "lon": -90.7082
+        },
+        "it": "Santa Mar\u00eda de Jes\u00fas",
+        "it:t": "Guatemala | Sacatep\u00e9quez",
+        "es": "Santa Maria de Jes\u00fas",
+        "es:t": "Guatemala | Sacatep\u00e9quez",
+        "de": "Santa Mar\u00eda de Jes\u00fas",
+        "de:t": "Guatemala | Sacatep\u00e9quez"
+    },
+    {
+        "en": "Santiago Atitl\u00e1n",
+        "en:t": "Guatemala | Solol\u00e1",
+        "a": true,
+        "g": {
+            "lat": 14.6424,
+            "lon": -91.2278
+        },
+        "it": "Santiago Atitl\u00e1n",
+        "it:t": "Guatemala | Solol\u00e1",
+        "es": "Santiago Atitl\u00e1n",
+        "es:t": "Guatemala | Solol\u00e1",
+        "de": "Santiago Atitl\u00e1n",
+        "de:t": "Guatemala | Solol\u00e1"
+    },
+    {
+        "en": "Santiago Sacatep\u00e9quez",
+        "en:t": "Guatemala | Sacatep\u00e9quez",
+        "a": true,
+        "g": {
+            "lat": 14.6374,
+            "lon": -90.6797
+        },
+        "it": "Santiago Sacatep\u00e9quez",
+        "it:t": "Guatemala | Sacatep\u00e9quez",
+        "es": "Santiago Sacatep\u00e9quez",
+        "es:t": "Guatemala | Sacatep\u00e9quez",
+        "de": "Santiago Sacatep\u00e9quez",
+        "de:t": "Guatemala | Sacatep\u00e9quez"
+    },
+    {
+        "en": "Solol\u00e1",
+        "en:t": "Guatemala | Solol\u00e1",
+        "a": true,
+        "g": {
+            "lat": 14.7666,
+            "lon": -91.1785
+        },
+        "it": "Solol\u00e1",
+        "it:t": "Guatemala | Solol\u00e1",
+        "es": "Solol\u00e1",
+        "es:t": "Guatemala",
+        "de": "Solol\u00e1",
+        "de:t": "Guatemala"
+    },
+    {
+        "en": "Sumpango",
+        "en:t": "Guatemala | Sacatep\u00e9quez",
+        "a": true,
+        "g": {
+            "lat": 14.6489,
+            "lon": -90.7366
+        },
+        "it": "Sumpango",
+        "it:t": "Guatemala | Sacatep\u00e9quez",
+        "es": "Sumpango",
+        "es:t": "Guatemala | Sacatep\u00e9quez",
+        "de": "Sumpango",
+        "de:t": "Guatemala | Sacatep\u00e9quez"
+    },
+    {
+        "en": "Tecp\u00e1n Guatemala",
+        "en:t": "Guatemala | Chimaltenango",
+        "a": true,
+        "g": {
+            "lat": 14.7558,
+            "lon": -90.9868
+        },
+        "it": "Tecp\u00e1n Guatemala",
+        "it:t": "Guatemala | Chimaltenango",
+        "es": "Tecp\u00e1n",
+        "es:t": "Guatemala | Chimaltenango",
+        "de": "Tecp\u00e1n Guatemala",
+        "de:t": "Guatemala | Chimaltenango"
+    },
+    {
+        "en": "Tiquisate",
+        "en:t": "Guatemala | Escuintla",
+        "a": true,
+        "g": {
+            "lat": 14.2851,
+            "lon": -91.3638
+        },
+        "it": "Tiquisate",
+        "it:t": "Guatemala | Escuintla",
+        "es": "Tiquisate",
+        "es:t": "Guatemala | Escuintla",
+        "de": "Tiquisate",
+        "de:t": "Guatemala | Escuintla"
+    },
+    {
+        "en": "Totonicap\u00e1n",
+        "en:t": "Guatemala",
+        "a": true,
+        "g": {
+            "lat": 14.9173,
+            "lon": -91.3614
+        },
+        "it": "Totonicap\u00e1n",
+        "it:t": "Guatemala",
+        "es": "Totonicap\u00e1n",
+        "es:t": "Guatemala",
+        "de": "Totonicap\u00e1n",
+        "de:t": "Guatemala"
+    },
+    {
+        "en": "Villa Canales",
+        "en:t": "Guatemala",
+        "a": true,
+        "g": {
+            "lat": 14.4776,
+            "lon": -90.5116
+        },
+        "it": "Villa Canales",
+        "it:t": "Guatemala",
+        "es": "Villa Canales",
+        "es:t": "Guatemala",
+        "de": "Villa Canales",
+        "de:t": "Guatemala"
+    },
+    {
+        "en": "Villa Nueva",
+        "en:t": "Guatemala",
+        "a": true,
+        "g": {
+            "lat": 14.5305,
+            "lon": -90.5958
+        },
+        "it": "Villa Nueva",
+        "it:t": "Guatemala",
+        "es": "Villa Nueva",
+        "es:t": "Guatemala",
+        "de": "Villa Nueva",
+        "de:t": "Guatemala"
+    },
+    {
+        "en": "Zacapa",
+        "en:t": "Guatemala | Zacapa",
+        "a": true,
+        "g": {
+            "lat": 14.9676,
+            "lon": -89.5356
+        },
+        "it": "Zacapa",
+        "it:t": "Guatemala | Zacapa",
+        "es": "Zacapa",
+        "es:t": "Guatemala",
+        "de": "Zacapa",
+        "de:t": "Guatemala | Zacapa"
+    }
+]

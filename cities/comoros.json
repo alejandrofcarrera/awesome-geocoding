@@ -1,0 +1,32 @@
+[
+    {
+        "en": "Moroni",
+        "en:t": "Comoros",
+        "a": true,
+        "g": {
+            "lat": -11.7172,
+            "lon": 43.2473
+        },
+        "it": "Moroni",
+        "it:t": "Comore",
+        "es": "Moroni",
+        "es:t": "Comoras",
+        "de": "Moroni",
+        "de:t": "Komoren"
+    },
+    {
+        "en": "Mutsamudu",
+        "en:t": "Comoros",
+        "a": true,
+        "g": {
+            "lat": -12.1696,
+            "lon": 44.4005
+        },
+        "it": "Mutsamudu",
+        "it:t": "Comore",
+        "es": "Mutsamudu",
+        "es:t": "Comoras",
+        "de": "Mutsamudu",
+        "de:t": "Komoren"
+    }
+]

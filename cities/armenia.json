@@ -1,0 +1,257 @@
+[
+    {
+        "en": "Abovyan",
+        "en:t": "Armenia | Kotayk Province",
+        "a": true,
+        "g": {
+            "lat": 40.2715,
+            "lon": 44.6334
+        },
+        "it": "Abovyan",
+        "it:t": "Armenia | Provincia di Kotayk'",
+        "es": "Abovyan",
+        "es:t": "Armenia | Kotayk'",
+        "de": "Abowjan",
+        "de:t": "Armenien | Kotajk"
+    },
+    {
+        "en": "Ararat",
+        "en:t": "Armenia | Ararat Province",
+        "a": true,
+        "g": {
+            "lat": 39.8321,
+            "lon": 44.7049
+        },
+        "it": "Ararat",
+        "it:t": "Armenia | Provincia di Ararat",
+        "es": "Ararat",
+        "es:t": "Armenia",
+        "de": "Ararat",
+        "de:t": "Armenien"
+    },
+    {
+        "en": "Armavir",
+        "en:t": "Armenia | Armavir Province",
+        "a": true,
+        "g": {
+            "lat": 40.1556,
+            "lon": 44.0388
+        },
+        "it": "Armavir",
+        "it:t": "Armenia | Provincia di Armavir",
+        "es": "Armavir",
+        "es:t": "Armenia",
+        "de": "Armawir",
+        "de:t": "Armenien"
+    },
+    {
+        "en": "Artashat",
+        "en:t": "Armenia | Ararat Province",
+        "a": true,
+        "g": {
+            "lat": 39.9535,
+            "lon": 44.552
+        },
+        "it": "Arta\u0161at",
+        "it:t": "Armenia | Provincia di Ararat",
+        "es": "Artashat",
+        "es:t": "Armenia | Ararat",
+        "de": "Artaschat",
+        "de:t": "Armenien | Ararat"
+    },
+    {
+        "en": "Ashtarak",
+        "en:t": "Armenia | Aragatsotn Province",
+        "a": true,
+        "g": {
+            "lat": 40.2929,
+            "lon": 44.3505
+        },
+        "it": "Ashtarak",
+        "it:t": "Armenia | Aragatsotn",
+        "es": "Ashtarak",
+        "es:t": "Armenia | Aragatsotn",
+        "de": "Aschtarak",
+        "de:t": "Armenien | Aragazotn"
+    },
+    {
+        "en": "Gavar",
+        "en:t": "Armenia | Gegharkunik Province",
+        "a": true,
+        "g": {
+            "lat": 40.3513,
+            "lon": 45.1273
+        },
+        "it": "Gavar",
+        "it:t": "Armenia | Gegharkunik",
+        "es": "Gavar",
+        "es:t": "Armenia | Geghark'unik'",
+        "de": "Gawar",
+        "de:t": "Armenien | Gegharkunik"
+    },
+    {
+        "en": "Goris",
+        "en:t": "Armenia | Syunik Province",
+        "a": true,
+        "g": {
+            "lat": 39.509,
+            "lon": 46.3439
+        },
+        "it": "Goris",
+        "it:t": "Armenia | Syunik",
+        "es": "Goris",
+        "es:t": "Armenia | Syunik'",
+        "de": "Goris",
+        "de:t": "Armenien | Sjunik"
+    },
+    {
+        "en": "Gyumri",
+        "en:t": "Armenia | Shirak Province",
+        "a": true,
+        "g": {
+            "lat": 40.7929,
+            "lon": 43.8465
+        },
+        "it": "Guayaquil",
+        "it:t": "Armenia | Provincia di Shirak",
+        "es": "Gyumri",
+        "es:t": "Armenia | Shirak",
+        "de": "Gjumri",
+        "de:t": "Armenien | Schirak"
+    },
+    {
+        "en": "Hatsavan",
+        "en:t": "Armenia | Syunik Province",
+        "a": true,
+        "g": {
+            "lat": 39.4624,
+            "lon": 45.9676
+        },
+        "it": "Hatsavan",
+        "it:t": "Armenia | Syunik",
+        "es": "Hatsavan",
+        "es:t": "Armenia | Syunik'",
+        "de": "Hatsavan",
+        "de:t": "Armenien | Syunik Province"
+    },
+    {
+        "en": "Hrazdan",
+        "en:t": "Armenia | Kotayk Province",
+        "a": true,
+        "g": {
+            "lat": 40.5354,
+            "lon": 44.7696
+        },
+        "it": "Hrazdan",
+        "it:t": "Armenia | Provincia di Kotayk'",
+        "es": "Hrazdan",
+        "es:t": "Armenia | Kotayk'",
+        "de": "Hrasdan",
+        "de:t": "Armenien | Kotajk"
+    },
+    {
+        "en": "Kapan",
+        "en:t": "Armenia | Syunik Province",
+        "a": true,
+        "g": {
+            "lat": 39.2077,
+            "lon": 46.4068
+        },
+        "it": "Kapan",
+        "it:t": "Armenia | Syunik",
+        "es": "Kapan",
+        "es:t": "Armenia | Syunik'",
+        "de": "Kapan",
+        "de:t": "Armenien | Sjunik"
+    },
+    {
+        "en": "Masis",
+        "en:t": "Armenia | Ararat Province",
+        "a": true,
+        "g": {
+            "lat": 40.0635,
+            "lon": 44.4411
+        },
+        "it": "Masis",
+        "it:t": "Armenia | Provincia di Ararat",
+        "es": "Masis",
+        "es:t": "Armenia | Ararat",
+        "de": "Masis",
+        "de:t": "Armenien | Ararat"
+    },
+    {
+        "en": "Sevan",
+        "en:t": "Armenia | Gegharkunik Province",
+        "a": true,
+        "g": {
+            "lat": 40.5485,
+            "lon": 44.9618
+        },
+        "it": "Sevan",
+        "it:t": "Armenia | Gegharkunik",
+        "es": "Sevan",
+        "es:t": "Armenia | Geghark'unik'",
+        "de": "Sewan",
+        "de:t": "Armenien | Gegharkunik"
+    },
+    {
+        "en": "Spitak",
+        "en:t": "Armenia | Lori Province",
+        "a": true,
+        "g": {
+            "lat": 40.8318,
+            "lon": 44.2798
+        },
+        "it": "Spitak",
+        "it:t": "Armenia | Lori",
+        "es": "Spitak",
+        "es:t": "Armenia | Lorri",
+        "de": "Spitak",
+        "de:t": "Armenien | Lori"
+    },
+    {
+        "en": "Vagharshapat",
+        "en:t": "Armenia | Armavir Province",
+        "a": true,
+        "g": {
+            "lat": 40.1633,
+            "lon": 44.2936
+        },
+        "it": "Echmiadzin",
+        "it:t": "Armenia | Provincia di Armavir",
+        "es": "Echmiadzin",
+        "es:t": "Armenia | Armavir",
+        "de": "Etschmiadsin",
+        "de:t": "Armenien | Armawir"
+    },
+    {
+        "en": "Vanadzor",
+        "en:t": "Armenia | Lori Province",
+        "a": true,
+        "g": {
+            "lat": 40.8074,
+            "lon": 44.497
+        },
+        "it": "Vanadzor",
+        "it:t": "Armenia | Lori",
+        "es": "Vanadzor",
+        "es:t": "Armenia | Lorri",
+        "de": "Wanadsor",
+        "de:t": "Armenien | Lori"
+    },
+    {
+        "en": "Yerevan",
+        "en:t": "Armenia",
+        "a": true,
+        "g": {
+            "lat": 40.1872,
+            "lon": 44.5152
+        },
+        "it": "Erevan",
+        "it:t": "Armenia | Governatorato di Erivan",
+        "es": "Erev\u00e1n",
+        "es:t": "Armenia | Gubernia de Erev\u00e1n",
+        "de": "Jerewan",
+        "de:t": "Armenien | Eriwan"
+    }
+]

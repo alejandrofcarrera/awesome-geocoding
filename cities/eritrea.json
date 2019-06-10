@@ -1,0 +1,92 @@
+[
+    {
+        "en": "Asmara",
+        "en:t": "Eritrea | Gala Nethi",
+        "a": true,
+        "g": {
+            "lat": 15.3229,
+            "lon": 38.9251
+        },
+        "it": "Asmara",
+        "it:t": "Eritrea | Gala Nethi",
+        "es": "Asmara",
+        "es:t": "Eritrea | Gala Nethi",
+        "de": "Asmara",
+        "de:t": "Eritrea | Gala Nethi"
+    },
+    {
+        "en": "Barentu",
+        "en:t": "Eritrea",
+        "a": true,
+        "g": {
+            "lat": 15.1075,
+            "lon": 37.5907
+        },
+        "it": "Barent\u00f9",
+        "it:t": "Eritrea",
+        "es": "Barentu",
+        "es:t": "Eritrea",
+        "de": "Barentu",
+        "de:t": "Eritrea"
+    },
+    {
+        "en": "Keren",
+        "en:t": "Eritrea",
+        "a": true,
+        "g": {
+            "lat": 15.78,
+            "lon": 38.4534
+        },
+        "it": "Cheren",
+        "it:t": "Eritrea",
+        "es": "Keren",
+        "es:t": "Eritrea",
+        "de": "Keren",
+        "de:t": "Eritrea"
+    },
+    {
+        "en": "Massawa",
+        "en:t": "Eritrea",
+        "a": true,
+        "g": {
+            "lat": 15.6079,
+            "lon": 39.4554
+        },
+        "it": "Massaua",
+        "it:t": "Eritrea",
+        "es": "Massawa",
+        "es:t": "Eritrea",
+        "de": "Massaua",
+        "de:t": "Eritrea"
+    },
+    {
+        "en": "Mendefera",
+        "en:t": "Eritrea",
+        "a": true,
+        "g": {
+            "lat": 14.8726,
+            "lon": 38.8101
+        },
+        "it": "Mendefera",
+        "it:t": "Eritrea",
+        "es": "Mendefera",
+        "es:t": "Eritrea",
+        "de": "Mendefera",
+        "de:t": "Eritrea"
+    },
+    {
+        "en": "\u0100ssab",
+        "en:t": "Eritrea | Southern Dankalia",
+        "a": true,
+        "g": {
+            "lat": 13.0139,
+            "lon": 42.7369
+        },
+        "it": "Assab",
+        "it:t": "Eritrea | Dancalia Meridionale",
+        "es": "Asab",
+        "es:t": "Eritrea | Southern Dankalia",
+        "de": "Assab",
+        "de:t": "Eritrea | Southern Dankalia"
+    }
+]

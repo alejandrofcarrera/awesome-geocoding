@@ -1,0 +1,1157 @@
+[
+    {
+        "en": "Abomsa",
+        "en:t": "Ethiopia | Arsi",
+        "a": true,
+        "g": {
+            "lat": 8.5897,
+            "lon": 39.8598
+        },
+        "it": "Abomsa",
+        "it:t": "Etiopia | Arsi",
+        "es": "Abomsa",
+        "es:t": "Etiop\u00eda | Arsi",
+        "de": "Abomsa",
+        "de:t": "\u00c4thiopien | Arsi"
+    },
+    {
+        "en": "Adama",
+        "en:t": "Ethiopia | East Shewa",
+        "a": true,
+        "g": {
+            "lat": 8.5263,
+            "lon": 39.2583
+        },
+        "it": "Adama",
+        "it:t": "Etiopia | East Shewa",
+        "es": "Adama",
+        "es:t": "Etiop\u00eda | East Shewa",
+        "de": "Adama",
+        "de:t": "\u00c4thiopien | East Shewa"
+    },
+    {
+        "en": "Addis Ababa",
+        "en:t": "Ethiopia",
+        "a": true,
+        "g": {
+            "lat": 8.9806,
+            "lon": 38.7578
+        },
+        "it": "Addis Abeba",
+        "it:t": "Etiopia",
+        "es": "Ad\u00eds Abeba",
+        "es:t": "Etiop\u00eda",
+        "de": "Addis Abeba",
+        "de:t": "\u00c4thiopien"
+    },
+    {
+        "en": "Addis Zemen",
+        "en:t": "Ethiopia | South Gonder",
+        "a": true,
+        "g": {
+            "lat": 12.1236,
+            "lon": 37.7796
+        },
+        "it": "Addis Zemen",
+        "it:t": "Etiopia | South Gonder",
+        "es": "Addis Zemen",
+        "es:t": "Etiop\u00eda | South Gonder",
+        "de": "Addis Zemen",
+        "de:t": "\u00c4thiopien | South Gonder"
+    },
+    {
+        "en": "Adet",
+        "en:t": "Ethiopia | West Gojam",
+        "a": true,
+        "g": {
+            "lat": 11.2643,
+            "lon": 37.4921
+        },
+        "it": "Adet",
+        "it:t": "Etiopia | West Gojam",
+        "es": "Adet",
+        "es:t": "Etiop\u00eda | West Gojam",
+        "de": "Adet",
+        "de:t": "\u00c4thiopien | West Gojam"
+    },
+    {
+        "en": "Adigrat",
+        "en:t": "Ethiopia | East Tigray",
+        "a": true,
+        "g": {
+            "lat": 14.2783,
+            "lon": 39.4606
+        },
+        "it": "Adigrat",
+        "it:t": "Etiopia | East Tigray",
+        "es": "Adigrat",
+        "es:t": "Etiop\u00eda | East Tigray",
+        "de": "Adigrat",
+        "de:t": "\u00c4thiopien | East Tigray"
+    },
+    {
+        "en": "Agaro",
+        "en:t": "Ethiopia | Jimma",
+        "a": true,
+        "g": {
+            "lat": 7.857,
+            "lon": 36.5824
+        },
+        "it": "Agaro",
+        "it:t": "Etiopia | Jimma",
+        "es": "Agaro",
+        "es:t": "Etiop\u00eda | Jimma",
+        "de": "Agaro",
+        "de:t": "\u00c4thiopien | Jimma"
+    },
+    {
+        "en": "Aksum",
+        "en:t": "Ethiopia | Central Tigray",
+        "a": true,
+        "g": {
+            "lat": 14.134,
+            "lon": 38.7473
+        },
+        "it": "Axum",
+        "it:t": "Etiopia | Central Tigray",
+        "es": "Aksum",
+        "es:t": "Etiop\u00eda | Central Tigray",
+        "de": "Aksum",
+        "de:t": "\u00c4thiopien | Central Tigray"
+    },
+    {
+        "en": "Alaba Kulito",
+        "en:t": "Ethiopia | Alaba",
+        "a": true,
+        "g": {
+            "lat": 7.3138,
+            "lon": 38.0896
+        },
+        "it": "Alaba Kulito",
+        "it:t": "Etiopia | Alaba",
+        "es": "Alaba Kulito",
+        "es:t": "Etiop\u00eda | Alaba",
+        "de": "Alaba Kulito",
+        "de:t": "\u00c4thiopien | Alaba"
+    },
+    {
+        "en": "Ambo",
+        "en:t": "Ethiopia | West Shewa",
+        "a": true,
+        "g": {
+            "lat": 8.9581,
+            "lon": 37.9321
+        },
+        "it": "Ambo",
+        "it:t": "Etiopia | West Shewa",
+        "es": "Ambo",
+        "es:t": "Etiop\u00eda | West Shewa",
+        "de": "Ambo",
+        "de:t": "\u00c4thiopien | West Shewa"
+    },
+    {
+        "en": "Arba Minch",
+        "en:t": "Ethiopia | Gamo Gofa",
+        "a": true,
+        "g": {
+            "lat": 6.0206,
+            "lon": 37.5641
+        },
+        "it": "Arba Minch",
+        "it:t": "Etiopia | Gamo Gofa",
+        "es": "Arba Minch",
+        "es:t": "Etiop\u00eda | Gamu-Gofa",
+        "de": "Arba Minch",
+        "de:t": "\u00c4thiopien | Gemu-Gofa"
+    },
+    {
+        "en": "Areka",
+        "en:t": "Ethiopia | Welayita",
+        "a": true,
+        "g": {
+            "lat": 7.0697,
+            "lon": 37.6972
+        },
+        "it": "Areka",
+        "it:t": "Etiopia | Welayita",
+        "es": "Areka",
+        "es:t": "Etiop\u00eda | Welayita",
+        "de": "Areka",
+        "de:t": "\u00c4thiopien | Welayita"
+    },
+    {
+        "en": "Asaita",
+        "en:t": "Ethiopia | Afar Zone 1",
+        "a": true,
+        "g": {
+            "lat": 11.5506,
+            "lon": 41.4362
+        },
+        "it": "Asaita",
+        "it:t": "Etiopia | Afar Zone 1",
+        "es": "Asayita",
+        "es:t": "Etiop\u00eda | Afar Zone 1",
+        "de": "Asaita",
+        "de:t": "\u00c4thiopien | Afar Zone 1"
+    },
+    {
+        "en": "Asasa",
+        "en:t": "Ethiopia | Arsi",
+        "a": true,
+        "g": {
+            "lat": 7.107,
+            "lon": 39.2012
+        },
+        "it": "Asasa",
+        "it:t": "Etiopia | Arsi",
+        "es": "Asasa",
+        "es:t": "Etiop\u00eda | Arsi",
+        "de": "Asasa",
+        "de:t": "\u00c4thiopien | Arsi"
+    },
+    {
+        "en": "Asebe Teferi",
+        "en:t": "Ethiopia | West Harerghe",
+        "a": true,
+        "g": {
+            "lat": 9.0795,
+            "lon": 40.8652
+        },
+        "it": "Asba Littoria",
+        "it:t": "Etiopia | West Harerghe",
+        "es": "Asebe Teferi",
+        "es:t": "Etiop\u00eda | West Harerghe",
+        "de": "Asebe Teferi",
+        "de:t": "\u00c4thiopien | West Harerghe"
+    },
+    {
+        "en": "Asosa",
+        "en:t": "Ethiopia",
+        "a": true,
+        "g": {
+            "lat": 10.062,
+            "lon": 34.5473
+        },
+        "it": "Asosa",
+        "it:t": "Etiopia",
+        "es": "Asosa",
+        "es:t": "Etiop\u00eda",
+        "de": "Asosa",
+        "de:t": "\u00c4thiopien"
+    },
+    {
+        "en": "Awassa",
+        "en:t": "Ethiopia | Sidama",
+        "a": true,
+        "g": {
+            "lat": 7.0504,
+            "lon": 38.4955
+        },
+        "it": "Auasa",
+        "it:t": "Etiopia | Sidama",
+        "es": "Awasa",
+        "es:t": "Etiop\u00eda | Sidama",
+        "de": "Awassa",
+        "de:t": "\u00c4thiopien | Sidama"
+    },
+    {
+        "en": "Bahir Dar",
+        "en:t": "Ethiopia | West Gojam",
+        "a": true,
+        "g": {
+            "lat": 11.5742,
+            "lon": 37.3614
+        },
+        "it": "Bahar Dar",
+        "it:t": "Etiopia | West Gojam",
+        "es": "Bahir Dar",
+        "es:t": "Etiop\u00eda | West Gojam",
+        "de": "Bahir Dar",
+        "de:t": "\u00c4thiopien | West Gojam"
+    },
+    {
+        "en": "Bati",
+        "en:t": "Ethiopia | Oromiya",
+        "a": true,
+        "g": {
+            "lat": 11.1951,
+            "lon": 40.0172
+        },
+        "it": "Bati\u00e8",
+        "it:t": "Etiopia | Oromiya",
+        "es": "Bati",
+        "es:t": "Etiop\u00eda | Oromiya",
+        "de": "Bati",
+        "de:t": "\u00c4thiopien | Oromiya"
+    },
+    {
+        "en": "Bedele",
+        "en:t": "Ethiopia | Illubabor",
+        "a": true,
+        "g": {
+            "lat": 8.4541,
+            "lon": 36.3552
+        },
+        "it": "Bedele",
+        "it:t": "Etiopia | Illubabor",
+        "es": "Bedele",
+        "es:t": "Etiop\u00eda | Illubabor",
+        "de": "Bedele",
+        "de:t": "\u00c4thiopien | Illubabor"
+    },
+    {
+        "en": "Bedesa",
+        "en:t": "Ethiopia | West Harerghe",
+        "a": true,
+        "g": {
+            "lat": 8.904,
+            "lon": 40.7817
+        },
+        "it": "Bedesa",
+        "it:t": "Etiopia | West Harerghe",
+        "es": "Bedesa",
+        "es:t": "Etiop\u00eda | West Harerghe",
+        "de": "Bedesa",
+        "de:t": "\u00c4thiopien | West Harerghe"
+    },
+    {
+        "en": "Bichena",
+        "en:t": "Ethiopia | East Gojjam",
+        "a": true,
+        "g": {
+            "lat": 10.4478,
+            "lon": 38.2032
+        },
+        "it": "Bichena",
+        "it:t": "Etiopia | East Gojjam",
+        "es": "Bichena",
+        "es:t": "Etiop\u00eda | East Gojjam",
+        "de": "Bichena",
+        "de:t": "\u00c4thiopien | East Gojjam"
+    },
+    {
+        "en": "Bishoftu",
+        "en:t": "Ethiopia | East Shewa",
+        "a": true,
+        "g": {
+            "lat": 8.7346,
+            "lon": 39.0085
+        },
+        "it": "Debre Zeyit",
+        "it:t": "Etiopia | East Shewa",
+        "es": "Bishoftu",
+        "es:t": "Etiop\u00eda | East Shewa",
+        "de": "Debre Zeyit",
+        "de:t": "\u00c4thiopien | East Shewa"
+    },
+    {
+        "en": "Boditi",
+        "en:t": "Ethiopia | Welayita",
+        "a": true,
+        "g": {
+            "lat": 6.9492,
+            "lon": 37.8565
+        },
+        "it": "Boditi",
+        "it:t": "Etiopia | Welayita",
+        "es": "Boditi",
+        "es:t": "Etiop\u00eda | Welayita",
+        "de": "Boditi",
+        "de:t": "\u00c4thiopien | Welayita"
+    },
+    {
+        "en": "Bonga",
+        "en:t": "Ethiopia | Keffy",
+        "a": true,
+        "g": {
+            "lat": 7.2672,
+            "lon": 36.2468
+        },
+        "it": "Bonga",
+        "it:t": "Etiopia | Keffy",
+        "es": "Bonga",
+        "es:t": "Etiop\u00eda | Keffy",
+        "de": "Bonga",
+        "de:t": "\u00c4thiopien | Keffy"
+    },
+    {
+        "en": "Bure",
+        "en:t": "Ethiopia | West Gojam",
+        "a": true,
+        "g": {
+            "lat": 10.7061,
+            "lon": 37.0669
+        },
+        "it": "Bure",
+        "it:t": "Etiopia | West Gojam",
+        "es": "Bure",
+        "es:t": "Etiop\u00eda | West Gojam",
+        "de": "Bure",
+        "de:t": "\u00c4thiopien | West Gojam"
+    },
+    {
+        "en": "Butajira",
+        "en:t": "Ethiopia | Gurage",
+        "a": true,
+        "g": {
+            "lat": 8.1168,
+            "lon": 38.3745
+        },
+        "it": "Butajira",
+        "it:t": "Etiopia | Gurage",
+        "es": "Butajira",
+        "es:t": "Etiop\u00eda | Gurage",
+        "de": "Butajira",
+        "de:t": "\u00c4thiopien | Gurage"
+    },
+    {
+        "en": "Debark",
+        "en:t": "Ethiopia | North Gondar",
+        "a": true,
+        "g": {
+            "lat": 13.1509,
+            "lon": 37.899
+        },
+        "it": "Debarq",
+        "it:t": "Etiopia | North Gondar",
+        "es": "Debark",
+        "es:t": "Etiop\u00eda | North Gondar",
+        "de": "Debark",
+        "de:t": "\u00c4thiopien | North Gondar"
+    },
+    {
+        "en": "Debre Birhan",
+        "en:t": "Ethiopia | North Shewa",
+        "a": true,
+        "g": {
+            "lat": 9.6767,
+            "lon": 39.533
+        },
+        "it": "Debre Berhan",
+        "it:t": "Etiopia | Semien Scioa",
+        "es": "Debre Berhan",
+        "es:t": "Etiop\u00eda | North Shewa",
+        "de": "Debre Berhan",
+        "de:t": "\u00c4thiopien | North Shewa"
+    },
+    {
+        "en": "Debre Markos",
+        "en:t": "Ethiopia | East Gojjam",
+        "a": true,
+        "g": {
+            "lat": 10.3296,
+            "lon": 37.7344
+        },
+        "it": "Debra Marcos",
+        "it:t": "Etiopia | East Gojjam",
+        "es": "Debre Markos",
+        "es:t": "Etiop\u00eda | East Gojjam",
+        "de": "Debre Markos",
+        "de:t": "\u00c4thiopien | East Gojjam"
+    },
+    {
+        "en": "Debre Tabor",
+        "en:t": "Ethiopia | South Gonder",
+        "a": true,
+        "g": {
+            "lat": 11.8567,
+            "lon": 38.0155
+        },
+        "it": "Debre Tabor",
+        "it:t": "Etiopia | South Gonder",
+        "es": "Debre Tabor",
+        "es:t": "Etiop\u00eda | South Gonder",
+        "de": "Debre Tabor",
+        "de:t": "\u00c4thiopien | South Gonder"
+    },
+    {
+        "en": "Dembi Dolo",
+        "en:t": "Ethiopia | West Wellega",
+        "a": true,
+        "g": {
+            "lat": 8.5333,
+            "lon": 34.8017
+        },
+        "it": "Dembidolo",
+        "it:t": "Etiopia | West Wellega",
+        "es": "Dembi Dolo",
+        "es:t": "Etiop\u00eda | West Wellega",
+        "de": "Dembi Dolo",
+        "de:t": "\u00c4thiopien | West Wellega"
+    },
+    {
+        "en": "Dessie",
+        "en:t": "Ethiopia | South Wello",
+        "a": true,
+        "g": {
+            "lat": 11.127,
+            "lon": 39.6363
+        },
+        "it": "Dessi\u00e8",
+        "it:t": "Etiopia | South Wello",
+        "es": "Dese",
+        "es:t": "Etiop\u00eda | South Wello",
+        "de": "Dese",
+        "de:t": "\u00c4thiopien | South Wello"
+    },
+    {
+        "en": "Dilla",
+        "en:t": "Ethiopia | Gedeo",
+        "a": true,
+        "g": {
+            "lat": 6.4126,
+            "lon": 38.3008
+        },
+        "it": "Dila",
+        "it:t": "Etiopia | Gedeo",
+        "es": "Dila",
+        "es:t": "Etiop\u00eda | Gedeo",
+        "de": "Dilla",
+        "de:t": "\u00c4thiopien | Gedeo"
+    },
+    {
+        "en": "Dire Dawa",
+        "en:t": "Ethiopia | East Hararghe",
+        "a": true,
+        "g": {
+            "lat": 9.6009,
+            "lon": 41.8501
+        },
+        "it": "Dire Daua",
+        "it:t": "Etiopia | East Hararghe",
+        "es": "Dire Dawa",
+        "es:t": "Etiop\u00eda | East Hararghe",
+        "de": "Dire Dawa",
+        "de:t": "\u00c4thiopien | East Hararghe"
+    },
+    {
+        "en": "Dodola",
+        "en:t": "Ethiopia | Bale",
+        "a": true,
+        "g": {
+            "lat": 6.9792,
+            "lon": 39.1804
+        },
+        "it": "Dodola",
+        "it:t": "Etiopia | Bale",
+        "es": "Dodola",
+        "es:t": "Etiop\u00eda | Bale",
+        "de": "Dodola",
+        "de:t": "\u00c4thiopien | Bale"
+    },
+    {
+        "en": "Dubti",
+        "en:t": "Ethiopia | Afar Zone 1",
+        "a": true,
+        "g": {
+            "lat": 11.7368,
+            "lon": 41.0822
+        },
+        "it": "Dubti",
+        "it:t": "Etiopia | Afar Zone 1",
+        "es": "Dubti",
+        "es:t": "Etiop\u00eda | Afar Zone 1",
+        "de": "Dubti",
+        "de:t": "\u00c4thiopien | Afar Zone 1"
+    },
+    {
+        "en": "Felege Neway",
+        "en:t": "Ethiopia | Sawla",
+        "a": true,
+        "g": {
+            "lat": 6.3008,
+            "lon": 36.8785
+        },
+        "it": "Felege Neway",
+        "it:t": "Etiopia | Sawla",
+        "es": "Felege Neway",
+        "es:t": "Etiop\u00eda | Sawla",
+        "de": "Felege Neway",
+        "de:t": "\u00c4thiopien | Sawla"
+    },
+    {
+        "en": "Fiche",
+        "en:t": "Ethiopia | North Shewa",
+        "a": true,
+        "g": {
+            "lat": 9.7853,
+            "lon": 38.7316
+        },
+        "it": "Fiche",
+        "it:t": "Etiopia | North Shewa",
+        "es": "Fiche",
+        "es:t": "Etiop\u00eda | North Shewa",
+        "de": "Fiche",
+        "de:t": "\u00c4thiopien | North Shewa"
+    },
+    {
+        "en": "Finote Selam",
+        "en:t": "Ethiopia | West Gojam",
+        "a": true,
+        "g": {
+            "lat": 10.6794,
+            "lon": 37.2598
+        },
+        "it": "Finote Selam",
+        "it:t": "Etiopia | West Gojam",
+        "es": "Finote Selam",
+        "es:t": "Etiop\u00eda | West Gojam",
+        "de": "Finote Selam",
+        "de:t": "\u00c4thiopien | West Gojam"
+    },
+    {
+        "en": "Gambela",
+        "en:t": "Ethiopia | Gambela Zone 1",
+        "a": true,
+        "g": {
+            "lat": 8.2472,
+            "lon": 34.5916
+        },
+        "it": "Gambela",
+        "it:t": "Etiopia | Gambela Zone 1",
+        "es": "Gambela",
+        "es:t": "Etiop\u00eda | Gambela Zone 1",
+        "de": "Gambela",
+        "de:t": "\u00c4thiopien | Gambela Zone 1"
+    },
+    {
+        "en": "Gebre Guracha",
+        "en:t": "Ethiopia | North Shewa",
+        "a": true,
+        "g": {
+            "lat": 9.7986,
+            "lon": 38.4271
+        },
+        "it": "Gebre Guracha",
+        "it:t": "Etiopia | North Shewa",
+        "es": "Gebre Guracha",
+        "es:t": "Etiop\u00eda | North Shewa",
+        "de": "Gebre Guracha",
+        "de:t": "\u00c4thiopien | North Shewa"
+    },
+    {
+        "en": "Gelemso",
+        "en:t": "Ethiopia | West Harerghe",
+        "a": true,
+        "g": {
+            "lat": 8.8174,
+            "lon": 40.5203
+        },
+        "it": "Gelemso",
+        "it:t": "Etiopia | West Harerghe",
+        "es": "Gelemso",
+        "es:t": "Etiop\u00eda | West Harerghe",
+        "de": "Gelemso",
+        "de:t": "\u00c4thiopien | West Harerghe"
+    },
+    {
+        "en": "Gimbi",
+        "en:t": "Ethiopia | West Wellega",
+        "a": true,
+        "g": {
+            "lat": 9.186,
+            "lon": 35.8334
+        },
+        "it": "Gimbi",
+        "it:t": "Etiopia | West Wellega",
+        "es": "Gimbi",
+        "es:t": "Etiop\u00eda | West Wellega",
+        "de": "Gimbi",
+        "de:t": "\u00c4thiopien | West Wellega"
+    },
+    {
+        "en": "Ginir",
+        "en:t": "Ethiopia | Bale",
+        "a": true,
+        "g": {
+            "lat": 7.1387,
+            "lon": 40.7116
+        },
+        "it": "Ginir",
+        "it:t": "Etiopia | Bale",
+        "es": "Ginir",
+        "es:t": "Etiop\u00eda | Bale",
+        "de": "Ginir",
+        "de:t": "\u00c4thiopien | Bale"
+    },
+    {
+        "en": "Goba",
+        "en:t": "Ethiopia | Bale",
+        "a": true,
+        "g": {
+            "lat": 7.0116,
+            "lon": 39.9761
+        },
+        "it": "Goba",
+        "it:t": "Etiopia | Bale",
+        "es": "Goba",
+        "es:t": "Etiop\u00eda | Zona Bale",
+        "de": "Goba",
+        "de:t": "\u00c4thiopien | Bale"
+    },
+    {
+        "en": "Gondar",
+        "en:t": "Ethiopia | North Gondar",
+        "a": true,
+        "g": {
+            "lat": 12.603,
+            "lon": 37.4521
+        },
+        "it": "Gondar",
+        "it:t": "Etiopia | North Gondar",
+        "es": "Gondar",
+        "es:t": "Etiop\u00eda | Semien Gondar",
+        "de": "Gonder",
+        "de:t": "\u00c4thiopien | North Gondar"
+    },
+    {
+        "en": "Hagere Maryam",
+        "en:t": "Ethiopia | Borena",
+        "a": true,
+        "g": {
+            "lat": 5.6373,
+            "lon": 38.2375
+        },
+        "it": "Hagere Maryam",
+        "it:t": "Etiopia | Borena",
+        "es": "Hagere Maryam",
+        "es:t": "Etiop\u00eda | Borena",
+        "de": "Hagere Maryam",
+        "de:t": "\u00c4thiopien | Borena"
+    },
+    {
+        "en": "Harar",
+        "en:t": "Ethiopia | East Hararghe",
+        "a": true,
+        "g": {
+            "lat": 9.3126,
+            "lon": 42.1227
+        },
+        "it": "Harar",
+        "it:t": "Etiopia | East Hararghe",
+        "es": "Harar Jugol",
+        "es:t": "Etiop\u00eda | East Hararghe",
+        "de": "Harar",
+        "de:t": "\u00c4thiopien | East Hararghe"
+    },
+    {
+        "en": "Holeta",
+        "en:t": "Ethiopia | West Shewa",
+        "a": true,
+        "g": {
+            "lat": 9.0633,
+            "lon": 38.4902
+        },
+        "it": "Holeta",
+        "it:t": "Etiopia | West Shewa",
+        "es": "Holeta",
+        "es:t": "Etiop\u00eda | West Shewa",
+        "de": "Holeta",
+        "de:t": "\u00c4thiopien | West Shewa"
+    },
+    {
+        "en": "Jijiga",
+        "en:t": "Ethiopia",
+        "a": true,
+        "g": {
+            "lat": 9.3568,
+            "lon": 42.7955
+        },
+        "it": "Giggiga",
+        "it:t": "Etiopia | Jijiga",
+        "es": "Jijiga",
+        "es:t": "Etiop\u00eda",
+        "de": "Jijiga",
+        "de:t": "\u00c4thiopien | Jijiga"
+    },
+    {
+        "en": "Jimma",
+        "en:t": "Ethiopia",
+        "a": true,
+        "g": {
+            "lat": 7.6739,
+            "lon": 36.8358
+        },
+        "it": "Gimma",
+        "it:t": "Etiopia | Jimma",
+        "es": "Jima",
+        "es:t": "Etiop\u00eda | Jimma",
+        "de": "Jimma",
+        "de:t": "\u00c4thiopien"
+    },
+    {
+        "en": "Jinka",
+        "en:t": "Ethiopia | Omo",
+        "a": true,
+        "g": {
+            "lat": 5.7806,
+            "lon": 36.5716
+        },
+        "it": "Jinka",
+        "it:t": "Etiopia | Omo",
+        "es": "Jinka",
+        "es:t": "Etiop\u00eda | Omo",
+        "de": "Jinka",
+        "de:t": "\u00c4thiopien | Omo"
+    },
+    {
+        "en": "Kemise",
+        "en:t": "Ethiopia | Oromiya",
+        "a": true,
+        "g": {
+            "lat": 10.7243,
+            "lon": 39.8733
+        },
+        "it": "Kemise",
+        "it:t": "Etiopia | Oromiya",
+        "es": "Kemise",
+        "es:t": "Etiop\u00eda | Oromiya",
+        "de": "Kemise",
+        "de:t": "\u00c4thiopien | Oromiya"
+    },
+    {
+        "en": "Kibre Mengist",
+        "en:t": "Ethiopia | Borena",
+        "a": true,
+        "g": {
+            "lat": 5.8838,
+            "lon": 38.9825
+        },
+        "it": "Kibre Mengist",
+        "it:t": "Etiopia | Borena",
+        "es": "Kibre Mengist",
+        "es:t": "Etiop\u00eda | Borena",
+        "de": "Kibre Mengist",
+        "de:t": "\u00c4thiopien | Borena"
+    },
+    {
+        "en": "Kombolcha",
+        "en:t": "Ethiopia | South Wello",
+        "a": true,
+        "g": {
+            "lat": 11.0849,
+            "lon": 39.7292
+        },
+        "it": "Combolci\u00e0",
+        "it:t": "Etiopia | South Wello",
+        "es": "Kombolcha",
+        "es:t": "Etiop\u00eda | South Wello",
+        "de": "Kombolcha",
+        "de:t": "\u00c4thiopien | South Wello"
+    },
+    {
+        "en": "Korem",
+        "en:t": "Ethiopia | South Tigray",
+        "a": true,
+        "g": {
+            "lat": 12.5073,
+            "lon": 39.5201
+        },
+        "it": "Korem",
+        "it:t": "Etiopia | South Tigray",
+        "es": "Korem",
+        "es:t": "Etiop\u00eda | South Tigray",
+        "de": "Korem",
+        "de:t": "\u00c4thiopien | South Tigray"
+    },
+    {
+        "en": "Maychew",
+        "en:t": "Ethiopia | South Tigray",
+        "a": true,
+        "g": {
+            "lat": 12.7867,
+            "lon": 39.5433
+        },
+        "it": "Mai Ceu",
+        "it:t": "Etiopia | South Tigray",
+        "es": "Mai Ceu",
+        "es:t": "Etiop\u00eda | South Tigray",
+        "de": "Maychew",
+        "de:t": "\u00c4thiopien | South Tigray"
+    },
+    {
+        "en": "Mek'ele",
+        "en:t": "Ethiopia | South Tigray",
+        "a": true,
+        "g": {
+            "lat": 13.4936,
+            "lon": 39.4657
+        },
+        "it": "Macall\u00e8",
+        "it:t": "Etiopia | South Tigray",
+        "es": "Mekele",
+        "es:t": "Etiop\u00eda | South Tigray",
+        "de": "Mek'ele",
+        "de:t": "\u00c4thiopien | South Tigray"
+    },
+    {
+        "en": "Mendi",
+        "en:t": "Ethiopia | West Wellega",
+        "a": true,
+        "g": {
+            "lat": 9.797,
+            "lon": 35.0994
+        },
+        "it": "Mendi",
+        "it:t": "Etiopia | West Wellega",
+        "es": "Mendi",
+        "es:t": "Etiop\u00eda | West Wellega",
+        "de": "Mendi",
+        "de:t": "\u00c4thiopien | West Wellega"
+    },
+    {
+        "en": "Metehara",
+        "en:t": "Ethiopia | East Shewa",
+        "a": true,
+        "g": {
+            "lat": 8.8995,
+            "lon": 39.917
+        },
+        "it": "Metehara",
+        "it:t": "Etiopia | East Shewa",
+        "es": "Metehara",
+        "es:t": "Etiop\u00eda | East Shewa",
+        "de": "Metehara",
+        "de:t": "\u00c4thiopien | East Shewa"
+    },
+    {
+        "en": "Metu",
+        "en:t": "Ethiopia | Illubabor",
+        "a": true,
+        "g": {
+            "lat": 8.2961,
+            "lon": 35.5822
+        },
+        "it": "Metu",
+        "it:t": "Etiopia | Illubabor",
+        "es": "Metu",
+        "es:t": "Etiop\u00eda | Illubabor",
+        "de": "Metu",
+        "de:t": "\u00c4thiopien | Illubabor"
+    },
+    {
+        "en": "Mojo",
+        "en:t": "Ethiopia | East Shewa",
+        "a": true,
+        "g": {
+            "lat": 8.587,
+            "lon": 39.1231
+        },
+        "it": "Moggio",
+        "it:t": "Etiopia | East Shewa",
+        "es": "Mojo",
+        "es:t": "Etiop\u00eda | East Shewa",
+        "de": "Mojo",
+        "de:t": "\u00c4thiopien | East Shewa"
+    },
+    {
+        "en": "Nedjo",
+        "en:t": "Ethiopia | West Wellega",
+        "a": true,
+        "g": {
+            "lat": 9.5023,
+            "lon": 35.5028
+        },
+        "it": "Nedjo",
+        "it:t": "Etiopia | West Wellega",
+        "es": "Nedjo",
+        "es:t": "Etiop\u00eda | West Wellega",
+        "de": "Nedjo",
+        "de:t": "\u00c4thiopien | West Wellega"
+    },
+    {
+        "en": "Sebeta",
+        "en:t": "Ethiopia | West Shewa",
+        "a": true,
+        "g": {
+            "lat": 8.9112,
+            "lon": 38.6268
+        },
+        "it": "Sebeta",
+        "it:t": "Etiopia | West Shewa",
+        "es": "Sebeta",
+        "es:t": "Etiop\u00eda | West Shewa",
+        "de": "Sebeta",
+        "de:t": "\u00c4thiopien | West Shewa"
+    },
+    {
+        "en": "Shakiso",
+        "en:t": "Ethiopia | Borena",
+        "a": true,
+        "g": {
+            "lat": 5.7645,
+            "lon": 38.912
+        },
+        "it": "Shakiso",
+        "it:t": "Etiopia | Borena",
+        "es": "Shakiso",
+        "es:t": "Etiop\u00eda | Borena",
+        "de": "Shakiso",
+        "de:t": "\u00c4thiopien | Borena"
+    },
+    {
+        "en": "Shambu",
+        "en:t": "Ethiopia | East Wellega",
+        "a": true,
+        "g": {
+            "lat": 9.5646,
+            "lon": 37.099
+        },
+        "it": "Shambu",
+        "it:t": "Etiopia | East Wellega",
+        "es": "Shambu",
+        "es:t": "Etiop\u00eda | East Wellega",
+        "de": "Shambu",
+        "de:t": "\u00c4thiopien | East Wellega"
+    },
+    {
+        "en": "Shashamane",
+        "en:t": "Ethiopia | East Shewa",
+        "a": true,
+        "g": {
+            "lat": 7.1973,
+            "lon": 38.6005
+        },
+        "it": "Sciasciamanna",
+        "it:t": "Etiopia | East Shewa",
+        "es": "Shashamane",
+        "es:t": "Etiop\u00eda | East Shewa",
+        "de": "Shashemene",
+        "de:t": "\u00c4thiopien | East Shewa"
+    },
+    {
+        "en": "Shewa Robit",
+        "en:t": "Ethiopia | North Shewa",
+        "a": true,
+        "g": {
+            "lat": 9.9932,
+            "lon": 39.8965
+        },
+        "it": "Shewa Robit",
+        "it:t": "Etiopia | North Shewa",
+        "es": "Shewa Robit",
+        "es:t": "Etiop\u00eda | North Shewa",
+        "de": "Kobo Robit",
+        "de:t": "\u00c4thiopien | North Wello"
+    },
+    {
+        "en": "Shire",
+        "en:t": "Ethiopia | West Tigray",
+        "a": true,
+        "g": {
+            "lat": 14.1057,
+            "lon": 38.2849
+        },
+        "it": "Scir\u00e8",
+        "it:t": "Etiopia | West Tigray",
+        "es": "Shire",
+        "es:t": "Etiop\u00eda | West Tigray",
+        "de": "Shire",
+        "de:t": "\u00c4thiopien | West Tigray"
+    },
+    {
+        "en": "Teppi",
+        "en:t": "Ethiopia | Sheka",
+        "a": true,
+        "g": {
+            "lat": 7.1967,
+            "lon": 35.4289
+        },
+        "it": "Tippi",
+        "it:t": "Etiopia | Sheka",
+        "es": "Teppi",
+        "es:t": "Etiop\u00eda | Sheka",
+        "de": "Tepi",
+        "de:t": "\u00c4thiopien | Sheka"
+    },
+    {
+        "en": "Waliso",
+        "en:t": "Ethiopia | West Shewa",
+        "a": true,
+        "g": {
+            "lat": 8.5383,
+            "lon": 37.9732
+        },
+        "it": "Wolisso",
+        "it:t": "Etiopia | West Shewa",
+        "es": "Waliso",
+        "es:t": "Etiop\u00eda | West Shewa",
+        "de": "Waliso",
+        "de:t": "\u00c4thiopien | West Shewa"
+    },
+    {
+        "en": "Wereta",
+        "en:t": "Ethiopia | South Gonder",
+        "a": true,
+        "g": {
+            "lat": 11.9227,
+            "lon": 37.6998
+        },
+        "it": "Wereta",
+        "it:t": "Etiopia | South Gonder",
+        "es": "Wereta",
+        "es:t": "Etiop\u00eda | South Gonder",
+        "de": "Wereta",
+        "de:t": "\u00c4thiopien | South Gonder"
+    },
+    {
+        "en": "Wonji",
+        "en:t": "Ethiopia | East Shewa",
+        "a": true,
+        "g": {
+            "lat": 8.4538,
+            "lon": 39.2804
+        },
+        "it": "Wonji",
+        "it:t": "Etiopia | East Shewa",
+        "es": "Wonji",
+        "es:t": "Etiop\u00eda | East Shewa",
+        "de": "Wonji",
+        "de:t": "\u00c4thiopien | East Shewa"
+    },
+    {
+        "en": "Yebelo",
+        "en:t": "Ethiopia | Borena",
+        "a": true,
+        "g": {
+            "lat": 4.895,
+            "lon": 38.1002
+        },
+        "it": "Javello",
+        "it:t": "Etiopia | Borena",
+        "es": "Yebelo",
+        "es:t": "Etiop\u00eda | Borena",
+        "de": "Yebelo",
+        "de:t": "\u00c4thiopien | Borena"
+    },
+    {
+        "en": "Yirga Alem",
+        "en:t": "Ethiopia | Sidama",
+        "a": true,
+        "g": {
+            "lat": 6.7468,
+            "lon": 38.414
+        },
+        "it": "Irgalem",
+        "it:t": "Etiopia | Sidama",
+        "es": "Irgalem",
+        "es:t": "Etiop\u00eda | Sidama",
+        "de": "Irgalem",
+        "de:t": "\u00c4thiopien | Sidama"
+    },
+    {
+        "en": "Ziway",
+        "en:t": "Ethiopia | East Shewa",
+        "a": true,
+        "g": {
+            "lat": 7.9277,
+            "lon": 38.7211
+        },
+        "it": "Zuai",
+        "it:t": "Etiopia | East Shewa",
+        "es": "Ziway",
+        "es:t": "Etiop\u00eda | East Shewa",
+        "de": "Ziway",
+        "de:t": "\u00c4thiopien | East Shewa"
+    }
+]

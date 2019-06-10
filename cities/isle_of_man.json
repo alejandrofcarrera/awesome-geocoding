@@ -1,0 +1,17 @@
+[
+    {
+        "en": "Douglas",
+        "en:t": "Isle of Man",
+        "a": true,
+        "g": {
+            "lat": 54.1523,
+            "lon": -4.4861
+        },
+        "it": "Douglas",
+        "it:t": "Isola di Man",
+        "es": "Douglas",
+        "es:t": "Isla de Man",
+        "de": "Douglas",
+        "de:t": "Isle of Man"
+    }
+]
