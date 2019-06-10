@@ -1,0 +1,32 @@
+[
+    {
+        "en": "Charlotte Amalie",
+        "en:t": "U.S. Virgin Islands",
+        "a": true,
+        "g": {
+            "lat": 18.3419,
+            "lon": -64.9307
+        },
+        "it": "Charlotte Amalie",
+        "it:t": "Isole Vergini Americane",
+        "es": "Carlota Amalia",
+        "es:t": "Islas V\u00edrgenes de los Estados Unidos",
+        "de": "Charlotte Amalie",
+        "de:t": "Amerikanische Jungferninseln"
+    },
+    {
+        "en": "Saint Croix",
+        "en:t": "U.S. Virgin Islands | St. Croix",
+        "a": true,
+        "g": {
+            "lat": 17.7246,
+            "lon": -64.8348
+        },
+        "it": "Santa Cruz",
+        "it:t": "Isole Vergini Americane | St. Croix",
+        "es": "Santa Cruz",
+        "es:t": "Islas V\u00edrgenes de los Estados Unidos | St. Croix",
+        "de": "Santa Cruz",
+        "de:t": "Amerikanische Jungferninseln | St. Croix"
+    }
+]

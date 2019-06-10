@@ -1,0 +1,17 @@
+[
+    {
+        "en": "Wallis",
+        "en:t": "Wallis and Futuna",
+        "a": true,
+        "g": {
+            "lat": -13.2959,
+            "lon": -176.2057
+        },
+        "it": "Mata-Utu",
+        "it:t": "Wallis e Futuna",
+        "es": "Mata-Utu",
+        "es:t": "Wallis y Futuna",
+        "de": "Mata-Utu",
+        "de:t": "Wallis und Futuna"
+    }
+]

@@ -1,0 +1,422 @@
+[
+    {
+        "en": "Chililabombwe",
+        "en:t": "Zambia",
+        "a": true,
+        "g": {
+            "lat": -12.3723,
+            "lon": 27.837
+        },
+        "it": "Chililabombwe",
+        "it:t": "Zambia",
+        "es": "Chililabombwe",
+        "es:t": "Zambia",
+        "de": "Chililabombwe",
+        "de:t": "Sambia"
+    },
+    {
+        "en": "Chingola",
+        "en:t": "Zambia",
+        "a": true,
+        "g": {
+            "lat": -12.542,
+            "lon": 27.8546
+        },
+        "it": "Chingola",
+        "it:t": "Zambia",
+        "es": "Chingola",
+        "es:t": "Zambia",
+        "de": "Chingola",
+        "de:t": "Sambia"
+    },
+    {
+        "en": "Chipata",
+        "en:t": "Zambia",
+        "a": true,
+        "g": {
+            "lat": -13.6445,
+            "lon": 32.6447
+        },
+        "it": "Chipata",
+        "it:t": "Zambia",
+        "es": "Chipata",
+        "es:t": "Zambia",
+        "de": "Chipata",
+        "de:t": "Sambia"
+    },
+    {
+        "en": "Choma",
+        "en:t": "Zambia",
+        "a": true,
+        "g": {
+            "lat": -16.8054,
+            "lon": 26.997
+        },
+        "it": "Choma",
+        "it:t": "Zambia",
+        "es": "Choma",
+        "es:t": "Zambia",
+        "de": "Choma",
+        "de:t": "Sambia"
+    },
+    {
+        "en": "Kabwe",
+        "en:t": "Zambia",
+        "a": true,
+        "g": {
+            "lat": -14.4285,
+            "lon": 28.4514
+        },
+        "it": "Kabwe",
+        "it:t": "Zambia",
+        "es": "Kabwe",
+        "es:t": "Zambia",
+        "de": "Kabwe",
+        "de:t": "Sambia"
+    },
+    {
+        "en": "Kalulushi",
+        "en:t": "Zambia | Kitwe",
+        "a": true,
+        "g": {
+            "lat": -12.8426,
+            "lon": 28.0947
+        },
+        "it": "Kalulushi",
+        "it:t": "Zambia | Kitwe",
+        "es": "Kalulushi",
+        "es:t": "Zambia | Kitwe",
+        "de": "Kalulushi",
+        "de:t": "Sambia | Kitwe"
+    },
+    {
+        "en": "Kansanshi",
+        "en:t": "Zambia | Solwezi",
+        "a": true,
+        "g": {
+            "lat": -12.0992,
+            "lon": 26.4312
+        },
+        "it": "Kansanshi",
+        "it:t": "Zambia | Solwezi",
+        "es": "Kansanshi",
+        "es:t": "Zambia | Solwezi",
+        "de": "Kansanshi",
+        "de:t": "Sambia | Solwezi"
+    },
+    {
+        "en": "Kapiri Mposhi",
+        "en:t": "Zambia",
+        "a": true,
+        "g": {
+            "lat": -13.9779,
+            "lon": 28.6848
+        },
+        "it": "Kapiri Mposhi",
+        "it:t": "Zambia",
+        "es": "Kapiri Mposhi",
+        "es:t": "Zambia",
+        "de": "Kapiri Mposhi",
+        "de:t": "Sambia"
+    },
+    {
+        "en": "Kasama",
+        "en:t": "Zambia",
+        "a": true,
+        "g": {
+            "lat": -10.2291,
+            "lon": 31.1939
+        },
+        "it": "Kasama",
+        "it:t": "Zambia",
+        "es": "Kasama",
+        "es:t": "Zambia",
+        "de": "Kasama",
+        "de:t": "Sambia"
+    },
+    {
+        "en": "Kawambwa",
+        "en:t": "Zambia",
+        "a": true,
+        "g": {
+            "lat": -9.7937,
+            "lon": 29.0809
+        },
+        "it": "Kawambwa",
+        "it:t": "Zambia",
+        "es": "Kawambwa",
+        "es:t": "Zambia",
+        "de": "Kawambwa",
+        "de:t": "Sambia"
+    },
+    {
+        "en": "Kitwe",
+        "en:t": "Zambia",
+        "a": true,
+        "g": {
+            "lat": -12.8232,
+            "lon": 28.2176
+        },
+        "it": "Kitwe",
+        "it:t": "Zambia",
+        "es": "Kitwe",
+        "es:t": "Zambia",
+        "de": "Kitwe",
+        "de:t": "Sambia"
+    },
+    {
+        "en": "Livingstone",
+        "en:t": "Zambia",
+        "a": true,
+        "g": {
+            "lat": -17.852,
+            "lon": 25.8285
+        },
+        "it": "Livingstone",
+        "it:t": "Zambia",
+        "es": "Livingstone",
+        "es:t": "Zambia",
+        "de": "Livingstone",
+        "de:t": "Sambia"
+    },
+    {
+        "en": "Luanshya",
+        "en:t": "Zambia",
+        "a": true,
+        "g": {
+            "lat": -13.1435,
+            "lon": 28.4163
+        },
+        "it": "Luanshya",
+        "it:t": "Zambia",
+        "es": "Luanshya",
+        "es:t": "Zambia",
+        "de": "Luanshya",
+        "de:t": "Sambia"
+    },
+    {
+        "en": "Lusaka",
+        "en:t": "Zambia",
+        "a": true,
+        "g": {
+            "lat": -15.3875,
+            "lon": 28.3228
+        },
+        "it": "Lusaka",
+        "it:t": "Zambia",
+        "es": "Lusaka",
+        "es:t": "Zambia",
+        "de": "Lusaka",
+        "de:t": "Sambia"
+    },
+    {
+        "en": "Mansa",
+        "en:t": "Zambia",
+        "a": true,
+        "g": {
+            "lat": -11.1892,
+            "lon": 28.8888
+        },
+        "it": "Mansa",
+        "it:t": "Zambia",
+        "es": "Mansa",
+        "es:t": "Zambia",
+        "de": "Mansa",
+        "de:t": "Sambia"
+    },
+    {
+        "en": "Mazabuka",
+        "en:t": "Zambia",
+        "a": true,
+        "g": {
+            "lat": -15.8613,
+            "lon": 27.7491
+        },
+        "it": "Mazabuka",
+        "it:t": "Zambia",
+        "es": "Mazabuka",
+        "es:t": "Zambia",
+        "de": "Mazabuka",
+        "de:t": "Sambia"
+    },
+    {
+        "en": "Mbala",
+        "en:t": "Zambia",
+        "a": true,
+        "g": {
+            "lat": -8.8536,
+            "lon": 31.3656
+        },
+        "it": "Mbala",
+        "it:t": "Zambia",
+        "es": "Mbala",
+        "es:t": "Zambia",
+        "de": "Mbala",
+        "de:t": "Sambia"
+    },
+    {
+        "en": "Mongu",
+        "en:t": "Zambia",
+        "a": true,
+        "g": {
+            "lat": -15.2736,
+            "lon": 23.1501
+        },
+        "it": "Mongu",
+        "it:t": "Zambia",
+        "es": "Mongu",
+        "es:t": "Zambia",
+        "de": "Mongu",
+        "de:t": "Sambia"
+    },
+    {
+        "en": "Monze",
+        "en:t": "Zambia",
+        "a": true,
+        "g": {
+            "lat": -16.2803,
+            "lon": 27.4733
+        },
+        "it": "Monze",
+        "it:t": "Zambia",
+        "es": "Monze",
+        "es:t": "Zambia",
+        "de": "Monze",
+        "de:t": "Sambia"
+    },
+    {
+        "en": "Mpika",
+        "en:t": "Zambia",
+        "a": true,
+        "g": {
+            "lat": -11.828,
+            "lon": 31.4513
+        },
+        "it": "Mpika",
+        "it:t": "Zambia",
+        "es": "Mpika",
+        "es:t": "Zambia",
+        "de": "Mpika",
+        "de:t": "Sambia"
+    },
+    {
+        "en": "Mufulira",
+        "en:t": "Zambia",
+        "a": true,
+        "g": {
+            "lat": -12.5503,
+            "lon": 28.241
+        },
+        "it": "Mufulira",
+        "it:t": "Zambia",
+        "es": "Mufulira",
+        "es:t": "Zambia",
+        "de": "Mufulira",
+        "de:t": "Sambia"
+    },
+    {
+        "en": "Mumbwa",
+        "en:t": "Zambia",
+        "a": true,
+        "g": {
+            "lat": -14.9848,
+            "lon": 27.0618
+        },
+        "it": "Mumbwa",
+        "it:t": "Zambia",
+        "es": "Mumbwa",
+        "es:t": "Zambia",
+        "de": "Mumbwa",
+        "de:t": "Sambia"
+    },
+    {
+        "en": "Nchelenge",
+        "en:t": "Zambia",
+        "a": true,
+        "g": {
+            "lat": -9.3534,
+            "lon": 28.7402
+        },
+        "it": "Nchelenge",
+        "it:t": "Zambia",
+        "es": "Nchelenge",
+        "es:t": "Zambia",
+        "de": "Nchelenge",
+        "de:t": "Sambia"
+    },
+    {
+        "en": "Ndola",
+        "en:t": "Zambia",
+        "a": true,
+        "g": {
+            "lat": -12.9906,
+            "lon": 28.6498
+        },
+        "it": "Ndola",
+        "it:t": "Zambia",
+        "es": "Ndola",
+        "es:t": "Zambia",
+        "de": "Ndola",
+        "de:t": "Sambia"
+    },
+    {
+        "en": "Petauke",
+        "en:t": "Zambia | Nyimba",
+        "a": true,
+        "g": {
+            "lat": -14.2413,
+            "lon": 31.3198
+        },
+        "it": "Petauke",
+        "it:t": "Zambia | Nyimba",
+        "es": "Petauke",
+        "es:t": "Zambia | Nyimba",
+        "de": "Petauke",
+        "de:t": "Sambia | Nyimba"
+    },
+    {
+        "en": "Samfya",
+        "en:t": "Zambia",
+        "a": true,
+        "g": {
+            "lat": -11.362,
+            "lon": 29.5514
+        },
+        "it": "Samfya",
+        "it:t": "Zambia",
+        "es": "Samfya",
+        "es:t": "Zambia",
+        "de": "Samfya",
+        "de:t": "Sambia"
+    },
+    {
+        "en": "Sesheke",
+        "en:t": "Zambia",
+        "a": true,
+        "g": {
+            "lat": -17.4739,
+            "lon": 24.2955
+        },
+        "it": "Sesheke",
+        "it:t": "Zambia",
+        "es": "Sesheke",
+        "es:t": "Zambia",
+        "de": "Sesheke",
+        "de:t": "Sambia"
+    },
+    {
+        "en": "Siavonga",
+        "en:t": "Zambia",
+        "a": true,
+        "g": {
+            "lat": -16.5323,
+            "lon": 28.7111
+        },
+        "it": "Siavonga",
+        "it:t": "Zambia",
+        "es": "Siavonga",
+        "es:t": "Zambia",
+        "de": "Siavonga",
+        "de:t": "Sambia"
+    }
+]

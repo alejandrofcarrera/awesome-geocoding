@@ -1,0 +1,47 @@
+[
+    {
+        "en": "Laayoune",
+        "en:t": "Western Sahara",
+        "a": true,
+        "g": {
+            "lat": 27.15,
+            "lon": -13.1991
+        },
+        "it": "El Aai\u00fan",
+        "it:t": "Sahara Occidentale",
+        "es": "El Aai\u00fan",
+        "es:t": "Sahara Occidental",
+        "de": "El Aai\u00fan",
+        "de:t": "Westsahara"
+    },
+    {
+        "en": "Oued Ed-Dahab-Lagouira",
+        "en:t": "Western Sahara",
+        "a": true,
+        "g": {
+            "lat": 22.7338,
+            "lon": -14.2861
+        },
+        "it": "Oued Ed-Dahab-Lagouira",
+        "it:t": "Sahara Occidentale",
+        "es": "R\u00edo de Oro-La G\u00fcera",
+        "es:t": "Sahara Occidental",
+        "de": "Oued ed Dahab-Lagouira",
+        "de:t": "Westsahara"
+    },
+    {
+        "en": "Samara",
+        "en:t": "Western Sahara",
+        "a": true,
+        "g": {
+            "lat": 26.7419,
+            "lon": -11.6784
+        },
+        "it": "Smara",
+        "it:t": "Sahara Occidentale",
+        "es": "Esmara",
+        "es:t": "Sahara Occidental",
+        "de": "Smara",
+        "de:t": "Westsahara"
+    }
+]

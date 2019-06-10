@@ -1,0 +1,1577 @@
+[
+  {
+    "en": "Acarigua",
+    "en:t": "Venezuela | Paez",
+    "a": true,
+    "g": {
+      "lat": 9.5504,
+      "lon": -69.1805
+    },
+    "it": "Acarigua",
+    "it:t": "Venezuela | Páez",
+    "es": "Acarigua",
+    "es:t": "Venezuela | Páez",
+    "de": "Acarigua",
+    "de:t": "Venezuela | Paez"
+  },
+  {
+    "en": "Altagracia de Orituco",
+    "en:t": "Venezuela | Jose Tadeo Monagas",
+    "a": true,
+    "g": {
+      "lat": 9.8563,
+      "lon": -66.3736
+    },
+    "it": "Altagracia de Orituco",
+    "it:t": "Venezuela | José Tadeo Monagas",
+    "es": "Altagracia De Orituco",
+    "es:t": "Venezuela | José Tadeo Monagas",
+    "de": "Altagracia de Orituco",
+    "de:t": "Venezuela | José Tadeo Monagas"
+  },
+  {
+    "en": "Alto Barinas",
+    "en:t": "Venezuela | Barinas",
+    "a": true,
+    "g": {
+      "lat": 8.5921,
+      "lon": -70.2251
+    },
+    "it": "Alto Barinas",
+    "it:t": "Venezuela | Barinas",
+    "es": "Alto Barinas",
+    "es:t": "Venezuela | Barinas",
+    "de": "Alto Barinas",
+    "de:t": "Venezuela | Barinas"
+  },
+  {
+    "en": "Anaco",
+    "en:t": "Venezuela",
+    "a": true,
+    "g": {
+      "lat": 9.4292,
+      "lon": -64.4674
+    },
+    "it": "Anaco",
+    "it:t": "Venezuela",
+    "es": "Anaco",
+    "es:t": "Venezuela",
+    "de": "Anaco",
+    "de:t": "Venezuela"
+  },
+  {
+    "en": "Araure",
+    "en:t": "Venezuela",
+    "a": true,
+    "g": {
+      "lat": 9.5818,
+      "lon": -69.2202
+    },
+    "it": "Araure",
+    "it:t": "Venezuela",
+    "es": "Araure",
+    "es:t": "Venezuela",
+    "de": "Araure",
+    "de:t": "Venezuela"
+  },
+  {
+    "en": "Barcelona",
+    "en:t": "Venezuela | Simon Bolivar",
+    "a": true,
+    "g": {
+      "lat": 10.1446,
+      "lon": -64.6777
+    },
+    "it": "Barcellona",
+    "it:t": "Venezuela | Simón Bolívar",
+    "es": "Barcelona",
+    "es:t": "Venezuela | Simón Bolívar",
+    "de": "Barcelona",
+    "de:t": "Venezuela | Simon Bolivar"
+  },
+  {
+    "en": "Barinas",
+    "en:t": "Venezuela",
+    "a": true,
+    "g": {
+      "lat": 8.6231,
+      "lon": -70.2371
+    },
+    "it": "Barinas",
+    "it:t": "Venezuela",
+    "es": "Barinas",
+    "es:t": "Venezuela",
+    "de": "Barinas",
+    "de:t": "Venezuela"
+  },
+  {
+    "en": "Barinitas",
+    "en:t": "Venezuela | Bolivar",
+    "a": true,
+    "g": {
+      "lat": 8.7548,
+      "lon": -70.4015
+    },
+    "it": "Barinitas",
+    "it:t": "Venezuela | Bolivar",
+    "es": "Barintas",
+    "es:t": "Venezuela | Bolívar",
+    "de": "Barinitas",
+    "de:t": "Venezuela | Bolivar"
+  },
+  {
+    "en": "Barquisimeto",
+    "en:t": "Venezuela | Iribarren",
+    "a": true,
+    "g": {
+      "lat": 10.0678,
+      "lon": -69.3474
+    },
+    "it": "Barquisimeto",
+    "it:t": "Venezuela | Iribarren",
+    "es": "Barquisimeto",
+    "es:t": "Venezuela | Iribarren",
+    "de": "Barquisimeto",
+    "de:t": "Venezuela | Iribarren"
+  },
+  {
+    "en": "Baruta",
+    "en:t": "Venezuela | Capital",
+    "a": true,
+    "g": {
+      "lat": 10.4206,
+      "lon": -66.8678
+    },
+    "it": "Baruta",
+    "it:t": "Venezuela | Distretto Capitale",
+    "es": "Baruta",
+    "es:t": "Venezuela | Capital",
+    "de": "Nuestra Señora del Rosario de Baruta",
+    "de:t": "Venezuela | Hauptstadtdistrikt"
+  },
+  {
+    "en": "Cabimas",
+    "en:t": "Venezuela",
+    "a": true,
+    "g": {
+      "lat": 10.3896,
+      "lon": -71.4693
+    },
+    "it": "Cabimas",
+    "it:t": "Venezuela",
+    "es": "Cabimas",
+    "es:t": "Venezuela",
+    "de": "Cabimas",
+    "de:t": "Venezuela"
+  },
+  {
+    "en": "Cabudare",
+    "en:t": "Venezuela | Palavecino",
+    "a": true,
+    "g": {
+      "lat": 10.0275,
+      "lon": -69.2456
+    },
+    "it": "Cabudare",
+    "it:t": "Venezuela | Palavecino",
+    "es": "Cabudare",
+    "es:t": "Venezuela | Palavecino",
+    "de": "Cabudare",
+    "de:t": "Venezuela | Palavecino"
+  },
+  {
+    "en": "Cagua",
+    "en:t": "Venezuela | Sucre",
+    "a": true,
+    "g": {
+      "lat": 10.1757,
+      "lon": -67.4576
+    },
+    "it": "Cagua",
+    "it:t": "Venezuela | Sucre",
+    "es": "Cagua",
+    "es:t": "Venezuela | Sucre",
+    "de": "Cagua",
+    "de:t": "Venezuela | Sucre"
+  },
+  {
+    "en": "Calabozo",
+    "en:t": "Venezuela | Francisco de Miranda",
+    "a": true,
+    "g": {
+      "lat": 8.918,
+      "lon": -67.4159
+    },
+    "it": "Calabozo",
+    "it:t": "Venezuela | Francisco de Miranda",
+    "es": "Calabozo",
+    "es:t": "Venezuela | Francisco de Miranda",
+    "de": "Calabozo",
+    "de:t": "Venezuela | Francisco de Miranda"
+  },
+  {
+    "en": "Cantaura",
+    "en:t": "Venezuela | Pedro Maria Freites",
+    "a": true,
+    "g": {
+      "lat": 9.2979,
+      "lon": -64.349
+    },
+    "it": "Cantaura",
+    "it:t": "Venezuela | Pedro María Freites",
+    "es": "Cantaura",
+    "es:t": "Venezuela | Pedro María Freites",
+    "de": "Cantaura",
+    "de:t": "Venezuela | Pedro Maria Freites"
+  },
+  {
+    "en": "Caraballeda",
+    "en:t": "Venezuela | Vargas",
+    "a": true,
+    "g": {
+      "lat": 10.6135,
+      "lon": -66.8499
+    },
+    "it": "Caraballeda",
+    "it:t": "Venezuela | Vargas",
+    "es": "Caraballeda",
+    "es:t": "Venezuela | Vargas",
+    "de": "Caraballeda",
+    "de:t": "Venezuela | Vargas"
+  },
+  {
+    "en": "Caracas",
+    "en:t": "Venezuela | Libertador",
+    "a": true,
+    "g": {
+      "lat": 10.4806,
+      "lon": -66.9036
+    },
+    "it": "Caracas",
+    "it:t": "Venezuela | Libertador",
+    "es": "Caracas",
+    "es:t": "Venezuela | Libertador",
+    "de": "Caracas",
+    "de:t": "Venezuela | Libertador"
+  },
+  {
+    "en": "Carora",
+    "en:t": "Venezuela | Torres",
+    "a": true,
+    "g": {
+      "lat": 10.1814,
+      "lon": -70.0738
+    },
+    "it": "Carora",
+    "it:t": "Venezuela | Torres",
+    "es": "Carora",
+    "es:t": "Venezuela | Torres",
+    "de": "Carora",
+    "de:t": "Venezuela | Torres"
+  },
+  {
+    "en": "Carrizal",
+    "en:t": "Venezuela | Guaicaipuro",
+    "a": true,
+    "g": {
+      "lat": 10.3618,
+      "lon": -66.9928
+    },
+    "it": "Carrizal",
+    "it:t": "Venezuela | Guaicaipuro",
+    "es": "Carrizal",
+    "es:t": "Venezuela | Guaicaipuro",
+    "de": "Carrizal",
+    "de:t": "Venezuela | Guaicaipuro"
+  },
+  {
+    "en": "Carupano",
+    "en:t": "Venezuela | Bermudez",
+    "a": true,
+    "g": {
+      "lat": 10.643,
+      "lon": -63.2562
+    },
+    "it": "Carúpano",
+    "it:t": "Venezuela | Bermudez",
+    "es": "Carúpano",
+    "es:t": "Venezuela | Bermúdez",
+    "de": "Carúpano",
+    "de:t": "Venezuela | Bermudez"
+  },
+  {
+    "en": "Catia La Mar",
+    "en:t": "Venezuela | Vargas",
+    "a": true,
+    "g": {
+      "lat": 10.5894,
+      "lon": -67.0494
+    },
+    "it": "Catia La Mar",
+    "it:t": "Venezuela | Vargas",
+    "es": "Catia La Mar",
+    "es:t": "Venezuela | Vargas",
+    "de": "Catia La Mar",
+    "de:t": "Venezuela | Vargas"
+  },
+  {
+    "en": "Caucagüita",
+    "en:t": "Venezuela | Caracas",
+    "a": true,
+    "g": {
+      "lat": 10.4851,
+      "lon": -66.7409
+    },
+    "it": "Caucagüita",
+    "it:t": "Venezuela | Caracas",
+    "es": "Caucagüita",
+    "es:t": "Venezuela | Caracas",
+    "de": "Caucagüita",
+    "de:t": "Venezuela | Caracas"
+  },
+  {
+    "en": "Chacao",
+    "en:t": "Venezuela | Caracas",
+    "a": true,
+    "g": {
+      "lat": 10.4939,
+      "lon": -66.8566
+    },
+    "it": "Chacao",
+    "it:t": "Venezuela | Caracas",
+    "es": "Población Chacao",
+    "es:t": "Venezuela | Caracas",
+    "de": "Chacao",
+    "de:t": "Venezuela | Caracas"
+  },
+  {
+    "en": "Charallave",
+    "en:t": "Venezuela | Cristobal Rojas",
+    "a": true,
+    "g": {
+      "lat": 10.211,
+      "lon": -66.8678
+    },
+    "it": "Charallave",
+    "it:t": "Venezuela | Cristóbal Rojas",
+    "es": "Charallave",
+    "es:t": "Venezuela | Cristóbal Rojas",
+    "de": "Charallave",
+    "de:t": "Venezuela | Cristobal Rojas"
+  },
+  {
+    "en": "Chivacoa",
+    "en:t": "Venezuela | Bruzual",
+    "a": true,
+    "g": {
+      "lat": 10.1572,
+      "lon": -68.8973
+    },
+    "it": "Chivacoa",
+    "it:t": "Venezuela | Bruzual",
+    "es": "Chivacoa",
+    "es:t": "Venezuela | Bruzual",
+    "de": "Chivacoa",
+    "de:t": "Venezuela | Bruzual"
+  },
+  {
+    "en": "Ciudad Bolívar",
+    "en:t": "Venezuela | Heres",
+    "a": true,
+    "g": {
+      "lat": 8.0883,
+      "lon": -63.5536
+    },
+    "it": "Ciudad Bolívar",
+    "it:t": "Venezuela | Heres",
+    "es": "Ciudad Bolívar",
+    "es:t": "Venezuela | Heres",
+    "de": "Ciudad Bolívar",
+    "de:t": "Venezuela | Heres"
+  },
+  {
+    "en": "Coro",
+    "en:t": "Venezuela | Miranda",
+    "a": true,
+    "g": {
+      "lat": 11.3946,
+      "lon": -69.681
+    },
+    "it": "Coro",
+    "it:t": "Venezuela | Miranda",
+    "es": "Coro",
+    "es:t": "Venezuela | Miranda",
+    "de": "Coro",
+    "de:t": "Venezuela | Miranda"
+  },
+  {
+    "en": "Cumana",
+    "en:t": "Venezuela | Sucre",
+    "a": true,
+    "g": {
+      "lat": 10.4319,
+      "lon": -64.1833
+    },
+    "it": "Cumaná",
+    "it:t": "Venezuela | Sucre",
+    "es": "Cumaná",
+    "es:t": "Venezuela | Sucre",
+    "de": "Cumaná",
+    "de:t": "Venezuela | Sucre"
+  },
+  {
+    "en": "Cúa",
+    "en:t": "Venezuela | Urdaneta",
+    "a": true,
+    "g": {
+      "lat": 10.1709,
+      "lon": -66.8916
+    },
+    "it": "Cúa",
+    "it:t": "Venezuela | Urdaneta",
+    "es": "Cúa",
+    "es:t": "Venezuela | Urdaneta",
+    "de": "Cúa",
+    "de:t": "Venezuela | Urdaneta"
+  },
+  {
+    "en": "Ejido",
+    "en:t": "Venezuela | Campo Elias",
+    "a": true,
+    "g": {
+      "lat": 8.5493,
+      "lon": -71.2429
+    },
+    "it": "Ejido",
+    "it:t": "Venezuela | Campo Elías",
+    "es": "Ejido",
+    "es:t": "Venezuela | Campo Elías",
+    "de": "Ejido",
+    "de:t": "Venezuela | Campo Elias"
+  },
+  {
+    "en": "El Cafetal",
+    "en:t": "Venezuela | Caracas",
+    "a": true,
+    "g": {
+      "lat": 10.4696,
+      "lon": -66.8286
+    },
+    "it": "El Cafetal",
+    "it:t": "Venezuela | Caracas",
+    "es": "El Cafetal",
+    "es:t": "Venezuela | Caracas",
+    "de": "El Cafetal",
+    "de:t": "Venezuela | Caracas"
+  },
+  {
+    "en": "El Hatillo",
+    "en:t": "Venezuela | Miranda",
+    "a": true,
+    "g": {
+      "lat": 10.3942,
+      "lon": -66.7963
+    },
+    "it": "El Hatillo",
+    "it:t": "Venezuela | Miranda",
+    "es": "El Hatillo",
+    "es:t": "Venezuela | Miranda",
+    "de": "El Hatillo",
+    "de:t": "Venezuela | Miranda"
+  },
+  {
+    "en": "El Limon",
+    "en:t": "Venezuela | Mario Briceno Iragorry",
+    "a": true,
+    "g": {
+      "lat": 10.2904,
+      "lon": -67.6275
+    },
+    "it": "El Limón",
+    "it:t": "Venezuela | Mario Briceño Iragorry",
+    "es": "El Limón",
+    "es:t": "Venezuela | Mario Briceño Iragorry",
+    "de": "El Limón",
+    "de:t": "Venezuela | Mario Briceno Iragorry"
+  },
+  {
+    "en": "El Tigre",
+    "en:t": "Venezuela | Simon Rodriguez",
+    "a": true,
+    "g": {
+      "lat": 8.882,
+      "lon": -64.233
+    },
+    "it": "El Tigre",
+    "it:t": "Venezuela | Simón Rodríguez",
+    "es": "El Tigre",
+    "es:t": "Venezuela | Simón Rodríguez",
+    "de": "El Tigre",
+    "de:t": "Venezuela | Simon Rodriguez"
+  },
+  {
+    "en": "El Tocuyo",
+    "en:t": "Venezuela | Moran",
+    "a": true,
+    "g": {
+      "lat": 9.7836,
+      "lon": -69.7942
+    },
+    "it": "El Tocuyo",
+    "it:t": "Venezuela | Morán",
+    "es": "El Tocuyo",
+    "es:t": "Venezuela | Morán",
+    "de": "El Tocuyo",
+    "de:t": "Venezuela | Moran"
+  },
+  {
+    "en": "El Vigía",
+    "en:t": "Venezuela | Alberto Adriani",
+    "a": true,
+    "g": {
+      "lat": 8.6144,
+      "lon": -71.6555
+    },
+    "it": "El Vigía",
+    "it:t": "Venezuela | Alberto Adriani",
+    "es": "El Vigía",
+    "es:t": "Venezuela | Alberto Adriani",
+    "de": "El Vigía",
+    "de:t": "Venezuela | Alberto Adriani"
+  },
+  {
+    "en": "Guacara",
+    "en:t": "Venezuela",
+    "a": true,
+    "g": {
+      "lat": 10.2647,
+      "lon": -67.8927
+    },
+    "it": "Guacara",
+    "it:t": "Venezuela",
+    "es": "Guacara",
+    "es:t": "Venezuela",
+    "de": "Guacara",
+    "de:t": "Venezuela"
+  },
+  {
+    "en": "Guanare",
+    "en:t": "Venezuela",
+    "a": true,
+    "g": {
+      "lat": 9.0371,
+      "lon": -69.7287
+    },
+    "it": "Guanare",
+    "it:t": "Venezuela",
+    "es": "Guanare",
+    "es:t": "Venezuela",
+    "de": "Guanare",
+    "de:t": "Venezuela"
+  },
+  {
+    "en": "Guarenas",
+    "en:t": "Venezuela | Plaza",
+    "a": true,
+    "g": {
+      "lat": 10.4663,
+      "lon": -66.6169
+    },
+    "it": "Guarenas",
+    "it:t": "Venezuela | Plaza",
+    "es": "Guarenas",
+    "es:t": "Venezuela | Plaza",
+    "de": "Guarenas",
+    "de:t": "Venezuela | Plaza"
+  },
+  {
+    "en": "Guasdualito",
+    "en:t": "Venezuela | Paez",
+    "a": true,
+    "g": {
+      "lat": 7.2398,
+      "lon": -70.705
+    },
+    "it": "Guasdualito",
+    "it:t": "Venezuela | Páez",
+    "es": "Guasdualito",
+    "es:t": "Venezuela | Páez",
+    "de": "Guasdualito",
+    "de:t": "Venezuela | Paez"
+  },
+  {
+    "en": "Guatire",
+    "en:t": "Venezuela | Zamora",
+    "a": true,
+    "g": {
+      "lat": 10.4597,
+      "lon": -66.5581
+    },
+    "it": "Guatire",
+    "it:t": "Venezuela | Zamora",
+    "es": "Guatire",
+    "es:t": "Venezuela | Zamora",
+    "de": "Guatire",
+    "de:t": "Venezuela | Zamora"
+  },
+  {
+    "en": "Guayana",
+    "en:t": "Venezuela | Caroni",
+    "a": true,
+    "g": {
+      "lat": 8.3663,
+      "lon": -62.6497
+    },
+    "it": "Ciudad Guayana",
+    "it:t": "Venezuela | Caroní",
+    "es": "Ciudad Guayana",
+    "es:t": "Venezuela | Caroní",
+    "de": "Ciudad Guayana",
+    "de:t": "Venezuela | Caroni"
+  },
+  {
+    "en": "Guigue",
+    "en:t": "Venezuela | Carlos Arvelo",
+    "a": true,
+    "g": {
+      "lat": 10.0832,
+      "lon": -67.7813
+    },
+    "it": "Güigüe",
+    "it:t": "Venezuela | Carlos Arvelo",
+    "es": "Güigüe",
+    "es:t": "Venezuela | Carlos Arvelo",
+    "de": "Güigüe",
+    "de:t": "Venezuela | Carlos Arvelo"
+  },
+  {
+    "en": "Guiria",
+    "en:t": "Venezuela | Valdez",
+    "a": true,
+    "g": {
+      "lat": 10.585,
+      "lon": -62.3037
+    },
+    "it": "Guiria",
+    "it:t": "Venezuela | Valdez",
+    "es": "Güiria",
+    "es:t": "Venezuela | Valdez",
+    "de": "Güiria",
+    "de:t": "Venezuela | Valdez"
+  },
+  {
+    "en": "Juangriego",
+    "en:t": "Venezuela | Marcano",
+    "a": true,
+    "g": {
+      "lat": 11.0826,
+      "lon": -63.9675
+    },
+    "it": "Juangriego",
+    "it:t": "Venezuela | Marcano",
+    "es": "Juangriego",
+    "es:t": "Venezuela | Marcano",
+    "de": "Juangriego",
+    "de:t": "Venezuela | Marcano"
+  },
+  {
+    "en": "La Asuncion",
+    "en:t": "Venezuela | Arismendi",
+    "a": true,
+    "g": {
+      "lat": 11.0285,
+      "lon": -63.8581
+    },
+    "it": "La Asunción",
+    "it:t": "Venezuela | Arismendi",
+    "es": "La Asunción",
+    "es:t": "Venezuela | Arismendi",
+    "de": "La Asunción",
+    "de:t": "Venezuela | Arismendi"
+  },
+  {
+    "en": "La Fria",
+    "en:t": "Venezuela | Garcia de Hevia",
+    "a": true,
+    "g": {
+      "lat": 8.2143,
+      "lon": -72.2512
+    },
+    "it": "La Fria",
+    "it:t": "Venezuela | Garcia de Hevia",
+    "es": "La Fría",
+    "es:t": "Venezuela | García de Hevia",
+    "de": "La Fria",
+    "de:t": "Venezuela | Garcia de Hevia"
+  },
+  {
+    "en": "La Guaira",
+    "en:t": "Venezuela | Vargas",
+    "a": true,
+    "g": {
+      "lat": 10.6025,
+      "lon": -66.9313
+    },
+    "it": "La Guaira",
+    "it:t": "Venezuela | Vargas",
+    "es": "La Guaira",
+    "es:t": "Venezuela | Vargas",
+    "de": "La Guaira",
+    "de:t": "Venezuela | Vargas"
+  },
+  {
+    "en": "La Victoria",
+    "en:t": "Venezuela | Jose Felix Ribas",
+    "a": true,
+    "g": {
+      "lat": 10.2186,
+      "lon": -67.3265
+    },
+    "it": "La Victoria",
+    "it:t": "Venezuela | José Félix Ribas",
+    "es": "La Victoria",
+    "es:t": "Venezuela | José Félix Ribas",
+    "de": "La Victoria",
+    "de:t": "Venezuela | Jose Felix Ribas"
+  },
+  {
+    "en": "La Villa del Rosario",
+    "en:t": "Venezuela | Rosario de Perija",
+    "a": true,
+    "g": {
+      "lat": 10.3144,
+      "lon": -72.3247
+    },
+    "it": "La Villa del Rosario",
+    "it:t": "Venezuela | Rosario de Perija",
+    "es": "Villa del Rosario",
+    "es:t": "Venezuela | Rosario de Perijá",
+    "de": "La Villa del Rosario",
+    "de:t": "Venezuela | Rosario de Perija"
+  },
+  {
+    "en": "Lagunillas",
+    "en:t": "Venezuela",
+    "a": true,
+    "g": {
+      "lat": 10.1265,
+      "lon": -71.2458
+    },
+    "it": "Lagunillas",
+    "it:t": "Venezuela",
+    "es": "Lagunillas",
+    "es:t": "Venezuela",
+    "de": "Lagunillas",
+    "de:t": "Venezuela"
+  },
+  {
+    "en": "Las Tejerias",
+    "en:t": "Venezuela | Santos Michelena",
+    "a": true,
+    "g": {
+      "lat": 10.2569,
+      "lon": -67.1686
+    },
+    "it": "Las Tejerias",
+    "it:t": "Venezuela | Santos Michelena",
+    "es": "Las Tejerias",
+    "es:t": "Venezuela | Santos Michelena",
+    "de": "Las Tejerias",
+    "de:t": "Venezuela | Santos Michelena"
+  },
+  {
+    "en": "Los Dos Caminos",
+    "en:t": "Venezuela | Caracas",
+    "a": true,
+    "g": {
+      "lat": 10.498,
+      "lon": -66.8335
+    },
+    "it": "Los Dos Caminos",
+    "it:t": "Venezuela | Caracas",
+    "es": "Los Dos Caminos",
+    "es:t": "Venezuela | Caracas",
+    "de": "Los Dos Caminos",
+    "de:t": "Venezuela | Caracas"
+  },
+  {
+    "en": "Los Teques",
+    "en:t": "Venezuela | Guaicaipuro",
+    "a": true,
+    "g": {
+      "lat": 10.3492,
+      "lon": -67.0345
+    },
+    "it": "Los Teques",
+    "it:t": "Venezuela | Guaicaipuro",
+    "es": "Los Teques",
+    "es:t": "Venezuela | Guaicaipuro",
+    "de": "Los Teques",
+    "de:t": "Venezuela | Guaicaipuro"
+  },
+  {
+    "en": "Machiques",
+    "en:t": "Venezuela | Machiques De Perija",
+    "a": true,
+    "g": {
+      "lat": 10.0605,
+      "lon": -72.5501
+    },
+    "it": "Machiques",
+    "it:t": "Venezuela | Machiques De Perija",
+    "es": "Machiques",
+    "es:t": "Venezuela | Machiques De Perijá",
+    "de": "Machiques",
+    "de:t": "Venezuela | Machiques De Perija"
+  },
+  {
+    "en": "Maiquetía",
+    "en:t": "Venezuela | Vargas",
+    "a": true,
+    "g": {
+      "lat": 10.6035,
+      "lon": -66.9928
+    },
+    "it": "Maiquetía",
+    "it:t": "Venezuela | Vargas",
+    "es": "Maiquetía",
+    "es:t": "Venezuela | Vargas",
+    "de": "Maiquetía",
+    "de:t": "Venezuela | Vargas"
+  },
+  {
+    "en": "Maracaibo",
+    "en:t": "Venezuela",
+    "a": true,
+    "g": {
+      "lat": 10.6427,
+      "lon": -71.6125
+    },
+    "it": "Maracaibo",
+    "it:t": "Venezuela",
+    "es": "Maracaibo",
+    "es:t": "Venezuela",
+    "de": "Maracaibo",
+    "de:t": "Venezuela"
+  },
+  {
+    "en": "Maracay",
+    "en:t": "Venezuela | Girardot",
+    "a": true,
+    "g": {
+      "lat": 10.2442,
+      "lon": -67.6066
+    },
+    "it": "Maracay",
+    "it:t": "Venezuela | Girardot",
+    "es": "Maracay",
+    "es:t": "Venezuela | Girardot",
+    "de": "Maracay",
+    "de:t": "Venezuela | Girardot"
+  },
+  {
+    "en": "Mariara",
+    "en:t": "Venezuela | Diego Ibarra",
+    "a": true,
+    "g": {
+      "lat": 10.2892,
+      "lon": -67.7199
+    },
+    "it": "Mariara",
+    "it:t": "Venezuela | Diego Ibarra",
+    "es": "Mariara",
+    "es:t": "Venezuela | Diego Ibarra",
+    "de": "Mariara",
+    "de:t": "Venezuela | Diego Ibarra"
+  },
+  {
+    "en": "Maturin",
+    "en:t": "Venezuela",
+    "a": true,
+    "g": {
+      "lat": 9.7334,
+      "lon": -63.1914
+    },
+    "it": "Maturín",
+    "it:t": "Venezuela",
+    "es": "Maturín",
+    "es:t": "Venezuela",
+    "de": "Maturín",
+    "de:t": "Venezuela"
+  },
+  {
+    "en": "Merida",
+    "en:t": "Venezuela | Libertador",
+    "a": true,
+    "g": {
+      "lat": 8.5698,
+      "lon": -71.1805
+    },
+    "it": "Mérida",
+    "it:t": "Venezuela | Libertador",
+    "es": "Mérida",
+    "es:t": "Venezuela | Libertador",
+    "de": "Mérida",
+    "de:t": "Venezuela | Libertador"
+  },
+  {
+    "en": "Moron",
+    "en:t": "Venezuela | Juan jose mora",
+    "a": true,
+    "g": {
+      "lat": 10.4923,
+      "lon": -68.1968
+    },
+    "it": "Morón",
+    "it:t": "Venezuela | Juan José Mora",
+    "es": "Morón",
+    "es:t": "Venezuela | Juan José Mora",
+    "de": "Morón",
+    "de:t": "Venezuela | Juan José Mora"
+  },
+  {
+    "en": "Mucumpís",
+    "en:t": "Venezuela | Justo Briceño",
+    "a": true,
+    "g": {
+      "lat": 8.9673,
+      "lon": -70.9824
+    },
+    "it": "Mucumpís",
+    "it:t": "Venezuela | Justo Briceño",
+    "es": "Mucumpís",
+    "es:t": "Venezuela | Justo Briceño",
+    "de": "Mucumpís",
+    "de:t": "Venezuela | Justo Briceño"
+  },
+  {
+    "en": "Nirgua",
+    "en:t": "Venezuela",
+    "a": true,
+    "g": {
+      "lat": 10.1558,
+      "lon": -68.5635
+    },
+    "it": "Nirgua",
+    "it:t": "Venezuela",
+    "es": "Nirgua",
+    "es:t": "Venezuela",
+    "de": "Nirgua",
+    "de:t": "Venezuela"
+  },
+  {
+    "en": "Ocumare del Tuy",
+    "en:t": "Venezuela | Miranda",
+    "a": true,
+    "g": {
+      "lat": 10.1175,
+      "lon": -66.7752
+    },
+    "it": "Ocumare del Tuy",
+    "it:t": "Venezuela | Miranda",
+    "es": "Ocumare del Tuy",
+    "es:t": "Venezuela | Miranda",
+    "de": "Ocumare del Tuy",
+    "de:t": "Venezuela | Miranda"
+  },
+  {
+    "en": "Palo Negro",
+    "en:t": "Venezuela | Libertador",
+    "a": true,
+    "g": {
+      "lat": 10.1615,
+      "lon": -67.553
+    },
+    "it": "Palo Negro",
+    "it:t": "Venezuela | Libertador",
+    "es": "Palo Negro",
+    "es:t": "Venezuela | Libertador",
+    "de": "Palo Negro",
+    "de:t": "Venezuela | Libertador"
+  },
+  {
+    "en": "Parroquia La Dolorita",
+    "en:t": "Venezuela | Sucre",
+    "a": true,
+    "g": {
+      "lat": 10.4472,
+      "lon": -66.7695
+    },
+    "it": "Parroquia La Dolorita",
+    "it:t": "Venezuela | Sucre",
+    "es": "Parroquia La Dolorita",
+    "es:t": "Venezuela | Sucre",
+    "de": "Parroquia La Dolorita",
+    "de:t": "Venezuela | Sucre"
+  },
+  {
+    "en": "Petare",
+    "en:t": "Venezuela | Caracas",
+    "a": true,
+    "g": {
+      "lat": 10.4776,
+      "lon": -66.8061
+    },
+    "it": "Petare",
+    "it:t": "Venezuela | Caracas",
+    "es": "Petare",
+    "es:t": "Venezuela | Caracas",
+    "de": "Petare",
+    "de:t": "Venezuela | Caracas"
+  },
+  {
+    "en": "Porlamar",
+    "en:t": "Venezuela | Mariño",
+    "a": true,
+    "g": {
+      "lat": 10.957,
+      "lon": -63.87
+    },
+    "it": "Porlamar",
+    "it:t": "Venezuela | Mariño",
+    "es": "Porlamar",
+    "es:t": "Venezuela | Mariño",
+    "de": "Porlamar",
+    "de:t": "Venezuela | Mariño"
+  },
+  {
+    "en": "Puerto Ayacucho",
+    "en:t": "Venezuela | Atures",
+    "a": true,
+    "g": {
+      "lat": 5.6615,
+      "lon": -67.5828
+    },
+    "it": "Puerto Ayacucho",
+    "it:t": "Venezuela | Atures",
+    "es": "Puerto Ayacucho",
+    "es:t": "Venezuela | Atures",
+    "de": "Puerto Ayacucho",
+    "de:t": "Venezuela | Atures"
+  },
+  {
+    "en": "Puerto Cabello",
+    "en:t": "Venezuela",
+    "a": true,
+    "g": {
+      "lat": 10.4698,
+      "lon": -68.0299
+    },
+    "it": "Puerto Cabello",
+    "it:t": "Venezuela",
+    "es": "Puerto Cabello",
+    "es:t": "Venezuela",
+    "de": "Puerto Cabello",
+    "de:t": "Venezuela"
+  },
+  {
+    "en": "Puerto La Cruz",
+    "en:t": "Venezuela | Juan Antonio Sotillo",
+    "a": true,
+    "g": {
+      "lat": 10.2008,
+      "lon": -64.6335
+    },
+    "it": "Puerto La Cruz",
+    "it:t": "Venezuela | Juan Antonio Sotillo",
+    "es": "Puerto La Cruz",
+    "es:t": "Venezuela | Juan Antonio Sotillo",
+    "de": "Puerto La Cruz",
+    "de:t": "Venezuela | Juan Antonio Sotillo"
+  },
+  {
+    "en": "Punta Cardón",
+    "en:t": "Venezuela | Carirubana",
+    "a": true,
+    "g": {
+      "lat": 11.6482,
+      "lon": -70.2051
+    },
+    "it": "Punta Cardón",
+    "it:t": "Venezuela | Carirubana",
+    "es": "Punta Cardón",
+    "es:t": "Venezuela | Carirubana",
+    "de": "Punta Cardón",
+    "de:t": "Venezuela | Carirubana"
+  },
+  {
+    "en": "Punto Fijo",
+    "en:t": "Venezuela | Carirubana",
+    "a": true,
+    "g": {
+      "lat": 11.7115,
+      "lon": -70.1813
+    },
+    "it": "Punto Fijo",
+    "it:t": "Venezuela | Carirubana",
+    "es": "Punto Fijo",
+    "es:t": "Venezuela | Carirubana",
+    "de": "Punto Fijo",
+    "de:t": "Venezuela | Carirubana"
+  },
+  {
+    "en": "Quíbor",
+    "en:t": "Venezuela | Jimenez",
+    "a": true,
+    "g": {
+      "lat": 9.9313,
+      "lon": -69.6155
+    },
+    "it": "Quíbor",
+    "it:t": "Venezuela | Jiménez",
+    "es": "Quíbor",
+    "es:t": "Venezuela | Jiménez",
+    "de": "Quíbor",
+    "de:t": "Venezuela | Jiménez"
+  },
+  {
+    "en": "Rubio",
+    "en:t": "Venezuela | Junin",
+    "a": true,
+    "g": {
+      "lat": 7.6989,
+      "lon": -72.3607
+    },
+    "it": "Rubio",
+    "it:t": "Venezuela | Junin",
+    "es": "Rubio",
+    "es:t": "Venezuela | Junin",
+    "de": "Rubio",
+    "de:t": "Venezuela | Junin"
+  },
+  {
+    "en": "San Antonio de Los Altos",
+    "en:t": "Venezuela | Los Salias",
+    "a": true,
+    "g": {
+      "lat": 10.3696,
+      "lon": -66.9571
+    },
+    "it": "San Antonio de Los Altos",
+    "it:t": "Venezuela | Los Salias",
+    "es": "San Antonio de Los Altos",
+    "es:t": "Venezuela | Los Salias",
+    "de": "San Antonio de Los Altos",
+    "de:t": "Venezuela | Los Salias"
+  },
+  {
+    "en": "San Antonio del Táchira",
+    "en:t": "Venezuela | Bolivar",
+    "a": true,
+    "g": {
+      "lat": 7.8178,
+      "lon": -72.4426
+    },
+    "it": "San Antonio del Táchira",
+    "it:t": "Venezuela | Bolívar",
+    "es": "San Antonio del Táchira",
+    "es:t": "Venezuela | Bolívar",
+    "de": "San Antonio del Táchira",
+    "de:t": "Venezuela | Bolivar"
+  },
+  {
+    "en": "San Carlos",
+    "en:t": "Venezuela | Ezequiel Zamora",
+    "a": true,
+    "g": {
+      "lat": 9.6599,
+      "lon": -68.5813
+    },
+    "it": "San Carlos",
+    "it:t": "Venezuela | Ezequiel Zamora",
+    "es": "San Carlos",
+    "es:t": "Venezuela | Ezequiel Zamora",
+    "de": "San Carlos",
+    "de:t": "Venezuela | Ezequiel Zamora"
+  },
+  {
+    "en": "San Carlos del Zulia",
+    "en:t": "Venezuela | Colon",
+    "a": true,
+    "g": {
+      "lat": 9,
+      "lon": -71.9253
+    },
+    "it": "San Carlos del Zulia",
+    "it:t": "Venezuela | Colon",
+    "es": "San Carlos Del Zulia",
+    "es:t": "Venezuela | Colón",
+    "de": "San Carlos del Zulia",
+    "de:t": "Venezuela | Colón"
+  },
+  {
+    "en": "San Cristobal",
+    "en:t": "Venezuela",
+    "a": true,
+    "g": {
+      "lat": 7.7714,
+      "lon": -72.2261
+    },
+    "it": "San Cristóbal",
+    "it:t": "Venezuela",
+    "es": "San Cristóbal",
+    "es:t": "Venezuela",
+    "de": "San Cristóbal",
+    "de:t": "Venezuela"
+  },
+  {
+    "en": "San Felipe",
+    "en:t": "Venezuela | Yaracuy",
+    "a": true,
+    "g": {
+      "lat": 10.3402,
+      "lon": -68.7453
+    },
+    "it": "San Felipe",
+    "it:t": "Venezuela | Yaracuy",
+    "es": "San Felipe",
+    "es:t": "Venezuela | Yaracuy",
+    "de": "San Felipe",
+    "de:t": "Venezuela | Yaracuy"
+  },
+  {
+    "en": "San Fernando de Apure",
+    "en:t": "Venezuela | San Fernando",
+    "a": true,
+    "g": {
+      "lat": 7.8807,
+      "lon": -67.4695
+    },
+    "it": "San Fernando de Apure",
+    "it:t": "Venezuela | San Fernando",
+    "es": "San Fernando de Apure",
+    "es:t": "Venezuela | San Fernando",
+    "de": "San Fernando de Apure",
+    "de:t": "Venezuela | San Fernando"
+  },
+  {
+    "en": "San Joaquin",
+    "en:t": "Venezuela",
+    "a": true,
+    "g": {
+      "lat": 10.2599,
+      "lon": -67.8023
+    },
+    "it": "San Joaquin",
+    "it:t": "Venezuela",
+    "es": "San Joaquín",
+    "es:t": "Venezuela",
+    "de": "San Joaquín",
+    "de:t": "Venezuela"
+  },
+  {
+    "en": "San José de Guanipa",
+    "en:t": "Venezuela | San Jose de Guanipa",
+    "a": true,
+    "g": {
+      "lat": 8.8943,
+      "lon": -64.1744
+    },
+    "it": "San José de Guanipa",
+    "it:t": "Venezuela | San Jose de Guanipa",
+    "es": "San José de Guanipa",
+    "es:t": "Venezuela | San José De Guanipa",
+    "de": "San José de Guanipa",
+    "de:t": "Venezuela | San Jose de Guanipa"
+  },
+  {
+    "en": "San Juan de Colon",
+    "en:t": "Venezuela | Ayacucho",
+    "a": true,
+    "g": {
+      "lat": 8.0389,
+      "lon": -72.2541
+    },
+    "it": "San Juan de Colon",
+    "it:t": "Venezuela | Ayacucho",
+    "es": "San Juan de Colón",
+    "es:t": "Venezuela | Ayacucho",
+    "de": "San Juan de Colon",
+    "de:t": "Venezuela | Ayacucho"
+  },
+  {
+    "en": "San Juan de Los Morros",
+    "en:t": "Venezuela | Juan German Roscio",
+    "a": true,
+    "g": {
+      "lat": 9.9127,
+      "lon": -67.3615
+    },
+    "it": "San Juan de los Morros",
+    "it:t": "Venezuela | Juan German Roscio",
+    "es": "San Juan de Los Morros",
+    "es:t": "Venezuela | Juan Germán Roscio",
+    "de": "San Juan de los Morros",
+    "de:t": "Venezuela | Juan Germán Roscio"
+  },
+  {
+    "en": "San Mateo",
+    "en:t": "Venezuela | Bolivar",
+    "a": true,
+    "g": {
+      "lat": 10.2127,
+      "lon": -67.4248
+    },
+    "it": "San Mateo",
+    "it:t": "Venezuela | Bolívar",
+    "es": "San Mateo",
+    "es:t": "Venezuela | Bolívar",
+    "de": "San Mateo",
+    "de:t": "Venezuela | Bolivar"
+  },
+  {
+    "en": "Santa Elena de Uairen",
+    "en:t": "Venezuela | Gran Sabana",
+    "a": true,
+    "g": {
+      "lat": 4.6064,
+      "lon": -61.1054
+    },
+    "it": "Santa Elena de Uairén",
+    "it:t": "Venezuela | Gran Sabana",
+    "es": "Santa Elena de Uairén",
+    "es:t": "Venezuela | La Gran Sabana",
+    "de": "Santa Elena de Uairén",
+    "de:t": "Venezuela | Gran Sabana"
+  },
+  {
+    "en": "Santa Rita",
+    "en:t": "Venezuela",
+    "a": true,
+    "g": {
+      "lat": 10.551,
+      "lon": -71.4299
+    },
+    "it": "Santa Rita",
+    "it:t": "Venezuela",
+    "es": "Santa Rita",
+    "es:t": "Venezuela",
+    "de": "Santa Rita",
+    "de:t": "Venezuela"
+  },
+  {
+    "en": "Santa Teresa del Tuy",
+    "en:t": "Venezuela | Cristobal Rojas",
+    "a": true,
+    "g": {
+      "lat": 10.2708,
+      "lon": -66.7041
+    },
+    "it": "Santa Teresa del Tuy",
+    "it:t": "Venezuela | Cristóbal Rojas",
+    "es": "Santa Teresa del Tuy",
+    "es:t": "Venezuela | Cristóbal Rojas",
+    "de": "Santa Teresa del Tuy",
+    "de:t": "Venezuela | Cristobal Rojas"
+  },
+  {
+    "en": "Tacarigua",
+    "en:t": "Venezuela | Carlos Arvelo",
+    "a": true,
+    "g": {
+      "lat": 10.0854,
+      "lon": -67.9158
+    },
+    "it": "Tacarigua",
+    "it:t": "Venezuela | Carlos Arvelo",
+    "es": "Tacarigua",
+    "es:t": "Venezuela | Carlos Arvelo",
+    "de": "Tacarigua",
+    "de:t": "Venezuela | Carlos Arvelo"
+  },
+  {
+    "en": "Tinaquillo",
+    "en:t": "Venezuela",
+    "a": true,
+    "g": {
+      "lat": 9.9129,
+      "lon": -68.3076
+    },
+    "it": "Tinaquillo",
+    "it:t": "Venezuela",
+    "es": "Tinaquillo",
+    "es:t": "Venezuela",
+    "de": "Tinaquillo",
+    "de:t": "Venezuela"
+  },
+  {
+    "en": "Trujillo",
+    "en:t": "Venezuela",
+    "a": true,
+    "g": {
+      "lat": 9.3564,
+      "lon": -70.4372
+    },
+    "it": "Trujillo",
+    "it:t": "Venezuela",
+    "es": "Trujillo",
+    "es:t": "Venezuela",
+    "de": "Trujillo",
+    "de:t": "Venezuela"
+  },
+  {
+    "en": "Tucupita",
+    "en:t": "Venezuela",
+    "a": true,
+    "g": {
+      "lat": 9.0692,
+      "lon": -62.0458
+    },
+    "it": "Tucupita",
+    "it:t": "Venezuela",
+    "es": "Tucupita",
+    "es:t": "Venezuela",
+    "de": "Tucupita",
+    "de:t": "Venezuela"
+  },
+  {
+    "en": "Turmero",
+    "en:t": "Venezuela | Santiago Mariño",
+    "a": true,
+    "g": {
+      "lat": 10.2146,
+      "lon": -67.4874
+    },
+    "it": "Turmero",
+    "it:t": "Venezuela | Santiago Mariño",
+    "es": "Turmero",
+    "es:t": "Venezuela | Santiago Mariño",
+    "de": "Turmero",
+    "de:t": "Venezuela | Santiago Mariño"
+  },
+  {
+    "en": "Táriba",
+    "en:t": "Venezuela | Cárdenas",
+    "a": true,
+    "g": {
+      "lat": 7.8225,
+      "lon": -72.2159
+    },
+    "it": "Táriba",
+    "it:t": "Venezuela | Cárdenas",
+    "es": "Táriba",
+    "es:t": "Venezuela | Cárdenas",
+    "de": "Táriba",
+    "de:t": "Venezuela | Cárdenas"
+  },
+  {
+    "en": "Upata",
+    "en:t": "Venezuela | Piar",
+    "a": true,
+    "g": {
+      "lat": 8.0093,
+      "lon": -62.4016
+    },
+    "it": "Upata",
+    "it:t": "Venezuela | Piar",
+    "es": "Upata",
+    "es:t": "Venezuela | Piar",
+    "de": "Upata",
+    "de:t": "Venezuela | Piar"
+  },
+  {
+    "en": "Valencia",
+    "en:t": "Venezuela",
+    "a": true,
+    "g": {
+      "lat": 10.1579,
+      "lon": -67.9972
+    },
+    "it": "Valencia",
+    "it:t": "Venezuela",
+    "es": "Valencia",
+    "es:t": "Venezuela",
+    "de": "Valencia",
+    "de:t": "Venezuela"
+  },
+  {
+    "en": "Valera",
+    "en:t": "Venezuela",
+    "a": true,
+    "g": {
+      "lat": 9.3191,
+      "lon": -70.6033
+    },
+    "it": "Valera",
+    "it:t": "Venezuela",
+    "es": "Valera",
+    "es:t": "Venezuela",
+    "de": "Valera",
+    "de:t": "Venezuela"
+  },
+  {
+    "en": "Valle De La Pascua",
+    "en:t": "Venezuela | Leonardoinfante",
+    "a": true,
+    "g": {
+      "lat": 9.2217,
+      "lon": -65.9795
+    },
+    "it": "Valle de la Pascua",
+    "it:t": "Venezuela | Leonardoinfante",
+    "es": "Valle de la Pascua",
+    "es:t": "Venezuela | Leonardo Infante",
+    "de": "Valle de la Pascua",
+    "de:t": "Venezuela | Leonardo Infante"
+  },
+  {
+    "en": "Villa Bruzual",
+    "en:t": "Venezuela | Turen",
+    "a": true,
+    "g": {
+      "lat": 9.331,
+      "lon": -69.1149
+    },
+    "it": "Villa Bruzual",
+    "it:t": "Venezuela | Turen",
+    "es": "Turen",
+    "es:t": "Venezuela | Turén",
+    "de": "Villa Bruzual",
+    "de:t": "Venezuela | Turen"
+  },
+  {
+    "en": "Villa de Cura",
+    "en:t": "Venezuela | Zamora",
+    "a": true,
+    "g": {
+      "lat": 10.0313,
+      "lon": -67.4934
+    },
+    "it": "Villa de Cura",
+    "it:t": "Venezuela | Zamora",
+    "es": "Villa de Cura",
+    "es:t": "Venezuela | Zamora",
+    "de": "Villa de Cura",
+    "de:t": "Venezuela | Zamora"
+  },
+  {
+    "en": "Yaritagua",
+    "en:t": "Venezuela | Pena",
+    "a": true,
+    "g": {
+      "lat": 10.0763,
+      "lon": -69.1191
+    },
+    "it": "Yaritagua",
+    "it:t": "Venezuela | Peña",
+    "es": "Yaritagua",
+    "es:t": "Venezuela | Peña",
+    "de": "Yaritagua",
+    "de:t": "Venezuela | Pena"
+  },
+  {
+    "en": "Zaraza",
+    "en:t": "Venezuela | Pedro Zaraza",
+    "a": true,
+    "g": {
+      "lat": 9.3508,
+      "lon": -65.3261
+    },
+    "it": "Zaraza",
+    "it:t": "Venezuela | Pedro Zaraza",
+    "es": "Zaraza",
+    "es:t": "Venezuela | Pedro Zaraza",
+    "de": "Zaraza",
+    "de:t": "Venezuela | Pedro Zaraza"
+  }
+]

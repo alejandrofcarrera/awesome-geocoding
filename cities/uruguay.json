@@ -1,0 +1,452 @@
+[
+    {
+        "en": "Artigas",
+        "en:t": "Uruguay | Artigas",
+        "a": true,
+        "g": {
+            "lat": -30.4068,
+            "lon": -56.4776
+        },
+        "it": "Artigas",
+        "it:t": "Uruguay | Artigas",
+        "es": "Artigas",
+        "es:t": "Uruguay",
+        "de": "Artigas",
+        "de:t": "Uruguay | Artigas"
+    },
+    {
+        "en": "Canelones",
+        "en:t": "Uruguay | Canelones",
+        "a": true,
+        "g": {
+            "lat": -34.5291,
+            "lon": -56.2873
+        },
+        "it": "Canelones",
+        "it:t": "Uruguay | Canelones",
+        "es": "Canelones",
+        "es:t": "Uruguay | Canelones",
+        "de": "Canelones",
+        "de:t": "Uruguay | Canelones"
+    },
+    {
+        "en": "Carmelo",
+        "en:t": "Uruguay | Colonia",
+        "a": true,
+        "g": {
+            "lat": -33.9954,
+            "lon": -58.2862
+        },
+        "it": "Carmelo",
+        "it:t": "Uruguay | Colonia",
+        "es": "Carmelo",
+        "es:t": "Uruguay | Colonia",
+        "de": "Carmelo",
+        "de:t": "Uruguay | Colonia"
+    },
+    {
+        "en": "Colonia del Sacramento",
+        "en:t": "Uruguay | Colonia",
+        "a": true,
+        "g": {
+            "lat": -34.4607,
+            "lon": -57.8339
+        },
+        "it": "Colonia del Sacramento",
+        "it:t": "Uruguay | Colonia",
+        "es": "Colonia Del Sacramento",
+        "es:t": "Uruguay | Colonia",
+        "de": "Colonia del Sacramento",
+        "de:t": "Uruguay | Colonia"
+    },
+    {
+        "en": "Delta del Tigre",
+        "en:t": "Uruguay | Ciudad del Plata",
+        "a": true,
+        "g": {
+            "lat": -34.7612,
+            "lon": -56.3628
+        },
+        "it": "Delta del Tigre",
+        "it:t": "Uruguay | Ciudad del Plata",
+        "es": "Delta Del Tigre",
+        "es:t": "Uruguay | Ciudad del Plata",
+        "de": "Delta del Tigre y Villas",
+        "de:t": "Uruguay | Ciudad del Plata"
+    },
+    {
+        "en": "Dolores",
+        "en:t": "Uruguay | Soriano",
+        "a": true,
+        "g": {
+            "lat": -33.5339,
+            "lon": -58.2178
+        },
+        "it": "Dolores",
+        "it:t": "Uruguay | Soriano",
+        "es": "Dolores",
+        "es:t": "Uruguay | Soriano",
+        "de": "Dolores",
+        "de:t": "Uruguay | Soriano"
+    },
+    {
+        "en": "Durazno",
+        "en:t": "Uruguay | Durazno",
+        "a": true,
+        "g": {
+            "lat": -33.3823,
+            "lon": -56.5276
+        },
+        "it": "Durazno",
+        "it:t": "Uruguay | Durazno",
+        "es": "Durazno",
+        "es:t": "Uruguay | Durazno",
+        "de": "Durazno",
+        "de:t": "Uruguay | Durazno"
+    },
+    {
+        "en": "Florida",
+        "en:t": "Uruguay | Florida",
+        "a": true,
+        "g": {
+            "lat": -34.0948,
+            "lon": -56.2203
+        },
+        "it": "Florida",
+        "it:t": "Uruguay | Florida",
+        "es": "Florida",
+        "es:t": "Uruguay | Florida",
+        "de": "Florida",
+        "de:t": "Uruguay | Florida"
+    },
+    {
+        "en": "Fray Bentos",
+        "en:t": "Uruguay | R\u00edo Negro",
+        "a": true,
+        "g": {
+            "lat": -33.1228,
+            "lon": -58.2976
+        },
+        "it": "Fray Bentos",
+        "it:t": "Uruguay | R\u00edo Negro",
+        "es": "Fray Bentos",
+        "es:t": "Uruguay | R\u00edo Negro",
+        "de": "Fray Bentos",
+        "de:t": "Uruguay | R\u00edo Negro"
+    },
+    {
+        "en": "La Paz",
+        "en:t": "Uruguay | Montevideo",
+        "a": true,
+        "g": {
+            "lat": -34.7486,
+            "lon": -56.2338
+        },
+        "it": "La Paz",
+        "it:t": "Uruguay | Montevideo",
+        "es": "La Paz",
+        "es:t": "Uruguay | Montevideo",
+        "de": "La Paz",
+        "de:t": "Uruguay | Montevideo"
+    },
+    {
+        "en": "Las Piedras",
+        "en:t": "Uruguay | Canelones",
+        "a": true,
+        "g": {
+            "lat": -34.7075,
+            "lon": -56.2147
+        },
+        "it": "Las Piedras",
+        "it:t": "Uruguay | Canelones",
+        "es": "Las Piedras",
+        "es:t": "Uruguay | Canelones",
+        "de": "Las Piedras",
+        "de:t": "Uruguay | Canelones"
+    },
+    {
+        "en": "Maldonado",
+        "en:t": "Uruguay | Maldonado",
+        "a": true,
+        "g": {
+            "lat": -34.9019,
+            "lon": -54.9634
+        },
+        "it": "Maldonado",
+        "it:t": "Uruguay | Maldonado",
+        "es": "Maldonado",
+        "es:t": "Uruguay | Maldonado",
+        "de": "Maldonado",
+        "de:t": "Uruguay | Maldonado"
+    },
+    {
+        "en": "Melo",
+        "en:t": "Uruguay | Cerro Largo",
+        "a": true,
+        "g": {
+            "lat": -32.3649,
+            "lon": -54.1666
+        },
+        "it": "Melo",
+        "it:t": "Uruguay | Cerro Largo",
+        "es": "Melo",
+        "es:t": "Uruguay | Cerro Largo",
+        "de": "Melo",
+        "de:t": "Uruguay | Cerro Largo"
+    },
+    {
+        "en": "Mercedes",
+        "en:t": "Uruguay | Soriano",
+        "a": true,
+        "g": {
+            "lat": -33.2604,
+            "lon": -58.0186
+        },
+        "it": "Mercedes",
+        "it:t": "Uruguay | Soriano",
+        "es": "Mercedes",
+        "es:t": "Uruguay | Soriano",
+        "de": "Mercedes",
+        "de:t": "Uruguay | Soriano"
+    },
+    {
+        "en": "Minas",
+        "en:t": "Uruguay | Lavalleja",
+        "a": true,
+        "g": {
+            "lat": -34.3644,
+            "lon": -55.2591
+        },
+        "it": "Minas",
+        "it:t": "Uruguay | Lavalleja",
+        "es": "Minas",
+        "es:t": "Uruguay | Lavalleja",
+        "de": "Minas",
+        "de:t": "Uruguay | Lavalleja"
+    },
+    {
+        "en": "Montevideo",
+        "en:t": "Uruguay | Montevideo",
+        "a": true,
+        "g": {
+            "lat": -34.9011,
+            "lon": -56.1645
+        },
+        "it": "Montevideo",
+        "it:t": "Uruguay | Montevideo",
+        "es": "Montevideo",
+        "es:t": "Uruguay | Montevideo",
+        "de": "Montevideo",
+        "de:t": "Uruguay | Montevideo"
+    },
+    {
+        "en": "Nuevo Paysand\u00fa",
+        "en:t": "Uruguay | Paysand\u00fa",
+        "a": true,
+        "g": {
+            "lat": -32.2707,
+            "lon": -58.0811
+        },
+        "it": "Paysand\u00fa",
+        "it:t": "Uruguay",
+        "es": "Nuevo Paysand\u00fa",
+        "es:t": "Uruguay | Paysand\u00fa",
+        "de": "Nuevo Paysand\u00fa",
+        "de:t": "Uruguay | Paysand\u00fa"
+    },
+    {
+        "en": "Pando",
+        "en:t": "Uruguay | Canelones",
+        "a": true,
+        "g": {
+            "lat": -34.5362,
+            "lon": -56.2818
+        },
+        "it": "Pando",
+        "it:t": "Uruguay | Canelones",
+        "es": "Pando",
+        "es:t": "Uruguay | Canelones",
+        "de": "Pando",
+        "de:t": "Uruguay | Canelones"
+    },
+    {
+        "en": "Paso de Carrasco",
+        "en:t": "Uruguay | la Costa",
+        "a": true,
+        "g": {
+            "lat": -34.8588,
+            "lon": -56.0501
+        },
+        "it": "Paso de Carrasco",
+        "it:t": "Uruguay | la Costa",
+        "es": "Paso de Carrasco",
+        "es:t": "Uruguay | la Costa",
+        "de": "Paso de Carrasco",
+        "de:t": "Uruguay | la Costa"
+    },
+    {
+        "en": "Progreso",
+        "en:t": "Uruguay | Canelones",
+        "a": true,
+        "g": {
+            "lat": -34.6636,
+            "lon": -56.2231
+        },
+        "it": "Progreso",
+        "it:t": "Uruguay | Canelones",
+        "es": "Progreso",
+        "es:t": "Uruguay | Canelones",
+        "de": "Progreso",
+        "de:t": "Uruguay | Canelones"
+    },
+    {
+        "en": "Rivera",
+        "en:t": "Uruguay | Rivera",
+        "a": true,
+        "g": {
+            "lat": -30.9179,
+            "lon": -55.5469
+        },
+        "it": "Rivera",
+        "it:t": "Uruguay | Rivera",
+        "es": "Rivera",
+        "es:t": "Uruguay | Rivera",
+        "de": "Rivera",
+        "de:t": "Uruguay | Rivera"
+    },
+    {
+        "en": "Rocha",
+        "en:t": "Uruguay | Rocha",
+        "a": true,
+        "g": {
+            "lat": -34.481,
+            "lon": -54.3307
+        },
+        "it": "Rocha",
+        "it:t": "Uruguay | Rocha",
+        "es": "Rocha",
+        "es:t": "Uruguay",
+        "de": "Rocha",
+        "de:t": "Uruguay | Rocha"
+    },
+    {
+        "en": "Salto",
+        "en:t": "Uruguay | Salto",
+        "a": true,
+        "g": {
+            "lat": -31.3855,
+            "lon": -57.9601
+        },
+        "it": "Salto",
+        "it:t": "Uruguay | Salto",
+        "es": "Salto",
+        "es:t": "Uruguay | Salto",
+        "de": "Salto",
+        "de:t": "Uruguay | Salto"
+    },
+    {
+        "en": "San Carlos",
+        "en:t": "Uruguay | Maldonado",
+        "a": true,
+        "g": {
+            "lat": -34.7973,
+            "lon": -54.9276
+        },
+        "it": "San Carlos",
+        "it:t": "Uruguay | Maldonado",
+        "es": "San Carlos",
+        "es:t": "Uruguay | Maldonado",
+        "de": "San Carlos",
+        "de:t": "Uruguay | Maldonado"
+    },
+    {
+        "en": "San Jos\u00e9 de Mayo",
+        "en:t": "Uruguay | San Jos\u00e9",
+        "a": true,
+        "g": {
+            "lat": -34.3486,
+            "lon": -56.7075
+        },
+        "it": "San Jos\u00e9 de Mayo",
+        "it:t": "Uruguay | San Jos\u00e9",
+        "es": "San Jos\u00e9",
+        "es:t": "Uruguay | San Jos\u00e9",
+        "de": "San Jos\u00e9 de Mayo",
+        "de:t": "Uruguay | San Jos\u00e9"
+    },
+    {
+        "en": "Santa Lucia",
+        "en:t": "Uruguay | Canelones",
+        "a": true,
+        "g": {
+            "lat": -34.4523,
+            "lon": -56.388
+        },
+        "it": "Santa Luc\u00eda",
+        "it:t": "Uruguay | Canelones",
+        "es": "Santa Luc\u00eda",
+        "es:t": "Uruguay | Canelones",
+        "de": "Santa Luc\u00eda",
+        "de:t": "Uruguay | Canelones"
+    },
+    {
+        "en": "Tacuarembo",
+        "en:t": "Uruguay | Tacuaremb\u00f3",
+        "a": true,
+        "g": {
+            "lat": -31.7207,
+            "lon": -55.986
+        },
+        "it": "Tacuaremb\u00f3",
+        "it:t": "Uruguay | Tacuaremb\u00f3",
+        "es": "Tacuaremb\u00f3",
+        "es:t": "Uruguay",
+        "de": "Tacuaremb\u00f3",
+        "de:t": "Uruguay"
+    },
+    {
+        "en": "Treinta y Tres",
+        "en:t": "Uruguay | Treinta y Tres",
+        "a": true,
+        "g": {
+            "lat": -33.229,
+            "lon": -54.3576
+        },
+        "it": "Treinta y Tres",
+        "it:t": "Uruguay | Treinta y Tres",
+        "es": "Treinta y Tres",
+        "es:t": "Uruguay | Treinta y Tres",
+        "de": "Treinta y Tres",
+        "de:t": "Uruguay | Treinta y Tres"
+    },
+    {
+        "en": "Trinidad",
+        "en:t": "Uruguay | Flores",
+        "a": true,
+        "g": {
+            "lat": -33.5201,
+            "lon": -56.9042
+        },
+        "it": "Trinidad",
+        "it:t": "Uruguay | Flores",
+        "es": "Trinidad",
+        "es:t": "Uruguay | Flores",
+        "de": "Trinidad",
+        "de:t": "Uruguay | Flores"
+    },
+    {
+        "en": "Young",
+        "en:t": "Uruguay | R\u00edo Negro",
+        "a": true,
+        "g": {
+            "lat": -32.7022,
+            "lon": -57.6382
+        },
+        "it": "Young",
+        "it:t": "Uruguay | R\u00edo Negro",
+        "es": "Young",
+        "es:t": "Uruguay | R\u00edo Negro",
+        "de": "Young",
+        "de:t": "Uruguay | R\u00edo Negro"
+    }
+]

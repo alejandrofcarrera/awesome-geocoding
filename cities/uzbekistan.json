@@ -1,0 +1,1367 @@
+[
+  {
+    "en": "Aktash",
+    "en:t": "Uzbekistan | Narpay",
+    "a": true,
+    "g": {
+      "lat": 39.9225,
+      "lon": 65.9215
+    },
+    "it": "Oqtosh",
+    "it:t": "Uzbekistan | Narpay",
+    "es": "Oqtosh",
+    "es:t": "Uzbekistán | Narpay",
+    "de": "Aktash",
+    "de:t": "Usbekistan | Narpay"
+  },
+  {
+    "en": "Almalyk",
+    "en:t": "Uzbekistan | Pskent",
+    "a": true,
+    "g": {
+      "lat": 40.8517,
+      "lon": 69.5857
+    },
+    "it": "Olmaliq",
+    "it:t": "Uzbekistan | Piskent",
+    "es": "Olmaliq",
+    "es:t": "Uzbekistán | Pskent",
+    "de": "Olmaliq",
+    "de:t": "Usbekistan | Pskent"
+  },
+  {
+    "en": "Altinkul",
+    "en:t": "Uzbekistan | Balikchi",
+    "a": true,
+    "g": {
+      "lat": 40.8005,
+      "lon": 72.1594
+    },
+    "it": "Oltinkol",
+    "it:t": "Uzbekistan | Baliqchi",
+    "es": "Altinkul",
+    "es:t": "Uzbekistán | Balikchi",
+    "de": "Altinkul",
+    "de:t": "Usbekistan | Balikchi"
+  },
+  {
+    "en": "Altyaryk",
+    "en:t": "Uzbekistan",
+    "a": true,
+    "g": {
+      "lat": 40.4018,
+      "lon": 71.4893
+    },
+    "it": "Altyaryk",
+    "it:t": "Uzbekistan",
+    "es": "Altyarık",
+    "es:t": "Uzbekistán",
+    "de": "Oltiariq",
+    "de:t": "Usbekistan"
+  },
+  {
+    "en": "Andijan",
+    "en:t": "Uzbekistan",
+    "a": true,
+    "g": {
+      "lat": 40.8154,
+      "lon": 72.2837
+    },
+    "it": "Andijan",
+    "it:t": "Uzbekistan",
+    "es": "Andiján",
+    "es:t": "Uzbekistán",
+    "de": "Andijon",
+    "de:t": "Usbekistan"
+  },
+  {
+    "en": "Angren",
+    "en:t": "Uzbekistan | Ahangaran",
+    "a": true,
+    "g": {
+      "lat": 41.0084,
+      "lon": 70.0741
+    },
+    "it": "Angren",
+    "it:t": "Uzbekistan | Okhangaron",
+    "es": "Angren",
+    "es:t": "Uzbekistán | Ahangaran",
+    "de": "Angren",
+    "de:t": "Usbekistan | Ahangaran"
+  },
+  {
+    "en": "Asaka",
+    "en:t": "Uzbekistan",
+    "a": true,
+    "g": {
+      "lat": 40.6624,
+      "lon": 72.2482
+    },
+    "it": "Asaka",
+    "it:t": "Uzbekistan",
+    "es": "Asaka",
+    "es:t": "Uzbekistán",
+    "de": "Asaka",
+    "de:t": "Usbekistan"
+  },
+  {
+    "en": "Baysun",
+    "en:t": "Uzbekistan | Surxondaryo",
+    "a": true,
+    "g": {
+      "lat": 38.1977,
+      "lon": 67.2014
+    },
+    "it": "Boysun",
+    "it:t": "Uzbekistan | Surkhandarya",
+    "es": "Boysun",
+    "es:t": "Uzbekistán | Surjandarín",
+    "de": "Baysun",
+    "de:t": "Usbekistan | Surxondaryo"
+  },
+  {
+    "en": "Bekobod",
+    "en:t": "Uzbekistan | Bekabad",
+    "a": true,
+    "g": {
+      "lat": 40.2204,
+      "lon": 69.258
+    },
+    "it": "Bekobod",
+    "it:t": "Uzbekistan | Bekabad",
+    "es": "Bekobod",
+    "es:t": "Uzbekistán | Bekabad",
+    "de": "Bekobod",
+    "de:t": "Usbekistan | Bekabad"
+  },
+  {
+    "en": "Bektemir",
+    "en:t": "Uzbekistan",
+    "a": true,
+    "g": {
+      "lat": 41.2367,
+      "lon": 69.3414
+    },
+    "it": "Bektemir",
+    "it:t": "Uzbekistan",
+    "es": "Taskent",
+    "es:t": "Uzbekistán",
+    "de": "Bektemir",
+    "de:t": "Usbekistan"
+  },
+  {
+    "en": "Beruni",
+    "en:t": "Uzbekistan | Beruniy",
+    "a": true,
+    "g": {
+      "lat": 41.6752,
+      "lon": 60.7598
+    },
+    "it": "Beruniy",
+    "it:t": "Uzbekistan | Beruniy",
+    "es": "Beruni",
+    "es:t": "Uzbekistán | Beruniy",
+    "de": "Beruniy",
+    "de:t": "Usbekistan | Beruniy"
+  },
+  {
+    "en": "Besharyk",
+    "en:t": "Uzbekistan | Besharik",
+    "a": true,
+    "g": {
+      "lat": 40.4375,
+      "lon": 70.5979
+    },
+    "it": "Besharyk",
+    "it:t": "Uzbekistan | Besharik",
+    "es": "Besarik",
+    "es:t": "Uzbekistán | Besharik",
+    "de": "Beshariq",
+    "de:t": "Usbekistan | Besharik"
+  },
+  {
+    "en": "Beshkent",
+    "en:t": "Uzbekistan | Karshi",
+    "a": true,
+    "g": {
+      "lat": 38.8225,
+      "lon": 65.654
+    },
+    "it": "Beshkent",
+    "it:t": "Uzbekistan | Karshi",
+    "es": "Beshkent",
+    "es:t": "Uzbekistán | Karshi",
+    "de": "Beshkent",
+    "de:t": "Usbekistan | Karshi"
+  },
+  {
+    "en": "Buka",
+    "en:t": "Uzbekistan | Buka Dustrict",
+    "a": true,
+    "g": {
+      "lat": 40.8106,
+      "lon": 69.2341
+    },
+    "it": "Buka",
+    "it:t": "Uzbekistan | Buka Dustrict",
+    "es": "Buka",
+    "es:t": "Uzbekistán | Buka Dustrict",
+    "de": "Boʻka",
+    "de:t": "Usbekistan | Buka Dustrict"
+  },
+  {
+    "en": "Bukhara",
+    "en:t": "Uzbekistan",
+    "a": true,
+    "g": {
+      "lat": 39.7681,
+      "lon": 64.4556
+    },
+    "it": "Bukhara",
+    "it:t": "Uzbekistan",
+    "es": "Bujará",
+    "es:t": "Uzbekistán",
+    "de": "Buxoro",
+    "de:t": "Usbekistan"
+  },
+  {
+    "en": "Bukhara",
+    "en:t": "Uzbekistan",
+    "a": true,
+    "g": {
+      "lat": 39.7681,
+      "lon": 64.4556
+    },
+    "it": "Gijduvon",
+    "it:t": "Uzbekistan",
+    "es": "Bujará",
+    "es:t": "Uzbekistán",
+    "de": "Gʻijduvon",
+    "de:t": "Usbekistan"
+  },
+  {
+    "en": "Bulungur",
+    "en:t": "Uzbekistan",
+    "a": true,
+    "g": {
+      "lat": 39.7573,
+      "lon": 67.2729
+    },
+    "it": "Bulungur",
+    "it:t": "Uzbekistan",
+    "es": "Buluņgur",
+    "es:t": "Uzbekistán",
+    "de": "Bulungur",
+    "de:t": "Usbekistan"
+  },
+  {
+    "en": "Chartak",
+    "en:t": "Uzbekistan",
+    "a": true,
+    "g": {
+      "lat": 41.0641,
+      "lon": 71.8216
+    },
+    "it": "Chartak",
+    "it:t": "Uzbekistan",
+    "es": "Çartak",
+    "es:t": "Uzbekistán",
+    "de": "Chortoq",
+    "de:t": "Usbekistan"
+  },
+  {
+    "en": "Chelak",
+    "en:t": "Uzbekistan | Payarik",
+    "a": true,
+    "g": {
+      "lat": 39.9207,
+      "lon": 66.8618
+    },
+    "it": "Chelak",
+    "it:t": "Uzbekistan | Payarik",
+    "es": "Chelak",
+    "es:t": "Uzbekistán | Payarik",
+    "de": "Chelak",
+    "de:t": "Usbekistan | Payarik"
+  },
+  {
+    "en": "Chinaz",
+    "en:t": "Uzbekistan",
+    "a": true,
+    "g": {
+      "lat": 40.9463,
+      "lon": 68.7513
+    },
+    "it": "Chinaz",
+    "it:t": "Uzbekistan",
+    "es": "Chinoz",
+    "es:t": "Uzbekistán",
+    "de": "Chinaz",
+    "de:t": "Usbekistan"
+  },
+  {
+    "en": "Chirakchi",
+    "en:t": "Uzbekistan | Chirokchi",
+    "a": true,
+    "g": {
+      "lat": 39.038,
+      "lon": 66.5581
+    },
+    "it": "Chiroqchi",
+    "it:t": "Uzbekistan | Chiroqchi",
+    "es": "Chiroqchi",
+    "es:t": "Uzbekistán | Chirokchi",
+    "de": "Tschiraktschi",
+    "de:t": "Usbekistan | Chirokchi"
+  },
+  {
+    "en": "Chirchik",
+    "en:t": "Uzbekistan | Kibray",
+    "a": true,
+    "g": {
+      "lat": 41.4888,
+      "lon": 69.5857
+    },
+    "it": "Chirchiq",
+    "it:t": "Uzbekistan | Qibray",
+    "es": "Chirchiq",
+    "es:t": "Uzbekistán | Kibray",
+    "de": "Chirchiq",
+    "de:t": "Usbekistan | Kibray"
+  },
+  {
+    "en": "Chust",
+    "en:t": "Uzbekistan",
+    "a": true,
+    "g": {
+      "lat": 41.0053,
+      "lon": 71.2362
+    },
+    "it": "Chust",
+    "it:t": "Uzbekistan",
+    "es": "Chust",
+    "es:t": "Uzbekistán",
+    "de": "Chust",
+    "de:t": "Usbekistan"
+  },
+  {
+    "en": "Denau",
+    "en:t": "Uzbekistan | Surxondaryo",
+    "a": true,
+    "g": {
+      "lat": 38.2764,
+      "lon": 67.8927
+    },
+    "it": "Denov",
+    "it:t": "Uzbekistan | Surkhandarya",
+    "es": "Denov",
+    "es:t": "Uzbekistán | Surjandarín",
+    "de": "Denov",
+    "de:t": "Usbekistan | Surxondaryo"
+  },
+  {
+    "en": "Dustlik",
+    "en:t": "Uzbekistan",
+    "a": true,
+    "g": {
+      "lat": 40.5292,
+      "lon": 68.0299
+    },
+    "it": "Dustlik",
+    "it:t": "Uzbekistan",
+    "es": "Dustlik",
+    "es:t": "Uzbekistán",
+    "de": "Dustlik",
+    "de:t": "Usbekistan"
+  },
+  {
+    "en": "Fergana",
+    "en:t": "Uzbekistan",
+    "a": true,
+    "g": {
+      "lat": 40.3734,
+      "lon": 71.7978
+    },
+    "it": "Fergana",
+    "it:t": "Uzbekistan",
+    "es": "Ferganá",
+    "es:t": "Uzbekistán",
+    "de": "Fargʻona",
+    "de:t": "Usbekistan"
+  },
+  {
+    "en": "Gagarin",
+    "en:t": "Uzbekistan | Mirzachul",
+    "a": true,
+    "g": {
+      "lat": 40.6606,
+      "lon": 68.1789
+    },
+    "it": "Gagarin",
+    "it:t": "Uzbekistan | Mirzachul",
+    "es": "Gagarin",
+    "es:t": "Uzbekistán | Mirzachul",
+    "de": "Gagarin",
+    "de:t": "Usbekistan | Mirzachul"
+  },
+  {
+    "en": "Galaasiya",
+    "en:t": "Uzbekistan | Bukhara",
+    "a": true,
+    "g": {
+      "lat": 39.8583,
+      "lon": 64.4497
+    },
+    "it": "Galaasiya",
+    "it:t": "Uzbekistan | Bukhara",
+    "es": "Galaosiye",
+    "es:t": "Uzbekistán | Bukhara",
+    "de": "Galaasiya",
+    "de:t": "Usbekistan | Bukhara"
+  },
+  {
+    "en": "Gazalkent",
+    "en:t": "Uzbekistan | Bostanlik",
+    "a": true,
+    "g": {
+      "lat": 41.5659,
+      "lon": 69.7704
+    },
+    "it": "Gazalkent",
+    "it:t": "Uzbekistan | Bostanlik",
+    "es": "Gazalkent",
+    "es:t": "Uzbekistán | Bostanlik",
+    "de": "Gʻazalkent",
+    "de:t": "Usbekistan | Bostanlik"
+  },
+  {
+    "en": "Gulistan",
+    "en:t": "Uzbekistan",
+    "a": true,
+    "g": {
+      "lat": 40.4915,
+      "lon": 68.7811
+    },
+    "it": "Gulistan",
+    "it:t": "Uzbekistan",
+    "es": "Guliston",
+    "es:t": "Uzbekistán",
+    "de": "Guliston",
+    "de:t": "Usbekistan"
+  },
+  {
+    "en": "Gurlen",
+    "en:t": "Uzbekistan",
+    "a": true,
+    "g": {
+      "lat": 41.8563,
+      "lon": 60.3986
+    },
+    "it": "Gurlan",
+    "it:t": "Uzbekistan",
+    "es": "Gurlan",
+    "es:t": "Uzbekistán",
+    "de": "Gurlen",
+    "de:t": "Usbekistan"
+  },
+  {
+    "en": "Guzar",
+    "en:t": "Uzbekistan",
+    "a": true,
+    "g": {
+      "lat": 38.6087,
+      "lon": 66.2605
+    },
+    "it": "Guzar",
+    "it:t": "Uzbekistan",
+    "es": "G'uzor",
+    "es:t": "Uzbekistán",
+    "de": "Guzar",
+    "de:t": "Usbekistan"
+  },
+  {
+    "en": "Hakkulobod",
+    "en:t": "Uzbekistan | Norin",
+    "a": true,
+    "g": {
+      "lat": 40.9106,
+      "lon": 72.112
+    },
+    "it": "Hakkulobod",
+    "it:t": "Uzbekistan | Norin",
+    "es": "Hakkulobod",
+    "es:t": "Uzbekistán | Norin",
+    "de": "Haqqulobod",
+    "de:t": "Usbekistan | Norin"
+  },
+  {
+    "en": "Hazorasp",
+    "en:t": "Uzbekistan",
+    "a": true,
+    "g": {
+      "lat": 41.2996,
+      "lon": 61.0884
+    },
+    "it": "Khzorasp",
+    "it:t": "Uzbekistan",
+    "es": "Hazorasp",
+    "es:t": "Uzbekistán",
+    "de": "Hazorasp",
+    "de:t": "Usbekistan"
+  },
+  {
+    "en": "Iskandar",
+    "en:t": "Uzbekistan | Bostanlik",
+    "a": true,
+    "g": {
+      "lat": 41.5569,
+      "lon": 69.7078
+    },
+    "it": "Iskandar",
+    "it:t": "Uzbekistan | Bostanlik",
+    "es": "Iskandar",
+    "es:t": "Uzbekistán | Bostanlik",
+    "de": "Iskandar",
+    "de:t": "Usbekistan | Bostanlik"
+  },
+  {
+    "en": "Jizzakh",
+    "en:t": "Uzbekistan",
+    "a": true,
+    "g": {
+      "lat": 40.125,
+      "lon": 67.8808
+    },
+    "it": "Jizzax",
+    "it:t": "Uzbekistan",
+    "es": "Djizaks",
+    "es:t": "Uzbekistán",
+    "de": "Jizzax",
+    "de:t": "Usbekistan"
+  },
+  {
+    "en": "Juma",
+    "en:t": "Uzbekistan | Pastdargom",
+    "a": true,
+    "g": {
+      "lat": 39.706,
+      "lon": 66.6534
+    },
+    "it": "Juma",
+    "it:t": "Uzbekistan | Pasdargom",
+    "es": "Juma",
+    "es:t": "Uzbekistán | Pastdargom",
+    "de": "Juma",
+    "de:t": "Usbekistan | Pastdargom"
+  },
+  {
+    "en": "Kasan",
+    "en:t": "Uzbekistan",
+    "a": true,
+    "g": {
+      "lat": 39.0427,
+      "lon": 65.5827
+    },
+    "it": "Koson",
+    "it:t": "Uzbekistan",
+    "es": "Koson",
+    "es:t": "Uzbekistán",
+    "de": "Kasan",
+    "de:t": "Usbekistan"
+  },
+  {
+    "en": "Kattakurgan",
+    "en:t": "Uzbekistan",
+    "a": true,
+    "g": {
+      "lat": 39.8972,
+      "lon": 66.2724
+    },
+    "it": "Kattaqo'rg'on",
+    "it:t": "Uzbekistan",
+    "es": "Kattaqo'rg'on",
+    "es:t": "Uzbekistán",
+    "de": "Kattaqoʻrgʻon",
+    "de:t": "Usbekistan"
+  },
+  {
+    "en": "Khiva",
+    "en:t": "Uzbekistan",
+    "a": true,
+    "g": {
+      "lat": 41.3895,
+      "lon": 60.3415
+    },
+    "it": "Khiva",
+    "it:t": "Uzbekistan",
+    "es": "Jiva",
+    "es:t": "Uzbekistán",
+    "de": "Xiva",
+    "de:t": "Usbekistan"
+  },
+  {
+    "en": "Khojayli",
+    "en:t": "Uzbekistan | Khodjeyli",
+    "a": true,
+    "g": {
+      "lat": 42.4234,
+      "lon": 59.4522
+    },
+    "it": "Xo'jayli",
+    "it:t": "Uzbekistan | Khodjayli",
+    "es": "Khojayli",
+    "es:t": "Uzbekistán | Khodjeyli",
+    "de": "Xoʻjayli",
+    "de:t": "Usbekistan | Khodjeyli"
+  },
+  {
+    "en": "Kibray",
+    "en:t": "Uzbekistan",
+    "a": true,
+    "g": {
+      "lat": 41.3869,
+      "lon": 69.4636
+    },
+    "it": "Qibray",
+    "it:t": "Uzbekistan",
+    "es": "Kibray",
+    "es:t": "Uzbekistán",
+    "de": "Kibray",
+    "de:t": "Usbekistan"
+  },
+  {
+    "en": "Kirgili",
+    "en:t": "Uzbekistan | Fergana",
+    "a": true,
+    "g": {
+      "lat": 40.4287,
+      "lon": 71.7741
+    },
+    "it": "Kirgili",
+    "it:t": "Uzbekistan | Fergana",
+    "es": "Kirgili",
+    "es:t": "Uzbekistán | Fergana",
+    "de": "Kirgili",
+    "de:t": "Usbekistan | Fergana"
+  },
+  {
+    "en": "Kitab",
+    "en:t": "Uzbekistan",
+    "a": true,
+    "g": {
+      "lat": 39.1218,
+      "lon": 66.8856
+    },
+    "it": "Kitab",
+    "it:t": "Uzbekistan",
+    "es": "Kitob",
+    "es:t": "Uzbekistán",
+    "de": "Kitab",
+    "de:t": "Usbekistan"
+  },
+  {
+    "en": "Kogon",
+    "en:t": "Uzbekistan | Kagan",
+    "a": true,
+    "g": {
+      "lat": 39.7199,
+      "lon": 64.5385
+    },
+    "it": "Kogon",
+    "it:t": "Uzbekistan | Kogon",
+    "es": "Kogon",
+    "es:t": "Uzbekistán | Kagan",
+    "de": "Kogon",
+    "de:t": "Usbekistan | Kagan"
+  },
+  {
+    "en": "Kokand",
+    "en:t": "Uzbekistan | Fergana",
+    "a": true,
+    "g": {
+      "lat": 40.5341,
+      "lon": 70.9309
+    },
+    "it": "Kokand",
+    "it:t": "Uzbekistan | Fergana",
+    "es": "Kokand",
+    "es:t": "Uzbekistán | Ferganá",
+    "de": "Kokand",
+    "de:t": "Usbekistan | Fargʻona"
+  },
+  {
+    "en": "Kosonsoy",
+    "en:t": "Uzbekistan",
+    "a": true,
+    "g": {
+      "lat": 41.2471,
+      "lon": 71.5427
+    },
+    "it": "Kosonsoy",
+    "it:t": "Uzbekistan",
+    "es": "Kosonsoy",
+    "es:t": "Uzbekistán",
+    "de": "Kosonsoy",
+    "de:t": "Usbekistan"
+  },
+  {
+    "en": "Kurgontepa",
+    "en:t": "Uzbekistan",
+    "a": true,
+    "g": {
+      "lat": 40.7278,
+      "lon": 72.7629
+    },
+    "it": "Kurgontepa",
+    "it:t": "Uzbekistan",
+    "es": "Kurgontepa",
+    "es:t": "Uzbekistán",
+    "de": "Qoʻrgʻontepa",
+    "de:t": "Usbekistan"
+  },
+  {
+    "en": "Kuva",
+    "en:t": "Uzbekistan",
+    "a": true,
+    "g": {
+      "lat": 40.5258,
+      "lon": 72.0705
+    },
+    "it": "Kuva",
+    "it:t": "Uzbekistan",
+    "es": "Kuva",
+    "es:t": "Uzbekistán",
+    "de": "Quva",
+    "de:t": "Usbekistan"
+  },
+  {
+    "en": "Kuvasoy",
+    "en:t": "Uzbekistan | Fergana",
+    "a": true,
+    "g": {
+      "lat": 40.3054,
+      "lon": 71.9579
+    },
+    "it": "Kuvasoy",
+    "it:t": "Uzbekistan | Fergana",
+    "es": "Kuvasay",
+    "es:t": "Uzbekistán | Ferganá",
+    "de": "Quvasoy",
+    "de:t": "Usbekistan | Fargʻona"
+  },
+  {
+    "en": "Mangit",
+    "en:t": "Uzbekistan | Amudarya",
+    "a": true,
+    "g": {
+      "lat": 42.1069,
+      "lon": 60.0789
+    },
+    "it": "Mangit",
+    "it:t": "Uzbekistan | Amudarya",
+    "es": "Mang'it",
+    "es:t": "Uzbekistán | Amudarya",
+    "de": "Mangit",
+    "de:t": "Usbekistan | Amudarya"
+  },
+  {
+    "en": "Margilan",
+    "en:t": "Uzbekistan | Tashlak",
+    "a": true,
+    "g": {
+      "lat": 40.4801,
+      "lon": 71.7267
+    },
+    "it": "Margilan",
+    "it:t": "Uzbekistan | Tashlaq",
+    "es": "Marg'ilon",
+    "es:t": "Uzbekistán | Tashlak",
+    "de": "Margʻilon",
+    "de:t": "Usbekistan | Tashlak"
+  },
+  {
+    "en": "Mubarek",
+    "en:t": "Uzbekistan | Muborak",
+    "a": true,
+    "g": {
+      "lat": 39.26,
+      "lon": 65.1551
+    },
+    "it": "Mubarek",
+    "it:t": "Uzbekistan | Muborak",
+    "es": "Muborak",
+    "es:t": "Uzbekistán | Muborak",
+    "de": "Mubarek",
+    "de:t": "Usbekistan | Muborak"
+  },
+  {
+    "en": "Namangan",
+    "en:t": "Uzbekistan",
+    "a": true,
+    "g": {
+      "lat": 41.0058,
+      "lon": 71.6436
+    },
+    "it": "Namangan",
+    "it:t": "Uzbekistan",
+    "es": "Namangán",
+    "es:t": "Uzbekistán",
+    "de": "Uchqoʻrgʻon",
+    "de:t": "Usbekistan"
+  },
+  {
+    "en": "Namangan",
+    "en:t": "Uzbekistan",
+    "a": true,
+    "g": {
+      "lat": 41.0058,
+      "lon": 71.6436
+    },
+    "it": "Namangan",
+    "it:t": "Uzbekistan",
+    "es": "Namangán",
+    "es:t": "Uzbekistán",
+    "de": "Namangan",
+    "de:t": "Usbekistan"
+  },
+  {
+    "en": "Navoi",
+    "en:t": "Uzbekistan | Karmana",
+    "a": true,
+    "g": {
+      "lat": 40.1039,
+      "lon": 65.3688
+    },
+    "it": "Navoiy",
+    "it:t": "Uzbekistan | Karmana",
+    "es": "Navoi",
+    "es:t": "Uzbekistán | Karmana",
+    "de": "Navoiy",
+    "de:t": "Usbekistan | Karmana"
+  },
+  {
+    "en": "Nukus",
+    "en:t": "Uzbekistan",
+    "a": true,
+    "g": {
+      "lat": 42.4619,
+      "lon": 59.6166
+    },
+    "it": "Nukus",
+    "it:t": "Uzbekistan",
+    "es": "Nukus",
+    "es:t": "Uzbekistán",
+    "de": "Nukus",
+    "de:t": "Usbekistan"
+  },
+  {
+    "en": "Nurota",
+    "en:t": "Uzbekistan | Nurata",
+    "a": true,
+    "g": {
+      "lat": 40.5631,
+      "lon": 65.7015
+    },
+    "it": "Nurota",
+    "it:t": "Uzbekistan | Nurota",
+    "es": "Nurota",
+    "es:t": "Uzbekistán | Nurata",
+    "de": "Nurota",
+    "de:t": "Usbekistan | Nurata"
+  },
+  {
+    "en": "Ohangaron",
+    "en:t": "Uzbekistan | Ahangaran",
+    "a": true,
+    "g": {
+      "lat": 40.9187,
+      "lon": 69.6334
+    },
+    "it": "Okhangaron",
+    "it:t": "Uzbekistan | Okhangaron",
+    "es": "Ohangaron",
+    "es:t": "Uzbekistán | Ahangaran",
+    "de": "Ohangaron",
+    "de:t": "Usbekistan | Ahangaran"
+  },
+  {
+    "en": "Pakhtakor",
+    "en:t": "Uzbekistan",
+    "a": true,
+    "g": {
+      "lat": 40.3134,
+      "lon": 67.9702
+    },
+    "it": "Pakhtakor",
+    "it:t": "Uzbekistan",
+    "es": "Pahtakor",
+    "es:t": "Uzbekistán",
+    "de": "Paxtakor",
+    "de:t": "Usbekistan"
+  },
+  {
+    "en": "Parkent",
+    "en:t": "Uzbekistan",
+    "a": true,
+    "g": {
+      "lat": 41.2948,
+      "lon": 69.681
+    },
+    "it": "Parkent",
+    "it:t": "Uzbekistan",
+    "es": "Parkent",
+    "es:t": "Uzbekistán",
+    "de": "Parkent",
+    "de:t": "Usbekistan"
+  },
+  {
+    "en": "Payshanba",
+    "en:t": "Uzbekistan | Kattakurgan",
+    "a": true,
+    "g": {
+      "lat": 40.0121,
+      "lon": 66.2427
+    },
+    "it": "Payshanba",
+    "it:t": "Uzbekistan | Kattakurgan",
+    "es": "Payshanba",
+    "es:t": "Uzbekistán | Kattakurgan",
+    "de": "Payshanba",
+    "de:t": "Usbekistan | Kattakurgan"
+  },
+  {
+    "en": "Pop",
+    "en:t": "Uzbekistan",
+    "a": true,
+    "g": {
+      "lat": 40.8815,
+      "lon": 71.1033
+    },
+    "it": "Pop",
+    "it:t": "Uzbekistan",
+    "es": "Pap",
+    "es:t": "Uzbekistán",
+    "de": "Pop",
+    "de:t": "Usbekistan"
+  },
+  {
+    "en": "Pskent",
+    "en:t": "Uzbekistan",
+    "a": true,
+    "g": {
+      "lat": 40.8986,
+      "lon": 69.3414
+    },
+    "it": "Piskent",
+    "it:t": "Uzbekistan",
+    "es": "Pskent",
+    "es:t": "Uzbekistán",
+    "de": "Pskent",
+    "de:t": "Usbekistan"
+  },
+  {
+    "en": "Qarshi",
+    "en:t": "Uzbekistan | Karshi",
+    "a": true,
+    "g": {
+      "lat": 38.8612,
+      "lon": 65.7847
+    },
+    "it": "Karshi",
+    "it:t": "Uzbekistan | Karshi",
+    "es": "Qarshi",
+    "es:t": "Uzbekistán | Karshi",
+    "de": "Qarshi",
+    "de:t": "Usbekistan | Karshi"
+  },
+  {
+    "en": "Qorako'l",
+    "en:t": "Uzbekistan | Alat",
+    "a": true,
+    "g": {
+      "lat": 39.4959,
+      "lon": 63.8567
+    },
+    "it": "Qorako'l",
+    "it:t": "Uzbekistan | Olot",
+    "es": "Qorako'l",
+    "es:t": "Uzbekistán | Alat",
+    "de": "Qorakoʻl",
+    "de:t": "Usbekistan | Alat"
+  },
+  {
+    "en": "Qoshkopir",
+    "en:t": "Uzbekistan | Kushkupir",
+    "a": true,
+    "g": {
+      "lat": 41.5267,
+      "lon": 60.347
+    },
+    "it": "Kushkupir",
+    "it:t": "Uzbekistan | Kushkupir",
+    "es": "Qoshkopir",
+    "es:t": "Uzbekistán | Kushkupir",
+    "de": "Qoshkopir",
+    "de:t": "Usbekistan | Kushkupir"
+  },
+  {
+    "en": "Safirkon",
+    "en:t": "Uzbekistan | Vabkent",
+    "a": true,
+    "g": {
+      "lat": 40.1324,
+      "lon": 64.4911
+    },
+    "it": "Shofirkon",
+    "it:t": "Uzbekistan | Vobkent",
+    "es": "Shafirkan",
+    "es:t": "Uzbekistán | Vabkent",
+    "de": "Safirkon",
+    "de:t": "Usbekistan | Vabkent"
+  },
+  {
+    "en": "Samarkand",
+    "en:t": "Uzbekistan",
+    "a": true,
+    "g": {
+      "lat": 39.627,
+      "lon": 66.975
+    },
+    "it": "Samarcanda",
+    "it:t": "Uzbekistan",
+    "es": "Samarcanda",
+    "es:t": "Uzbekistán",
+    "de": "Samarkand",
+    "de:t": "Usbekistan"
+  },
+  {
+    "en": "Shahrisabz",
+    "en:t": "Uzbekistan | Shakhrisabz",
+    "a": true,
+    "g": {
+      "lat": 39.0538,
+      "lon": 66.8201
+    },
+    "it": "Shahrisabz",
+    "it:t": "Uzbekistan | Shahrisabz",
+    "es": "Shahrisabz",
+    "es:t": "Uzbekistán | Shakhrisabz",
+    "de": "Shahrisabz",
+    "de:t": "Usbekistan | Shakhrisabz"
+  },
+  {
+    "en": "Shurchi",
+    "en:t": "Uzbekistan | Surxondaryo",
+    "a": true,
+    "g": {
+      "lat": 38.01,
+      "lon": 67.7914
+    },
+    "it": "Shurchi",
+    "it:t": "Uzbekistan | Surkhandarya",
+    "es": "Sho`rchi",
+    "es:t": "Uzbekistán | Surjandarín",
+    "de": "Shurchi",
+    "de:t": "Usbekistan | Surxondaryo"
+  },
+  {
+    "en": "Syrdarya",
+    "en:t": "Uzbekistan",
+    "a": true,
+    "g": {
+      "lat": 40.8373,
+      "lon": 68.6618
+    },
+    "it": "Syrdarya",
+    "it:t": "Uzbekistan",
+    "es": "Sirdaryo",
+    "es:t": "Uzbekistán",
+    "de": "Syrdarya",
+    "de:t": "Usbekistan"
+  },
+  {
+    "en": "Tashbulak",
+    "en:t": "Uzbekistan | Samarqand",
+    "a": true,
+    "g": {
+      "lat": 39.973,
+      "lon": 67.1999
+    },
+    "it": "Tashbulak",
+    "it:t": "Uzbekistan | Samarqand",
+    "es": "Tashbulak",
+    "es:t": "Uzbekistán | Samarqand",
+    "de": "Tashbulak",
+    "de:t": "Usbekistan | Samarqand"
+  },
+  {
+    "en": "Tashkent",
+    "en:t": "Uzbekistan",
+    "a": true,
+    "g": {
+      "lat": 41.2995,
+      "lon": 69.2401
+    },
+    "it": "Tashkent",
+    "it:t": "Uzbekistan",
+    "es": "Taskent",
+    "es:t": "Uzbekistán",
+    "de": "Taschkent",
+    "de:t": "Usbekistan"
+  },
+  {
+    "en": "Tashlak",
+    "en:t": "Uzbekistan | Fergana",
+    "a": true,
+    "g": {
+      "lat": 40.527,
+      "lon": 71.8334
+    },
+    "it": "Tashlaq",
+    "it:t": "Uzbekistan | Fergana",
+    "es": "Tashlak",
+    "es:t": "Uzbekistán | Fergana",
+    "de": "Fargʻona",
+    "de:t": "Usbekistan | Fergana"
+  },
+  {
+    "en": "Termez",
+    "en:t": "Uzbekistan | Surxondaryo",
+    "a": true,
+    "g": {
+      "lat": 37.2611,
+      "lon": 67.3086
+    },
+    "it": "Termez",
+    "it:t": "Uzbekistan | Surkhandarya",
+    "es": "Termez",
+    "es:t": "Uzbekistán | Surjandarín",
+    "de": "Termiz",
+    "de:t": "Usbekistan | Surxondaryo"
+  },
+  {
+    "en": "Toytepa",
+    "en:t": "Uzbekistan | Urtachirchik",
+    "a": true,
+    "g": {
+      "lat": 41.0459,
+      "lon": 69.3533
+    },
+    "it": "Toytepa",
+    "it:t": "Uzbekistan | Orta Chirchik",
+    "es": "Toytepa",
+    "es:t": "Uzbekistán | Urtachirchik",
+    "de": "Toytepa",
+    "de:t": "Usbekistan | Urtachirchik"
+  },
+  {
+    "en": "Turtkul",
+    "en:t": "Uzbekistan | Beruniy",
+    "a": true,
+    "g": {
+      "lat": 41.5519,
+      "lon": 60.9907
+    },
+    "it": "Turtkul",
+    "it:t": "Uzbekistan | Beruniy",
+    "es": "To'rtko'l",
+    "es:t": "Uzbekistán | Beruniy",
+    "de": "Toʻrtkoʻl",
+    "de:t": "Usbekistan | Beruniy"
+  },
+  {
+    "en": "Ulyanovo",
+    "en:t": "Uzbekistan | Zaamin",
+    "a": true,
+    "g": {
+      "lat": 40.1315,
+      "lon": 68.483
+    },
+    "it": "Ulyanovo",
+    "it:t": "Uzbekistan | Zaamin",
+    "es": "Ulyanovo",
+    "es:t": "Uzbekistán | Zaamin",
+    "de": "Ulyanovo",
+    "de:t": "Usbekistan | Zaamin"
+  },
+  {
+    "en": "Urgench",
+    "en:t": "Uzbekistan",
+    "a": true,
+    "g": {
+      "lat": 41.5345,
+      "lon": 60.6249
+    },
+    "it": "Urgench",
+    "it:t": "Uzbekistan",
+    "es": "Urgench",
+    "es:t": "Uzbekistán",
+    "de": "Urganch",
+    "de:t": "Usbekistan"
+  },
+  {
+    "en": "Urgut",
+    "en:t": "Uzbekistan",
+    "a": true,
+    "g": {
+      "lat": 39.4188,
+      "lon": 67.249
+    },
+    "it": "Urgut",
+    "it:t": "Uzbekistan",
+    "es": "Urgut",
+    "es:t": "Uzbekistán",
+    "de": "Urgut",
+    "de:t": "Usbekistan"
+  },
+  {
+    "en": "Uyci",
+    "en:t": "Uzbekistan | Uychi",
+    "a": true,
+    "g": {
+      "lat": 41.029,
+      "lon": 71.8453
+    },
+    "it": "Uyci",
+    "it:t": "Uzbekistan | Uychi",
+    "es": "Uychi",
+    "es:t": "Uzbekistán | Uychi",
+    "de": "Uychi",
+    "de:t": "Usbekistan | Uychi"
+  },
+  {
+    "en": "Vobkent",
+    "en:t": "Uzbekistan | Vabkent",
+    "a": true,
+    "g": {
+      "lat": 40.0289,
+      "lon": 64.5207
+    },
+    "it": "Vobkent",
+    "it:t": "Uzbekistan | Vobkent",
+    "es": "Vobkent",
+    "es:t": "Uzbekistán | Vabkent",
+    "de": "Vobkent",
+    "de:t": "Usbekistan | Vabkent"
+  },
+  {
+    "en": "Yangiabad",
+    "en:t": "Uzbekistan | Ahangaran",
+    "a": true,
+    "g": {
+      "lat": 41.1155,
+      "lon": 70.1039
+    },
+    "it": "Yangiabad",
+    "it:t": "Uzbekistan | Ahangaran",
+    "es": "Yangiabod",
+    "es:t": "Uzbekistán | Ahangaran",
+    "de": "Yangiabad",
+    "de:t": "Usbekistan | Ahangaran"
+  },
+  {
+    "en": "Yangikurgon",
+    "en:t": "Uzbekistan",
+    "a": true,
+    "g": {
+      "lat": 41.2706,
+      "lon": 71.7148
+    },
+    "it": "Yangikurgan",
+    "it:t": "Uzbekistan",
+    "es": "Yangikurgon",
+    "es:t": "Uzbekistán",
+    "de": "Yangikurgon",
+    "de:t": "Usbekistan"
+  },
+  {
+    "en": "Yangirabod",
+    "en:t": "Uzbekistan | Khatyrchi",
+    "a": true,
+    "g": {
+      "lat": 40.0396,
+      "lon": 65.969
+    },
+    "it": "Yangirabod",
+    "it:t": "Uzbekistan | Khatyrchi",
+    "es": "Yanirobod",
+    "es:t": "Uzbekistán | Khatyrchi",
+    "de": "Yangirabod",
+    "de:t": "Usbekistan | Khatyrchi"
+  },
+  {
+    "en": "Yangiyer",
+    "en:t": "Uzbekistan | Khavast",
+    "a": true,
+    "g": {
+      "lat": 40.2801,
+      "lon": 68.8228
+    },
+    "it": "Yangiyer",
+    "it:t": "Uzbekistan | Khavast",
+    "es": "Yangiyer",
+    "es:t": "Uzbekistán | Khavast",
+    "de": "Yangiyer",
+    "de:t": "Usbekistan | Khavast"
+  },
+  {
+    "en": "Yangiyul",
+    "en:t": "Uzbekistan",
+    "a": true,
+    "g": {
+      "lat": 41.1213,
+      "lon": 69.0613
+    },
+    "it": "Yangiyol",
+    "it:t": "Uzbekistan",
+    "es": "Yangiyo'l",
+    "es:t": "Uzbekistán",
+    "de": "Yangiyoʻl",
+    "de:t": "Usbekistan"
+  },
+  {
+    "en": "Yaypan",
+    "en:t": "Uzbekistan | Uzbekistan",
+    "a": true,
+    "g": {
+      "lat": 40.3644,
+      "lon": 70.8001
+    },
+    "it": "Yaypan",
+    "it:t": "Uzbekistan | Uzbekistan",
+    "es": "Yaypan",
+    "es:t": "Uzbekistán | Uzbekistan",
+    "de": "Yaypan",
+    "de:t": "Usbekistan | Uzbekistan"
+  },
+  {
+    "en": "Zaamin",
+    "en:t": "Uzbekistan",
+    "a": true,
+    "g": {
+      "lat": 39.9624,
+      "lon": 68.3935
+    },
+    "it": "Zaamin",
+    "it:t": "Uzbekistan",
+    "es": "Zomin",
+    "es:t": "Uzbekistán",
+    "de": "Zaamin",
+    "de:t": "Usbekistan"
+  },
+  {
+    "en": "Zafar",
+    "en:t": "Uzbekistan | Bekabad",
+    "a": true,
+    "g": {
+      "lat": 40.3777,
+      "lon": 69.249
+    },
+    "it": "Zafar",
+    "it:t": "Uzbekistan | Bekabad",
+    "es": "Zafar",
+    "es:t": "Uzbekistán | Bekabad",
+    "de": "Zafar",
+    "de:t": "Usbekistan | Bekabad"
+  }
+]

@@ -1,0 +1,317 @@
+[
+    {
+        "en": "'Amran",
+        "en:t": "Yemen | 'Amran",
+        "a": true,
+        "g": {
+            "lat": 15.6621,
+            "lon": 43.9341
+        },
+        "it": "'Amran",
+        "it:t": "Yemen | 'Amran",
+        "es": "'Amran",
+        "es:t": "Yemen | 'Amran",
+        "de": "\u02bfAmr\u0101n",
+        "de:t": "Jemen | \u02bfAmr\u0101n"
+    },
+    {
+        "en": "Aden",
+        "en:t": "Yemen | 'Adan",
+        "a": true,
+        "g": {
+            "lat": 12.7855,
+            "lon": 45.0187
+        },
+        "it": "Aden",
+        "it:t": "Yemen | 'Adan",
+        "es": "Ad\u00e9n",
+        "es:t": "Yemen | 'Adan",
+        "de": "Aden",
+        "de:t": "Jemen | Adan"
+    },
+    {
+        "en": "Al Bayda",
+        "en:t": "Yemen | Al Bayda",
+        "a": true,
+        "g": {
+            "lat": 13.9889,
+            "lon": 45.5771
+        },
+        "it": "al-Bayda",
+        "it:t": "Yemen | al-Bayda",
+        "es": "Al Bayda",
+        "es:t": "Yemen | Al Bayda",
+        "de": "Al Bayda",
+        "de:t": "Jemen | Al Bayda"
+    },
+    {
+        "en": "Al Hudaydah",
+        "en:t": "Yemen | Al Hudaydah",
+        "a": true,
+        "g": {
+            "lat": 14.7909,
+            "lon": 42.9709
+        },
+        "it": "al-Hudayda",
+        "it:t": "Yemen | al-Hudayda",
+        "es": "Al Hudayda",
+        "es:t": "Yemen | Al Hudayda",
+        "de": "al-Hudaida",
+        "de:t": "Jemen | al-Hudaida"
+    },
+    {
+        "en": "Al Mukalla",
+        "en:t": "Yemen | Hadhramaut",
+        "a": true,
+        "g": {
+            "lat": 14.5404,
+            "lon": 49.1272
+        },
+        "it": "Al-Mukalla",
+        "it:t": "Yemen | Hadramawt",
+        "es": "Al Mukalla",
+        "es:t": "Yemen | Hadramaut",
+        "de": "al-Mukalla",
+        "de:t": "Jemen | Hadramaut"
+    },
+    {
+        "en": "Ataq",
+        "en:t": "Yemen | Shabwah",
+        "a": true,
+        "g": {
+            "lat": 14.5296,
+            "lon": 46.8301
+        },
+        "it": "Ataq",
+        "it:t": "Yemen | Shabwah",
+        "es": "Ataq",
+        "es:t": "Yemen | Shabwah",
+        "de": "\u02bfAtaq",
+        "de:t": "Jemen | Schabwa"
+    },
+    {
+        "en": "Bayt al Faqih",
+        "en:t": "Yemen | Al Hudaydah",
+        "a": true,
+        "g": {
+            "lat": 14.5217,
+            "lon": 43.3246
+        },
+        "it": "Bayt al Faqih",
+        "it:t": "Yemen | Al Hudaydah",
+        "es": "Bayt al Faqih",
+        "es:t": "Yemen | Al Hudaydah",
+        "de": "Bayt al-Faq\u012bh",
+        "de:t": "Jemen | al-Hudaida"
+    },
+    {
+        "en": "Dhamar",
+        "en:t": "Yemen | Dhamar",
+        "a": true,
+        "g": {
+            "lat": 14.5455,
+            "lon": 44.4087
+        },
+        "it": "Dhamar",
+        "it:t": "Yemen | Dhamar",
+        "es": "Dhamar",
+        "es:t": "Yemen | Dhamar",
+        "de": "Dhamar",
+        "de:t": "Jemen | Dhamar"
+    },
+    {
+        "en": "Dhi Sufal",
+        "en:t": "Yemen | Ibb",
+        "a": true,
+        "g": {
+            "lat": 13.8355,
+            "lon": 44.1103
+        },
+        "it": "Dhi Sufal",
+        "it:t": "Yemen | Ibb",
+        "es": "Dhi Sufal",
+        "es:t": "Yemen | Ibb",
+        "de": "Dhi Sufal",
+        "de:t": "Jemen | Ibb"
+    },
+    {
+        "en": "Hajjah",
+        "en:t": "Yemen | Hajjah",
+        "a": true,
+        "g": {
+            "lat": 15.703,
+            "lon": 43.6039
+        },
+        "it": "Hajja",
+        "it:t": "Yemen | Hajja",
+        "es": "Hajjah",
+        "es:t": "Yemen | Hajjah",
+        "de": "Hajjah",
+        "de:t": "Jemen | Hajjah"
+    },
+    {
+        "en": "Ibb",
+        "en:t": "Yemen | Ibb",
+        "a": true,
+        "g": {
+            "lat": 13.9721,
+            "lon": 44.1625
+        },
+        "it": "Ibb",
+        "it:t": "Yemen | Ibb",
+        "es": "Ibb",
+        "es:t": "Yemen | Ibb",
+        "de": "Ibb",
+        "de:t": "Jemen | Ibb"
+    },
+    {
+        "en": "Lahij",
+        "en:t": "Yemen | Lahij",
+        "a": true,
+        "g": {
+            "lat": 13.0578,
+            "lon": 44.8833
+        },
+        "it": "Lahij",
+        "it:t": "Yemen | Lahij",
+        "es": "Lahej",
+        "es:t": "Yemen | Lahij",
+        "de": "Lahidsch",
+        "de:t": "Jemen | Lahidsch"
+    },
+    {
+        "en": "Marib",
+        "en:t": "Yemen | Ma'rib",
+        "a": true,
+        "g": {
+            "lat": 15.47,
+            "lon": 45.3229
+        },
+        "it": "Ma'rib",
+        "it:t": "Yemen | Ma'rib",
+        "es": "Ma'rib",
+        "es:t": "Yemen | Mareb",
+        "de": "Ma'rib",
+        "de:t": "Jemen | Ma'rib"
+    },
+    {
+        "en": "Sa'dah",
+        "en:t": "Yemen | Saada",
+        "a": true,
+        "g": {
+            "lat": 16.9509,
+            "lon": 43.7478
+        },
+        "it": "Sa'da",
+        "it:t": "Yemen | Sa'da",
+        "es": "Sadah",
+        "es:t": "Yemen | Sa'dah",
+        "de": "Sa'da",
+        "de:t": "Jemen | Sa'da"
+    },
+    {
+        "en": "Sana'a",
+        "en:t": "Yemen | Capital",
+        "a": true,
+        "g": {
+            "lat": 15.3694,
+            "lon": 44.191
+        },
+        "it": "San'a",
+        "it:t": "Yemen | Capital",
+        "es": "San\u00e1",
+        "es:t": "Yemen | Capital",
+        "de": "Sanaa",
+        "de:t": "Jemen | Capital"
+    },
+    {
+        "en": "Sana'a",
+        "en:t": "Yemen | Capital",
+        "a": true,
+        "g": {
+            "lat": 15.3694,
+            "lon": 44.191
+        },
+        "it": "Sahar",
+        "it:t": "Yemen | Sana'a",
+        "es": "Sahar",
+        "es:t": "Yemen | Sana'a",
+        "de": "Sahar",
+        "de:t": "Jemen | Sana'a"
+    },
+    {
+        "en": "Sayyan",
+        "en:t": "Yemen | Sana'a",
+        "a": true,
+        "g": {
+            "lat": 15.1733,
+            "lon": 44.3308
+        },
+        "it": "Sayyan",
+        "it:t": "Yemen | Sana'a",
+        "es": "Sayyan",
+        "es:t": "Yemen | Sana'a",
+        "de": "Sayyan",
+        "de:t": "Jemen | Sana'a"
+    },
+    {
+        "en": "Taizz",
+        "en:t": "Yemen | Taizz",
+        "a": true,
+        "g": {
+            "lat": 13.5776,
+            "lon": 44.0178
+        },
+        "it": "Ta'izz",
+        "it:t": "Yemen | Ta'izz",
+        "es": "Taiz",
+        "es:t": "Yemen | Ta'izz",
+        "de": "Taizz",
+        "de:t": "Jemen | Ta'izz"
+    },
+    {
+        "en": "Yarim",
+        "en:t": "Yemen | Ibb",
+        "a": true,
+        "g": {
+            "lat": 14.2965,
+            "lon": 44.3757
+        },
+        "it": "Yarim",
+        "it:t": "Yemen | Ibb",
+        "es": "Yarim",
+        "es:t": "Yemen | Ibb",
+        "de": "Yar\u012bm",
+        "de:t": "Jemen | Ibb"
+    },
+    {
+        "en": "Zabid",
+        "en:t": "Yemen | Al Hudaydah",
+        "a": true,
+        "g": {
+            "lat": 14.2004,
+            "lon": 43.3222
+        },
+        "it": "Zabid",
+        "it:t": "Yemen | al-Hudayda",
+        "es": "Zabid",
+        "es:t": "Yemen | Al Hudayda",
+        "de": "Zabid",
+        "de:t": "Jemen | al-Hudaida"
+    },
+    {
+        "en": "Zinjibar",
+        "en:t": "Yemen | Abyan",
+        "a": true,
+        "g": {
+            "lat": 13.135,
+            "lon": 45.3886
+        },
+        "it": "Zinjibar",
+        "it:t": "Yemen | Abyan",
+        "es": "Zinjibar",
+        "es:t": "Yemen | Abyan",
+        "de": "Zindschibar",
+        "de:t": "Jemen | Abyan"
+    }
+]

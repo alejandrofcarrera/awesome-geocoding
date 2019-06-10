@@ -1,0 +1,1232 @@
+[
+  {
+    "en": "Ben Tre",
+    "en:t": "Vietnam",
+    "a": true,
+    "g": {
+      "lat": 10.1082,
+      "lon": 106.4406
+    },
+    "it": "Ben Tre",
+    "it:t": "Vietnam",
+    "es": "Bến Tre",
+    "es:t": "Vietnam",
+    "de": "Bến Tre",
+    "de:t": "Vietnam"
+  },
+  {
+    "en": "Bien Hoa",
+    "en:t": "Vietnam | Dong Nai",
+    "a": true,
+    "g": {
+      "lat": 10.9574,
+      "lon": 106.8427
+    },
+    "it": "Biên Hòa",
+    "it:t": "Vietnam | Dong Nai",
+    "es": "Biên Hòa",
+    "es:t": "Vietnam | Đồng Nai",
+    "de": "Biên Hòa",
+    "de:t": "Vietnam | Đồng Nai"
+  },
+  {
+    "en": "Buon Ma Thuot",
+    "en:t": "Vietnam | Đắk Lắk",
+    "a": true,
+    "g": {
+      "lat": 12.6662,
+      "lon": 108.0382
+    },
+    "it": "Buôn Ma Thuột",
+    "it:t": "Vietnam | Dak Lak",
+    "es": "Buôn Ma Thuột",
+    "es:t": "Vietnam | Đắk Lắk",
+    "de": "Buôn Ma Thuột",
+    "de:t": "Vietnam | Đắk Lắk"
+  },
+  {
+    "en": "Bạc Liêu",
+    "en:t": "Vietnam",
+    "a": true,
+    "g": {
+      "lat": 9.294,
+      "lon": 105.7216
+    },
+    "it": "Bạc Liêu",
+    "it:t": "Vietnam",
+    "es": "Bạc Liêu",
+    "es:t": "Vietnam",
+    "de": "Bạc Liêu",
+    "de:t": "Vietnam"
+  },
+  {
+    "en": "Bảo Lộc",
+    "en:t": "Vietnam | Lâm Đồng",
+    "a": true,
+    "g": {
+      "lat": 11.5731,
+      "lon": 107.8347
+    },
+    "it": "Bảo Lộc",
+    "it:t": "Vietnam | Lam Dong",
+    "es": "Bảo Lộc",
+    "es:t": "Vietnam | Lâm Đồng",
+    "de": "Bảo Lộc",
+    "de:t": "Vietnam | Lâm Đồng"
+  },
+  {
+    "en": "Bắc Giang",
+    "en:t": "Vietnam",
+    "a": true,
+    "g": {
+      "lat": 21.282,
+      "lon": 106.1975
+    },
+    "it": "Bắc Giang",
+    "it:t": "Vietnam",
+    "es": "Bắc Giang",
+    "es:t": "Vietnam",
+    "de": "Bắc Giang",
+    "de:t": "Vietnam"
+  },
+  {
+    "en": "Bắc Kạn",
+    "en:t": "Vietnam",
+    "a": true,
+    "g": {
+      "lat": 22.1443,
+      "lon": 105.8345
+    },
+    "it": "Bắc Kạn",
+    "it:t": "Vietnam",
+    "es": "Bắc Kạn",
+    "es:t": "Vietnam",
+    "de": "Bắc Kạn",
+    "de:t": "Vietnam"
+  },
+  {
+    "en": "Bắc Ninh",
+    "en:t": "Vietnam",
+    "a": true,
+    "g": {
+      "lat": 21.1782,
+      "lon": 106.071
+    },
+    "it": "Bắc Ninh",
+    "it:t": "Vietnam",
+    "es": "Bắc Ninh",
+    "es:t": "Vietnam",
+    "de": "Bắc Ninh",
+    "de:t": "Vietnam"
+  },
+  {
+    "en": "Bỉm Sơn",
+    "en:t": "Vietnam | Thanh Hoa",
+    "a": true,
+    "g": {
+      "lat": 20.0849,
+      "lon": 105.8575
+    },
+    "it": "Bỉm Sơn",
+    "it:t": "Vietnam | Thanh Hoa",
+    "es": "Bỉm Sơn",
+    "es:t": "Vietnam | Thanh Hoa",
+    "de": "Bỉm Sơn",
+    "de:t": "Vietnam | Thanh Hoa"
+  },
+  {
+    "en": "Cam Ranh",
+    "en:t": "Vietnam | Khanh Hoa",
+    "a": true,
+    "g": {
+      "lat": 11.9662,
+      "lon": 109.1916
+    },
+    "it": "Cam Ranh",
+    "it:t": "Vietnam | Khanh Hoa",
+    "es": "Camino Ranh",
+    "es:t": "Vietnam | Khánh Hòa",
+    "de": "Cam Ranh",
+    "de:t": "Vietnam | Khánh Hòa"
+  },
+  {
+    "en": "Can Tho",
+    "en:t": "Vietnam | Ninh Kiều",
+    "a": true,
+    "g": {
+      "lat": 10.0452,
+      "lon": 105.7469
+    },
+    "it": "Cần Thơ",
+    "it:t": "Vietnam | Ninh Kiều",
+    "es": "Cần Thơ",
+    "es:t": "Vietnam | Ninh Kiều",
+    "de": "Cần Thơ",
+    "de:t": "Vietnam | Ninh Kiều"
+  },
+  {
+    "en": "Cao Bằng",
+    "en:t": "Vietnam",
+    "a": true,
+    "g": {
+      "lat": 22.6666,
+      "lon": 106.264
+    },
+    "it": "Cao Bằng",
+    "it:t": "Vietnam",
+    "es": "Cao Bằng",
+    "es:t": "Vietnam",
+    "de": "Cao Bằng",
+    "de:t": "Vietnam"
+  },
+  {
+    "en": "Cao Lãnh",
+    "en:t": "Vietnam | Đồng Tháp",
+    "a": true,
+    "g": {
+      "lat": 10.455,
+      "lon": 105.634
+    },
+    "it": "Cao Lãnh",
+    "it:t": "Vietnam | Dong Thap",
+    "es": "Cao Lãnh",
+    "es:t": "Vietnam | Đồng Tháp",
+    "de": "Cao Lãnh",
+    "de:t": "Vietnam | Đồng Tháp"
+  },
+  {
+    "en": "Cà Mau",
+    "en:t": "Vietnam",
+    "a": true,
+    "g": {
+      "lat": 9.1527,
+      "lon": 105.1961
+    },
+    "it": "Cà Mau",
+    "it:t": "Vietnam",
+    "es": "Cà Mau",
+    "es:t": "Vietnam",
+    "de": "Cà Mau",
+    "de:t": "Vietnam"
+  },
+  {
+    "en": "Cát Bà Island",
+    "en:t": "Vietnam | Trân Châu",
+    "a": true,
+    "g": {
+      "lat": 20.8,
+      "lon": 106.9997
+    },
+    "it": "Isola di Cat Ba",
+    "it:t": "Vietnam | Trân Châu",
+    "es": "Isla Cát Bà",
+    "es:t": "Vietnam | Trân Châu",
+    "de": "Cát Bà",
+    "de:t": "Vietnam | Trân Châu"
+  },
+  {
+    "en": "Cần Giuộc",
+    "en:t": "Vietnam | Long An",
+    "a": true,
+    "g": {
+      "lat": 10.601,
+      "lon": 106.665
+    },
+    "it": "Cần Giuộc",
+    "it:t": "Vietnam | Long An",
+    "es": "Cần Giuộc",
+    "es:t": "Vietnam | Long An",
+    "de": "Cần Giuộc",
+    "de:t": "Vietnam | Long An"
+  },
+  {
+    "en": "Cần Giờ",
+    "en:t": "Vietnam | Ho Chi Minh",
+    "a": true,
+    "g": {
+      "lat": 10.5083,
+      "lon": 106.8635
+    },
+    "it": "Cần Giờ",
+    "it:t": "Vietnam | Ho Chi Minh",
+    "es": "Cần Giờ",
+    "es:t": "Vietnam | Ho Chi Minh",
+    "de": "Cần Giờ",
+    "de:t": "Vietnam | Ho Chi Minh"
+  },
+  {
+    "en": "Cẩm Phả",
+    "en:t": "Vietnam | Quảng Ninh",
+    "a": true,
+    "g": {
+      "lat": 21.0719,
+      "lon": 107.3201
+    },
+    "it": "Cẩm Phả",
+    "it:t": "Vietnam | Quang Ninh",
+    "es": "Cẩm Phả",
+    "es:t": "Vietnam | Quảng Ninh",
+    "de": "Cẩm Phả",
+    "de:t": "Vietnam | Quảng Ninh"
+  },
+  {
+    "en": "Củ Chi",
+    "en:t": "Vietnam | Ho Chi Minh",
+    "a": true,
+    "g": {
+      "lat": 11.0067,
+      "lon": 106.5132
+    },
+    "it": "Cu Chi",
+    "it:t": "Vietnam | Ho Chi Minh",
+    "es": "Cu Chi",
+    "es:t": "Vietnam | Hồ Chí Minh",
+    "de": "Củ Chi",
+    "de:t": "Vietnam | Hồ Chí Minh"
+  },
+  {
+    "en": "Da Nang",
+    "en:t": "Vietnam | Hải Châu",
+    "a": true,
+    "g": {
+      "lat": 16.0544,
+      "lon": 108.2022
+    },
+    "it": "Đà Nẵng",
+    "it:t": "Vietnam | Hải Châu",
+    "es": "Đà Nẵng",
+    "es:t": "Vietnam | Hải Châu",
+    "de": "Đà Nẵng",
+    "de:t": "Vietnam | Hải Châu"
+  },
+  {
+    "en": "Dalat",
+    "en:t": "Vietnam | Lâm Đồng",
+    "a": true,
+    "g": {
+      "lat": 11.9404,
+      "lon": 108.4583
+    },
+    "it": "Da Lat",
+    "it:t": "Vietnam | Lam Dong",
+    "es": "Đà Lạt",
+    "es:t": "Vietnam | Lâm Đồng",
+    "de": "Đà Lạt",
+    "de:t": "Vietnam | Lâm Đồng"
+  },
+  {
+    "en": "Dong Xoai",
+    "en:t": "Vietnam | Binh Phuoc",
+    "a": true,
+    "g": {
+      "lat": 11.5344,
+      "lon": 106.8905
+    },
+    "it": "Đồng Xoài",
+    "it:t": "Vietnam | Binh Phuoc",
+    "es": "Dong Xoai",
+    "es:t": "Vietnam | Binh Phuoc",
+    "de": "Đồng Xoài",
+    "de:t": "Vietnam | Bình Phước"
+  },
+  {
+    "en": "Ha Tinh",
+    "en:t": "Vietnam",
+    "a": true,
+    "g": {
+      "lat": 18.2944,
+      "lon": 105.6745
+    },
+    "it": "Ha Tinh",
+    "it:t": "Vietnam",
+    "es": "Hà Tĩnh",
+    "es:t": "Vietnam",
+    "de": "Hà Tĩnh",
+    "de:t": "Vietnam"
+  },
+  {
+    "en": "Hai Phong",
+    "en:t": "Vietnam",
+    "a": true,
+    "g": {
+      "lat": 20.8449,
+      "lon": 106.6881
+    },
+    "it": "Haiphong",
+    "it:t": "Vietnam",
+    "es": "Hai Phong",
+    "es:t": "Vietnam",
+    "de": "Haiphong",
+    "de:t": "Vietnam"
+  },
+  {
+    "en": "Hanoi",
+    "en:t": "Vietnam | Hoàn Kiếm",
+    "a": true,
+    "g": {
+      "lat": 21.0278,
+      "lon": 105.8342
+    },
+    "it": "Hanoi",
+    "it:t": "Vietnam | Hoàn Kiếm",
+    "es": "Hanói",
+    "es:t": "Vietnam | Hoàn Kiếm",
+    "de": "Hanoi",
+    "de:t": "Vietnam | Hoàn Kiếm"
+  },
+  {
+    "en": "Ho Chi Minh",
+    "en:t": "Vietnam",
+    "a": true,
+    "g": {
+      "lat": 10.8231,
+      "lon": 106.6297
+    },
+    "it": "Ho Chi Minh",
+    "it:t": "Vietnam",
+    "es": "Saigón",
+    "es:t": "Vietnam",
+    "de": "Ho-Chi-Minh-Stadt",
+    "de:t": "Vietnam"
+  },
+  {
+    "en": "Hoa Binh",
+    "en:t": "Vietnam",
+    "a": true,
+    "g": {
+      "lat": 20.8275,
+      "lon": 105.3391
+    },
+    "it": "Hòa Bình",
+    "it:t": "Vietnam",
+    "es": "Hoa Binh",
+    "es:t": "Vietnam",
+    "de": "Hoa Binh",
+    "de:t": "Vietnam"
+  },
+  {
+    "en": "Hoà Thành",
+    "en:t": "Vietnam | Tây Ninh",
+    "a": true,
+    "g": {
+      "lat": 11.2906,
+      "lon": 106.1302
+    },
+    "it": "Hoà Thành",
+    "it:t": "Vietnam | Tây Ninh",
+    "es": "Hoà Thành",
+    "es:t": "Vietnam | Tây Ninh",
+    "de": "Hoà Thành",
+    "de:t": "Vietnam | Tây Ninh"
+  },
+  {
+    "en": "Hue",
+    "en:t": "Vietnam | Thua Thien Hue",
+    "a": true,
+    "g": {
+      "lat": 16.4637,
+      "lon": 107.5909
+    },
+    "it": "Huế",
+    "it:t": "Vietnam | Thua Thien-Hue",
+    "es": "Huế",
+    "es:t": "Vietnam | Thừa Thiên-Huế",
+    "de": "Huế",
+    "de:t": "Vietnam | Thừa Thiên Huế"
+  },
+  {
+    "en": "Hà Giang",
+    "en:t": "Vietnam",
+    "a": true,
+    "g": {
+      "lat": 22.8026,
+      "lon": 104.9784
+    },
+    "it": "Ha Giang",
+    "it:t": "Vietnam",
+    "es": "Hà Giang",
+    "es:t": "Vietnam",
+    "de": "Hà Giang",
+    "de:t": "Vietnam"
+  },
+  {
+    "en": "Hà Tiên",
+    "en:t": "Vietnam | Kien Giang",
+    "a": true,
+    "g": {
+      "lat": 10.3819,
+      "lon": 104.4902
+    },
+    "it": "Hà Tiên",
+    "it:t": "Vietnam | Kien Giang",
+    "es": "Hà Tiên",
+    "es:t": "Vietnam | Kien Giang",
+    "de": "Hà Tiên",
+    "de:t": "Vietnam | Kiên Giang"
+  },
+  {
+    "en": "Hà Đông",
+    "en:t": "Vietnam | Hanoi",
+    "a": true,
+    "g": {
+      "lat": 20.9558,
+      "lon": 105.7564
+    },
+    "it": "Hà Đông",
+    "it:t": "Vietnam | Hanoi",
+    "es": "Hà Đông",
+    "es:t": "Vietnam | Hanói",
+    "de": "Hà Đông",
+    "de:t": "Vietnam | Hanoi"
+  },
+  {
+    "en": "Hưng Yên",
+    "en:t": "Vietnam",
+    "a": true,
+    "g": {
+      "lat": 20.6547,
+      "lon": 106.0578
+    },
+    "it": "Hưng Yên",
+    "it:t": "Vietnam",
+    "es": "Hưng Yên",
+    "es:t": "Vietnam",
+    "de": "Hải Hưng",
+    "de:t": "Vietnam"
+  },
+  {
+    "en": "Hạ Long",
+    "en:t": "Vietnam | Quảng Ninh",
+    "a": true,
+    "g": {
+      "lat": 20.9712,
+      "lon": 107.0448
+    },
+    "it": "Hạ Long",
+    "it:t": "Vietnam | Quang Ninh",
+    "es": "Hạ Long",
+    "es:t": "Vietnam | Quảng Ninh",
+    "de": "Hạ Long",
+    "de:t": "Vietnam | Quảng Ninh"
+  },
+  {
+    "en": "Hải Dương",
+    "en:t": "Vietnam",
+    "a": true,
+    "g": {
+      "lat": 20.9373,
+      "lon": 106.3146
+    },
+    "it": "Hải Dương",
+    "it:t": "Vietnam",
+    "es": "Hải Dương",
+    "es:t": "Vietnam",
+    "de": "Hải Dương",
+    "de:t": "Vietnam"
+  },
+  {
+    "en": "Hội An",
+    "en:t": "Vietnam | Quang Nam",
+    "a": true,
+    "g": {
+      "lat": 15.8801,
+      "lon": 108.338
+    },
+    "it": "Hội An",
+    "it:t": "Vietnam | Quang Nam",
+    "es": "Hội An",
+    "es:t": "Vietnam | Quảng Nam",
+    "de": "Hội An",
+    "de:t": "Vietnam | Quảng Nam"
+  },
+  {
+    "en": "Kon Tum",
+    "en:t": "Vietnam",
+    "a": true,
+    "g": {
+      "lat": 14.3497,
+      "lon": 108.0005
+    },
+    "it": "Kon Tum",
+    "it:t": "Vietnam",
+    "es": "Kon Tum",
+    "es:t": "Vietnam",
+    "de": "Kon Tum",
+    "de:t": "Vietnam"
+  },
+  {
+    "en": "La Gi",
+    "en:t": "Vietnam | Bình Thuận",
+    "a": true,
+    "g": {
+      "lat": 10.6837,
+      "lon": 107.7504
+    },
+    "it": "La Gi",
+    "it:t": "Vietnam | Binh Thuan",
+    "es": "La Gi",
+    "es:t": "Vietnam | Bình Thuận",
+    "de": "La Gi",
+    "de:t": "Vietnam | Bình Thuận"
+  },
+  {
+    "en": "Long Xuyên",
+    "en:t": "Vietnam | An Giang",
+    "a": true,
+    "g": {
+      "lat": 10.3759,
+      "lon": 105.4185
+    },
+    "it": "Long Xuyen",
+    "it:t": "Vietnam | An Giang",
+    "es": "Long Xuyen",
+    "es:t": "Vietnam | An Giang",
+    "de": "Long Xuyên",
+    "de:t": "Vietnam | An Giang"
+  },
+  {
+    "en": "Lào Cai",
+    "en:t": "Vietnam",
+    "a": true,
+    "g": {
+      "lat": 22.4809,
+      "lon": 103.9755
+    },
+    "it": "Lào Cai",
+    "it:t": "Vietnam",
+    "es": "Lào Cai",
+    "es:t": "Vietnam",
+    "de": "Lào Cai",
+    "de:t": "Vietnam"
+  },
+  {
+    "en": "Lạng Sơn",
+    "en:t": "Vietnam",
+    "a": true,
+    "g": {
+      "lat": 21.8537,
+      "lon": 106.7615
+    },
+    "it": "Lang Son",
+    "it:t": "Vietnam",
+    "es": "Lang Son",
+    "es:t": "Vietnam",
+    "de": "Lạng Sơn",
+    "de:t": "Vietnam"
+  },
+  {
+    "en": "Móng Cái",
+    "en:t": "Vietnam | Quảng Ninh",
+    "a": true,
+    "g": {
+      "lat": 21.5259,
+      "lon": 107.9724
+    },
+    "it": "Móng Cái",
+    "it:t": "Vietnam | Quang Ninh",
+    "es": "Móng Cái",
+    "es:t": "Vietnam | Quảng Ninh",
+    "de": "Móng Cái",
+    "de:t": "Vietnam | Quảng Ninh"
+  },
+  {
+    "en": "Mỹ Tho",
+    "en:t": "Vietnam | Tien Giang",
+    "a": true,
+    "g": {
+      "lat": 10.3765,
+      "lon": 106.3439
+    },
+    "it": "Mỹ Tho",
+    "it:t": "Vietnam | Tien Giang",
+    "es": "Mỹ Tho",
+    "es:t": "Vietnam | Tiền Giang",
+    "de": "Mỹ Tho",
+    "de:t": "Vietnam | Tiền Giang"
+  },
+  {
+    "en": "Nam Định",
+    "en:t": "Vietnam",
+    "a": true,
+    "g": {
+      "lat": 20.4388,
+      "lon": 106.1621
+    },
+    "it": "Nam Dinh",
+    "it:t": "Vietnam",
+    "es": "Nam Định",
+    "es:t": "Vietnam",
+    "de": "Nam Định",
+    "de:t": "Vietnam"
+  },
+  {
+    "en": "Nha Trang",
+    "en:t": "Vietnam | Khanh Hoa",
+    "a": true,
+    "g": {
+      "lat": 12.2388,
+      "lon": 109.1967
+    },
+    "it": "Nha Trang",
+    "it:t": "Vietnam | Khanh Hoa",
+    "es": "Nha Trang",
+    "es:t": "Vietnam | Khánh Hòa",
+    "de": "Nha Trang",
+    "de:t": "Vietnam | Khánh Hòa"
+  },
+  {
+    "en": "Ninh Bình",
+    "en:t": "Vietnam",
+    "a": true,
+    "g": {
+      "lat": 20.2506,
+      "lon": 105.9745
+    },
+    "it": "Ninh Bình",
+    "it:t": "Vietnam",
+    "es": "Ninh Binh",
+    "es:t": "Vietnam",
+    "de": "Ninh Bình",
+    "de:t": "Vietnam"
+  },
+  {
+    "en": "Phan Rang–Tháp Chàm",
+    "en:t": "Vietnam | Ninh Thuan",
+    "a": true,
+    "g": {
+      "lat": 11.5826,
+      "lon": 108.9912
+    },
+    "it": "Phan Rang-Tháp Chàm",
+    "it:t": "Vietnam | Ninh Thuan",
+    "es": "Phan Rang - Tháp Chàm",
+    "es:t": "Vietnam | Ninh Thuận",
+    "de": "Phan Rang–Tháp Chàm",
+    "de:t": "Vietnam | Ninh Thuận"
+  },
+  {
+    "en": "Phan Thiet",
+    "en:t": "Vietnam | Bình Thuận",
+    "a": true,
+    "g": {
+      "lat": 10.9805,
+      "lon": 108.2615
+    },
+    "it": "Phan Thiết",
+    "it:t": "Vietnam | Binh Thuan",
+    "es": "Phan Thiết",
+    "es:t": "Vietnam | Bình Thuận",
+    "de": "Phan Thiet",
+    "de:t": "Vietnam | Bình Thuận"
+  },
+  {
+    "en": "Phủ Lý",
+    "en:t": "Vietnam | Hà Nam",
+    "a": true,
+    "g": {
+      "lat": 20.5317,
+      "lon": 105.9176
+    },
+    "it": "Phủ Lý",
+    "it:t": "Vietnam | Ha Nam",
+    "es": "Phủ Lý",
+    "es:t": "Vietnam | Hà Nam",
+    "de": "Phủ Lý",
+    "de:t": "Vietnam | Hà Nam"
+  },
+  {
+    "en": "Pleiku",
+    "en:t": "Vietnam | Gia Lai",
+    "a": true,
+    "g": {
+      "lat": 13.9718,
+      "lon": 108.0151
+    },
+    "it": "Pleiku",
+    "it:t": "Vietnam | Gia Lai",
+    "es": "Pleiku",
+    "es:t": "Vietnam | Gia Lai",
+    "de": "Pleiku",
+    "de:t": "Vietnam | Gia Lai"
+  },
+  {
+    "en": "Quang Binh",
+    "en:t": "Vietnam",
+    "a": true,
+    "g": {
+      "lat": 17.6103,
+      "lon": 106.3487
+    },
+    "it": "Quang Binh",
+    "it:t": "Vietnam",
+    "es": "Quảng Bình",
+    "es:t": "Vietnam",
+    "de": "Quảng Bình",
+    "de:t": "Vietnam"
+  },
+  {
+    "en": "Qui Nhơn",
+    "en:t": "Vietnam | Binh Dinh",
+    "a": true,
+    "g": {
+      "lat": 13.783,
+      "lon": 109.2197
+    },
+    "it": "Qui Nhon",
+    "it:t": "Vietnam | Binh Dinh",
+    "es": "Quy Nhơn",
+    "es:t": "Vietnam | Bình Định",
+    "de": "Quy Nhơn",
+    "de:t": "Vietnam | Bình Định"
+  },
+  {
+    "en": "Quảng Ngãi",
+    "en:t": "Vietnam",
+    "a": true,
+    "g": {
+      "lat": 15.1214,
+      "lon": 108.8044
+    },
+    "it": "Quảng Ngãi",
+    "it:t": "Vietnam",
+    "es": "Quảng Ngãi",
+    "es:t": "Vietnam",
+    "de": "Quảng Ngãi",
+    "de:t": "Vietnam"
+  },
+  {
+    "en": "Rạch Giá",
+    "en:t": "Vietnam | Kien Giang",
+    "a": true,
+    "g": {
+      "lat": 10.0215,
+      "lon": 105.0911
+    },
+    "it": "Rach Gia",
+    "it:t": "Vietnam | Kien Giang",
+    "es": "Rạch Giá",
+    "es:t": "Vietnam | Kiên Giang",
+    "de": "Rạch Giá",
+    "de:t": "Vietnam | Kiên Giang"
+  },
+  {
+    "en": "Sa Pa",
+    "en:t": "Vietnam",
+    "a": true,
+    "g": {
+      "lat": 22.3364,
+      "lon": 103.8438
+    },
+    "it": "Sa Pa",
+    "it:t": "Vietnam",
+    "es": "Sa Pa",
+    "es:t": "Vietnam",
+    "de": "Sa Pa",
+    "de:t": "Vietnam"
+  },
+  {
+    "en": "Sa Đéc",
+    "en:t": "Vietnam | Đồng Tháp",
+    "a": true,
+    "g": {
+      "lat": 10.2901,
+      "lon": 105.7517
+    },
+    "it": "Sa Đéc",
+    "it:t": "Vietnam | Dong Thap",
+    "es": "Sa Đéc",
+    "es:t": "Vietnam | Đồng Tháp",
+    "de": "Sa Đéc",
+    "de:t": "Vietnam | Đồng Tháp"
+  },
+  {
+    "en": "Sóc Trăng",
+    "en:t": "Vietnam",
+    "a": true,
+    "g": {
+      "lat": 9.6025,
+      "lon": 105.9739
+    },
+    "it": "Sóc Trăng",
+    "it:t": "Vietnam",
+    "es": "Sóc Trăng",
+    "es:t": "Vietnam",
+    "de": "Sóc Trăng",
+    "de:t": "Vietnam"
+  },
+  {
+    "en": "Sông Cầu",
+    "en:t": "Vietnam | Phú Yên",
+    "a": true,
+    "g": {
+      "lat": 13.5809,
+      "lon": 109.1992
+    },
+    "it": "Sông Cầu",
+    "it:t": "Vietnam | Phú Yên",
+    "es": "Sông Cầu",
+    "es:t": "Vietnam | Phú Yên",
+    "de": "Sông Cầu",
+    "de:t": "Vietnam | Phú Yên"
+  },
+  {
+    "en": "Sơn La",
+    "en:t": "Vietnam",
+    "a": true,
+    "g": {
+      "lat": 21.3269,
+      "lon": 103.9144
+    },
+    "it": "Sơn La",
+    "it:t": "Vietnam",
+    "es": "Sơn La",
+    "es:t": "Vietnam",
+    "de": "Sơn La",
+    "de:t": "Vietnam"
+  },
+  {
+    "en": "Sơn Tây",
+    "en:t": "Vietnam",
+    "a": true,
+    "g": {
+      "lat": 21.1162,
+      "lon": 105.4953
+    },
+    "it": "Son Tay",
+    "it:t": "Vietnam",
+    "es": "Sơn Tây",
+    "es:t": "Vietnam",
+    "de": "Sơn Tây",
+    "de:t": "Vietnam"
+  },
+  {
+    "en": "Tam Kỳ",
+    "en:t": "Vietnam | Quang Nam",
+    "a": true,
+    "g": {
+      "lat": 15.5638,
+      "lon": 108.4822
+    },
+    "it": "Tam Kỳ",
+    "it:t": "Vietnam | Quang Nam",
+    "es": "Tam Kỳ",
+    "es:t": "Vietnam | Quang Nam",
+    "de": "Tam Kỳ",
+    "de:t": "Vietnam | Quảng Nam"
+  },
+  {
+    "en": "Tan An",
+    "en:t": "Vietnam | Long An",
+    "a": true,
+    "g": {
+      "lat": 10.5383,
+      "lon": 106.4051
+    },
+    "it": "Tân An",
+    "it:t": "Vietnam | Long An",
+    "es": "Tan An",
+    "es:t": "Vietnam | Long An",
+    "de": "Tân An",
+    "de:t": "Vietnam | Long An"
+  },
+  {
+    "en": "Thanh Hóa",
+    "en:t": "Vietnam",
+    "a": true,
+    "g": {
+      "lat": 19.8067,
+      "lon": 105.7852
+    },
+    "it": "Thanh Hóa",
+    "it:t": "Vietnam",
+    "es": "Thanh Hóa",
+    "es:t": "Vietnam",
+    "de": "Thanh Hóa",
+    "de:t": "Vietnam"
+  },
+  {
+    "en": "Thái Bình",
+    "en:t": "Vietnam",
+    "a": true,
+    "g": {
+      "lat": 20.4463,
+      "lon": 106.3366
+    },
+    "it": "Thái Bình",
+    "it:t": "Vietnam",
+    "es": "Thái Bình",
+    "es:t": "Vietnam",
+    "de": "Thái Bình",
+    "de:t": "Vietnam"
+  },
+  {
+    "en": "Thái Nguyên",
+    "en:t": "Vietnam",
+    "a": true,
+    "g": {
+      "lat": 21.5672,
+      "lon": 105.8252
+    },
+    "it": "Thái Nguyên",
+    "it:t": "Vietnam",
+    "es": "Thái Nguyên",
+    "es:t": "Vietnam",
+    "de": "Thái Nguyên",
+    "de:t": "Vietnam"
+  },
+  {
+    "en": "Thủ Dầu Một",
+    "en:t": "Vietnam | Binh Duong",
+    "a": true,
+    "g": {
+      "lat": 10.993,
+      "lon": 106.6557
+    },
+    "it": "Thủ Dầu Một",
+    "it:t": "Vietnam | Binh Duong",
+    "es": "Thủ Dầu Một",
+    "es:t": "Vietnam | Binh Duong",
+    "de": "Thủ Dầu Một",
+    "de:t": "Vietnam | Bình Dương"
+  },
+  {
+    "en": "Trà Vinh",
+    "en:t": "Vietnam | Tra Vinh",
+    "a": true,
+    "g": {
+      "lat": 9.9513,
+      "lon": 106.3346
+    },
+    "it": "Trà Vinh",
+    "it:t": "Vietnam | Tra Vinh",
+    "es": "Tra Vinh",
+    "es:t": "Vietnam | Trà Vinh",
+    "de": "Trà Vinh",
+    "de:t": "Vietnam | Tra Vinh"
+  },
+  {
+    "en": "Tuy Hòa",
+    "en:t": "Vietnam | Phú Yên",
+    "a": true,
+    "g": {
+      "lat": 13.1057,
+      "lon": 109.295
+    },
+    "it": "Tuy Hoa",
+    "it:t": "Vietnam | Phu Yen",
+    "es": "Tuy Hòa",
+    "es:t": "Vietnam | Phú Yên",
+    "de": "Tuy Hòa",
+    "de:t": "Vietnam | Phú Yên"
+  },
+  {
+    "en": "Tuyên Quang",
+    "en:t": "Vietnam",
+    "a": true,
+    "g": {
+      "lat": 21.7767,
+      "lon": 105.228
+    },
+    "it": "Tuyen Quang",
+    "it:t": "Vietnam",
+    "es": "Tuyên Quang",
+    "es:t": "Vietnam",
+    "de": "Tuyên Quang",
+    "de:t": "Vietnam"
+  },
+  {
+    "en": "Tây Ninh",
+    "en:t": "Vietnam",
+    "a": true,
+    "g": {
+      "lat": 11.3352,
+      "lon": 106.1099
+    },
+    "it": "Tay Ninh",
+    "it:t": "Vietnam",
+    "es": "Tay Ninh",
+    "es:t": "Vietnam",
+    "de": "Tây Ninh",
+    "de:t": "Vietnam"
+  },
+  {
+    "en": "Uông Bí",
+    "en:t": "Vietnam | Quảng Ninh",
+    "a": true,
+    "g": {
+      "lat": 21.0339,
+      "lon": 106.7648
+    },
+    "it": "Uông Bí",
+    "it:t": "Vietnam | Quang Ninh",
+    "es": "Uông Bí",
+    "es:t": "Vietnam | Quảng Ninh",
+    "de": "Uông Bí",
+    "de:t": "Vietnam | Quảng Ninh"
+  },
+  {
+    "en": "Viet Tri",
+    "en:t": "Vietnam | Phu Tho",
+    "a": true,
+    "g": {
+      "lat": 21.357,
+      "lon": 105.3526
+    },
+    "it": "Việt Trì",
+    "it:t": "Vietnam | Phu Tho",
+    "es": "Việt Trì",
+    "es:t": "Vietnam | Phú Thọ",
+    "de": "Việt Trì",
+    "de:t": "Vietnam | Phú Thọ"
+  },
+  {
+    "en": "Vinh",
+    "en:t": "Vietnam | Nghe An",
+    "a": true,
+    "g": {
+      "lat": 18.6796,
+      "lon": 105.6813
+    },
+    "it": "Vinh",
+    "it:t": "Vietnam | Nghe An",
+    "es": "Vinh",
+    "es:t": "Vietnam | Nghệ An",
+    "de": "Vinh",
+    "de:t": "Vietnam | Nghệ An"
+  },
+  {
+    "en": "Vĩnh Long",
+    "en:t": "Vietnam",
+    "a": true,
+    "g": {
+      "lat": 10.2396,
+      "lon": 105.9572
+    },
+    "it": "Vĩnh Long",
+    "it:t": "Vietnam",
+    "es": "Vĩnh Long",
+    "es:t": "Vietnam",
+    "de": "Vĩnh Long",
+    "de:t": "Vietnam"
+  },
+  {
+    "en": "Vĩnh Yên",
+    "en:t": "Vietnam | Vinh Phuc",
+    "a": true,
+    "g": {
+      "lat": 21.3073,
+      "lon": 105.6163
+    },
+    "it": "Vĩnh Yên",
+    "it:t": "Vietnam | Vinh Phuc",
+    "es": "Vĩnh Yên",
+    "es:t": "Vietnam | Vĩnh Phúc",
+    "de": "Vĩnh Yên",
+    "de:t": "Vietnam | Vinh Phuc"
+  },
+  {
+    "en": "Vũng Tàu",
+    "en:t": "Vietnam | Ba Ria - Vung Tau",
+    "a": true,
+    "g": {
+      "lat": 10.4114,
+      "lon": 107.1362
+    },
+    "it": "Vũng Tàu",
+    "it:t": "Vietnam | Ba Ria-Vung Tau",
+    "es": "Vũng Tàu",
+    "es:t": "Vietnam | Ba Ria-Vung Tau",
+    "de": "Vũng Tàu",
+    "de:t": "Vietnam | Bà Rịa-Vũng Tàu"
+  },
+  {
+    "en": "Vị Thanh",
+    "en:t": "Vietnam | Hau Giang",
+    "a": true,
+    "g": {
+      "lat": 9.7732,
+      "lon": 105.4537
+    },
+    "it": "Vị Thanh",
+    "it:t": "Vietnam | Hau Giang",
+    "es": "Vị Thanh",
+    "es:t": "Vietnam | Hậu Giang",
+    "de": "Vị Thanh",
+    "de:t": "Vietnam | Hau Giang"
+  },
+  {
+    "en": "Yên Bái",
+    "en:t": "Vietnam",
+    "a": true,
+    "g": {
+      "lat": 21.7168,
+      "lon": 104.8986
+    },
+    "it": "Yên Bái",
+    "it:t": "Vietnam",
+    "es": "Yên Bái",
+    "es:t": "Vietnam",
+    "de": "Yên Bái",
+    "de:t": "Vietnam"
+  },
+  {
+    "en": "Yên Vinh",
+    "en:t": "Vietnam | Bảo Thành",
+    "a": true,
+    "g": {
+      "lat": 18.9246,
+      "lon": 105.4705
+    },
+    "it": "Yên Vinh",
+    "it:t": "Vietnam | Bảo Thành",
+    "es": "Yên Vinh",
+    "es:t": "Vietnam | Bảo Thành",
+    "de": "Yên Vinh",
+    "de:t": "Vietnam | Bảo Thành"
+  },
+  {
+    "en": "tt. Đinh Văn",
+    "en:t": "Vietnam | Lâm Hà",
+    "a": true,
+    "g": {
+      "lat": 11.7911,
+      "lon": 108.2674
+    },
+    "it": "tt. Đinh Văn",
+    "it:t": "Vietnam | Lâm Hà",
+    "es": "tt. Đinh Văn",
+    "es:t": "Vietnam | Lâm Hà",
+    "de": "tt. Đinh Văn",
+    "de:t": "Vietnam | Lâm Hà"
+  },
+  {
+    "en": "Điện Biên Phủ",
+    "en:t": "Vietnam | Dien Bien",
+    "a": true,
+    "g": {
+      "lat": 21.4064,
+      "lon": 103.0322
+    },
+    "it": "Dien Bien Phu",
+    "it:t": "Vietnam | Dien Bien",
+    "es": "Điện Biên Phủ",
+    "es:t": "Vietnam | Điện Biên",
+    "de": "Điện Biên Phủ",
+    "de:t": "Vietnam | Điện Biên"
+  },
+  {
+    "en": "Đông Hà",
+    "en:t": "Vietnam | Quảng Trị",
+    "a": true,
+    "g": {
+      "lat": 16.8089,
+      "lon": 107.0894
+    },
+    "it": "Đông Hà",
+    "it:t": "Vietnam | Quang Tri",
+    "es": "Đông Hà",
+    "es:t": "Vietnam | Quảng Trị",
+    "de": "Đông Hà",
+    "de:t": "Vietnam | Quảng Trị"
+  }
+]

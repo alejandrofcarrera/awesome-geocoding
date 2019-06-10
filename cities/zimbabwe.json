@@ -1,0 +1,392 @@
+[
+  {
+    "en": "Beitbridge",
+    "en:t": "Zimbabwe",
+    "a": true,
+    "g": {
+      "lat": -22.1989,
+      "lon": 30.003
+    },
+    "it": "Beitbridge",
+    "it:t": "Zimbabwe",
+    "es": "Beitbridge",
+    "es:t": "Zimbabue",
+    "de": "Beitbridge",
+    "de:t": "Simbabwe"
+  },
+  {
+    "en": "Bindura",
+    "en:t": "Zimbabwe",
+    "a": true,
+    "g": {
+      "lat": -17.3013,
+      "lon": 31.3198
+    },
+    "it": "Bindura",
+    "it:t": "Zimbabwe",
+    "es": "Bindura",
+    "es:t": "Zimbabue",
+    "de": "Bindura",
+    "de:t": "Simbabwe"
+  },
+  {
+    "en": "Bulawayo",
+    "en:t": "Zimbabwe",
+    "a": true,
+    "g": {
+      "lat": -20.1325,
+      "lon": 28.6265
+    },
+    "it": "Bulawayo",
+    "it:t": "Zimbabwe",
+    "es": "Bulawayo",
+    "es:t": "Zimbabue",
+    "de": "Bulawayo",
+    "de:t": "Simbabwe"
+  },
+  {
+    "en": "Chegutu",
+    "en:t": "Zimbabwe",
+    "a": true,
+    "g": {
+      "lat": -18.138,
+      "lon": 30.1474
+    },
+    "it": "Chegutu",
+    "it:t": "Zimbabwe",
+    "es": "Chegutu",
+    "es:t": "Zimbabue",
+    "de": "Chegutu",
+    "de:t": "Simbabwe"
+  },
+  {
+    "en": "Chinhoyi",
+    "en:t": "Zimbabwe | Makonde",
+    "a": true,
+    "g": {
+      "lat": -17.3653,
+      "lon": 30.1936
+    },
+    "it": "Chinhoyi",
+    "it:t": "Zimbabwe | Makonde",
+    "es": "Chinhoyi",
+    "es:t": "Zimbabue | Makonde",
+    "de": "Chinhoyi",
+    "de:t": "Simbabwe | Makonde"
+  },
+  {
+    "en": "Chipinge",
+    "en:t": "Zimbabwe",
+    "a": true,
+    "g": {
+      "lat": -20.1914,
+      "lon": 32.6334
+    },
+    "it": "Chipinge",
+    "it:t": "Zimbabwe",
+    "es": "Chipinge",
+    "es:t": "Zimbabue",
+    "de": "Chipinge",
+    "de:t": "Simbabwe"
+  },
+  {
+    "en": "Chiredzi",
+    "en:t": "Zimbabwe",
+    "a": true,
+    "g": {
+      "lat": -21.0333,
+      "lon": 31.6796
+    },
+    "it": "Chiredzi",
+    "it:t": "Zimbabwe",
+    "es": "Chiredzi",
+    "es:t": "Zimbabue",
+    "de": "Chiredzi",
+    "de:t": "Simbabwe"
+  },
+  {
+    "en": "Chitungwiza",
+    "en:t": "Zimbabwe | Seke",
+    "a": true,
+    "g": {
+      "lat": -18.0198,
+      "lon": 31.0679
+    },
+    "it": "Chitungwiza",
+    "it:t": "Zimbabwe | Seke",
+    "es": "Chitungwiza",
+    "es:t": "Zimbabue | Seke",
+    "de": "Chitungwiza",
+    "de:t": "Simbabwe | Seke"
+  },
+  {
+    "en": "Epworth",
+    "en:t": "Zimbabwe | Harare",
+    "a": true,
+    "g": {
+      "lat": -17.898,
+      "lon": 31.1596
+    },
+    "it": "Epworth",
+    "it:t": "Zimbabwe | Harare",
+    "es": "Epworth",
+    "es:t": "Zimbabue | Harare",
+    "de": "Epworth",
+    "de:t": "Simbabwe | Harare"
+  },
+  {
+    "en": "Gokwe",
+    "en:t": "Zimbabwe | Gokwe South",
+    "a": true,
+    "g": {
+      "lat": -18.2167,
+      "lon": 28.947
+    },
+    "it": "Gokwe",
+    "it:t": "Zimbabwe | Gokwe South",
+    "es": "Gokwe",
+    "es:t": "Zimbabue | Gokwe South",
+    "de": "Gokwe",
+    "de:t": "Simbabwe | Gokwe South"
+  },
+  {
+    "en": "Gweru",
+    "en:t": "Zimbabwe",
+    "a": true,
+    "g": {
+      "lat": -19.4685,
+      "lon": 29.8121
+    },
+    "it": "Gweru",
+    "it:t": "Zimbabwe",
+    "es": "Gweru",
+    "es:t": "Zimbabue",
+    "de": "Gweru",
+    "de:t": "Simbabwe"
+  },
+  {
+    "en": "Harare",
+    "en:t": "Zimbabwe",
+    "a": true,
+    "g": {
+      "lat": -17.8252,
+      "lon": 31.0335
+    },
+    "it": "Harare",
+    "it:t": "Zimbabwe",
+    "es": "Harare",
+    "es:t": "Zimbabue",
+    "de": "Harare",
+    "de:t": "Simbabwe"
+  },
+  {
+    "en": "Hwange",
+    "en:t": "Zimbabwe",
+    "a": true,
+    "g": {
+      "lat": -18.3559,
+      "lon": 26.502
+    },
+    "it": "Hwange",
+    "it:t": "Zimbabwe",
+    "es": "Hwange",
+    "es:t": "Zimbabue",
+    "de": "Hwange",
+    "de:t": "Simbabwe"
+  },
+  {
+    "en": "Kadoma",
+    "en:t": "Zimbabwe",
+    "a": true,
+    "g": {
+      "lat": -18.3269,
+      "lon": 29.9162
+    },
+    "it": "Kadoma",
+    "it:t": "Zimbabwe",
+    "es": "Kadoma",
+    "es:t": "Zimbabue",
+    "de": "Kadoma",
+    "de:t": "Simbabwe"
+  },
+  {
+    "en": "Kariba",
+    "en:t": "Zimbabwe",
+    "a": true,
+    "g": {
+      "lat": -16.522,
+      "lon": 28.8509
+    },
+    "it": "Kariba",
+    "it:t": "Zimbabwe",
+    "es": "Kariba",
+    "es:t": "Zimbabue",
+    "de": "Kariba",
+    "de:t": "Simbabwe"
+  },
+  {
+    "en": "Karoi",
+    "en:t": "Zimbabwe | Hurungwe",
+    "a": true,
+    "g": {
+      "lat": -16.8155,
+      "lon": 29.6905
+    },
+    "it": "Karoi",
+    "it:t": "Zimbabwe | Hurungwe",
+    "es": "Karoi",
+    "es:t": "Zimbabue | Hurungwe",
+    "de": "Karoi",
+    "de:t": "Simbabwe | Hurungwe"
+  },
+  {
+    "en": "Kwekwe",
+    "en:t": "Zimbabwe",
+    "a": true,
+    "g": {
+      "lat": -18.9201,
+      "lon": 29.8237
+    },
+    "it": "Kwekwe",
+    "it:t": "Zimbabwe",
+    "es": "Kwekwe",
+    "es:t": "Zimbabue",
+    "de": "Kwekwe",
+    "de:t": "Simbabwe"
+  },
+  {
+    "en": "Marondera",
+    "en:t": "Zimbabwe",
+    "a": true,
+    "g": {
+      "lat": -18.193,
+      "lon": 31.5427
+    },
+    "it": "Marondera",
+    "it:t": "Zimbabwe",
+    "es": "Marondera",
+    "es:t": "Zimbabue",
+    "de": "Marondera",
+    "de:t": "Simbabwe"
+  },
+  {
+    "en": "Masvingo",
+    "en:t": "Zimbabwe",
+    "a": true,
+    "g": {
+      "lat": -20.0716,
+      "lon": 30.8345
+    },
+    "it": "Zvishavane",
+    "it:t": "Zimbabwe",
+    "es": "Zvishavane",
+    "es:t": "Zimbabue",
+    "de": "Masvingo",
+    "de:t": "Simbabwe"
+  },
+  {
+    "en": "Masvingo",
+    "en:t": "Zimbabwe",
+    "a": true,
+    "g": {
+      "lat": -20.0792,
+      "lon": 30.8384
+    },
+    "it": "Masvingo",
+    "it:t": "Zimbabwe",
+    "es": "Masvingo",
+    "es:t": "Zimbabue",
+    "de": "Masvingo",
+    "de:t": "Simbabwe"
+  },
+  {
+    "en": "Mutare",
+    "en:t": "Zimbabwe",
+    "a": true,
+    "g": {
+      "lat": -18.9758,
+      "lon": 32.6504
+    },
+    "it": "Mutare",
+    "it:t": "Zimbabwe",
+    "es": "Mutare",
+    "es:t": "Zimbabue",
+    "de": "Mutare",
+    "de:t": "Simbabwe"
+  },
+  {
+    "en": "Norton",
+    "en:t": "Zimbabwe | Chegutu",
+    "a": true,
+    "g": {
+      "lat": -17.8767,
+      "lon": 30.6775
+    },
+    "it": "Norton",
+    "it:t": "Zimbabwe | Chegutu",
+    "es": "Norton",
+    "es:t": "Zimbabue | Chegutu",
+    "de": "Norton",
+    "de:t": "Simbabwe | Chegutu"
+  },
+  {
+    "en": "Redcliff",
+    "en:t": "Zimbabwe | Kwekwe",
+    "a": true,
+    "g": {
+      "lat": -19.0139,
+      "lon": 29.7773
+    },
+    "it": "Redcliff",
+    "it:t": "Zimbabwe | Kwekwe",
+    "es": "Redcliff",
+    "es:t": "Zimbabue | Kwekwe",
+    "de": "Redcliffe",
+    "de:t": "Simbabwe | Kwekwe"
+  },
+  {
+    "en": "Rusape",
+    "en:t": "Zimbabwe | Makoni",
+    "a": true,
+    "g": {
+      "lat": -18.5353,
+      "lon": 32.1349
+    },
+    "it": "Rusape",
+    "it:t": "Zimbabwe | Makoni",
+    "es": "Rusape",
+    "es:t": "Zimbabue | Makoni",
+    "de": "Rusape",
+    "de:t": "Simbabwe | Makoni"
+  },
+  {
+    "en": "Shurugwi",
+    "en:t": "Zimbabwe",
+    "a": true,
+    "g": {
+      "lat": -19.6771,
+      "lon": 29.9769
+    },
+    "it": "Shurugwi",
+    "it:t": "Zimbabwe",
+    "es": "Shurugwi",
+    "es:t": "Zimbabue",
+    "de": "Shurugwi",
+    "de:t": "Simbabwe"
+  },
+  {
+    "en": "Victoria Falls",
+    "en:t": "Zimbabwe | Hwange",
+    "a": true,
+    "g": {
+      "lat": -17.9318,
+      "lon": 25.8256
+    },
+    "it": "Victoria Falls",
+    "it:t": "Zimbabwe | Hwange",
+    "es": "Victoria Falls",
+    "es:t": "Zimbabue | Hwange",
+    "de": "Victoria Falls",
+    "de:t": "Simbabwe | Hwange"
+  }
+]
