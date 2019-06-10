@@ -1,0 +1,17 @@
+[
+    {
+        "en": "Majuro",
+        "en:t": "Marshall Islands | Majuro Atoll",
+        "a": true,
+        "g": {
+            "lat": 7.0922,
+            "lon": 171.3826
+        },
+        "it": "Rita",
+        "it:t": "Isole Marshall | Majuro Atoll",
+        "es": "Rita",
+        "es:t": "Islas Marshall | Majuro Atoll",
+        "de": "Majuro-Atoll",
+        "de:t": "Marshallinseln | Majuro Atoll"
+    }
+]

@@ -1,0 +1,6017 @@
+[
+    {
+        "en": "Babo Pangulo",
+        "en:t": "Philippines | Porac",
+        "a": true,
+        "g": {
+            "lat": 15.076,
+            "lon": 120.5329
+        },
+        "it": "Babo Pangulo",
+        "it:t": "Filippine | Porac",
+        "es": "Babo Pangulo",
+        "es:t": "Filipinas | Porac",
+        "de": "Babo Pangulo",
+        "de:t": "Philippinen | Porac"
+    },
+    {
+        "en": "Bacoor",
+        "en:t": "Philippines | Cavite",
+        "a": true,
+        "g": {
+            "lat": 14.413,
+            "lon": 120.9737
+        },
+        "it": "Bacoor",
+        "it:t": "Filippine | Cavite",
+        "es": "Bacoor",
+        "es:t": "Filipinas | Cavite",
+        "de": "Bacoor",
+        "de:t": "Philippinen | Cavite"
+    },
+    {
+        "en": "Bago",
+        "en:t": "Philippines | Negros Occidental",
+        "a": true,
+        "g": {
+            "lat": 10.5034,
+            "lon": 122.9663
+        },
+        "it": "Bago",
+        "it:t": "Filippine | Negros Occidental",
+        "es": "Bago",
+        "es:t": "Filipinas | Negros Occidental",
+        "de": "Bago",
+        "de:t": "Philippinen | Negros Occidental"
+    },
+    {
+        "en": "Baguio",
+        "en:t": "Philippines | Benguet",
+        "a": true,
+        "g": {
+            "lat": 16.4023,
+            "lon": 120.596
+        },
+        "it": "Baguio",
+        "it:t": "Filippine | Benguet",
+        "es": "Baguio",
+        "es:t": "Filipinas | Benguet",
+        "de": "Baguio",
+        "de:t": "Philippinen | Benguet"
+    },
+    {
+        "en": "Bais",
+        "en:t": "Philippines | Negros Oriental",
+        "a": true,
+        "g": {
+            "lat": 9.5916,
+            "lon": 123.1212
+        },
+        "it": "Bais",
+        "it:t": "Filippine | Negros Oriental",
+        "es": "Bais",
+        "es:t": "Filipinas | Negros Oriental",
+        "de": "Bais",
+        "de:t": "Philippinen | Negros Oriental"
+    },
+    {
+        "en": "Balagtas",
+        "en:t": "Philippines | Bulacan",
+        "a": true,
+        "g": {
+            "lat": 14.8228,
+            "lon": 120.913
+        },
+        "it": "Balagtas",
+        "it:t": "Filippine | Bulacan",
+        "es": "Balagtas",
+        "es:t": "Filipinas | Bulac\u00e1n",
+        "de": "Balagtas",
+        "de:t": "Philippinen | Bulacan"
+    },
+    {
+        "en": "Balamban",
+        "en:t": "Philippines | Cebu",
+        "a": true,
+        "g": {
+            "lat": 10.4858,
+            "lon": 123.7741
+        },
+        "it": "Balamban",
+        "it:t": "Filippine | Cebu",
+        "es": "Balamb\u00e1n",
+        "es:t": "Filipinas | Ceb\u00fa",
+        "de": "Balamban",
+        "de:t": "Philippinen | Cebu"
+    },
+    {
+        "en": "Balayan",
+        "en:t": "Philippines | Batangas",
+        "a": true,
+        "g": {
+            "lat": 13.9376,
+            "lon": 120.7005
+        },
+        "it": "Balayan",
+        "it:t": "Filippine | Batangas",
+        "es": "Balayan",
+        "es:t": "Filipinas | Batangas",
+        "de": "Balayan",
+        "de:t": "Philippinen | Batangas"
+    },
+    {
+        "en": "Baliuag",
+        "en:t": "Philippines | Bulacan",
+        "a": true,
+        "g": {
+            "lat": 14.9672,
+            "lon": 120.8843
+        },
+        "it": "Baliuag",
+        "it:t": "Filippine | Bulacan",
+        "es": "Bal\u00eduag",
+        "es:t": "Filipinas | Bulac\u00e1n",
+        "de": "Baliuag",
+        "de:t": "Philippinen | Bulacan"
+    },
+    {
+        "en": "Bambang",
+        "en:t": "Philippines | Nueva Vizcaya",
+        "a": true,
+        "g": {
+            "lat": 16.4041,
+            "lon": 121.1023
+        },
+        "it": "Bambang",
+        "it:t": "Filippine | Nueva Vizcaya",
+        "es": "Bambang",
+        "es:t": "Filipinas | Nueva Vizcaya",
+        "de": "Bambang",
+        "de:t": "Philippinen | Nueva Vizcaya"
+    },
+    {
+        "en": "Banga",
+        "en:t": "Philippines | South Cotabato",
+        "a": true,
+        "g": {
+            "lat": 6.3879,
+            "lon": 124.7962
+        },
+        "it": "Banga",
+        "it:t": "Filippine | South Cotabato",
+        "es": "Banga de Cotabato",
+        "es:t": "Filipinas | Cotabato Sur",
+        "de": "Banga",
+        "de:t": "Philippinen | South Cotabato"
+    },
+    {
+        "en": "Bansalan",
+        "en:t": "Philippines | Davao del Sur",
+        "a": true,
+        "g": {
+            "lat": 6.7908,
+            "lon": 125.2056
+        },
+        "it": "Bansalan",
+        "it:t": "Filippine | Davao del Sur",
+        "es": "Bansal\u00e1n",
+        "es:t": "Filipinas | D\u00e1vao del Sur",
+        "de": "Bansalan",
+        "de:t": "Philippinen | Davao del Sur"
+    },
+    {
+        "en": "Bantayan",
+        "en:t": "Philippines | Cebu",
+        "a": true,
+        "g": {
+            "lat": 11.1695,
+            "lon": 123.7266
+        },
+        "it": "Bantayan",
+        "it:t": "Filippine | Cebu",
+        "es": "Bantayan",
+        "es:t": "Filipinas | Ceb\u00fa",
+        "de": "Bantayan",
+        "de:t": "Philippinen | Cebu"
+    },
+    {
+        "en": "Barangay Poblacion",
+        "en:t": "Philippines | Kalibo",
+        "a": true,
+        "g": {
+            "lat": 11.712,
+            "lon": 122.3646
+        },
+        "it": "Barangay Poblacion",
+        "it:t": "Filippine | Kalibo",
+        "es": "Barangay Poblacion",
+        "es:t": "Filipinas | Kalibo",
+        "de": "Barangay Poblacion",
+        "de:t": "Philippinen | Kalibo"
+    },
+    {
+        "en": "Baras",
+        "en:t": "Philippines | Rizal",
+        "a": true,
+        "g": {
+            "lat": 14.5366,
+            "lon": 121.2741
+        },
+        "it": "Baras",
+        "it:t": "Filippine | Rizal",
+        "es": "Baras",
+        "es:t": "Filipinas | Rizal",
+        "de": "Baras",
+        "de:t": "Philippinen | Rizal"
+    },
+    {
+        "en": "Batac",
+        "en:t": "Philippines | Ilocos Norte",
+        "a": true,
+        "g": {
+            "lat": 18.046,
+            "lon": 120.5941
+        },
+        "it": "Batac",
+        "it:t": "Filippine | Ilocos Norte",
+        "es": "Batac",
+        "es:t": "Filipinas | Ilocos Norte",
+        "de": "Batac",
+        "de:t": "Philippinen | Ilocos Norte"
+    },
+    {
+        "en": "Batangas",
+        "en:t": "Philippines",
+        "a": true,
+        "g": {
+            "lat": 13.7565,
+            "lon": 121.0583
+        },
+        "it": "Batangas",
+        "it:t": "Filippine | Batangas",
+        "es": "Batangas",
+        "es:t": "Filipinas | Batangas",
+        "de": "Batangas",
+        "de:t": "Philippinen | Batangas"
+    },
+    {
+        "en": "Bato",
+        "en:t": "Philippines | Camarines Sur",
+        "a": true,
+        "g": {
+            "lat": 13.3191,
+            "lon": 123.3149
+        },
+        "it": "Bato",
+        "it:t": "Filippine | Camarines Sur",
+        "es": "Bato",
+        "es:t": "Filipinas | Camarines Sur",
+        "de": "Bato",
+        "de:t": "Philippinen | Camarines Sur"
+    },
+    {
+        "en": "Bauan",
+        "en:t": "Philippines | Batangas",
+        "a": true,
+        "g": {
+            "lat": 13.7963,
+            "lon": 120.9762
+        },
+        "it": "Bauan",
+        "it:t": "Filippine | Batangas",
+        "es": "Bauan",
+        "es:t": "Filipinas | Batangas",
+        "de": "Bauan",
+        "de:t": "Philippinen | Batangas"
+    },
+    {
+        "en": "Bauang",
+        "en:t": "Philippines | La Union",
+        "a": true,
+        "g": {
+            "lat": 16.5143,
+            "lon": 120.3551
+        },
+        "it": "Bauang",
+        "it:t": "Filippine | La Union",
+        "es": "Bauang",
+        "es:t": "Filipinas | La Uni\u00f3n",
+        "de": "Bauang",
+        "de:t": "Philippinen | La Union"
+    },
+    {
+        "en": "Bay",
+        "en:t": "Philippines | Laguna",
+        "a": true,
+        "g": {
+            "lat": 14.132,
+            "lon": 121.2569
+        },
+        "it": "Bay",
+        "it:t": "Filippine | Laguna",
+        "es": "Bay",
+        "es:t": "Filipinas | Laguna",
+        "de": "Bay",
+        "de:t": "Philippinen | Laguna"
+    },
+    {
+        "en": "Bayambang",
+        "en:t": "Philippines | Pangasinan",
+        "a": true,
+        "g": {
+            "lat": 15.8008,
+            "lon": 120.4127
+        },
+        "it": "Bayambang",
+        "it:t": "Filippine | Pangasinan",
+        "es": "Bayambang",
+        "es:t": "Filipinas | Pangasin\u00e1n",
+        "de": "Bayambang",
+        "de:t": "Philippinen | Pangasin\u00e1n"
+    },
+    {
+        "en": "Bayawan",
+        "en:t": "Philippines | Negros Oriental",
+        "a": true,
+        "g": {
+            "lat": 9.4499,
+            "lon": 122.8536
+        },
+        "it": "Bayawan",
+        "it:t": "Filippine | Negros Oriental",
+        "es": "Bayawan",
+        "es:t": "Filipinas | Negros Oriental",
+        "de": "Bayawan",
+        "de:t": "Philippinen | Negros Oriental"
+    },
+    {
+        "en": "Baybay",
+        "en:t": "Philippines | Leyte",
+        "a": true,
+        "g": {
+            "lat": 10.6521,
+            "lon": 124.8526
+        },
+        "it": "Baybay",
+        "it:t": "Filippine | Leyte",
+        "es": "Baybay",
+        "es:t": "Filipinas | Leyte",
+        "de": "Baybay",
+        "de:t": "Philippinen | Leyte"
+    },
+    {
+        "en": "Bayombong",
+        "en:t": "Philippines | Nueva Vizcaya",
+        "a": true,
+        "g": {
+            "lat": 16.4804,
+            "lon": 121.1481
+        },
+        "it": "Bayombong",
+        "it:t": "Filippine | Nueva Vizcaya",
+        "es": "Bayombong",
+        "es:t": "Filipinas | Nueva Vizcaya",
+        "de": "Bayombong",
+        "de:t": "Philippinen | Nueva Vizcaya"
+    },
+    {
+        "en": "Bayugan",
+        "en:t": "Philippines | Agusan del Sur",
+        "a": true,
+        "g": {
+            "lat": 8.7144,
+            "lon": 125.7481
+        },
+        "it": "Bayugan",
+        "it:t": "Filippine | Agusan del Sur",
+        "es": "Bayugan",
+        "es:t": "Filipinas | Agusan del Sur",
+        "de": "Bayugan",
+        "de:t": "Philippinen | Agusan del Sur"
+    },
+    {
+        "en": "Bignay",
+        "en:t": "Philippines",
+        "a": true,
+        "g": {
+            "lat": 13.6847,
+            "lon": 121.2426
+        },
+        "it": "Bignay",
+        "it:t": "Filippine",
+        "es": "Bignay",
+        "es:t": "Filipinas",
+        "de": "Bignay",
+        "de:t": "Philippinen"
+    },
+    {
+        "en": "Binalbagan",
+        "en:t": "Philippines | Negros Occidental",
+        "a": true,
+        "g": {
+            "lat": 10.2,
+            "lon": 122.8665
+        },
+        "it": "Binalbagan",
+        "it:t": "Filippine | Negros Occidental",
+        "es": "Binalbagan",
+        "es:t": "Filipinas | Negros Occidental",
+        "de": "Binalbagan",
+        "de:t": "Philippinen | Negros Occidental"
+    },
+    {
+        "en": "Binangonan",
+        "en:t": "Philippines | Rizal",
+        "a": true,
+        "g": {
+            "lat": 14.4765,
+            "lon": 121.1957
+        },
+        "it": "Binangonan",
+        "it:t": "Filippine | Rizal",
+        "es": "Binangonan",
+        "es:t": "Filipinas | Rizal",
+        "de": "Binangonan",
+        "de:t": "Philippinen | Rizal"
+    },
+    {
+        "en": "Binmaley",
+        "en:t": "Philippines | Pangasinan",
+        "a": true,
+        "g": {
+            "lat": 15.9989,
+            "lon": 120.2859
+        },
+        "it": "Binmaley",
+        "it:t": "Filippine | Pangasinan",
+        "es": "Binmaley",
+        "es:t": "Filipinas | Pangasin\u00e1n",
+        "de": "Binmaley",
+        "de:t": "Philippinen | Pangasin\u00e1n"
+    },
+    {
+        "en": "Bislig",
+        "en:t": "Philippines | Surigao del Sur",
+        "a": true,
+        "g": {
+            "lat": 8.2101,
+            "lon": 126.2848
+        },
+        "it": "Bislig",
+        "it:t": "Filippine | Surigao del Sur",
+        "es": "Bislig",
+        "es:t": "Filipinas | Surigao del Sur",
+        "de": "Bislig",
+        "de:t": "Philippinen | Surigao del Sur"
+    },
+    {
+        "en": "Bocaue",
+        "en:t": "Philippines | Bulacan",
+        "a": true,
+        "g": {
+            "lat": 14.8072,
+            "lon": 120.9395
+        },
+        "it": "Bocaue",
+        "it:t": "Filippine | Bulacan",
+        "es": "Bocaue",
+        "es:t": "Filipinas | Bulac\u00e1n",
+        "de": "Bocaue",
+        "de:t": "Philippinen | Bulacan"
+    },
+    {
+        "en": "Bogo",
+        "en:t": "Philippines | Cebu",
+        "a": true,
+        "g": {
+            "lat": 11.0128,
+            "lon": 123.9861
+        },
+        "it": "Bogo",
+        "it:t": "Filippine | Cebu",
+        "es": "Bogo",
+        "es:t": "Filipinas | Ceb\u00fa",
+        "de": "Bogo",
+        "de:t": "Philippinen | Cebu"
+    },
+    {
+        "en": "Bongabon",
+        "en:t": "Philippines | Nueva Ecija",
+        "a": true,
+        "g": {
+            "lat": 15.6719,
+            "lon": 121.2397
+        },
+        "it": "Bongabon",
+        "it:t": "Filippine | Nueva Ecija",
+        "es": "Bongab\u00f3n",
+        "es:t": "Filipinas | Nueva \u00c9cija",
+        "de": "Bongabon",
+        "de:t": "Philippinen | Nueva Ecija"
+    },
+    {
+        "en": "Bongao",
+        "en:t": "Philippines | Tawi-Tawi",
+        "a": true,
+        "g": {
+            "lat": 5.1042,
+            "lon": 119.8121
+        },
+        "it": "Bongao",
+        "it:t": "Filippine | Tawi-Tawi",
+        "es": "Bongao",
+        "es:t": "Filipinas | Tawi-Tawi",
+        "de": "Bongao",
+        "de:t": "Philippinen | Tawi-Tawi"
+    },
+    {
+        "en": "Borongan",
+        "en:t": "Philippines | Eastern Samar",
+        "a": true,
+        "g": {
+            "lat": 11.608,
+            "lon": 125.4329
+        },
+        "it": "Borongan",
+        "it:t": "Filippine | Eastern Samar",
+        "es": "Borongan",
+        "es:t": "Filipinas | Samar Oriental",
+        "de": "Borongan",
+        "de:t": "Philippinen | Eastern Samar"
+    },
+    {
+        "en": "Botolan",
+        "en:t": "Philippines | Zambales",
+        "a": true,
+        "g": {
+            "lat": 15.2893,
+            "lon": 120.0256
+        },
+        "it": "Botolan",
+        "it:t": "Filippine | Zambales",
+        "es": "Botolan",
+        "es:t": "Filipinas | Zambales",
+        "de": "Botolan",
+        "de:t": "Philippinen | Zambales"
+    },
+    {
+        "en": "Budta",
+        "en:t": "Philippines | Northern Kabuntalan",
+        "a": true,
+        "g": {
+            "lat": 7.2063,
+            "lon": 124.4392
+        },
+        "it": "Budta",
+        "it:t": "Filippine | Northern Kabuntalan",
+        "es": "Budta",
+        "es:t": "Filipinas | Cabuntal\u00e1n del Norte",
+        "de": "Budta",
+        "de:t": "Philippinen | Northern Kabuntalan"
+    },
+    {
+        "en": "Buenavista",
+        "en:t": "Philippines | Agusan Del Norte",
+        "a": true,
+        "g": {
+            "lat": 8.7859,
+            "lon": 125.3686
+        },
+        "it": "Buenavista",
+        "it:t": "Filippine | Agusan del Norte",
+        "es": "Buenavista",
+        "es:t": "Filipinas | Agus\u00e1n del Norte",
+        "de": "Buenavista",
+        "de:t": "Philippinen | Agusan del Norte"
+    },
+    {
+        "en": "Bugo",
+        "en:t": "Philippines | Cagayan de Oro",
+        "a": true,
+        "g": {
+            "lat": 8.5072,
+            "lon": 124.7603
+        },
+        "it": "Bugo",
+        "it:t": "Filippine | Misamis Oriental",
+        "es": "Bugo",
+        "es:t": "Filipinas | Cagayan de Oro",
+        "de": "Bugo",
+        "de:t": "Philippinen | Cagayan de Oro"
+    },
+    {
+        "en": "Buhi",
+        "en:t": "Philippines | Camarines Sur",
+        "a": true,
+        "g": {
+            "lat": 13.4413,
+            "lon": 123.5056
+        },
+        "it": "Buhi",
+        "it:t": "Filippine | Camarines Sur",
+        "es": "Buhi",
+        "es:t": "Filipinas | Camarines Sur",
+        "de": "Buhi",
+        "de:t": "Philippinen | Camarines Sur"
+    },
+    {
+        "en": "Bulacan",
+        "en:t": "Philippines",
+        "a": true,
+        "g": {
+            "lat": 14.7943,
+            "lon": 120.8799
+        },
+        "it": "Bulacan",
+        "it:t": "Filippine",
+        "es": "Bulac\u00e1n",
+        "es:t": "Filipinas",
+        "de": "Bulacan",
+        "de:t": "Philippinen"
+    },
+    {
+        "en": "Bulan",
+        "en:t": "Philippines | Sorsogon",
+        "a": true,
+        "g": {
+            "lat": 12.665,
+            "lon": 123.8877
+        },
+        "it": "Bulan",
+        "it:t": "Filippine | Sorsogon",
+        "es": "Bulan",
+        "es:t": "Filipinas | Sorsogon",
+        "de": "Bulan",
+        "de:t": "Philippinen | Sorsogon"
+    },
+    {
+        "en": "Bulaon",
+        "en:t": "Philippines | San Fernando",
+        "a": true,
+        "g": {
+            "lat": 15.0845,
+            "lon": 120.6646
+        },
+        "it": "Bulaon",
+        "it:t": "Filippine | San Fernando",
+        "es": "Bulaon",
+        "es:t": "Filipinas | San Fernando",
+        "de": "Bulaon",
+        "de:t": "Philippinen | San Fernando"
+    },
+    {
+        "en": "Buluan",
+        "en:t": "Philippines | Maguindanao",
+        "a": true,
+        "g": {
+            "lat": 6.7433,
+            "lon": 124.8017
+        },
+        "it": "Buluan",
+        "it:t": "Filippine | Maguindanao",
+        "es": "Bulu\u00e1n",
+        "es:t": "Filipinas | Maguindanao",
+        "de": "Buluan",
+        "de:t": "Philippinen | Maguindanao"
+    },
+    {
+        "en": "Bunawan",
+        "en:t": "Philippines | Agusan del Sur",
+        "a": true,
+        "g": {
+            "lat": 8.2165,
+            "lon": 126.0458
+        },
+        "it": "Bunawan",
+        "it:t": "Filippine | Agusan del Sur",
+        "es": "Bunawan",
+        "es:t": "Filipinas | Agusan del Sur",
+        "de": "Bunawan",
+        "de:t": "Philippinen | Agusan del Sur"
+    },
+    {
+        "en": "Burgos",
+        "en:t": "Philippines | Pangasinan",
+        "a": true,
+        "g": {
+            "lat": 16.0628,
+            "lon": 119.8699
+        },
+        "it": "Burgos",
+        "it:t": "Filippine | Pangasinan",
+        "es": "Burgos de Pangasin\u00e1n",
+        "es:t": "Filipinas | Pangasin\u00e1n",
+        "de": "Burgos",
+        "de:t": "Philippinen | Pangasin\u00e1n"
+    },
+    {
+        "en": "Bustos",
+        "en:t": "Philippines | Bulacan",
+        "a": true,
+        "g": {
+            "lat": 14.9379,
+            "lon": 120.9276
+        },
+        "it": "Bustos",
+        "it:t": "Filippine | Bulacan",
+        "es": "Bustos",
+        "es:t": "Filipinas | Bulacan",
+        "de": "Bustos",
+        "de:t": "Philippinen | Bulacan"
+    },
+    {
+        "en": "Butuan",
+        "en:t": "Philippines | Agusan Del Norte",
+        "a": true,
+        "g": {
+            "lat": 8.9475,
+            "lon": 125.5406
+        },
+        "it": "Butuan",
+        "it:t": "Filippine | Agusan del Norte",
+        "es": "Butuan",
+        "es:t": "Filipinas | Agus\u00e1n del Norte",
+        "de": "Butuan",
+        "de:t": "Philippinen | Agusan del Norte"
+    },
+    {
+        "en": "Cabadbaran",
+        "en:t": "Philippines | Agusan Del Norte",
+        "a": true,
+        "g": {
+            "lat": 9.1222,
+            "lon": 125.5376
+        },
+        "it": "Cabadbaran",
+        "it:t": "Filippine | Agusan del Norte",
+        "es": "Cabadbaran",
+        "es:t": "Filipinas | Agus\u00e1n del Norte",
+        "de": "Cabadbaran",
+        "de:t": "Philippinen | Agusan del Norte"
+    },
+    {
+        "en": "Cabagan",
+        "en:t": "Philippines | Isabela",
+        "a": true,
+        "g": {
+            "lat": 17.3608,
+            "lon": 121.879
+        },
+        "it": "Cabagan",
+        "it:t": "Filippine | Isabela",
+        "es": "Cabag\u00e1n",
+        "es:t": "Filipinas | Isabela",
+        "de": "Cabagan",
+        "de:t": "Philippinen | Isabela"
+    },
+    {
+        "en": "Cabanatuan",
+        "en:t": "Philippines | Nueva Ecija",
+        "a": true,
+        "g": {
+            "lat": 15.4865,
+            "lon": 120.9734
+        },
+        "it": "Cabanatuan",
+        "it:t": "Filippine | Nueva Ecija",
+        "es": "Cabanat\u00faan",
+        "es:t": "Filipinas | Nueva \u00c9cija",
+        "de": "Cabanatuan",
+        "de:t": "Philippinen | Nueva Ecija"
+    },
+    {
+        "en": "Cabayangan",
+        "en:t": "Philippines | Braulio E. Dujali",
+        "a": true,
+        "g": {
+            "lat": 7.4417,
+            "lon": 125.7243
+        },
+        "it": "Cabayangan",
+        "it:t": "Filippine | Braulio E. Dujali",
+        "es": "Cabayangan",
+        "es:t": "Filipinas | Braulio E. Dujali",
+        "de": "Cabayangan",
+        "de:t": "Philippinen | Braulio E. Dujali"
+    },
+    {
+        "en": "Cabiao",
+        "en:t": "Philippines | Nueva Ecija",
+        "a": true,
+        "g": {
+            "lat": 15.2289,
+            "lon": 120.8729
+        },
+        "it": "Cabiao",
+        "it:t": "Filippine | Nueva Ecija",
+        "es": "Cabiao",
+        "es:t": "Filipinas | Nueva \u00c9cija",
+        "de": "Cabiao",
+        "de:t": "Philippinen | Nueva Ecija"
+    },
+    {
+        "en": "Cadiz",
+        "en:t": "Philippines | Negros Occidental",
+        "a": true,
+        "g": {
+            "lat": 10.806,
+            "lon": 123.2139
+        },
+        "it": "Cadiz",
+        "it:t": "Filippine | Negros Occidental",
+        "es": "C\u00e1diz",
+        "es:t": "Filipinas | Negros Occidental",
+        "de": "Cadiz",
+        "de:t": "Philippinen | Negros Occidental"
+    },
+    {
+        "en": "Cagayan Valley",
+        "en:t": "Philippines",
+        "a": true,
+        "g": {
+            "lat": 16.9754,
+            "lon": 121.8107
+        },
+        "it": "Valle di Cagayan",
+        "it:t": "Filippine",
+        "es": "Valle de Cagay\u00e1n",
+        "es:t": "Filipinas",
+        "de": "Cagayan Valley",
+        "de:t": "Philippinen"
+    },
+    {
+        "en": "Cagayan de Oro",
+        "en:t": "Philippines | Misamis Oriental",
+        "a": true,
+        "g": {
+            "lat": 8.4542,
+            "lon": 124.6319
+        },
+        "it": "Cagayan de Oro",
+        "it:t": "Filippine | Misamis Oriental",
+        "es": "Cagay\u00e1n de Oro",
+        "es:t": "Filipinas | Misamis Oriental",
+        "de": "Cagayan de Oro",
+        "de:t": "Philippinen | Misamis Oriental"
+    },
+    {
+        "en": "Cainta",
+        "en:t": "Philippines | Rizal",
+        "a": true,
+        "g": {
+            "lat": 14.5865,
+            "lon": 121.1149
+        },
+        "it": "Cainta",
+        "it:t": "Filippine | Rizal",
+        "es": "Cainta",
+        "es:t": "Filipinas | Rizal",
+        "de": "Cainta",
+        "de:t": "Philippinen | Rizal"
+    },
+    {
+        "en": "Calabanga",
+        "en:t": "Philippines | Camarines Sur",
+        "a": true,
+        "g": {
+            "lat": 13.7163,
+            "lon": 123.2813
+        },
+        "it": "Calabanga",
+        "it:t": "Filippine | Camarines Sur",
+        "es": "Calabanga",
+        "es:t": "Filipinas | Camarines Sur",
+        "de": "Calabanga",
+        "de:t": "Philippinen | Camarines Sur"
+    },
+    {
+        "en": "Calabarzon",
+        "en:t": "Philippines",
+        "a": true,
+        "g": {
+            "lat": 14.1008,
+            "lon": 121.0794
+        },
+        "it": "Calabarzon",
+        "it:t": "Filippine",
+        "es": "Calabarzon",
+        "es:t": "Filipinas",
+        "de": "Calabarzon",
+        "de:t": "Philippinen"
+    },
+    {
+        "en": "Calaca",
+        "en:t": "Philippines | Batangas",
+        "a": true,
+        "g": {
+            "lat": 13.9509,
+            "lon": 120.8269
+        },
+        "it": "Calaca",
+        "it:t": "Filippine | Batangas",
+        "es": "Calaca",
+        "es:t": "Filipinas | Batangas",
+        "de": "Calaca",
+        "de:t": "Philippinen | Batangas"
+    },
+    {
+        "en": "Calamba",
+        "en:t": "Philippines | Laguna",
+        "a": true,
+        "g": {
+            "lat": 14.1877,
+            "lon": 121.1251
+        },
+        "it": "Calamba",
+        "it:t": "Filippine | Laguna",
+        "es": "Calamb\u00e1",
+        "es:t": "Filipinas | La Laguna",
+        "de": "Calamba",
+        "de:t": "Philippinen | Laguna"
+    },
+    {
+        "en": "Calapan",
+        "en:t": "Philippines | Oriental Mindoro",
+        "a": true,
+        "g": {
+            "lat": 13.3771,
+            "lon": 121.1646
+        },
+        "it": "Calapan",
+        "it:t": "Filippine | Mindoro Orientale",
+        "es": "Calap\u00e1n",
+        "es:t": "Filipinas | Mindoro Oriental",
+        "de": "Calapan",
+        "de:t": "Philippinen | Oriental Mindoro"
+    },
+    {
+        "en": "Calasiao",
+        "en:t": "Philippines | Pangasinan",
+        "a": true,
+        "g": {
+            "lat": 15.9881,
+            "lon": 120.3551
+        },
+        "it": "Calasiao",
+        "it:t": "Filippine | Pangasinan",
+        "es": "Calasiao",
+        "es:t": "Filipinas | Pangasin\u00e1n",
+        "de": "Calasiao",
+        "de:t": "Philippinen | Pangasin\u00e1n"
+    },
+    {
+        "en": "Calatagan",
+        "en:t": "Philippines | Batangas",
+        "a": true,
+        "g": {
+            "lat": 13.8646,
+            "lon": 120.6315
+        },
+        "it": "Calatagan",
+        "it:t": "Filippine | Batangas",
+        "es": "Calatagan",
+        "es:t": "Filipinas | Batangas",
+        "de": "Calatagan",
+        "de:t": "Philippinen | Batangas"
+    },
+    {
+        "en": "Calauag",
+        "en:t": "Philippines | Quezon",
+        "a": true,
+        "g": {
+            "lat": 14.0593,
+            "lon": 122.3573
+        },
+        "it": "Calauag",
+        "it:t": "Filippine | Quezon",
+        "es": "Calauag",
+        "es:t": "Filipinas | Quezon",
+        "de": "Calauag",
+        "de:t": "Philippinen | Quezon"
+    },
+    {
+        "en": "Calauan",
+        "en:t": "Philippines | Laguna",
+        "a": true,
+        "g": {
+            "lat": 14.1384,
+            "lon": 121.3198
+        },
+        "it": "Calauan",
+        "it:t": "Filippine | Laguna",
+        "es": "Calauan",
+        "es:t": "Filipinas | Laguna",
+        "de": "Calauan",
+        "de:t": "Philippinen | Laguna"
+    },
+    {
+        "en": "Calbayog",
+        "en:t": "Philippines | Samar",
+        "a": true,
+        "g": {
+            "lat": 12.0676,
+            "lon": 124.593
+        },
+        "it": "Calbayog",
+        "it:t": "Filippine | Samar",
+        "es": "Calbayog",
+        "es:t": "Filipinas | Samar",
+        "de": "Calbayog",
+        "de:t": "Philippinen | Samar"
+    },
+    {
+        "en": "Calumpang",
+        "en:t": "Philippines | Marikina",
+        "a": true,
+        "g": {
+            "lat": 14.6249,
+            "lon": 121.0865
+        },
+        "it": "Calumpang",
+        "it:t": "Filippine | Marikina",
+        "es": "Calumpang",
+        "es:t": "Filipinas | Mariquina",
+        "de": "Calumpang",
+        "de:t": "Philippinen | Marikina"
+    },
+    {
+        "en": "Calumpit",
+        "en:t": "Philippines | Bulacan",
+        "a": true,
+        "g": {
+            "lat": 14.9011,
+            "lon": 120.7695
+        },
+        "it": "Calumpit",
+        "it:t": "Filippine | Bulacan",
+        "es": "Calumpit",
+        "es:t": "Filipinas | Bulac\u00e1n",
+        "de": "Calumpit",
+        "de:t": "Philippinen | Bulacan"
+    },
+    {
+        "en": "Camiling",
+        "en:t": "Philippines | Tarlac",
+        "a": true,
+        "g": {
+            "lat": 15.6872,
+            "lon": 120.4183
+        },
+        "it": "Camiling",
+        "it:t": "Filippine | Tarlac",
+        "es": "Camiling",
+        "es:t": "Filipinas | Tarlac",
+        "de": "Camiling",
+        "de:t": "Philippinen | Tarlac"
+    },
+    {
+        "en": "Candaba",
+        "en:t": "Philippines | Pampanga",
+        "a": true,
+        "g": {
+            "lat": 15.1041,
+            "lon": 120.8729
+        },
+        "it": "Candaba",
+        "it:t": "Filippine | Pampanga",
+        "es": "Candaba",
+        "es:t": "Filipinas | Pampanga",
+        "de": "Candaba",
+        "de:t": "Philippinen | Pampanga"
+    },
+    {
+        "en": "Candelaria",
+        "en:t": "Philippines | Quezon",
+        "a": true,
+        "g": {
+            "lat": 13.9242,
+            "lon": 121.4637
+        },
+        "it": "Candelaria",
+        "it:t": "Filippine | Quezon",
+        "es": "Candelaria",
+        "es:t": "Filipinas | Quezon",
+        "de": "Candelaria",
+        "de:t": "Philippinen | Quezon"
+    },
+    {
+        "en": "Canlaon",
+        "en:t": "Philippines | Negros Oriental",
+        "a": true,
+        "g": {
+            "lat": 10.3605,
+            "lon": 123.1914
+        },
+        "it": "Canlaon",
+        "it:t": "Filippine | Negros Oriental",
+        "es": "Canla\u00f3n",
+        "es:t": "Filipinas | Negros Oriental",
+        "de": "Canlaon",
+        "de:t": "Philippinen | Negros Oriental"
+    },
+    {
+        "en": "Cannery Road",
+        "en:t": "Philippines | Cannery Site",
+        "a": true,
+        "g": {
+            "lat": 6.2359,
+            "lon": 125.0924
+        },
+        "it": "Polomolok",
+        "it:t": "Filippine | South Cotabato",
+        "es": "Polomolok",
+        "es:t": "Filipinas | Cotabato Sur",
+        "de": "Polomolok",
+        "de:t": "Philippinen | South Cotabato"
+    },
+    {
+        "en": "Capas",
+        "en:t": "Philippines | Tarlac",
+        "a": true,
+        "g": {
+            "lat": 15.3335,
+            "lon": 120.5905
+        },
+        "it": "Capas",
+        "it:t": "Filippine | Tarlac",
+        "es": "Capas",
+        "es:t": "Filipinas | Tarlac",
+        "de": "Capas",
+        "de:t": "Philippinen | Tarlac"
+    },
+    {
+        "en": "Carcar",
+        "en:t": "Philippines | Cebu",
+        "a": true,
+        "g": {
+            "lat": 10.1151,
+            "lon": 123.64
+        },
+        "it": "Carcar",
+        "it:t": "Filippine | Cebu",
+        "es": "C\u00e1rcar",
+        "es:t": "Filipinas | Ceb\u00fa",
+        "de": "Carcar",
+        "de:t": "Philippinen | Cebu"
+    },
+    {
+        "en": "Cardona",
+        "en:t": "Philippines | Rizal",
+        "a": true,
+        "g": {
+            "lat": 14.3619,
+            "lon": 121.234
+        },
+        "it": "Cardona",
+        "it:t": "Filippine | Rizal",
+        "es": "Cardona",
+        "es:t": "Filipinas | Rizal",
+        "de": "Cardona",
+        "de:t": "Philippinen | Rizal"
+    },
+    {
+        "en": "Carigara",
+        "en:t": "Philippines | Leyte",
+        "a": true,
+        "g": {
+            "lat": 11.2981,
+            "lon": 124.6787
+        },
+        "it": "Carigara",
+        "it:t": "Filippine | Leyte",
+        "es": "Carigara",
+        "es:t": "Filipinas | Leyte",
+        "de": "Carigara",
+        "de:t": "Philippinen | Leyte"
+    },
+    {
+        "en": "Carmona",
+        "en:t": "Philippines | Cavite",
+        "a": true,
+        "g": {
+            "lat": 14.3108,
+            "lon": 121.041
+        },
+        "it": "Carmona",
+        "it:t": "Filippine | Cavite",
+        "es": "Carmona",
+        "es:t": "Filipinas | Cavite",
+        "de": "Carmona",
+        "de:t": "Philippinen | Cavite"
+    },
+    {
+        "en": "Castillejos",
+        "en:t": "Philippines | Zambales",
+        "a": true,
+        "g": {
+            "lat": 14.9438,
+            "lon": 120.1936
+        },
+        "it": "Castillejos",
+        "it:t": "Filippine | Zambales",
+        "es": "Castillejos",
+        "es:t": "Filipinas | Zambales",
+        "de": "Castillejos",
+        "de:t": "Philippinen | Zambales"
+    },
+    {
+        "en": "Catanauan",
+        "en:t": "Philippines | Quezon",
+        "a": true,
+        "g": {
+            "lat": 13.5952,
+            "lon": 122.323
+        },
+        "it": "Catanauan",
+        "it:t": "Filippine | Quezon",
+        "es": "Catanauan",
+        "es:t": "Filipinas | Quezon",
+        "de": "Catanauan",
+        "de:t": "Philippinen | Quezon"
+    },
+    {
+        "en": "Catarman",
+        "en:t": "Philippines | Northern Samar",
+        "a": true,
+        "g": {
+            "lat": 12.4198,
+            "lon": 124.6414
+        },
+        "it": "Catarman",
+        "it:t": "Filippine | Northern Samar",
+        "es": "Catarm\u00e1n",
+        "es:t": "Filipinas | Samar Septentrional",
+        "de": "Catarman",
+        "de:t": "Philippinen | Northern Samar"
+    },
+    {
+        "en": "Catbalogan",
+        "en:t": "Philippines | Samar",
+        "a": true,
+        "g": {
+            "lat": 11.824,
+            "lon": 124.8403
+        },
+        "it": "Catbalogan",
+        "it:t": "Filippine | Samar",
+        "es": "Catbalogan",
+        "es:t": "Filipinas | Samar Occidental",
+        "de": "Catbalogan",
+        "de:t": "Philippinen | Samar"
+    },
+    {
+        "en": "Cavite",
+        "en:t": "Philippines | Cavite",
+        "a": true,
+        "g": {
+            "lat": 14.4791,
+            "lon": 120.897
+        },
+        "it": "Cavite",
+        "it:t": "Filippine | Cavite",
+        "es": "Cavite",
+        "es:t": "Filipinas | Cavite",
+        "de": "Cavite",
+        "de:t": "Philippinen | Cavite"
+    },
+    {
+        "en": "Cebu",
+        "en:t": "Philippines | Cebu",
+        "a": true,
+        "g": {
+            "lat": 10.3157,
+            "lon": 123.8854
+        },
+        "it": "Cebu",
+        "it:t": "Filippine | Cebu",
+        "es": "Ceb\u00fa",
+        "es:t": "Filipinas",
+        "de": "Cebu",
+        "de:t": "Philippinen | Cebu"
+    },
+    {
+        "en": "Central Visayas",
+        "en:t": "Philippines",
+        "a": true,
+        "g": {
+            "lat": 9.8169,
+            "lon": 124.0641
+        },
+        "it": "Visayas Centrale",
+        "it:t": "Filippine",
+        "es": "Visayas Central",
+        "es:t": "Filipinas",
+        "de": "Central Visayas",
+        "de:t": "Philippinen"
+    },
+    {
+        "en": "Balanga",
+        "en:t": "Philippines | Bataan",
+        "a": true,
+        "g": {
+            "lat": 14.6741,
+            "lon": 120.5113
+        },
+        "it": "Balanga",
+        "it:t": "Filippine | Bataan",
+        "es": "Balanga",
+        "es:t": "Filipinas | Bata\u00e1n",
+        "de": "Balanga",
+        "de:t": "Philippinen | Bataan"
+    },
+    {
+        "en": "Iriga",
+        "en:t": "Philippines | Camarines Sur",
+        "a": true,
+        "g": {
+            "lat": 13.4205,
+            "lon": 123.418
+        },
+        "it": "Iriga",
+        "it:t": "Filippine | Camarines Sur",
+        "es": "Iriga",
+        "es:t": "Filipinas | Camarines Sur",
+        "de": "Iriga",
+        "de:t": "Philippinen | Camarines Sur"
+    },
+    {
+        "en": "Naga",
+        "en:t": "Philippines | Cebu",
+        "a": true,
+        "g": {
+            "lat": 10.2085,
+            "lon": 123.7573
+        },
+        "it": "Naga",
+        "it:t": "Filippine | Cebu",
+        "es": "Naga",
+        "es:t": "Filipinas | Ceb\u00fa",
+        "de": "Naga",
+        "de:t": "Philippinen | Cebu"
+    },
+    {
+        "en": "Compostela",
+        "en:t": "Philippines | Cebu",
+        "a": true,
+        "g": {
+            "lat": 10.4659,
+            "lon": 123.9806
+        },
+        "it": "Compostela",
+        "it:t": "Filippine | Cebu",
+        "es": "Compostela",
+        "es:t": "Filipinas | Ceb\u00fa",
+        "de": "Compostela",
+        "de:t": "Philippinen | Cebu"
+    },
+    {
+        "en": "Compostela Valley",
+        "en:t": "Philippines | Davao",
+        "a": true,
+        "g": {
+            "lat": 7.5125,
+            "lon": 126.1763
+        },
+        "it": "Compostela",
+        "it:t": "Filippine | Compostela Valley",
+        "es": "Compostela del Valle",
+        "es:t": "Filipinas | Valle de Compostela",
+        "de": "Compostela Valley",
+        "de:t": "Philippinen | Davao"
+    },
+    {
+        "en": "Concepcion",
+        "en:t": "Philippines | Tarlac",
+        "a": true,
+        "g": {
+            "lat": 15.3401,
+            "lon": 120.689
+        },
+        "it": "Concepcion",
+        "it:t": "Filippine | Tarlac",
+        "es": "Concepci\u00f3n",
+        "es:t": "Filipinas | Tarlac",
+        "de": "Concepcion",
+        "de:t": "Philippinen | Tarlac"
+    },
+    {
+        "en": "Consolacion",
+        "en:t": "Philippines | Cebu",
+        "a": true,
+        "g": {
+            "lat": 10.4368,
+            "lon": 123.9416
+        },
+        "it": "Consolacion",
+        "it:t": "Filippine | Cebu",
+        "es": "Consolaci\u00f3n",
+        "es:t": "Filipinas | Ceb\u00fa",
+        "de": "Consolacion",
+        "de:t": "Philippinen | Cebu"
+    },
+    {
+        "en": "Cordova",
+        "en:t": "Philippines | Cebu",
+        "a": true,
+        "g": {
+            "lat": 10.2439,
+            "lon": 123.9416
+        },
+        "it": "Cordova",
+        "it:t": "Filippine | Cebu",
+        "es": "C\u00f3rdova",
+        "es:t": "Filipinas | Ceb\u00fa",
+        "de": "Cordova",
+        "de:t": "Philippinen | Cebu"
+    },
+    {
+        "en": "Cotabato",
+        "en:t": "Philippines | Maguindanao",
+        "a": true,
+        "g": {
+            "lat": 7.2047,
+            "lon": 124.231
+        },
+        "it": "Cotabato",
+        "it:t": "Filippine | Maguindanao",
+        "es": "Cotabato",
+        "es:t": "Filipinas | Maguindanao",
+        "de": "Cotabato",
+        "de:t": "Philippinen | Maguindanao"
+    },
+    {
+        "en": "Cuenca",
+        "en:t": "Philippines | Batangas",
+        "a": true,
+        "g": {
+            "lat": 13.9041,
+            "lon": 121.0507
+        },
+        "it": "Cuenca",
+        "it:t": "Filippine | Batangas",
+        "es": "Cuenca",
+        "es:t": "Filipinas | Batangas",
+        "de": "Cuenca",
+        "de:t": "Philippinen | Batangas"
+    },
+    {
+        "en": "Daet",
+        "en:t": "Philippines | Camarines Norte",
+        "a": true,
+        "g": {
+            "lat": 14.0996,
+            "lon": 122.955
+        },
+        "it": "Daet",
+        "it:t": "Filippine | Camarines Norte",
+        "es": "Daet",
+        "es:t": "Filipinas | Camarines Norte",
+        "de": "Daet",
+        "de:t": "Philippinen | Camarines Norte"
+    },
+    {
+        "en": "Danao",
+        "en:t": "Philippines | Cebu",
+        "a": true,
+        "g": {
+            "lat": 10.5417,
+            "lon": 123.9527
+        },
+        "it": "Danao",
+        "it:t": "Filippine | Cebu",
+        "es": "Danao",
+        "es:t": "Filipinas | Bohol",
+        "de": "Danao",
+        "de:t": "Philippinen | Cebu"
+    },
+    {
+        "en": "Dapitan",
+        "en:t": "Philippines | Zamboanga del Norte",
+        "a": true,
+        "g": {
+            "lat": 8.6253,
+            "lon": 123.3946
+        },
+        "it": "Dapitan",
+        "it:t": "Filippine | Zamboanga del Norte",
+        "es": "Dapitan",
+        "es:t": "Filipinas | Zamboanga del Norte",
+        "de": "Dapitan",
+        "de:t": "Philippinen | Zamboanga del Norte"
+    },
+    {
+        "en": "Dasmari\u00f1as",
+        "en:t": "Philippines | Cavite",
+        "a": true,
+        "g": {
+            "lat": 14.299,
+            "lon": 120.959
+        },
+        "it": "Dasmari\u00f1as",
+        "it:t": "Filippine | Cavite",
+        "es": "Dasmari\u00f1as",
+        "es:t": "Filipinas | Cavite",
+        "de": "Dasmari\u00f1as",
+        "de:t": "Philippinen | Cavite"
+    },
+    {
+        "en": "Davao",
+        "en:t": "Philippines | Davao del Sur",
+        "a": true,
+        "g": {
+            "lat": 7.1907,
+            "lon": 125.4553
+        },
+        "it": "Davao",
+        "it:t": "Filippine | Davao del Sur",
+        "es": "D\u00e1vao",
+        "es:t": "Filipinas | D\u00e1vao del Sur",
+        "de": "Davao",
+        "de:t": "Philippinen | Davao del Sur"
+    },
+    {
+        "en": "Del Pilar",
+        "en:t": "Philippines | San Fernando",
+        "a": true,
+        "g": {
+            "lat": 15.0351,
+            "lon": 120.6991
+        },
+        "it": "Del Pilar",
+        "it:t": "Filippine | San Fernando",
+        "es": "Del Pilar",
+        "es:t": "Filipinas | San Fernando",
+        "de": "Del Pilar",
+        "de:t": "Philippinen | San Fernando"
+    },
+    {
+        "en": "Diadi",
+        "en:t": "Philippines | Nueva Vizcaya",
+        "a": true,
+        "g": {
+            "lat": 16.6595,
+            "lon": 121.3313
+        },
+        "it": "Diadi",
+        "it:t": "Filippine | Nueva Vizcaya",
+        "es": "Diadi",
+        "es:t": "Filipinas | Nueva Vizcaya",
+        "de": "Diadi",
+        "de:t": "Philippinen | Nueva Vizcaya"
+    },
+    {
+        "en": "Digos",
+        "en:t": "Philippines | Davao del Sur",
+        "a": true,
+        "g": {
+            "lat": 6.7575,
+            "lon": 125.3524
+        },
+        "it": "Digos",
+        "it:t": "Filippine | Davao del Sur",
+        "es": "Digos",
+        "es:t": "Filipinas | D\u00e1vao del Sur",
+        "de": "Digos",
+        "de:t": "Philippinen | Davao del Sur"
+    },
+    {
+        "en": "Dinalupihan",
+        "en:t": "Philippines | Bataan",
+        "a": true,
+        "g": {
+            "lat": 14.8781,
+            "lon": 120.4546
+        },
+        "it": "Dinalupihan",
+        "it:t": "Filippine | Bataan",
+        "es": "Dinalupihan",
+        "es:t": "Filipinas | Bataan",
+        "de": "Dinalupihan",
+        "de:t": "Philippinen | Bataan"
+    },
+    {
+        "en": "Dipolog",
+        "en:t": "Philippines | Zamboanga del Norte",
+        "a": true,
+        "g": {
+            "lat": 8.5143,
+            "lon": 123.3374
+        },
+        "it": "Dipolog",
+        "it:t": "Filippine | Zamboanga del Norte",
+        "es": "Dip\u00f3log",
+        "es:t": "Filipinas | Zamboanga del Norte",
+        "de": "Dipolog",
+        "de:t": "Philippinen | Zamboanga del Norte"
+    },
+    {
+        "en": "Dologon",
+        "en:t": "Philippines | Maramag",
+        "a": true,
+        "g": {
+            "lat": 7.8364,
+            "lon": 125.0416
+        },
+        "it": "Dologon",
+        "it:t": "Filippine | Maramag",
+        "es": "Dologon",
+        "es:t": "Filipinas | Maramag",
+        "de": "Dologon",
+        "de:t": "Philippinen | Maramag"
+    },
+    {
+        "en": "Don Carlos",
+        "en:t": "Philippines | Bukidnon",
+        "a": true,
+        "g": {
+            "lat": 7.6881,
+            "lon": 124.8845
+        },
+        "it": "Don Carlos",
+        "it:t": "Filippine | Bukidnon",
+        "es": "Don Carlos",
+        "es:t": "Filipinas | Bukidnon",
+        "de": "Don Carlos",
+        "de:t": "Philippinen | Bukidnon"
+    },
+    {
+        "en": "Dumaguete",
+        "en:t": "Philippines | Negros Oriental",
+        "a": true,
+        "g": {
+            "lat": 9.3068,
+            "lon": 123.3054
+        },
+        "it": "Dumaguete",
+        "it:t": "Filippine | Negros Oriental",
+        "es": "Dumaguete",
+        "es:t": "Filipinas | Negros Oriental",
+        "de": "Dumaguete",
+        "de:t": "Philippinen | Negros Oriental"
+    },
+    {
+        "en": "Eastern Visayas",
+        "en:t": "Philippines",
+        "a": true,
+        "g": {
+            "lat": 12.2446,
+            "lon": 125.0388
+        },
+        "it": "Visayas Orientale",
+        "it:t": "Filippine",
+        "es": "Visayas Oriental",
+        "es:t": "Filipinas",
+        "de": "Eastern Visayas",
+        "de:t": "Philippinen"
+    },
+    {
+        "en": "Enrique B. Magalona",
+        "en:t": "Philippines | Negros Occidental",
+        "a": true,
+        "g": {
+            "lat": 10.8891,
+            "lon": 123.0114
+        },
+        "it": "Enrique B. Magalona",
+        "it:t": "Filippine | Negros Occidental",
+        "es": "Enrique B. Magalona",
+        "es:t": "Filipinas | Negros Occidental",
+        "de": "Enrique B. Magalona",
+        "de:t": "Philippinen | Negros Occidental"
+    },
+    {
+        "en": "Escalante",
+        "en:t": "Philippines | Negros Occidental",
+        "a": true,
+        "g": {
+            "lat": 10.8291,
+            "lon": 123.5056
+        },
+        "it": "Escalante",
+        "it:t": "Filippine | Negros Occidental",
+        "es": "Escalante",
+        "es:t": "Filipinas | Negros Occidental",
+        "de": "Escalante",
+        "de:t": "Philippinen | Negros Occidental"
+    },
+    {
+        "en": "Gapan",
+        "en:t": "Philippines | Nueva Ecija",
+        "a": true,
+        "g": {
+            "lat": 15.2912,
+            "lon": 121.0106
+        },
+        "it": "Gapan",
+        "it:t": "Filippine | Nueva Ecija",
+        "es": "Gap\u00e1n",
+        "es:t": "Filipinas | Nueva \u00c9cija",
+        "de": "Gapan",
+        "de:t": "Philippinen | Nueva Ecija"
+    },
+    {
+        "en": "General Mamerto Natividad",
+        "en:t": "Philippines | Nueva Ecija",
+        "a": true,
+        "g": {
+            "lat": 15.5879,
+            "lon": 121.045
+        },
+        "it": "General Mamerto Natividad",
+        "it:t": "Filippine | Nueva Ecija",
+        "es": "General Mamerto Natividad",
+        "es:t": "Filipinas | Nueva \u00c9cija",
+        "de": "General Mamerto Natividad",
+        "de:t": "Philippinen | Nueva Ecija"
+    },
+    {
+        "en": "General Santos",
+        "en:t": "Philippines | South Cotabato",
+        "a": true,
+        "g": {
+            "lat": 6.1164,
+            "lon": 125.1716
+        },
+        "it": "General Santos",
+        "it:t": "Filippine | South Cotabato",
+        "es": "General Santos",
+        "es:t": "Filipinas | Cotabato Sur",
+        "de": "General Santos",
+        "de:t": "Philippinen | South Cotabato"
+    },
+    {
+        "en": "General Tinio",
+        "en:t": "Philippines | Nueva Ecija",
+        "a": true,
+        "g": {
+            "lat": 15.3634,
+            "lon": 121.2168
+        },
+        "it": "General Tinio",
+        "it:t": "Filippine | Nueva Ecija",
+        "es": "General Tinio",
+        "es:t": "Filipinas | Nueva \u00c9cija",
+        "de": "General Tinio",
+        "de:t": "Philippinen | Nueva Ecija"
+    },
+    {
+        "en": "General Trias",
+        "en:t": "Philippines | Cavite",
+        "a": true,
+        "g": {
+            "lat": 14.3214,
+            "lon": 120.9073
+        },
+        "it": "General Trias",
+        "it:t": "Filippine | Cavite",
+        "es": "General Trias",
+        "es:t": "Filipinas | Cavite",
+        "de": "General Trias",
+        "de:t": "Philippinen | Cavite"
+    },
+    {
+        "en": "Gerona",
+        "en:t": "Philippines | Tarlac",
+        "a": true,
+        "g": {
+            "lat": 15.6119,
+            "lon": 120.5509
+        },
+        "it": "Gerona",
+        "it:t": "Filippine | Tarlac",
+        "es": "Gerona",
+        "es:t": "Filipinas | Tarlac",
+        "de": "Gerona",
+        "de:t": "Philippinen | Tarlac"
+    },
+    {
+        "en": "Glan",
+        "en:t": "Philippines | Sarangani",
+        "a": true,
+        "g": {
+            "lat": 5.76,
+            "lon": 125.3466
+        },
+        "it": "Glan",
+        "it:t": "Filippine | Sarangani",
+        "es": "Glan",
+        "es:t": "Filipinas | Sarangani",
+        "de": "Glan",
+        "de:t": "Philippinen | Sarangani"
+    },
+    {
+        "en": "Goa",
+        "en:t": "Philippines | Camarines Sur",
+        "a": true,
+        "g": {
+            "lat": 13.7362,
+            "lon": 123.4159
+        },
+        "it": "Goa",
+        "it:t": "Filippine | Camarines Sur",
+        "es": "Goa",
+        "es:t": "Filipinas | Camarines Sur",
+        "de": "Goa",
+        "de:t": "Philippinen | Camarines Sur"
+    },
+    {
+        "en": "Guiguinto",
+        "en:t": "Philippines | Bulacan",
+        "a": true,
+        "g": {
+            "lat": 14.8624,
+            "lon": 120.8587
+        },
+        "it": "Guiguinto",
+        "it:t": "Filippine | Bulacan",
+        "es": "Guinguinto",
+        "es:t": "Filipinas | Bulac\u00e1n",
+        "de": "Guiguinto",
+        "de:t": "Philippinen | Bulacan"
+    },
+    {
+        "en": "Guihulngan",
+        "en:t": "Philippines | Negros Oriental",
+        "a": true,
+        "g": {
+            "lat": 10.1832,
+            "lon": 123.2139
+        },
+        "it": "Guihulngan",
+        "it:t": "Filippine | Negros Oriental",
+        "es": "Guihul\u00f1g\u00e1n",
+        "es:t": "Filipinas | Negros Oriental",
+        "de": "Guihulngan",
+        "de:t": "Philippinen | Negros Oriental"
+    },
+    {
+        "en": "Guimba",
+        "en:t": "Philippines | Nueva Ecija",
+        "a": true,
+        "g": {
+            "lat": 15.6673,
+            "lon": 120.735
+        },
+        "it": "Guimba",
+        "it:t": "Filippine | Nueva Ecija",
+        "es": "Guimba",
+        "es:t": "Filipinas | Nueva \u00c9cija",
+        "de": "Guimba",
+        "de:t": "Philippinen | Nueva Ecija"
+    },
+    {
+        "en": "Guiset",
+        "en:t": "Philippines | Nueva Ecija",
+        "a": true,
+        "g": {
+            "lat": 15.7198,
+            "lon": 120.7838
+        },
+        "it": "Guiset",
+        "it:t": "Filippine | Nueva Ecija",
+        "es": "Guiset",
+        "es:t": "Filipinas | Nueva Ecija",
+        "de": "Guiset",
+        "de:t": "Philippinen | Nueva Ecija"
+    },
+    {
+        "en": "Gumaca",
+        "en:t": "Philippines | Quezon",
+        "a": true,
+        "g": {
+            "lat": 13.891,
+            "lon": 122.1065
+        },
+        "it": "Gumaca",
+        "it:t": "Filippine | Quezon",
+        "es": "Gumaca",
+        "es:t": "Filipinas | Quezon",
+        "de": "Gumaca",
+        "de:t": "Philippinen | Quezon"
+    },
+    {
+        "en": "Guyong",
+        "en:t": "Philippines | Santa Maria",
+        "a": true,
+        "g": {
+            "lat": 14.8372,
+            "lon": 120.9733
+        },
+        "it": "Guyong",
+        "it:t": "Filippine | Santa Maria",
+        "es": "Guyong",
+        "es:t": "Filipinas | Santa Maria",
+        "de": "Guyong",
+        "de:t": "Philippinen | Santa Maria"
+    },
+    {
+        "en": "Hagonoy",
+        "en:t": "Philippines | Bulacan",
+        "a": true,
+        "g": {
+            "lat": 14.7919,
+            "lon": 120.735
+        },
+        "it": "Hagonoy",
+        "it:t": "Filippine | Bulacan",
+        "es": "Hagonoy",
+        "es:t": "Filipinas | Bulac\u00e1n",
+        "de": "Hagonoy",
+        "de:t": "Philippinen | Bulacan"
+    },
+    {
+        "en": "Hermosa",
+        "en:t": "Philippines | Bataan",
+        "a": true,
+        "g": {
+            "lat": 14.8269,
+            "lon": 120.4242
+        },
+        "it": "Hermosa",
+        "it:t": "Filippine | Bataan",
+        "es": "Hermosa",
+        "es:t": "Filipinas | Bata\u00e1n",
+        "de": "Hermosa",
+        "de:t": "Philippinen | Bataan"
+    },
+    {
+        "en": "Himamaylan",
+        "en:t": "Philippines | Negros Occidental",
+        "a": true,
+        "g": {
+            "lat": 10.0902,
+            "lon": 122.8684
+        },
+        "it": "Himamaylan",
+        "it:t": "Filippine | Negros Occidental",
+        "es": "Himamaylan",
+        "es:t": "Filipinas | Negros Occidental",
+        "de": "Himamaylan",
+        "de:t": "Philippinen | Negros Occidental"
+    },
+    {
+        "en": "Hinigaran",
+        "en:t": "Philippines | Negros Occidental",
+        "a": true,
+        "g": {
+            "lat": 10.2714,
+            "lon": 122.855
+        },
+        "it": "Hinigaran",
+        "it:t": "Filippine | Negros Occidental",
+        "es": "Hinigaran",
+        "es:t": "Filipinas | Negros Occidental",
+        "de": "Hinigaran",
+        "de:t": "Philippinen | Negros Occidental"
+    },
+    {
+        "en": "Iba",
+        "en:t": "Philippines | Zambales",
+        "a": true,
+        "g": {
+            "lat": 15.333,
+            "lon": 119.9758
+        },
+        "it": "Iba",
+        "it:t": "Filippine | Zambales",
+        "es": "Iba",
+        "es:t": "Filipinas | Zambales",
+        "de": "Iba",
+        "de:t": "Philippinen | Zambales"
+    },
+    {
+        "en": "Ilagan",
+        "en:t": "Philippines | Isabela",
+        "a": true,
+        "g": {
+            "lat": 17.1263,
+            "lon": 122.0101
+        },
+        "it": "Ilagan",
+        "it:t": "Filippine | Isabela",
+        "es": "Ilagan",
+        "es:t": "Filipinas | Isabela",
+        "de": "Ilagan",
+        "de:t": "Philippinen | Isabela"
+    },
+    {
+        "en": "Iligan",
+        "en:t": "Philippines | Lanao del Norte",
+        "a": true,
+        "g": {
+            "lat": 8.228,
+            "lon": 124.2452
+        },
+        "it": "Iligan",
+        "it:t": "Filippine | Lanao del Norte",
+        "es": "Iligan",
+        "es:t": "Filipinas | Lanao del Norte",
+        "de": "Iligan",
+        "de:t": "Philippinen | Lanao del Norte"
+    },
+    {
+        "en": "Ilocos",
+        "en:t": "Philippines",
+        "a": true,
+        "g": {
+            "lat": 16.0832,
+            "lon": 120.62
+        },
+        "it": "Ilocos",
+        "it:t": "Filippine",
+        "es": "Ilocos",
+        "es:t": "Filipinas",
+        "de": "Ilocos",
+        "de:t": "Philippinen"
+    },
+    {
+        "en": "Iloilo",
+        "en:t": "Philippines | Iloilo",
+        "a": true,
+        "g": {
+            "lat": 10.7202,
+            "lon": 122.5621
+        },
+        "it": "Iloilo",
+        "it:t": "Filippine | Iloilo",
+        "es": "Ilo\u00edlo",
+        "es:t": "Filipinas | Ilo\u00edlo",
+        "de": "Iloilo",
+        "de:t": "Philippinen | Iloilo"
+    },
+    {
+        "en": "Imus",
+        "en:t": "Philippines | Cavite",
+        "a": true,
+        "g": {
+            "lat": 14.4064,
+            "lon": 120.9405
+        },
+        "it": "Imus",
+        "it:t": "Filippine | Cavite",
+        "es": "Imus",
+        "es:t": "Filipinas | Cavite",
+        "de": "Imus",
+        "de:t": "Philippinen | Cavite"
+    },
+    {
+        "en": "Indang",
+        "en:t": "Philippines | Cavite",
+        "a": true,
+        "g": {
+            "lat": 14.192,
+            "lon": 120.8729
+        },
+        "it": "Indang",
+        "it:t": "Filippine | Cavite",
+        "es": "Indang",
+        "es:t": "Filipinas | Cavite",
+        "de": "Indang",
+        "de:t": "Philippinen | Cavite"
+    },
+    {
+        "en": "Ipil",
+        "en:t": "Philippines | Zamboanga Sibugay",
+        "a": true,
+        "g": {
+            "lat": 7.7858,
+            "lon": 122.5882
+        },
+        "it": "Ipil",
+        "it:t": "Filippine | Zamboanga Sibugay",
+        "es": "Ipil",
+        "es:t": "Filipinas | Zamboanga Sibugay",
+        "de": "Ipil",
+        "de:t": "Philippinen | Zamboanga Sibugay"
+    },
+    {
+        "en": "Irosin",
+        "en:t": "Philippines | Sorsogon",
+        "a": true,
+        "g": {
+            "lat": 12.724,
+            "lon": 124.0419
+        },
+        "it": "Irosin",
+        "it:t": "Filippine | Sorsogon",
+        "es": "Irosin",
+        "es:t": "Filipinas | Sorsogon",
+        "de": "Irosin",
+        "de:t": "Philippinen | Sorsogon"
+    },
+    {
+        "en": "Isabela",
+        "en:t": "Philippines | Negros Occidental",
+        "a": true,
+        "g": {
+            "lat": 10.2257,
+            "lon": 123.0114
+        },
+        "it": "Isabela",
+        "it:t": "Filippine | Negros Occidental",
+        "es": "Isabela",
+        "es:t": "Filipinas | Negros Occidental",
+        "de": "Isabela",
+        "de:t": "Philippinen | Negros Occidental"
+    },
+    {
+        "en": "Isabela",
+        "en:t": "Philippines | Basilan",
+        "a": true,
+        "g": {
+            "lat": 6.7029,
+            "lon": 121.969
+        },
+        "it": "Isabela",
+        "it:t": "Filippine | Basilan",
+        "es": "Isabela",
+        "es:t": "Filipinas | Basil\u00e1n",
+        "de": "Isabela",
+        "de:t": "Philippinen | Basilan"
+    },
+    {
+        "en": "Samal",
+        "en:t": "Philippines | Davao del Norte",
+        "a": true,
+        "g": {
+            "lat": 7.1033,
+            "lon": 125.7188
+        },
+        "it": "Samal",
+        "it:t": "Filippine | Davao del Norte",
+        "es": "S\u00e1mal",
+        "es:t": "Filipinas | D\u00e1vao del Norte",
+        "de": "Samal",
+        "de:t": "Philippinen | Davao del Norte"
+    },
+    {
+        "en": "Isulan",
+        "en:t": "Philippines | Sultan Kudarat",
+        "a": true,
+        "g": {
+            "lat": 6.6323,
+            "lon": 124.5978
+        },
+        "it": "Isulan",
+        "it:t": "Filippine | Sultan Kudarat",
+        "es": "Isulan",
+        "es:t": "Filipinas | Sult\u00e1n Kudarat",
+        "de": "Isulan",
+        "de:t": "Philippinen | Sultan Kudarat"
+    },
+    {
+        "en": "Itogon",
+        "en:t": "Philippines | Benguet",
+        "a": true,
+        "g": {
+            "lat": 16.3452,
+            "lon": 120.689
+        },
+        "it": "Itogon",
+        "it:t": "Filippine | Benguet",
+        "es": "Itogon",
+        "es:t": "Filipinas | Benguet",
+        "de": "Itogon",
+        "de:t": "Philippinen | Benguet"
+    },
+    {
+        "en": "Jaen",
+        "en:t": "Philippines | Nueva Ecija",
+        "a": true,
+        "g": {
+            "lat": 15.3627,
+            "lon": 120.8838
+        },
+        "it": "Jaen",
+        "it:t": "Filippine | Nueva Ecija",
+        "es": "Ja\u00e9n",
+        "es:t": "Filipinas | Nueva \u00c9cija",
+        "de": "Jaen",
+        "de:t": "Philippinen | Nueva Ecija"
+    },
+    {
+        "en": "Jagna",
+        "en:t": "Philippines | Bohol",
+        "a": true,
+        "g": {
+            "lat": 9.6505,
+            "lon": 124.3653
+        },
+        "it": "Jagna",
+        "it:t": "Filippine | Bohol",
+        "es": "Jagna",
+        "es:t": "Filipinas | Bohol",
+        "de": "Jagna",
+        "de:t": "Philippinen | Bohol"
+    },
+    {
+        "en": "Jala-jala",
+        "en:t": "Philippines | Rizal",
+        "a": true,
+        "g": {
+            "lat": 14.3409,
+            "lon": 121.3427
+        },
+        "it": "Jala-Jala",
+        "it:t": "Filippine | Rizal",
+        "es": "Jalajala",
+        "es:t": "Filipinas | Rizal",
+        "de": "Jalajala",
+        "de:t": "Philippinen | Rizal"
+    },
+    {
+        "en": "Jasaan",
+        "en:t": "Philippines | Misamis Oriental",
+        "a": true,
+        "g": {
+            "lat": 8.6498,
+            "lon": 124.7548
+        },
+        "it": "Jasaan",
+        "it:t": "Filippine | Misamis Oriental",
+        "es": "Jam\u00e1n",
+        "es:t": "Filipinas | Misamis Oriental",
+        "de": "Jasaan",
+        "de:t": "Philippinen | Misamis Oriental"
+    },
+    {
+        "en": "Jolo",
+        "en:t": "Philippines | Sulu",
+        "a": true,
+        "g": {
+            "lat": 6.0474,
+            "lon": 121.009
+        },
+        "it": "Jolo",
+        "it:t": "Filippine | Sulu",
+        "es": "Jol\u00f3",
+        "es:t": "Filipinas | Sul\u00fa",
+        "de": "Jolo",
+        "de:t": "Philippinen | Sulu"
+    },
+    {
+        "en": "Jose Panganiban",
+        "en:t": "Philippines | Camarines Norte",
+        "a": true,
+        "g": {
+            "lat": 14.2834,
+            "lon": 122.698
+        },
+        "it": "Jose Panganiban",
+        "it:t": "Filippine | Camarines Norte",
+        "es": "Jose Panganiban",
+        "es:t": "Filipinas | Camarines Norte",
+        "de": "Jose Panganiban",
+        "de:t": "Philippinen | Camarines Norte"
+    },
+    {
+        "en": "Kabacan",
+        "en:t": "Philippines | Cotabato",
+        "a": true,
+        "g": {
+            "lat": 7.1072,
+            "lon": 124.8403
+        },
+        "it": "Kabacan",
+        "it:t": "Filippine | Cotabato",
+        "es": "Cabac\u00e1n",
+        "es:t": "Filipinas | Cotabato",
+        "de": "Kabacan",
+        "de:t": "Philippinen | Cotabato"
+    },
+    {
+        "en": "Kabankalan",
+        "en:t": "Philippines | Negros Occidental",
+        "a": true,
+        "g": {
+            "lat": 9.9134,
+            "lon": 122.8536
+        },
+        "it": "Kabankalan",
+        "it:t": "Filippine | Negros Occidental",
+        "es": "Kabankal\u00e1n",
+        "es:t": "Filipinas | Negros Occidental",
+        "de": "Kabankalan",
+        "de:t": "Philippinen | Negros Occidental"
+    },
+    {
+        "en": "Kawit",
+        "en:t": "Philippines | Cavite",
+        "a": true,
+        "g": {
+            "lat": 14.4411,
+            "lon": 120.9016
+        },
+        "it": "Kawit",
+        "it:t": "Filippine | Cavite",
+        "es": "Kawit",
+        "es:t": "Filipinas | Cavite",
+        "de": "Kawit",
+        "de:t": "Philippinen | Cavite"
+    },
+    {
+        "en": "Kidapawan",
+        "en:t": "Philippines | Cotabato",
+        "a": true,
+        "g": {
+            "lat": 7.0106,
+            "lon": 125.0911
+        },
+        "it": "Kidapawan",
+        "it:t": "Filippine | Cotabato",
+        "es": "Kidapawan",
+        "es:t": "Filipinas | Cotabato",
+        "de": "Kidapawan",
+        "de:t": "Philippinen | Cotabato"
+    },
+    {
+        "en": "Koronadal",
+        "en:t": "Philippines | South Cotabato",
+        "a": true,
+        "g": {
+            "lat": 6.4974,
+            "lon": 124.8472
+        },
+        "it": "Koronadal",
+        "it:t": "Filippine | South Cotabato",
+        "es": "Koronadal",
+        "es:t": "Filipinas | Cotabato Sur",
+        "de": "Koronadal",
+        "de:t": "Philippinen | South Cotabato"
+    },
+    {
+        "en": "La Carlota",
+        "en:t": "Philippines | Negros Occidental",
+        "a": true,
+        "g": {
+            "lat": 10.4118,
+            "lon": 123.0001
+        },
+        "it": "La Carlota",
+        "it:t": "Filippine | Negros Occidental",
+        "es": "La Carlota",
+        "es:t": "Filipinas | Negros Occidental",
+        "de": "La Carlota",
+        "de:t": "Philippinen | Negros Occidental"
+    },
+    {
+        "en": "La Castellana",
+        "en:t": "Philippines | Negros Occidental",
+        "a": true,
+        "g": {
+            "lat": 10.3195,
+            "lon": 123.0198
+        },
+        "it": "La Castellana",
+        "it:t": "Filippine | Negros Occidental",
+        "es": "La Castellana",
+        "es:t": "Filipinas | Negros Occidental",
+        "de": "La Castellana",
+        "de:t": "Philippinen | Negros Occidental"
+    },
+    {
+        "en": "La Paz",
+        "en:t": "Philippines | Tarlac",
+        "a": true,
+        "g": {
+            "lat": 15.4497,
+            "lon": 120.7235
+        },
+        "it": "La Paz",
+        "it:t": "Filippine | Tarlac",
+        "es": "La Paz",
+        "es:t": "Filipinas | Tarlac",
+        "de": "La Paz",
+        "de:t": "Philippinen | Tarlac"
+    },
+    {
+        "en": "La Trinidad",
+        "en:t": "Philippines | Benguet",
+        "a": true,
+        "g": {
+            "lat": 16.4774,
+            "lon": 120.5855
+        },
+        "it": "La Trinidad",
+        "it:t": "Filippine | Benguet",
+        "es": "La Trinidad",
+        "es:t": "Filipinas | Benguet",
+        "de": "La Trinidad",
+        "de:t": "Philippinen | Benguet"
+    },
+    {
+        "en": "Labo",
+        "en:t": "Philippines | Camarines Norte",
+        "a": true,
+        "g": {
+            "lat": 14.1528,
+            "lon": 122.673
+        },
+        "it": "Labo",
+        "it:t": "Filippine | Camarines Norte",
+        "es": "Labo",
+        "es:t": "Filipinas | Camarines Norte",
+        "de": "Labo",
+        "de:t": "Philippinen | Camarines Norte"
+    },
+    {
+        "en": "Laguilayan",
+        "en:t": "Philippines | Isulan",
+        "a": true,
+        "g": {
+            "lat": 6.668,
+            "lon": 124.5279
+        },
+        "it": "Laguilayan",
+        "it:t": "Filippine | Isulan",
+        "es": "Laguilayan",
+        "es:t": "Filipinas | Isulan",
+        "de": "Laguilayan",
+        "de:t": "Philippinen | Isulan"
+    },
+    {
+        "en": "Lake Sebu",
+        "en:t": "Philippines",
+        "a": true,
+        "g": {
+            "lat": 6.2267,
+            "lon": 124.705
+        },
+        "it": "Lake Sebu",
+        "it:t": "Filippine",
+        "es": "Lake Sebu",
+        "es:t": "Filipinas",
+        "de": "Sebu-See",
+        "de:t": "Philippinen"
+    },
+    {
+        "en": "Lala",
+        "en:t": "Philippines | Lanao del Norte",
+        "a": true,
+        "g": {
+            "lat": 7.9486,
+            "lon": 123.7629
+        },
+        "it": "Lala",
+        "it:t": "Filippine | Lanao del Norte",
+        "es": "Lala de Lanao",
+        "es:t": "Filipinas | Lanao del Norte",
+        "de": "Lala",
+        "de:t": "Philippinen | Lanao del Norte"
+    },
+    {
+        "en": "Laoag",
+        "en:t": "Philippines | Ilocos Norte",
+        "a": true,
+        "g": {
+            "lat": 18.196,
+            "lon": 120.5927
+        },
+        "it": "Laoag",
+        "it:t": "Filippine | Ilocos Norte",
+        "es": "Laoag",
+        "es:t": "Filipinas | Ilocos Norte",
+        "de": "Laoag",
+        "de:t": "Philippinen | Ilocos Norte"
+    },
+    {
+        "en": "Laoang",
+        "en:t": "Philippines | Northern Samar",
+        "a": true,
+        "g": {
+            "lat": 12.6199,
+            "lon": 125.0168
+        },
+        "it": "Laoang",
+        "it:t": "Filippine | Northern Samar",
+        "es": "Laoang",
+        "es:t": "Filipinas | Northern Samar",
+        "de": "Laoang",
+        "de:t": "Philippinen | Northern Samar"
+    },
+    {
+        "en": "Lapu-Lapu",
+        "en:t": "Philippines | Cebu",
+        "a": true,
+        "g": {
+            "lat": 10.2662,
+            "lon": 123.9973
+        },
+        "it": "Lapu-Lapu",
+        "it:t": "Filippine | Cebu",
+        "es": "Lapulapu",
+        "es:t": "Filipinas | Ceb\u00fa",
+        "de": "Lapu-Lapu",
+        "de:t": "Philippinen | Cebu"
+    },
+    {
+        "en": "Laur",
+        "en:t": "Philippines | Nueva Ecija",
+        "a": true,
+        "g": {
+            "lat": 15.5248,
+            "lon": 121.1825
+        },
+        "it": "Laur",
+        "it:t": "Filippine | Nueva Ecija",
+        "es": "Laur",
+        "es:t": "Filipinas | Nueva \u00c9cija",
+        "de": "Laur",
+        "de:t": "Philippinen | Nueva Ecija"
+    },
+    {
+        "en": "Legazpi",
+        "en:t": "Philippines | Albay",
+        "a": true,
+        "g": {
+            "lat": 13.1391,
+            "lon": 123.7438
+        },
+        "it": "Legazpi",
+        "it:t": "Filippine | Albay",
+        "es": "Legazpia",
+        "es:t": "Filipinas | Albay",
+        "de": "Legazpi",
+        "de:t": "Philippinen | Albay"
+    },
+    {
+        "en": "Libertad",
+        "en:t": "Philippines",
+        "a": true,
+        "g": {
+            "lat": 8.5314,
+            "lon": 124.3588
+        },
+        "it": "Libertad",
+        "it:t": "Filippine",
+        "es": "Caraga",
+        "es:t": "Filipinas",
+        "de": "Libertad",
+        "de:t": "Philippinen"
+    },
+    {
+        "en": "Libon",
+        "en:t": "Philippines | Albay",
+        "a": true,
+        "g": {
+            "lat": 13.2607,
+            "lon": 123.3711
+        },
+        "it": "Libon",
+        "it:t": "Filippine | Albay",
+        "es": "Libon",
+        "es:t": "Filipinas | Albay",
+        "de": "Libon",
+        "de:t": "Philippinen | Albay"
+    },
+    {
+        "en": "Liliw",
+        "en:t": "Philippines | Laguna",
+        "a": true,
+        "g": {
+            "lat": 14.1364,
+            "lon": 121.4399
+        },
+        "it": "Liliw",
+        "it:t": "Filippine | Laguna",
+        "es": "Liliw",
+        "es:t": "Filipinas | Laguna",
+        "de": "Liliw",
+        "de:t": "Philippinen | Laguna"
+    },
+    {
+        "en": "Liloan",
+        "en:t": "Philippines | Cebu",
+        "a": true,
+        "g": {
+            "lat": 10.4121,
+            "lon": 123.9861
+        },
+        "it": "Liloan",
+        "it:t": "Filippine | Cebu",
+        "es": "Liloan",
+        "es:t": "Filipinas | Ceb\u00fa",
+        "de": "Liloan",
+        "de:t": "Philippinen | Cebu"
+    },
+    {
+        "en": "Limay",
+        "en:t": "Philippines | Bataan",
+        "a": true,
+        "g": {
+            "lat": 14.5279,
+            "lon": 120.5509
+        },
+        "it": "Limay",
+        "it:t": "Filippine | Bataan",
+        "es": "Limay",
+        "es:t": "Filipinas | Bata\u00e1n",
+        "de": "Limay",
+        "de:t": "Philippinen | Bataan"
+    },
+    {
+        "en": "Lingayen",
+        "en:t": "Philippines | Pangasinan",
+        "a": true,
+        "g": {
+            "lat": 16.006,
+            "lon": 120.2397
+        },
+        "it": "Lingayen",
+        "it:t": "Filippine | Pangasinan",
+        "es": "Lingay\u00e9n",
+        "es:t": "Filipinas | Pangasin\u00e1n",
+        "de": "Lingayen",
+        "de:t": "Philippinen | Pangasin\u00e1n"
+    },
+    {
+        "en": "Lipa",
+        "en:t": "Philippines | Batangas",
+        "a": true,
+        "g": {
+            "lat": 13.9419,
+            "lon": 121.1644
+        },
+        "it": "Lipa",
+        "it:t": "Filippine | Batangas",
+        "es": "Lip\u00e1",
+        "es:t": "Filipinas | Batangas",
+        "de": "Lipa",
+        "de:t": "Philippinen | Batangas"
+    },
+    {
+        "en": "Loboc",
+        "en:t": "Philippines | Bohol",
+        "a": true,
+        "g": {
+            "lat": 9.6582,
+            "lon": 124.0307
+        },
+        "it": "Loboc",
+        "it:t": "Filippine | Bohol",
+        "es": "Loboc",
+        "es:t": "Filipinas | Bohol",
+        "de": "Loboc",
+        "de:t": "Philippinen | Bohol"
+    },
+    {
+        "en": "Loma de Gato",
+        "en:t": "Philippines | Novaliches",
+        "a": true,
+        "g": {
+            "lat": 14.7897,
+            "lon": 121.0134
+        },
+        "it": "Loma de Gato",
+        "it:t": "Filippine | Novaliches",
+        "es": "Loma de Gato",
+        "es:t": "Filipinas | Novaliches",
+        "de": "Loma de Gato",
+        "de:t": "Philippinen | Novaliches"
+    },
+    {
+        "en": "Lopez",
+        "en:t": "Philippines | Quezon",
+        "a": true,
+        "g": {
+            "lat": 13.8001,
+            "lon": 122.3108
+        },
+        "it": "Lopez",
+        "it:t": "Filippine | Quezon",
+        "es": "Lopez",
+        "es:t": "Filipinas | Quezon",
+        "de": "Lopez",
+        "de:t": "Philippinen | Quezon"
+    },
+    {
+        "en": "Los Ba\u00f1os",
+        "en:t": "Philippines | Laguna",
+        "a": true,
+        "g": {
+            "lat": 14.1699,
+            "lon": 121.2441
+        },
+        "it": "Los Ba\u00f1os",
+        "it:t": "Filippine | Laguna",
+        "es": "Los Ba\u00f1os",
+        "es:t": "Filipinas | La Laguna",
+        "de": "Los Ba\u00f1os",
+        "de:t": "Philippinen | Laguna"
+    },
+    {
+        "en": "Lubao",
+        "en:t": "Philippines | Pampanga",
+        "a": true,
+        "g": {
+            "lat": 14.9021,
+            "lon": 120.5509
+        },
+        "it": "Lubao",
+        "it:t": "Filippine | Pampanga",
+        "es": "Lubao",
+        "es:t": "Filipinas | Pampanga",
+        "de": "Lubao",
+        "de:t": "Philippinen | Pampanga"
+    },
+    {
+        "en": "Lucban",
+        "en:t": "Philippines | Quezon",
+        "a": true,
+        "g": {
+            "lat": 14.1344,
+            "lon": 121.5598
+        },
+        "it": "Lucban",
+        "it:t": "Filippine | Quezon",
+        "es": "Lucban",
+        "es:t": "Filipinas | Quez\u00f3n",
+        "de": "Lucban",
+        "de:t": "Philippinen | Quezon"
+    },
+    {
+        "en": "Lucena",
+        "en:t": "Philippines | Quezon",
+        "a": true,
+        "g": {
+            "lat": 13.9414,
+            "lon": 121.6234
+        },
+        "it": "Lucena",
+        "it:t": "Filippine | Quezon",
+        "es": "Lucena",
+        "es:t": "Filipinas | Quez\u00f3n",
+        "de": "Lucena",
+        "de:t": "Philippinen | Quezon"
+    },
+    {
+        "en": "Lumbang",
+        "en:t": "Philippines | Lipa",
+        "a": true,
+        "g": {
+            "lat": 13.9837,
+            "lon": 121.1968
+        },
+        "it": "Lumbang",
+        "it:t": "Filippine | Lipa",
+        "es": "Lumban",
+        "es:t": "Filipinas | Laguna",
+        "de": "Lumban",
+        "de:t": "Philippinen | Laguna"
+    },
+    {
+        "en": "Lupon",
+        "en:t": "Philippines | Davao Oriental",
+        "a": true,
+        "g": {
+            "lat": 7.106,
+            "lon": 126.1766
+        },
+        "it": "Lupon",
+        "it:t": "Filippine | Davao Oriental",
+        "es": "Lup\u00f3n",
+        "es:t": "Filipinas | D\u00e1vao Oriental",
+        "de": "Lupon",
+        "de:t": "Philippinen | Davao Oriental"
+    },
+    {
+        "en": "Maao - La Carlota Highway",
+        "en:t": "Philippines | Negros Occidental",
+        "a": true,
+        "g": {
+            "lat": 10.4511,
+            "lon": 122.9279
+        },
+        "it": "Maao - La Carlota Highway",
+        "it:t": "Filipinas | Negros Occidental",
+        "es": "Maao - La Carlota Highway",
+        "es:t": "Filipinas | Negros Occidental",
+        "de": "Maao - La Carlota Highway",
+        "de:t": "Filipinas | Negros Occidental"
+    },
+    {
+        "en": "Maasin",
+        "en:t": "Philippines | Southern Leyte",
+        "a": true,
+        "g": {
+            "lat": 10.1654,
+            "lon": 124.8403
+        },
+        "it": "Maasin",
+        "it:t": "Filippine | Southern Leyte",
+        "es": "Maasin",
+        "es:t": "Filipinas | Leyte Meridional",
+        "de": "Maasin",
+        "de:t": "Philippinen | Southern Leyte"
+    },
+    {
+        "en": "Mabalacat",
+        "en:t": "Philippines | Pampanga",
+        "a": true,
+        "g": {
+            "lat": 15.2229,
+            "lon": 120.5744
+        },
+        "it": "Mabalacat",
+        "it:t": "Filippine | Pampanga",
+        "es": "Mabalacat",
+        "es:t": "Filipinas | Pampanga",
+        "de": "Mabalacat",
+        "de:t": "Philippinen | Pampanga"
+    },
+    {
+        "en": "Magalang",
+        "en:t": "Philippines | Pampanga",
+        "a": true,
+        "g": {
+            "lat": 15.248,
+            "lon": 120.6775
+        },
+        "it": "Magalang",
+        "it:t": "Filippine | Pampanga",
+        "es": "Magalang",
+        "es:t": "Filipinas | Pampanga",
+        "de": "Magalang",
+        "de:t": "Philippinen | Pampanga"
+    },
+    {
+        "en": "Magarao",
+        "en:t": "Philippines | Camarines Sur",
+        "a": true,
+        "g": {
+            "lat": 13.6686,
+            "lon": 123.1633
+        },
+        "it": "Magarao",
+        "it:t": "Filippine | Camarines Sur",
+        "es": "Magarao",
+        "es:t": "Filipinas | Camarines Sur",
+        "de": "Magarao",
+        "de:t": "Philippinen | Camarines Sur"
+    },
+    {
+        "en": "Magsaysay",
+        "en:t": "Philippines | Davao del Sur",
+        "a": true,
+        "g": {
+            "lat": 6.7916,
+            "lon": 125.1489
+        },
+        "it": "Magsaysay",
+        "it:t": "Filippine | Davao del Sur",
+        "es": "Magsaysay",
+        "es:t": "Filipinas | D\u00e1vao del Sur",
+        "de": "Magsaysay",
+        "de:t": "Philippinen | Davao del Sur"
+    },
+    {
+        "en": "Mahayag",
+        "en:t": "Philippines | Zamboanga del Sur",
+        "a": true,
+        "g": {
+            "lat": 8.0942,
+            "lon": 123.4513
+        },
+        "it": "Mahayag",
+        "it:t": "Filippine | Zamboanga del Sur",
+        "es": "Mahayag",
+        "es:t": "Filipinas | Zamboanga del Sur",
+        "de": "Mahayag",
+        "de:t": "Philippinen | Zamboanga del Sur"
+    },
+    {
+        "en": "Makati",
+        "en:t": "Philippines | Metro Manila",
+        "a": true,
+        "g": {
+            "lat": 14.5547,
+            "lon": 121.0244
+        },
+        "it": "Makati",
+        "it:t": "Filippine |e Capitale Nazionale",
+        "es": "Makati",
+        "es:t": "Filipinas | Gran Manila",
+        "de": "Makati",
+        "de:t": "Philippinen | Metro Manila"
+    },
+    {
+        "en": "Malabanban Norte",
+        "en:t": "Philippines | Candelaria",
+        "a": true,
+        "g": {
+            "lat": 13.9403,
+            "lon": 121.4385
+        },
+        "it": "Malabanban Norte",
+        "it:t": "Filippine | Candelaria",
+        "es": "Malabanban Norte",
+        "es:t": "Filipinas | Candelaria",
+        "de": "Malabanban Norte",
+        "de:t": "Philippinen | Candelaria"
+    },
+    {
+        "en": "Malanday",
+        "en:t": "Philippines | Rizal",
+        "a": true,
+        "g": {
+            "lat": 14.6932,
+            "lon": 121.1496
+        },
+        "it": "Malanday",
+        "it:t": "Filippine | Rizal",
+        "es": "Malanday",
+        "es:t": "Filipinas | Rizal",
+        "de": "Malanday",
+        "de:t": "Philippinen | Rizal"
+    },
+    {
+        "en": "Malapatan",
+        "en:t": "Philippines | Sarangani",
+        "a": true,
+        "g": {
+            "lat": 5.9663,
+            "lon": 125.2854
+        },
+        "it": "Malapatan",
+        "it:t": "Filippine | Sarangani",
+        "es": "Malapat\u00e1n",
+        "es:t": "Filipinas | Sarangani",
+        "de": "Malapatan",
+        "de:t": "Philippinen | Sarangani"
+    },
+    {
+        "en": "Malaybalay",
+        "en:t": "Philippines | Bukidnon",
+        "a": true,
+        "g": {
+            "lat": 8.1306,
+            "lon": 125.1277
+        },
+        "it": "Malaybalay",
+        "it:t": "Filippine | Bukidnon",
+        "es": "Malaybalay",
+        "es:t": "Filipinas | Bukidnon",
+        "de": "Malaybalay",
+        "de:t": "Philippinen | Bukidnon"
+    },
+    {
+        "en": "Malilipot",
+        "en:t": "Philippines | Albay",
+        "a": true,
+        "g": {
+            "lat": 13.2993,
+            "lon": 123.7182
+        },
+        "it": "Malilipot",
+        "it:t": "Filippine | Albay",
+        "es": "Malilipot",
+        "es:t": "Filipinas | Albay",
+        "de": "Malilipot",
+        "de:t": "Philippinen | Albay"
+    },
+    {
+        "en": "Malita",
+        "en:t": "Philippines | Davao del Sur",
+        "a": true,
+        "g": {
+            "lat": 6.3843,
+            "lon": 125.5816
+        },
+        "it": "Malita",
+        "it:t": "Filippine | Davao del Sur",
+        "es": "Malita",
+        "es:t": "Filipinas | D\u00e1vao del Sur",
+        "de": "Malita",
+        "de:t": "Philippinen | Davao del Sur"
+    },
+    {
+        "en": "Malolos",
+        "en:t": "Philippines | Bulacan",
+        "a": true,
+        "g": {
+            "lat": 14.8527,
+            "lon": 120.816
+        },
+        "it": "Malolos",
+        "it:t": "Filippine | Bulacan",
+        "es": "Malolos",
+        "es:t": "Filipinas | Bulac\u00e1n",
+        "de": "Malolos",
+        "de:t": "Philippinen | Bulacan"
+    },
+    {
+        "en": "Malungun",
+        "en:t": "Philippines",
+        "a": true,
+        "g": {
+            "lat": 7.745,
+            "lon": 124.2894
+        },
+        "it": "Malungun",
+        "it:t": "Filippine",
+        "es": "Malungun",
+        "es:t": "Filipinas",
+        "de": "Malungun",
+        "de:t": "Philippinen"
+    },
+    {
+        "en": "Maluso",
+        "en:t": "Philippines | Basilan",
+        "a": true,
+        "g": {
+            "lat": 6.538,
+            "lon": 121.8904
+        },
+        "it": "Maluso",
+        "it:t": "Filippine | Basilan",
+        "es": "Maluso",
+        "es:t": "Filipinas | Basilan",
+        "de": "Maluso",
+        "de:t": "Philippinen | Basilan"
+    },
+    {
+        "en": "Malvar",
+        "en:t": "Philippines | Batangas",
+        "a": true,
+        "g": {
+            "lat": 14.0379,
+            "lon": 121.1596
+        },
+        "it": "Malvar",
+        "it:t": "Filippine | Batangas",
+        "es": "Malvar",
+        "es:t": "Filipinas | Batangas",
+        "de": "Malvar",
+        "de:t": "Philippinen | Batangas"
+    },
+    {
+        "en": "Mamatid",
+        "en:t": "Philippines | Cabuyao",
+        "a": true,
+        "g": {
+            "lat": 14.2384,
+            "lon": 121.1524
+        },
+        "it": "Mamatid",
+        "it:t": "Filippine | Cabuyao",
+        "es": "Mamatid",
+        "es:t": "Filipinas | Cabuyao",
+        "de": "Mamatid",
+        "de:t": "Philippinen | Cabuyao"
+    },
+    {
+        "en": "Mamburao",
+        "en:t": "Philippines | Occidental Mindoro",
+        "a": true,
+        "g": {
+            "lat": 13.2682,
+            "lon": 120.6205
+        },
+        "it": "Mamburao",
+        "it:t": "Filippine | Occidental Mindoro",
+        "es": "Mamburao",
+        "es:t": "Filipinas | Mindoro Occidental",
+        "de": "Mamburao",
+        "de:t": "Philippinen | Occidental Mindoro"
+    },
+    {
+        "en": "Manaoag",
+        "en:t": "Philippines | Pangasinan",
+        "a": true,
+        "g": {
+            "lat": 16.0506,
+            "lon": 120.4934
+        },
+        "it": "Manaoag",
+        "it:t": "Filippine | Pangasinan",
+        "es": "Manaoag",
+        "es:t": "Filipinas | Pangasin\u00e1n",
+        "de": "Manaoag",
+        "de:t": "Philippinen | Pangasin\u00e1n"
+    },
+    {
+        "en": "Manapla",
+        "en:t": "Philippines | Negros Occidental",
+        "a": true,
+        "g": {
+            "lat": 10.912,
+            "lon": 123.1464
+        },
+        "it": "Manapla",
+        "it:t": "Filippine | Negros Occidental",
+        "es": "Manapla",
+        "es:t": "Filipinas | Negros Occidental",
+        "de": "Manapla",
+        "de:t": "Philippinen | Negros Occidental"
+    },
+    {
+        "en": "Manay",
+        "en:t": "Philippines | Davao Oriental",
+        "a": true,
+        "g": {
+            "lat": 7.2163,
+            "lon": 126.4581
+        },
+        "it": "Manay",
+        "it:t": "Filippine | Davao Oriental",
+        "es": "Manay",
+        "es:t": "Filipinas | D\u00e1vao Oriental",
+        "de": "Manay",
+        "de:t": "Philippinen | Davao Oriental"
+    },
+    {
+        "en": "Mandaluyong",
+        "en:t": "Philippines | Metro Manila",
+        "a": true,
+        "g": {
+            "lat": 14.5794,
+            "lon": 121.0359
+        },
+        "it": "Mandaluyong",
+        "it:t": "Filippine |e Capitale Nazionale",
+        "es": "Mandaluyong",
+        "es:t": "Filipinas | Gran Manila",
+        "de": "Mandaluyong",
+        "de:t": "Philippinen | Metro Manila"
+    },
+    {
+        "en": "Mandaue",
+        "en:t": "Philippines | Cebu",
+        "a": true,
+        "g": {
+            "lat": 10.3321,
+            "lon": 123.9357
+        },
+        "it": "Mandaue",
+        "it:t": "Filippine | Cebu",
+        "es": "Mandaue",
+        "es:t": "Filipinas | Ceb\u00fa",
+        "de": "Mandaue",
+        "de:t": "Philippinen | Cebu"
+    },
+    {
+        "en": "Mangaldan",
+        "en:t": "Philippines | Pangasinan",
+        "a": true,
+        "g": {
+            "lat": 16.065,
+            "lon": 120.4012
+        },
+        "it": "Mangaldan",
+        "it:t": "Filippine | Pangasinan",
+        "es": "Mangald\u00e1n",
+        "es:t": "Filipinas | Pangasin\u00e1n",
+        "de": "Mangaldan",
+        "de:t": "Philippinen | Pangasin\u00e1n"
+    },
+    {
+        "en": "Manibaug Pasig",
+        "en:t": "Philippines | Porac",
+        "a": true,
+        "g": {
+            "lat": 15.1082,
+            "lon": 120.5754
+        },
+        "it": "Manibaug Pasig",
+        "it:t": "Filippine | Porac",
+        "es": "Manibaug Pasig",
+        "es:t": "Filipinas | Porac",
+        "de": "Manibaug Pasig",
+        "de:t": "Philippinen | Porac"
+    },
+    {
+        "en": "Manila",
+        "en:t": "Philippines",
+        "a": true,
+        "g": {
+            "lat": 14.5995,
+            "lon": 120.9842
+        },
+        "it": "Manila",
+        "it:t": "Filippine",
+        "es": "Manila",
+        "es:t": "Filipinas",
+        "de": "Manila",
+        "de:t": "Philippinen"
+    },
+    {
+        "en": "Mankayan",
+        "en:t": "Philippines | Benguet",
+        "a": true,
+        "g": {
+            "lat": 16.877,
+            "lon": 120.781
+        },
+        "it": "Mankayan",
+        "it:t": "Filippine | Benguet",
+        "es": "Mankayan",
+        "es:t": "Filipinas | Benguet",
+        "de": "Mankayan",
+        "de:t": "Philippinen | Benguet"
+    },
+    {
+        "en": "Manolo Fortich",
+        "en:t": "Philippines | Bukidnon",
+        "a": true,
+        "g": {
+            "lat": 8.39,
+            "lon": 124.8845
+        },
+        "it": "Manolo Fortich",
+        "it:t": "Filippine | Bukidnon",
+        "es": "Manolo Fortich",
+        "es:t": "Filipinas | Bukidnon",
+        "de": "Manolo Fortich",
+        "de:t": "Philippinen | Bukidnon"
+    },
+    {
+        "en": "Mansalay",
+        "en:t": "Philippines | Oriental Mindoro",
+        "a": true,
+        "g": {
+            "lat": 12.5202,
+            "lon": 121.4389
+        },
+        "it": "Mansalay",
+        "it:t": "Filippine | Mindoro Orientale",
+        "es": "Mansalay",
+        "es:t": "Filipinas | Mindoro Oriental",
+        "de": "Mansalay",
+        "de:t": "Philippinen | Oriental Mindoro"
+    },
+    {
+        "en": "Mansilingan",
+        "en:t": "Philippines | Negros Occidental",
+        "a": true,
+        "g": {
+            "lat": 10.6234,
+            "lon": 122.9832
+        },
+        "it": "Mansilingan",
+        "it:t": "Filippine | Negros Occidental",
+        "es": "Mansilingan",
+        "es:t": "Filipinas | Negros Occidental",
+        "de": "Mansilingan",
+        "de:t": "Philippinen | Negros Occidental"
+    },
+    {
+        "en": "Maragondon",
+        "en:t": "Philippines | Cavite",
+        "a": true,
+        "g": {
+            "lat": 14.253,
+            "lon": 120.735
+        },
+        "it": "Maragondon",
+        "it:t": "Filippine | Cavite",
+        "es": "Maragondon",
+        "es:t": "Filipinas | Cavite",
+        "de": "Maragondon",
+        "de:t": "Philippinen | Cavite"
+    },
+    {
+        "en": "Maragusan",
+        "en:t": "Philippines | Compostela Valley",
+        "a": true,
+        "g": {
+            "lat": 7.3522,
+            "lon": 126.1545
+        },
+        "it": "Maragusan",
+        "it:t": "Filippine | Compostela Valley",
+        "es": "Maragus\u00e1n",
+        "es:t": "Filipinas | Valle de Compostela",
+        "de": "Maragusan",
+        "de:t": "Philippinen | Compostela Valley"
+    },
+    {
+        "en": "Maramag",
+        "en:t": "Philippines | Bukidnon",
+        "a": true,
+        "g": {
+            "lat": 7.7901,
+            "lon": 124.9727
+        },
+        "it": "Maramag",
+        "it:t": "Filippine | Bukidnon",
+        "es": "Maramag",
+        "es:t": "Filipinas | Bukidnon",
+        "de": "Maramag",
+        "de:t": "Philippinen | Bukidnon"
+    },
+    {
+        "en": "Marawi",
+        "en:t": "Philippines | Lanao del Sur",
+        "a": true,
+        "g": {
+            "lat": 8.0106,
+            "lon": 124.2977
+        },
+        "it": "Marawi",
+        "it:t": "Filippine | Lanao del Sur",
+        "es": "Marawi",
+        "es:t": "Filipinas | Lanao del Sur",
+        "de": "Marawi",
+        "de:t": "Philippinen | Lanao del Sur"
+    },
+    {
+        "en": "Marilao",
+        "en:t": "Philippines | Bulacan",
+        "a": true,
+        "g": {
+            "lat": 14.7718,
+            "lon": 120.9587
+        },
+        "it": "Marilao",
+        "it:t": "Filippine | Bulacan",
+        "es": "Marilao",
+        "es:t": "Filipinas | Bulac\u00e1n",
+        "de": "Marilao",
+        "de:t": "Philippinen | Bulacan"
+    },
+    {
+        "en": "Mariveles",
+        "en:t": "Philippines | Bataan",
+        "a": true,
+        "g": {
+            "lat": 14.458,
+            "lon": 120.4588
+        },
+        "it": "Mariveles",
+        "it:t": "Filippine | Bataan",
+        "es": "Mariveles",
+        "es:t": "Filipinas | Bata\u00e1n",
+        "de": "Mariveles",
+        "de:t": "Philippinen | Bataan"
+    },
+    {
+        "en": "Masantol",
+        "en:t": "Philippines | Pampanga",
+        "a": true,
+        "g": {
+            "lat": 14.8523,
+            "lon": 120.6775
+        },
+        "it": "Masantol",
+        "it:t": "Filippine | Pampanga",
+        "es": "Masantol",
+        "es:t": "Filipinas | Pampanga",
+        "de": "Masantol",
+        "de:t": "Philippinen | Pampanga"
+    },
+    {
+        "en": "Masbate",
+        "en:t": "Philippines | Masbate",
+        "a": true,
+        "g": {
+            "lat": 12.3574,
+            "lon": 123.5504
+        },
+        "it": "Masbate",
+        "it:t": "Filippine | Masbate",
+        "es": "Masbate",
+        "es:t": "Filipinas | Masbate",
+        "de": "Masbate",
+        "de:t": "Philippinen | Bicol"
+    },
+    {
+        "en": "Masinloc",
+        "en:t": "Philippines | Zambales",
+        "a": true,
+        "g": {
+            "lat": 15.5286,
+            "lon": 119.9608
+        },
+        "it": "Masinloc",
+        "it:t": "Filippine | Zambales",
+        "es": "Masinloc",
+        "es:t": "Filipinas | Zambales",
+        "de": "Masinloc",
+        "de:t": "Philippinen | Zambales"
+    },
+    {
+        "en": "Mati",
+        "en:t": "Philippines | Davao Oriental",
+        "a": true,
+        "g": {
+            "lat": 6.9438,
+            "lon": 126.2467
+        },
+        "it": "Mati",
+        "it:t": "Filippine | Davao Oriental",
+        "es": "Mati",
+        "es:t": "Filipinas | D\u00e1vao Oriental",
+        "de": "Mati",
+        "de:t": "Philippinen | Davao Oriental"
+    },
+    {
+        "en": "Mauban",
+        "en:t": "Philippines | Quezon",
+        "a": true,
+        "g": {
+            "lat": 14.1808,
+            "lon": 121.7062
+        },
+        "it": "Mauban",
+        "it:t": "Filippine | Quezon",
+        "es": "Mauban",
+        "es:t": "Filipinas | Quez\u00f3n",
+        "de": "Mauban",
+        "de:t": "Philippinen | Quezon"
+    },
+    {
+        "en": "Mendez",
+        "en:t": "Philippines | Cavite",
+        "a": true,
+        "g": {
+            "lat": 14.1312,
+            "lon": 120.9016
+        },
+        "it": "Mendez",
+        "it:t": "Filippine | Cavite",
+        "es": "Mendez",
+        "es:t": "Filipinas | Cavite",
+        "de": "Mendez-Nu\u00f1ez",
+        "de:t": "Philippinen | Cavite"
+    },
+    {
+        "en": "Mercedes",
+        "en:t": "Philippines | Bicol",
+        "a": true,
+        "g": {
+            "lat": 14.0215,
+            "lon": 123.0676
+        },
+        "it": "Mercedes",
+        "it:t": "Filippine | Bicol",
+        "es": "Mercedes",
+        "es:t": "Filipinas | Bicol",
+        "de": "Mercedes",
+        "de:t": "Philippinen | Bicol"
+    },
+    {
+        "en": "Mexico",
+        "en:t": "Philippines | Pampanga",
+        "a": true,
+        "g": {
+            "lat": 15.0646,
+            "lon": 120.7203
+        },
+        "it": "Mexico",
+        "it:t": "Filippine | Pampanga",
+        "es": "M\u00e9xico",
+        "es:t": "Filipinas | Pampanga",
+        "de": "Mexico",
+        "de:t": "Philippinen | Pampanga"
+    },
+    {
+        "en": "Meycauayan",
+        "en:t": "Philippines | Bulacan",
+        "a": true,
+        "g": {
+            "lat": 14.7499,
+            "lon": 120.9739
+        },
+        "it": "Meycauayan",
+        "it:t": "Filippine | Bulacan",
+        "es": "Meycauayan",
+        "es:t": "Filipinas | Bulac\u00e1n",
+        "de": "Meycauayan",
+        "de:t": "Philippinen | Bulacan"
+    },
+    {
+        "en": "Midsayap",
+        "en:t": "Philippines | Cotabato",
+        "a": true,
+        "g": {
+            "lat": 7.1336,
+            "lon": 124.5307
+        },
+        "it": "Midsayap",
+        "it:t": "Filippine | Cotabato",
+        "es": "Midsayap",
+        "es:t": "Filipinas | Cotabato",
+        "de": "Midsayap",
+        "de:t": "Philippinen | Cotabato"
+    },
+    {
+        "en": "Minglanilla",
+        "en:t": "Philippines | Cebu",
+        "a": true,
+        "g": {
+            "lat": 10.2433,
+            "lon": 123.789
+        },
+        "it": "Minglanilla",
+        "it:t": "Filippine | Cebu",
+        "es": "Minglanilla",
+        "es:t": "Filipinas | Ceb\u00fa",
+        "de": "Minglanilla",
+        "de:t": "Philippinen | Cebu"
+    },
+    {
+        "en": "Molave",
+        "en:t": "Philippines | Zamboanga del Sur",
+        "a": true,
+        "g": {
+            "lat": 8.1042,
+            "lon": 123.4944
+        },
+        "it": "Molave",
+        "it:t": "Filippine | Zamboanga del Sur",
+        "es": "Molave",
+        "es:t": "Filipinas | Zamboanga del Sur",
+        "de": "Molave",
+        "de:t": "Philippinen | Zamboanga del Sur"
+    },
+    {
+        "en": "Monkayo",
+        "en:t": "Philippines | Compostela Valley",
+        "a": true,
+        "g": {
+            "lat": 7.8514,
+            "lon": 126.0458
+        },
+        "it": "Monkayo",
+        "it:t": "Filippine | Compostela Valley",
+        "es": "Moncayo",
+        "es:t": "Filipinas | Valle de Compostela",
+        "de": "Monkayo",
+        "de:t": "Philippinen | Compostela Valley"
+    },
+    {
+        "en": "Morong",
+        "en:t": "Philippines | Bataan",
+        "a": true,
+        "g": {
+            "lat": 14.7189,
+            "lon": 120.306
+        },
+        "it": "Morong",
+        "it:t": "Filippine | Bataan",
+        "es": "Morong",
+        "es:t": "Filipinas | Bata\u00e1n",
+        "de": "Morong",
+        "de:t": "Philippinen | Bataan"
+    },
+    {
+        "en": "Morong",
+        "en:t": "Philippines | Rizal",
+        "a": true,
+        "g": {
+            "lat": 14.5181,
+            "lon": 121.239
+        },
+        "it": "Morong",
+        "it:t": "Filippine | Rizal",
+        "es": "Morong",
+        "es:t": "Filipinas | Rizal",
+        "de": "Morong",
+        "de:t": "Philippinen | Rizal"
+    },
+    {
+        "en": "Murcia",
+        "en:t": "Philippines | Negros Occidental",
+        "a": true,
+        "g": {
+            "lat": 10.5656,
+            "lon": 123.1014
+        },
+        "it": "Murcia",
+        "it:t": "Filippine | Negros Occidental",
+        "es": "Murcia",
+        "es:t": "Filipinas | Negros Occidental",
+        "de": "Murcia",
+        "de:t": "Philippinen | Negros Occidental"
+    },
+    {
+        "en": "Muricay",
+        "en:t": "Philippines | Pagadian",
+        "a": true,
+        "g": {
+            "lat": 7.8272,
+            "lon": 123.4804
+        },
+        "it": "Muricay",
+        "it:t": "Filippine | Pagadian",
+        "es": "Muricay",
+        "es:t": "Filipinas | Pagadian",
+        "de": "Muricay",
+        "de:t": "Philippinen | Pagadian"
+    },
+    {
+        "en": "Nabua",
+        "en:t": "Philippines | Camarines Sur",
+        "a": true,
+        "g": {
+            "lat": 13.3961,
+            "lon": 123.3374
+        },
+        "it": "Nabua",
+        "it:t": "Filippine | Camarines Sur",
+        "es": "Nabua",
+        "es:t": "Filipinas | Camarines Sur",
+        "de": "Nabua",
+        "de:t": "Philippinen | Camarines Sur"
+    },
+    {
+        "en": "Nabunturan",
+        "en:t": "Philippines | Compostela Valley",
+        "a": true,
+        "g": {
+            "lat": 7.5854,
+            "lon": 125.9806
+        },
+        "it": "Nabunturan",
+        "it:t": "Filippine | Compostela Valley",
+        "es": "Nabunturan",
+        "es:t": "Filipinas | Valle de Compostela",
+        "de": "Nabunturan",
+        "de:t": "Philippinen | Compostela Valley"
+    },
+    {
+        "en": "Naga",
+        "en:t": "Philippines | Camarines Sur",
+        "a": true,
+        "g": {
+            "lat": 13.6218,
+            "lon": 123.1948
+        },
+        "it": "Naga",
+        "it:t": "Filippine | Camarines Sur",
+        "es": "Naga",
+        "es:t": "Filipinas | Camarines Sur",
+        "de": "Naga",
+        "de:t": "Philippinen | Camarines Sur"
+    },
+    {
+        "en": "Nagcarlan",
+        "en:t": "Philippines | Laguna",
+        "a": true,
+        "g": {
+            "lat": 14.149,
+            "lon": 121.3885
+        },
+        "it": "Nagcarlan",
+        "it:t": "Filippine | Laguna",
+        "es": "Nagcarlan",
+        "es:t": "Filipinas | Laguna",
+        "de": "Nagcarlan",
+        "de:t": "Philippinen | Laguna"
+    },
+    {
+        "en": "Naic",
+        "en:t": "Philippines | Cavite",
+        "a": true,
+        "g": {
+            "lat": 14.2965,
+            "lon": 120.7925
+        },
+        "it": "Naic",
+        "it:t": "Filippine | Cavite",
+        "es": "Naic",
+        "es:t": "Filipinas | Cavite",
+        "de": "Naic",
+        "de:t": "Philippinen | Cavite"
+    },
+    {
+        "en": "Narra",
+        "en:t": "Philippines | Palawan",
+        "a": true,
+        "g": {
+            "lat": 9.2506,
+            "lon": 118.3462
+        },
+        "it": "Narra",
+        "it:t": "Filippine | Palawan",
+        "es": "Narra",
+        "es:t": "Filipinas | Palawan",
+        "de": "Narra",
+        "de:t": "Philippinen | Palawan"
+    },
+    {
+        "en": "Nasugbu",
+        "en:t": "Philippines | Batangas",
+        "a": true,
+        "g": {
+            "lat": 14.094,
+            "lon": 120.689
+        },
+        "it": "Nasugbu",
+        "it:t": "Filippine | Batangas",
+        "es": "Nasugbu",
+        "es:t": "Filipinas | Batangas",
+        "de": "Nasugbu",
+        "de:t": "Philippinen | Batangas"
+    },
+    {
+        "en": "New Corella",
+        "en:t": "Philippines | Davao del Norte",
+        "a": true,
+        "g": {
+            "lat": 7.5978,
+            "lon": 125.8498
+        },
+        "it": "New Corella",
+        "it:t": "Filippine | Davao del Norte",
+        "es": "Nueva Corella",
+        "es:t": "Filipinas | D\u00e1vao del Norte",
+        "de": "New Corella",
+        "de:t": "Philippinen | Davao del Norte"
+    },
+    {
+        "en": "Northern Mindanao",
+        "en:t": "Philippines",
+        "a": true,
+        "g": {
+            "lat": 8.0202,
+            "lon": 124.6857
+        },
+        "it": "Mindanao Settentrionale",
+        "it:t": "Filippine",
+        "es": "Mindanao",
+        "es:t": "Filipinas",
+        "de": "Northern Mindanao",
+        "de:t": "Philippinen"
+    },
+    {
+        "en": "Norzagaray",
+        "en:t": "Philippines | Bulacan",
+        "a": true,
+        "g": {
+            "lat": 14.8745,
+            "lon": 121.1446
+        },
+        "it": "Norzagaray",
+        "it:t": "Filippine | Bulacan",
+        "es": "Norzagaray",
+        "es:t": "Filipinas | Bulac\u00e1n",
+        "de": "Norzagaray",
+        "de:t": "Philippinen | Bulacan"
+    },
+    {
+        "en": "Noveleta",
+        "en:t": "Philippines | Cavite",
+        "a": true,
+        "g": {
+            "lat": 14.4279,
+            "lon": 120.8801
+        },
+        "it": "Noveleta",
+        "it:t": "Filippine | Cavite",
+        "es": "Noveleta",
+        "es:t": "Filipinas | Cavite",
+        "de": "Noveleta",
+        "de:t": "Philippinen | Cavite"
+    },
+    {
+        "en": "Obando",
+        "en:t": "Philippines | Bulacan",
+        "a": true,
+        "g": {
+            "lat": 14.7263,
+            "lon": 120.9253
+        },
+        "it": "Obando",
+        "it:t": "Filippine | Bulacan",
+        "es": "Obando",
+        "es:t": "Filipinas | Bulac\u00e1n",
+        "de": "Obando",
+        "de:t": "Philippinen | Bulacan"
+    },
+    {
+        "en": "Olongapo",
+        "en:t": "Philippines | Zambales",
+        "a": true,
+        "g": {
+            "lat": 14.8386,
+            "lon": 120.2842
+        },
+        "it": "Olongapo",
+        "it:t": "Filippine | Zambales",
+        "es": "Ol\u00f3ngapo",
+        "es:t": "Filipinas | Zambales",
+        "de": "Olongapo",
+        "de:t": "Philippinen | Zambales"
+    },
+    {
+        "en": "Orani",
+        "en:t": "Philippines | Bataan",
+        "a": true,
+        "g": {
+            "lat": 14.7933,
+            "lon": 120.4761
+        },
+        "it": "Orani",
+        "it:t": "Filippine | Bataan",
+        "es": "Orani",
+        "es:t": "Filipinas | Bata\u00e1n",
+        "de": "Orani",
+        "de:t": "Philippinen | Bataan"
+    },
+    {
+        "en": "Orion",
+        "en:t": "Philippines | Bataan",
+        "a": true,
+        "g": {
+            "lat": 14.5989,
+            "lon": 120.5624
+        },
+        "it": "Orion",
+        "it:t": "Filippine | Bataan",
+        "es": "Ori\u00f3n",
+        "es:t": "Filipinas | Bata\u00e1n",
+        "de": "Orion",
+        "de:t": "Philippinen | Bataan"
+    },
+    {
+        "en": "Ormoc",
+        "en:t": "Philippines | Leyte",
+        "a": true,
+        "g": {
+            "lat": 11.0384,
+            "lon": 124.6193
+        },
+        "it": "Ormoc",
+        "it:t": "Filippine | Leyte",
+        "es": "Ormoc",
+        "es:t": "Filipinas | Leyte",
+        "de": "Ormoc",
+        "de:t": "Philippinen | Leyte"
+    },
+    {
+        "en": "Oroquieta",
+        "en:t": "Philippines | Misamis Occidental",
+        "a": true,
+        "g": {
+            "lat": 8.4595,
+            "lon": 123.8006
+        },
+        "it": "Oroquieta",
+        "it:t": "Filippine | Misamis Occidental",
+        "es": "Oroquieta",
+        "es:t": "Filipinas | Misamis Occidental",
+        "de": "Oroquieta",
+        "de:t": "Philippinen | Misamis Occidental"
+    },
+    {
+        "en": "Ozamiz",
+        "en:t": "Philippines | Misamis Occidental",
+        "a": true,
+        "g": {
+            "lat": 8.1624,
+            "lon": 123.7741
+        },
+        "it": "Ozamiz",
+        "it:t": "Filippine | Misamis Occidental",
+        "es": "Oz\u00e1miz",
+        "es:t": "Filipinas | Misamis Occidental",
+        "de": "Ozamis",
+        "de:t": "Philippinen | Misamis Occidental"
+    },
+    {
+        "en": "Pacol",
+        "en:t": "Philippines | Valladolid",
+        "a": true,
+        "g": {
+            "lat": 10.4753,
+            "lon": 122.8508
+        },
+        "it": "Pacol",
+        "it:t": "Filippine | Valladolid",
+        "es": "Pacol",
+        "es:t": "Filipinas | Valladolid",
+        "de": "Pacol",
+        "de:t": "Philippinen | Valladolid"
+    },
+    {
+        "en": "Paete",
+        "en:t": "Philippines | Laguna",
+        "a": true,
+        "g": {
+            "lat": 14.3675,
+            "lon": 121.53
+        },
+        "it": "Paete",
+        "it:t": "Filippine | Laguna",
+        "es": "Paete",
+        "es:t": "Filipinas | Laguna",
+        "de": "Paete",
+        "de:t": "Philippinen | Laguna"
+    },
+    {
+        "en": "Pagadian",
+        "en:t": "Philippines | Zamboanga del Sur",
+        "a": true,
+        "g": {
+            "lat": 7.8397,
+            "lon": 123.4343
+        },
+        "it": "Pagadian",
+        "it:t": "Filippine | Zamboanga del Sur",
+        "es": "Pagad\u00edan",
+        "es:t": "Filipinas | Zamboanga del Sur",
+        "de": "Pagadian",
+        "de:t": "Philippinen | Zamboanga del Sur"
+    },
+    {
+        "en": "Pagalungan",
+        "en:t": "Philippines | Maguindanao",
+        "a": true,
+        "g": {
+            "lat": 6.9693,
+            "lon": 124.752
+        },
+        "it": "Pagalungan",
+        "it:t": "Filippine | Maguindanao",
+        "es": "Pagalung\u00e1n",
+        "es:t": "Filipinas | Maguindanao",
+        "de": "Pagalungan",
+        "de:t": "Philippinen | Maguindanao"
+    },
+    {
+        "en": "Pagbilao",
+        "en:t": "Philippines | Quezon",
+        "a": true,
+        "g": {
+            "lat": 13.9849,
+            "lon": 121.7423
+        },
+        "it": "Pagbilao",
+        "it:t": "Filippine | Quezon",
+        "es": "Pagbilao",
+        "es:t": "Filipinas | Quezon",
+        "de": "Pagbilao",
+        "de:t": "Philippinen | Quezon"
+    },
+    {
+        "en": "Palayan",
+        "en:t": "Philippines | Nueva Ecija",
+        "a": true,
+        "g": {
+            "lat": 15.5783,
+            "lon": 121.1113
+        },
+        "it": "Palayan",
+        "it:t": "Filippine | Nueva Ecija",
+        "es": "Palay\u00e1n",
+        "es:t": "Filipinas | Nueva \u00c9cija",
+        "de": "Palayan",
+        "de:t": "Philippinen | Nueva Ecija"
+    },
+    {
+        "en": "Palo",
+        "en:t": "Philippines | Leyte",
+        "a": true,
+        "g": {
+            "lat": 11.1584,
+            "lon": 124.9919
+        },
+        "it": "Palo",
+        "it:t": "Filippine | Leyte",
+        "es": "Palo",
+        "es:t": "Filipinas | Leyte",
+        "de": "Palo",
+        "de:t": "Philippinen | Leyte"
+    },
+    {
+        "en": "Panabo",
+        "en:t": "Philippines | Davao del Norte",
+        "a": true,
+        "g": {
+            "lat": 7.3087,
+            "lon": 125.6841
+        },
+        "it": "Panabo",
+        "it:t": "Filippine | Davao del Norte",
+        "es": "Panabo",
+        "es:t": "Filipinas | D\u00e1vao del Norte",
+        "de": "Panabo",
+        "de:t": "Philippinen | Davao del Norte"
+    },
+    {
+        "en": "Pandacaqui",
+        "en:t": "Philippines | Mexico",
+        "a": true,
+        "g": {
+            "lat": 15.1772,
+            "lon": 120.6459
+        },
+        "it": "Pandacaqui",
+        "it:t": "Filippine | Mexico",
+        "es": "Pandacaqui",
+        "es:t": "Filipinas | Mexico",
+        "de": "Pandacaqui",
+        "de:t": "Philippinen | Mexico"
+    },
+    {
+        "en": "Pandi",
+        "en:t": "Philippines | Bulacan",
+        "a": true,
+        "g": {
+            "lat": 14.8757,
+            "lon": 120.9593
+        },
+        "it": "Pandi",
+        "it:t": "Filippine | Bulacan",
+        "es": "Pandi",
+        "es:t": "Filipinas | Bulac\u00e1n",
+        "de": "Pandi",
+        "de:t": "Philippinen | Bulacan"
+    },
+    {
+        "en": "Pangil",
+        "en:t": "Philippines | Laguna",
+        "a": true,
+        "g": {
+            "lat": 14.4074,
+            "lon": 121.4856
+        },
+        "it": "Pangil",
+        "it:t": "Filippine | Laguna",
+        "es": "Pangil",
+        "es:t": "Filipinas | Laguna",
+        "de": "Pangil",
+        "de:t": "Philippinen | Laguna"
+    },
+    {
+        "en": "Paniqui",
+        "en:t": "Philippines | Tarlac",
+        "a": true,
+        "g": {
+            "lat": 15.6661,
+            "lon": 120.5586
+        },
+        "it": "Paniqui",
+        "it:t": "Filippine | Tarlac",
+        "es": "Paniqui",
+        "es:t": "Filipinas | Tarlac",
+        "de": "Paniqui",
+        "de:t": "Philippinen | Tarlac"
+    },
+    {
+        "en": "Pantubig",
+        "en:t": "Philippines | San Rafael",
+        "a": true,
+        "g": {
+            "lat": 14.9688,
+            "lon": 120.9518
+        },
+        "it": "Pantubig",
+        "it:t": "Filippine | San Rafael",
+        "es": "Pantubig",
+        "es:t": "Filipinas | San Rafael",
+        "de": "Pantubig",
+        "de:t": "Philippinen | San Rafael"
+    },
+    {
+        "en": "Paombong",
+        "en:t": "Philippines | Bulacan",
+        "a": true,
+        "g": {
+            "lat": 14.8103,
+            "lon": 120.7867
+        },
+        "it": "Paombong",
+        "it:t": "Filippine | Bulacan",
+        "es": "Paombong",
+        "es:t": "Filipinas | Bulac\u00e1n",
+        "de": "Paombong",
+        "de:t": "Philippinen | Bulacan"
+    },
+    {
+        "en": "Parang",
+        "en:t": "Philippines | Maguindanao",
+        "a": true,
+        "g": {
+            "lat": 7.3331,
+            "lon": 124.231
+        },
+        "it": "Parang",
+        "it:t": "Filippine | Maguindanao",
+        "es": "Parang",
+        "es:t": "Filipinas | Maguindanao",
+        "de": "Parang",
+        "de:t": "Philippinen | Maguindanao"
+    },
+    {
+        "en": "Passi",
+        "en:t": "Philippines | Iloilo",
+        "a": true,
+        "g": {
+            "lat": 11.1688,
+            "lon": 122.6504
+        },
+        "it": "Passi",
+        "it:t": "Filippine | Iloilo",
+        "es": "Passi",
+        "es:t": "Filipinas | Ilo\u00edlo",
+        "de": "Passi",
+        "de:t": "Philippinen | Iloilo"
+    },
+    {
+        "en": "Penaranda",
+        "en:t": "Philippines | Nueva Ecija",
+        "a": true,
+        "g": {
+            "lat": 15.3531,
+            "lon": 121.0167
+        },
+        "it": "Pe\u00f1aranda",
+        "it:t": "Filippine | Nueva Ecija",
+        "es": "Pe\u00f1aranda de Nueva \u00c9cija",
+        "es:t": "Filipinas | Nueva \u00c9cija",
+        "de": "Pe\u00f1aranda",
+        "de:t": "Philippinen | Nueva Ecija"
+    },
+    {
+        "en": "Pila",
+        "en:t": "Philippines | Laguna",
+        "a": true,
+        "g": {
+            "lat": 14.2346,
+            "lon": 121.3656
+        },
+        "it": "Pila",
+        "it:t": "Filippine | Laguna",
+        "es": "Pila",
+        "es:t": "Filipinas | Laguna",
+        "de": "Pila",
+        "de:t": "Philippinen | Laguna"
+    },
+    {
+        "en": "Pilar",
+        "en:t": "Philippines | Bataan",
+        "a": true,
+        "g": {
+            "lat": 14.6088,
+            "lon": 120.4934
+        },
+        "it": "Pilar",
+        "it:t": "Filippine | Bataan",
+        "es": "Pilar",
+        "es:t": "Filipinas | Bata\u00e1n",
+        "de": "Pilar",
+        "de:t": "Philippinen | Bataan"
+    },
+    {
+        "en": "Pililla",
+        "en:t": "Philippines | Rizal",
+        "a": true,
+        "g": {
+            "lat": 14.4439,
+            "lon": 121.3427
+        },
+        "it": "Pililla",
+        "it:t": "Filippine | Rizal",
+        "es": "Pililla",
+        "es:t": "Filipinas | Rizal",
+        "de": "Pililla",
+        "de:t": "Philippinen | Rizal"
+    },
+    {
+        "en": "Pinamalayan",
+        "en:t": "Philippines | Oriental Mindoro",
+        "a": true,
+        "g": {
+            "lat": 13.0459,
+            "lon": 121.4645
+        },
+        "it": "Pinamalayan",
+        "it:t": "Filippine | Mindoro Orientale",
+        "es": "Pinamalay\u00e1n",
+        "es:t": "Filipinas | Mindoro Oriental",
+        "de": "Pinamalayan",
+        "de:t": "Philippinen | Oriental Mindoro"
+    },
+    {
+        "en": "Pinamungahan",
+        "en:t": "Philippines | Cebu",
+        "a": true,
+        "g": {
+            "lat": 10.2638,
+            "lon": 123.6064
+        },
+        "it": "Pinamungahan",
+        "it:t": "Filippine | Cebu",
+        "es": "Pinamungajan",
+        "es:t": "Filipinas | Ceb\u00fa",
+        "de": "Pinamungahan",
+        "de:t": "Philippinen | Cebu"
+    },
+    {
+        "en": "Pio",
+        "en:t": "Philippines | Porac",
+        "a": true,
+        "g": {
+            "lat": 15.0481,
+            "lon": 120.5236
+        },
+        "it": "Pio",
+        "it:t": "Filippine | Porac",
+        "es": "Pio",
+        "es:t": "Filipinas | Porac",
+        "de": "Pio",
+        "de:t": "Philippinen | Porac"
+    },
+    {
+        "en": "Plaridel",
+        "en:t": "Philippines | Bulacan",
+        "a": true,
+        "g": {
+            "lat": 14.8815,
+            "lon": 120.8671
+        },
+        "it": "Plaridel",
+        "it:t": "Filippine | Bulacan",
+        "es": "Plaridel",
+        "es:t": "Filipinas | Bulac\u00e1n",
+        "de": "Plaridel",
+        "de:t": "Philippinen | Bulacan"
+    },
+    {
+        "en": "Poblacion",
+        "en:t": "Philippines | Prosperidad",
+        "a": true,
+        "g": {
+            "lat": 8.6079,
+            "lon": 125.916
+        },
+        "it": "Poblacion",
+        "it:t": "Filippine | Prosperidad",
+        "es": "Poblacion",
+        "es:t": "Filipinas | Prosperidad",
+        "de": "Poblacion",
+        "de:t": "Philippinen | Prosperidad"
+    },
+    {
+        "en": "Polangui",
+        "en:t": "Philippines | Albay",
+        "a": true,
+        "g": {
+            "lat": 13.321,
+            "lon": 123.5056
+        },
+        "it": "Polangui",
+        "it:t": "Filippine | Albay",
+        "es": "Polangui",
+        "es:t": "Filipinas | Albay",
+        "de": "Polangui",
+        "de:t": "Philippinen | Albay"
+    },
+    {
+        "en": "Porac",
+        "en:t": "Philippines | Pampanga",
+        "a": true,
+        "g": {
+            "lat": 15.1242,
+            "lon": 120.4588
+        },
+        "it": "Porac",
+        "it:t": "Filippine | Pampanga",
+        "es": "Porac",
+        "es:t": "Filipinas | Pampanga",
+        "de": "Porac",
+        "de:t": "Philippinen | Pampanga"
+    },
+    {
+        "en": "Port Area",
+        "en:t": "Philippines",
+        "a": true,
+        "g": {
+            "lat": 14.5878,
+            "lon": 120.969
+        },
+        "it": "Port Area",
+        "it:t": "Filippine",
+        "es": "Port Area",
+        "es:t": "Filipinas",
+        "de": "Port Area",
+        "de:t": "Philippinen"
+    },
+    {
+        "en": "Puerto Princesa",
+        "en:t": "Philippines | Palawan",
+        "a": true,
+        "g": {
+            "lat": 9.9672,
+            "lon": 118.7855
+        },
+        "it": "Puerto Princesa",
+        "it:t": "Filippine | Palawan",
+        "es": "Puerto Princesa",
+        "es:t": "Filipinas | Palawan",
+        "de": "Puerto Princesa",
+        "de:t": "Philippinen | Palawan"
+    },
+    {
+        "en": "Pulilan",
+        "en:t": "Philippines | Bulacan",
+        "a": true,
+        "g": {
+            "lat": 14.9325,
+            "lon": 120.8384
+        },
+        "it": "Pulilan",
+        "it:t": "Filippine | Bulacan",
+        "es": "Pulilan",
+        "es:t": "Filipinas | Bulac\u00e1n",
+        "de": "Pulilan",
+        "de:t": "Philippinen | Bulacan"
+    },
+    {
+        "en": "Pulong Santa Cruz",
+        "en:t": "Philippines | Santa Rosa",
+        "a": true,
+        "g": {
+            "lat": 14.2776,
+            "lon": 121.0834
+        },
+        "it": "Pulong Santa Cruz",
+        "it:t": "Filippine | Santa Rosa",
+        "es": "Pulong Santa Cruz",
+        "es:t": "Filipinas | Santa Rosa",
+        "de": "Pulong Santa Cruz",
+        "de:t": "Philippinen | Santa Rosa"
+    },
+    {
+        "en": "Pulupandan",
+        "en:t": "Philippines | Negros Occidental",
+        "a": true,
+        "g": {
+            "lat": 10.5259,
+            "lon": 122.8141
+        },
+        "it": "Pulupandan",
+        "it:t": "Filippine | Negros Occidental",
+        "es": "Pulupandan",
+        "es:t": "Filipinas | Negros Occidental",
+        "de": "Pulupandan",
+        "de:t": "Philippinen | Negros Occidental"
+    },
+    {
+        "en": "Quezon",
+        "en:t": "Philippines | Bukidnon",
+        "a": true,
+        "g": {
+            "lat": 7.7165,
+            "lon": 125.1709
+        },
+        "it": "Quezon",
+        "it:t": "Filippine | Bukidnon",
+        "es": "Quezon",
+        "es:t": "Filipinas | Bukidnon",
+        "de": "Quezon",
+        "de:t": "Philippinen | Bukidnon"
+    },
+    {
+        "en": "Quezon",
+        "en:t": "Philippines | Nueva Ecija",
+        "a": true,
+        "g": {
+            "lat": 15.5695,
+            "lon": 120.8269
+        },
+        "it": "Quezon",
+        "it:t": "Filippine | Nueva Ecija",
+        "es": "Quez\u00f3n",
+        "es:t": "Filipinas | Nueva \u00c9cija",
+        "de": "Quezon",
+        "de:t": "Philippinen | Nueva Ecija"
+    },
+    {
+        "en": "Quezon",
+        "en:t": "Philippines",
+        "a": true,
+        "g": {
+            "lat": 14.676,
+            "lon": 121.0437
+        },
+        "it": "Quezon",
+        "it:t": "Filippine",
+        "es": "Quezon",
+        "es:t": "Filipinas",
+        "de": "Quezon",
+        "de:t": "Philippinen"
+    },
+    {
+        "en": "Quiapo",
+        "en:t": "Philippines | Manila",
+        "a": true,
+        "g": {
+            "lat": 14.5983,
+            "lon": 120.9862
+        },
+        "it": "Quiapo",
+        "it:t": "Filippine | Manila",
+        "es": "Quiapo",
+        "es:t": "Filipinas | Manila",
+        "de": "Quiapo",
+        "de:t": "Philippinen | Manila"
+    },
+    {
+        "en": "Ramon",
+        "en:t": "Philippines | Isabela",
+        "a": true,
+        "g": {
+            "lat": 16.8047,
+            "lon": 121.5256
+        },
+        "it": "Ramon",
+        "it:t": "Filippine | Isabela",
+        "es": "Ram\u00f3n",
+        "es:t": "Filipinas | Isabela",
+        "de": "Ramon",
+        "de:t": "Philippinen | Isabela"
+    },
+    {
+        "en": "Ramos",
+        "en:t": "Philippines | Tarlac",
+        "a": true,
+        "g": {
+            "lat": 15.6732,
+            "lon": 120.6459
+        },
+        "it": "Ramos",
+        "it:t": "Filippine | Tarlac",
+        "es": "Ramos",
+        "es:t": "Filipinas | Tarlac",
+        "de": "Ramos",
+        "de:t": "Philippinen | Tarlac"
+    },
+    {
+        "en": "Recodo",
+        "en:t": "Philippines | Barangay Recodo",
+        "a": true,
+        "g": {
+            "lat": 6.9544,
+            "lon": 121.9576
+        },
+        "it": "Recodo",
+        "it:t": "Filippine | Barangay Recodo",
+        "es": "Recodo",
+        "es:t": "Filipinas | Barangay Recodo",
+        "de": "Recodo",
+        "de:t": "Philippinen | Barangay Recodo"
+    },
+    {
+        "en": "Rizal",
+        "en:t": "Philippines | Nueva Ecija",
+        "a": true,
+        "g": {
+            "lat": 15.6936,
+            "lon": 121.1023
+        },
+        "it": "Rizal",
+        "it:t": "Filippine | Nueva Ecija",
+        "es": "Rizal",
+        "es:t": "Filipinas | Nueva \u00c9cija",
+        "de": "Rizal",
+        "de:t": "Philippinen | Nueva Ecija"
+    },
+    {
+        "en": "Rodriguez",
+        "en:t": "Philippines | Rizal",
+        "a": true,
+        "g": {
+            "lat": 14.7598,
+            "lon": 121.2019
+        },
+        "it": "Rodriguez",
+        "it:t": "Filippine | Rizal",
+        "es": "Rodr\u00edguez",
+        "es:t": "Filipinas | Rizal",
+        "de": "Rodriguez",
+        "de:t": "Philippinen | Rizal"
+    },
+    {
+        "en": "Romblon",
+        "en:t": "Philippines",
+        "a": true,
+        "g": {
+            "lat": 12.5778,
+            "lon": 122.2691
+        },
+        "it": "Romblon",
+        "it:t": "Filippine",
+        "es": "Rombl\u00f3n",
+        "es:t": "Filipinas",
+        "de": "Romblon",
+        "de:t": "Philippinen"
+    },
+    {
+        "en": "Roxas",
+        "en:t": "Philippines | Isabela",
+        "a": true,
+        "g": {
+            "lat": 17.1031,
+            "lon": 121.6169
+        },
+        "it": "Roxas",
+        "it:t": "Filippine | Isabela",
+        "es": "Roxas",
+        "es:t": "Filipinas | Isabela",
+        "de": "Roxas",
+        "de:t": "Philippinen | Isabela"
+    },
+    {
+        "en": "Roxas",
+        "en:t": "Philippines",
+        "a": true,
+        "g": {
+            "lat": 12.5988,
+            "lon": 121.4835
+        },
+        "it": "Roxas",
+        "it:t": "Filippine",
+        "es": "Roxas",
+        "es:t": "Filipinas",
+        "de": "Roxas",
+        "de:t": "Philippinen"
+    },
+    {
+        "en": "Sablayan",
+        "en:t": "Philippines | Occidental Mindoro",
+        "a": true,
+        "g": {
+            "lat": 12.8582,
+            "lon": 120.8925
+        },
+        "it": "Sablayan",
+        "it:t": "Filippine | Occidental Mindoro",
+        "es": "Sablayan",
+        "es:t": "Filipinas | Mindoro Occidental",
+        "de": "Sablayan",
+        "de:t": "Philippinen | Occidental Mindoro"
+    },
+    {
+        "en": "Sagay",
+        "en:t": "Philippines | Negros Occidental",
+        "a": true,
+        "g": {
+            "lat": 10.8783,
+            "lon": 123.4082
+        },
+        "it": "Sagay",
+        "it:t": "Filippine | Negros Occidental",
+        "es": "Sagay",
+        "es:t": "Filipinas | Negros Occidental",
+        "de": "Sagay",
+        "de:t": "Philippinen | Negros Occidental"
+    },
+    {
+        "en": "Samal",
+        "en:t": "Philippines | Bataan",
+        "a": true,
+        "g": {
+            "lat": 14.7719,
+            "lon": 120.5164
+        },
+        "it": "Samal",
+        "it:t": "Filippine | Bataan",
+        "es": "S\u00e1mal",
+        "es:t": "Filipinas | Bata\u00e1n",
+        "de": "Samal",
+        "de:t": "Philippinen | Bataan"
+    },
+    {
+        "en": "Sampaloc",
+        "en:t": "Philippines | Quezon",
+        "a": true,
+        "g": {
+            "lat": 14.1774,
+            "lon": 121.6169
+        },
+        "it": "Sampaloc",
+        "it:t": "Filippine | Quezon",
+        "es": "Sampaloc",
+        "es:t": "Filipinas | Quezon",
+        "de": "Sampaloc",
+        "de:t": "Philippinen | Quezon"
+    },
+    {
+        "en": "San Antonio",
+        "en:t": "Philippines | Nueva Ecija",
+        "a": true,
+        "g": {
+            "lat": 15.3192,
+            "lon": 120.8269
+        },
+        "it": "San Antonio",
+        "it:t": "Filippine | Nueva Ecija",
+        "es": "San Antonio",
+        "es:t": "Filipinas | Nueva Ecija",
+        "de": "San Antonio",
+        "de:t": "Philippinen | Nueva Ecija"
+    },
+    {
+        "en": "San Fernando",
+        "en:t": "Philippines | Cebu",
+        "a": true,
+        "g": {
+            "lat": 10.1871,
+            "lon": 123.6847
+        },
+        "it": "San Fernando",
+        "it:t": "Filippine | Cebu",
+        "es": "San Fernando",
+        "es:t": "Filipinas | Ceb\u00fa",
+        "de": "San Fernando",
+        "de:t": "Philippinen | Cebu"
+    },
+    {
+        "en": "San Fernando",
+        "en:t": "Philippines | La Union",
+        "a": true,
+        "g": {
+            "lat": 16.6074,
+            "lon": 120.3666
+        },
+        "it": "San Fernando",
+        "it:t": "Filippine | La Union",
+        "es": "San Fernando",
+        "es:t": "Filipinas | La Uni\u00f3n",
+        "de": "San Fernando",
+        "de:t": "Philippinen | La Union"
+    },
+    {
+        "en": "San Fernando",
+        "en:t": "Philippines | Pampanga",
+        "a": true,
+        "g": {
+            "lat": 15.0594,
+            "lon": 120.6567
+        },
+        "it": "San Fernando",
+        "it:t": "Filippine | Pampanga",
+        "es": "San Fernando",
+        "es:t": "Filipinas | Pampanga",
+        "de": "San Fernando",
+        "de:t": "Philippinen | Pampanga"
+    },
+    {
+        "en": "San Francisco",
+        "en:t": "Philippines | Agusan del Sur",
+        "a": true,
+        "g": {
+            "lat": 8.509,
+            "lon": 125.9697
+        },
+        "it": "San Francisco",
+        "it:t": "Filippine | Agusan del Sur",
+        "es": "San Francisco",
+        "es:t": "Filipinas | Agusan del Sur",
+        "de": "San Francisco",
+        "de:t": "Philippinen | Agusan del Sur"
+    },
+    {
+        "en": "San Francisco",
+        "en:t": "Philippines | Quezon",
+        "a": true,
+        "g": {
+            "lat": 13.3471,
+            "lon": 122.5202
+        },
+        "it": "San Francisco",
+        "it:t": "Filippine | Quezon",
+        "es": "San Francisco",
+        "es:t": "Filipinas | Quez\u00f3n",
+        "de": "San Francisco",
+        "de:t": "Philippinen | Quezon"
+    },
+    {
+        "en": "San Francisco",
+        "en:t": "Philippines | Santa Ignacia",
+        "a": true,
+        "g": {
+            "lat": 15.6306,
+            "lon": 120.4372
+        },
+        "it": "San Francisco",
+        "it:t": "Filippine | Santa Ignacia",
+        "es": "San Francisco",
+        "es:t": "Filipinas | Santa Ignacia",
+        "de": "San Francisco",
+        "de:t": "Philippinen | Santa Ignacia"
+    },
+    {
+        "en": "San Ildefonso",
+        "en:t": "Philippines | Bulacan",
+        "a": true,
+        "g": {
+            "lat": 15.0418,
+            "lon": 121.0106
+        },
+        "it": "San Ildefonso",
+        "it:t": "Filippine | Bulacan",
+        "es": "San Ildefonso",
+        "es:t": "Filipinas | Bulacan",
+        "de": "San Ildefonso",
+        "de:t": "Philippinen | Bulacan"
+    },
+    {
+        "en": "San Jose",
+        "en:t": "Philippines | Camarines Sur",
+        "a": true,
+        "g": {
+            "lat": 13.6872,
+            "lon": 123.5392
+        },
+        "it": "San Jose",
+        "it:t": "Filippine | Camarines Sur",
+        "es": "San Jos\u00e9",
+        "es:t": "Filipinas | Camarines Sur",
+        "de": "San Jose",
+        "de:t": "Philippinen | Camarines Sur"
+    },
+    {
+        "en": "San Jose",
+        "en:t": "Philippines | Occidental Mindoro",
+        "a": true,
+        "g": {
+            "lat": 12.3474,
+            "lon": 121.0659
+        },
+        "it": "San Jose",
+        "it:t": "Filippine | Occidental Mindoro",
+        "es": "San Jos\u00e9",
+        "es:t": "Filipinas | Mindoro Occidental",
+        "de": "San Jose",
+        "de:t": "Philippinen | Occidental Mindoro"
+    },
+    {
+        "en": "San Jose del Monte",
+        "en:t": "Philippines | Bulacan",
+        "a": true,
+        "g": {
+            "lat": 14.8143,
+            "lon": 121.0725
+        },
+        "it": "San Jose del Monte",
+        "it:t": "Filippine | Bulacan",
+        "es": "San Jos\u00e9 del Monte",
+        "es:t": "Filipinas | Bulac\u00e1n",
+        "de": "San Jose del Monte",
+        "de:t": "Philippinen | Bulacan"
+    },
+    {
+        "en": "San Juan",
+        "en:t": "Philippines",
+        "a": true,
+        "g": {
+            "lat": 14.6019,
+            "lon": 121.0355
+        },
+        "it": "San Juan",
+        "it:t": "Filippine",
+        "es": "San Juan",
+        "es:t": "Filipinas",
+        "de": "San Juan",
+        "de:t": "Philippinen"
+    },
+    {
+        "en": "San Leonardo",
+        "en:t": "Philippines | Nueva Ecija",
+        "a": true,
+        "g": {
+            "lat": 15.3729,
+            "lon": 120.9532
+        },
+        "it": "San Leonardo",
+        "it:t": "Filippine | Nueva Ecija",
+        "es": "San Leonardo",
+        "es:t": "Filipinas | Nueva \u00c9cija",
+        "de": "San Leonardo",
+        "de:t": "Philippinen | Nueva Ecija"
+    },
+    {
+        "en": "San Luis",
+        "en:t": "Philippines | Pampanga",
+        "a": true,
+        "g": {
+            "lat": 15.0191,
+            "lon": 120.8154
+        },
+        "it": "San Luis",
+        "it:t": "Filippine | Pampanga",
+        "es": "San Luis",
+        "es:t": "Filipinas | Pampanga",
+        "de": "San Luis",
+        "de:t": "Philippinen | Pampanga"
+    },
+    {
+        "en": "San Marcelino",
+        "en:t": "Philippines | Zambales",
+        "a": true,
+        "g": {
+            "lat": 15.0261,
+            "lon": 120.2743
+        },
+        "it": "San Marcelino",
+        "it:t": "Filippine | Zambales",
+        "es": "San Marcelino",
+        "es:t": "Filipinas | Zambales",
+        "de": "San Marcelino",
+        "de:t": "Philippinen | Zambales"
+    },
+    {
+        "en": "San Mateo",
+        "en:t": "Philippines | Isabela",
+        "a": true,
+        "g": {
+            "lat": 16.8767,
+            "lon": 121.5941
+        },
+        "it": "San Mateo",
+        "it:t": "Filippine | Isabela",
+        "es": "San Mateo",
+        "es:t": "Filipinas | Isabela",
+        "de": "San Mateo",
+        "de:t": "Philippinen | Isabela"
+    },
+    {
+        "en": "San Mateo",
+        "en:t": "Philippines | Rizal",
+        "a": true,
+        "g": {
+            "lat": 14.6775,
+            "lon": 121.1596
+        },
+        "it": "San Mateo",
+        "it:t": "Filippine | Rizal",
+        "es": "San Mateo",
+        "es:t": "Filipinas | Rizal",
+        "de": "San Mateo",
+        "de:t": "Philippinen | Rizal"
+    },
+    {
+        "en": "San Miguel",
+        "en:t": "Philippines | Bulacan",
+        "a": true,
+        "g": {
+            "lat": 15.1664,
+            "lon": 121.0106
+        },
+        "it": "San Miguel",
+        "it:t": "Filippine | Bulacan",
+        "es": "San Miguel",
+        "es:t": "Filipinas | Bulac\u00e1n",
+        "de": "San Miguel",
+        "de:t": "Philippinen | Bulacan"
+    },
+    {
+        "en": "San Narciso",
+        "en:t": "Philippines | Zambales",
+        "a": true,
+        "g": {
+            "lat": 15.0145,
+            "lon": 120.0795
+        },
+        "it": "San Narciso",
+        "it:t": "Filippine | Zambales",
+        "es": "San Narciso",
+        "es:t": "Filipinas | Zambales",
+        "de": "San Narciso",
+        "de:t": "Philippinen | Zambales"
+    },
+    {
+        "en": "San Nicolas",
+        "en:t": "Philippines | Ilocos Norte",
+        "a": true,
+        "g": {
+            "lat": 18.1471,
+            "lon": 120.5855
+        },
+        "it": "San Nicolas",
+        "it:t": "Filippine | Ilocos Norte",
+        "es": "San Nicol\u00e1s",
+        "es:t": "Filipinas | Ilocos Norte",
+        "de": "San Nicolas",
+        "de:t": "Philippinen | Ilocos Norte"
+    },
+    {
+        "en": "San Pablo",
+        "en:t": "Philippines | Laguna",
+        "a": true,
+        "g": {
+            "lat": 14.0642,
+            "lon": 121.3233
+        },
+        "it": "San Pablo",
+        "it:t": "Filippine | Laguna",
+        "es": "San Pablo",
+        "es:t": "Filipinas | La Laguna",
+        "de": "San Pablo",
+        "de:t": "Philippinen | Laguna"
+    },
+    {
+        "en": "San Pascual",
+        "en:t": "Philippines | Batangas",
+        "a": true,
+        "g": {
+            "lat": 13.8104,
+            "lon": 121.022
+        },
+        "it": "San Pascual",
+        "it:t": "Filippine | Batangas",
+        "es": "San Pascual",
+        "es:t": "Filipinas | Batangas",
+        "de": "San Pascual",
+        "de:t": "Philippinen | Batangas"
+    },
+    {
+        "en": "San Pedro",
+        "en:t": "Philippines | Laguna",
+        "a": true,
+        "g": {
+            "lat": 14.3529,
+            "lon": 121.0458
+        },
+        "it": "San Pedro",
+        "it:t": "Filippine | Laguna",
+        "es": "San Pedro",
+        "es:t": "Filipinas | La Laguna",
+        "de": "San Pedro",
+        "de:t": "Philippinen | Laguna"
+    },
+    {
+        "en": "San Simon",
+        "en:t": "Philippines | Pampanga",
+        "a": true,
+        "g": {
+            "lat": 14.9887,
+            "lon": 120.7752
+        },
+        "it": "San Simon",
+        "it:t": "Filippine | Pampanga",
+        "es": "San Simon",
+        "es:t": "Filipinas | Pampanga",
+        "de": "San Simon",
+        "de:t": "Philippinen | Pampanga"
+    },
+    {
+        "en": "San Vicente",
+        "en:t": "Philippines | Tarlac",
+        "a": true,
+        "g": {
+            "lat": 15.4729,
+            "lon": 120.5883
+        },
+        "it": "San Vicente",
+        "it:t": "Filippine | Bulacan",
+        "es": "San Vicente",
+        "es:t": "Filipinas | Bulacan",
+        "de": "San Vicente",
+        "de:t": "Philippinen | Tarlac"
+    },
+    {
+        "en": "Santa Ana",
+        "en:t": "Philippines | Pampanga",
+        "a": true,
+        "g": {
+            "lat": 15.1092,
+            "lon": 120.7695
+        },
+        "it": "Santa Ana",
+        "it:t": "Filippine | Pampanga",
+        "es": "Santa Ana",
+        "es:t": "Filipinas | Pampanga",
+        "de": "Santa Ana",
+        "de:t": "Philippinen | Pampanga"
+    },
+    {
+        "en": "Santa Barbara",
+        "en:t": "Philippines | Pangasinan",
+        "a": true,
+        "g": {
+            "lat": 15.9774,
+            "lon": 120.4242
+        },
+        "it": "Santa Barbara",
+        "it:t": "Filippine | Pangasinan",
+        "es": "Santa B\u00e1rbara",
+        "es:t": "Filipinas | Pangasin\u00e1n",
+        "de": "Santa Barbara",
+        "de:t": "Philippinen | Pangasin\u00e1n"
+    },
+    {
+        "en": "Santa Catalina",
+        "en:t": "Philippines | Negros Oriental",
+        "a": true,
+        "g": {
+            "lat": 9.2868,
+            "lon": 122.9438
+        },
+        "it": "Santa Catalina",
+        "it:t": "Filippine | Negros Oriental",
+        "es": "Santa Catalina",
+        "es:t": "Filipinas | Negros Oriental",
+        "de": "Santa Catalina",
+        "de:t": "Philippinen | Negros Oriental"
+    },
+    {
+        "en": "Santa Cruz",
+        "en:t": "Philippines | Laguna",
+        "a": true,
+        "g": {
+            "lat": 14.2691,
+            "lon": 121.4113
+        },
+        "it": "Santa Cruz",
+        "it:t": "Filippine | Laguna",
+        "es": "Santa Cruz",
+        "es:t": "Filipinas | Laguna",
+        "de": "Santa Cruz",
+        "de:t": "Philippinen | Laguna"
+    },
+    {
+        "en": "Santa Cruz",
+        "en:t": "Philippines | Zambales",
+        "a": true,
+        "g": {
+            "lat": 15.7731,
+            "lon": 120.0434
+        },
+        "it": "Santa Cruz",
+        "it:t": "Filippine | Zambales",
+        "es": "Santa Cruz",
+        "es:t": "Filipinas | Zambales",
+        "de": "Santa Cruz",
+        "de:t": "Philippinen | Zambales"
+    },
+    {
+        "en": "Santa Maria",
+        "en:t": "Philippines | Davao del Sur",
+        "a": true,
+        "g": {
+            "lat": 6.5152,
+            "lon": 125.4563
+        },
+        "it": "Santa Maria",
+        "it:t": "Filippine | Davao del Sur",
+        "es": "Santa Mar\u00eda",
+        "es:t": "Filipinas | D\u00e1vao del Sur",
+        "de": "Santa Maria",
+        "de:t": "Philippinen | Davao del Sur"
+    },
+    {
+        "en": "Santa Maria",
+        "en:t": "Philippines | Ilocos Sur",
+        "a": true,
+        "g": {
+            "lat": 17.3788,
+            "lon": 120.4934
+        },
+        "it": "Santa Maria",
+        "it:t": "Filippine | Ilocos Sur",
+        "es": "Santa Mar\u00eda",
+        "es:t": "Filipinas | Ilocos Sur",
+        "de": "Santa Maria",
+        "de:t": "Philippinen | Ilocos Sur"
+    },
+    {
+        "en": "Santa Rosa",
+        "en:t": "Philippines | Laguna",
+        "a": true,
+        "g": {
+            "lat": 14.2843,
+            "lon": 121.0889
+        },
+        "it": "Santa Rosa",
+        "it:t": "Filippine | Laguna",
+        "es": "Santa Rosa",
+        "es:t": "Filipinas | La Laguna",
+        "de": "Santa Rosa",
+        "de:t": "Philippinen | Laguna"
+    },
+    {
+        "en": "Santiago",
+        "en:t": "Philippines | Isabela",
+        "a": true,
+        "g": {
+            "lat": 16.715,
+            "lon": 121.5537
+        },
+        "it": "Santiago",
+        "it:t": "Filippine | Isabela",
+        "es": "Santiago",
+        "es:t": "Filipinas | Isabela",
+        "de": "Santiago",
+        "de:t": "Philippinen | Isabela"
+    },
+    {
+        "en": "Santo Tomas",
+        "en:t": "Philippines | Batangas",
+        "a": true,
+        "g": {
+            "lat": 14.1262,
+            "lon": 121.1383
+        },
+        "it": "Santo Tomas",
+        "it:t": "Filippine | Batangas",
+        "es": "Santo Tom\u00e1s",
+        "es:t": "Filipinas | Batangas",
+        "de": "Santo Tomas",
+        "de:t": "Philippinen | Batangas"
+    },
+    {
+        "en": "Santol",
+        "en:t": "Philippines | Bulacan",
+        "a": true,
+        "g": {
+            "lat": 14.8276,
+            "lon": 120.8542
+        },
+        "it": "Santol",
+        "it:t": "Filippine | Balagtas",
+        "es": "Santol",
+        "es:t": "Filipinas | Balagtas",
+        "de": "Santol",
+        "de:t": "Philippinen | Bulacan"
+    },
+    {
+        "en": "Sariaya",
+        "en:t": "Philippines | Quezon",
+        "a": true,
+        "g": {
+            "lat": 13.8949,
+            "lon": 121.5142
+        },
+        "it": "Sariaya",
+        "it:t": "Filippine | Quezon",
+        "es": "Sariaya",
+        "es:t": "Filipinas | Quez\u00f3n",
+        "de": "Sariaya",
+        "de:t": "Philippinen | Quezon"
+    },
+    {
+        "en": "Sasmuan",
+        "en:t": "Philippines | Pampanga",
+        "a": true,
+        "g": {
+            "lat": 14.8876,
+            "lon": 120.6142
+        },
+        "it": "Sasmuan",
+        "it:t": "Filippine | Pampanga",
+        "es": "Sasmuan",
+        "es:t": "Filipinas | Pampanga",
+        "de": "Sasmuan",
+        "de:t": "Philippinen | Pampanga"
+    },
+    {
+        "en": "Mu\u00f1oz",
+        "en:t": "Philippines | Nueva Ecija",
+        "a": true,
+        "g": {
+            "lat": 15.7295,
+            "lon": 120.8729
+        },
+        "it": "Mu\u00f1oz",
+        "it:t": "Filippine | Nueva Ecija",
+        "es": "Mu\u00f1oz",
+        "es:t": "Filipinas | Nueva \u00c9cija",
+        "de": "Mu\u00f1oz",
+        "de:t": "Philippinen | Nueva Ecija"
+    },
+    {
+        "en": "Shariff Aguak",
+        "en:t": "Philippines | Maguindanao",
+        "a": true,
+        "g": {
+            "lat": 6.8531,
+            "lon": 124.3976
+        },
+        "it": "Shariff Aguak",
+        "it:t": "Filippine | Maguindanao",
+        "es": "Shariff Aguak",
+        "es:t": "Filipinas | Maguindanao",
+        "de": "Shariff Aguak",
+        "de:t": "Philippinen | Maguindanao"
+    },
+    {
+        "en": "Sibulan",
+        "en:t": "Philippines | Negros Oriental",
+        "a": true,
+        "g": {
+            "lat": 9.3508,
+            "lon": 123.1576
+        },
+        "it": "Sibulan",
+        "it:t": "Filippine | Negros Oriental",
+        "es": "Sibul\u00e1n",
+        "es:t": "Filipinas | Negros Oriental",
+        "de": "Sibulan",
+        "de:t": "Philippinen | Negros Oriental"
+    },
+    {
+        "en": "Silang",
+        "en:t": "Philippines | Cavite",
+        "a": true,
+        "g": {
+            "lat": 14.2142,
+            "lon": 120.9687
+        },
+        "it": "Silang",
+        "it:t": "Filippine | Cavite",
+        "es": "Silang",
+        "es:t": "Filipinas | Cavite",
+        "de": "Silang",
+        "de:t": "Philippinen | Cavite"
+    },
+    {
+        "en": "Silay-Binonga Road",
+        "en:t": "Philippines | Silay",
+        "a": true,
+        "g": {
+            "lat": 10.7704,
+            "lon": 122.983
+        },
+        "it": "Silay-Binonga Road",
+        "it:t": "Filippine | Silay",
+        "es": "Silay-Binonga Road",
+        "es:t": "Filipinas | Silay",
+        "de": "Silay-Binonga Road",
+        "de:t": "Philippinen | Silay"
+    },
+    {
+        "en": "Sipalay",
+        "en:t": "Philippines | Negros Occidental",
+        "a": true,
+        "g": {
+            "lat": 9.7198,
+            "lon": 122.492
+        },
+        "it": "Sipalay",
+        "it:t": "Filippine | Negros Occidental",
+        "es": "Sipalay",
+        "es:t": "Filipinas | Negros Occidental",
+        "de": "Sipalay",
+        "de:t": "Philippinen | Negros Occidental"
+    },
+    {
+        "en": "Sitangkai",
+        "en:t": "Philippines | Tawi-Tawi",
+        "a": true,
+        "g": {
+            "lat": 4.7438,
+            "lon": 119.4005
+        },
+        "it": "Sitangkai",
+        "it:t": "Filippine | Tawi-Tawi",
+        "es": "Sitangkai",
+        "es:t": "Filipinas | Tawi-Tawi",
+        "de": "Sitangkai",
+        "de:t": "Philippinen | Tawi-Tawi"
+    },
+    {
+        "en": "Solana",
+        "en:t": "Philippines | Cagayan",
+        "a": true,
+        "g": {
+            "lat": 17.6528,
+            "lon": 121.6511
+        },
+        "it": "Solana",
+        "it:t": "Filippine | Cagayan",
+        "es": "Solana",
+        "es:t": "Filipinas | Cagay\u00e1n",
+        "de": "Solana",
+        "de:t": "Philippinen | Cagayan"
+    },
+    {
+        "en": "Solano",
+        "en:t": "Philippines | Nueva Vizcaya",
+        "a": true,
+        "g": {
+            "lat": 16.5271,
+            "lon": 121.1825
+        },
+        "it": "Solano",
+        "it:t": "Filippine | Nueva Vizcaya",
+        "es": "Solano",
+        "es:t": "Filipinas | Nueva Vizcaya",
+        "de": "Solano",
+        "de:t": "Philippinen | Nueva Vizcaya"
+    },
+    {
+        "en": "Sorsogon",
+        "en:t": "Philippines",
+        "a": true,
+        "g": {
+            "lat": 12.76,
+            "lon": 123.9304
+        },
+        "it": "Sorsogon",
+        "it:t": "Filippine",
+        "es": "Sorsog\u00f3n",
+        "es:t": "Filipinas",
+        "de": "Sorsogon",
+        "de:t": "Philippinen"
+    },
+    {
+        "en": "Su-ay",
+        "en:t": "Philippines | Himamaylan",
+        "a": true,
+        "g": {
+            "lat": 10.0532,
+            "lon": 122.8395
+        },
+        "it": "Su-ay",
+        "it:t": "Filippine | Himamaylan",
+        "es": "Su-ay",
+        "es:t": "Filipinas | Himamaylan",
+        "de": "Su-ay",
+        "de:t": "Philippinen | Himamaylan"
+    },
+    {
+        "en": "Subic",
+        "en:t": "Philippines | Zambales",
+        "a": true,
+        "g": {
+            "lat": 14.8968,
+            "lon": 120.2366
+        },
+        "it": "Subic",
+        "it:t": "Filippine | Zambales",
+        "es": "S\u00fabic",
+        "es:t": "Filipinas | Zambales",
+        "de": "Subic",
+        "de:t": "Philippinen | Zambales"
+    },
+    {
+        "en": "Surallah",
+        "en:t": "Philippines | South Cotabato",
+        "a": true,
+        "g": {
+            "lat": 6.3195,
+            "lon": 124.752
+        },
+        "it": "Surallah",
+        "it:t": "Filippine | South Cotabato",
+        "es": "Surala",
+        "es:t": "Filipinas | Cotabato Sur",
+        "de": "Surallah",
+        "de:t": "Philippinen | South Cotabato"
+    },
+    {
+        "en": "Surigao",
+        "en:t": "Philippines | Surigao del Norte",
+        "a": true,
+        "g": {
+            "lat": 9.7571,
+            "lon": 125.5138
+        },
+        "it": "Surigao",
+        "it:t": "Filippine | Surigao del Norte",
+        "es": "Surigao",
+        "es:t": "Filipinas | Surigao del Norte",
+        "de": "Surigao",
+        "de:t": "Philippinen | Surigao del Norte"
+    },
+    {
+        "en": "Taal",
+        "en:t": "Philippines | Batangas",
+        "a": true,
+        "g": {
+            "lat": 13.8893,
+            "lon": 120.936
+        },
+        "it": "Taal",
+        "it:t": "Filippine | Batangas",
+        "es": "Taal",
+        "es:t": "Filipinas | Batangas",
+        "de": "Taal",
+        "de:t": "Philippinen | Batangas"
+    },
+    {
+        "en": "Tabaco",
+        "en:t": "Philippines | Albay",
+        "a": true,
+        "g": {
+            "lat": 13.3241,
+            "lon": 123.6451
+        },
+        "it": "Tabaco",
+        "it:t": "Filippine | Albay",
+        "es": "Tabaco",
+        "es:t": "Filipinas | Albay",
+        "de": "Tabaco",
+        "de:t": "Philippinen | Albay"
+    },
+    {
+        "en": "Tabuk",
+        "en:t": "Philippines | Kalinga",
+        "a": true,
+        "g": {
+            "lat": 17.4117,
+            "lon": 121.4384
+        },
+        "it": "Tabuk",
+        "it:t": "Filippine | Kalinga",
+        "es": "Tabuk",
+        "es:t": "Filipinas | Kalinga",
+        "de": "Tabuk",
+        "de:t": "Philippinen | Kalinga"
+    },
+    {
+        "en": "Tacurong",
+        "en:t": "Philippines | Sultan Kudarat",
+        "a": true,
+        "g": {
+            "lat": 6.688,
+            "lon": 124.6788
+        },
+        "it": "Tacurong",
+        "it:t": "Filippine | Sultan Kudarat",
+        "es": "Tacurong",
+        "es:t": "Filipinas | Sult\u00e1n Kudarat",
+        "de": "Tacurong",
+        "de:t": "Philippinen | Sultan Kudarat"
+    },
+    {
+        "en": "Tagbilaran",
+        "en:t": "Philippines | Bohol",
+        "a": true,
+        "g": {
+            "lat": 9.6729,
+            "lon": 123.873
+        },
+        "it": "Tagbilaran",
+        "it:t": "Filippine | Bohol",
+        "es": "Tagbilaran",
+        "es:t": "Filipinas | Bohol",
+        "de": "Tagbilaran",
+        "de:t": "Philippinen | Bohol"
+    },
+    {
+        "en": "Tagoloan",
+        "en:t": "Philippines | Misamis Oriental",
+        "a": true,
+        "g": {
+            "lat": 8.538,
+            "lon": 124.7889
+        },
+        "it": "Tagoloan",
+        "it:t": "Filippine | Misamis Oriental",
+        "es": "Tagolo\u00e1n",
+        "es:t": "Filipinas | Lanao del Norte",
+        "de": "Tagoloan",
+        "de:t": "Philippinen | Misamis Oriental"
+    },
+    {
+        "en": "Tagudin",
+        "en:t": "Philippines | Ilocos Sur",
+        "a": true,
+        "g": {
+            "lat": 16.9388,
+            "lon": 120.4703
+        },
+        "it": "Tagudin",
+        "it:t": "Filippine | Ilocos Sur",
+        "es": "Tagudin",
+        "es:t": "Filipinas | Ilocos Sur",
+        "de": "Tagudin",
+        "de:t": "Philippinen | Ilocos Sur"
+    },
+    {
+        "en": "Taguig",
+        "en:t": "Philippines",
+        "a": true,
+        "g": {
+            "lat": 14.5176,
+            "lon": 121.0509
+        },
+        "it": "Taguig",
+        "it:t": "Filippine",
+        "es": "Taguig",
+        "es:t": "Filipinas",
+        "de": "Taguig",
+        "de:t": "Philippinen"
+    },
+    {
+        "en": "Tagum",
+        "en:t": "Philippines | Davao del Norte",
+        "a": true,
+        "g": {
+            "lat": 7.4482,
+            "lon": 125.8094
+        },
+        "it": "Tagum",
+        "it:t": "Filippine | Davao del Norte",
+        "es": "Ta\u00fam",
+        "es:t": "Filipinas | D\u00e1vao del Norte",
+        "de": "Tagum",
+        "de:t": "Philippinen | Davao del Norte"
+    },
+    {
+        "en": "Talacogon",
+        "en:t": "Philippines | Agusan del Sur",
+        "a": true,
+        "g": {
+            "lat": 8.3697,
+            "lon": 125.8062
+        },
+        "it": "Talacogon",
+        "it:t": "Filippine | Agusan del Sur",
+        "es": "Talacogon",
+        "es:t": "Filipinas | Agusan del Sur",
+        "de": "Talacogon",
+        "de:t": "Philippinen | Agusan del Sur"
+    },
+    {
+        "en": "Talavera",
+        "en:t": "Philippines | Nueva Ecija",
+        "a": true,
+        "g": {
+            "lat": 15.6266,
+            "lon": 120.9303
+        },
+        "it": "Talavera",
+        "it:t": "Filippine | Nueva Ecija",
+        "es": "Talavera",
+        "es:t": "Filipinas | Nueva \u00c9cija",
+        "de": "Talavera",
+        "de:t": "Philippinen | Nueva Ecija"
+    },
+    {
+        "en": "Talisay",
+        "en:t": "Philippines | Batangas",
+        "a": true,
+        "g": {
+            "lat": 14.0487,
+            "lon": 121.0106
+        },
+        "it": "Talisay",
+        "it:t": "Filippine | Batangas",
+        "es": "Talisay",
+        "es:t": "Filipinas | Batangas",
+        "de": "Talisay",
+        "de:t": "Philippinen | Batangas"
+    },
+    {
+        "en": "Talisay",
+        "en:t": "Philippines | Cebu",
+        "a": true,
+        "g": {
+            "lat": 10.257,
+            "lon": 123.83
+        },
+        "it": "Talisay",
+        "it:t": "Filippine | Cebu",
+        "es": "Tal\u00edsay",
+        "es:t": "Filipinas | Ceb\u00fa",
+        "de": "Talisay",
+        "de:t": "Philippinen | Cebu"
+    },
+    {
+        "en": "Talisay",
+        "en:t": "Philippines | Negros Occidental",
+        "a": true,
+        "g": {
+            "lat": 10.7325,
+            "lon": 123.0114
+        },
+        "it": "Talisay",
+        "it:t": "Filippine | Negros Occidental",
+        "es": "Talisay",
+        "es:t": "Filipinas | Negros Occidental",
+        "de": "Talisay",
+        "de:t": "Philippinen | Negros Occidental"
+    },
+    {
+        "en": "Taloc",
+        "en:t": "Philippines | Bago",
+        "a": true,
+        "g": {
+            "lat": 10.5783,
+            "lon": 122.91
+        },
+        "it": "Taloc",
+        "it:t": "Filippine | Bago",
+        "es": "Taloc",
+        "es:t": "Filipinas | Bago",
+        "de": "Taloc",
+        "de:t": "Philippinen | Bago"
+    },
+    {
+        "en": "Tanauan",
+        "en:t": "Philippines | Batangas",
+        "a": true,
+        "g": {
+            "lat": 14.0835,
+            "lon": 121.1474
+        },
+        "it": "Tanauan",
+        "it:t": "Filippine | Batangas",
+        "es": "Tanauan",
+        "es:t": "Filipinas | Batangas",
+        "de": "Tanauan",
+        "de:t": "Philippinen | Batangas"
+    },
+    {
+        "en": "Tanauan",
+        "en:t": "Philippines | Leyte",
+        "a": true,
+        "g": {
+            "lat": 11.111,
+            "lon": 125.0156
+        },
+        "it": "Tanauan",
+        "it:t": "Filippine | Leyte",
+        "es": "Tanauan",
+        "es:t": "Filipinas | Leyte",
+        "de": "Tanauan",
+        "de:t": "Philippinen | Leyte"
+    },
+    {
+        "en": "Tanay",
+        "en:t": "Philippines | Rizal",
+        "a": true,
+        "g": {
+            "lat": 14.5797,
+            "lon": 121.3313
+        },
+        "it": "Tanay",
+        "it:t": "Filippine | Rizal",
+        "es": "Tanay",
+        "es:t": "Filipinas | Rizal",
+        "de": "Tanay",
+        "de:t": "Philippinen | Rizal"
+    },
+    {
+        "en": "Tandag",
+        "en:t": "Philippines | Surigao del Sur",
+        "a": true,
+        "g": {
+            "lat": 9.1012,
+            "lon": 126.1589
+        },
+        "it": "Tandag",
+        "it:t": "Filippine | Surigao del Sur",
+        "es": "Tandag",
+        "es:t": "Filipinas | Surigao del Sur",
+        "de": "Tandag",
+        "de:t": "Philippinen | Surigao del Sur"
+    },
+    {
+        "en": "Tangub",
+        "en:t": "Philippines | Misamis Occidental",
+        "a": true,
+        "g": {
+            "lat": 8.0959,
+            "lon": 123.6847
+        },
+        "it": "Tangub",
+        "it:t": "Filippine | Misamis Occidental",
+        "es": "Regidor de Misamis",
+        "es:t": "Filipinas | Misamis Occidental",
+        "de": "Tangub",
+        "de:t": "Philippinen | Misamis Occidental"
+    },
+    {
+        "en": "Tanjay",
+        "en:t": "Philippines | Negros Oriental",
+        "a": true,
+        "g": {
+            "lat": 9.4958,
+            "lon": 122.9663
+        },
+        "it": "Tanjay",
+        "it:t": "Filippine | Negros Oriental",
+        "es": "Tanjay",
+        "es:t": "Filipinas | Negros Oriental",
+        "de": "Tanjay",
+        "de:t": "Philippinen | Negros Oriental"
+    },
+    {
+        "en": "Tanza",
+        "en:t": "Philippines",
+        "a": true,
+        "g": {
+            "lat": 14.7005,
+            "lon": 120.9159
+        },
+        "it": "Tanza",
+        "it:t": "Filippine",
+        "es": "Tanza",
+        "es:t": "Filipinas",
+        "de": "Tanza",
+        "de:t": "Philippinen"
+    },
+    {
+        "en": "Tarlac",
+        "en:t": "Philippines | Tarlac",
+        "a": true,
+        "g": {
+            "lat": 15.4755,
+            "lon": 120.5963
+        },
+        "it": "Tarlac",
+        "it:t": "Filippine | Tarlac",
+        "es": "Tarlac",
+        "es:t": "Filipinas | Tarlac",
+        "de": "Tarlac",
+        "de:t": "Philippinen | Tarlac"
+    },
+    {
+        "en": "Tayabas",
+        "en:t": "Philippines | Quezon",
+        "a": true,
+        "g": {
+            "lat": 14.0364,
+            "lon": 121.6533
+        },
+        "it": "Tayabas",
+        "it:t": "Filippine | Quezon",
+        "es": "Tay\u00e1bas",
+        "es:t": "Filipinas | Quez\u00f3n",
+        "de": "Tayabas",
+        "de:t": "Philippinen | Quezon"
+    },
+    {
+        "en": "Taytay",
+        "en:t": "Philippines | Rizal",
+        "a": true,
+        "g": {
+            "lat": 14.5586,
+            "lon": 121.1361
+        },
+        "it": "Taytay",
+        "it:t": "Filippine | Rizal",
+        "es": "Taytay",
+        "es:t": "Filipinas | Rizal",
+        "de": "Taytay",
+        "de:t": "Philippinen | Rizal"
+    },
+    {
+        "en": "Telabastagan",
+        "en:t": "Philippines | San Fernando",
+        "a": true,
+        "g": {
+            "lat": 15.1161,
+            "lon": 120.6073
+        },
+        "it": "Telabastagan",
+        "it:t": "Filippine | San Fernando",
+        "es": "Telabastagan",
+        "es:t": "Filipinas | San Fernando",
+        "de": "Telabastagan",
+        "de:t": "Philippinen | San Fernando"
+    },
+    {
+        "en": "Teresa",
+        "en:t": "Philippines | Rizal",
+        "a": true,
+        "g": {
+            "lat": 14.57,
+            "lon": 121.2226
+        },
+        "it": "Teresa",
+        "it:t": "Filippine | Rizal",
+        "es": "Teresa",
+        "es:t": "Filipinas | Rizal",
+        "de": "Teresa",
+        "de:t": "Philippinen | Rizal"
+    },
+    {
+        "en": "Ternate",
+        "en:t": "Philippines | Cavite",
+        "a": true,
+        "g": {
+            "lat": 14.2714,
+            "lon": 120.6775
+        },
+        "it": "Ternate",
+        "it:t": "Filippine | Cavite",
+        "es": "Ternate",
+        "es:t": "Filipinas | Cavite",
+        "de": "Ternate",
+        "de:t": "Philippinen | Cavite"
+    },
+    {
+        "en": "Tiwi",
+        "en:t": "Philippines | Albay",
+        "a": true,
+        "g": {
+            "lat": 13.4612,
+            "lon": 123.64
+        },
+        "it": "Tiwi",
+        "it:t": "Filippine | Albay",
+        "es": "Tiwi",
+        "es:t": "Filipinas | Albay",
+        "de": "Tiwi",
+        "de:t": "Philippinen | Albay"
+    },
+    {
+        "en": "Toledo",
+        "en:t": "Philippines | Cebu",
+        "a": true,
+        "g": {
+            "lat": 10.387,
+            "lon": 123.6503
+        },
+        "it": "Toledo",
+        "it:t": "Filippine | Cebu",
+        "es": "Toledo",
+        "es:t": "Filipinas | Ceb\u00fa",
+        "de": "Toledo",
+        "de:t": "Philippinen | Cebu"
+    },
+    {
+        "en": "Trento",
+        "en:t": "Philippines | Agusan del Sur",
+        "a": true,
+        "g": {
+            "lat": 8.0526,
+            "lon": 126.2197
+        },
+        "it": "Trento",
+        "it:t": "Filippine | Agusan del Sur",
+        "es": "Trento",
+        "es:t": "Filipinas | Agusan del Sur",
+        "de": "Trento",
+        "de:t": "Philippinen | Agusan del Sur"
+    },
+    {
+        "en": "Tuguegarao",
+        "en:t": "Philippines | Cagayan",
+        "a": true,
+        "g": {
+            "lat": 17.6132,
+            "lon": 121.727
+        },
+        "it": "Tuguegarao",
+        "it:t": "Filippine | Cagayan",
+        "es": "Tuguegarao",
+        "es:t": "Filipinas | Cagay\u00e1n",
+        "de": "Tuguegarao",
+        "de:t": "Philippinen | Cagayan"
+    },
+    {
+        "en": "Tupi",
+        "en:t": "Philippines | South Cotabato",
+        "a": true,
+        "g": {
+            "lat": 6.3385,
+            "lon": 124.9727
+        },
+        "it": "Tupi",
+        "it:t": "Filippine | Cotabato del Sur",
+        "es": "Tupi",
+        "es:t": "Filipinas | Cotabato Sur",
+        "de": "Tupi",
+        "de:t": "Philippinen | South Cotabato"
+    },
+    {
+        "en": "Urdaneta",
+        "en:t": "Philippines | Pangasinan",
+        "a": true,
+        "g": {
+            "lat": 15.9758,
+            "lon": 120.5707
+        },
+        "it": "Urdaneta",
+        "it:t": "Filippine | Pangasinan",
+        "es": "Urdaneta",
+        "es:t": "Filipinas | Pangasin\u00e1n",
+        "de": "Urdaneta",
+        "de:t": "Philippinen | Pangasin\u00e1n"
+    },
+    {
+        "en": "Valencia",
+        "en:t": "Philippines | Bukidnon",
+        "a": true,
+        "g": {
+            "lat": 7.8632,
+            "lon": 125.1709
+        },
+        "it": "Valencia",
+        "it:t": "Filippine | Bukidnon",
+        "es": "Valencia",
+        "es:t": "Filipinas | Bukidnon",
+        "de": "Valencia",
+        "de:t": "Philippinen | Bukidnon"
+    },
+    {
+        "en": "Veruela",
+        "en:t": "Philippines | Agusan del Sur",
+        "a": true,
+        "g": {
+            "lat": 8.0307,
+            "lon": 125.8934
+        },
+        "it": "Veruela",
+        "it:t": "Filippine | Agusan del Sur",
+        "es": "Veruela",
+        "es:t": "Filipinas | Agusan del Sur",
+        "de": "Veruela",
+        "de:t": "Philippinen | Agusan del Sur"
+    },
+    {
+        "en": "Victoria",
+        "en:t": "Philippines | Laguna",
+        "a": true,
+        "g": {
+            "lat": 14.2028,
+            "lon": 121.337
+        },
+        "it": "Victoria",
+        "it:t": "Filippine | Laguna",
+        "es": "Victoria",
+        "es:t": "Filipinas | Laguna",
+        "de": "Victoria",
+        "de:t": "Philippinen | Laguna"
+    },
+    {
+        "en": "Victorias",
+        "en:t": "Philippines | Negros Occidental",
+        "a": true,
+        "g": {
+            "lat": 10.8698,
+            "lon": 123.0902
+        },
+        "it": "Victorias",
+        "it:t": "Filippine | Negros Occidental",
+        "es": "Victorias",
+        "es:t": "Filipinas | Negros Occidental",
+        "de": "Victorias",
+        "de:t": "Philippinen | Negros Occidental"
+    },
+    {
+        "en": "Vigan",
+        "en:t": "Philippines | Ilocos Sur",
+        "a": true,
+        "g": {
+            "lat": 17.5705,
+            "lon": 120.3873
+        },
+        "it": "Vigan",
+        "it:t": "Filippine | Ilocos Sur",
+        "es": "Vigan",
+        "es:t": "Filipinas | Ilocos Sur",
+        "de": "Vigan",
+        "de:t": "Philippinen | Ilocos Sur"
+    },
+    {
+        "en": "Virac",
+        "en:t": "Philippines | Catanduanes",
+        "a": true,
+        "g": {
+            "lat": 13.5849,
+            "lon": 124.2066
+        },
+        "it": "Virac",
+        "it:t": "Filippine | Catanduanes",
+        "es": "Virac",
+        "es:t": "Filipinas | Catanduanes",
+        "de": "Virac",
+        "de:t": "Philippinen | Catanduanes"
+    },
+    {
+        "en": "Wao",
+        "en:t": "Philippines | Lanao del Sur",
+        "a": true,
+        "g": {
+            "lat": 7.6676,
+            "lon": 124.7078
+        },
+        "it": "Wao",
+        "it:t": "Filippine | Lanao del Sur",
+        "es": "Wao",
+        "es:t": "Filipinas | Lanao del Sur",
+        "de": "Wao",
+        "de:t": "Philippinen | Lanao del Sur"
+    },
+    {
+        "en": "Western Visayas",
+        "en:t": "Philippines",
+        "a": true,
+        "g": {
+            "lat": 11.005,
+            "lon": 122.5373
+        },
+        "it": "Visayas Occidentale",
+        "it:t": "Filippine",
+        "es": "Visayas Occidental",
+        "es:t": "Filipinas",
+        "de": "Western Visayas",
+        "de:t": "Philippinen"
+    },
+    {
+        "en": "Zamboanga",
+        "en:t": "Philippines | Zamboanga",
+        "a": true,
+        "g": {
+            "lat": 6.9214,
+            "lon": 122.079
+        },
+        "it": "Zamboanga",
+        "it:t": "Filippine | Zamboanga",
+        "es": "Zamboanga",
+        "es:t": "Filipinas | Zamboanga",
+        "de": "Zamboanga",
+        "de:t": "Philippinen | Zamboanga"
+    }
+]

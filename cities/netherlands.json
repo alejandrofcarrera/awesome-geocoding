@@ -1,0 +1,3842 @@
+[
+    {
+        "en": "'s-Gravenzande",
+        "en:t": "Netherlands | Westland",
+        "a": true,
+        "g": {
+            "lat": 52.0013,
+            "lon": 4.167
+        },
+        "it": "'s-Gravenzande",
+        "it:t": "Paesi Bassi | Westland",
+        "es": "'s-Gravenzande",
+        "es:t": "Pa\u00edses Bajos | Westland",
+        "de": "'s-Gravenzande",
+        "de:t": "Niederlande | Westland"
+    },
+    {
+        "en": "'s-Hertogenbosch",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 51.6978,
+            "lon": 5.3037
+        },
+        "it": "'s-Hertogenbosch",
+        "it:t": "Paesi Bassi",
+        "es": "'s-Hertogenbosch",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "'s-Hertogenbosch",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Aalsmeer",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 52.2622,
+            "lon": 4.7619
+        },
+        "it": "Aalsmeer",
+        "it:t": "Paesi Bassi",
+        "es": "Aalsmeer",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Aalsmeer",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Aalten",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 51.9267,
+            "lon": 6.5807
+        },
+        "it": "Aalten",
+        "it:t": "Paesi Bassi",
+        "es": "Aalten",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Aalten",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Alblasserdam",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 51.8703,
+            "lon": 4.6702
+        },
+        "it": "Alblasserdam",
+        "it:t": "Paesi Bassi",
+        "es": "Alblasserdam",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Alblasserdam",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Alkmaar",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 52.6324,
+            "lon": 4.7534
+        },
+        "it": "Alkmaar",
+        "it:t": "Paesi Bassi",
+        "es": "Alkmaar",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Alkmaar",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Almelo",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 52.367,
+            "lon": 6.6685
+        },
+        "it": "Almelo",
+        "it:t": "Paesi Bassi",
+        "es": "Almelo",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Almelo",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Almere",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 52.3508,
+            "lon": 5.2647
+        },
+        "it": "Almere",
+        "it:t": "Paesi Bassi",
+        "es": "Almere",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Almere",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Alphen aan den Rijn",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 52.1112,
+            "lon": 4.6473
+        },
+        "it": "Alphen aan den Rijn",
+        "it:t": "Paesi Bassi",
+        "es": "Alphen aan den Rijn",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Alphen am Rhein",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Amersfoort",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 52.1561,
+            "lon": 5.3878
+        },
+        "it": "Amersfoort",
+        "it:t": "Paesi Bassi",
+        "es": "Amersfoort",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Amersfoort",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Amstelveen",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 52.3114,
+            "lon": 4.8701
+        },
+        "it": "Amstelveen",
+        "it:t": "Paesi Bassi",
+        "es": "Amstelveen",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Amstelveen",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Amsterdam",
+        "en:t": "Netherlands | Amsterdam",
+        "a": true,
+        "g": {
+            "lat": 52.368,
+            "lon": 4.9036
+        },
+        "it": "Amsterdam",
+        "it:t": "Paesi Bassi | Amsterdam",
+        "es": "\u00c1msterdam",
+        "es:t": "Pa\u00edses Bajos | Amsterdam",
+        "de": "Amsterdam",
+        "de:t": "Niederlande | Amsterdam"
+    },
+    {
+        "en": "Amsterdam-Zuidoost",
+        "en:t": "Netherlands | Amsterdam",
+        "a": true,
+        "g": {
+            "lat": 52.308,
+            "lon": 4.9715
+        },
+        "it": "Amsterdam-Zuidoost",
+        "it:t": "Paesi Bassi | Amsterdam",
+        "es": "Amsterdam-Zuidoost",
+        "es:t": "Pa\u00edses Bajos | \u00c1msterdam",
+        "de": "Amsterdam-Zuidoost",
+        "de:t": "Niederlande | Amsterdam"
+    },
+    {
+        "en": "Anloo",
+        "en:t": "Netherlands | Aa en Hunze",
+        "a": true,
+        "g": {
+            "lat": 53.043,
+            "lon": 6.6981
+        },
+        "it": "Anloo",
+        "it:t": "Paesi Bassi | Aa en Hunze",
+        "es": "Anloo",
+        "es:t": "Pa\u00edses Bajos | Aa en Hunze",
+        "de": "Anloo",
+        "de:t": "Niederlande | Aa en Hunze"
+    },
+    {
+        "en": "Apeldoorn",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 52.2112,
+            "lon": 5.9699
+        },
+        "it": "Apeldoorn",
+        "it:t": "Paesi Bassi",
+        "es": "Apeldoorn",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Apeldoorn",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Arnhem",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 51.9851,
+            "lon": 5.8987
+        },
+        "it": "Arnhem",
+        "it:t": "Paesi Bassi",
+        "es": "Arnhem",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Arnhem",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Assen",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 52.9928,
+            "lon": 6.5642
+        },
+        "it": "Assen",
+        "it:t": "Paesi Bassi",
+        "es": "Assen",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Assen",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Asten",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 51.403,
+            "lon": 5.7441
+        },
+        "it": "Asten",
+        "it:t": "Paesi Bassi",
+        "es": "Asten",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Asten",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Baarn",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 52.2132,
+            "lon": 5.2864
+        },
+        "it": "Baarn",
+        "it:t": "Paesi Bassi",
+        "es": "Baarn",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Baarn",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Barendrecht",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 51.8515,
+            "lon": 4.5486
+        },
+        "it": "Barendrecht",
+        "it:t": "Paesi Bassi",
+        "es": "Barendrecht",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Barendrecht",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Barneveld",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 52.1402,
+            "lon": 5.5842
+        },
+        "it": "Barneveld",
+        "it:t": "Paesi Bassi",
+        "es": "Barneveld",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Barneveld",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Beek",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 50.9393,
+            "lon": 5.7956
+        },
+        "it": "Beek",
+        "it:t": "Paesi Bassi",
+        "es": "Beek",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Beek",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Benthuizen",
+        "en:t": "Netherlands | Alphen aan den Rijn",
+        "a": true,
+        "g": {
+            "lat": 52.0767,
+            "lon": 4.543
+        },
+        "it": "Benthuizen",
+        "it:t": "Paesi Bassi | Alphen aan den Rijn",
+        "es": "Benthuizen",
+        "es:t": "Pa\u00edses Bajos | Alphen aan den Rijn",
+        "de": "Benthuizen",
+        "de:t": "Niederlande | Alphen aan den Rijn"
+    },
+    {
+        "en": "Bergeijk",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 51.3197,
+            "lon": 5.3575
+        },
+        "it": "Bergeijk",
+        "it:t": "Paesi Bassi",
+        "es": "Bergeijk",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Bergeijk",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Bergen op Zoom",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 51.4946,
+            "lon": 4.2872
+        },
+        "it": "Bergen op Zoom",
+        "it:t": "Paesi Bassi",
+        "es": "Bergen op Zoom",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Bergen op Zoom",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Bergschenhoek",
+        "en:t": "Netherlands | Lansingerland",
+        "a": true,
+        "g": {
+            "lat": 51.9856,
+            "lon": 4.5057
+        },
+        "it": "Bergschenhoek",
+        "it:t": "Paesi Bassi | Lansingerland",
+        "es": "Bergschenhoek",
+        "es:t": "Pa\u00edses Bajos | Lansingerland",
+        "de": "Bergschenhoek",
+        "de:t": "Niederlande | Lansingerland"
+    },
+    {
+        "en": "Berkel en Rodenrijs",
+        "en:t": "Netherlands | Lansingerland",
+        "a": true,
+        "g": {
+            "lat": 51.9914,
+            "lon": 4.4733
+        },
+        "it": "Berkel en Rodenrijs",
+        "it:t": "Paesi Bassi | Lansingerland",
+        "es": "Berkel en Rodenrijs",
+        "es:t": "Pa\u00edses Bajos | Lansingerland",
+        "de": "Berkel en Rodenrijs",
+        "de:t": "Niederlande | Lansingerland"
+    },
+    {
+        "en": "Best",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 51.5078,
+            "lon": 5.3978
+        },
+        "it": "Best",
+        "it:t": "Paesi Bassi",
+        "es": "Best",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Best",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Beuningen",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 51.8597,
+            "lon": 5.7691
+        },
+        "it": "Beuningen",
+        "it:t": "Paesi Bassi",
+        "es": "Beuningen",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Beuningen",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Beverwijk",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 52.487,
+            "lon": 4.6574
+        },
+        "it": "Beverwijk",
+        "it:t": "Paesi Bassi",
+        "es": "Beverwijk",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Beverwijk",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Bladel",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 51.363,
+            "lon": 5.2136
+        },
+        "it": "Bladel",
+        "it:t": "Paesi Bassi",
+        "es": "Bladel",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Bladel",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Bloemendaal",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 52.4049,
+            "lon": 4.6202
+        },
+        "it": "Bloemendaal",
+        "it:t": "Paesi Bassi",
+        "es": "Bloemendaal",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Bloemendaal",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Bodegraven",
+        "en:t": "Netherlands | Bodegraven-Reeuwijk",
+        "a": true,
+        "g": {
+            "lat": 52.0823,
+            "lon": 4.7461
+        },
+        "it": "Bodegraven",
+        "it:t": "Paesi Bassi | Bodegraven-Reeuwijk",
+        "es": "Bodegraven",
+        "es:t": "Pa\u00edses Bajos | Bodegraven-Reeuwijk",
+        "de": "Bodegraven",
+        "de:t": "Niederlande | Bodegraven-Reeuwijk"
+    },
+    {
+        "en": "Borger",
+        "en:t": "Netherlands | Borger-Odoorn",
+        "a": true,
+        "g": {
+            "lat": 52.9296,
+            "lon": 6.7926
+        },
+        "it": "Borger",
+        "it:t": "Paesi Bassi | Borger-Odoorn",
+        "es": "Borger",
+        "es:t": "Pa\u00edses Bajos | Borger-Odoorn",
+        "de": "Borger",
+        "de:t": "Niederlande | Borger-Odoorn"
+    },
+    {
+        "en": "Born",
+        "en:t": "Netherlands | Sittard-Geleen",
+        "a": true,
+        "g": {
+            "lat": 51.034,
+            "lon": 5.811
+        },
+        "it": "Born",
+        "it:t": "Paesi Bassi | Sittard-Geleen",
+        "es": "Born",
+        "es:t": "Pa\u00edses Bajos | Sittard-Geleen",
+        "de": "Born",
+        "de:t": "Niederlande | Sittard-Geleen"
+    },
+    {
+        "en": "Borne",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 52.3002,
+            "lon": 6.7537
+        },
+        "it": "Borne",
+        "it:t": "Paesi Bassi",
+        "es": "Borne",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Borne",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Borssele",
+        "en:t": "Netherlands | Borsele",
+        "a": true,
+        "g": {
+            "lat": 51.4257,
+            "lon": 3.7337
+        },
+        "it": "Borssele",
+        "it:t": "Paesi Bassi | Borsele",
+        "es": "Borssele",
+        "es:t": "Pa\u00edses Bajos | Borsele",
+        "de": "Borssele",
+        "de:t": "Niederlande | Borsele"
+    },
+    {
+        "en": "Boskoop",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 52.0743,
+            "lon": 4.6585
+        },
+        "it": "Boskoop",
+        "it:t": "Paesi Bassi",
+        "es": "Boskoop",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Boskoop",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Boxtel",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 51.6014,
+            "lon": 5.3122
+        },
+        "it": "Boxtel",
+        "it:t": "Paesi Bassi",
+        "es": "Boxtel",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Boxtel",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Breda",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 51.5719,
+            "lon": 4.7683
+        },
+        "it": "Breda",
+        "it:t": "Paesi Bassi",
+        "es": "Breda",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Breda",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Broek in Waterland",
+        "en:t": "Netherlands | Waterland",
+        "a": true,
+        "g": {
+            "lat": 52.4358,
+            "lon": 4.9913
+        },
+        "it": "Broek in Waterland",
+        "it:t": "Paesi Bassi | Waterland",
+        "es": "Broek in Waterland",
+        "es:t": "Pa\u00edses Bajos | Waterland",
+        "de": "Broek in Waterland",
+        "de:t": "Niederlande | Waterland"
+    },
+    {
+        "en": "Broek op Langedijk",
+        "en:t": "Netherlands | Langedijk",
+        "a": true,
+        "g": {
+            "lat": 52.6741,
+            "lon": 4.8058
+        },
+        "it": "Broek op Langedijk",
+        "it:t": "Paesi Bassi | Langedijk",
+        "es": "Broek op Langedijk",
+        "es:t": "Pa\u00edses Bajos | Langedijk",
+        "de": "Broek op Langedijk",
+        "de:t": "Niederlande | Langedijk"
+    },
+    {
+        "en": "Brummen",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 52.0902,
+            "lon": 6.158
+        },
+        "it": "Brummen",
+        "it:t": "Paesi Bassi",
+        "es": "Brummen",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Brummen",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Brunssum",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 50.9489,
+            "lon": 5.9722
+        },
+        "it": "Brunssum",
+        "it:t": "Paesi Bassi",
+        "es": "Brunssum",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Brunssum",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Bunschoten",
+        "en:t": "Netherlands | Utrecht",
+        "a": true,
+        "g": {
+            "lat": 52.2406,
+            "lon": 5.3671
+        },
+        "it": "Bunschoten",
+        "it:t": "Paesi Bassi | Utrecht",
+        "es": "Bunschoten",
+        "es:t": "Pa\u00edses Bajos | Utrecht",
+        "de": "Bunschoten",
+        "de:t": "Niederlande | Utrecht"
+    },
+    {
+        "en": "Bussum",
+        "en:t": "Netherlands | Gooise Meren",
+        "a": true,
+        "g": {
+            "lat": 52.2738,
+            "lon": 5.1664
+        },
+        "it": "Bussum",
+        "it:t": "Paesi Bassi | Gooise Meren",
+        "es": "Bussum",
+        "es:t": "Pa\u00edses Bajos | Gooise Meren",
+        "de": "Bussum",
+        "de:t": "Niederlande | Gooise Meren"
+    },
+    {
+        "en": "Capelle aan den IJssel",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 51.9302,
+            "lon": 4.5777
+        },
+        "it": "Capelle aan den IJssel",
+        "it:t": "Paesi Bassi",
+        "es": "Capelle aan den IJssel",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Capelle aan den IJssel",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Castricum",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 52.5453,
+            "lon": 4.6727
+        },
+        "it": "Castricum",
+        "it:t": "Paesi Bassi",
+        "es": "Castricum",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Castricum",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Cranendonck",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 51.3041,
+            "lon": 5.5897
+        },
+        "it": "Cranendonck",
+        "it:t": "Paesi Bassi",
+        "es": "Cranendonck",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Cranendonck",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Cuijk",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 51.7289,
+            "lon": 5.8792
+        },
+        "it": "Cuijk",
+        "it:t": "Paesi Bassi",
+        "es": "Cuijk",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Cuijk",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Culemborg",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 51.9561,
+            "lon": 5.24
+        },
+        "it": "Culemborg",
+        "it:t": "Paesi Bassi",
+        "es": "Culemborg",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Culemborg",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Dalfsen",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 52.5078,
+            "lon": 6.2597
+        },
+        "it": "Dalfsen",
+        "it:t": "Paesi Bassi",
+        "es": "Dalfsen",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Dalfsen",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "De Bilt",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 52.1093,
+            "lon": 5.181
+        },
+        "it": "De Bilt",
+        "it:t": "Paesi Bassi",
+        "es": "De Bilt",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "De Bilt",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Delfshaven",
+        "en:t": "Netherlands | Rotterdam",
+        "a": true,
+        "g": {
+            "lat": 51.9049,
+            "lon": 4.454
+        },
+        "it": "Delfshaven",
+        "it:t": "Paesi Bassi | Rotterdam",
+        "es": "Delfshaven",
+        "es:t": "Pa\u00edses Bajos | R\u00f3terdam",
+        "de": "Delfshaven",
+        "de:t": "Niederlande | Rotterdam"
+    },
+    {
+        "en": "Delft",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 52.0116,
+            "lon": 4.3571
+        },
+        "it": "Delft",
+        "it:t": "Paesi Bassi",
+        "es": "Delft",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Delft",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Delfzijl",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 53.331,
+            "lon": 6.9245
+        },
+        "it": "Delfzijl",
+        "it:t": "Paesi Bassi",
+        "es": "Delfzijl",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Delfzijl",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Den Helder",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 52.9563,
+            "lon": 4.7608
+        },
+        "it": "Den Helder",
+        "it:t": "Paesi Bassi",
+        "es": "Den Helder",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Den Helder",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Deventer",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 52.2661,
+            "lon": 6.1552
+        },
+        "it": "Deventer",
+        "it:t": "Paesi Bassi",
+        "es": "Deventer",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Deventer",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Diemen",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 52.339,
+            "lon": 4.9592
+        },
+        "it": "Diemen",
+        "it:t": "Paesi Bassi",
+        "es": "Diemen",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Diemen",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Doetinchem",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 51.9647,
+            "lon": 6.2938
+        },
+        "it": "Doetinchem",
+        "it:t": "Paesi Bassi",
+        "es": "Doetinchem",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Doetinchem",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Dongen",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 51.6287,
+            "lon": 4.9382
+        },
+        "it": "Dongen",
+        "it:t": "Paesi Bassi",
+        "es": "Dongen",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Dongen",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Dordrecht",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 51.8133,
+            "lon": 4.6901
+        },
+        "it": "Dordrecht",
+        "it:t": "Paesi Bassi",
+        "es": "Dordrecht",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Dordrecht",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Drachten",
+        "en:t": "Netherlands | Smallingerland",
+        "a": true,
+        "g": {
+            "lat": 53.0926,
+            "lon": 6.0586
+        },
+        "it": "Drachten",
+        "it:t": "Paesi Bassi | Smallingerland",
+        "es": "Drachten",
+        "es:t": "Pa\u00edses Bajos | Smallingerland",
+        "de": "Drachten",
+        "de:t": "Niederlande | Smallingerland"
+    },
+    {
+        "en": "Driebergen-Rijsenburg",
+        "en:t": "Netherlands | Utrechtse Heuvelrug",
+        "a": true,
+        "g": {
+            "lat": 52.0539,
+            "lon": 5.2793
+        },
+        "it": "Driebergen-Rijsenburg",
+        "it:t": "Paesi Bassi | Utrechtse Heuvelrug",
+        "es": "Driebergen-Rijsenburg",
+        "es:t": "Pa\u00edses Bajos | Utrechtse Heuvelrug",
+        "de": "Driebergen-Rijsenburg",
+        "de:t": "Niederlande | Utrechtse Heuvelrug"
+    },
+    {
+        "en": "Drimmelen",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 51.7086,
+            "lon": 4.8035
+        },
+        "it": "Drimmelen",
+        "it:t": "Paesi Bassi",
+        "es": "Drimmelen",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Drimmelen",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Dronten",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 52.5347,
+            "lon": 5.7218
+        },
+        "it": "Dronten",
+        "it:t": "Paesi Bassi",
+        "es": "Dronten",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Dronten",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Druten",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 51.8941,
+            "lon": 5.5943
+        },
+        "it": "Druten",
+        "it:t": "Paesi Bassi",
+        "es": "Druten",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Druten",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Duiven",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 51.9475,
+            "lon": 6.0179
+        },
+        "it": "Duiven",
+        "it:t": "Paesi Bassi",
+        "es": "Duiven",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Duiven",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Ede",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 52.0402,
+            "lon": 5.6649
+        },
+        "it": "Ede",
+        "it:t": "Paesi Bassi",
+        "es": "Ede",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Ede",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Eersel",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 51.3578,
+            "lon": 5.3159
+        },
+        "it": "Eersel",
+        "it:t": "Paesi Bassi",
+        "es": "Eersel",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Eersel",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Eibergen",
+        "en:t": "Netherlands | Berkelland",
+        "a": true,
+        "g": {
+            "lat": 52.1,
+            "lon": 6.6612
+        },
+        "it": "Eibergen",
+        "it:t": "Paesi Bassi | Berkelland",
+        "es": "Eibergen",
+        "es:t": "Pa\u00edses Bajos | Berkelland",
+        "de": "Eibergen",
+        "de:t": "Niederlande | Berkelland"
+    },
+    {
+        "en": "Eindhoven",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 51.4416,
+            "lon": 5.4697
+        },
+        "it": "Eindhoven",
+        "it:t": "Paesi Bassi",
+        "es": "Eindhoven",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Eindhoven",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Elburg",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 52.4493,
+            "lon": 5.8345
+        },
+        "it": "Elburg",
+        "it:t": "Paesi Bassi",
+        "es": "Elburg",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Elburg",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Elst",
+        "en:t": "Netherlands | Overbetuwe",
+        "a": true,
+        "g": {
+            "lat": 51.9193,
+            "lon": 5.8474
+        },
+        "it": "Elst",
+        "it:t": "Paesi Bassi | Overbetuwe",
+        "es": "Elst",
+        "es:t": "Pa\u00edses Bajos | Overbetuwe",
+        "de": "Elst",
+        "de:t": "Niederlande | Overbetuwe"
+    },
+    {
+        "en": "Emmeloord",
+        "en:t": "Netherlands | Noordoostpolder",
+        "a": true,
+        "g": {
+            "lat": 52.7121,
+            "lon": 5.755
+        },
+        "it": "Emmeloord",
+        "it:t": "Paesi Bassi | Noordoostpolder",
+        "es": "Emmeloord",
+        "es:t": "Pa\u00edses Bajos | Noordoostpolder",
+        "de": "Emmeloord",
+        "de:t": "Niederlande | Noordoostpolder"
+    },
+    {
+        "en": "Emmen",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 52.7132,
+            "lon": 6.9558
+        },
+        "it": "Emmen",
+        "it:t": "Paesi Bassi",
+        "es": "Emmen",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Emmen",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Enkhuizen",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 52.7076,
+            "lon": 5.2741
+        },
+        "it": "Enkhuizen",
+        "it:t": "Paesi Bassi",
+        "es": "Enkhuizen",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Enkhuizen",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Enschede",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 52.2215,
+            "lon": 6.8937
+        },
+        "it": "Enschede",
+        "it:t": "Paesi Bassi",
+        "es": "Enschede",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Enschede",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Epe",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 52.345,
+            "lon": 5.9837
+        },
+        "it": "Epe",
+        "it:t": "Paesi Bassi",
+        "es": "Epe",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Epe",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Ermelo",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 52.2987,
+            "lon": 5.6296
+        },
+        "it": "Ermelo",
+        "it:t": "Paesi Bassi",
+        "es": "Ermelo",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Ermelo",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Geertruidenberg",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 51.7024,
+            "lon": 4.85
+        },
+        "it": "Geertruidenberg",
+        "it:t": "Paesi Bassi",
+        "es": "Geertruidenberg",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Geertruidenberg",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Geldermalsen",
+        "en:t": "Netherlands | West Betuwe",
+        "a": true,
+        "g": {
+            "lat": 51.882,
+            "lon": 5.2911
+        },
+        "it": "Geldermalsen",
+        "it:t": "Paesi Bassi | West Betuwe",
+        "es": "Geldermalsen",
+        "es:t": "Pa\u00edses Bajos | West Betuwe",
+        "de": "Geldermalsen",
+        "de:t": "Niederlande | West Betuwe"
+    },
+    {
+        "en": "Geldrop",
+        "en:t": "Netherlands | Geldrop-Mierlo",
+        "a": true,
+        "g": {
+            "lat": 51.4229,
+            "lon": 5.5571
+        },
+        "it": "Geldrop",
+        "it:t": "Paesi Bassi | Geldrop-Mierlo",
+        "es": "Geldrop",
+        "es:t": "Pa\u00edses Bajos | Geldrop-Mierlo",
+        "de": "Geldrop",
+        "de:t": "Niederlande | Geldrop-Mierlo"
+    },
+    {
+        "en": "Gendringen",
+        "en:t": "Netherlands | Oude IJsselstreek",
+        "a": true,
+        "g": {
+            "lat": 51.8733,
+            "lon": 6.3773
+        },
+        "it": "Gendringen",
+        "it:t": "Paesi Bassi | Oude IJsselstreek",
+        "es": "Gendringen",
+        "es:t": "Pa\u00edses Bajos | Oude IJsselstreek",
+        "de": "Gendringen",
+        "de:t": "Niederlande | Oude IJsselstreek"
+    },
+    {
+        "en": "Gennep",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 51.6979,
+            "lon": 5.9727
+        },
+        "it": "Gennep",
+        "it:t": "Paesi Bassi",
+        "es": "Gennep",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Gennep",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Goes",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 51.5046,
+            "lon": 3.8911
+        },
+        "it": "Goes",
+        "it:t": "Paesi Bassi",
+        "es": "Goes",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Goes",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Goirle",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 51.5237,
+            "lon": 5.0642
+        },
+        "it": "Goirle",
+        "it:t": "Paesi Bassi",
+        "es": "Goirle",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Goirle",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Gorinchem",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 51.8372,
+            "lon": 4.9758
+        },
+        "it": "Gorinchem",
+        "it:t": "Paesi Bassi",
+        "es": "Gorcum",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Gorinchem",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Gouda",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 52.0115,
+            "lon": 4.7105
+        },
+        "it": "Gouda",
+        "it:t": "Paesi Bassi",
+        "es": "Gouda",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Gouda",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Groesbeek",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 51.7784,
+            "lon": 5.9348
+        },
+        "it": "Groesbeek",
+        "it:t": "Paesi Bassi",
+        "es": "Groesbeek",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Groesbeek",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Groningen",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 53.2194,
+            "lon": 6.5665
+        },
+        "it": "Groninga",
+        "it:t": "Paesi Bassi",
+        "es": "Groninga",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Groningen",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Haaksbergen",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 52.1582,
+            "lon": 6.7473
+        },
+        "it": "Haaksbergen",
+        "it:t": "Paesi Bassi",
+        "es": "Haaksbergen",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Haaksbergen",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Haarlem",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 52.3874,
+            "lon": 4.6462
+        },
+        "it": "Haarlem",
+        "it:t": "Paesi Bassi",
+        "es": "Haarlem",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Haarlem",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Hardenberg",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 52.5754,
+            "lon": 6.6167
+        },
+        "it": "Hardenberg",
+        "it:t": "Paesi Bassi",
+        "es": "Hardenberg",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Hardenberg",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Harderwijk",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 52.3422,
+            "lon": 5.6367
+        },
+        "it": "Harderwijk",
+        "it:t": "Paesi Bassi",
+        "es": "Harderwijk",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Harderwijk",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Haren",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 53.1718,
+            "lon": 6.6052
+        },
+        "it": "Haren",
+        "it:t": "Paesi Bassi",
+        "es": "Haren",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Haren",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Harlingen",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 53.1746,
+            "lon": 5.4252
+        },
+        "it": "Harlingen",
+        "it:t": "Paesi Bassi",
+        "es": "Harlingen",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Harlingen",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Heemskerk",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 52.5141,
+            "lon": 4.6821
+        },
+        "it": "Heemskerk",
+        "it:t": "Paesi Bassi",
+        "es": "Heemskerk",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Heemskerk",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Heemstede",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 52.3511,
+            "lon": 4.6203
+        },
+        "it": "Heemstede",
+        "it:t": "Paesi Bassi",
+        "es": "Heemstede",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Heemstede",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Heerde",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 52.3909,
+            "lon": 6.0496
+        },
+        "it": "Heerde",
+        "it:t": "Paesi Bassi",
+        "es": "Heerde",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Heerde",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Heerenveen",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 52.9606,
+            "lon": 5.9205
+        },
+        "it": "Heerenveen",
+        "it:t": "Paesi Bassi",
+        "es": "Heerenveen",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Heerenveen",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Heerhugowaard",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 52.6627,
+            "lon": 4.8325
+        },
+        "it": "Heerhugowaard",
+        "it:t": "Paesi Bassi",
+        "es": "Heerhugowaard",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Heerhugowaard",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Heerlen",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 50.8882,
+            "lon": 5.9795
+        },
+        "it": "Heerlen",
+        "it:t": "Paesi Bassi",
+        "es": "Heerlen",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Heerlen",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Heesch",
+        "en:t": "Netherlands | Bernheze",
+        "a": true,
+        "g": {
+            "lat": 51.7317,
+            "lon": 5.5278
+        },
+        "it": "Heesch",
+        "it:t": "Paesi Bassi | Bernheze",
+        "es": "Heesch",
+        "es:t": "Pa\u00edses Bajos | Bernheze",
+        "de": "Heesch",
+        "de:t": "Niederlande | Bernheze"
+    },
+    {
+        "en": "Heiloo",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 52.6012,
+            "lon": 4.7005
+        },
+        "it": "Heiloo",
+        "it:t": "Paesi Bassi",
+        "es": "Heiloo",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Heiloo",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Hellevoetsluis",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 51.8319,
+            "lon": 4.1318
+        },
+        "it": "Hellevoetsluis",
+        "it:t": "Paesi Bassi",
+        "es": "Hellevoetsluis",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Hellevoetsluis",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Helmond",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 51.4793,
+            "lon": 5.657
+        },
+        "it": "Helmond",
+        "it:t": "Paesi Bassi",
+        "es": "Helmond",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Helmond",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Hendrik-Ido-Ambacht",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 51.8424,
+            "lon": 4.6395
+        },
+        "it": "Hendrik-Ido-Ambacht",
+        "it:t": "Paesi Bassi",
+        "es": "Hendrik-Ido-Ambacht",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Hendrik-Ido-Ambacht",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Hengelo",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 52.2574,
+            "lon": 6.7928
+        },
+        "it": "Hengelo",
+        "it:t": "Paesi Bassi",
+        "es": "Hengelo",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Hengelo",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Heusden",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 51.7286,
+            "lon": 5.1609
+        },
+        "it": "Heusden",
+        "it:t": "Paesi Bassi",
+        "es": "Heusden",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Heusden",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Hillegom",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 52.2956,
+            "lon": 4.5792
+        },
+        "it": "Hillegom",
+        "it:t": "Paesi Bassi",
+        "es": "Hillegom",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Hillegom",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Hilvarenbeek",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 51.4857,
+            "lon": 5.1384
+        },
+        "it": "Hilvarenbeek",
+        "it:t": "Paesi Bassi",
+        "es": "Hilvarenbeek",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Hilvarenbeek",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Hilversum",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 52.2292,
+            "lon": 5.1669
+        },
+        "it": "Hilversum",
+        "it:t": "Paesi Bassi",
+        "es": "Hilversum",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Hilversum",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Hoensbroek",
+        "en:t": "Netherlands | Heerlen",
+        "a": true,
+        "g": {
+            "lat": 50.9201,
+            "lon": 5.9245
+        },
+        "it": "Hoensbroek",
+        "it:t": "Paesi Bassi | Heerlen",
+        "es": "Hoensbroek",
+        "es:t": "Pa\u00edses Bajos | Heerlen",
+        "de": "Hoensbroek",
+        "de:t": "Niederlande | Heerlen"
+    },
+    {
+        "en": "Hoge Vucht",
+        "en:t": "Netherlands | Breda",
+        "a": true,
+        "g": {
+            "lat": 51.6086,
+            "lon": 4.7894
+        },
+        "it": "Hoge Vucht",
+        "it:t": "Paesi Bassi | Breda",
+        "es": "Hoge Vucht",
+        "es:t": "Pa\u00edses Bajos | Breda",
+        "de": "Hoge Vucht",
+        "de:t": "Niederlande | Breda"
+    },
+    {
+        "en": "Hoofddorp",
+        "en:t": "Netherlands | Haarlemmermeer",
+        "a": true,
+        "g": {
+            "lat": 52.3061,
+            "lon": 4.6907
+        },
+        "it": "Hoofddorp",
+        "it:t": "Paesi Bassi | Haarlemmermeer",
+        "es": "Hoofddorp",
+        "es:t": "Pa\u00edses Bajos | Haarlemmermeer",
+        "de": "Hoofddorp",
+        "de:t": "Niederlande | Haarlemmermeer"
+    },
+    {
+        "en": "Hoogeveen",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 52.7286,
+            "lon": 6.4901
+        },
+        "it": "Hoogeveen",
+        "it:t": "Paesi Bassi",
+        "es": "Hoogeveen",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Hoogeveen",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Hoogezand",
+        "en:t": "Netherlands | Midden-Groningen",
+        "a": true,
+        "g": {
+            "lat": 53.1635,
+            "lon": 6.7563
+        },
+        "it": "Hoogezand",
+        "it:t": "Paesi Bassi | Midden-Groningen",
+        "es": "Hoogezand",
+        "es:t": "Pa\u00edses Bajos | Midden-Groningen",
+        "de": "Hoogezand",
+        "de:t": "Niederlande | Midden-Groningen"
+    },
+    {
+        "en": "Hoorn",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 52.6424,
+            "lon": 5.0602
+        },
+        "it": "Hoorn",
+        "it:t": "Paesi Bassi",
+        "es": "Hoorn",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Hoorn",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Horst",
+        "en:t": "Netherlands | Ermelo",
+        "a": true,
+        "g": {
+            "lat": 52.3088,
+            "lon": 5.5824
+        },
+        "it": "Horst",
+        "it:t": "Paesi Bassi | Ermelo",
+        "es": "Horst",
+        "es:t": "Pa\u00edses Bajos | Ermelo",
+        "de": "Horst",
+        "de:t": "Niederlande | Ermelo"
+    },
+    {
+        "en": "Houten",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 52.0278,
+            "lon": 5.163
+        },
+        "it": "Houten",
+        "it:t": "Paesi Bassi",
+        "es": "Houten",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Houten",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Huizen",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 52.2995,
+            "lon": 5.2434
+        },
+        "it": "Huizen",
+        "it:t": "Paesi Bassi",
+        "es": "Huizen",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Huizen",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "IJsselstein",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 52.0178,
+            "lon": 5.0403
+        },
+        "it": "IJsselstein",
+        "it:t": "Paesi Bassi",
+        "es": "IJsselstein",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "IJsselstein",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Kampen",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 52.558,
+            "lon": 5.9145
+        },
+        "it": "Kampen",
+        "it:t": "Paesi Bassi",
+        "es": "Kampen",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Kampen",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Katwijk aan Zee",
+        "en:t": "Netherlands | Katwijk",
+        "a": true,
+        "g": {
+            "lat": 52.1993,
+            "lon": 4.4114
+        },
+        "it": "Katwijk aan Zee",
+        "it:t": "Paesi Bassi | Katwijk",
+        "es": "Katwijk aan Zee",
+        "es:t": "Pa\u00edses Bajos | Katwijk",
+        "de": "Katwijk aan Zee",
+        "de:t": "Niederlande | Katwijk"
+    },
+    {
+        "en": "Kerkrade",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 50.8659,
+            "lon": 6.0705
+        },
+        "it": "Kerkrade",
+        "it:t": "Paesi Bassi",
+        "es": "Kerkrade",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Kerkrade",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Krimpen aan den IJssel",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 51.9144,
+            "lon": 4.5962
+        },
+        "it": "Krimpen aan den IJssel",
+        "it:t": "Paesi Bassi",
+        "es": "Krimpen aan den IJssel",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Krimpen aan den IJssel",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Leek",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 53.1616,
+            "lon": 6.3906
+        },
+        "it": "Leek",
+        "it:t": "Paesi Bassi",
+        "es": "Leek",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Leek",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Leerdam",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 51.8943,
+            "lon": 5.0969
+        },
+        "it": "Leerdam",
+        "it:t": "Paesi Bassi",
+        "es": "Leerdam",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Leerdam",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Leeuwarden",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 53.2012,
+            "lon": 5.7999
+        },
+        "it": "Leeuwarden",
+        "it:t": "Paesi Bassi",
+        "es": "Leeuwarden",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Leeuwarden",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Leiden",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 52.1601,
+            "lon": 4.497
+        },
+        "it": "Leida",
+        "it:t": "Paesi Bassi",
+        "es": "Leiden",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Leiden",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Leiderdorp",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 52.151,
+            "lon": 4.5282
+        },
+        "it": "Leiderdorp",
+        "it:t": "Paesi Bassi",
+        "es": "Leiderdorp",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Leiderdorp",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Leidschenveen-Ypenburg",
+        "en:t": "Netherlands | The Hague",
+        "a": true,
+        "g": {
+            "lat": 52.0428,
+            "lon": 4.3641
+        },
+        "it": "Leidschenveen-Ypenburg",
+        "it:t": "Paesi Bassi | L'Aia",
+        "es": "Leidschenveen-Ypenburg",
+        "es:t": "Pa\u00edses Bajos | La Haya",
+        "de": "Leidschenveen-Ypenburg",
+        "de:t": "Niederlande | The Hague"
+    },
+    {
+        "en": "Lelystad",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 52.5185,
+            "lon": 5.4714
+        },
+        "it": "Lelystad",
+        "it:t": "Paesi Bassi",
+        "es": "Lelystad",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Lelystad",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Leusden",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 52.1318,
+            "lon": 5.4295
+        },
+        "it": "Leusden",
+        "it:t": "Paesi Bassi",
+        "es": "Leusden",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Leusden",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Lichtenvoorde",
+        "en:t": "Netherlands | Oost Gelre",
+        "a": true,
+        "g": {
+            "lat": 51.9874,
+            "lon": 6.5693
+        },
+        "it": "Lichtenvoorde",
+        "it:t": "Paesi Bassi | Oost Gelre",
+        "es": "Lichtenvoorde",
+        "es:t": "Pa\u00edses Bajos | Oost Gelre",
+        "de": "Lichtenvoorde",
+        "de:t": "Niederlande | Oost Gelre"
+    },
+    {
+        "en": "Lindenholt",
+        "en:t": "Netherlands | Nijmegen",
+        "a": true,
+        "g": {
+            "lat": 51.8331,
+            "lon": 5.7915
+        },
+        "it": "Lindenholt",
+        "it:t": "Paesi Bassi | Nijmegen",
+        "es": "Lindenholt",
+        "es:t": "Pa\u00edses Bajos | Nijmegen",
+        "de": "Lindenholt",
+        "de:t": "Niederlande | Nijmegen"
+    },
+    {
+        "en": "Lisse",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 52.2579,
+            "lon": 4.5575
+        },
+        "it": "Lisse",
+        "it:t": "Paesi Bassi",
+        "es": "Lisse",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Lisse",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Loon op Zand",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 51.627,
+            "lon": 5.072
+        },
+        "it": "Loon op Zand",
+        "it:t": "Paesi Bassi",
+        "es": "Loon op Zand",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Loon op Zand",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Losser",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 52.2629,
+            "lon": 7.0058
+        },
+        "it": "Losser",
+        "it:t": "Paesi Bassi",
+        "es": "Losser",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Losser",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Maarssen",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 52.1319,
+            "lon": 5.0171
+        },
+        "it": "Maarssen",
+        "it:t": "Paesi Bassi",
+        "es": "Maarssen",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Maarssen",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Maassluis",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 51.9226,
+            "lon": 4.2546
+        },
+        "it": "Maassluis",
+        "it:t": "Paesi Bassi",
+        "es": "Maassluis",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Maassluis",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Maastricht",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 50.8514,
+            "lon": 5.691
+        },
+        "it": "Maastricht",
+        "it:t": "Paesi Bassi",
+        "es": "Maastricht",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Maastricht",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Medemblik",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 52.7674,
+            "lon": 5.1069
+        },
+        "it": "Medemblik",
+        "it:t": "Paesi Bassi",
+        "es": "Medemblik",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Medemblik",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Meerssen",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 50.8849,
+            "lon": 5.7526
+        },
+        "it": "Meerssen",
+        "it:t": "Paesi Bassi",
+        "es": "Meerssen",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Meerssen",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Meppel",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 52.6921,
+            "lon": 6.1937
+        },
+        "it": "Meppel",
+        "it:t": "Paesi Bassi",
+        "es": "Meppel",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Meppel",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Middelburg",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 51.4988,
+            "lon": 3.611
+        },
+        "it": "Middelburg",
+        "it:t": "Paesi Bassi",
+        "es": "Middelburg",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Middelburg",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Middelharnis",
+        "en:t": "Netherlands | Goeree-Overflakkee",
+        "a": true,
+        "g": {
+            "lat": 51.7533,
+            "lon": 4.1647
+        },
+        "it": "Middelharnis",
+        "it:t": "Paesi Bassi | Goeree-Overflakkee",
+        "es": "Middelharnis",
+        "es:t": "Pa\u00edses Bajos | Goeree-Overflakkee",
+        "de": "Middelharnis",
+        "de:t": "Niederlande | Goeree-Overflakkee"
+    },
+    {
+        "en": "Mijdrecht",
+        "en:t": "Netherlands | Ronde Venen",
+        "a": true,
+        "g": {
+            "lat": 52.205,
+            "lon": 4.8809
+        },
+        "it": "Mijdrecht",
+        "it:t": "Paesi Bassi | Ronde Venen",
+        "es": "Mijdrecht",
+        "es:t": "Pa\u00edses Bajos | Ronde Venen",
+        "de": "Mijdrecht",
+        "de:t": "Niederlande | Ronde Venen"
+    },
+    {
+        "en": "Naaldwijk",
+        "en:t": "Netherlands | Westland",
+        "a": true,
+        "g": {
+            "lat": 51.9924,
+            "lon": 4.208
+        },
+        "it": "Naaldwijk",
+        "it:t": "Paesi Bassi | Westland",
+        "es": "Naaldwijk",
+        "es:t": "Pa\u00edses Bajos | Westland",
+        "de": "Naaldwijk",
+        "de:t": "Niederlande | Westland"
+    },
+    {
+        "en": "Naarden",
+        "en:t": "Netherlands | Gooise Meren",
+        "a": true,
+        "g": {
+            "lat": 52.2953,
+            "lon": 5.1604
+        },
+        "it": "Naarden",
+        "it:t": "Paesi Bassi | Gooise Meren",
+        "es": "Naarden",
+        "es:t": "Pa\u00edses Bajos | Gooise Meren",
+        "de": "Naarden",
+        "de:t": "Niederlande | Gooise Meren"
+    },
+    {
+        "en": "Nederweert",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 51.2866,
+            "lon": 5.7527
+        },
+        "it": "Nederweert",
+        "it:t": "Paesi Bassi",
+        "es": "Nederweert",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Nederweert",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Nieuwegein",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 52.0248,
+            "lon": 5.0918
+        },
+        "it": "Nieuwegein",
+        "it:t": "Paesi Bassi",
+        "es": "Nieuwegein",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Nieuwegein",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Nijkerk",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 52.2225,
+            "lon": 5.4836
+        },
+        "it": "Nijkerk",
+        "it:t": "Paesi Bassi",
+        "es": "Nijkerk",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Nijkerk",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Nijmegen",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 51.8126,
+            "lon": 5.8372
+        },
+        "it": "Nijmegen",
+        "it:t": "Paesi Bassi",
+        "es": "Nijmegen",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Nijmegen",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Noordwijk",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 52.24,
+            "lon": 4.45
+        },
+        "it": "Noordwijk",
+        "it:t": "Paesi Bassi",
+        "es": "Noordwijk",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Noordwijk",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Noordwijkerhout",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 52.2602,
+            "lon": 4.4956
+        },
+        "it": "Noordwijkerhout",
+        "it:t": "Paesi Bassi",
+        "es": "Noordwijkerhout",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Noordwijkerhout",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Nuenen",
+        "en:t": "Netherlands | Nuenen, Gerwen en Nederwetten",
+        "a": true,
+        "g": {
+            "lat": 51.4687,
+            "lon": 5.5556
+        },
+        "it": "Nuenen",
+        "it:t": "Paesi Bassi | Nuenen, Gerwen en Nederwetten",
+        "es": "Nuenen",
+        "es:t": "Pa\u00edses Bajos | Nuenen, Gerwen en Nederwetten",
+        "de": "Nuenen",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Nunspeet",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 52.3748,
+            "lon": 5.7699
+        },
+        "it": "Nunspeet",
+        "it:t": "Paesi Bassi",
+        "es": "Nunspeet",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Nunspeet",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Nuth",
+        "en:t": "Netherlands | Baekdale",
+        "a": true,
+        "g": {
+            "lat": 50.9114,
+            "lon": 5.8926
+        },
+        "it": "Nuth",
+        "it:t": "Paesi Bassi | Baekdale",
+        "es": "Nuth",
+        "es:t": "Pa\u00edses Bajos | Baekdale",
+        "de": "Nuth",
+        "de:t": "Niederlande | Baekdale"
+    },
+    {
+        "en": "Oegstgeest",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 52.1862,
+            "lon": 4.4748
+        },
+        "it": "Oegstgeest",
+        "it:t": "Paesi Bassi",
+        "es": "Oegstgeest",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Oegstgeest",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Oisterwijk",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 51.5654,
+            "lon": 5.203
+        },
+        "it": "Oisterwijk",
+        "it:t": "Paesi Bassi",
+        "es": "Oisterwijk",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Oisterwijk",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Oldebroek",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 52.4474,
+            "lon": 5.8983
+        },
+        "it": "Oldebroek",
+        "it:t": "Paesi Bassi",
+        "es": "Oldebroek",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Oldebroek",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Oldenzaal",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 52.3117,
+            "lon": 6.9268
+        },
+        "it": "Oldenzaal",
+        "it:t": "Paesi Bassi",
+        "es": "Oldenzaal",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Oldenzaal",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Oosterhout",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 51.641,
+            "lon": 4.8617
+        },
+        "it": "Oosterhout",
+        "it:t": "Paesi Bassi",
+        "es": "Oosterhout",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Oosterhout",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Oss",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 51.7612,
+            "lon": 5.514
+        },
+        "it": "Oss",
+        "it:t": "Paesi Bassi",
+        "es": "Oss",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Oss",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Oud-Beijerland",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 51.8189,
+            "lon": 4.4272
+        },
+        "it": "Oud-Beijerland",
+        "it:t": "Paesi Bassi",
+        "es": "Oud-Beijerland",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Oud-Beijerland",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Papendrecht",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 51.8425,
+            "lon": 4.6942
+        },
+        "it": "Papendrecht",
+        "it:t": "Paesi Bassi",
+        "es": "Papendrecht",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Papendrecht",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Pijnacker",
+        "en:t": "Netherlands | Pijnacker-Nootdorp",
+        "a": true,
+        "g": {
+            "lat": 52.0194,
+            "lon": 4.432
+        },
+        "it": "Pijnacker",
+        "it:t": "Paesi Bassi | Pijnacker-Nootdorp",
+        "es": "Pijnacker",
+        "es:t": "Pa\u00edses Bajos | Pijnacker-Nootdorp",
+        "de": "Pijnacker",
+        "de:t": "Niederlande | Pijnacker-Nootdorp"
+    },
+    {
+        "en": "Purmerend",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 52.5144,
+            "lon": 4.9641
+        },
+        "it": "Purmerend",
+        "it:t": "Paesi Bassi",
+        "es": "Purmerend",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Purmerend",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Putten",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 52.2453,
+            "lon": 5.5685
+        },
+        "it": "Putten",
+        "it:t": "Paesi Bassi",
+        "es": "Putten",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Putten",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Raalte",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 52.3799,
+            "lon": 6.2862
+        },
+        "it": "Raalte",
+        "it:t": "Paesi Bassi",
+        "es": "Raalte",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Raalte",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Rhenen",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 51.9621,
+            "lon": 5.5711
+        },
+        "it": "Rhenen",
+        "it:t": "Paesi Bassi",
+        "es": "Rhenen",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Rhenen",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Rhoon",
+        "en:t": "Netherlands | Albrandswaard",
+        "a": true,
+        "g": {
+            "lat": 51.8564,
+            "lon": 4.4255
+        },
+        "it": "Rhoon",
+        "it:t": "Paesi Bassi | Albrandswaard",
+        "es": "Rhoon",
+        "es:t": "Pa\u00edses Bajos | Albrandswaard",
+        "de": "Rhoon",
+        "de:t": "Niederlande | Albrandswaard"
+    },
+    {
+        "en": "Ridderkerk",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 51.8703,
+            "lon": 4.6022
+        },
+        "it": "Ridderkerk",
+        "it:t": "Paesi Bassi",
+        "es": "Ridderkerk",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Ridderkerk",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Rijswijk",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 52.0377,
+            "lon": 4.322
+        },
+        "it": "Rijswijk",
+        "it:t": "Paesi Bassi",
+        "es": "Rijswijk",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Rijswijk",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Roermond",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 51.1913,
+            "lon": 5.9878
+        },
+        "it": "Roermond",
+        "it:t": "Paesi Bassi",
+        "es": "Roermond",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Roermond",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Roosendaal",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 51.5358,
+            "lon": 4.4653
+        },
+        "it": "Roosendaal",
+        "it:t": "Paesi Bassi",
+        "es": "Roosendaal",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Roosendaal",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Rotterdam",
+        "en:t": "Netherlands | Rotterdam",
+        "a": true,
+        "g": {
+            "lat": 51.9244,
+            "lon": 4.4777
+        },
+        "it": "Rotterdam",
+        "it:t": "Paesi Bassi | Rotterdam",
+        "es": "R\u00f3terdam",
+        "es:t": "Pa\u00edses Bajos | Rotterdam",
+        "de": "Rotterdam",
+        "de:t": "Niederlande | Rotterdam"
+    },
+    {
+        "en": "Rucphen",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 51.5336,
+            "lon": 4.5603
+        },
+        "it": "Rucphen",
+        "it:t": "Paesi Bassi",
+        "es": "Rucphen",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Rucphen",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Schagen",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 52.7881,
+            "lon": 4.8044
+        },
+        "it": "Schagen",
+        "it:t": "Paesi Bassi",
+        "es": "Schagen",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Schagen",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Scheveningen",
+        "en:t": "Netherlands | The Hague",
+        "a": true,
+        "g": {
+            "lat": 52.1024,
+            "lon": 4.3022
+        },
+        "it": "Scheveningen",
+        "it:t": "Paesi Bassi | L'Aia",
+        "es": "Scheveningen",
+        "es:t": "Pa\u00edses Bajos | La Haya",
+        "de": "Scheveningen",
+        "de:t": "Niederlande | Den Haag"
+    },
+    {
+        "en": "Schiedam",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 51.917,
+            "lon": 4.3988
+        },
+        "it": "Schiedam",
+        "it:t": "Paesi Bassi",
+        "es": "Schiedam",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Schiedam",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Schijndel",
+        "en:t": "Netherlands | Meierijstad",
+        "a": true,
+        "g": {
+            "lat": 51.6197,
+            "lon": 5.4335
+        },
+        "it": "Schijndel",
+        "it:t": "Paesi Bassi | Meierijstad",
+        "es": "Schijndel",
+        "es:t": "Pa\u00edses Bajos | Meierijstad",
+        "de": "Schijndel",
+        "de:t": "Niederlande | Meierijstad"
+    },
+    {
+        "en": "Sint-Oedenrode",
+        "en:t": "Netherlands | Meierijstad",
+        "a": true,
+        "g": {
+            "lat": 51.5655,
+            "lon": 5.462
+        },
+        "it": "Sint-Oedenrode",
+        "it:t": "Paesi Bassi | Meierijstad",
+        "es": "Sint-Oedenrode",
+        "es:t": "Pa\u00edses Bajos | Meierijstad",
+        "de": "Sint-Oedenrode",
+        "de:t": "Niederlande | Meierijstad"
+    },
+    {
+        "en": "Sittard",
+        "en:t": "Netherlands | Sittard-Geleen",
+        "a": true,
+        "g": {
+            "lat": 51.0006,
+            "lon": 5.8865
+        },
+        "it": "Sittard",
+        "it:t": "Paesi Bassi | Sittard-Geleen",
+        "es": "Sittard",
+        "es:t": "Pa\u00edses Bajos | Sittard-Geleen",
+        "de": "Sittard",
+        "de:t": "Niederlande | Sittard-Geleen"
+    },
+    {
+        "en": "Sliedrecht",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 51.8249,
+            "lon": 4.7732
+        },
+        "it": "Sliedrecht",
+        "it:t": "Paesi Bassi",
+        "es": "Sliedrecht",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Sliedrecht",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Sneek",
+        "en:t": "Netherlands | S\u00fadwest-Frysl\u00e2n",
+        "a": true,
+        "g": {
+            "lat": 53.0337,
+            "lon": 5.6556
+        },
+        "it": "Sneek",
+        "it:t": "Paesi Bassi | S\u00fadwest-Frysl\u00e2n",
+        "es": "Sneek",
+        "es:t": "Pa\u00edses Bajos | S\u00fadwest-Frysl\u00e2n",
+        "de": "Sneek",
+        "de:t": "Niederlande | S\u00fadwest-Frysl\u00e2n"
+    },
+    {
+        "en": "Soest",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 52.1764,
+            "lon": 5.2992
+        },
+        "it": "Soest",
+        "it:t": "Paesi Bassi",
+        "es": "Soest",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Soest",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Someren",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 51.385,
+            "lon": 5.7124
+        },
+        "it": "Someren",
+        "it:t": "Paesi Bassi",
+        "es": "Someren",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Someren",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Spijkenisse",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 51.8562,
+            "lon": 4.2972
+        },
+        "it": "Spijkenisse",
+        "it:t": "Paesi Bassi",
+        "es": "Spijkenisse",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Spijkenisse",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Stadskanaal",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 52.992,
+            "lon": 6.9462
+        },
+        "it": "Stadskanaal",
+        "it:t": "Paesi Bassi",
+        "es": "Stadskanaal",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Stadskanaal",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Staphorst",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 52.6429,
+            "lon": 6.1995
+        },
+        "it": "Staphorst",
+        "it:t": "Paesi Bassi",
+        "es": "Staphorst",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Staphorst",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Steenbergen",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 51.5812,
+            "lon": 4.3156
+        },
+        "it": "Steenbergen",
+        "it:t": "Paesi Bassi",
+        "es": "Steenbergen",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Steenbergen",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Steenwijk",
+        "en:t": "Netherlands | Steenwijkerland",
+        "a": true,
+        "g": {
+            "lat": 52.7869,
+            "lon": 6.1181
+        },
+        "it": "Steenwijk",
+        "it:t": "Paesi Bassi | Steenwijkerland",
+        "es": "Steenwijk",
+        "es:t": "Pa\u00edses Bajos | Steenwijkerland",
+        "de": "Steenwijk",
+        "de:t": "Niederlande | Steenwijkerland"
+    },
+    {
+        "en": "Tegelen",
+        "en:t": "Netherlands | Venlo",
+        "a": true,
+        "g": {
+            "lat": 51.3437,
+            "lon": 6.1374
+        },
+        "it": "Tegelen",
+        "it:t": "Paesi Bassi | Venlo",
+        "es": "Tegelen",
+        "es:t": "Pa\u00edses Bajos | Venlo",
+        "de": "Tegelen",
+        "de:t": "Niederlande | Venlo"
+    },
+    {
+        "en": "Terborg",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 51.9172,
+            "lon": 6.3565
+        },
+        "it": "Terborg",
+        "it:t": "Paesi Bassi",
+        "es": "Terborg",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Terborg",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Terneuzen",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 51.3323,
+            "lon": 3.8324
+        },
+        "it": "Terneuzen",
+        "it:t": "Paesi Bassi",
+        "es": "Terneuzen",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Terneuzen",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "The Hague",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 52.0705,
+            "lon": 4.3007
+        },
+        "it": "L'Aia",
+        "it:t": "Paesi Bassi",
+        "es": "La Haya",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Den Haag",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Tiel",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 51.8876,
+            "lon": 5.4279
+        },
+        "it": "Tiel",
+        "it:t": "Paesi Bassi",
+        "es": "Tiel",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Tiel",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Tilburg",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 51.5606,
+            "lon": 5.0919
+        },
+        "it": "Tilburg",
+        "it:t": "Paesi Bassi",
+        "es": "Tilburgo",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Tilburg",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Tongelre",
+        "en:t": "Netherlands | Eindhoven",
+        "a": true,
+        "g": {
+            "lat": 51.448,
+            "lon": 5.5184
+        },
+        "it": "Tongelre",
+        "it:t": "Paesi Bassi | Eindhoven",
+        "es": "Tongelre",
+        "es:t": "Pa\u00edses Bajos | Eindhoven",
+        "de": "Tongelre",
+        "de:t": "Niederlande | Eindhoven"
+    },
+    {
+        "en": "Tubbergen",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 52.4089,
+            "lon": 6.7855
+        },
+        "it": "Tubbergen",
+        "it:t": "Paesi Bassi",
+        "es": "Tubbergen",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Tubbergen",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Uden",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 51.6631,
+            "lon": 5.6239
+        },
+        "it": "Uden",
+        "it:t": "Paesi Bassi",
+        "es": "Uden",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Uden",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Uithoorn",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 52.2446,
+            "lon": 4.8317
+        },
+        "it": "Uithoorn",
+        "it:t": "Paesi Bassi",
+        "es": "Uithoorn",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Uithoorn",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Urk",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 52.6631,
+            "lon": 5.5989
+        },
+        "it": "Urk",
+        "it:t": "Paesi Bassi",
+        "es": "Urk",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Urk",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Utrecht",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 52.0907,
+            "lon": 5.1214
+        },
+        "it": "Utrecht",
+        "it:t": "Paesi Bassi",
+        "es": "Utrecht",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Utrecht",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Valkenswaard",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 51.3555,
+            "lon": 5.4533
+        },
+        "it": "Valkenswaard",
+        "it:t": "Paesi Bassi",
+        "es": "Valkenswaard",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Valkenswaard",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Veendam",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 53.1063,
+            "lon": 6.8751
+        },
+        "it": "Veendam",
+        "it:t": "Paesi Bassi",
+        "es": "Veendam",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Veendam",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Veenendaal",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 52.0263,
+            "lon": 5.5544
+        },
+        "it": "Veenendaal",
+        "it:t": "Paesi Bassi",
+        "es": "Veenendaal",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Veenendaal",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Veere",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 51.5483,
+            "lon": 3.666
+        },
+        "it": "Veere",
+        "it:t": "Paesi Bassi",
+        "es": "Veere",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Veere",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Veghel",
+        "en:t": "Netherlands | Meierijstad",
+        "a": true,
+        "g": {
+            "lat": 51.6158,
+            "lon": 5.5392
+        },
+        "it": "Veghel",
+        "it:t": "Paesi Bassi | Meierijstad",
+        "es": "Veghel",
+        "es:t": "Pa\u00edses Bajos | Meierijstad",
+        "de": "Veghel",
+        "de:t": "Niederlande | Meierijstad"
+    },
+    {
+        "en": "Veldhoven",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 51.4176,
+            "lon": 5.406
+        },
+        "it": "Veldhoven",
+        "it:t": "Paesi Bassi",
+        "es": "Veldhoven",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Veldhoven",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Velp",
+        "en:t": "Netherlands | Rheden",
+        "a": true,
+        "g": {
+            "lat": 51.9943,
+            "lon": 5.9777
+        },
+        "it": "Velp",
+        "it:t": "Paesi Bassi | Rheden",
+        "es": "Velp",
+        "es:t": "Pa\u00edses Bajos | Rheden",
+        "de": "Velp",
+        "de:t": "Niederlande | Rheden"
+    },
+    {
+        "en": "Velsen-Zuid",
+        "en:t": "Netherlands | Velsen",
+        "a": true,
+        "g": {
+            "lat": 52.4605,
+            "lon": 4.6519
+        },
+        "it": "Velsen-Zuid",
+        "it:t": "Paesi Bassi | Velsen",
+        "es": "Velsen-Zuid",
+        "es:t": "Pa\u00edses Bajos | Velsen",
+        "de": "Velsen-Zuid",
+        "de:t": "Niederlande | Velsen"
+    },
+    {
+        "en": "Venlo",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 51.3704,
+            "lon": 6.1724
+        },
+        "it": "Venlo",
+        "it:t": "Paesi Bassi",
+        "es": "Venlo",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Venlo",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Venray",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 51.5256,
+            "lon": 5.9737
+        },
+        "it": "Venray",
+        "it:t": "Paesi Bassi",
+        "es": "Venray",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Venray",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Vianen",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 51.9903,
+            "lon": 5.103
+        },
+        "it": "Vianen",
+        "it:t": "Paesi Bassi",
+        "es": "Vianen",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Vianen",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Vlaardingen",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 51.9121,
+            "lon": 4.3494
+        },
+        "it": "Vlaardingen",
+        "it:t": "Paesi Bassi",
+        "es": "Vlaardingen",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Vlaardingen",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Vlagtwedde",
+        "en:t": "Netherlands | Westerwolde",
+        "a": true,
+        "g": {
+            "lat": 53.027,
+            "lon": 7.1108
+        },
+        "it": "Vlagtwedde",
+        "it:t": "Paesi Bassi | Westerwolde",
+        "es": "Vlagtwedde",
+        "es:t": "Pa\u00edses Bajos | Westerwolde",
+        "de": "Vlagtwedde",
+        "de:t": "Niederlande | Westerwolde"
+    },
+    {
+        "en": "Vlissingen",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 51.4537,
+            "lon": 3.5709
+        },
+        "it": "Vlissingen",
+        "it:t": "Paesi Bassi",
+        "es": "Vlissingen",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Vlissingen",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Volendam",
+        "en:t": "Netherlands | Edam-Volendam",
+        "a": true,
+        "g": {
+            "lat": 52.4969,
+            "lon": 5.0727
+        },
+        "it": "Volendam",
+        "it:t": "Paesi Bassi | Edam-Volendam",
+        "es": "Volendam",
+        "es:t": "Pa\u00edses Bajos | Edam-Volendam",
+        "de": "Volendam",
+        "de:t": "Niederlande | Edam-Volendam"
+    },
+    {
+        "en": "Voorburg",
+        "en:t": "Netherlands | Leidschendam-Voorburg",
+        "a": true,
+        "g": {
+            "lat": 52.0762,
+            "lon": 4.3625
+        },
+        "it": "Voorburg",
+        "it:t": "Paesi Bassi | Leidschendam-Voorburg",
+        "es": "Voorburg",
+        "es:t": "Pa\u00edses Bajos | Leidschendam-Voorburg",
+        "de": "Voorburg",
+        "de:t": "Niederlande | Leidschendam-Voorburg"
+    },
+    {
+        "en": "Voorhout",
+        "en:t": "Netherlands | Teylingen",
+        "a": true,
+        "g": {
+            "lat": 52.2223,
+            "lon": 4.4863
+        },
+        "it": "Voorhout",
+        "it:t": "Paesi Bassi | Teylingen",
+        "es": "Voorhout",
+        "es:t": "Pa\u00edses Bajos | Teylingen",
+        "de": "Voorhout",
+        "de:t": "Niederlande | Teylingen"
+    },
+    {
+        "en": "Voorschoten",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 52.1238,
+            "lon": 4.4386
+        },
+        "it": "Voorschoten",
+        "it:t": "Paesi Bassi",
+        "es": "Voorschoten",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Voorschoten",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Voorst",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 52.1689,
+            "lon": 6.1435
+        },
+        "it": "Voorst",
+        "it:t": "Paesi Bassi",
+        "es": "Voorst",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Voorst",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Vught",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 51.6533,
+            "lon": 5.2943
+        },
+        "it": "Vught",
+        "it:t": "Paesi Bassi",
+        "es": "Vught",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Vught",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Waalre",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 51.3878,
+            "lon": 5.4432
+        },
+        "it": "Waalre",
+        "it:t": "Paesi Bassi",
+        "es": "Waalre",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Waalre",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Waalwijk",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 51.6879,
+            "lon": 5.0575
+        },
+        "it": "Waalwijk",
+        "it:t": "Paesi Bassi",
+        "es": "Waalwijk",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Waalwijk",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Waddinxveen",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 52.0313,
+            "lon": 4.6591
+        },
+        "it": "Waddinxveen",
+        "it:t": "Paesi Bassi",
+        "es": "Waddinxveen",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Waddinxveen",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Wageningen",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 51.9692,
+            "lon": 5.6654
+        },
+        "it": "Wageningen",
+        "it:t": "Paesi Bassi",
+        "es": "Wageningen",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Wageningen",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Wassenaar",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 52.1429,
+            "lon": 4.4012
+        },
+        "it": "Wassenaar",
+        "it:t": "Paesi Bassi",
+        "es": "Wassenaar",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Wassenaar",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Weert",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 51.2439,
+            "lon": 5.7142
+        },
+        "it": "Weert",
+        "it:t": "Paesi Bassi",
+        "es": "Weert",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Weert",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Weesp",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 52.3081,
+            "lon": 5.0406
+        },
+        "it": "Weesp",
+        "it:t": "Paesi Bassi",
+        "es": "Weesp",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Weesp",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Werkendam",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 51.8082,
+            "lon": 4.8918
+        },
+        "it": "Werkendam",
+        "it:t": "Paesi Bassi",
+        "es": "Werkendam",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Werkendam",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Westervoort",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 51.9638,
+            "lon": 5.969
+        },
+        "it": "Westervoort",
+        "it:t": "Paesi Bassi",
+        "es": "Westervoort",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Westervoort",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Wierden",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 52.3583,
+            "lon": 6.5939
+        },
+        "it": "Wierden",
+        "it:t": "Paesi Bassi",
+        "es": "Wierden",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Wierden",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Wijchen",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 51.8137,
+            "lon": 5.7529
+        },
+        "it": "Wijchen",
+        "it:t": "Paesi Bassi",
+        "es": "Wijchen",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Wijchen",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Wijk bij Duurstede",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 51.9756,
+            "lon": 5.3384
+        },
+        "it": "Wijk bij Duurstede",
+        "it:t": "Paesi Bassi",
+        "es": "Wijk bij Duurstede",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Wijk bij Duurstede",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Winschoten",
+        "en:t": "Netherlands | Oldambt",
+        "a": true,
+        "g": {
+            "lat": 53.1425,
+            "lon": 7.0368
+        },
+        "it": "Winschoten",
+        "it:t": "Paesi Bassi | Oldambt",
+        "es": "Winschoten",
+        "es:t": "Pa\u00edses Bajos | Oldambt",
+        "de": "Winschoten",
+        "de:t": "Niederlande | Oldambt"
+    },
+    {
+        "en": "Winterswijk",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 51.9713,
+            "lon": 6.7205
+        },
+        "it": "Winterswijk",
+        "it:t": "Paesi Bassi",
+        "es": "Winterswijk",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Winterswijk",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Woensdrecht",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 51.4292,
+            "lon": 4.3047
+        },
+        "it": "Woensdrecht",
+        "it:t": "Paesi Bassi",
+        "es": "Woensdrecht",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Woensdrecht",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Woerden",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 52.0798,
+            "lon": 4.8627
+        },
+        "it": "Woerden",
+        "it:t": "Paesi Bassi",
+        "es": "Woerden",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Woerden",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Wolvega",
+        "en:t": "Netherlands | Weststellingwerf",
+        "a": true,
+        "g": {
+            "lat": 52.8766,
+            "lon": 5.9959
+        },
+        "it": "Wolvega",
+        "it:t": "Paesi Bassi | Weststellingwerf",
+        "es": "Wolvega",
+        "es:t": "Pa\u00edses Bajos | Weststellingwerf",
+        "de": "Wolvega",
+        "de:t": "Niederlande | Weststellingwerf"
+    },
+    {
+        "en": "Zaandam",
+        "en:t": "Netherlands | Zaanstad",
+        "a": true,
+        "g": {
+            "lat": 52.442,
+            "lon": 4.8292
+        },
+        "it": "Zaandam",
+        "it:t": "Paesi Bassi | Zaanstad",
+        "es": "Zaandam",
+        "es:t": "Pa\u00edses Bajos | Zaanstad",
+        "de": "Zaandam",
+        "de:t": "Niederlande | Zaanstad"
+    },
+    {
+        "en": "Zaanstad",
+        "en:t": "Netherlands | North Holland",
+        "a": true,
+        "g": {
+            "lat": 52.458,
+            "lon": 4.751
+        },
+        "it": "Zaanstad",
+        "it:t": "Paesi Bassi | Olanda Settentrionale",
+        "es": "Zaanstad",
+        "es:t": "Pa\u00edses Bajos | Holanda Septentrional",
+        "de": "Zaanstad",
+        "de:t": "Niederlande | Nordholland"
+    },
+    {
+        "en": "Zaltbommel",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 51.8136,
+            "lon": 5.2508
+        },
+        "it": "Zaltbommel",
+        "it:t": "Paesi Bassi",
+        "es": "Zaltbommel",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Zaltbommel",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Zandvoort",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 52.3711,
+            "lon": 4.5334
+        },
+        "it": "Zandvoort",
+        "it:t": "Paesi Bassi",
+        "es": "Zandvoort",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Zandvoort",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Zeewolde",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 52.3311,
+            "lon": 5.5405
+        },
+        "it": "Zeewolde",
+        "it:t": "Paesi Bassi",
+        "es": "Zeewolde",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Zeewolde",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Zeist",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 52.0906,
+            "lon": 5.2333
+        },
+        "it": "Zeist",
+        "it:t": "Paesi Bassi",
+        "es": "Zeist",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Zeist",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Zevenaar",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 51.9294,
+            "lon": 6.077
+        },
+        "it": "Zevenaar",
+        "it:t": "Paesi Bassi",
+        "es": "Zevenaar",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Zevenaar",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Zoetermeer",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 52.0607,
+            "lon": 4.494
+        },
+        "it": "Zoetermeer",
+        "it:t": "Paesi Bassi",
+        "es": "Zoetermeer",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Zoetermeer",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Zundert",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 51.4707,
+            "lon": 4.6624
+        },
+        "it": "Zundert",
+        "it:t": "Paesi Bassi",
+        "es": "Zundert",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Zundert",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Zutphen",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 52.1427,
+            "lon": 6.1961
+        },
+        "it": "Zutphen",
+        "it:t": "Paesi Bassi",
+        "es": "Zutphen",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Zutphen",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Zwijndrecht",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 51.8106,
+            "lon": 4.6273
+        },
+        "it": "Zwijndrecht",
+        "it:t": "Paesi Bassi",
+        "es": "Zwijndrecht",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Zwijndrecht",
+        "de:t": "Niederlande"
+    },
+    {
+        "en": "Zwolle",
+        "en:t": "Netherlands",
+        "a": true,
+        "g": {
+            "lat": 52.5168,
+            "lon": 6.083
+        },
+        "it": "Zwolle",
+        "it:t": "Paesi Bassi",
+        "es": "Zwolle",
+        "es:t": "Pa\u00edses Bajos",
+        "de": "Zwolle",
+        "de:t": "Niederlande"
+    }
+]

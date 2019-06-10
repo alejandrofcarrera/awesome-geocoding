@@ -1,0 +1,377 @@
+[
+    {
+        "en": "Adam",
+        "en:t": "Oman | Ad Dakhiliyah",
+        "a": true,
+        "g": {
+            "lat": 22.3865,
+            "lon": 57.525
+        },
+        "it": "Adam",
+        "it:t": "Oman | al-Dakhiliyya",
+        "es": "Adam",
+        "es:t": "Om\u00e1n | Ad Dakhiliyah",
+        "de": "Adam",
+        "de:t": "Oman | Ad Dakhiliyah"
+    },
+    {
+        "en": "Al Buraymi",
+        "en:t": "Oman",
+        "a": true,
+        "g": {
+            "lat": 24.1671,
+            "lon": 56.1142
+        },
+        "it": "al-Buraymi",
+        "it:t": "Oman",
+        "es": "Al Buraimi",
+        "es:t": "Om\u00e1n",
+        "de": "Buraimi",
+        "de:t": "Oman"
+    },
+    {
+        "en": "Al Khaburah",
+        "en:t": "Oman | Al Batinah North",
+        "a": true,
+        "g": {
+            "lat": 23.9628,
+            "lon": 57.0957
+        },
+        "it": "al-Khabura",
+        "it:t": "Oman | al-Batina",
+        "es": "Al Khaburah",
+        "es:t": "Om\u00e1n | Al Batinah North",
+        "de": "al-Chabura",
+        "de:t": "Oman | al-Batina"
+    },
+    {
+        "en": "Al Liwa",
+        "en:t": "Oman | Sohar Port",
+        "a": true,
+        "g": {
+            "lat": 24.5141,
+            "lon": 56.5706
+        },
+        "it": "Al Liwa",
+        "it:t": "Oman | Sohar Port",
+        "es": "Al Liwa",
+        "es:t": "Om\u00e1n | Sohar Port",
+        "de": "Al Liwa",
+        "de:t": "Oman | Sohar Port"
+    },
+    {
+        "en": "Al Suwayq",
+        "en:t": "Oman | Al Batinah North",
+        "a": true,
+        "g": {
+            "lat": 23.8262,
+            "lon": 57.4288
+        },
+        "it": "al-Suwayq",
+        "it:t": "Oman | al-Batina",
+        "es": "Al Suwayq",
+        "es:t": "Om\u00e1n | Al Batinah North",
+        "de": "As-Suwaiq",
+        "de:t": "Oman | al-Batina"
+    },
+    {
+        "en": "Bahla",
+        "en:t": "Oman | Ad Dakhiliyah",
+        "a": true,
+        "g": {
+            "lat": 22.951,
+            "lon": 57.2932
+        },
+        "it": "Bahla",
+        "it:t": "Oman | al-Dakhiliyya",
+        "es": "Bahla",
+        "es:t": "Om\u00e1n | Ad Dakhiliyah",
+        "de": "Bahla",
+        "de:t": "Oman | ad-Dachiliyya"
+    },
+    {
+        "en": "Barka",
+        "en:t": "Oman | Al Batinah South",
+        "a": true,
+        "g": {
+            "lat": 23.6837,
+            "lon": 57.9049
+        },
+        "it": "Barka'",
+        "it:t": "Oman | Al Batinah South",
+        "es": "Barka",
+        "es:t": "Om\u00e1n | Al Batinah South",
+        "de": "Barka",
+        "de:t": "Oman | Dschanub al-Batina"
+    },
+    {
+        "en": "Bawshar",
+        "en:t": "Oman | Muscat",
+        "a": true,
+        "g": {
+            "lat": 23.5652,
+            "lon": 58.4202
+        },
+        "it": "Bawshar",
+        "it:t": "Oman | Mascate",
+        "es": "Bawshar",
+        "es:t": "Om\u00e1n | Muscat",
+        "de": "Bawschar",
+        "de:t": "Oman | Maskat"
+    },
+    {
+        "en": "Bidbid",
+        "en:t": "Oman | Ad Dakhiliyah",
+        "a": true,
+        "g": {
+            "lat": 23.407,
+            "lon": 58.1252
+        },
+        "it": "Bidbid",
+        "it:t": "Oman | al-Dakhiliyya",
+        "es": "Bidbid",
+        "es:t": "Om\u00e1n | Interior",
+        "de": "Bidbid",
+        "de:t": "Oman | Ad Dakhiliyah"
+    },
+    {
+        "en": "Bidiyah",
+        "en:t": "Oman | Ash Sharqiyah North",
+        "a": true,
+        "g": {
+            "lat": 22.4428,
+            "lon": 58.8003
+        },
+        "it": "Bidiyah",
+        "it:t": "Oman | Ash Sharqiyah North",
+        "es": "Bidiyah",
+        "es:t": "Om\u00e1n | Ash Sharqiyah North",
+        "de": "Bidiyya",
+        "de:t": "Oman | Asch-Scharqiyya"
+    },
+    {
+        "en": "Ibra",
+        "en:t": "Oman | Ash Sharqiyah North",
+        "a": true,
+        "g": {
+            "lat": 22.7244,
+            "lon": 58.5258
+        },
+        "it": "Ibra",
+        "it:t": "Oman |e al-Sharqiyya",
+        "es": "Ibra",
+        "es:t": "Om\u00e1n | Ash Sharqiyah North",
+        "de": "Ibra",
+        "de:t": "Oman | Asch-Scharqiyya"
+    },
+    {
+        "en": "Ibri",
+        "en:t": "Oman | Ad Dhahirah",
+        "a": true,
+        "g": {
+            "lat": 23.2359,
+            "lon": 56.4944
+        },
+        "it": "Ibri",
+        "it:t": "Oman | al-Zahira",
+        "es": "Ibri",
+        "es:t": "Om\u00e1n | Ad Dhahirah",
+        "de": "Ibri",
+        "de:t": "Oman | az-Zahira"
+    },
+    {
+        "en": "Izki",
+        "en:t": "Oman | Ad Dakhiliyah",
+        "a": true,
+        "g": {
+            "lat": 22.9329,
+            "lon": 57.7686
+        },
+        "it": "Izki",
+        "it:t": "Oman | al-Dakhiliyya",
+        "es": "Izki",
+        "es:t": "Om\u00e1n | Interior",
+        "de": "Izki",
+        "de:t": "Oman | ad-Dachiliyya"
+    },
+    {
+        "en": "Khasab",
+        "en:t": "Oman | Musandam",
+        "a": true,
+        "g": {
+            "lat": 26.1644,
+            "lon": 56.2426
+        },
+        "it": "Khasab",
+        "it:t": "Oman | Musandam",
+        "es": "Jasab",
+        "es:t": "Om\u00e1n | Musandam",
+        "de": "al-Chasab",
+        "de:t": "Oman | Musandam"
+    },
+    {
+        "en": "Muscat",
+        "en:t": "Oman",
+        "a": true,
+        "g": {
+            "lat": 23.588,
+            "lon": 58.3829
+        },
+        "it": "Mascate",
+        "it:t": "Oman",
+        "es": "Mascate",
+        "es:t": "Om\u00e1n",
+        "de": "Maskat",
+        "de:t": "Oman"
+    },
+    {
+        "en": "Nizwa",
+        "en:t": "Oman | Ad Dakhiliyah",
+        "a": true,
+        "g": {
+            "lat": 22.9171,
+            "lon": 57.5363
+        },
+        "it": "Nizwa",
+        "it:t": "Oman | al-Dakhiliyya",
+        "es": "Nizwa",
+        "es:t": "Om\u00e1n | Ad Dakhiliyah",
+        "de": "Nizwa",
+        "de:t": "Oman | ad-Dachiliyya"
+    },
+    {
+        "en": "Rustaq",
+        "en:t": "Oman | Al Batinah North",
+        "a": true,
+        "g": {
+            "lat": 23.4425,
+            "lon": 57.4344
+        },
+        "it": "Rustaq",
+        "it:t": "Oman | Al Batinah North",
+        "es": "Rustaq",
+        "es:t": "Om\u00e1n | Al Batinah North",
+        "de": "Rustaq",
+        "de:t": "Oman | Al Batinah North"
+    },
+    {
+        "en": "Saham",
+        "en:t": "Oman | Al Batinah North",
+        "a": true,
+        "g": {
+            "lat": 24.1539,
+            "lon": 56.8648
+        },
+        "it": "Saham",
+        "it:t": "Oman | Al Batinah North",
+        "es": "Saham",
+        "es:t": "Om\u00e1n | Al Batinah North",
+        "de": "Saham",
+        "de:t": "Oman | Al Batinah North"
+    },
+    {
+        "en": "Salalah",
+        "en:t": "Oman | Dhofar",
+        "a": true,
+        "g": {
+            "lat": 17.0507,
+            "lon": 54.1066
+        },
+        "it": "\u1e62al\u0101la",
+        "it:t": "Oman | Dhofar",
+        "es": "Salalah",
+        "es:t": "Om\u00e1n | Dhofar",
+        "de": "Salala",
+        "de:t": "Oman | Dhofar"
+    },
+    {
+        "en": "Seeb",
+        "en:t": "Oman | Muscat",
+        "a": true,
+        "g": {
+            "lat": 23.6473,
+            "lon": 58.1458
+        },
+        "it": "Seeb",
+        "it:t": "Oman | Mascate",
+        "es": "Seeb",
+        "es:t": "Om\u00e1n | Muscat",
+        "de": "Sib",
+        "de:t": "Oman | Maskat"
+    },
+    {
+        "en": "Shinas",
+        "en:t": "Oman | Al Batinah North",
+        "a": true,
+        "g": {
+            "lat": 24.7242,
+            "lon": 56.4608
+        },
+        "it": "Shinas",
+        "it:t": "Oman | Al Batinah North",
+        "es": "Shinas",
+        "es:t": "Om\u00e1n | Al Batinah North",
+        "de": "Schinas",
+        "de:t": "Oman | Al Batinah North"
+    },
+    {
+        "en": "Sohar",
+        "en:t": "Oman | Al Batinah North",
+        "a": true,
+        "g": {
+            "lat": 24.3461,
+            "lon": 56.7075
+        },
+        "it": "Sohar",
+        "it:t": "Oman | Al Batinah North",
+        "es": "Sohar",
+        "es:t": "Om\u00e1n | Al Batinah North",
+        "de": "Suhar",
+        "de:t": "Oman | Al Batinah North"
+    },
+    {
+        "en": "Sufalat Sama 'il",
+        "en:t": "Oman | Lizeg",
+        "a": true,
+        "g": {
+            "lat": 23.3035,
+            "lon": 58.0267
+        },
+        "it": "Sufalat Sama 'il",
+        "it:t": "Oman | Lizeg",
+        "es": "Sufalat Sama 'il",
+        "es:t": "Om\u00e1n | Lizeg",
+        "de": "Sufalat Sama 'il",
+        "de:t": "Oman | Lizeg"
+    },
+    {
+        "en": "Sur",
+        "en:t": "Oman | Ash Sharqiyah South",
+        "a": true,
+        "g": {
+            "lat": 22.5653,
+            "lon": 59.5066
+        },
+        "it": "Sur",
+        "it:t": "Oman | Ash Sharqiyah South",
+        "es": "Sur",
+        "es:t": "Om\u00e1n | Ash Sharqiyah Sur",
+        "de": "Sur",
+        "de:t": "Oman | Dschanub asch-Scharqiyya"
+    },
+    {
+        "en": "Yanqul",
+        "en:t": "Oman | Ad Dhahirah",
+        "a": true,
+        "g": {
+            "lat": 23.599,
+            "lon": 56.5448
+        },
+        "it": "Yanqul",
+        "it:t": "Oman | Ad Dhahirah",
+        "es": "Yanqul",
+        "es:t": "Om\u00e1n | Ad Dhahirah",
+        "de": "Yanqul",
+        "de:t": "Oman | az-Zahira"
+    }
+]

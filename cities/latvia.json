@@ -1,0 +1,197 @@
+[
+    {
+        "en": "C\u0113sis",
+        "en:t": "Latvia | C\u0113su pils\u0113ta",
+        "a": true,
+        "g": {
+            "lat": 57.3086,
+            "lon": 25.2669
+        },
+        "it": "C\u0113sis",
+        "it:t": "Lettonia | C\u0113su pils\u0113ta",
+        "es": "C\u0113sis",
+        "es:t": "Letonia | C\u0113su pils\u0113ta",
+        "de": "C\u0113sis",
+        "de:t": "Lettland | C\u0113su pils\u0113ta"
+    },
+    {
+        "en": "Daugavpils",
+        "en:t": "Latvia",
+        "a": true,
+        "g": {
+            "lat": 55.8747,
+            "lon": 26.5362
+        },
+        "it": "Daugavpils",
+        "it:t": "Lettonia",
+        "es": "Daugavpils",
+        "es:t": "Letonia",
+        "de": "Daugavpils",
+        "de:t": "Lettland"
+    },
+    {
+        "en": "Jelgava",
+        "en:t": "Latvia",
+        "a": true,
+        "g": {
+            "lat": 56.6511,
+            "lon": 23.7214
+        },
+        "it": "Jelgava",
+        "it:t": "Lettonia",
+        "es": "Jelgava",
+        "es:t": "Letonia",
+        "de": "Jelgava",
+        "de:t": "Lettland"
+    },
+    {
+        "en": "J\u0113kabpils",
+        "en:t": "Latvia",
+        "a": true,
+        "g": {
+            "lat": 56.5015,
+            "lon": 25.8783
+        },
+        "it": "J\u0113kabpils",
+        "it:t": "Lettonia",
+        "es": "J\u0113kabpils",
+        "es:t": "Letonia",
+        "de": "J\u0113kabpils",
+        "de:t": "Lettland"
+    },
+    {
+        "en": "J\u016brmala",
+        "en:t": "Latvia",
+        "a": true,
+        "g": {
+            "lat": 56.9471,
+            "lon": 23.6168
+        },
+        "it": "J\u016brmala",
+        "it:t": "Lettonia",
+        "es": "J\u016brmala",
+        "es:t": "Letonia",
+        "de": "J\u016brmala",
+        "de:t": "Lettland"
+    },
+    {
+        "en": "Liep\u0101ja",
+        "en:t": "Latvia",
+        "a": true,
+        "g": {
+            "lat": 56.5047,
+            "lon": 21.0108
+        },
+        "it": "Liep\u0101ja",
+        "it:t": "Lettonia",
+        "es": "Liep\u0101ja",
+        "es:t": "Letonia",
+        "de": "Liep\u0101ja",
+        "de:t": "Lettland"
+    },
+    {
+        "en": "Ogre",
+        "en:t": "Latvia | Ogres pils\u0113ta",
+        "a": true,
+        "g": {
+            "lat": 56.8147,
+            "lon": 24.6045
+        },
+        "it": "Ogre",
+        "it:t": "Lettonia | Ogres pils\u0113ta",
+        "es": "Ogre",
+        "es:t": "Letonia | Ogres pils\u0113ta",
+        "de": "Ogre",
+        "de:t": "Lettland | Ogres pils\u0113ta"
+    },
+    {
+        "en": "Riga",
+        "en:t": "Latvia",
+        "a": true,
+        "g": {
+            "lat": 56.9496,
+            "lon": 24.1052
+        },
+        "it": "Riga",
+        "it:t": "Lettonia",
+        "es": "Riga",
+        "es:t": "Letonia",
+        "de": "Riga",
+        "de:t": "Lettland"
+    },
+    {
+        "en": "R\u0113zekne",
+        "en:t": "Latvia",
+        "a": true,
+        "g": {
+            "lat": 56.5099,
+            "lon": 27.3331
+        },
+        "it": "R\u0113zekne",
+        "it:t": "Lettonia",
+        "es": "R\u0113zekne",
+        "es:t": "Letonia",
+        "de": "R\u0113zekne",
+        "de:t": "Lettland"
+    },
+    {
+        "en": "Salaspils",
+        "en:t": "Latvia | Salaspils pils\u0113ta",
+        "a": true,
+        "g": {
+            "lat": 56.8564,
+            "lon": 24.3523
+        },
+        "it": "Salaspils",
+        "it:t": "Lettonia | Salaspils pils\u0113ta",
+        "es": "Salaspils",
+        "es:t": "Letonia | Salaspils pils\u0113ta",
+        "de": "Kirchholm",
+        "de:t": "Lettland | Salaspils pils\u0113ta"
+    },
+    {
+        "en": "Tukums",
+        "en:t": "Latvia | Tukuma pils\u0113ta",
+        "a": true,
+        "g": {
+            "lat": 56.9697,
+            "lon": 23.1532
+        },
+        "it": "Tukums",
+        "it:t": "Lettonia | Tukuma pils\u0113ta",
+        "es": "Tukums",
+        "es:t": "Letonia | Tukuma pils\u0113ta",
+        "de": "Tukum",
+        "de:t": "Lettland | Tukuma pils\u0113ta"
+    },
+    {
+        "en": "Valmiera",
+        "en:t": "Latvia",
+        "a": true,
+        "g": {
+            "lat": 57.5385,
+            "lon": 25.4264
+        },
+        "it": "Valmiera",
+        "it:t": "Lettonia",
+        "es": "Valmiera",
+        "es:t": "Letonia",
+        "de": "Wolmar",
+        "de:t": "Lettland"
+    },
+    {
+        "en": "Ventspils",
+        "en:t": "Latvia",
+        "a": true,
+        "g": {
+            "lat": 57.3937,
+            "lon": 21.5647
+        },
+        "it": "Ventspils",
+        "it:t": "Lettonia",
+        "es": "Ventspils",
+        "es:t": "Letonia",
+        "de": "Windau",
+        "de:t": "Lettland"
+    }
+]

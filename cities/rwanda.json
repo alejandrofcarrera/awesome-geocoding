@@ -1,0 +1,167 @@
+[
+    {
+        "en": "Butare",
+        "en:t": "Rwanda | Huye",
+        "a": true,
+        "g": {
+            "lat": -2.6078,
+            "lon": 29.7368
+        },
+        "it": "Butare",
+        "it:t": "Ruanda | Huye",
+        "es": "Butare",
+        "es:t": "Ruanda | Huye",
+        "de": "Butare",
+        "de:t": "Ruanda | Huye"
+    },
+    {
+        "en": "Byumba",
+        "en:t": "Rwanda",
+        "a": true,
+        "g": {
+            "lat": -1.5791,
+            "lon": 30.0694
+        },
+        "it": "Byumba",
+        "it:t": "Ruanda",
+        "es": "Byumba",
+        "es:t": "Ruanda",
+        "de": "Byumba",
+        "de:t": "Ruanda"
+    },
+    {
+        "en": "Cyangugu",
+        "en:t": "Rwanda | Rusizi",
+        "a": true,
+        "g": {
+            "lat": -2.4757,
+            "lon": 28.9179
+        },
+        "it": "Cyangugu",
+        "it:t": "Ruanda | Rusizi",
+        "es": "Cyangugu",
+        "es:t": "Ruanda | Rusizi",
+        "de": "Cyangugu",
+        "de:t": "Ruanda | Rusizi"
+    },
+    {
+        "en": "Gisenyi",
+        "en:t": "Rwanda | Western",
+        "a": true,
+        "g": {
+            "lat": -1.6792,
+            "lon": 29.2611
+        },
+        "it": "Gisenyi",
+        "it:t": "Ruanda | Occidentale",
+        "es": "Gisenyi",
+        "es:t": "Ruanda | Oeste",
+        "de": "Gisenyi",
+        "de:t": "Ruanda | Westprovinz"
+    },
+    {
+        "en": "Gitarama",
+        "en:t": "Rwanda | Muhanga",
+        "a": true,
+        "g": {
+            "lat": -2.0804,
+            "lon": 29.76
+        },
+        "it": "Gitarama",
+        "it:t": "Ruanda | Muhanga",
+        "es": "Gitarama",
+        "es:t": "Ruanda | Muhanga",
+        "de": "Gitarama",
+        "de:t": "Ruanda | Muhanga"
+    },
+    {
+        "en": "Kibungo",
+        "en:t": "Rwanda",
+        "a": true,
+        "g": {
+            "lat": -2.1609,
+            "lon": 30.5437
+        },
+        "it": "Kibungo",
+        "it:t": "Ruanda",
+        "es": "Kibungo",
+        "es:t": "Ruanda",
+        "de": "Kibungo",
+        "de:t": "Ruanda"
+    },
+    {
+        "en": "Kibuye",
+        "en:t": "Rwanda | Karongi",
+        "a": true,
+        "g": {
+            "lat": -2.0577,
+            "lon": 29.3497
+        },
+        "it": "Kibuye",
+        "it:t": "Ruanda | Karongi",
+        "es": "Kibuye",
+        "es:t": "Ruanda | Karongi",
+        "de": "Kibuye",
+        "de:t": "Ruanda | Karongi"
+    },
+    {
+        "en": "Kigali",
+        "en:t": "Rwanda | Nyarugenge",
+        "a": true,
+        "g": {
+            "lat": -1.9706,
+            "lon": 30.1044
+        },
+        "it": "Kigali",
+        "it:t": "Ruanda | Nyarugenge",
+        "es": "Kigali",
+        "es:t": "Ruanda | Nyarugenge",
+        "de": "Kigali",
+        "de:t": "Ruanda | Nyarugenge"
+    },
+    {
+        "en": "Nzega",
+        "en:t": "Rwanda",
+        "a": true,
+        "g": {
+            "lat": -4.2161,
+            "lon": 33.1858
+        },
+        "it": "Nzega",
+        "it:t": "Ruanda",
+        "es": "Nzega",
+        "es:t": "Ruanda",
+        "de": "Nzega",
+        "de:t": "Ruanda"
+    },
+    {
+        "en": "Ruhengeri",
+        "en:t": "Rwanda | Musanze",
+        "a": true,
+        "g": {
+            "lat": -1.5035,
+            "lon": 29.6325
+        },
+        "it": "Ruhengeri",
+        "it:t": "Ruanda | Musanze",
+        "es": "Ruhengeri",
+        "es:t": "Ruanda | Musanze",
+        "de": "Ruhengeri",
+        "de:t": "Ruanda | Musanze"
+    },
+    {
+        "en": "Rwamagana",
+        "en:t": "Rwanda",
+        "a": true,
+        "g": {
+            "lat": -1.9535,
+            "lon": 30.4386
+        },
+        "it": "Rwamagana",
+        "it:t": "Ruanda",
+        "es": "Rwamagana",
+        "es:t": "Ruanda",
+        "de": "Rwamagana",
+        "de:t": "Ruanda"
+    }
+]

@@ -1,0 +1,782 @@
+[
+    {
+        "en": "Bansk\u00e1 Bystrica",
+        "en:t": "Slovakia",
+        "a": true,
+        "g": {
+            "lat": 48.7363,
+            "lon": 19.1462
+        },
+        "it": "Bansk\u00e1 Bystrica",
+        "it:t": "Slovacchia",
+        "es": "Bansk\u00e1 Bystrica",
+        "es:t": "Eslovaquia",
+        "de": "Bansk\u00e1 Bystrica",
+        "de:t": "Slowakei"
+    },
+    {
+        "en": "Bardejov",
+        "en:t": "Slovakia",
+        "a": true,
+        "g": {
+            "lat": 49.2946,
+            "lon": 21.2754
+        },
+        "it": "Bardejov",
+        "it:t": "Slovacchia",
+        "es": "Bardejov",
+        "es:t": "Eslovaquia",
+        "de": "Bardejov",
+        "de:t": "Slowakei"
+    },
+    {
+        "en": "Bratislava",
+        "en:t": "Slovakia",
+        "a": true,
+        "g": {
+            "lat": 48.1486,
+            "lon": 17.1077
+        },
+        "it": "Bratislava",
+        "it:t": "Slovacchia",
+        "es": "Bratislava",
+        "es:t": "Eslovaquia",
+        "de": "Bratislava",
+        "de:t": "Slowakei"
+    },
+    {
+        "en": "Brezno",
+        "en:t": "Slovakia",
+        "a": true,
+        "g": {
+            "lat": 48.8061,
+            "lon": 19.6438
+        },
+        "it": "Brezno",
+        "it:t": "Slovacchia",
+        "es": "Brezno",
+        "es:t": "Eslovaquia",
+        "de": "Brezno",
+        "de:t": "Slowakei"
+    },
+    {
+        "en": "B\u00e1novce nad Bebravou",
+        "en:t": "Slovakia",
+        "a": true,
+        "g": {
+            "lat": 48.7188,
+            "lon": 18.2603
+        },
+        "it": "B\u00e1novce nad Bebravou",
+        "it:t": "Slovacchia",
+        "es": "B\u00e1novce nad Bebravou",
+        "es:t": "Eslovaquia",
+        "de": "B\u00e1novce nad Bebravou",
+        "de:t": "Slowakei"
+    },
+    {
+        "en": "Detva",
+        "en:t": "Slovakia",
+        "a": true,
+        "g": {
+            "lat": 48.5587,
+            "lon": 19.4183
+        },
+        "it": "Detva",
+        "it:t": "Slovacchia",
+        "es": "Detva",
+        "es:t": "Eslovaquia",
+        "de": "Detva",
+        "de:t": "Slowakei"
+    },
+    {
+        "en": "Doln\u00fd Kub\u00edn",
+        "en:t": "Slovakia",
+        "a": true,
+        "g": {
+            "lat": 49.2127,
+            "lon": 19.2969
+        },
+        "it": "Doln\u00fd Kub\u00edn",
+        "it:t": "Slovacchia",
+        "es": "Doln\u00fd Kub\u00edn",
+        "es:t": "Eslovaquia",
+        "de": "Doln\u00fd Kub\u00edn",
+        "de:t": "Slowakei"
+    },
+    {
+        "en": "Dubnica nad V\u00e1hom",
+        "en:t": "Slovakia | Ilava",
+        "a": true,
+        "g": {
+            "lat": 48.9618,
+            "lon": 18.171
+        },
+        "it": "Dubnica nad V\u00e1hom",
+        "it:t": "Slovacchia | Ilava",
+        "es": "Dubnica nad V\u00e1hom",
+        "es:t": "Eslovaquia | Ilava",
+        "de": "Dubnica nad V\u00e1hom",
+        "de:t": "Slowakei | Ilava"
+    },
+    {
+        "en": "Dunajsk\u00e1 Streda",
+        "en:t": "Slovakia",
+        "a": true,
+        "g": {
+            "lat": 47.9916,
+            "lon": 17.6206
+        },
+        "it": "Dunajsk\u00e1 Streda",
+        "it:t": "Slovacchia",
+        "es": "Dunajsk\u00e1 Streda",
+        "es:t": "Eslovaquia",
+        "de": "Dunajsk\u00e1 Streda",
+        "de:t": "Slowakei"
+    },
+    {
+        "en": "Galanta",
+        "en:t": "Slovakia",
+        "a": true,
+        "g": {
+            "lat": 48.1895,
+            "lon": 17.7267
+        },
+        "it": "Galanta",
+        "it:t": "Slovacchia",
+        "es": "Galanta",
+        "es:t": "Eslovaquia",
+        "de": "Galanta",
+        "de:t": "Slowakei"
+    },
+    {
+        "en": "Handlov\u00e1",
+        "en:t": "Slovakia | Prievidza",
+        "a": true,
+        "g": {
+            "lat": 48.729,
+            "lon": 18.7599
+        },
+        "it": "Handlov\u00e1",
+        "it:t": "Slovacchia | Prievidza",
+        "es": "Handlov\u00e1",
+        "es:t": "Eslovaquia | Prievidza",
+        "de": "Handlov\u00e1",
+        "de:t": "Slowakei | Prievidza"
+    },
+    {
+        "en": "Hlohovec",
+        "en:t": "Slovakia",
+        "a": true,
+        "g": {
+            "lat": 48.4252,
+            "lon": 17.8033
+        },
+        "it": "Hlohovec",
+        "it:t": "Slovacchia",
+        "es": "Hlohovec",
+        "es:t": "Eslovaquia",
+        "de": "Hlohovec",
+        "de:t": "Slowakei"
+    },
+    {
+        "en": "Humenn\u00e9",
+        "en:t": "Slovakia",
+        "a": true,
+        "g": {
+            "lat": 48.9325,
+            "lon": 21.9079
+        },
+        "it": "Humenn\u00e9",
+        "it:t": "Slovacchia",
+        "es": "Humenn\u00e9",
+        "es:t": "Eslovaquia",
+        "de": "Humenn\u00e9",
+        "de:t": "Slowakei"
+    },
+    {
+        "en": "Ke\u017emarok",
+        "en:t": "Slovakia",
+        "a": true,
+        "g": {
+            "lat": 49.1333,
+            "lon": 20.4307
+        },
+        "it": "Ke\u017emarok",
+        "it:t": "Slovacchia",
+        "es": "Ke\u017emarok",
+        "es:t": "Eslovaquia",
+        "de": "Ke\u017emarok",
+        "de:t": "Slowakei"
+    },
+    {
+        "en": "Kom\u00e1rno",
+        "en:t": "Slovakia",
+        "a": true,
+        "g": {
+            "lat": 47.7626,
+            "lon": 18.1294
+        },
+        "it": "Kom\u00e1rno",
+        "it:t": "Slovacchia",
+        "es": "Kom\u00e1rno",
+        "es:t": "Eslovaquia",
+        "de": "Kom\u00e1rno",
+        "de:t": "Slowakei"
+    },
+    {
+        "en": "Ko\u0161ice",
+        "en:t": "Slovakia",
+        "a": true,
+        "g": {
+            "lat": 48.7164,
+            "lon": 21.2611
+        },
+        "it": "Ko\u0161ice",
+        "it:t": "Slovacchia",
+        "es": "Ko\u0161ice",
+        "es:t": "Eslovaquia",
+        "de": "Ko\u0161ice",
+        "de:t": "Slowakei"
+    },
+    {
+        "en": "Kysuck\u00e9 Nov\u00e9 Mesto",
+        "en:t": "Slovakia",
+        "a": true,
+        "g": {
+            "lat": 49.3007,
+            "lon": 18.7843
+        },
+        "it": "Kysuck\u00e9 Nov\u00e9 Mesto",
+        "it:t": "Slovacchia",
+        "es": "Kysuck\u00e9 Nov\u00e9 Mesto",
+        "es:t": "Eslovaquia",
+        "de": "Kysuck\u00e9 Nov\u00e9 Mesto",
+        "de:t": "Slowakei"
+    },
+    {
+        "en": "Levice",
+        "en:t": "Slovakia",
+        "a": true,
+        "g": {
+            "lat": 48.2174,
+            "lon": 18.5984
+        },
+        "it": "Levice",
+        "it:t": "Slovacchia",
+        "es": "Levice",
+        "es:t": "Eslovaquia",
+        "de": "Levice",
+        "de:t": "Slowakei"
+    },
+    {
+        "en": "Liptovsk\u00fd Mikul\u00e1\u0161",
+        "en:t": "Slovakia",
+        "a": true,
+        "g": {
+            "lat": 49.0811,
+            "lon": 19.6192
+        },
+        "it": "Liptovsk\u00fd Mikul\u00e1\u0161",
+        "it:t": "Slovacchia",
+        "es": "Liptovsk\u00fd Mikul\u00e1\u0161",
+        "es:t": "Eslovaquia",
+        "de": "Liptovsk\u00fd Mikul\u00e1\u0161",
+        "de:t": "Slowakei"
+    },
+    {
+        "en": "Lu\u010denec",
+        "en:t": "Slovakia",
+        "a": true,
+        "g": {
+            "lat": 48.3287,
+            "lon": 19.6691
+        },
+        "it": "Lu\u010denec",
+        "it:t": "Slovacchia",
+        "es": "Lu\u010denec",
+        "es:t": "Eslovaquia",
+        "de": "Lu\u010denec",
+        "de:t": "Slowakei"
+    },
+    {
+        "en": "Malacky",
+        "en:t": "Slovakia",
+        "a": true,
+        "g": {
+            "lat": 48.4363,
+            "lon": 17.0183
+        },
+        "it": "Malacky",
+        "it:t": "Slovacchia",
+        "es": "Malacky",
+        "es:t": "Eslovaquia",
+        "de": "Malacky",
+        "de:t": "Slowakei"
+    },
+    {
+        "en": "Martin",
+        "en:t": "Slovakia",
+        "a": true,
+        "g": {
+            "lat": 49.0617,
+            "lon": 18.919
+        },
+        "it": "Martin",
+        "it:t": "Slovacchia",
+        "es": "Martin",
+        "es:t": "Eslovaquia",
+        "de": "Martin",
+        "de:t": "Slowakei"
+    },
+    {
+        "en": "Michalovce",
+        "en:t": "Slovakia",
+        "a": true,
+        "g": {
+            "lat": 48.7557,
+            "lon": 21.9184
+        },
+        "it": "Michalovce",
+        "it:t": "Slovacchia",
+        "es": "Michalovce",
+        "es:t": "Eslovaquia",
+        "de": "Michalovce",
+        "de:t": "Slowakei"
+    },
+    {
+        "en": "Nitra",
+        "en:t": "Slovakia",
+        "a": true,
+        "g": {
+            "lat": 48.3061,
+            "lon": 18.0764
+        },
+        "it": "Nitra",
+        "it:t": "Slovacchia",
+        "es": "Nitra",
+        "es:t": "Eslovaquia",
+        "de": "Nitra",
+        "de:t": "Slowakei"
+    },
+    {
+        "en": "Nov\u00e9 Mesto nad V\u00e1hom",
+        "en:t": "Slovakia",
+        "a": true,
+        "g": {
+            "lat": 48.7568,
+            "lon": 17.8254
+        },
+        "it": "Nov\u00e9 Mesto nad V\u00e1hom",
+        "it:t": "Slovacchia",
+        "es": "Nov\u00e9 Mesto nad V\u00e1hom",
+        "es:t": "Eslovaquia",
+        "de": "Nov\u00e9 Mesto nad V\u00e1hom",
+        "de:t": "Slowakei"
+    },
+    {
+        "en": "Nov\u00e9 Z\u00e1mky",
+        "en:t": "Slovakia",
+        "a": true,
+        "g": {
+            "lat": 47.9882,
+            "lon": 18.1571
+        },
+        "it": "Nov\u00e9 Z\u00e1mky",
+        "it:t": "Slovacchia",
+        "es": "Nov\u00e9 Z\u00e1mky",
+        "es:t": "Eslovaquia",
+        "de": "Nov\u00e9 Z\u00e1mky",
+        "de:t": "Slowakei"
+    },
+    {
+        "en": "Partiz\u00e1nske",
+        "en:t": "Slovakia",
+        "a": true,
+        "g": {
+            "lat": 48.6285,
+            "lon": 18.3769
+        },
+        "it": "Partiz\u00e1nske",
+        "it:t": "Slovacchia",
+        "es": "Partiz\u00e1nske",
+        "es:t": "Eslovaquia",
+        "de": "Partiz\u00e1nske",
+        "de:t": "Slowakei"
+    },
+    {
+        "en": "Pezinok",
+        "en:t": "Slovakia",
+        "a": true,
+        "g": {
+            "lat": 48.2891,
+            "lon": 17.2667
+        },
+        "it": "Pezinok",
+        "it:t": "Slovacchia",
+        "es": "Pezinok",
+        "es:t": "Eslovaquia",
+        "de": "Pezinok",
+        "de:t": "Slowakei"
+    },
+    {
+        "en": "Pie\u0161\u0165any",
+        "en:t": "Slovakia",
+        "a": true,
+        "g": {
+            "lat": 48.5918,
+            "lon": 17.8272
+        },
+        "it": "Pie\u0161\u0165any",
+        "it:t": "Slovacchia",
+        "es": "Piest'any",
+        "es:t": "Eslovaquia",
+        "de": "Pistian",
+        "de:t": "Slowakei"
+    },
+    {
+        "en": "Poprad",
+        "en:t": "Slovakia",
+        "a": true,
+        "g": {
+            "lat": 49.0511,
+            "lon": 20.2954
+        },
+        "it": "Poprad",
+        "it:t": "Slovacchia",
+        "es": "Poprad",
+        "es:t": "Eslovaquia",
+        "de": "Poprad",
+        "de:t": "Slowakei"
+    },
+    {
+        "en": "Pova\u017esk\u00e1 Bystrica",
+        "en:t": "Slovakia",
+        "a": true,
+        "g": {
+            "lat": 49.1131,
+            "lon": 18.4477
+        },
+        "it": "Pova\u017esk\u00e1 Bystrica",
+        "it:t": "Slovacchia",
+        "es": "Pova\u017esk\u00e1 Bystrica",
+        "es:t": "Eslovaquia",
+        "de": "Pova\u017esk\u00e1 Bystrica",
+        "de:t": "Slowakei"
+    },
+    {
+        "en": "Pre\u0161ov",
+        "en:t": "Slovakia",
+        "a": true,
+        "g": {
+            "lat": 49.0018,
+            "lon": 21.2393
+        },
+        "it": "Pre\u0161ov",
+        "it:t": "Slovacchia",
+        "es": "Pre\u0161ov",
+        "es:t": "Eslovaquia",
+        "de": "Pre\u0161ov",
+        "de:t": "Slowakei"
+    },
+    {
+        "en": "Prievidza",
+        "en:t": "Slovakia",
+        "a": true,
+        "g": {
+            "lat": 48.7745,
+            "lon": 18.6245
+        },
+        "it": "Prievidza",
+        "it:t": "Slovacchia",
+        "es": "Prievidza",
+        "es:t": "Eslovaquia",
+        "de": "Prievidza",
+        "de:t": "Slowakei"
+    },
+    {
+        "en": "P\u00fachov",
+        "en:t": "Slovakia",
+        "a": true,
+        "g": {
+            "lat": 49.1236,
+            "lon": 18.3241
+        },
+        "it": "P\u00fachov",
+        "it:t": "Slovacchia",
+        "es": "P\u00fachov",
+        "es:t": "Eslovaquia",
+        "de": "P\u00fachov",
+        "de:t": "Slowakei"
+    },
+    {
+        "en": "Rimavsk\u00e1 Sobota",
+        "en:t": "Slovakia",
+        "a": true,
+        "g": {
+            "lat": 48.3812,
+            "lon": 20.0195
+        },
+        "it": "Rimavsk\u00e1 Sobota",
+        "it:t": "Slovacchia",
+        "es": "Rimavsk\u00e1 Sobota",
+        "es:t": "Eslovaquia",
+        "de": "Rimavsk\u00e1 Sobota",
+        "de:t": "Slowakei"
+    },
+    {
+        "en": "Ro\u017e\u0148ava",
+        "en:t": "Slovakia",
+        "a": true,
+        "g": {
+            "lat": 48.6561,
+            "lon": 20.5324
+        },
+        "it": "Ro\u017e\u0148ava",
+        "it:t": "Slovacchia",
+        "es": "Ro\u017e\u0148ava",
+        "es:t": "Eslovaquia",
+        "de": "Ro\u017e\u0148ava",
+        "de:t": "Slowakei"
+    },
+    {
+        "en": "Ru\u017eomberok",
+        "en:t": "Slovakia",
+        "a": true,
+        "g": {
+            "lat": 49.0752,
+            "lon": 19.3066
+        },
+        "it": "Ru\u017eomberok",
+        "it:t": "Slovacchia",
+        "es": "Ru\u017eomberok",
+        "es:t": "Eslovaquia",
+        "de": "Ru\u017eomberok",
+        "de:t": "Slowakei"
+    },
+    {
+        "en": "Senica",
+        "en:t": "Slovakia",
+        "a": true,
+        "g": {
+            "lat": 48.6799,
+            "lon": 17.361
+        },
+        "it": "Senica",
+        "it:t": "Slovacchia",
+        "es": "Senica",
+        "es:t": "Eslovaquia",
+        "de": "Senica",
+        "de:t": "Slowakei"
+    },
+    {
+        "en": "Skalica",
+        "en:t": "Slovakia",
+        "a": true,
+        "g": {
+            "lat": 48.8448,
+            "lon": 17.225
+        },
+        "it": "Skalica",
+        "it:t": "Slovacchia",
+        "es": "Skalica",
+        "es:t": "Eslovaquia",
+        "de": "Skalica",
+        "de:t": "Slowakei"
+    },
+    {
+        "en": "Snina",
+        "en:t": "Slovakia",
+        "a": true,
+        "g": {
+            "lat": 48.9877,
+            "lon": 22.1583
+        },
+        "it": "Snina",
+        "it:t": "Slovacchia",
+        "es": "Snina",
+        "es:t": "Eslovaquia",
+        "de": "Snina",
+        "de:t": "Slowakei"
+    },
+    {
+        "en": "Spi\u0161sk\u00e1 Nov\u00e1 Ves",
+        "en:t": "Slovakia",
+        "a": true,
+        "g": {
+            "lat": 48.9453,
+            "lon": 20.5636
+        },
+        "it": "Spi\u0161sk\u00e1 Nov\u00e1 Ves",
+        "it:t": "Slovacchia",
+        "es": "Spi\u0161sk\u00e1 Nov\u00e1 Ves",
+        "es:t": "Eslovaquia",
+        "de": "Spi\u0161sk\u00e1 Nov\u00e1 Ves",
+        "de:t": "Slowakei"
+    },
+    {
+        "en": "Star\u00e1 \u013dubov\u0148a",
+        "en:t": "Slovakia",
+        "a": true,
+        "g": {
+            "lat": 49.3011,
+            "lon": 20.6898
+        },
+        "it": "Star\u00e1 \u013dubov\u0148a",
+        "it:t": "Slovacchia",
+        "es": "Star\u00e1 \u013dubov\u0148a",
+        "es:t": "Eslovaquia",
+        "de": "Star\u00e1 \u013dubov\u0148a",
+        "de:t": "Slowakei"
+    },
+    {
+        "en": "Trebi\u0161ov",
+        "en:t": "Slovakia",
+        "a": true,
+        "g": {
+            "lat": 48.6285,
+            "lon": 21.7156
+        },
+        "it": "Trebi\u0161ov",
+        "it:t": "Slovacchia",
+        "es": "Trebi\u0161ov",
+        "es:t": "Eslovaquia",
+        "de": "Trebi\u0161ov",
+        "de:t": "Slowakei"
+    },
+    {
+        "en": "Tren\u010d\u00edn",
+        "en:t": "Slovakia",
+        "a": true,
+        "g": {
+            "lat": 48.8849,
+            "lon": 18.0335
+        },
+        "it": "Tren\u010d\u00edn",
+        "it:t": "Slovacchia",
+        "es": "Tren\u010d\u00edn",
+        "es:t": "Eslovaquia",
+        "de": "Tren\u010d\u00edn",
+        "de:t": "Slowakei"
+    },
+    {
+        "en": "Trnava",
+        "en:t": "Slovakia",
+        "a": true,
+        "g": {
+            "lat": 48.3709,
+            "lon": 17.5833
+        },
+        "it": "Trnava",
+        "it:t": "Slovacchia",
+        "es": "Trnava",
+        "es:t": "Eslovaquia",
+        "de": "Trnava",
+        "de:t": "Slowakei"
+    },
+    {
+        "en": "Vranov nad Top\u013eou",
+        "en:t": "Slovakia",
+        "a": true,
+        "g": {
+            "lat": 48.8905,
+            "lon": 21.6825
+        },
+        "it": "Vranov nad Top\u013eou",
+        "it:t": "Slovacchia",
+        "es": "Vranov nad Top\u013eou",
+        "es:t": "Eslovaquia",
+        "de": "Vranov nad Top\u013eou",
+        "de:t": "Slowakei"
+    },
+    {
+        "en": "Zlat\u00e9 Moravce",
+        "en:t": "Slovakia",
+        "a": true,
+        "g": {
+            "lat": 48.3852,
+            "lon": 18.3913
+        },
+        "it": "Zlat\u00e9 Moravce",
+        "it:t": "Slovacchia",
+        "es": "Zlat\u00e9 Moravce",
+        "es:t": "Eslovaquia",
+        "de": "Zlat\u00e9 Moravce",
+        "de:t": "Slowakei"
+    },
+    {
+        "en": "Zvolen",
+        "en:t": "Slovakia",
+        "a": true,
+        "g": {
+            "lat": 48.5762,
+            "lon": 19.1371
+        },
+        "it": "Zvolen",
+        "it:t": "Slovacchia",
+        "es": "Zvolen",
+        "es:t": "Eslovaquia",
+        "de": "Zvolen",
+        "de:t": "Slowakei"
+    },
+    {
+        "en": "\u010cadca",
+        "en:t": "Slovakia",
+        "a": true,
+        "g": {
+            "lat": 49.4386,
+            "lon": 18.7898
+        },
+        "it": "\u010cadca",
+        "it:t": "Slovacchia",
+        "es": "\u010cadca",
+        "es:t": "Eslovaquia",
+        "de": "\u010cadca",
+        "de:t": "Slowakei"
+    },
+    {
+        "en": "\u0160a\u013ea",
+        "en:t": "Slovakia",
+        "a": true,
+        "g": {
+            "lat": 48.1514,
+            "lon": 17.8756
+        },
+        "it": "\u0160a\u013ea",
+        "it:t": "Slovacchia",
+        "es": "\u0160a\u013ea",
+        "es:t": "Eslovaquia",
+        "de": "\u0160a\u013ea",
+        "de:t": "Slowakei"
+    },
+    {
+        "en": "\u017diar nad Hronom",
+        "en:t": "Slovakia",
+        "a": true,
+        "g": {
+            "lat": 48.5905,
+            "lon": 18.8549
+        },
+        "it": "\u017diar nad Hronom",
+        "it:t": "Slovacchia",
+        "es": "\u017diar nad Hronom",
+        "es:t": "Eslovaquia",
+        "de": "\u017diar nad Hronom",
+        "de:t": "Slowakei"
+    },
+    {
+        "en": "\u017dilina",
+        "en:t": "Slovakia",
+        "a": true,
+        "g": {
+            "lat": 49.2194,
+            "lon": 18.7408
+        },
+        "it": "\u017dilina",
+        "it:t": "Slovacchia",
+        "es": "\u017dilina",
+        "es:t": "Eslovaquia",
+        "de": "\u017dilina",
+        "de:t": "Slowakei"
+    }
+]

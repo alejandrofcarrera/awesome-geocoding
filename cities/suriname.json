@@ -1,0 +1,32 @@
+[
+    {
+        "en": "Lelydorp",
+        "en:t": "Suriname",
+        "a": true,
+        "g": {
+            "lat": 5.6979,
+            "lon": -55.2204
+        },
+        "it": "Lelydorp",
+        "it:t": "Suriname",
+        "es": "Lelydorp",
+        "es:t": "Surinam",
+        "de": "Lelydorp",
+        "de:t": "Suriname"
+    },
+    {
+        "en": "Paramaribo",
+        "en:t": "Suriname",
+        "a": true,
+        "g": {
+            "lat": 5.852,
+            "lon": -55.2038
+        },
+        "it": "Paramaribo",
+        "it:t": "Suriname",
+        "es": "Paramaribo",
+        "es:t": "Surinam",
+        "de": "Paramaribo",
+        "de:t": "Suriname"
+    }
+]

@@ -1,0 +1,377 @@
+[
+    {
+        "en": "Asuncion",
+        "en:t": "Paraguay",
+        "a": true,
+        "g": {
+            "lat": -25.2637,
+            "lon": -57.5759
+        },
+        "it": "Asunci\u00f3n",
+        "it:t": "Paraguay",
+        "es": "Asunci\u00f3n",
+        "es:t": "Paraguay",
+        "de": "Asunci\u00f3n",
+        "de:t": "Paraguay"
+    },
+    {
+        "en": "Caacup\u00e9",
+        "en:t": "Paraguay | Cordillera",
+        "a": true,
+        "g": {
+            "lat": -25.381,
+            "lon": -57.1577
+        },
+        "it": "Caacup\u00e9",
+        "it:t": "Paraguay | Cordillera",
+        "es": "Caacup\u00e9",
+        "es:t": "Paraguay | Cordillera",
+        "de": "Caacup\u00e9",
+        "de:t": "Paraguay | Cordillera"
+    },
+    {
+        "en": "Caaguaz\u00fa",
+        "en:t": "Paraguay",
+        "a": true,
+        "g": {
+            "lat": -25.4646,
+            "lon": -56.0139
+        },
+        "it": "Caaguaz\u00fa",
+        "it:t": "Paraguay",
+        "es": "Caaguaz\u00fa",
+        "es:t": "Paraguay",
+        "de": "Caaguaz\u00fa",
+        "de:t": "Paraguay"
+    },
+    {
+        "en": "Caazapa",
+        "en:t": "Paraguay",
+        "a": true,
+        "g": {
+            "lat": -26.1828,
+            "lon": -56.3712
+        },
+        "it": "Caazap\u00e1",
+        "it:t": "Paraguay",
+        "es": "Caazap\u00e1",
+        "es:t": "Paraguay",
+        "de": "Caazap\u00e1",
+        "de:t": "Paraguay"
+    },
+    {
+        "en": "Capiat\u00e1",
+        "en:t": "Paraguay | Central",
+        "a": true,
+        "g": {
+            "lat": -25.3559,
+            "lon": -57.4407
+        },
+        "it": "Capiat\u00e1",
+        "it:t": "Paraguay | Centrale",
+        "es": "Capiat\u00e1",
+        "es:t": "Paraguay | Central",
+        "de": "Capiat\u00e1",
+        "de:t": "Paraguay | Central"
+    },
+    {
+        "en": "Ciudad del Este",
+        "en:t": "Paraguay",
+        "a": true,
+        "g": {
+            "lat": -25.5069,
+            "lon": -54.6386
+        },
+        "it": "Ciudad del Este",
+        "it:t": "Paraguay",
+        "es": "Ciudad del Este",
+        "es:t": "Paraguay",
+        "de": "Ciudad del Este",
+        "de:t": "Paraguay"
+    },
+    {
+        "en": "Concepci\u00f3n",
+        "en:t": "Paraguay",
+        "a": true,
+        "g": {
+            "lat": -23.4214,
+            "lon": -57.4344
+        },
+        "it": "Concepci\u00f3n",
+        "it:t": "Paraguay",
+        "es": "Concepci\u00f3n",
+        "es:t": "Paraguay",
+        "de": "Concepci\u00f3n",
+        "de:t": "Paraguay"
+    },
+    {
+        "en": "Coronel Oviedo",
+        "en:t": "Paraguay | Caaguaz\u00fa",
+        "a": true,
+        "g": {
+            "lat": -25.4004,
+            "lon": -56.4496
+        },
+        "it": "Coronel Oviedo",
+        "it:t": "Paraguay | Caaguaz\u00fa",
+        "es": "Coronel Oviedo",
+        "es:t": "Paraguay | Caaguaz\u00fa",
+        "de": "Coronel Oviedo",
+        "de:t": "Paraguay | Caaguaz\u00fa"
+    },
+    {
+        "en": "Encarnacion",
+        "en:t": "Paraguay | Itap\u00faa",
+        "a": true,
+        "g": {
+            "lat": -27.2523,
+            "lon": -55.9136
+        },
+        "it": "Encarnaci\u00f3n",
+        "it:t": "Paraguay | Itap\u00faa",
+        "es": "Encarnaci\u00f3n",
+        "es:t": "Paraguay | Itap\u00faa",
+        "de": "Encarnaci\u00f3n",
+        "de:t": "Paraguay | Itap\u00faa"
+    },
+    {
+        "en": "Fernando de la Mora",
+        "en:t": "Paraguay | Central",
+        "a": true,
+        "g": {
+            "lat": -25.3243,
+            "lon": -57.5527
+        },
+        "it": "Fernando de la Mora",
+        "it:t": "Paraguay | Centrale",
+        "es": "Fernando de la Mora",
+        "es:t": "Paraguay | Central",
+        "de": "Fernando de la Mora",
+        "de:t": "Paraguay | Central"
+    },
+    {
+        "en": "Itaugua",
+        "en:t": "Paraguay | Central",
+        "a": true,
+        "g": {
+            "lat": -25.4106,
+            "lon": -57.361
+        },
+        "it": "Itaugu\u00e1",
+        "it:t": "Paraguay | Centrale",
+        "es": "Itaugu\u00e1",
+        "es:t": "Paraguay | Central",
+        "de": "Itaugu\u00e1",
+        "de:t": "Paraguay | Central"
+    },
+    {
+        "en": "It\u00e1",
+        "en:t": "Paraguay | Central",
+        "a": true,
+        "g": {
+            "lat": -25.5014,
+            "lon": -57.3666
+        },
+        "it": "It\u00e1",
+        "it:t": "Paraguay | Centrale",
+        "es": "It\u00e1",
+        "es:t": "Paraguay | Central",
+        "de": "It\u00e1",
+        "de:t": "Paraguay | Central"
+    },
+    {
+        "en": "Lambar\u00e9",
+        "en:t": "Paraguay | Lambare",
+        "a": true,
+        "g": {
+            "lat": -25.3425,
+            "lon": -57.6254
+        },
+        "it": "Lambar\u00e9",
+        "it:t": "Paraguay | Lambare",
+        "es": "Lambar\u00e9",
+        "es:t": "Paraguay | Lambare",
+        "de": "Lambar\u00e9",
+        "de:t": "Paraguay | Lambare"
+    },
+    {
+        "en": "Limpio",
+        "en:t": "Paraguay | Central",
+        "a": true,
+        "g": {
+            "lat": -25.1595,
+            "lon": -57.4514
+        },
+        "it": "Limpio",
+        "it:t": "Paraguay | Centrale",
+        "es": "Limpio",
+        "es:t": "Paraguay | Central",
+        "de": "Limpio",
+        "de:t": "Paraguay | Central"
+    },
+    {
+        "en": "Mariano Roque Alonso",
+        "en:t": "Paraguay | Central",
+        "a": true,
+        "g": {
+            "lat": -25.1972,
+            "lon": -57.5193
+        },
+        "it": "Mariano Roque Alonso",
+        "it:t": "Paraguay | Centrale",
+        "es": "Mariano Roque Alonso",
+        "es:t": "Paraguay | Central",
+        "de": "Mariano Roque Alonso",
+        "de:t": "Paraguay | Central"
+    },
+    {
+        "en": "Nemby",
+        "en:t": "Paraguay | Central",
+        "a": true,
+        "g": {
+            "lat": -25.3962,
+            "lon": -57.5363
+        },
+        "it": "\u00d1emby",
+        "it:t": "Paraguay | Centrale",
+        "es": "\u00d1emby",
+        "es:t": "Paraguay | Central",
+        "de": "\u00d1emby",
+        "de:t": "Paraguay | Central"
+    },
+    {
+        "en": "Pedro Juan Caballero",
+        "en:t": "Paraguay | Amambay",
+        "a": true,
+        "g": {
+            "lat": -22.546,
+            "lon": -55.7321
+        },
+        "it": "Pedro Juan Caballero",
+        "it:t": "Paraguay | Amambay",
+        "es": "Pedro Juan Caballero",
+        "es:t": "Paraguay | Amambay",
+        "de": "Pedro Juan Caballero",
+        "de:t": "Paraguay | Amambay"
+    },
+    {
+        "en": "Pilar",
+        "en:t": "Paraguay | \u00d1eembuc\u00fa",
+        "a": true,
+        "g": {
+            "lat": -26.8634,
+            "lon": -58.2919
+        },
+        "it": "Pilar",
+        "it:t": "Paraguay | \u00d1eembuc\u00fa",
+        "es": "Pilar",
+        "es:t": "Paraguay | \u00d1eembuc\u00fa",
+        "de": "Pilar",
+        "de:t": "Paraguay | \u00d1eembuc\u00fa"
+    },
+    {
+        "en": "Presidente Franco",
+        "en:t": "Paraguay | Alto Paran\u00e1",
+        "a": true,
+        "g": {
+            "lat": -25.5589,
+            "lon": -54.6125
+        },
+        "it": "Presidente Franco",
+        "it:t": "Paraguay | Alto Paran\u00e1",
+        "es": "Presidente Franco",
+        "es:t": "Paraguay | Alto Paran\u00e1",
+        "de": "Presidente Franco",
+        "de:t": "Paraguay | Alto Paran\u00e1"
+    },
+    {
+        "en": "San Antonio",
+        "en:t": "Paraguay | Central",
+        "a": true,
+        "g": {
+            "lat": -25.42,
+            "lon": -57.5476
+        },
+        "it": "San Antonio",
+        "it:t": "Paraguay | Centrale",
+        "es": "San Antonio",
+        "es:t": "Paraguay | Central",
+        "de": "San Antonio",
+        "de:t": "Paraguay | Central"
+    },
+    {
+        "en": "San Juan Bautista",
+        "en:t": "Paraguay | Misiones",
+        "a": true,
+        "g": {
+            "lat": -26.6707,
+            "lon": -57.1408
+        },
+        "it": "San Juan Bautista",
+        "it:t": "Paraguay | Misiones",
+        "es": "San Juan Bautista",
+        "es:t": "Paraguay | Misiones",
+        "de": "San Juan Bautista",
+        "de:t": "Paraguay | Misiones"
+    },
+    {
+        "en": "San Lorenzo",
+        "en:t": "Paraguay | Central",
+        "a": true,
+        "g": {
+            "lat": -25.3431,
+            "lon": -57.5031
+        },
+        "it": "San Lorenzo",
+        "it:t": "Paraguay | Centrale",
+        "es": "San Lorenzo",
+        "es:t": "Paraguay | Central",
+        "de": "San Lorenzo",
+        "de:t": "Paraguay | Central"
+    },
+    {
+        "en": "Villa Elisa",
+        "en:t": "Paraguay | Central",
+        "a": true,
+        "g": {
+            "lat": -25.3824,
+            "lon": -57.5873
+        },
+        "it": "Villa Elisa",
+        "it:t": "Paraguay | Centrale",
+        "es": "Villa Elisa",
+        "es:t": "Paraguay | Central",
+        "de": "Villa Elisa",
+        "de:t": "Paraguay | Central"
+    },
+    {
+        "en": "Villa Hayes",
+        "en:t": "Paraguay | Presidente Hayes",
+        "a": true,
+        "g": {
+            "lat": -25.0913,
+            "lon": -57.5278
+        },
+        "it": "Villa Hayes",
+        "it:t": "Paraguay | Presidente Hayes",
+        "es": "Villa Hayes",
+        "es:t": "Paraguay | Presidente Hayes",
+        "de": "Villa Hayes",
+        "de:t": "Paraguay | Presidente Hayes"
+    },
+    {
+        "en": "Villarrica",
+        "en:t": "Paraguay | Guair\u00e1",
+        "a": true,
+        "g": {
+            "lat": -25.7761,
+            "lon": -56.4496
+        },
+        "it": "Villarrica",
+        "it:t": "Paraguay | Guair\u00e1",
+        "es": "Villarrica",
+        "es:t": "Paraguay | Guair\u00e1",
+        "de": "Villarrica",
+        "de:t": "Paraguay | Guair\u00e1"
+    }
+]

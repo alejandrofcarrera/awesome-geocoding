@@ -1,0 +1,1067 @@
+[
+    {
+        "en": "Agadir",
+        "en:t": "Morocco | Agadir-Ida-Ou Tanane",
+        "a": true,
+        "g": {
+            "lat": 30.4278,
+            "lon": -9.5981
+        },
+        "it": "Agadir",
+        "it:t": "Marocco | Agadir-Ida ou Tanane",
+        "es": "Agadir",
+        "es:t": "Marruecos | Agadir Ida-Outanane",
+        "de": "Agadir",
+        "de:t": "Marokko | Agadir-Ida ou Tanane"
+    },
+    {
+        "en": "Ahfir",
+        "en:t": "Morocco | Berkane",
+        "a": true,
+        "g": {
+            "lat": 34.9518,
+            "lon": -2.1033
+        },
+        "it": "Ahfir",
+        "it:t": "Marocco | Berkane",
+        "es": "Ahfir",
+        "es:t": "Marruecos | Berkan",
+        "de": "Ahfir",
+        "de:t": "Marokko | Berkane"
+    },
+    {
+        "en": "Asilah",
+        "en:t": "Morocco | Tangier-Assilah",
+        "a": true,
+        "g": {
+            "lat": 35.4646,
+            "lon": -6.0309
+        },
+        "it": "Assilah",
+        "it:t": "Marocco | Tangeri-Assilah",
+        "es": "Arcila",
+        "es:t": "Marruecos | T\u00e1nger-Arcila",
+        "de": "Asilah",
+        "de:t": "Marokko | Tanger-Asilah"
+    },
+    {
+        "en": "Azemmour",
+        "en:t": "Morocco | El Jadida",
+        "a": true,
+        "g": {
+            "lat": 33.2867,
+            "lon": -8.3472
+        },
+        "it": "Azemmour",
+        "it:t": "Marocco | El Jadida",
+        "es": "Azemmour",
+        "es:t": "Marruecos | El Yadida",
+        "de": "Azemmour",
+        "de:t": "Marokko | El Jadida"
+    },
+    {
+        "en": "Azrou",
+        "en:t": "Morocco | Ifrane",
+        "a": true,
+        "g": {
+            "lat": 33.4347,
+            "lon": -5.2319
+        },
+        "it": "Azrou",
+        "it:t": "Marocco | Ifrane",
+        "es": "Azr\u00fa",
+        "es:t": "Marruecos | Ifrane",
+        "de": "Azrou",
+        "de:t": "Marokko | Ifrane"
+    },
+    {
+        "en": "Beni-Mellal",
+        "en:t": "Morocco | Beni-Mellal",
+        "a": true,
+        "g": {
+            "lat": 32.3424,
+            "lon": -6.3758
+        },
+        "it": "B\u00e9ni Mellal",
+        "it:t": "Marocco | B\u00e9ni Mellal",
+        "es": "Beni Melal",
+        "es:t": "Marruecos | Beni Melal",
+        "de": "Beni-Mellal",
+        "de:t": "Marokko | B\u00e9ni Mellal"
+    },
+    {
+        "en": "Berkane",
+        "en:t": "Morocco",
+        "a": true,
+        "g": {
+            "lat": 34.9177,
+            "lon": -2.3123
+        },
+        "it": "Berkane",
+        "it:t": "Marocco",
+        "es": "Berkan",
+        "es:t": "Marruecos",
+        "de": "Berkane",
+        "de:t": "Marokko"
+    },
+    {
+        "en": "Berrechid",
+        "en:t": "Morocco | Settat",
+        "a": true,
+        "g": {
+            "lat": 33.2687,
+            "lon": -7.5843
+        },
+        "it": "Berrechid",
+        "it:t": "Marocco | Settat",
+        "es": "Berrechid",
+        "es:t": "Marruecos | Settat",
+        "de": "Berrechid",
+        "de:t": "Marokko | Settat"
+    },
+    {
+        "en": "Boujniba",
+        "en:t": "Morocco | Khouribga",
+        "a": true,
+        "g": {
+            "lat": 32.9011,
+            "lon": -6.7762
+        },
+        "it": "Boujniba",
+        "it:t": "Marocco | Khouribga",
+        "es": "Boujniba",
+        "es:t": "Marruecos | Khouribga",
+        "de": "Boujniba",
+        "de:t": "Marokko | Khouribga"
+    },
+    {
+        "en": "Bouznika",
+        "en:t": "Morocco | Ben Slimane",
+        "a": true,
+        "g": {
+            "lat": 33.7734,
+            "lon": -7.1599
+        },
+        "it": "Bouznika",
+        "it:t": "Marocco | Ben Slimane",
+        "es": "Bouznika",
+        "es:t": "Marruecos | Ben Slimane",
+        "de": "Bouznika",
+        "de:t": "Marokko | Ben Slimane"
+    },
+    {
+        "en": "Casablanca",
+        "en:t": "Morocco | Casablanca-Settat",
+        "a": true,
+        "g": {
+            "lat": 33.5731,
+            "lon": -7.5898
+        },
+        "it": "Casablanca",
+        "it:t": "Marocco | Casablanca-Settat",
+        "es": "Casablanca",
+        "es:t": "Marruecos | Casablanca-Settat",
+        "de": "Casablanca",
+        "de:t": "Marokko | Casablanca-Settat"
+    },
+    {
+        "en": "Chefchaouen",
+        "en:t": "Morocco",
+        "a": true,
+        "g": {
+            "lat": 35.1688,
+            "lon": -5.2684
+        },
+        "it": "Chefchaouen",
+        "it:t": "Marocco",
+        "es": "Chefchaouen",
+        "es:t": "Marruecos",
+        "de": "Chefchaouen",
+        "de:t": "Marokko"
+    },
+    {
+        "en": "El Aioun",
+        "en:t": "Morocco | Taourirt",
+        "a": true,
+        "g": {
+            "lat": 34.5825,
+            "lon": -2.5099
+        },
+        "it": "El Aioun",
+        "it:t": "Marocco | Taourirt",
+        "es": "El Aioun",
+        "es:t": "Marruecos | Taourirt",
+        "de": "El Aioun",
+        "de:t": "Marokko | Taourirt"
+    },
+    {
+        "en": "El Hajeb",
+        "en:t": "Morocco",
+        "a": true,
+        "g": {
+            "lat": 33.6857,
+            "lon": -5.3678
+        },
+        "it": "El Hajeb",
+        "it:t": "Marocco",
+        "es": "El Hajeb",
+        "es:t": "Marruecos",
+        "de": "El Hajeb",
+        "de:t": "Marokko"
+    },
+    {
+        "en": "El Hoceima",
+        "en:t": "Morocco",
+        "a": true,
+        "g": {
+            "lat": 35.2446,
+            "lon": -3.9317
+        },
+        "it": "Al-Hoseyma",
+        "it:t": "Marocco",
+        "es": "Alhucemas",
+        "es:t": "Marruecos",
+        "de": "Al Hoce\u00efma",
+        "de:t": "Marokko"
+    },
+    {
+        "en": "El Jadida",
+        "en:t": "Morocco",
+        "a": true,
+        "g": {
+            "lat": 33.2316,
+            "lon": -8.5007
+        },
+        "it": "El Jadida",
+        "it:t": "Marocco",
+        "es": "El Yadida",
+        "es:t": "Marruecos",
+        "de": "El Jadida",
+        "de:t": "Marokko"
+    },
+    {
+        "en": "Essaouira",
+        "en:t": "Morocco",
+        "a": true,
+        "g": {
+            "lat": 31.5085,
+            "lon": -9.7595
+        },
+        "it": "Essaouira",
+        "it:t": "Marocco",
+        "es": "Esauira",
+        "es:t": "Marruecos",
+        "de": "Essaouira",
+        "de:t": "Marokko"
+    },
+    {
+        "en": "Fes",
+        "en:t": "Morocco",
+        "a": true,
+        "g": {
+            "lat": 34.0181,
+            "lon": -5.0078
+        },
+        "it": "Fes",
+        "it:t": "Marocco",
+        "es": "Fez",
+        "es:t": "Marruecos",
+        "de": "F\u00e8s",
+        "de:t": "Marokko"
+    },
+    {
+        "en": "Fes El Bali",
+        "en:t": "Morocco | Fes",
+        "a": true,
+        "g": {
+            "lat": 34.0631,
+            "lon": -4.9769
+        },
+        "it": "Fes el-Bali",
+        "it:t": "Marocco | Fes",
+        "es": "Medina de Fez",
+        "es:t": "Marruecos | Fez",
+        "de": "Alte Medina von Fes",
+        "de:t": "Marokko | F\u00e8s"
+    },
+    {
+        "en": "Fquih Ben Salah",
+        "en:t": "Morocco | Beni-Mellal",
+        "a": true,
+        "g": {
+            "lat": 32.5009,
+            "lon": -6.6905
+        },
+        "it": "Fquih Ben Salah",
+        "it:t": "Marocco | B\u00e9ni Mellal",
+        "es": "Fquih Ben Salah",
+        "es:t": "Marruecos | Beni-Mellal",
+        "de": "Fkih Ben Salah",
+        "de:t": "Marokko | B\u00e9ni Mellal"
+    },
+    {
+        "en": "Guelmim",
+        "en:t": "Morocco",
+        "a": true,
+        "g": {
+            "lat": 28.9884,
+            "lon": -10.0527
+        },
+        "it": "Guelmim",
+        "it:t": "Marocco",
+        "es": "Guelmim",
+        "es:t": "Marruecos",
+        "de": "Guelmim",
+        "de:t": "Marokko"
+    },
+    {
+        "en": "Guercif",
+        "en:t": "Morocco | Taza",
+        "a": true,
+        "g": {
+            "lat": 34.2299,
+            "lon": -3.349
+        },
+        "it": "Guercif",
+        "it:t": "Marocco | Taza",
+        "es": "Guercif",
+        "es:t": "Marruecos | Taza",
+        "de": "Guercif",
+        "de:t": "Marokko | Taza"
+    },
+    {
+        "en": "Imzouren",
+        "en:t": "Morocco | Al Hoceima",
+        "a": true,
+        "g": {
+            "lat": 35.1374,
+            "lon": -3.8503
+        },
+        "it": "Imzouren",
+        "it:t": "Marocco | Al-Hoseyma",
+        "es": "Imzouren",
+        "es:t": "Marruecos | Alhucemas",
+        "de": "Imzouren",
+        "de:t": "Marokko | Al Hoceima"
+    },
+    {
+        "en": "Jerada",
+        "en:t": "Morocco",
+        "a": true,
+        "g": {
+            "lat": 34.3062,
+            "lon": -2.1794
+        },
+        "it": "Jerada",
+        "it:t": "Marocco",
+        "es": "Yerada",
+        "es:t": "Marruecos",
+        "de": "Jerada",
+        "de:t": "Marokko"
+    },
+    {
+        "en": "Kasbah Tadla",
+        "en:t": "Morocco | Beni-Mellal",
+        "a": true,
+        "g": {
+            "lat": 32.5958,
+            "lon": -6.2695
+        },
+        "it": "Kasba Tadla",
+        "it:t": "Marocco | B\u00e9ni Mellal",
+        "es": "Kasbah Tadla",
+        "es:t": "Marruecos | Beni-Mellal",
+        "de": "Kasba Tadla",
+        "de:t": "Marokko | B\u00e9ni Mellal"
+    },
+    {
+        "en": "Kenitra",
+        "en:t": "Morocco",
+        "a": true,
+        "g": {
+            "lat": 34.2541,
+            "lon": -6.589
+        },
+        "it": "Kenitra",
+        "it:t": "Marocco",
+        "es": "Kenitra",
+        "es:t": "Marruecos",
+        "de": "Kenitra",
+        "de:t": "Marokko"
+    },
+    {
+        "en": "Khemisset",
+        "en:t": "Morocco",
+        "a": true,
+        "g": {
+            "lat": 33.8154,
+            "lon": -6.0573
+        },
+        "it": "Khemisset",
+        "it:t": "Marocco",
+        "es": "Jemisset",
+        "es:t": "Marruecos",
+        "de": "Kh\u00e9misset",
+        "de:t": "Marokko"
+    },
+    {
+        "en": "Khenifra",
+        "en:t": "Morocco",
+        "a": true,
+        "g": {
+            "lat": 32.934,
+            "lon": -5.6616
+        },
+        "it": "Khenifra",
+        "it:t": "Marocco",
+        "es": "Jenifra",
+        "es:t": "Marruecos",
+        "de": "Kh\u00e9nifra",
+        "de:t": "Marokko"
+    },
+    {
+        "en": "Khouribga",
+        "en:t": "Morocco",
+        "a": true,
+        "g": {
+            "lat": 32.886,
+            "lon": -6.9209
+        },
+        "it": "Khouribga",
+        "it:t": "Marocco",
+        "es": "Jouribga",
+        "es:t": "Marruecos",
+        "de": "Khouribga",
+        "de:t": "Marokko"
+    },
+    {
+        "en": "Ksar el-Kebir",
+        "en:t": "Morocco | Larache",
+        "a": true,
+        "g": {
+            "lat": 35.0035,
+            "lon": -5.9155
+        },
+        "it": "Ksar El Kebir",
+        "it:t": "Marocco | Larache",
+        "es": "Alcazarquivir",
+        "es:t": "Marruecos | Larache",
+        "de": "Ksar-el-Kebir",
+        "de:t": "Marokko | Larache"
+    },
+    {
+        "en": "Larache",
+        "en:t": "Morocco",
+        "a": true,
+        "g": {
+            "lat": 35.1744,
+            "lon": -6.1474
+        },
+        "it": "Larache",
+        "it:t": "Marocco",
+        "es": "Larache",
+        "es:t": "Marruecos",
+        "de": "Larache",
+        "de:t": "Marokko"
+    },
+    {
+        "en": "Marrakesh",
+        "en:t": "Morocco",
+        "a": true,
+        "g": {
+            "lat": 31.6295,
+            "lon": -7.9811
+        },
+        "it": "Marrakech",
+        "it:t": "Marocco",
+        "es": "Marrakech",
+        "es:t": "Marruecos",
+        "de": "Marrakesch",
+        "de:t": "Marokko"
+    },
+    {
+        "en": "Martil",
+        "en:t": "Morocco | Tetouan",
+        "a": true,
+        "g": {
+            "lat": 35.6196,
+            "lon": -5.2841
+        },
+        "it": "Martil",
+        "it:t": "Marocco | T\u00e9touan",
+        "es": "Rio Martin",
+        "es:t": "Marruecos | Tetu\u00e1n",
+        "de": "Martil",
+        "de:t": "Marokko | T\u00e9touan"
+    },
+    {
+        "en": "Mechra Bel Ksiri",
+        "en:t": "Morocco | Sidi Kacem",
+        "a": true,
+        "g": {
+            "lat": 34.574,
+            "lon": -5.9515
+        },
+        "it": "Mechra Bel Ksiri",
+        "it:t": "Marocco | Sidi Kacem",
+        "es": "Mechra Bel Ksiri",
+        "es:t": "Marruecos | Sidi Kacem",
+        "de": "Mechra Bel Ksiri",
+        "de:t": "Marokko | Sidi Kacem"
+    },
+    {
+        "en": "Meknes",
+        "en:t": "Morocco | Al Ismailia",
+        "a": true,
+        "g": {
+            "lat": 33.873,
+            "lon": -5.5407
+        },
+        "it": "Meknes",
+        "it:t": "Marocco | Al Ismailia",
+        "es": "Mequinez",
+        "es:t": "Marruecos | Al Ismailia",
+        "de": "Mekn\u00e8s",
+        "de:t": "Marokko | Al Ismailia"
+    },
+    {
+        "en": "Midelt",
+        "en:t": "Morocco | Khenifra",
+        "a": true,
+        "g": {
+            "lat": 32.6799,
+            "lon": -4.7329
+        },
+        "it": "Midelt",
+        "it:t": "Marocco | Kh\u00e9nifra",
+        "es": "Midelt",
+        "es:t": "Marruecos | Khenifra",
+        "de": "Midelt",
+        "de:t": "Marokko | Kh\u00e9nifra"
+    },
+    {
+        "en": "Mohammedia",
+        "en:t": "Morocco",
+        "a": true,
+        "g": {
+            "lat": 33.6835,
+            "lon": -7.3849
+        },
+        "it": "Mohammedia",
+        "it:t": "Marocco",
+        "es": "Mohamm\u00e9dia",
+        "es:t": "Marruecos",
+        "de": "Mohammedia",
+        "de:t": "Marokko"
+    },
+    {
+        "en": "Nador",
+        "en:t": "Morocco",
+        "a": true,
+        "g": {
+            "lat": 35.1686,
+            "lon": -2.9276
+        },
+        "it": "Nador",
+        "it:t": "Marocco",
+        "es": "Nador",
+        "es:t": "Marruecos",
+        "de": "Nador",
+        "de:t": "Marokko"
+    },
+    {
+        "en": "Ouarzazate",
+        "en:t": "Morocco | Ouarzazate",
+        "a": true,
+        "g": {
+            "lat": 30.9335,
+            "lon": -6.937
+        },
+        "it": "Ouarzazate",
+        "it:t": "Marocco | Ouarzazate",
+        "es": "Uarzazate",
+        "es:t": "Marruecos | Uarzazate",
+        "de": "Ouarzazate",
+        "de:t": "Marokko | Warzazat"
+    },
+    {
+        "en": "Oued Ed-Dahab-Lagouira",
+        "en:t": "Morocco",
+        "a": true,
+        "g": {
+            "lat": 22.7338,
+            "lon": -14.2861
+        },
+        "it": "Oued Ed-Dahab-Lagouira",
+        "it:t": "Marocco",
+        "es": "Oued Ed-Dahab-Lagouira",
+        "es:t": "Marruecos",
+        "de": "Oued Ed-Dahab-Lagouira",
+        "de:t": "Marokko"
+    },
+    {
+        "en": "Oued Zem",
+        "en:t": "Morocco | Khouribga",
+        "a": true,
+        "g": {
+            "lat": 32.8502,
+            "lon": -6.5775
+        },
+        "it": "Oued Zem",
+        "it:t": "Marocco | Khouribga",
+        "es": "Oued Zem",
+        "es:t": "Marruecos | Juribga",
+        "de": "Oued Zem",
+        "de:t": "Marokko | Khouribga"
+    },
+    {
+        "en": "Oujda",
+        "en:t": "Morocco | Oujda-Angad",
+        "a": true,
+        "g": {
+            "lat": 34.682,
+            "lon": -1.9002
+        },
+        "it": "Oujda",
+        "it:t": "Marocco | Oujda-Angad",
+        "es": "Uchda",
+        "es:t": "Marruecos | Oujda-Angad",
+        "de": "Oujda",
+        "de:t": "Marokko | Oujda-Angad"
+    },
+    {
+        "en": "Oulad Teima",
+        "en:t": "Morocco | Taroudant",
+        "a": true,
+        "g": {
+            "lat": 30.3918,
+            "lon": -9.2176
+        },
+        "it": "Oulad Teima",
+        "it:t": "Marocco | Taroudant",
+        "es": "Oulad Teima",
+        "es:t": "Marruecos | Taroudant",
+        "de": "Oulad Teima",
+        "de:t": "Marokko | Taroudannt"
+    },
+    {
+        "en": "Ouezzane",
+        "en:t": "Morocco | Sidi Kacem",
+        "a": true,
+        "g": {
+            "lat": 34.7954,
+            "lon": -5.5676
+        },
+        "it": "Ouazzane",
+        "it:t": "Marocco | Sidi Kacem",
+        "es": "Uez\u00e1n",
+        "es:t": "Marruecos | Sidi Kacem",
+        "de": "Ouezzane",
+        "de:t": "Marokko | Sidi Kacem"
+    },
+    {
+        "en": "Rabat",
+        "en:t": "Morocco",
+        "a": true,
+        "g": {
+            "lat": 33.9716,
+            "lon": -6.8498
+        },
+        "it": "Rabat",
+        "it:t": "Marocco",
+        "es": "Rabat",
+        "es:t": "Marruecos",
+        "de": "Rabat",
+        "de:t": "Marokko"
+    },
+    {
+        "en": "Safi",
+        "en:t": "Morocco",
+        "a": true,
+        "g": {
+            "lat": 32.3008,
+            "lon": -9.2272
+        },
+        "it": "Safi",
+        "it:t": "Marocco",
+        "es": "Saf\u00ed",
+        "es:t": "Marruecos",
+        "de": "Safi",
+        "de:t": "Marokko"
+    },
+    {
+        "en": "Sal\u00e9",
+        "en:t": "Morocco",
+        "a": true,
+        "g": {
+            "lat": 34.0337,
+            "lon": -6.7708
+        },
+        "it": "Sal\u00e9",
+        "it:t": "Marocco",
+        "es": "Sal\u00e9",
+        "es:t": "Marruecos",
+        "de": "Sal\u00e9",
+        "de:t": "Marokko"
+    },
+    {
+        "en": "Sefrou",
+        "en:t": "Morocco",
+        "a": true,
+        "g": {
+            "lat": 33.8305,
+            "lon": -4.8353
+        },
+        "it": "Sefrou",
+        "it:t": "Marocco",
+        "es": "Sefr\u00fa",
+        "es:t": "Marruecos",
+        "de": "Sefrou",
+        "de:t": "Marokko"
+    },
+    {
+        "en": "Settat",
+        "en:t": "Morocco | Settat",
+        "a": true,
+        "g": {
+            "lat": 32.9924,
+            "lon": -7.6223
+        },
+        "it": "Settat",
+        "it:t": "Marocco | Settat",
+        "es": "Settat",
+        "es:t": "Marruecos | Settat",
+        "de": "Settat",
+        "de:t": "Marokko | Settat"
+    },
+    {
+        "en": "Sidi Bennour",
+        "en:t": "Morocco | El Jadida",
+        "a": true,
+        "g": {
+            "lat": 32.6522,
+            "lon": -8.4266
+        },
+        "it": "Sidi Bennour",
+        "it:t": "Marocco | El Jadida",
+        "es": "Sidi Bennour",
+        "es:t": "Marruecos | El Yadida",
+        "de": "Sidi Bennour",
+        "de:t": "Marokko | El Jadida"
+    },
+    {
+        "en": "Sidi Ifni",
+        "en:t": "Morocco | Guelmim-Oued Noun",
+        "a": true,
+        "g": {
+            "lat": 29.3701,
+            "lon": -10.1759
+        },
+        "it": "Sidi Ifni",
+        "it:t": "Marocco | Guelmim-Oued Noun",
+        "es": "Ifn\u00ed",
+        "es:t": "Marruecos | Guelmim-R\u00edo Noun",
+        "de": "Sidi Ifni",
+        "de:t": "Marokko | Guelmim-Oued Noun"
+    },
+    {
+        "en": "Sidi Kacem",
+        "en:t": "Morocco | Al Ismailia",
+        "a": true,
+        "g": {
+            "lat": 34.226,
+            "lon": -5.7129
+        },
+        "it": "Sidi Kacem",
+        "it:t": "Marocco | Al Ismailia",
+        "es": "Sidi Kacem",
+        "es:t": "Marruecos | Al Ismailia",
+        "de": "Sidi Kacem",
+        "de:t": "Marokko | Al Ismailia"
+    },
+    {
+        "en": "Sidi Slimane",
+        "en:t": "Morocco | Kenitra",
+        "a": true,
+        "g": {
+            "lat": 34.2623,
+            "lon": -5.924
+        },
+        "it": "Sidi Slimane",
+        "it:t": "Marocco | Kenitra",
+        "es": "Sidi Slimane",
+        "es:t": "Marruecos | Kenitra",
+        "de": "Sidi Slimane",
+        "de:t": "Marokko | K\u00e9nitra"
+    },
+    {
+        "en": "Sidi Yahya El Gharb",
+        "en:t": "Morocco | Kenitra",
+        "a": true,
+        "g": {
+            "lat": 34.3021,
+            "lon": -6.3021
+        },
+        "it": "Sidi Yahia al Gharb",
+        "it:t": "Marocco | Kenitra",
+        "es": "Sidi Yahya El Gharb",
+        "es:t": "Marruecos | Kenitra",
+        "de": "Sidi Yahya El Gharb",
+        "de:t": "Marokko | Kenitra"
+    },
+    {
+        "en": "Skhirat",
+        "en:t": "Morocco | Skhirat-Temara",
+        "a": true,
+        "g": {
+            "lat": 33.8509,
+            "lon": -7.0606
+        },
+        "it": "Skhirate",
+        "it:t": "Marocco | Skhirat-T\u00e9mara",
+        "es": "Sjirat",
+        "es:t": "Marruecos | Sjirat-T\u00e9mara",
+        "de": "Skhirat",
+        "de:t": "Marokko | Skhirate-T\u00e9mara"
+    },
+    {
+        "en": "Souk El Arbaa",
+        "en:t": "Morocco | Kenitra",
+        "a": true,
+        "g": {
+            "lat": 34.6822,
+            "lon": -5.9938
+        },
+        "it": "Souk el Arbaa",
+        "it:t": "Marocco | Kenitra",
+        "es": "Souk El Arbaa",
+        "es:t": "Marruecos | Kenitra",
+        "de": "Souk El Arbaa",
+        "de:t": "Marokko | Kenitra"
+    },
+    {
+        "en": "Tahala",
+        "en:t": "Morocco | Taza",
+        "a": true,
+        "g": {
+            "lat": 34.0543,
+            "lon": -4.4259
+        },
+        "it": "Tahla",
+        "it:t": "Marocco | Taza",
+        "es": "Tahala",
+        "es:t": "Marruecos | Taza",
+        "de": "Tahala",
+        "de:t": "Marokko | Taza"
+    },
+    {
+        "en": "Tangier",
+        "en:t": "Morocco | Tangier-Assilah",
+        "a": true,
+        "g": {
+            "lat": 35.7595,
+            "lon": -5.834
+        },
+        "it": "Tangeri",
+        "it:t": "Marocco | Tangeri-Assilah",
+        "es": "T\u00e1nger",
+        "es:t": "Marruecos | T\u00e1nger-Arcila",
+        "de": "Tanger",
+        "de:t": "Marokko | Tanger-Asilah"
+    },
+    {
+        "en": "Tantan",
+        "en:t": "Morocco",
+        "a": true,
+        "g": {
+            "lat": 28.438,
+            "lon": -11.0987
+        },
+        "it": "Tan-Tan",
+        "it:t": "Marocco",
+        "es": "Tan-Tan",
+        "es:t": "Marruecos",
+        "de": "Tan-Tan",
+        "de:t": "Marokko"
+    },
+    {
+        "en": "Taounate",
+        "en:t": "Morocco",
+        "a": true,
+        "g": {
+            "lat": 34.5369,
+            "lon": -4.6399
+        },
+        "it": "Taounate",
+        "it:t": "Marocco",
+        "es": "Taounate",
+        "es:t": "Marruecos",
+        "de": "Taounate",
+        "de:t": "Marokko"
+    },
+    {
+        "en": "Taourirt",
+        "en:t": "Morocco",
+        "a": true,
+        "g": {
+            "lat": 34.3984,
+            "lon": -2.8935
+        },
+        "it": "Taourirt",
+        "it:t": "Marocco",
+        "es": "Taoririrt",
+        "es:t": "Marruecos",
+        "de": "Taourirt",
+        "de:t": "Marokko"
+    },
+    {
+        "en": "Taroudant",
+        "en:t": "Morocco",
+        "a": true,
+        "g": {
+            "lat": 30.4727,
+            "lon": -8.8749
+        },
+        "it": "Taroudant",
+        "it:t": "Marocco",
+        "es": "Tarudant",
+        "es:t": "Marruecos",
+        "de": "Taroudannt",
+        "de:t": "Marokko"
+    },
+    {
+        "en": "Taza",
+        "en:t": "Morocco",
+        "a": true,
+        "g": {
+            "lat": 34.2106,
+            "lon": -3.998
+        },
+        "it": "Taza",
+        "it:t": "Marocco",
+        "es": "Taza",
+        "es:t": "Marruecos",
+        "de": "Taza",
+        "de:t": "Marokko"
+    },
+    {
+        "en": "Taza-Al Hoceima-Taounate",
+        "en:t": "Morocco",
+        "a": true,
+        "g": {
+            "lat": 34.2582,
+            "lon": -4.2333
+        },
+        "it": "Taza-Al Hoceima-Taounate",
+        "it:t": "Marocco",
+        "es": "Taza-Alhucemas-Taunat",
+        "es:t": "Marruecos",
+        "de": "Taza-Al Hoce\u00efma-Taounate",
+        "de:t": "Marokko"
+    },
+    {
+        "en": "Tetouan",
+        "en:t": "Morocco",
+        "a": true,
+        "g": {
+            "lat": 35.5889,
+            "lon": -5.3626
+        },
+        "it": "T\u00e9touan",
+        "it:t": "Marocco",
+        "es": "Tetu\u00e1n",
+        "es:t": "Marruecos",
+        "de": "T\u00e9touan",
+        "de:t": "Marokko"
+    },
+    {
+        "en": "Tiflet",
+        "en:t": "Morocco | Khemisset",
+        "a": true,
+        "g": {
+            "lat": 33.8955,
+            "lon": -6.3207
+        },
+        "it": "Tiflet",
+        "it:t": "Marocco | Khemisset",
+        "es": "Tiflet",
+        "es:t": "Marruecos | Khemisset",
+        "de": "Tiflet",
+        "de:t": "Marokko | Kh\u00e9misset"
+    },
+    {
+        "en": "Tinghir",
+        "en:t": "Morocco",
+        "a": true,
+        "g": {
+            "lat": 31.5205,
+            "lon": -5.5302
+        },
+        "it": "Tinghir",
+        "it:t": "Marocco",
+        "es": "Tinerhir",
+        "es:t": "Marruecos",
+        "de": "Tinghir",
+        "de:t": "Marokko"
+    },
+    {
+        "en": "Tiznit",
+        "en:t": "Morocco",
+        "a": true,
+        "g": {
+            "lat": 29.6934,
+            "lon": -9.7322
+        },
+        "it": "Tiznit",
+        "it:t": "Marocco",
+        "es": "Tiznit",
+        "es:t": "Marruecos",
+        "de": "Tiznit",
+        "de:t": "Marokko"
+    },
+    {
+        "en": "Youssoufia",
+        "en:t": "Morocco | Safi",
+        "a": true,
+        "g": {
+            "lat": 32.2438,
+            "lon": -8.5227
+        },
+        "it": "Youssoufia",
+        "it:t": "Marocco | Safi",
+        "es": "Youssoufia",
+        "es:t": "Marruecos | Safi",
+        "de": "Youssoufia",
+        "de:t": "Marokko | Safi"
+    },
+    {
+        "en": "Zagora",
+        "en:t": "Morocco",
+        "a": true,
+        "g": {
+            "lat": 30.3459,
+            "lon": -5.8407
+        },
+        "it": "Zagora",
+        "it:t": "Marocco",
+        "es": "Zagora",
+        "es:t": "Marruecos",
+        "de": "Zagora",
+        "de:t": "Marokko"
+    },
+    {
+        "en": "Zaio",
+        "en:t": "Morocco | Nador",
+        "a": true,
+        "g": {
+            "lat": 34.9364,
+            "lon": -2.7431
+        },
+        "it": "Zaio",
+        "it:t": "Marocco | Nador",
+        "es": "Zaio",
+        "es:t": "Marruecos | Nador",
+        "de": "Zaio",
+        "de:t": "Marokko | Nador"
+    }
+]

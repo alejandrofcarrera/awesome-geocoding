@@ -1,0 +1,17 @@
+[
+    {
+        "en": "Central Area",
+        "en:t": "Singapore",
+        "a": true,
+        "g": {
+            "lat": 1.2789,
+            "lon": 103.8536
+        },
+        "it": "Central Area",
+        "it:t": "Singapore",
+        "es": "Central Area",
+        "es:t": "Singapur",
+        "de": "Central Area",
+        "de:t": "Singapur"
+    }
+]

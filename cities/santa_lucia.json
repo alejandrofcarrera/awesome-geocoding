@@ -1,0 +1,17 @@
+[
+    {
+        "en": "Castries",
+        "en:t": "Saint Lucia",
+        "a": true,
+        "g": {
+            "lat": 13.9866,
+            "lon": -60.9773
+        },
+        "it": "Castries",
+        "it:t": "Santa Lucia",
+        "es": "Castries",
+        "es:t": "Santa Luc\u00eda",
+        "de": "Castries",
+        "de:t": "Sankt Lucia"
+    }
+]

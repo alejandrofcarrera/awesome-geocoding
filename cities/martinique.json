@@ -1,0 +1,137 @@
+[
+    {
+        "en": "La Trinit\u00e9",
+        "en:t": "Martinique",
+        "a": true,
+        "g": {
+            "lat": 14.7296,
+            "lon": -60.9656
+        },
+        "it": "La Trinit\u00e9",
+        "it:t": "Martinica",
+        "es": "La Trinit\u00e9",
+        "es:t": "Martinica",
+        "de": "La Trinit\u00e9",
+        "de:t": "Martinique"
+    },
+    {
+        "en": "Ducos",
+        "en:t": "Martinique | Le Marin",
+        "a": true,
+        "g": {
+            "lat": 14.5825,
+            "lon": -60.9656
+        },
+        "it": "Ducos",
+        "it:t": "Martinica | Le Marin",
+        "es": "Ducos",
+        "es:t": "Martinica | Le Marin",
+        "de": "Ducos",
+        "de:t": "Martinique | Le Marin"
+    },
+    {
+        "en": "Fort-de-France Bay",
+        "en:t": "Martinique | Fort-de-France",
+        "a": true,
+        "g": {
+            "lat": 14.6161,
+            "lon": -61.0588
+        },
+        "it": "Fort-de-France",
+        "it:t": "Martinica | Fort-de-France",
+        "es": "Fort-de-France",
+        "es:t": "Martinica | Fort-de-France",
+        "de": "Fort-de-France",
+        "de:t": "Martinique | Fort-de-France"
+    },
+    {
+        "en": "Le Fran\u00e7ois",
+        "en:t": "Martinique | Le Marin",
+        "a": true,
+        "g": {
+            "lat": 14.609,
+            "lon": -60.89
+        },
+        "it": "Le Fran\u00e7ois",
+        "it:t": "Martinica | Le Marin",
+        "es": "Le Fran\u00e7ois",
+        "es:t": "Martinica | Le Marin",
+        "de": "Le Fran\u00e7ois",
+        "de:t": "Martinique | Le Marin"
+    },
+    {
+        "en": "Le Lamentin",
+        "en:t": "Martinique | Fort-de-France",
+        "a": true,
+        "g": {
+            "lat": 14.6276,
+            "lon": -60.9889
+        },
+        "it": "Le Lamentin",
+        "it:t": "Martinica | Fort-de-France",
+        "es": "Le Lamentin",
+        "es:t": "Martinica | Fort-de-France",
+        "de": "Le Lamentin",
+        "de:t": "Martinique | Fort-de-France"
+    },
+    {
+        "en": "Le Robert",
+        "en:t": "Martinique | La Trinit\u00e9",
+        "a": true,
+        "g": {
+            "lat": 14.6769,
+            "lon": -60.9453
+        },
+        "it": "Le Robert",
+        "it:t": "Martinica | La Trinit\u00e9",
+        "es": "Le Robert",
+        "es:t": "Martinica | La Trinit\u00e9",
+        "de": "Le Robert",
+        "de:t": "Martinique | La Trinit\u00e9"
+    },
+    {
+        "en": "Residence mafwam\u00e9",
+        "en:t": "Martinique | La Trinit\u00e9",
+        "a": true,
+        "g": {
+            "lat": 14.7296,
+            "lon": -60.9656
+        },
+        "it": "Residence mafwam\u00e9",
+        "it:t": "Martinica | La Trinit\u00e9",
+        "es": "Residence mafwam\u00e9",
+        "es:t": "Martinica | La Trinit\u00e9",
+        "de": "Residence mafwam\u00e9",
+        "de:t": "Martinique | La Trinit\u00e9"
+    },
+    {
+        "en": "Saint Joseph",
+        "en:t": "Martinique | Fort-de-France",
+        "a": true,
+        "g": {
+            "lat": 14.6723,
+            "lon": -61.0369
+        },
+        "it": "Saint-Joseph",
+        "it:t": "Martinica | Fort-de-France",
+        "es": "Saint-Joseph",
+        "es:t": "Martinica | Fort-de-France",
+        "de": "Saint-Joseph",
+        "de:t": "Martinique | Fort-de-France"
+    },
+    {
+        "en": "Sainte-Marie",
+        "en:t": "Martinique | La Trinit\u00e9",
+        "a": true,
+        "g": {
+            "lat": 14.7794,
+            "lon": -60.9933
+        },
+        "it": "Sainte-Marie",
+        "it:t": "Martinica | La Trinit\u00e9",
+        "es": "Sainte-Marie",
+        "es:t": "Martinica | La Trinit\u00e9",
+        "de": "Sainte-Marie",
+        "de:t": "Martinique | La Trinit\u00e9"
+    }
+]

@@ -1,0 +1,1232 @@
+[
+    {
+        "en": "Alarobia",
+        "en:t": "Madagascar | Tsaralalana",
+        "a": true,
+        "g": {
+            "lat": -18.8741,
+            "lon": 47.5153
+        },
+        "it": "Alarobia",
+        "it:t": "Madagascar | Tsaralalana",
+        "es": "Alarobia",
+        "es:t": "Madagascar | Tsaralalana",
+        "de": "Alarobia",
+        "de:t": "Madagaskar | Tsaralalana"
+    },
+    {
+        "en": "Ambalavao",
+        "en:t": "Madagascar | Haute Matsiatra",
+        "a": true,
+        "g": {
+            "lat": -21.2333,
+            "lon": 47.2333
+        },
+        "it": "Ambalavao",
+        "it:t": "Madagascar | Haute Matsiatra",
+        "es": "Ambalavao",
+        "es:t": "Madagascar | Haute Matsiatra",
+        "de": "Ambalavao",
+        "de:t": "Madagaskar | Haute Matsiatra"
+    },
+    {
+        "en": "Ambanja",
+        "en:t": "Madagascar",
+        "a": true,
+        "g": {
+            "lat": -13.6635,
+            "lon": 48.4537
+        },
+        "it": "Ambanja",
+        "it:t": "Madagascar",
+        "es": "Ambanja",
+        "es:t": "Madagascar",
+        "de": "Ambanja",
+        "de:t": "Madagaskar"
+    },
+    {
+        "en": "Ambato Boina",
+        "en:t": "Madagascar | Ambato-Boina",
+        "a": true,
+        "g": {
+            "lat": -16.4709,
+            "lon": 46.7164
+        },
+        "it": "Ambato Boina",
+        "it:t": "Madagascar | Ambato-Boina",
+        "es": "Ambatoboeny",
+        "es:t": "Madagascar | Ambato-Boina",
+        "de": "Ambatoboeny",
+        "de:t": "Madagaskar | Ambato-Boina"
+    },
+    {
+        "en": "Ambatofinandrahana",
+        "en:t": "Madagascar",
+        "a": true,
+        "g": {
+            "lat": -20.5501,
+            "lon": 46.8011
+        },
+        "it": "Ambatofinandrahana",
+        "it:t": "Madagascar",
+        "es": "Ambatofinandrahana",
+        "es:t": "Madagascar",
+        "de": "Ambatofinandrahana",
+        "de:t": "Madagaskar"
+    },
+    {
+        "en": "Ambatolampy",
+        "en:t": "Madagascar",
+        "a": true,
+        "g": {
+            "lat": -19.3837,
+            "lon": 47.4392
+        },
+        "it": "Ambatolampy",
+        "it:t": "Madagascar",
+        "es": "Ambatolampy",
+        "es:t": "Madagascar",
+        "de": "Ambatolampy",
+        "de:t": "Madagaskar"
+    },
+    {
+        "en": "Ambatondrazaka",
+        "en:t": "Madagascar | Ambatondrazaka",
+        "a": true,
+        "g": {
+            "lat": -17.8336,
+            "lon": 48.4088
+        },
+        "it": "Ambatondrazaka",
+        "it:t": "Madagascar | Ambatondrazaka",
+        "es": "Ambatondrazaka",
+        "es:t": "Madagascar | Ambatondrazaka",
+        "de": "Ambatondrazaka",
+        "de:t": "Madagaskar | Ambatondrazaka"
+    },
+    {
+        "en": "Ambilobe",
+        "en:t": "Madagascar",
+        "a": true,
+        "g": {
+            "lat": -13.2026,
+            "lon": 49.0514
+        },
+        "it": "Ambilobe",
+        "it:t": "Madagascar",
+        "es": "Ambilobe",
+        "es:t": "Madagascar",
+        "de": "Ambilobe",
+        "de:t": "Madagaskar"
+    },
+    {
+        "en": "Amboasary Sud",
+        "en:t": "Madagascar | Amboasary-Atsimo",
+        "a": true,
+        "g": {
+            "lat": -25.041,
+            "lon": 46.3841
+        },
+        "it": "Amboasary Sud",
+        "it:t": "Madagascar | Amboasary-Atsimo",
+        "es": "Amboasary Sud",
+        "es:t": "Madagascar | Amboasary-Atsimo",
+        "de": "Amboasary Sud",
+        "de:t": "Madagaskar | Amboasary-Atsimo"
+    },
+    {
+        "en": "Ambohitrolomahitsy",
+        "en:t": "Madagascar | Manjakandriana",
+        "a": true,
+        "g": {
+            "lat": -18.7,
+            "lon": 47.6833
+        },
+        "it": "Ambohitrolomahitsy",
+        "it:t": "Madagascar | Manjakandriana",
+        "es": "Ambohitrolomahitsy",
+        "es:t": "Madagascar | Manjakandriana",
+        "de": "Ambohitrolomahitsy",
+        "de:t": "Madagaskar | Manjakandriana"
+    },
+    {
+        "en": "Ambohitromby",
+        "en:t": "Madagascar | Fenoarivo Afovoany",
+        "a": true,
+        "g": {
+            "lat": -17.9667,
+            "lon": 46.3167
+        },
+        "it": "Ambohitromby",
+        "it:t": "Madagascar | Fenoarivo-Afovoany",
+        "es": "Ambohitromby",
+        "es:t": "Madagascar | Fenoarivo Afovoany",
+        "de": "Ambohitromby",
+        "de:t": "Madagaskar | Fenoarivo Afovoany"
+    },
+    {
+        "en": "Ambositra",
+        "en:t": "Madagascar",
+        "a": true,
+        "g": {
+            "lat": -20.5363,
+            "lon": 47.246
+        },
+        "it": "Ambositra",
+        "it:t": "Madagascar",
+        "es": "Ambositra",
+        "es:t": "Madagascar",
+        "de": "Ambositra",
+        "de:t": "Madagaskar"
+    },
+    {
+        "en": "Ambovombe",
+        "en:t": "Madagascar",
+        "a": true,
+        "g": {
+            "lat": -25.172,
+            "lon": 46.0897
+        },
+        "it": "Ambovombe",
+        "it:t": "Madagascar",
+        "es": "Ambovombe-Androy",
+        "es:t": "Madagascar",
+        "de": "Ambovombe",
+        "de:t": "Madagaskar"
+    },
+    {
+        "en": "Ampanihy",
+        "en:t": "Madagascar",
+        "a": true,
+        "g": {
+            "lat": -24.693,
+            "lon": 44.7452
+        },
+        "it": "Ampanihy",
+        "it:t": "Madagascar",
+        "es": "Ampanihy",
+        "es:t": "Madagascar",
+        "de": "Ampanihy",
+        "de:t": "Madagaskar"
+    },
+    {
+        "en": "Amparafaravola",
+        "en:t": "Madagascar",
+        "a": true,
+        "g": {
+            "lat": -17.5873,
+            "lon": 48.2219
+        },
+        "it": "Amparafaravola",
+        "it:t": "Madagascar",
+        "es": "Amparafaravola",
+        "es:t": "Madagascar",
+        "de": "Amparafaravola",
+        "de:t": "Madagaskar"
+    },
+    {
+        "en": "Andapa",
+        "en:t": "Madagascar",
+        "a": true,
+        "g": {
+            "lat": -14.6582,
+            "lon": 49.6452
+        },
+        "it": "Andapa",
+        "it:t": "Madagascar",
+        "es": "Andapa",
+        "es:t": "Madagascar",
+        "de": "Andapa",
+        "de:t": "Madagaskar"
+    },
+    {
+        "en": "Andilamena",
+        "en:t": "Madagascar | Andilamena",
+        "a": true,
+        "g": {
+            "lat": -17.0127,
+            "lon": 48.5713
+        },
+        "it": "Andilamena",
+        "it:t": "Madagascar | Andilamena",
+        "es": "Andilamena",
+        "es:t": "Madagascar | Andilamena",
+        "de": "Andilamena",
+        "de:t": "Madagaskar | Andilamena"
+    },
+    {
+        "en": "Anjozorobe",
+        "en:t": "Madagascar",
+        "a": true,
+        "g": {
+            "lat": -18.4001,
+            "lon": 47.8699
+        },
+        "it": "Anjozorobe",
+        "it:t": "Madagascar",
+        "es": "Anjozorobe",
+        "es:t": "Madagascar",
+        "de": "Anjozorobe",
+        "de:t": "Madagaskar"
+    },
+    {
+        "en": "Ankazoabo",
+        "en:t": "Madagascar | Beroroha",
+        "a": true,
+        "g": {
+            "lat": -21.5035,
+            "lon": 45.2096
+        },
+        "it": "Ankazoabo",
+        "it:t": "Madagascar | Beroroha",
+        "es": "Ankazoabo",
+        "es:t": "Madagascar | Beroroha",
+        "de": "Ankazoabo",
+        "de:t": "Madagaskar | Beroroha"
+    },
+    {
+        "en": "Ankazobe",
+        "en:t": "Madagascar",
+        "a": true,
+        "g": {
+            "lat": -18.3182,
+            "lon": 47.1119
+        },
+        "it": "Ankazobe",
+        "it:t": "Madagascar",
+        "es": "Ankazobe",
+        "es:t": "Madagascar",
+        "de": "Ankazobe",
+        "de:t": "Madagaskar"
+    },
+    {
+        "en": "Ankazondandy",
+        "en:t": "Madagascar | Manjakandriana",
+        "a": true,
+        "g": {
+            "lat": -18.7,
+            "lon": 47.7833
+        },
+        "it": "Ankazondandy",
+        "it:t": "Madagascar | Manjakandriana",
+        "es": "Ankazondandy",
+        "es:t": "Madagascar | Manjakandriana",
+        "de": "Ankazondandy",
+        "de:t": "Madagaskar | Manjakandriana"
+    },
+    {
+        "en": "Antalaha",
+        "en:t": "Madagascar",
+        "a": true,
+        "g": {
+            "lat": -14.9061,
+            "lon": 50.2785
+        },
+        "it": "Antalaha",
+        "it:t": "Madagascar",
+        "es": "Antalaha",
+        "es:t": "Madagascar",
+        "de": "Antalaha",
+        "de:t": "Madagaskar"
+    },
+    {
+        "en": "Antananarivo",
+        "en:t": "Madagascar | Antananarivo-Atsimondrano",
+        "a": true,
+        "g": {
+            "lat": -18.8792,
+            "lon": 47.5079
+        },
+        "it": "Antananarivo",
+        "it:t": "Madagascar | Antananarivo Atsimondrano",
+        "es": "Antananarivo",
+        "es:t": "Madagascar | Antananarivo Atsimondrano",
+        "de": "Antananarivo",
+        "de:t": "Madagaskar | Antananarivo-Atsimondrano"
+    },
+    {
+        "en": "Antanifotsy",
+        "en:t": "Madagascar",
+        "a": true,
+        "g": {
+            "lat": -19.6513,
+            "lon": 47.3266
+        },
+        "it": "Antanifotsy",
+        "it:t": "Madagascar",
+        "es": "Antanifotsy",
+        "es:t": "Madagascar",
+        "de": "Antanifotsy",
+        "de:t": "Madagaskar"
+    },
+    {
+        "en": "Antisiranana",
+        "en:t": "Madagascar | Antsiranana",
+        "a": true,
+        "g": {
+            "lat": -12.3231,
+            "lon": 49.2943
+        },
+        "it": "Antsiranana",
+        "it:t": "Madagascar | Antsiranana",
+        "es": "Antsiranana",
+        "es:t": "Madagascar | Antsiranana",
+        "de": "Antsiranana",
+        "de:t": "Madagaskar | Antsiranana"
+    },
+    {
+        "en": "Antsirabe",
+        "en:t": "Madagascar | Antsirabe II",
+        "a": true,
+        "g": {
+            "lat": -19.873,
+            "lon": 47.0291
+        },
+        "it": "Antsirabe",
+        "it:t": "Madagascar | Antsirabe II",
+        "es": "Antsirabe",
+        "es:t": "Madagascar | Antsirabe II",
+        "de": "Antsirabe",
+        "de:t": "Madagaskar | Antsirabe II"
+    },
+    {
+        "en": "Antsohihy",
+        "en:t": "Madagascar",
+        "a": true,
+        "g": {
+            "lat": -14.8851,
+            "lon": 47.9961
+        },
+        "it": "Antsohihy",
+        "it:t": "Madagascar",
+        "es": "Antsohihy",
+        "es:t": "Madagascar",
+        "de": "Antsohihy",
+        "de:t": "Madagaskar"
+    },
+    {
+        "en": "Atsimo-Andrefana",
+        "en:t": "Madagascar | Toliara",
+        "a": true,
+        "g": {
+            "lat": -23.1485,
+            "lon": 44.3993
+        },
+        "it": "Atsimo-Andrefana",
+        "it:t": "Madagascar | Toliara",
+        "es": "Atsimo-Andrefana",
+        "es:t": "Madagascar | Toliara",
+        "de": "Atsimo-Andrefana",
+        "de:t": "Madagaskar | Toliara"
+    },
+    {
+        "en": "Atsimo-Atsinanana",
+        "en:t": "Madagascar | Fianarantsoa",
+        "a": true,
+        "g": {
+            "lat": -23.582,
+            "lon": 47.2924
+        },
+        "it": "Atsimo-Atsinanana",
+        "it:t": "Madagascar | Fianarantsoa",
+        "es": "Atsimo-Atsinanana",
+        "es:t": "Madagascar | Fianarantsoa",
+        "de": "Atsimo-Atsinanana",
+        "de:t": "Madagaskar | Fianarantsoa"
+    },
+    {
+        "en": "Atsinanana",
+        "en:t": "Madagascar | Toamasina",
+        "a": true,
+        "g": {
+            "lat": -18.8131,
+            "lon": 48.88
+        },
+        "it": "Toamasina",
+        "it:t": "Madagascar | Atsinanana",
+        "es": "Toamasina",
+        "es:t": "Madagascar | Atsinanana",
+        "de": "Toamasina",
+        "de:t": "Madagaskar | Atsinanana"
+    },
+    {
+        "en": "Avironimamo",
+        "en:t": "Madagascar | Arivonimamo",
+        "a": true,
+        "g": {
+            "lat": -19.0098,
+            "lon": 47.1801
+        },
+        "it": "Arivonimamo",
+        "it:t": "Madagascar | Arivonimamo",
+        "es": "Arivonimamo",
+        "es:t": "Madagascar | Arivonimamo",
+        "de": "Avironimamo",
+        "de:t": "Madagaskar | Arivonimamo"
+    },
+    {
+        "en": "Bealanana",
+        "en:t": "Madagascar | Bealanana",
+        "a": true,
+        "g": {
+            "lat": -14.546,
+            "lon": 48.7543
+        },
+        "it": "Bealanana",
+        "it:t": "Madagascar | Bealanana",
+        "es": "Bealanana",
+        "es:t": "Madagascar | Bealanana",
+        "de": "Bealanana",
+        "de:t": "Madagaskar | Bealanana"
+    },
+    {
+        "en": "Belo Tsiribihina",
+        "en:t": "Madagascar | Belon'i Tsiribihina",
+        "a": true,
+        "g": {
+            "lat": -19.6972,
+            "lon": 44.5431
+        },
+        "it": "Belo Sur Tsiribihina",
+        "it:t": "Madagascar | Belo sur Tsiribihina",
+        "es": "Belo sur Tsiribihina",
+        "es:t": "Madagascar | Belon'i Tsiribihina",
+        "de": "Belo sur Tsiribihina",
+        "de:t": "Madagaskar | Belon'i Tsiribihina"
+    },
+    {
+        "en": "Beloha",
+        "en:t": "Madagascar",
+        "a": true,
+        "g": {
+            "lat": -25.1694,
+            "lon": 45.0607
+        },
+        "it": "Beloha",
+        "it:t": "Madagascar",
+        "es": "Beloha",
+        "es:t": "Madagascar",
+        "de": "Beloha",
+        "de:t": "Madagaskar"
+    },
+    {
+        "en": "Beroroha",
+        "en:t": "Madagascar",
+        "a": true,
+        "g": {
+            "lat": -21.6808,
+            "lon": 45.1658
+        },
+        "it": "Beroroha",
+        "it:t": "Madagascar",
+        "es": "Beroroha",
+        "es:t": "Madagascar",
+        "de": "Beroroha",
+        "de:t": "Madagaskar"
+    },
+    {
+        "en": "Betafo",
+        "en:t": "Madagascar",
+        "a": true,
+        "g": {
+            "lat": -19.8382,
+            "lon": 46.8568
+        },
+        "it": "Betafo",
+        "it:t": "Madagascar",
+        "es": "Betafo",
+        "es:t": "Madagascar",
+        "de": "Betafo",
+        "de:t": "Madagaskar"
+    },
+    {
+        "en": "Betioky",
+        "en:t": "Madagascar | Betioky-Atsimo",
+        "a": true,
+        "g": {
+            "lat": -23.722,
+            "lon": 44.3828
+        },
+        "it": "Betioky",
+        "it:t": "Madagascar | Betioky-Atsimo",
+        "es": "Betioky",
+        "es:t": "Madagascar | Betioky-Atsimo",
+        "de": "Betioky",
+        "de:t": "Madagaskar | Betioky-Atsimo"
+    },
+    {
+        "en": "Brickaville",
+        "en:t": "Madagascar | Vohibinany",
+        "a": true,
+        "g": {
+            "lat": -18.8201,
+            "lon": 49.0653
+        },
+        "it": "Brickaville",
+        "it:t": "Madagascar | Brickaville",
+        "es": "Brickaville",
+        "es:t": "Madagascar | Vohibinany",
+        "de": "Ampasimanolotra",
+        "de:t": "Madagaskar | Vohibinany"
+    },
+    {
+        "en": "Diana",
+        "en:t": "Madagascar | Antsiranana",
+        "a": true,
+        "g": {
+            "lat": -13.4087,
+            "lon": 49.2031
+        },
+        "it": "Diana",
+        "it:t": "Madagascar | Antsiranana",
+        "es": "Diana",
+        "es:t": "Madagascar | Antsiranana",
+        "de": "Diana",
+        "de:t": "Madagaskar | Antsiranana"
+    },
+    {
+        "en": "Fandriana",
+        "en:t": "Madagascar",
+        "a": true,
+        "g": {
+            "lat": -20.2385,
+            "lon": 47.3756
+        },
+        "it": "Fandriana",
+        "it:t": "Madagascar",
+        "es": "Fandriana",
+        "es:t": "Madagascar",
+        "de": "Fandriana",
+        "de:t": "Madagaskar"
+    },
+    {
+        "en": "Farafagana",
+        "en:t": "Madagascar",
+        "a": true,
+        "g": {
+            "lat": -22.8174,
+            "lon": 47.818
+        },
+        "it": "Farafangana",
+        "it:t": "Madagascar",
+        "es": "Farafangana",
+        "es:t": "Madagascar",
+        "de": "Farafangana",
+        "de:t": "Madagaskar"
+    },
+    {
+        "en": "Faratsiho",
+        "en:t": "Madagascar",
+        "a": true,
+        "g": {
+            "lat": -19.4021,
+            "lon": 46.9538
+        },
+        "it": "Faratsiho",
+        "it:t": "Madagascar",
+        "es": "Faratsiho",
+        "es:t": "Madagascar",
+        "de": "Faratsiho",
+        "de:t": "Madagaskar"
+    },
+    {
+        "en": "Farihy Ampahana",
+        "en:t": "Madagascar | Sava",
+        "a": true,
+        "g": {
+            "lat": -14.7611,
+            "lon": 50.2061
+        },
+        "it": "Farihy Ampahana",
+        "it:t": "Madagascar | Sava",
+        "es": "Farihy Ampahana",
+        "es:t": "Madagascar | Sava",
+        "de": "Farihy Ampahana",
+        "de:t": "Madagaskar | Sava"
+    },
+    {
+        "en": "Fenoarivo",
+        "en:t": "Madagascar",
+        "a": true,
+        "g": {
+            "lat": -17.3814,
+            "lon": 49.4085
+        },
+        "it": "Fenoarivo Atsinanana",
+        "it:t": "Madagascar",
+        "es": "Fenoarivo",
+        "es:t": "Madagascar",
+        "de": "Fenoarivo Atsinanana",
+        "de:t": "Madagaskar"
+    },
+    {
+        "en": "Fianarantsoa",
+        "en:t": "Madagascar | Fianarantsoa I",
+        "a": true,
+        "g": {
+            "lat": -21.4546,
+            "lon": 47.0875
+        },
+        "it": "Fianarantsoa",
+        "it:t": "Madagascar | Fianarantsoa I",
+        "es": "Fianarantsoa",
+        "es:t": "Madagascar | Fianarantsoa I",
+        "de": "Fianarantsoa",
+        "de:t": "Madagaskar | Fianarantsoa I"
+    },
+    {
+        "en": "Hell-Ville",
+        "en:t": "Madagascar | Nosy-Be",
+        "a": true,
+        "g": {
+            "lat": -13.3971,
+            "lon": 48.2667
+        },
+        "it": "Hell-Ville",
+        "it:t": "Madagascar | Nosy-Be",
+        "es": "Hell-Ville",
+        "es:t": "Madagascar | Nosy-Be",
+        "de": "Hell-Ville",
+        "de:t": "Madagaskar | Nosy-Be"
+    },
+    {
+        "en": "Ifanadiana",
+        "en:t": "Madagascar",
+        "a": true,
+        "g": {
+            "lat": -21.3032,
+            "lon": 47.6381
+        },
+        "it": "Ifanadiana",
+        "it:t": "Madagascar",
+        "es": "Ifanadiana",
+        "es:t": "Madagascar",
+        "de": "Ifanadiana",
+        "de:t": "Madagaskar"
+    },
+    {
+        "en": "Ihosy",
+        "en:t": "Madagascar",
+        "a": true,
+        "g": {
+            "lat": -22.4009,
+            "lon": 46.1279
+        },
+        "it": "Ihosy",
+        "it:t": "Madagascar",
+        "es": "Ihosy",
+        "es:t": "Madagascar",
+        "de": "Ihosy",
+        "de:t": "Madagaskar"
+    },
+    {
+        "en": "Ikalamavony",
+        "en:t": "Madagascar",
+        "a": true,
+        "g": {
+            "lat": -21.1675,
+            "lon": 46.5957
+        },
+        "it": "Ikalamavony",
+        "it:t": "Madagascar",
+        "es": "Ikalamavony",
+        "es:t": "Madagascar",
+        "de": "Ikalamavony",
+        "de:t": "Madagaskar"
+    },
+    {
+        "en": "Ikongo",
+        "en:t": "Madagascar | Fianarantsoa",
+        "a": true,
+        "g": {
+            "lat": -21.9948,
+            "lon": 47.3707
+        },
+        "it": "Ikongo",
+        "it:t": "Madagascar | Fianarantsoa",
+        "es": "Ikongo",
+        "es:t": "Madagascar | Fianarantsoa",
+        "de": "Ikongo",
+        "de:t": "Madagaskar | Fianarantsoa"
+    },
+    {
+        "en": "Kianjavato",
+        "en:t": "Madagascar | Mananjary",
+        "a": true,
+        "g": {
+            "lat": -21.3802,
+            "lon": 47.8668
+        },
+        "it": "Kianjavato",
+        "it:t": "Madagascar | Mananjary",
+        "es": "Kianjavato",
+        "es:t": "Madagascar | Mananjary",
+        "de": "Kianjavato",
+        "de:t": "Madagascar | Mananjary"
+    },
+    {
+        "en": "Maevatanana",
+        "en:t": "Madagascar",
+        "a": true,
+        "g": {
+            "lat": -16.9483,
+            "lon": 46.8325
+        },
+        "it": "Maevatanana",
+        "it:t": "Madagascar",
+        "es": "Maevatanana",
+        "es:t": "Madagascar",
+        "de": "Maevatanana",
+        "de:t": "Madagaskar"
+    },
+    {
+        "en": "Mahajanga",
+        "en:t": "Madagascar | Mahajanga",
+        "a": true,
+        "g": {
+            "lat": -15.6921,
+            "lon": 46.3337
+        },
+        "it": "Mahajanga",
+        "it:t": "Madagascar | Mahajanga",
+        "es": "Mahajanga",
+        "es:t": "Madagascar | Mahajanga",
+        "de": "Mahajanga",
+        "de:t": "Madagaskar | Mahajanga"
+    },
+    {
+        "en": "Mahanoro",
+        "en:t": "Madagascar",
+        "a": true,
+        "g": {
+            "lat": -19.8945,
+            "lon": 48.8071
+        },
+        "it": "Mahanoro",
+        "it:t": "Madagascar",
+        "es": "Mahanoro",
+        "es:t": "Madagascar",
+        "de": "Mahanoro",
+        "de:t": "Madagaskar"
+    },
+    {
+        "en": "Maintirano",
+        "en:t": "Madagascar",
+        "a": true,
+        "g": {
+            "lat": -18.0524,
+            "lon": 44.0342
+        },
+        "it": "Maintirano",
+        "it:t": "Madagascar",
+        "es": "Maintirano",
+        "es:t": "Madagascar",
+        "de": "Maintirano",
+        "de:t": "Madagaskar"
+    },
+    {
+        "en": "Manakara",
+        "en:t": "Madagascar | Manakara Sud",
+        "a": true,
+        "g": {
+            "lat": -22.1432,
+            "lon": 48.006
+        },
+        "it": "Manakara",
+        "it:t": "Madagascar | Manakara Sud",
+        "es": "Manakara",
+        "es:t": "Madagascar | Manakara Sud",
+        "de": "Manakara",
+        "de:t": "Madagaskar | Manakara Sud"
+    },
+    {
+        "en": "Mananara Avaratra",
+        "en:t": "Madagascar",
+        "a": true,
+        "g": {
+            "lat": -16.1706,
+            "lon": 49.7652
+        },
+        "it": "Mananara Nord",
+        "it:t": "Madagascar",
+        "es": "Mananara Avaratra",
+        "es:t": "Madagascar",
+        "de": "Mananara Avaratra",
+        "de:t": "Madagaskar"
+    },
+    {
+        "en": "Mananjary",
+        "en:t": "Madagascar",
+        "a": true,
+        "g": {
+            "lat": -21.2245,
+            "lon": 48.3464
+        },
+        "it": "Mananjary",
+        "it:t": "Madagascar",
+        "es": "Mananjary",
+        "es:t": "Madagascar",
+        "de": "Mananjary",
+        "de:t": "Madagaskar"
+    },
+    {
+        "en": "Manjakandriana",
+        "en:t": "Madagascar",
+        "a": true,
+        "g": {
+            "lat": -18.9106,
+            "lon": 47.8082
+        },
+        "it": "Manjakandriana",
+        "it:t": "Madagascar",
+        "es": "Manjakandriana",
+        "es:t": "Madagascar",
+        "de": "Manjakandriana",
+        "de:t": "Madagaskar"
+    },
+    {
+        "en": "Maroantsetra",
+        "en:t": "Madagascar",
+        "a": true,
+        "g": {
+            "lat": -15.4354,
+            "lon": 49.7393
+        },
+        "it": "Maroantsetra",
+        "it:t": "Madagascar",
+        "es": "Maroantsetra",
+        "es:t": "Madagascar",
+        "de": "Maroantsetra",
+        "de:t": "Madagaskar"
+    },
+    {
+        "en": "Marolambo",
+        "en:t": "Madagascar | Atsinanana",
+        "a": true,
+        "g": {
+            "lat": -20.0591,
+            "lon": 48.1333
+        },
+        "it": "Marolambo",
+        "it:t": "Madagascar | Atsinanana",
+        "es": "Marolambo",
+        "es:t": "Madagascar | Atsinanana",
+        "de": "Marolambo",
+        "de:t": "Madagaskar | Atsinanana"
+    },
+    {
+        "en": "Marovoay",
+        "en:t": "Madagascar",
+        "a": true,
+        "g": {
+            "lat": -16.1074,
+            "lon": 46.6464
+        },
+        "it": "Marovoay",
+        "it:t": "Madagascar",
+        "es": "Marovoay",
+        "es:t": "Madagascar",
+        "de": "Marovoay",
+        "de:t": "Madagaskar"
+    },
+    {
+        "en": "Miandrarivo",
+        "en:t": "Madagascar | Faratsiho",
+        "a": true,
+        "g": {
+            "lat": -19.4428,
+            "lon": 46.7515
+        },
+        "it": "Miandrarivo",
+        "it:t": "Madagascar | Faratsiho",
+        "es": "Miandrarivo",
+        "es:t": "Madagascar | Faratsiho",
+        "de": "Miandrarivo",
+        "de:t": "Madagaskar | Faratsiho"
+    },
+    {
+        "en": "Miandrivazo",
+        "en:t": "Madagascar",
+        "a": true,
+        "g": {
+            "lat": -19.5354,
+            "lon": 45.4616
+        },
+        "it": "Miandrivazo",
+        "it:t": "Madagascar",
+        "es": "Miandrivazo",
+        "es:t": "Madagascar",
+        "de": "Miandrivazo",
+        "de:t": "Madagaskar"
+    },
+    {
+        "en": "Moramanga",
+        "en:t": "Madagascar",
+        "a": true,
+        "g": {
+            "lat": -18.9489,
+            "lon": 48.2244
+        },
+        "it": "Moramanga",
+        "it:t": "Madagascar",
+        "es": "Moramanga",
+        "es:t": "Madagascar",
+        "de": "Moramanga",
+        "de:t": "Madagaskar"
+    },
+    {
+        "en": "Morondava",
+        "en:t": "Madagascar",
+        "a": true,
+        "g": {
+            "lat": -20.2904,
+            "lon": 44.3
+        },
+        "it": "Morondava",
+        "it:t": "Madagascar",
+        "es": "Morondava",
+        "es:t": "Madagascar",
+        "de": "Morondava",
+        "de:t": "Madagaskar"
+    },
+    {
+        "en": "Nosy-Varika",
+        "en:t": "Madagascar",
+        "a": true,
+        "g": {
+            "lat": -20.5913,
+            "lon": 48.5312
+        },
+        "it": "Nosy-Varika",
+        "it:t": "Madagascar",
+        "es": "Nosy-Varika",
+        "es:t": "Madagascar",
+        "de": "Nosy Varika",
+        "de:t": "Madagaskar"
+    },
+    {
+        "en": "Sadabe",
+        "en:t": "Madagascar | Manjakandriana",
+        "a": true,
+        "g": {
+            "lat": -18.6178,
+            "lon": 47.7099
+        },
+        "it": "Sadabe",
+        "it:t": "Madagascar | Manjakandriana",
+        "es": "Sadabe",
+        "es:t": "Madagascar | Manjakandriana",
+        "de": "Sadabe",
+        "de:t": "Madagaskar | Manjakandriana"
+    },
+    {
+        "en": "Sakaraha",
+        "en:t": "Madagascar",
+        "a": true,
+        "g": {
+            "lat": -22.9106,
+            "lon": 44.5266
+        },
+        "it": "Sakaraha",
+        "it:t": "Madagascar",
+        "es": "Sakaraha",
+        "es:t": "Madagascar",
+        "de": "Sakaraha",
+        "de:t": "Madagaskar"
+    },
+    {
+        "en": "Sambava",
+        "en:t": "Madagascar",
+        "a": true,
+        "g": {
+            "lat": -14.2713,
+            "lon": 50.1678
+        },
+        "it": "Sambava",
+        "it:t": "Madagascar",
+        "es": "Sambava",
+        "es:t": "Madagascar",
+        "de": "Sambava",
+        "de:t": "Madagaskar"
+    },
+    {
+        "en": "Sitampiky",
+        "en:t": "Madagascar | Boeny",
+        "a": true,
+        "g": {
+            "lat": -16.6779,
+            "lon": 46.1097
+        },
+        "it": "Sitampiky",
+        "it:t": "Madagascar | Boeny",
+        "es": "Sitampiky",
+        "es:t": "Madagascar | Boeny",
+        "de": "Sitampiky",
+        "de:t": "Madagaskar | Boeny"
+    },
+    {
+        "en": "Soanierana - Ivongo",
+        "en:t": "Madagascar | Soanierana-Ivongo",
+        "a": true,
+        "g": {
+            "lat": -16.9214,
+            "lon": 49.5853
+        },
+        "it": "Soanierana Ivongo",
+        "it:t": "Madagascar | Soanierana Ivongo",
+        "es": "Soanierana - Ivongo",
+        "es:t": "Madagascar | Soanierana-Ivongo",
+        "de": "Soanierana - Ivongo",
+        "de:t": "Madagaskar | Soanierana-Ivongo"
+    },
+    {
+        "en": "Soanindrariny",
+        "en:t": "Madagascar | Antsirabe II",
+        "a": true,
+        "g": {
+            "lat": -19.9062,
+            "lon": 47.2342
+        },
+        "it": "Soanindrariny",
+        "it:t": "Madagascar | Antsirabe II",
+        "es": "Soanindrariny",
+        "es:t": "Madagascar | Antsirabe II",
+        "de": "Soanindrariny",
+        "de:t": "Madagaskar | Antsirabe II"
+    },
+    {
+        "en": "Soavinandriana",
+        "en:t": "Madagascar",
+        "a": true,
+        "g": {
+            "lat": -19.1694,
+            "lon": 46.7406
+        },
+        "it": "Soavinandriana",
+        "it:t": "Madagascar",
+        "es": "Soavinandriana",
+        "es:t": "Madagascar",
+        "de": "Soavinandriana",
+        "de:t": "Madagaskar"
+    },
+    {
+        "en": "Taolagnaro",
+        "en:t": "Madagascar | Taolanaro",
+        "a": true,
+        "g": {
+            "lat": -25.0225,
+            "lon": 46.9854
+        },
+        "it": "Tolagnaro",
+        "it:t": "Madagascar | Tolagnaro",
+        "es": "T\u00f4lanaro",
+        "es:t": "Madagascar | Taolanaro",
+        "de": "Tolagnaro",
+        "de:t": "Madagaskar | T\u00f4lanaro"
+    },
+    {
+        "en": "Tsaratanana",
+        "en:t": "Madagascar",
+        "a": true,
+        "g": {
+            "lat": -16.7918,
+            "lon": 47.648
+        },
+        "it": "Tsaratanana",
+        "it:t": "Madagascar",
+        "es": "Tsaratanana",
+        "es:t": "Madagascar",
+        "de": "Tsaratanana",
+        "de:t": "Madagaskar"
+    },
+    {
+        "en": "Tsiombe",
+        "en:t": "Madagascar | Tsihombe",
+        "a": true,
+        "g": {
+            "lat": -25.3168,
+            "lon": 45.4863
+        },
+        "it": "Tsihombe",
+        "it:t": "Madagascar",
+        "es": "Tsiombe",
+        "es:t": "Madagascar | Tsihombe",
+        "de": "Tsiombe",
+        "de:t": "Madagaskar | Tsihombe"
+    },
+    {
+        "en": "Tsiroanomandidy",
+        "en:t": "Madagascar",
+        "a": true,
+        "g": {
+            "lat": -18.7679,
+            "lon": 46.0516
+        },
+        "it": "Tsiroanomandidy",
+        "it:t": "Madagascar",
+        "es": "Tsiroanomandidy",
+        "es:t": "Madagascar",
+        "de": "Tsiroanomandidy",
+        "de:t": "Madagaskar"
+    },
+    {
+        "en": "Vangaindrano",
+        "en:t": "Madagascar",
+        "a": true,
+        "g": {
+            "lat": -23.3505,
+            "lon": 47.5914
+        },
+        "it": "Vangaindrano",
+        "it:t": "Madagascar",
+        "es": "Vangaindrano",
+        "es:t": "Madagascar",
+        "de": "Vangaindrano",
+        "de:t": "Madagaskar"
+    },
+    {
+        "en": "Vatovavy-Fitovinany",
+        "en:t": "Madagascar | Fianarantsoa",
+        "a": true,
+        "g": {
+            "lat": -21.3206,
+            "lon": 47.9218
+        },
+        "it": "Vatovavy-Fitovinany",
+        "it:t": "Madagascar | Fianarantsoa",
+        "es": "Vatovavy-Fitovinany",
+        "es:t": "Madagascar | Fianarantsoa",
+        "de": "Vatovavy-Fitovinany",
+        "de:t": "Madagaskar | Fianarantsoa"
+    },
+    {
+        "en": "Vavatenina",
+        "en:t": "Madagascar",
+        "a": true,
+        "g": {
+            "lat": -17.4652,
+            "lon": 49.2006
+        },
+        "it": "Vavatenina",
+        "it:t": "Madagascar",
+        "es": "Vavatenina",
+        "es:t": "Madagascar",
+        "de": "Vavatenina",
+        "de:t": "Madagaskar"
+    },
+    {
+        "en": "Vondrozo",
+        "en:t": "Madagascar",
+        "a": true,
+        "g": {
+            "lat": -22.8109,
+            "lon": 47.3303
+        },
+        "it": "Vondrozo",
+        "it:t": "Madagascar",
+        "es": "Vondrozo",
+        "es:t": "Madagascar",
+        "de": "Vondrozo",
+        "de:t": "Madagaskar"
+    }
+]

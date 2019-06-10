@@ -1,0 +1,287 @@
+[
+    {
+        "en": "Bafoulab\u00e9",
+        "en:t": "Mali",
+        "a": true,
+        "g": {
+            "lat": 13.8093,
+            "lon": -10.8346
+        },
+        "it": "Bafoulab\u00e9",
+        "it:t": "Mali",
+        "es": "Bafoulab\u00e9",
+        "es:t": "Mal\u00ed",
+        "de": "Bafoulab\u00e9",
+        "de:t": "Mali"
+    },
+    {
+        "en": "Bamako",
+        "en:t": "Mali",
+        "a": true,
+        "g": {
+            "lat": 12.6392,
+            "lon": -8.0029
+        },
+        "it": "Bamako",
+        "it:t": "Mali",
+        "es": "Bamako",
+        "es:t": "Mal\u00ed",
+        "de": "Bamako",
+        "de:t": "Mali"
+    },
+    {
+        "en": "Banamba",
+        "en:t": "Mali",
+        "a": true,
+        "g": {
+            "lat": 13.5543,
+            "lon": -7.4435
+        },
+        "it": "Banamba",
+        "it:t": "Mali",
+        "es": "Banamba",
+        "es:t": "Mal\u00ed",
+        "de": "Banamba",
+        "de:t": "Mali"
+    },
+    {
+        "en": "Bougouni",
+        "en:t": "Mali",
+        "a": true,
+        "g": {
+            "lat": 11.4183,
+            "lon": -7.4706
+        },
+        "it": "Bougouni",
+        "it:t": "Mali",
+        "es": "Bougouni",
+        "es:t": "Mal\u00ed",
+        "de": "Bougouni",
+        "de:t": "Mali"
+    },
+    {
+        "en": "Djenne",
+        "en:t": "Mali",
+        "a": true,
+        "g": {
+            "lat": 13.9054,
+            "lon": -4.556
+        },
+        "it": "Djenn\u00e9",
+        "it:t": "Mali",
+        "es": "Djenn\u00e9",
+        "es:t": "Mal\u00ed",
+        "de": "Djenn\u00e9",
+        "de:t": "Mali"
+    },
+    {
+        "en": "Gao",
+        "en:t": "Mali",
+        "a": true,
+        "g": {
+            "lat": 16.264,
+            "lon": -0.028
+        },
+        "it": "Gao",
+        "it:t": "Mali",
+        "es": "Gao",
+        "es:t": "Mal\u00ed",
+        "de": "Gao",
+        "de:t": "Mali"
+    },
+    {
+        "en": "Kangaba",
+        "en:t": "Mali",
+        "a": true,
+        "g": {
+            "lat": 11.9428,
+            "lon": -8.4157
+        },
+        "it": "Kangaba",
+        "it:t": "Mali",
+        "es": "Kangaba",
+        "es:t": "Mal\u00ed",
+        "de": "Kangaba",
+        "de:t": "Mali"
+    },
+    {
+        "en": "Kati",
+        "en:t": "Mali",
+        "a": true,
+        "g": {
+            "lat": 12.4933,
+            "lon": -8.3088
+        },
+        "it": "Kati",
+        "it:t": "Mali",
+        "es": "Kati",
+        "es:t": "Mal\u00ed",
+        "de": "Kati",
+        "de:t": "Mali"
+    },
+    {
+        "en": "Kayes",
+        "en:t": "Mali",
+        "a": true,
+        "g": {
+            "lat": 14.4368,
+            "lon": -11.4453
+        },
+        "it": "Kayes",
+        "it:t": "Mali",
+        "es": "Kayes",
+        "es:t": "Mal\u00ed",
+        "de": "Kayes",
+        "de:t": "Mali"
+    },
+    {
+        "en": "Kolokani",
+        "en:t": "Mali",
+        "a": true,
+        "g": {
+            "lat": 13.5734,
+            "lon": -8.0329
+        },
+        "it": "Kolokani",
+        "it:t": "Mali",
+        "es": "Kolokani",
+        "es:t": "Mal\u00ed",
+        "de": "Kolokani",
+        "de:t": "Mali"
+    },
+    {
+        "en": "Koulikoro",
+        "en:t": "Mali",
+        "a": true,
+        "g": {
+            "lat": 12.8662,
+            "lon": -7.5599
+        },
+        "it": "Koulikoro",
+        "it:t": "Mali",
+        "es": "Ciudad de Kulikor\u00f3",
+        "es:t": "Mal\u00ed",
+        "de": "Koulikoro",
+        "de:t": "Mali"
+    },
+    {
+        "en": "Koutiala",
+        "en:t": "Mali",
+        "a": true,
+        "g": {
+            "lat": 12.3774,
+            "lon": -5.4725
+        },
+        "it": "Koutiala",
+        "it:t": "Mali",
+        "es": "Koutiala",
+        "es:t": "Mal\u00ed",
+        "de": "Koutiala",
+        "de:t": "Mali"
+    },
+    {
+        "en": "Markala",
+        "en:t": "Mali | Macina",
+        "a": true,
+        "g": {
+            "lat": 13.8168,
+            "lon": -5.3578
+        },
+        "it": "Markala",
+        "it:t": "Mali | Macina",
+        "es": "Markala",
+        "es:t": "Mal\u00ed | Macina",
+        "de": "Markala",
+        "de:t": "Mali | Macina"
+    },
+    {
+        "en": "Mopti",
+        "en:t": "Mali",
+        "a": true,
+        "g": {
+            "lat": 14.4874,
+            "lon": -4.1975
+        },
+        "it": "Mopti",
+        "it:t": "Mali",
+        "es": "Mopti",
+        "es:t": "Mal\u00ed",
+        "de": "Mopti",
+        "de:t": "Mali"
+    },
+    {
+        "en": "San",
+        "en:t": "Mali",
+        "a": true,
+        "g": {
+            "lat": 13.2944,
+            "lon": -4.8988
+        },
+        "it": "San",
+        "it:t": "Mali",
+        "es": "San",
+        "es:t": "Mal\u00ed",
+        "de": "San",
+        "de:t": "Mali"
+    },
+    {
+        "en": "Segou",
+        "en:t": "Mali",
+        "a": true,
+        "g": {
+            "lat": 13.4317,
+            "lon": -6.2482
+        },
+        "it": "S\u00e9gou",
+        "it:t": "Mali",
+        "es": "Seg\u00fa",
+        "es:t": "Mal\u00ed",
+        "de": "S\u00e9gou",
+        "de:t": "Mali"
+    },
+    {
+        "en": "Sikasso",
+        "en:t": "Mali",
+        "a": true,
+        "g": {
+            "lat": 11.3224,
+            "lon": -5.6984
+        },
+        "it": "Sikasso",
+        "it:t": "Mali",
+        "es": "Sikasso",
+        "es:t": "Mal\u00ed",
+        "de": "Sikasso",
+        "de:t": "Mali"
+    },
+    {
+        "en": "Timbuktu",
+        "en:t": "Mali",
+        "a": true,
+        "g": {
+            "lat": 16.7666,
+            "lon": -3.0026
+        },
+        "it": "Timbuktu",
+        "it:t": "Mali",
+        "es": "Tombuct\u00fa",
+        "es:t": "Mal\u00ed",
+        "de": "Timbuktu",
+        "de:t": "Mali"
+    },
+    {
+        "en": "Yorosso",
+        "en:t": "Mali",
+        "a": true,
+        "g": {
+            "lat": 12.3548,
+            "lon": -4.7782
+        },
+        "it": "Yorosso",
+        "it:t": "Mali",
+        "es": "Yorosso",
+        "es:t": "Mal\u00ed",
+        "de": "Yorosso",
+        "de:t": "Mali"
+    }
+]

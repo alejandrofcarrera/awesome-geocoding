@@ -1,0 +1,17 @@
+[
+    {
+        "en": "Philipsburg",
+        "en:t": "Sint Maarten",
+        "a": true,
+        "g": {
+            "lat": 18.0296,
+            "lon": -63.0471
+        },
+        "it": "Philipsburg",
+        "it:t": "Sint Maarten",
+        "es": "Philipsburg",
+        "es:t": "Sint Maarten",
+        "de": "Philipsburg",
+        "de:t": "Sint Maarten"
+    }
+]

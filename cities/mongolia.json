@@ -1,0 +1,287 @@
+[
+    {
+        "en": "Altai",
+        "en:t": "Mongolia",
+        "a": true,
+        "g": {
+            "lat": 46.3552,
+            "lon": 96.2525
+        },
+        "it": "Altaj",
+        "it:t": "Mongolia",
+        "es": "Alt\u00e1i",
+        "es:t": "Mongolia",
+        "de": "Altai",
+        "de:t": "Mongolei"
+    },
+    {
+        "en": "Arvaikheer",
+        "en:t": "Mongolia | Taragt",
+        "a": true,
+        "g": {
+            "lat": 46.2729,
+            "lon": 102.779
+        },
+        "it": "Arvajh\u0117\u0117r",
+        "it:t": "Mongolia | Taragt",
+        "es": "Arvaikheer",
+        "es:t": "Mongolia | Taragt",
+        "de": "Arwaicheer",
+        "de:t": "Mongolei | Taragt"
+    },
+    {
+        "en": "Baruun-Urt",
+        "en:t": "Mongolia | Sukhbaatar",
+        "a": true,
+        "g": {
+            "lat": 46.6653,
+            "lon": 113.2877
+        },
+        "it": "Baruun-Urt",
+        "it:t": "Mongolia | Sukhbaatar",
+        "es": "Baruun-Urt",
+        "es:t": "Mongolia | Sukhbaatar",
+        "de": "Baruun-Urt",
+        "de:t": "Mongolei | Sukhbaatar"
+    },
+    {
+        "en": "Bayankhongor",
+        "en:t": "Mongolia",
+        "a": true,
+        "g": {
+            "lat": 46.1772,
+            "lon": 100.7119
+        },
+        "it": "Bajanhongor",
+        "it:t": "Mongolia",
+        "es": "Bayanhongor",
+        "es:t": "Mongolia",
+        "de": "Bajanchongor",
+        "de:t": "Mongolei"
+    },
+    {
+        "en": "Bulgan",
+        "en:t": "Mongolia",
+        "a": true,
+        "g": {
+            "lat": 48.8232,
+            "lon": 103.5218
+        },
+        "it": "Bulgan",
+        "it:t": "Mongolia",
+        "es": "Bulgan",
+        "es:t": "Mongolia",
+        "de": "Bulgan",
+        "de:t": "Mongolei"
+    },
+    {
+        "en": "Dalanzadgad",
+        "en:t": "Mongolia",
+        "a": true,
+        "g": {
+            "lat": 43.5685,
+            "lon": 104.4141
+        },
+        "it": "Dalanzadgad",
+        "it:t": "Mongolia",
+        "es": "Dalanzadgad",
+        "es:t": "Mongolia",
+        "de": "Dalandsadgad",
+        "de:t": "Mongolei"
+    },
+    {
+        "en": "Darkhan",
+        "en:t": "Mongolia",
+        "a": true,
+        "g": {
+            "lat": 49.4648,
+            "lon": 105.9746
+        },
+        "it": "Darhan",
+        "it:t": "Mongolia",
+        "es": "Darjan",
+        "es:t": "Mongolia",
+        "de": "Darchan",
+        "de:t": "Mongolei"
+    },
+    {
+        "en": "Erdenet",
+        "en:t": "Mongolia | Bayan-Undur",
+        "a": true,
+        "g": {
+            "lat": 49.0541,
+            "lon": 104.0717
+        },
+        "it": "Erdenet",
+        "it:t": "Mongolia | Bajan-\u00d4nd\u00f4r",
+        "es": "Erdenet",
+        "es:t": "Mongolia | Bayan-Undur",
+        "de": "Erdenet",
+        "de:t": "Mongolei | Bayan-Undur"
+    },
+    {
+        "en": "Khovd",
+        "en:t": "Mongolia | Jargalant",
+        "a": true,
+        "g": {
+            "lat": 47.9795,
+            "lon": 91.6348
+        },
+        "it": "Hovd",
+        "it:t": "Mongolia | Jargalant",
+        "es": "Hovd",
+        "es:t": "Mongolia | Jargalant",
+        "de": "Chowd",
+        "de:t": "Mongolei | Jargalant"
+    },
+    {
+        "en": "Mandalgovi",
+        "en:t": "Mongolia | Saintsagaan",
+        "a": true,
+        "g": {
+            "lat": 45.7632,
+            "lon": 106.265
+        },
+        "it": "Mandalgov'",
+        "it:t": "Mongolia | Sajncagaan",
+        "es": "Mandalgobi",
+        "es:t": "Mongolia | Saintsagaan",
+        "de": "Mandalgobi",
+        "de:t": "Mongolei | Saintsagaan"
+    },
+    {
+        "en": "Murun",
+        "en:t": "Mongolia",
+        "a": true,
+        "g": {
+            "lat": 49.6429,
+            "lon": 100.1772
+        },
+        "it": "M\u00f4r\u00f4n",
+        "it:t": "Mongolia",
+        "es": "M\u00f6r\u00f6n",
+        "es:t": "Mongolia",
+        "de": "M\u00f6r\u00f6n",
+        "de:t": "Mongolei"
+    },
+    {
+        "en": "Sainshand",
+        "en:t": "Mongolia",
+        "a": true,
+        "g": {
+            "lat": 44.8991,
+            "lon": 110.1066
+        },
+        "it": "Sajn\u0161and",
+        "it:t": "Mongolia",
+        "es": "Sainshand",
+        "es:t": "Mongolia",
+        "de": "Sainschand",
+        "de:t": "Mongolei"
+    },
+    {
+        "en": "Sukhbaatar",
+        "en:t": "Mongolia | Altanbulag",
+        "a": true,
+        "g": {
+            "lat": 50.2176,
+            "lon": 106.2203
+        },
+        "it": "S\u00f9hbaatar",
+        "it:t": "Mongolia | Altanbulag",
+        "es": "Sukhbaatar",
+        "es:t": "Mongolia | Altanbulag",
+        "de": "S\u00fcchbaatar",
+        "de:t": "Mongolei | Altanbulag"
+    },
+    {
+        "en": "Ulaanbaatar",
+        "en:t": "Mongolia | Khan-Uul",
+        "a": true,
+        "g": {
+            "lat": 47.8864,
+            "lon": 106.9057
+        },
+        "it": "Ulan Bator",
+        "it:t": "Mongolia | Han Uul",
+        "es": "Ul\u00e1n Bator",
+        "es:t": "Mongolia | Khan-Uul",
+        "de": "Ulaanbaatar",
+        "de:t": "Mongolei | Khan-Uul"
+    },
+    {
+        "en": "Ulaangom",
+        "en:t": "Mongolia",
+        "a": true,
+        "g": {
+            "lat": 49.9903,
+            "lon": 92.0558
+        },
+        "it": "Ulaangom",
+        "it:t": "Mongolia",
+        "es": "Ulaangom",
+        "es:t": "Mongolia",
+        "de": "Ulaangom",
+        "de:t": "Mongolei"
+    },
+    {
+        "en": "Ulgii",
+        "en:t": "Mongolia",
+        "a": true,
+        "g": {
+            "lat": 48.9707,
+            "lon": 89.9678
+        },
+        "it": "\u00d4lgij",
+        "it:t": "Mongolia",
+        "es": "\u00d6lgiy",
+        "es:t": "Mongolia",
+        "de": "\u00d6lgii",
+        "de:t": "Mongolei"
+    },
+    {
+        "en": "Uliastai",
+        "en:t": "Mongolia | Aldarkhaan",
+        "a": true,
+        "g": {
+            "lat": 47.7277,
+            "lon": 96.8461
+        },
+        "it": "Uliastaj",
+        "it:t": "Mongolia | Aldarkhaan",
+        "es": "Uliastai",
+        "es:t": "Mongolia | Aldarkhaan",
+        "de": "Uliastai",
+        "de:t": "Mongolei | Aldarkhaan"
+    },
+    {
+        "en": "Zuunkharaa",
+        "en:t": "Mongolia | Mandal",
+        "a": true,
+        "g": {
+            "lat": 48.8459,
+            "lon": 106.4516
+        },
+        "it": "Zuunkharaa",
+        "it:t": "Mongolia | Mandal",
+        "es": "Z\u00fc\u00fcncharaa",
+        "es:t": "Mongolia | Mandal",
+        "de": "Ds\u00fc\u00fcncharaa",
+        "de:t": "Mongolei | Mandal"
+    },
+    {
+        "en": "Zuunmod",
+        "en:t": "Mongolia | Sergelen",
+        "a": true,
+        "g": {
+            "lat": 47.7009,
+            "lon": 106.9577
+        },
+        "it": "Zuunmod",
+        "it:t": "Mongolia | Sergelen",
+        "es": "Zuunmod",
+        "es:t": "Mongolia | Sergelen",
+        "de": "Dsuunmod",
+        "de:t": "Mongolei | Sergelen"
+    }
+]

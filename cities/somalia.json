@@ -1,0 +1,407 @@
+[
+    {
+        "en": "Afgoye",
+        "en:t": "Somalia",
+        "a": true,
+        "g": {
+            "lat": 2.1426,
+            "lon": 45.1167
+        },
+        "it": "Afgoi",
+        "it:t": "Somalia",
+        "es": "Afgooye",
+        "es:t": "Somalia",
+        "de": "Afgooye",
+        "de:t": "Somalia"
+    },
+    {
+        "en": "Baidoa",
+        "en:t": "Somalia",
+        "a": true,
+        "g": {
+            "lat": 3.1141,
+            "lon": 43.6519
+        },
+        "it": "Baidoa",
+        "it:t": "Somalia",
+        "es": "Baidoa",
+        "es:t": "Somalia",
+        "de": "Baidoa",
+        "de:t": "Somalia"
+    },
+    {
+        "en": "Baki",
+        "en:t": "Somalia",
+        "a": true,
+        "g": {
+            "lat": 10.0068,
+            "lon": 43.3633
+        },
+        "it": "Baki",
+        "it:t": "Somalia",
+        "es": "Baki",
+        "es:t": "Somalia",
+        "de": "Baki",
+        "de:t": "Somalia"
+    },
+    {
+        "en": "Bardere",
+        "en:t": "Somalia | Baar-Dheere",
+        "a": true,
+        "g": {
+            "lat": 2.339,
+            "lon": 42.288
+        },
+        "it": "Bardera",
+        "it:t": "Somalia | Baar-Dheere",
+        "es": "Bardera",
+        "es:t": "Somalia | Baar-Dheere",
+        "de": "Baardheere",
+        "de:t": "Somalia | Baar-Dheere"
+    },
+    {
+        "en": "Beledweyne",
+        "en:t": "Somalia | Beled Weyn",
+        "a": true,
+        "g": {
+            "lat": 4.7429,
+            "lon": 45.2009
+        },
+        "it": "Belet Uen",
+        "it:t": "Somalia | Beled Weyn",
+        "es": "Beledweyne",
+        "es:t": "Somalia | Beled Weyn",
+        "de": "Beledweyne",
+        "de:t": "Somalia | Beled Weyn"
+    },
+    {
+        "en": "Berbera",
+        "en:t": "Somalia",
+        "a": true,
+        "g": {
+            "lat": 10.4348,
+            "lon": 45.014
+        },
+        "it": "Berbera",
+        "it:t": "Somalia",
+        "es": "Berbera",
+        "es:t": "Somalia",
+        "de": "Berbera",
+        "de:t": "Somalia"
+    },
+    {
+        "en": "Bosaso",
+        "en:t": "Somalia | Bosaaso",
+        "a": true,
+        "g": {
+            "lat": 11.2755,
+            "lon": 49.1879
+        },
+        "it": "Bosaso",
+        "it:t": "Somalia | Bosaaso",
+        "es": "Bosaso",
+        "es:t": "Somalia | Bosaaso",
+        "de": "Boosaaso",
+        "de:t": "Somalia | Bosaaso"
+    },
+    {
+        "en": "Bulobarde",
+        "en:t": "Somalia | Bulo-Burte",
+        "a": true,
+        "g": {
+            "lat": 3.8556,
+            "lon": 45.57
+        },
+        "it": "Bulo Burti",
+        "it:t": "Somalia | Bulo-Burte",
+        "es": "Bulo Burti",
+        "es:t": "Somalia | Bulo-Burte",
+        "de": "Buulobarde",
+        "de:t": "Somalia | Bulo-Burte"
+    },
+    {
+        "en": "Burco",
+        "en:t": "Somalia",
+        "a": true,
+        "g": {
+            "lat": 9.5259,
+            "lon": 45.5346
+        },
+        "it": "Burao",
+        "it:t": "Somalia",
+        "es": "Burao",
+        "es:t": "Somalia",
+        "de": "Burao",
+        "de:t": "Somalia"
+    },
+    {
+        "en": "Buur Hakaba",
+        "en:t": "Somalia | Bur Hacaba",
+        "a": true,
+        "g": {
+            "lat": 2.7991,
+            "lon": 44.0794
+        },
+        "it": "Bur Acaba",
+        "it:t": "Somalia | Bur Hacaba",
+        "es": "Buur Hakaba",
+        "es:t": "Somalia | Bur Hacaba",
+        "de": "Buurhakaba",
+        "de:t": "Somalia | Bur Hacaba"
+    },
+    {
+        "en": "Ceel Dheer",
+        "en:t": "Somalia | Galguduud",
+        "a": true,
+        "g": {
+            "lat": 4.0722,
+            "lon": 46.9805
+        },
+        "it": "Ceeldhere",
+        "it:t": "Somalia | Ceel Dheer",
+        "es": "Ceeldhere",
+        "es:t": "Somalia | Ceel Dheer",
+        "de": "Eldheere",
+        "de:t": "Somalia | Ceel Dheer"
+    },
+    {
+        "en": "Ceerigaabo",
+        "en:t": "Somalia",
+        "a": true,
+        "g": {
+            "lat": 10.615,
+            "lon": 47.3658
+        },
+        "it": "Erigavo",
+        "it:t": "Somalia | Ceerigaabo",
+        "es": "Erigabo",
+        "es:t": "Somalia | Ceerigaabo",
+        "de": "Erigabo",
+        "de:t": "Somalia | Ceerigaabo"
+    },
+    {
+        "en": "Eyl",
+        "en:t": "Somalia",
+        "a": true,
+        "g": {
+            "lat": 7.9808,
+            "lon": 49.8151
+        },
+        "it": "Eil",
+        "it:t": "Somalia",
+        "es": "Eyl",
+        "es:t": "Somalia",
+        "de": "Eyl",
+        "de:t": "Somalia"
+    },
+    {
+        "en": "Galkayo",
+        "en:t": "Somalia | Gaalkacayo",
+        "a": true,
+        "g": {
+            "lat": 6.7873,
+            "lon": 47.4392
+        },
+        "it": "Galkayo",
+        "it:t": "Somalia | Gaalkacayo",
+        "es": "Galcaio",
+        "es:t": "Somalia | Gaalkacayo",
+        "de": "Gaalkacyo",
+        "de:t": "Somalia | Gaalkacayo"
+    },
+    {
+        "en": "Garowe",
+        "en:t": "Somalia",
+        "a": true,
+        "g": {
+            "lat": 8.4084,
+            "lon": 48.4837
+        },
+        "it": "Garoe",
+        "it:t": "Somalia",
+        "es": "Garowe",
+        "es:t": "Somalia",
+        "de": "Garoowe",
+        "de:t": "Somalia"
+    },
+    {
+        "en": "Hargeisa",
+        "en:t": "Somalia",
+        "a": true,
+        "g": {
+            "lat": 9.5624,
+            "lon": 44.077
+        },
+        "it": "Hargheisa",
+        "it:t": "Somalia",
+        "es": "Hargeisa",
+        "es:t": "Somalia",
+        "de": "Hargeysa",
+        "de:t": "Somalia"
+    },
+    {
+        "en": "Jamaame",
+        "en:t": "Somalia",
+        "a": true,
+        "g": {
+            "lat": 0.0669,
+            "lon": 42.7443
+        },
+        "it": "Giamame",
+        "it:t": "Somalia",
+        "es": "Jamaame",
+        "es:t": "Somalia",
+        "de": "Jamaame",
+        "de:t": "Somalia"
+    },
+    {
+        "en": "Jilib",
+        "en:t": "Somalia",
+        "a": true,
+        "g": {
+            "lat": 0.4919,
+            "lon": 42.7784
+        },
+        "it": "Gelib",
+        "it:t": "Somalia",
+        "es": "Jilib",
+        "es:t": "Somalia",
+        "de": "Jilib",
+        "de:t": "Somalia"
+    },
+    {
+        "en": "Jowhaar",
+        "en:t": "Somalia | Jawhar",
+        "a": true,
+        "g": {
+            "lat": 2.7774,
+            "lon": 45.5016
+        },
+        "it": "Giohar",
+        "it:t": "Somalia | Jawhar",
+        "es": "Jowhar",
+        "es:t": "Somalia | Jawhar",
+        "de": "Jowhar",
+        "de:t": "Somalia | Jawhar"
+    },
+    {
+        "en": "Kismayo",
+        "en:t": "Somalia | Lower Juba",
+        "a": true,
+        "g": {
+            "lat": -0.356,
+            "lon": 42.5461
+        },
+        "it": "Chisimaio",
+        "it:t": "Somalia | Basso Giuba",
+        "es": "Kismaayo",
+        "es:t": "Somalia | Jubbada Hoose",
+        "de": "Kismaayo",
+        "de:t": "Somalia | Jubbada Hoose"
+    },
+    {
+        "en": "Laascaanood",
+        "en:t": "Somalia | Lasanod",
+        "a": true,
+        "g": {
+            "lat": 8.476,
+            "lon": 47.3658
+        },
+        "it": "Las Anod",
+        "it:t": "Somalia | Lasanod",
+        "es": "Las Anod",
+        "es:t": "Somalia | Lasanod",
+        "de": "Las Anod",
+        "de:t": "Somalia | Lasanod"
+    },
+    {
+        "en": "Luuq",
+        "en:t": "Somalia | Luuk",
+        "a": true,
+        "g": {
+            "lat": 3.8131,
+            "lon": 42.5461
+        },
+        "it": "Lugh",
+        "it:t": "Somalia | Luuk",
+        "es": "Luuq",
+        "es:t": "Somalia | Luuk",
+        "de": "Luuq",
+        "de:t": "Somalia | Luuk"
+    },
+    {
+        "en": "Merca",
+        "en:t": "Somalia",
+        "a": true,
+        "g": {
+            "lat": 1.7175,
+            "lon": 44.7686
+        },
+        "it": "Merca",
+        "it:t": "Somalia",
+        "es": "Merca",
+        "es:t": "Somalia",
+        "de": "Merka",
+        "de:t": "Somalia"
+    },
+    {
+        "en": "Mogadishu",
+        "en:t": "Somalia | Mogadisho",
+        "a": true,
+        "g": {
+            "lat": 2.0469,
+            "lon": 45.3182
+        },
+        "it": "Mogadiscio",
+        "it:t": "Somalia | Mogadisho",
+        "es": "Mogadiscio",
+        "es:t": "Somalia | Mogadisho",
+        "de": "Mogadischu",
+        "de:t": "Somalia | Mogadisho"
+    },
+    {
+        "en": "Qandala",
+        "en:t": "Somalia",
+        "a": true,
+        "g": {
+            "lat": 11.472,
+            "lon": 49.8739
+        },
+        "it": "Candala",
+        "it:t": "Somalia",
+        "es": "\u0120andala",
+        "es:t": "Somalia",
+        "de": "Qandala",
+        "de:t": "Somalia"
+    },
+    {
+        "en": "Qoryoley",
+        "en:t": "Somalia",
+        "a": true,
+        "g": {
+            "lat": 1.7881,
+            "lon": 44.529
+        },
+        "it": "Coriolei",
+        "it:t": "Somalia",
+        "es": "Qoryooley",
+        "es:t": "Somalia",
+        "de": "Qoryooley",
+        "de:t": "Somalia"
+    },
+    {
+        "en": "Wanlaweyn",
+        "en:t": "Somalia | Wanla Weyn",
+        "a": true,
+        "g": {
+            "lat": 2.6196,
+            "lon": 44.895
+        },
+        "it": "Uanle Uen",
+        "it:t": "Somalia | Wanla Weyn",
+        "es": "Wanlaweyn",
+        "es:t": "Somalia | Wanla Weyn",
+        "de": "Wanlaweyne",
+        "de:t": "Somalia | Wanla Weyn"
+    }
+]

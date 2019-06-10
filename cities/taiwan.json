@@ -1,0 +1,302 @@
+[
+    {
+        "en": "Banqiao",
+        "en:t": "Taiwan | New Taipei",
+        "a": true,
+        "g": {
+            "lat": 25.0114,
+            "lon": 121.4618
+        },
+        "it": "Banqiao",
+        "it:t": "Taiwan | Nuova Taipei",
+        "es": "Banqiao",
+        "es:t": "Taiw\u00e1n | Nuevo Taip\u00e9i",
+        "de": "Banqiao",
+        "de:t": "Taiwan | Neu-Taipeh"
+    },
+    {
+        "en": "Daxi",
+        "en:t": "Taiwan | Taoyuan",
+        "a": true,
+        "g": {
+            "lat": 24.8658,
+            "lon": 121.297
+        },
+        "it": "Daxi",
+        "it:t": "Taiwan | Taoyuan",
+        "es": "Daxi",
+        "es:t": "Taiw\u00e1n | Taoyuan",
+        "de": "Daxi",
+        "de:t": "Taiwan | Heping Road"
+    },
+    {
+        "en": "Douliu",
+        "en:t": "Taiwan | Douliu",
+        "a": true,
+        "g": {
+            "lat": 23.7078,
+            "lon": 120.5409
+        },
+        "it": "Douliu",
+        "it:t": "Taiwan | Douliu",
+        "es": "Douliu",
+        "es:t": "Taiw\u00e1n | Douliu",
+        "de": "Douliu",
+        "de:t": "Taiwan | Douliu"
+    },
+    {
+        "en": "Hengchun",
+        "en:t": "Taiwan | Hengchun Township",
+        "a": true,
+        "g": {
+            "lat": 22.0008,
+            "lon": 120.7448
+        },
+        "it": "Hengchun",
+        "it:t": "Taiwan | Hengchun Township",
+        "es": "Hengchun",
+        "es:t": "Taiw\u00e1n | Hengchun Township",
+        "de": "Hengchun",
+        "de:t": "Taiwan | Hengchun Township"
+    },
+    {
+        "en": "Hsinchu",
+        "en:t": "Taiwan | East",
+        "a": true,
+        "g": {
+            "lat": 24.8138,
+            "lon": 120.9675
+        },
+        "it": "Hsinchu",
+        "it:t": "Taiwan | East",
+        "es": "Hsinchu",
+        "es:t": "Taiw\u00e1n | East",
+        "de": "Hsinchu",
+        "de:t": "Taiwan | East"
+    },
+    {
+        "en": "Hualien",
+        "en:t": "Taiwan | Hualien",
+        "a": true,
+        "g": {
+            "lat": 23.9911,
+            "lon": 121.6112
+        },
+        "it": "Hualien",
+        "it:t": "Taiwan | Hualien",
+        "es": "Hualien",
+        "es:t": "Taiw\u00e1n | Hualien",
+        "de": "Hualien",
+        "de:t": "Taiwan | Hualien"
+    },
+    {
+        "en": "Jincheng",
+        "en:t": "Taiwan",
+        "a": true,
+        "g": {
+            "lat": 24.4321,
+            "lon": 118.3155
+        },
+        "it": "Jincheng",
+        "it:t": "Taiwan",
+        "es": "Jincheng",
+        "es:t": "Taiw\u00e1n",
+        "de": "Jincheng",
+        "de:t": "Taiwan"
+    },
+    {
+        "en": "Kaohsiung",
+        "en:t": "Taiwan",
+        "a": true,
+        "g": {
+            "lat": 22.6273,
+            "lon": 120.3014
+        },
+        "it": "Kaohsiung",
+        "it:t": "Taiwan",
+        "es": "Kaohsiung",
+        "es:t": "Taiw\u00e1n",
+        "de": "Kaohsiung",
+        "de:t": "Taiwan"
+    },
+    {
+        "en": "Keelung",
+        "en:t": "Taiwan",
+        "a": true,
+        "g": {
+            "lat": 25.1276,
+            "lon": 121.7392
+        },
+        "it": "Keelung",
+        "it:t": "Taiwan",
+        "es": "Keelung",
+        "es:t": "Taiw\u00e1n",
+        "de": "Keelung",
+        "de:t": "Taiwan"
+    },
+    {
+        "en": "Lugu",
+        "en:t": "Taiwan | Nantou",
+        "a": true,
+        "g": {
+            "lat": 23.7348,
+            "lon": 120.781
+        },
+        "it": "Lugu",
+        "it:t": "Taiwan | Nantou",
+        "es": "Lugu",
+        "es:t": "Taiw\u00e1n | Nantou",
+        "de": "Lugu",
+        "de:t": "Taiwan | Nantou"
+    },
+    {
+        "en": "Magong",
+        "en:t": "Taiwan | Magong",
+        "a": true,
+        "g": {
+            "lat": 23.5706,
+            "lon": 119.5775
+        },
+        "it": "Magong",
+        "it:t": "Taiwan | Magong",
+        "es": "Magong",
+        "es:t": "Taiw\u00e1n | Magong",
+        "de": "Magong",
+        "de:t": "Taiwan | Magong"
+    },
+    {
+        "en": "Nantou",
+        "en:t": "Taiwan",
+        "a": true,
+        "g": {
+            "lat": 23.918,
+            "lon": 120.6775
+        },
+        "it": "Nantou",
+        "it:t": "Taiwan",
+        "es": "Nantou",
+        "es:t": "Taiw\u00e1n",
+        "de": "Nantou",
+        "de:t": "Taiwan"
+    },
+    {
+        "en": "Puli",
+        "en:t": "Taiwan | Nantou",
+        "a": true,
+        "g": {
+            "lat": 23.9933,
+            "lon": 120.9647
+        },
+        "it": "Puli",
+        "it:t": "Taiwan | Nantou",
+        "es": "Puli",
+        "es:t": "Taiw\u00e1n | Nantou",
+        "de": "Puli",
+        "de:t": "Taiwan | Nantou"
+    },
+    {
+        "en": "Taichung",
+        "en:t": "Taiwan",
+        "a": true,
+        "g": {
+            "lat": 24.1477,
+            "lon": 120.6736
+        },
+        "it": "Taichung",
+        "it:t": "Taiwan",
+        "es": "Taichung",
+        "es:t": "Taiw\u00e1n",
+        "de": "Taichung",
+        "de:t": "Taiwan"
+    },
+    {
+        "en": "Tainan",
+        "en:t": "Taiwan",
+        "a": true,
+        "g": {
+            "lat": 22.9997,
+            "lon": 120.227
+        },
+        "it": "Tainan",
+        "it:t": "Taiwan",
+        "es": "Tainan",
+        "es:t": "Taiw\u00e1n",
+        "de": "Tainan",
+        "de:t": "Taiwan"
+    },
+    {
+        "en": "Taipei",
+        "en:t": "Taiwan",
+        "a": true,
+        "g": {
+            "lat": 25.033,
+            "lon": 121.5654
+        },
+        "it": "Taipei",
+        "it:t": "Taiwan",
+        "es": "Taip\u00e9i",
+        "es:t": "Taiw\u00e1n",
+        "de": "Taipeh",
+        "de:t": "Taiwan"
+    },
+    {
+        "en": "Taitung",
+        "en:t": "Taiwan | Taitung",
+        "a": true,
+        "g": {
+            "lat": 22.7613,
+            "lon": 121.1438
+        },
+        "it": "Taitung",
+        "it:t": "Taiwan | Taitung",
+        "es": "Taitung",
+        "es:t": "Taiw\u00e1n | Taitung",
+        "de": "Taitung",
+        "de:t": "Taiwan | Taitung"
+    },
+    {
+        "en": "Taoyuan",
+        "en:t": "Taiwan",
+        "a": true,
+        "g": {
+            "lat": 24.9936,
+            "lon": 121.301
+        },
+        "it": "Taoyuan",
+        "it:t": "Taiwan",
+        "es": "Taoyuan",
+        "es:t": "Taiw\u00e1n",
+        "de": "Taoyuan",
+        "de:t": "Taiwan"
+    },
+    {
+        "en": "Yilan",
+        "en:t": "Taiwan",
+        "a": true,
+        "g": {
+            "lat": 24.7021,
+            "lon": 121.7378
+        },
+        "it": "Yilan",
+        "it:t": "Taiwan",
+        "es": "Yilan",
+        "es:t": "Taiw\u00e1n",
+        "de": "Yilan",
+        "de:t": "Taiwan"
+    },
+    {
+        "en": "Yujing",
+        "en:t": "Taiwan | Tainan",
+        "a": true,
+        "g": {
+            "lat": 23.1061,
+            "lon": 120.4703
+        },
+        "it": "Yujing",
+        "it:t": "Taiwan | Tainan",
+        "es": "Yujing",
+        "es:t": "Taiw\u00e1n | Tainan",
+        "de": "Yujing",
+        "de:t": "Taiwan | Tainan"
+    }
+]

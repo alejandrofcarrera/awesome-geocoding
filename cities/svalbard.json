@@ -1,0 +1,17 @@
+[
+    {
+        "en": "Longyearbyen",
+        "en:t": "Svalbard and Jan Mayen | Svalbard",
+        "a": true,
+        "g": {
+            "lat": 78.2232,
+            "lon": 15.6267
+        },
+        "it": "Longyearbyen",
+        "it:t": "Svalbard e Jan Mayen | Isole Svalbard",
+        "es": "Longyearbyen",
+        "es:t": "Svalbard y Jan Mayen | Svalbard",
+        "de": "Longyearbyen",
+        "de:t": "Svalbard und Jan Mayen | Spitzbergen"
+    }
+]

@@ -1,0 +1,542 @@
+[
+    {
+        "en": "Abu Zabad",
+        "en:t": "Sudan | Lagawa",
+        "a": true,
+        "g": {
+            "lat": 12.3577,
+            "lon": 29.2379
+        },
+        "it": "Abu Zabad",
+        "it:t": "Sudan | Lagawa",
+        "es": "Abu Zabad",
+        "es:t": "Sud\u00e1n | Lagawa",
+        "de": "Abu Zabad",
+        "de:t": "Sudan | Lagawa"
+    },
+    {
+        "en": "Ad Douiem",
+        "en:t": "Sudan",
+        "a": true,
+        "g": {
+            "lat": 13.9951,
+            "lon": 32.2994
+        },
+        "it": "Ed Dueim",
+        "it:t": "Sudan",
+        "es": "Ed Dueim",
+        "es:t": "Sud\u00e1n",
+        "de": "Ad Douiem",
+        "de:t": "Sudan"
+    },
+    {
+        "en": "Ad-Damaz\u012bn",
+        "en:t": "Sudan | Ad Damazin",
+        "a": true,
+        "g": {
+            "lat": 11.7855,
+            "lon": 34.3421
+        },
+        "it": "Al-Damazin",
+        "it:t": "Sudan | Ad Damazin",
+        "es": "Ad-Damaz\u012bn",
+        "es:t": "Sud\u00e1n | Ad Damazin",
+        "de": "ad-Damazin",
+        "de:t": "Sudan | Ad Damazin"
+    },
+    {
+        "en": "Ad-D\u0101mar",
+        "en:t": "Sudan | Ad Damer",
+        "a": true,
+        "g": {
+            "lat": 17.5803,
+            "lon": 33.9694
+        },
+        "it": "Ad Damir",
+        "it:t": "Sudan | Ad Damer",
+        "es": "Ad-Damir",
+        "es:t": "Sud\u00e1n | Ad Damer",
+        "de": "ad-Damir",
+        "de:t": "Sudan | Ad Damer"
+    },
+    {
+        "en": "Al Fashir",
+        "en:t": "Sudan | Al Fasher",
+        "a": true,
+        "g": {
+            "lat": 13.6198,
+            "lon": 25.3549
+        },
+        "it": "Al-Fashir",
+        "it:t": "Sudan | Al Fasher",
+        "es": "El Fasher",
+        "es:t": "Sud\u00e1n | Al Fasher",
+        "de": "al-Faschir",
+        "de:t": "Sudan | Al Fasher"
+    },
+    {
+        "en": "Al Junaynah",
+        "en:t": "Sudan | Al Geneina",
+        "a": true,
+        "g": {
+            "lat": 13.4479,
+            "lon": 22.4649
+        },
+        "it": "Geneina",
+        "it:t": "Sudan | Al Geneina",
+        "es": "Geneina",
+        "es:t": "Sud\u00e1n | Al Geneina",
+        "de": "al-Dschunaina",
+        "de:t": "Sudan | Al Geneina"
+    },
+    {
+        "en": "Atbarah",
+        "en:t": "Sudan",
+        "a": true,
+        "g": {
+            "lat": 15.2866,
+            "lon": 35.7838
+        },
+        "it": "Atbara",
+        "it:t": "Sudan",
+        "es": "R\u00edo Atbara",
+        "es:t": "Sud\u00e1n",
+        "de": "Atbara",
+        "de:t": "Sudan"
+    },
+    {
+        "en": "Barah",
+        "en:t": "Sudan | Bara",
+        "a": true,
+        "g": {
+            "lat": 13.6986,
+            "lon": 30.3724
+        },
+        "it": "Barah",
+        "it:t": "Sudan | Bara",
+        "es": "Barah",
+        "es:t": "Sud\u00e1n | Bara",
+        "de": "Barah",
+        "de:t": "Sudan | Bara"
+    },
+    {
+        "en": "Berber",
+        "en:t": "Sudan",
+        "a": true,
+        "g": {
+            "lat": 18.0295,
+            "lon": 33.9917
+        },
+        "it": "Berber",
+        "it:t": "Sudan",
+        "es": "Berber",
+        "es:t": "Sud\u00e1n",
+        "de": "Barbar",
+        "de:t": "Sudan"
+    },
+    {
+        "en": "Blue Nile",
+        "en:t": "Sudan",
+        "a": true,
+        "g": {
+            "lat": 11.586,
+            "lon": 34.1532
+        },
+        "it": "Nilo Azzurro",
+        "it:t": "Sudan",
+        "es": "Nilo Azul",
+        "es:t": "Sud\u00e1n",
+        "de": "an-Nil al-azraq",
+        "de:t": "Sudan"
+    },
+    {
+        "en": "Dilling",
+        "en:t": "Sudan",
+        "a": true,
+        "g": {
+            "lat": 12.0527,
+            "lon": 29.6557
+        },
+        "it": "Dilling",
+        "it:t": "Sudan",
+        "es": "Dilling",
+        "es:t": "Sud\u00e1n",
+        "de": "Dilling",
+        "de:t": "Sudan"
+    },
+    {
+        "en": "Dinder",
+        "en:t": "Sudan | Wells",
+        "a": true,
+        "g": {
+            "lat": 51.199,
+            "lon": -2.6083
+        },
+        "it": "Dinder",
+        "it:t": "Sudan | Wells",
+        "es": "Dinder",
+        "es:t": "Sud\u00e1n | Wells",
+        "de": "Dinder",
+        "de:t": "Sudan | Wells"
+    },
+    {
+        "en": "Doka",
+        "en:t": "Sudan | Al Galabat",
+        "a": true,
+        "g": {
+            "lat": 13.5251,
+            "lon": 35.7617
+        },
+        "it": "Doka",
+        "it:t": "Sudan | Al Galabat",
+        "es": "Doka",
+        "es:t": "Sud\u00e1n | Al Galabat",
+        "de": "Doka",
+        "de:t": "Sudan | Al Galabat"
+    },
+    {
+        "en": "El Daein",
+        "en:t": "Sudan | Al Deain",
+        "a": true,
+        "g": {
+            "lat": 11.4613,
+            "lon": 26.1241
+        },
+        "it": "El Daein",
+        "it:t": "Sudan | Al Deain",
+        "es": "El Daein",
+        "es:t": "Sud\u00e1n | Al Deain",
+        "de": "ad-Du'ain",
+        "de:t": "Sudan | Al Deain"
+    },
+    {
+        "en": "El Hawata",
+        "en:t": "Sudan | Al Rahd",
+        "a": true,
+        "g": {
+            "lat": 13.415,
+            "lon": 34.6248
+        },
+        "it": "El Hawata",
+        "it:t": "Sudan | Al Rahd",
+        "es": "El Hawata",
+        "es:t": "Sud\u00e1n | Al Rahd",
+        "de": "El Hawata",
+        "de:t": "Sudan | Al Rahd"
+    },
+    {
+        "en": "El Obeid",
+        "en:t": "Sudan | Bara",
+        "a": true,
+        "g": {
+            "lat": 13.1782,
+            "lon": 30.2167
+        },
+        "it": "Al Ubayyid",
+        "it:t": "Sudan | Bara",
+        "es": "El Obeid",
+        "es:t": "Sud\u00e1n | Bara",
+        "de": "al-Ubayyid",
+        "de:t": "Sudan | Bara"
+    },
+    {
+        "en": "En Nahud",
+        "en:t": "Sudan | En Nuhud",
+        "a": true,
+        "g": {
+            "lat": 12.6948,
+            "lon": 28.428
+        },
+        "it": "En Nahud",
+        "it:t": "Sudan | En Nuhud",
+        "es": "En Nahud",
+        "es:t": "Sud\u00e1n | En Nuhud",
+        "de": "an-Nahud",
+        "de:t": "Sudan | En Nuhud"
+    },
+    {
+        "en": "Er Rahad",
+        "en:t": "Sudan | Bara",
+        "a": true,
+        "g": {
+            "lat": 12.7181,
+            "lon": 30.6488
+        },
+        "it": "Er Rahad",
+        "it:t": "Sudan | Bara",
+        "es": "Er Rahad",
+        "es:t": "Sud\u00e1n | Bara",
+        "de": "Er Rahad",
+        "de:t": "Sudan | Bara"
+    },
+    {
+        "en": "Kadugli",
+        "en:t": "Sudan",
+        "a": true,
+        "g": {
+            "lat": 11.0105,
+            "lon": 29.7136
+        },
+        "it": "Kaduqli",
+        "it:t": "Sudan",
+        "es": "Kaduqli",
+        "es:t": "Sud\u00e1n",
+        "de": "Kaduqli",
+        "de:t": "Sudan"
+    },
+    {
+        "en": "Karima",
+        "en:t": "Sudan | Marawi",
+        "a": true,
+        "g": {
+            "lat": 18.53,
+            "lon": 31.8278
+        },
+        "it": "Karima",
+        "it:t": "Sudan | Marawi",
+        "es": "Karima",
+        "es:t": "Sud\u00e1n | Marawi",
+        "de": "Karima",
+        "de:t": "Sudan | Marawi"
+    },
+    {
+        "en": "Kassala",
+        "en:t": "Sudan",
+        "a": true,
+        "g": {
+            "lat": 15.4581,
+            "lon": 36.404
+        },
+        "it": "Cassala",
+        "it:t": "Sudan",
+        "es": "Kasala",
+        "es:t": "Sud\u00e1n",
+        "de": "Kassala",
+        "de:t": "Sudan"
+    },
+    {
+        "en": "Khartoum",
+        "en:t": "Sudan",
+        "a": true,
+        "g": {
+            "lat": 15.5007,
+            "lon": 32.5599
+        },
+        "it": "Khartum",
+        "it:t": "Sudan",
+        "es": "Jartum",
+        "es:t": "Sud\u00e1n",
+        "de": "Khartum",
+        "de:t": "Sudan"
+    },
+    {
+        "en": "Kosti",
+        "en:t": "Sudan",
+        "a": true,
+        "g": {
+            "lat": 13.1235,
+            "lon": 32.6504
+        },
+        "it": "Kosti",
+        "it:t": "Sudan",
+        "es": "Kosti",
+        "es:t": "Sud\u00e1n",
+        "de": "Kusti",
+        "de:t": "Sudan"
+    },
+    {
+        "en": "Maiurno",
+        "en:t": "Sudan | Singa",
+        "a": true,
+        "g": {
+            "lat": 13.3906,
+            "lon": 33.6516
+        },
+        "it": "Maiurno",
+        "it:t": "Sudan | Singa",
+        "es": "Maiurno",
+        "es:t": "Sud\u00e1n | Singa",
+        "de": "Maiurno",
+        "de:t": "Sudan | Singa"
+    },
+    {
+        "en": "Omdurman",
+        "en:t": "Sudan",
+        "a": true,
+        "g": {
+            "lat": 15.6476,
+            "lon": 32.4807
+        },
+        "it": "Omdurman",
+        "it:t": "Sudan",
+        "es": "Omdurm\u00e1n",
+        "es:t": "Sud\u00e1n",
+        "de": "Omdurman",
+        "de:t": "Sudan"
+    },
+    {
+        "en": "Port Sudan",
+        "en:t": "Sudan",
+        "a": true,
+        "g": {
+            "lat": 19.5903,
+            "lon": 37.1902
+        },
+        "it": "Porto Sudan",
+        "it:t": "Sudan",
+        "es": "Puerto Sud\u00e1n",
+        "es:t": "Sud\u00e1n",
+        "de": "Bur Sudan",
+        "de:t": "Sudan"
+    },
+    {
+        "en": "Rabak",
+        "en:t": "Sudan | Al Jabalian",
+        "a": true,
+        "g": {
+            "lat": 13.1795,
+            "lon": 32.752
+        },
+        "it": "Rabak",
+        "it:t": "Sudan | Al Jabalian",
+        "es": "Rabak",
+        "es:t": "Sud\u00e1n | Al Jabalian",
+        "de": "Rabak",
+        "de:t": "Sudan | Al Jabalian"
+    },
+    {
+        "en": "Sennar",
+        "en:t": "Sudan",
+        "a": true,
+        "g": {
+            "lat": 13.5675,
+            "lon": 33.5672
+        },
+        "it": "Sennar",
+        "it:t": "Sudan",
+        "es": "Sennar",
+        "es:t": "Sud\u00e1n",
+        "de": "Sannar",
+        "de:t": "Sudan"
+    },
+    {
+        "en": "Shendi",
+        "en:t": "Sudan",
+        "a": true,
+        "g": {
+            "lat": 16.6743,
+            "lon": 33.4496
+        },
+        "it": "Shendi",
+        "it:t": "Sudan",
+        "es": "Shendi",
+        "es:t": "Sud\u00e1n",
+        "de": "Schandi",
+        "de:t": "Sudan"
+    },
+    {
+        "en": "Sinjah",
+        "en:t": "Sudan",
+        "a": true,
+        "g": {
+            "lat": 13.1448,
+            "lon": 33.9267
+        },
+        "it": "Singa",
+        "it:t": "Sudan",
+        "es": "Singa",
+        "es:t": "Sud\u00e1n",
+        "de": "Sinjah",
+        "de:t": "Sudan"
+    },
+    {
+        "en": "South Kordofan",
+        "en:t": "Sudan",
+        "a": true,
+        "g": {
+            "lat": 11.199,
+            "lon": 29.4179
+        },
+        "it": "Kordofan Meridionale",
+        "it:t": "Sudan",
+        "es": "Kordof\u00e1n del Sur",
+        "es:t": "Sud\u00e1n",
+        "de": "Dschanub Kurdufan",
+        "de:t": "Sudan"
+    },
+    {
+        "en": "Suakin",
+        "en:t": "Sudan | Port Sudan",
+        "a": true,
+        "g": {
+            "lat": 19.104,
+            "lon": 37.3293
+        },
+        "it": "Suakin",
+        "it:t": "Sudan | Port Sudan",
+        "es": "Suakin",
+        "es:t": "Sud\u00e1n | Port Sudan",
+        "de": "Sawakin",
+        "de:t": "Sudan | Port Sudan"
+    },
+    {
+        "en": "Tendelti",
+        "en:t": "Sudan | Kosti",
+        "a": true,
+        "g": {
+            "lat": 13.0143,
+            "lon": 31.8733
+        },
+        "it": "Tendelti",
+        "it:t": "Sudan | Kosti",
+        "es": "Tendelti",
+        "es:t": "Sud\u00e1n | Kosti",
+        "de": "Tendelti",
+        "de:t": "Sudan | Kosti"
+    },
+    {
+        "en": "Tokar",
+        "en:t": "Sudan",
+        "a": true,
+        "g": {
+            "lat": 18.426,
+            "lon": 37.7275
+        },
+        "it": "Tokar",
+        "it:t": "Sudan",
+        "es": "Tokar",
+        "es:t": "Sud\u00e1n",
+        "de": "Tawkar",
+        "de:t": "Sudan"
+    },
+    {
+        "en": "Umm Ruwaba",
+        "en:t": "Sudan | Um Rawaba",
+        "a": true,
+        "g": {
+            "lat": 12.9028,
+            "lon": 31.2283
+        },
+        "it": "Umm Ruwaba",
+        "it:t": "Sudan | Um Rawaba",
+        "es": "Umm Ruwaba",
+        "es:t": "Sud\u00e1n | Um Rawaba",
+        "de": "Umm Ruwaba",
+        "de:t": "Sudan | Um Rawaba"
+    },
+    {
+        "en": "Zalingei",
+        "en:t": "Sudan | Zallingi",
+        "a": true,
+        "g": {
+            "lat": 12.8999,
+            "lon": 23.4769
+        },
+        "it": "Zalingei",
+        "it:t": "Sudan | Zallingi",
+        "es": "Zalingei",
+        "es:t": "Sud\u00e1n | Zallingi",
+        "de": "Zalindschi",
+        "de:t": "Sudan | Zallingi"
+    }
+]

@@ -1,0 +1,842 @@
+[
+    {
+        "en": "Anak",
+        "en:t": "North Korea | South Hwanghae",
+        "a": true,
+        "g": {
+            "lat": 38.5046,
+            "lon": 125.4946
+        },
+        "it": "Anak",
+        "it:t": "Corea del Nord | South Hwanghae",
+        "es": "Anak",
+        "es:t": "Corea del Norte | South Hwanghae",
+        "de": "Anak",
+        "de:t": "Nordkorea | South Hwanghae"
+    },
+    {
+        "en": "Anbyon",
+        "en:t": "North Korea | Kangwon",
+        "a": true,
+        "g": {
+            "lat": 39.0457,
+            "lon": 127.5304
+        },
+        "it": "Anbyon",
+        "it:t": "Corea del Nord | Kangwon",
+        "es": "Anbyon",
+        "es:t": "Corea del Norte | Kangwon",
+        "de": "Anbyon",
+        "de:t": "Nordkorea | Kangwon"
+    },
+    {
+        "en": "Anju",
+        "en:t": "North Korea | South Pyongan",
+        "a": true,
+        "g": {
+            "lat": 39.6211,
+            "lon": 125.6638
+        },
+        "it": "Anju",
+        "it:t": "Corea del Nord | Sud Pyongan",
+        "es": "Anju-si",
+        "es:t": "Corea del Norte | P'y\u014fngan del Sur",
+        "de": "Anju",
+        "de:t": "Nordkorea | South Pyongan"
+    },
+    {
+        "en": "Aoji",
+        "en:t": "North Korea | North Hamgyong",
+        "a": true,
+        "g": {
+            "lat": 42.5175,
+            "lon": 130.4016
+        },
+        "it": "Aoji",
+        "it:t": "Corea del Nord | North Hamgyong",
+        "es": "Aoji",
+        "es:t": "Corea del Norte | North Hamgyong",
+        "de": "Aoji",
+        "de:t": "Nordkorea | North Hamgyong"
+    },
+    {
+        "en": "Ayang-ni",
+        "en:t": "North Korea",
+        "a": true,
+        "g": {
+            "lat": 38.2352,
+            "lon": 125.7505
+        },
+        "it": "Ayang-ni",
+        "it:t": "Corea del Nord",
+        "es": "Ayang-ni",
+        "es:t": "Corea del Norte",
+        "de": "Ayang-ni",
+        "de:t": "Nordkorea"
+    },
+    {
+        "en": "Chaeryong",
+        "en:t": "North Korea | South Hwanghae",
+        "a": true,
+        "g": {
+            "lat": 38.3943,
+            "lon": 125.626
+        },
+        "it": "Chaeryong",
+        "it:t": "Corea del Nord | South Hwanghae",
+        "es": "Chaeryong",
+        "es:t": "Corea del Norte | South Hwanghae",
+        "de": "Chaeryong",
+        "de:t": "Nordkorea | South Hwanghae"
+    },
+    {
+        "en": "Changyon",
+        "en:t": "North Korea | South Hwanghae",
+        "a": true,
+        "g": {
+            "lat": 38.2527,
+            "lon": 125.0911
+        },
+        "it": "Changyon",
+        "it:t": "Corea del Nord | South Hwanghae",
+        "es": "Changyon",
+        "es:t": "Corea del Norte | South Hwanghae",
+        "de": "Changyon",
+        "de:t": "Nordkorea | South Hwanghae"
+    },
+    {
+        "en": "Chongjin",
+        "en:t": "North Korea | North Hamgyong",
+        "a": true,
+        "g": {
+            "lat": 41.767,
+            "lon": 129.7234
+        },
+        "it": "Chongjin",
+        "it:t": "Corea del Nord | Nord Hamgyong",
+        "es": "Ch'\u014fngjin",
+        "es:t": "Corea del Norte | Hamgy\u014fng del Norte",
+        "de": "Ch'\u014fngjin",
+        "de:t": "Nordkorea | Hamgy\u014fng-pukto"
+    },
+    {
+        "en": "Chongju",
+        "en:t": "North Korea | North Pyongan",
+        "a": true,
+        "g": {
+            "lat": 39.6976,
+            "lon": 125.2067
+        },
+        "it": "Ch\u014fngju",
+        "it:t": "Corea del Nord | Nord Pyongan",
+        "es": "Chongju",
+        "es:t": "Corea del Norte | North Pyongan",
+        "de": "Chongju",
+        "de:t": "Nordkorea | North Pyongan"
+    },
+    {
+        "en": "Chunghwa",
+        "en:t": "North Korea | Pyongyang",
+        "a": true,
+        "g": {
+            "lat": 38.8605,
+            "lon": 125.7898
+        },
+        "it": "Chunghwa",
+        "it:t": "Corea del Nord | Pyongyang",
+        "es": "Chunghwa",
+        "es:t": "Corea del Norte | Pyongyang",
+        "de": "Chunghwa",
+        "de:t": "Nordkorea | Pyongyang"
+    },
+    {
+        "en": "Haeju",
+        "en:t": "North Korea | South Hwanghae",
+        "a": true,
+        "g": {
+            "lat": 38.0375,
+            "lon": 125.7079
+        },
+        "it": "Haeju",
+        "it:t": "Corea del Nord | Sud Hwanghae",
+        "es": "Haeju",
+        "es:t": "Corea del Norte | Hwanghae del Sur",
+        "de": "Haeju",
+        "de:t": "Nordkorea | Hwanghae-namdo"
+    },
+    {
+        "en": "Hamhung",
+        "en:t": "North Korea | South Hamgyong",
+        "a": true,
+        "g": {
+            "lat": 39.9838,
+            "lon": 127.6125
+        },
+        "it": "Hamh\u016dng",
+        "it:t": "Corea del Nord | Sud Hamgyong",
+        "es": "Hamhung",
+        "es:t": "Corea del Norte | Hamgy\u014fng del Sur",
+        "de": "Hamh\u016dng",
+        "de:t": "Nordkorea | Hamgy\u014fng-namdo"
+    },
+    {
+        "en": "Hoery\u014fng",
+        "en:t": "North Korea | North Hamgyong",
+        "a": true,
+        "g": {
+            "lat": 42.4324,
+            "lon": 129.7415
+        },
+        "it": "Hoeryong",
+        "it:t": "Corea del Nord | Nord Hamgyong",
+        "es": "Hoeryong",
+        "es:t": "Corea del Norte | Hamgy\u014fng del Norte",
+        "de": "Hoery\u014fng",
+        "de:t": "Nordkorea | North Hamgyong"
+    },
+    {
+        "en": "Hoeyang",
+        "en:t": "North Korea | Kangwon",
+        "a": true,
+        "g": {
+            "lat": 38.715,
+            "lon": 127.6015
+        },
+        "it": "Hoeyang",
+        "it:t": "Corea del Nord | Kangwon",
+        "es": "Hoeyang",
+        "es:t": "Corea del Norte | Kangwon",
+        "de": "Hoeyang",
+        "de:t": "Nordkorea | Kangwon"
+    },
+    {
+        "en": "Hongw\u014fn",
+        "en:t": "North Korea | South Hamgyong",
+        "a": true,
+        "g": {
+            "lat": 40.0244,
+            "lon": 127.9682
+        },
+        "it": "Hongw\u014fn",
+        "it:t": "Corea del Nord | South Hamgyong",
+        "es": "Hongw\u014fn",
+        "es:t": "Corea del Norte | South Hamgyong",
+        "de": "Hongw\u014fn",
+        "de:t": "Nordkorea | South Hamgyong"
+    },
+    {
+        "en": "Hukkyo",
+        "en:t": "North Korea | North Hwanghae",
+        "a": true,
+        "g": {
+            "lat": 38.8004,
+            "lon": 125.798
+        },
+        "it": "Hukkyo",
+        "it:t": "Corea del Nord | North Hwanghae",
+        "es": "Hukkyo",
+        "es:t": "Corea del Norte | North Hwanghae",
+        "de": "Hukkyo",
+        "de:t": "Nordkorea | North Hwanghae"
+    },
+    {
+        "en": "Hungnam-guyok",
+        "en:t": "North Korea | Hamhung",
+        "a": true,
+        "g": {
+            "lat": 39.8554,
+            "lon": 127.6753
+        },
+        "it": "H\u016dngnam",
+        "it:t": "Corea del Nord | Hamh\u016dng",
+        "es": "H\u016dngnam",
+        "es:t": "Corea del Norte | Hamhung",
+        "de": "H\u016dngnam",
+        "de:t": "Nordkorea | Hamh\u016dng"
+    },
+    {
+        "en": "Hwangju",
+        "en:t": "North Korea | North Hwanghae",
+        "a": true,
+        "g": {
+            "lat": 38.6706,
+            "lon": 125.7762
+        },
+        "it": "Hwangju",
+        "it:t": "Corea del Nord | North Hwanghae",
+        "es": "Hwangju",
+        "es:t": "Corea del Norte | North Hwanghae",
+        "de": "Hwangju",
+        "de:t": "Nordkorea | North Hwanghae"
+    },
+    {
+        "en": "Hyesan",
+        "en:t": "North Korea | Ryanggang",
+        "a": true,
+        "g": {
+            "lat": 41.3874,
+            "lon": 128.1745
+        },
+        "it": "Hyesan",
+        "it:t": "Corea del Nord | Ryanggang",
+        "es": "Hyesan",
+        "es:t": "Corea del Norte | Yanggang",
+        "de": "Hyesan",
+        "de:t": "Nordkorea | Ryanggang-do"
+    },
+    {
+        "en": "Kaes\u014fng",
+        "en:t": "North Korea | North Hwanghae",
+        "a": true,
+        "g": {
+            "lat": 37.9382,
+            "lon": 126.5878
+        },
+        "it": "Kaes\u014fng",
+        "it:t": "Corea del Nord | Nord Hwanghae",
+        "es": "Kaesong",
+        "es:t": "Corea del Norte | Hwanghae del Norte",
+        "de": "Kaes\u014fng",
+        "de:t": "Nordkorea | Hwanghae-pukto"
+    },
+    {
+        "en": "Kangdong",
+        "en:t": "North Korea | Pyongyang",
+        "a": true,
+        "g": {
+            "lat": 39.143,
+            "lon": 126.089
+        },
+        "it": "Kangdong",
+        "it:t": "Corea del Nord | Pyongyang",
+        "es": "Kangdong",
+        "es:t": "Corea del Norte | Pyongyang",
+        "de": "Kangdong",
+        "de:t": "Nordkorea | Pyongyang"
+    },
+    {
+        "en": "Kanggye",
+        "en:t": "North Korea | Chagang",
+        "a": true,
+        "g": {
+            "lat": 40.9677,
+            "lon": 126.5991
+        },
+        "it": "Kanggye",
+        "it:t": "Corea del Nord | Chagang",
+        "es": "Kanggye",
+        "es:t": "Corea del Norte | Chagang",
+        "de": "Kanggye",
+        "de:t": "Nordkorea | Chagang-do"
+    },
+    {
+        "en": "Kapsan",
+        "en:t": "North Korea | Ryanggang",
+        "a": true,
+        "g": {
+            "lat": 41.0902,
+            "lon": 128.2948
+        },
+        "it": "Kapsan",
+        "it:t": "Corea del Nord | Ryanggang",
+        "es": "Kapsan",
+        "es:t": "Corea del Norte | Ryanggang",
+        "de": "Kapsan",
+        "de:t": "Nordkorea | Ryanggang"
+    },
+    {
+        "en": "Kilju",
+        "en:t": "North Korea | North Hamgyong",
+        "a": true,
+        "g": {
+            "lat": 40.9612,
+            "lon": 129.321
+        },
+        "it": "Kilju",
+        "it:t": "Corea del Nord | North Hamgyong",
+        "es": "Kilju",
+        "es:t": "Corea del Norte | Hamgy\u014fng del Norte",
+        "de": "Kilju",
+        "de:t": "Nordkorea | North Hamgyong"
+    },
+    {
+        "en": "Kosan",
+        "en:t": "North Korea | Kangwon",
+        "a": true,
+        "g": {
+            "lat": 38.856,
+            "lon": 127.4214
+        },
+        "it": "Kosan",
+        "it:t": "Corea del Nord | Kangwon",
+        "es": "Kosan",
+        "es:t": "Corea del Norte | Kangwon",
+        "de": "Kosan",
+        "de:t": "Nordkorea | Kangwon"
+    },
+    {
+        "en": "Kowon",
+        "en:t": "North Korea | South Hamgyong",
+        "a": true,
+        "g": {
+            "lat": 39.4385,
+            "lon": 127.2385
+        },
+        "it": "Kowon",
+        "it:t": "Corea del Nord | South Hamgyong",
+        "es": "Kowon",
+        "es:t": "Corea del Norte | South Hamgyong",
+        "de": "Kowon",
+        "de:t": "Nordkorea | South Hamgyong"
+    },
+    {
+        "en": "Kujang",
+        "en:t": "North Korea | South Pyongan",
+        "a": true,
+        "g": {
+            "lat": 39.8646,
+            "lon": 126.0342
+        },
+        "it": "Kujang",
+        "it:t": "Corea del Nord | South Pyongan",
+        "es": "Kujang",
+        "es:t": "Corea del Norte | South Pyongan",
+        "de": "Kujang",
+        "de:t": "Nordkorea | South Pyongan"
+    },
+    {
+        "en": "Kusong",
+        "en:t": "North Korea | North Pyongan",
+        "a": true,
+        "g": {
+            "lat": 39.9474,
+            "lon": 125.2231
+        },
+        "it": "Kusong",
+        "it:t": "Corea del Nord | Nord Pyongan",
+        "es": "Kusong",
+        "es:t": "Corea del Norte | P'y\u014fngan del Norte",
+        "de": "Kusong",
+        "de:t": "Nordkorea | North Pyongan"
+    },
+    {
+        "en": "Kyongsong",
+        "en:t": "North Korea | North Hamgyong",
+        "a": true,
+        "g": {
+            "lat": 41.5872,
+            "lon": 129.6051
+        },
+        "it": "Kyongsong",
+        "it:t": "Corea del Nord | North Hamgyong",
+        "es": "Kyongsong",
+        "es:t": "Corea del Norte | North Hamgyong",
+        "de": "Kyongsong",
+        "de:t": "Nordkorea | North Hamgyong"
+    },
+    {
+        "en": "Musan",
+        "en:t": "North Korea | North Hamgyong",
+        "a": true,
+        "g": {
+            "lat": 42.2282,
+            "lon": 129.2148
+        },
+        "it": "Musan",
+        "it:t": "Corea del Nord | North Hamgyong",
+        "es": "Musan",
+        "es:t": "Corea del Norte | North Hamgyong",
+        "de": "Musan",
+        "de:t": "Nordkorea | North Hamgyong"
+    },
+    {
+        "en": "Nampo",
+        "en:t": "North Korea | South Pyongan",
+        "a": true,
+        "g": {
+            "lat": 38.7523,
+            "lon": 125.3247
+        },
+        "it": "Namp'o",
+        "it:t": "Corea del Nord | Sud Pyongan",
+        "es": "Namp'o",
+        "es:t": "Corea del Norte | P'y\u014fngan del Sur",
+        "de": "Namp\u2019o",
+        "de:t": "Nordkorea | P'y\u014fngan-namdo"
+    },
+    {
+        "en": "Namyang",
+        "en:t": "North Korea | North Hamgyong",
+        "a": true,
+        "g": {
+            "lat": 42.9495,
+            "lon": 129.8566
+        },
+        "it": "Namyang",
+        "it:t": "Corea del Nord | North Hamgyong",
+        "es": "Namyang",
+        "es:t": "Corea del Norte | North Hamgyong",
+        "de": "Namyang",
+        "de:t": "Nordkorea | North Hamgyong"
+    },
+    {
+        "en": "Ongjin",
+        "en:t": "North Korea | South Hwanghae",
+        "a": true,
+        "g": {
+            "lat": 37.936,
+            "lon": 125.3576
+        },
+        "it": "Ongjin",
+        "it:t": "Corea del Nord | South Hwanghae",
+        "es": "Ongjin",
+        "es:t": "Corea del Norte | Hwanghae del Sur",
+        "de": "Ongjin",
+        "de:t": "Nordkorea | South Hwanghae"
+    },
+    {
+        "en": "Onsong",
+        "en:t": "North Korea | North Hamgyong",
+        "a": true,
+        "g": {
+            "lat": 42.9535,
+            "lon": 129.9921
+        },
+        "it": "Onsong",
+        "it:t": "Corea del Nord | North Hamgyong",
+        "es": "Onsong",
+        "es:t": "Corea del Norte | North Hamgyong",
+        "de": "Onsong",
+        "de:t": "Nordkorea | North Hamgyong"
+    },
+    {
+        "en": "Pyongyang",
+        "en:t": "North Korea",
+        "a": true,
+        "g": {
+            "lat": 39.0392,
+            "lon": 125.7625
+        },
+        "it": "Pyongyang",
+        "it:t": "Corea del Nord",
+        "es": "Pionyang",
+        "es:t": "Corea del Norte",
+        "de": "Pj\u00f6ngjang",
+        "de:t": "Nordkorea"
+    },
+    {
+        "en": "Py\u014fngs\u014fng",
+        "en:t": "North Korea | South Pyongan",
+        "a": true,
+        "g": {
+            "lat": 39.2604,
+            "lon": 125.862
+        },
+        "it": "Pyongsong",
+        "it:t": "Corea del Nord | Sud Pyongan",
+        "es": "Pyongsong",
+        "es:t": "Corea del Norte | P'y\u014fngan del Sur",
+        "de": "P\u2019y\u014fngs\u014fng",
+        "de:t": "Nordkorea | P'y\u014fngan-namdo"
+    },
+    {
+        "en": "Ranam-guyok",
+        "en:t": "North Korea | Chongjin",
+        "a": true,
+        "g": {
+            "lat": 41.7268,
+            "lon": 129.6851
+        },
+        "it": "Ranam-guyok",
+        "it:t": "Corea del Nord | Chongjin",
+        "es": "Ranam-guyok",
+        "es:t": "Corea del Norte | Chongjin",
+        "de": "Ranam-guyok",
+        "de:t": "Nordkorea | Chongjin"
+    },
+    {
+        "en": "Rason",
+        "en:t": "North Korea",
+        "a": true,
+        "g": {
+            "lat": 42.2569,
+            "lon": 130.2977
+        },
+        "it": "Ras\u014fn",
+        "it:t": "Corea del Nord",
+        "es": "Ras\u014fn",
+        "es:t": "Corea del Norte",
+        "de": "Rajin",
+        "de:t": "Nordkorea | Ras\u014fn"
+    },
+    {
+        "en": "Riw\u014fn",
+        "en:t": "North Korea | South Hamgyong",
+        "a": true,
+        "g": {
+            "lat": 40.3242,
+            "lon": 128.6507
+        },
+        "it": "Riw\u014fn",
+        "it:t": "Corea del Nord | South Hamgyong",
+        "es": "Riw\u014fn",
+        "es:t": "Corea del Norte | South Hamgyong",
+        "de": "Riw\u014fn",
+        "de:t": "Nordkorea | South Hamgyong"
+    },
+    {
+        "en": "Sakchu",
+        "en:t": "North Korea | North Pyongan",
+        "a": true,
+        "g": {
+            "lat": 40.3904,
+            "lon": 125.0408
+        },
+        "it": "Sakchu",
+        "it:t": "Corea del Nord | North Pyongan",
+        "es": "Sakchu",
+        "es:t": "Corea del Norte | North Pyongan",
+        "de": "Sakchu",
+        "de:t": "Nordkorea | North Pyongan"
+    },
+    {
+        "en": "Samho",
+        "en:t": "North Korea | South Hamgyong",
+        "a": true,
+        "g": {
+            "lat": 39.9362,
+            "lon": 127.8686
+        },
+        "it": "Samho",
+        "it:t": "Corea del Nord | South Hamgyong",
+        "es": "Samho",
+        "es:t": "Corea del Norte | South Hamgyong",
+        "de": "Samho",
+        "de:t": "Nordkorea | South Hamgyong"
+    },
+    {
+        "en": "Sariwon",
+        "en:t": "North Korea | North Hwanghae",
+        "a": true,
+        "g": {
+            "lat": 38.5023,
+            "lon": 125.7516
+        },
+        "it": "Sariwon",
+        "it:t": "Corea del Nord | Nord Hwanghae",
+        "es": "Sariwon",
+        "es:t": "Corea del Norte | Hwanghae del Norte",
+        "de": "Sariw\u014fn",
+        "de:t": "Nordkorea | Hwanghae-pukto"
+    },
+    {
+        "en": "Sil-Li",
+        "en:t": "North Korea | South Pyongan",
+        "a": true,
+        "g": {
+            "lat": 39.8286,
+            "lon": 126.5151
+        },
+        "it": "Sil-Li",
+        "it:t": "Corea del Nord | South Pyongan",
+        "es": "Sil-Li",
+        "es:t": "Corea del Norte | South Pyongan",
+        "de": "Sil-Li",
+        "de:t": "Nordkorea | South Pyongan"
+    },
+    {
+        "en": "Sinanju",
+        "en:t": "North Korea | South Pyongan",
+        "a": true,
+        "g": {
+            "lat": 39.5939,
+            "lon": 125.6031
+        },
+        "it": "Sinanju",
+        "it:t": "Corea del Nord | South Pyongan",
+        "es": "Sinanju",
+        "es:t": "Corea del Norte | South Pyongan",
+        "de": "Sinanju",
+        "de:t": "Nordkorea | South Pyongan"
+    },
+    {
+        "en": "Sinmak",
+        "en:t": "North Korea | North Hwanghae",
+        "a": true,
+        "g": {
+            "lat": 38.4215,
+            "lon": 126.2333
+        },
+        "it": "Sinmak",
+        "it:t": "Corea del Nord | North Hwanghae",
+        "es": "Sinmak",
+        "es:t": "Corea del Norte | North Hwanghae",
+        "de": "Sinmak",
+        "de:t": "Nordkorea | North Hwanghae"
+    },
+    {
+        "en": "Sinuiju",
+        "en:t": "North Korea | North Pyongan",
+        "a": true,
+        "g": {
+            "lat": 40.0823,
+            "lon": 124.4489
+        },
+        "it": "Sin\u016diju",
+        "it:t": "Corea del Nord | Nord Pyongan",
+        "es": "Sinuiju",
+        "es:t": "Corea del Norte | P'y\u014fngan del Norte",
+        "de": "Sin\u016diju",
+        "de:t": "Nordkorea | P'y\u014fngan-pukto"
+    },
+    {
+        "en": "Sonbong",
+        "en:t": "North Korea | Rason",
+        "a": true,
+        "g": {
+            "lat": 42.3384,
+            "lon": 130.3875
+        },
+        "it": "Sonbong",
+        "it:t": "Corea del Nord | Rason",
+        "es": "Sonbong",
+        "es:t": "Corea del Norte | Rason",
+        "de": "S\u014fnbong",
+        "de:t": "Nordkorea | Ras\u014fn"
+    },
+    {
+        "en": "Songnim",
+        "en:t": "North Korea | Pyongyang",
+        "a": true,
+        "g": {
+            "lat": 38.7493,
+            "lon": 125.6369
+        },
+        "it": "Songrim",
+        "it:t": "Corea del Nord | Pyongyang",
+        "es": "Songnim",
+        "es:t": "Corea del Norte | Pyongyang",
+        "de": "Songnim",
+        "de:t": "Nordkorea | Pj\u00f6ngjang"
+    },
+    {
+        "en": "Sunan",
+        "en:t": "North Korea | Pyongyang",
+        "a": true,
+        "g": {
+            "lat": 39.2189,
+            "lon": 125.6677
+        },
+        "it": "Sunan",
+        "it:t": "Corea del Nord | Pyongyang",
+        "es": "Sunan",
+        "es:t": "Corea del Norte | Pyongyang",
+        "de": "Sunan-guy\u014fk",
+        "de:t": "Nordkorea | Pj\u00f6ngjang"
+    },
+    {
+        "en": "S\u016dngho",
+        "en:t": "North Korea | Pyongyang",
+        "a": true,
+        "g": {
+            "lat": 38.9891,
+            "lon": 125.9687
+        },
+        "it": "S\u016dngho",
+        "it:t": "Corea del Nord | Pyongyang",
+        "es": "S\u016dngho",
+        "es:t": "Corea del Norte | Pyongyang",
+        "de": "S\u016dngho-guy\u014fk",
+        "de:t": "Nordkorea | Pj\u00f6ngjang"
+    },
+    {
+        "en": "Tongch\u014fn",
+        "en:t": "North Korea | Kangwon",
+        "a": true,
+        "g": {
+            "lat": 38.9355,
+            "lon": 127.88
+        },
+        "it": "Tongch\u014fn",
+        "it:t": "Corea del Nord | Kangwon",
+        "es": "Tongch\u014fn",
+        "es:t": "Corea del Norte | Kangwon",
+        "de": "Tongch\u014fn",
+        "de:t": "Nordkorea | Kangwon"
+    },
+    {
+        "en": "Uiju",
+        "en:t": "North Korea | North Pyongan",
+        "a": true,
+        "g": {
+            "lat": 40.1976,
+            "lon": 124.5352
+        },
+        "it": "Uiju",
+        "it:t": "Corea del Nord | North Pyongan",
+        "es": "Uiju",
+        "es:t": "Corea del Norte | North Pyongan",
+        "de": "Uiju",
+        "de:t": "Nordkorea | North Pyongan"
+    },
+    {
+        "en": "Wonsan",
+        "en:t": "North Korea | Kangwon",
+        "a": true,
+        "g": {
+            "lat": 39.1539,
+            "lon": 127.446
+        },
+        "it": "W\u014fnsan",
+        "it:t": "Corea del Nord | Changwon",
+        "es": "W\u014fnsan",
+        "es:t": "Corea del Norte | Kangwon",
+        "de": "W\u014fnsan",
+        "de:t": "Nordkorea | Kangw\u014fn-do"
+    },
+    {
+        "en": "Yonan",
+        "en:t": "North Korea | South Hwanghae",
+        "a": true,
+        "g": {
+            "lat": 37.9017,
+            "lon": 126.16
+        },
+        "it": "Yonan",
+        "it:t": "Corea del Nord | South Hwanghae",
+        "es": "Yonan",
+        "es:t": "Corea del Norte | South Hwanghae",
+        "de": "Yonan",
+        "de:t": "Nordkorea | South Hwanghae"
+    },
+    {
+        "en": "Yonggwang",
+        "en:t": "North Korea | South Hamgyong",
+        "a": true,
+        "g": {
+            "lat": 40.0216,
+            "lon": 127.4559
+        },
+        "it": "Yonggwang",
+        "it:t": "Corea del Nord | South Hamgyong",
+        "es": "Yonggwang",
+        "es:t": "Corea del Norte | South Hamgyong",
+        "de": "Yonggwang",
+        "de:t": "Nordkorea | South Hamgyong"
+    },
+    {
+        "en": "Yuktae-dong",
+        "en:t": "North Korea",
+        "a": true,
+        "g": {
+            "lat": 40.0269,
+            "lon": 128.1611
+        },
+        "it": "Yuktae-dong",
+        "it:t": "Corea del Nord",
+        "es": "Yuktae-dong",
+        "es:t": "Corea del Norte",
+        "de": "Yuktae-dong",
+        "de:t": "Nordkorea"
+    }
+]

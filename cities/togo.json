@@ -1,0 +1,272 @@
+[
+    {
+        "en": "Aneho",
+        "en:t": "Togo | Lacs",
+        "a": true,
+        "g": {
+            "lat": 6.2273,
+            "lon": 1.5814
+        },
+        "it": "Aneho",
+        "it:t": "Togo | Lacs",
+        "es": "Aneho",
+        "es:t": "Togo | Lacs",
+        "de": "An\u00e9ho",
+        "de:t": "Togo | Lacs"
+    },
+    {
+        "en": "Atakpame",
+        "en:t": "Togo | Ogou",
+        "a": true,
+        "g": {
+            "lat": 7.5287,
+            "lon": 1.1305
+        },
+        "it": "Atakpam\u00e9",
+        "it:t": "Togo | Ogou",
+        "es": "Atakpam\u00e9",
+        "es:t": "Togo | Ogou",
+        "de": "Atakpam\u00e9",
+        "de:t": "Togo | Ogou"
+    },
+    {
+        "en": "Badou",
+        "en:t": "Togo | Wawa",
+        "a": true,
+        "g": {
+            "lat": 7.5866,
+            "lon": 0.6086
+        },
+        "it": "Badou",
+        "it:t": "Togo | Wawa",
+        "es": "Badou",
+        "es:t": "Togo | Wawa",
+        "de": "Badou",
+        "de:t": "Togo | Wawa"
+    },
+    {
+        "en": "Bafilo",
+        "en:t": "Togo | Assoli",
+        "a": true,
+        "g": {
+            "lat": 9.3568,
+            "lon": 1.2482
+        },
+        "it": "Bafilo",
+        "it:t": "Togo | Assoli",
+        "es": "Bafilo",
+        "es:t": "Togo | Assoli",
+        "de": "Bafilo",
+        "de:t": "Togo | Assoli"
+    },
+    {
+        "en": "Bassar",
+        "en:t": "Togo",
+        "a": true,
+        "g": {
+            "lat": 9.2611,
+            "lon": 0.7771
+        },
+        "it": "Bassar",
+        "it:t": "Togo",
+        "es": "Bassar",
+        "es:t": "Togo",
+        "de": "Bassar",
+        "de:t": "Togo"
+    },
+    {
+        "en": "Dapaong",
+        "en:t": "Togo | Kpendjal",
+        "a": true,
+        "g": {
+            "lat": 10.8733,
+            "lon": 0.201
+        },
+        "it": "Dapaong",
+        "it:t": "Togo | Kpendjal",
+        "es": "Dapaong",
+        "es:t": "Togo | Kpendjal",
+        "de": "Dapaong",
+        "de:t": "Togo | Kpendjal"
+    },
+    {
+        "en": "Kara",
+        "en:t": "Togo | Kozah",
+        "a": true,
+        "g": {
+            "lat": 9.5468,
+            "lon": 1.1933
+        },
+        "it": "Kara",
+        "it:t": "Togo | Kozah",
+        "es": "Kara",
+        "es:t": "Togo | Kozah",
+        "de": "Kara",
+        "de:t": "Togo | Kozah"
+    },
+    {
+        "en": "Kpalime",
+        "en:t": "Togo | Kloto",
+        "a": true,
+        "g": {
+            "lat": 6.9098,
+            "lon": 0.6299
+        },
+        "it": "Kpalim\u00e9",
+        "it:t": "Togo | Kloto",
+        "es": "Palim\u00e9",
+        "es:t": "Togo | Kloto",
+        "de": "Kpalim\u00e9",
+        "de:t": "Togo | Kloto"
+    },
+    {
+        "en": "Lome",
+        "en:t": "Togo | Golfe",
+        "a": true,
+        "g": {
+            "lat": 6.1256,
+            "lon": 1.2254
+        },
+        "it": "Lom\u00e9",
+        "it:t": "Togo | Golfe",
+        "es": "Lom\u00e9",
+        "es:t": "Togo | Golfe",
+        "de": "Lom\u00e9",
+        "de:t": "Togo | Golfe"
+    },
+    {
+        "en": "Mango",
+        "en:t": "Togo | Oti",
+        "a": true,
+        "g": {
+            "lat": 10.3551,
+            "lon": 0.4738
+        },
+        "it": "Mango",
+        "it:t": "Togo | Oti",
+        "es": "Mango",
+        "es:t": "Togo | Oti",
+        "de": "Mango",
+        "de:t": "Togo | Oti"
+    },
+    {
+        "en": "Niamtougou",
+        "en:t": "Togo | Doufelgou",
+        "a": true,
+        "g": {
+            "lat": 9.7438,
+            "lon": 1.1161
+        },
+        "it": "Niamtougou",
+        "it:t": "Togo | Doufelgou",
+        "es": "Niamtougou",
+        "es:t": "Togo | Doufelgou",
+        "de": "Niamtougou",
+        "de:t": "Togo | Doufelgou"
+    },
+    {
+        "en": "Notse",
+        "en:t": "Togo | Haho",
+        "a": true,
+        "g": {
+            "lat": 6.9463,
+            "lon": 1.1689
+        },
+        "it": "Nots\u00e9",
+        "it:t": "Togo | Haho",
+        "es": "Notse",
+        "es:t": "Togo | Haho",
+        "de": "Notse",
+        "de:t": "Togo | Haho"
+    },
+    {
+        "en": "Sokode",
+        "en:t": "Togo | Tchaudjo",
+        "a": true,
+        "g": {
+            "lat": 8.978,
+            "lon": 1.1449
+        },
+        "it": "Sokod\u00e9",
+        "it:t": "Togo | Tchaudjo",
+        "es": "Sokod\u00e9",
+        "es:t": "Togo | Tchaudjo",
+        "de": "Sokod\u00e9",
+        "de:t": "Togo | Tchaudjo"
+    },
+    {
+        "en": "Sotouboua",
+        "en:t": "Togo | Satouboua",
+        "a": true,
+        "g": {
+            "lat": 8.5654,
+            "lon": 0.9773
+        },
+        "it": "Sotouboua",
+        "it:t": "Togo | Satouboua",
+        "es": "Sotouboua",
+        "es:t": "Togo | Satouboua",
+        "de": "Sotouboua",
+        "de:t": "Togo | Satouboua"
+    },
+    {
+        "en": "Tchamba",
+        "en:t": "Togo",
+        "a": true,
+        "g": {
+            "lat": 9.0295,
+            "lon": 1.4169
+        },
+        "it": "Tchamba",
+        "it:t": "Togo",
+        "es": "Tchamba",
+        "es:t": "Togo",
+        "de": "Tchamba",
+        "de:t": "Togo"
+    },
+    {
+        "en": "Tsevie",
+        "en:t": "Togo | Zio",
+        "a": true,
+        "g": {
+            "lat": 6.4329,
+            "lon": 1.2073
+        },
+        "it": "Ts\u00e9vi\u00e9",
+        "it:t": "Togo | Zio",
+        "es": "Tsevie",
+        "es:t": "Togo | Zio",
+        "de": "Ts\u00e9vi\u00e9",
+        "de:t": "Togo | Zio"
+    },
+    {
+        "en": "Vogan",
+        "en:t": "Togo | Vo",
+        "a": true,
+        "g": {
+            "lat": 6.3337,
+            "lon": 1.5281
+        },
+        "it": "Vogan",
+        "it:t": "Togo | Vo",
+        "es": "Vogan",
+        "es:t": "Togo | Vo",
+        "de": "Vogan",
+        "de:t": "Togo | Vo"
+    },
+    {
+        "en": "Nuku'alofa",
+        "en:t": "Tonga | Tongatapu",
+        "a": true,
+        "g": {
+            "lat": -21.1393,
+            "lon": -175.2049
+        },
+        "it": "Nuku'alofa",
+        "it:t": "Tonga | Tongatapu",
+        "es": "Nukualofa",
+        "es:t": "Tonga | Tongatapu",
+        "de": "Nuku'alofa",
+        "de:t": "Tonga | Tongatapu"
+    }
+]

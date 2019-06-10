@@ -1,0 +1,17 @@
+[
+    {
+        "en": "Saint-Pierre",
+        "en:t": "Saint Pierre and Miquelon",
+        "a": true,
+        "g": {
+            "lat": 46.7758,
+            "lon": -56.1806
+        },
+        "it": "Saint-Pierre",
+        "it:t": "Saint-Pierre e Miquelon",
+        "es": "San Pedro",
+        "es:t": "San Pedro y Miquel\u00f3n",
+        "de": "Saint-Pierre",
+        "de:t": "Sankt Pierre und Miquelon"
+    }
+]

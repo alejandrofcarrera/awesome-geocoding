@@ -1,0 +1,497 @@
+[
+    {
+        "en": "Alesund",
+        "en:t": "Norway | M\u00f8re og Romsdal",
+        "a": true,
+        "g": {
+            "lat": 62.4722,
+            "lon": 6.1495
+        },
+        "it": "\u00c5lesund",
+        "it:t": "Norvegia | M\u00f8re og Romsdal",
+        "es": "\u00c5lesund",
+        "es:t": "Noruega | M\u00f8re og Romsdal",
+        "de": "\u00c5lesund",
+        "de:t": "Norwegen | M\u00f8re og Romsdal"
+    },
+    {
+        "en": "Arendal",
+        "en:t": "Norway | Aust-Agder",
+        "a": true,
+        "g": {
+            "lat": 58.4618,
+            "lon": 8.7724
+        },
+        "it": "Arendal",
+        "it:t": "Norvegia | Aust-Agder",
+        "es": "Arendal",
+        "es:t": "Noruega | Agder Este",
+        "de": "Arendal",
+        "de:t": "Norwegen | Aust-Agder"
+    },
+    {
+        "en": "Ask\u00f8y",
+        "en:t": "Norway | Hordaland",
+        "a": true,
+        "g": {
+            "lat": 60.4619,
+            "lon": 5.0893
+        },
+        "it": "Ask\u00f8y",
+        "it:t": "Norvegia | Hordaland",
+        "es": "Ask\u00f8y",
+        "es:t": "Noruega | Hordaland",
+        "de": "Ask\u00f8y",
+        "de:t": "Norwegen | Hordaland"
+    },
+    {
+        "en": "Bergen",
+        "en:t": "Norway | Hordaland",
+        "a": true,
+        "g": {
+            "lat": 60.3913,
+            "lon": 5.3221
+        },
+        "it": "Bergen",
+        "it:t": "Norvegia | Hordaland",
+        "es": "Bergen",
+        "es:t": "Noruega | Hordaland",
+        "de": "Bergen",
+        "de:t": "Norwegen | Hordaland"
+    },
+    {
+        "en": "Bod\u00f8",
+        "en:t": "Norway | Nordland",
+        "a": true,
+        "g": {
+            "lat": 67.2804,
+            "lon": 14.4049
+        },
+        "it": "Bod\u00f8",
+        "it:t": "Norvegia | Nordland",
+        "es": "Bod\u00f8",
+        "es:t": "Noruega | Nordland",
+        "de": "Bod\u00f8",
+        "de:t": "Norwegen | Nordland"
+    },
+    {
+        "en": "Drammen",
+        "en:t": "Norway | Buskerud",
+        "a": true,
+        "g": {
+            "lat": 59.7441,
+            "lon": 10.2045
+        },
+        "it": "Drammen",
+        "it:t": "Norvegia | Buskerud",
+        "es": "Drammen",
+        "es:t": "Noruega | Buskerud",
+        "de": "Drammen",
+        "de:t": "Norwegen | Buskerud"
+    },
+    {
+        "en": "Fredrikstad",
+        "en:t": "Norway | Ostfold",
+        "a": true,
+        "g": {
+            "lat": 59.2205,
+            "lon": 10.9347
+        },
+        "it": "Fredrikstad",
+        "it:t": "Norvegia | \u00d8stfold",
+        "es": "Fredrikstad",
+        "es:t": "Noruega | \u00d8stfold",
+        "de": "Fredrikstad",
+        "de:t": "Norwegen | \u00d8stfold"
+    },
+    {
+        "en": "Gj\u00f8vik",
+        "en:t": "Norway | Oppland",
+        "a": true,
+        "g": {
+            "lat": 60.7954,
+            "lon": 10.6916
+        },
+        "it": "Gj\u00f8vik",
+        "it:t": "Norvegia | Oppland",
+        "es": "Gj\u00f8vik",
+        "es:t": "Noruega | Oppland",
+        "de": "Gj\u00f8vik",
+        "de:t": "Norwegen | Oppland"
+    },
+    {
+        "en": "Halden",
+        "en:t": "Norway | Ostfold",
+        "a": true,
+        "g": {
+            "lat": 59.133,
+            "lon": 11.3875
+        },
+        "it": "Halden",
+        "it:t": "Norvegia | \u00d8stfold",
+        "es": "Halden",
+        "es:t": "Noruega | \u00d8stfold",
+        "de": "Halden",
+        "de:t": "Norwegen | \u00d8stfold"
+    },
+    {
+        "en": "Hamar",
+        "en:t": "Norway | Hedmark",
+        "a": true,
+        "g": {
+            "lat": 60.7945,
+            "lon": 11.068
+        },
+        "it": "Hamar",
+        "it:t": "Norvegia | Hedmark",
+        "es": "Hamar",
+        "es:t": "Noruega | Hedmark",
+        "de": "Hamar",
+        "de:t": "Norwegen | Hedmark"
+    },
+    {
+        "en": "Harstad",
+        "en:t": "Norway | Troms",
+        "a": true,
+        "g": {
+            "lat": 68.8222,
+            "lon": 16.5021
+        },
+        "it": "Harstad",
+        "it:t": "Norvegia | Troms",
+        "es": "Harstad",
+        "es:t": "Noruega | Troms",
+        "de": "Harstad",
+        "de:t": "Norwegen | Troms"
+    },
+    {
+        "en": "Haugesund",
+        "en:t": "Norway | Rogaland",
+        "a": true,
+        "g": {
+            "lat": 59.4136,
+            "lon": 5.268
+        },
+        "it": "Haugesund",
+        "it:t": "Norvegia | Rogaland",
+        "es": "Haugesund",
+        "es:t": "Noruega | Rogaland",
+        "de": "Haugesund",
+        "de:t": "Norwegen | Rogaland"
+    },
+    {
+        "en": "Horten",
+        "en:t": "Norway | Vestfold",
+        "a": true,
+        "g": {
+            "lat": 59.4171,
+            "lon": 10.4832
+        },
+        "it": "Horten",
+        "it:t": "Norvegia | Vestfold",
+        "es": "Horten",
+        "es:t": "Noruega | Vestfold",
+        "de": "Horten",
+        "de:t": "Norwegen | Vestfold"
+    },
+    {
+        "en": "Kongsberg",
+        "en:t": "Norway | Buskerud",
+        "a": true,
+        "g": {
+            "lat": 59.6689,
+            "lon": 9.6502
+        },
+        "it": "Kongsberg",
+        "it:t": "Norvegia | Buskerud",
+        "es": "Kongsberg",
+        "es:t": "Noruega | Buskerud",
+        "de": "Kongsberg",
+        "de:t": "Norwegen | Buskerud"
+    },
+    {
+        "en": "Kristiansand",
+        "en:t": "Norway | Vest-Agder",
+        "a": true,
+        "g": {
+            "lat": 58.1599,
+            "lon": 8.0182
+        },
+        "it": "Kristiansand",
+        "it:t": "Norvegia | Vest-Agder",
+        "es": "Kristiansand",
+        "es:t": "Noruega | Vest-Agder",
+        "de": "Kristiansand",
+        "de:t": "Norwegen | Vest-Agder"
+    },
+    {
+        "en": "Kristiansund",
+        "en:t": "Norway | M\u00f8re og Romsdal",
+        "a": true,
+        "g": {
+            "lat": 63.1103,
+            "lon": 7.7281
+        },
+        "it": "Kristiansund",
+        "it:t": "Norvegia | M\u00f8re og Romsdal",
+        "es": "Kristiansund",
+        "es:t": "Noruega | M\u00f8re og Romsdal",
+        "de": "Kristiansund",
+        "de:t": "Norwegen | M\u00f8re og Romsdal"
+    },
+    {
+        "en": "Larvik",
+        "en:t": "Norway | Vestfold",
+        "a": true,
+        "g": {
+            "lat": 59.0538,
+            "lon": 10.0295
+        },
+        "it": "Larvik",
+        "it:t": "Norvegia | Vestfold",
+        "es": "Larvik",
+        "es:t": "Noruega | Vestfold",
+        "de": "Larvik",
+        "de:t": "Norwegen | Vestfold"
+    },
+    {
+        "en": "Lillehammer",
+        "en:t": "Norway | Oppland",
+        "a": true,
+        "g": {
+            "lat": 61.1153,
+            "lon": 10.4662
+        },
+        "it": "Lillehammer",
+        "it:t": "Norvegia | Oppland",
+        "es": "Lillehammer",
+        "es:t": "Noruega | Oppland",
+        "de": "Lillehammer",
+        "de:t": "Norwegen | Oppland"
+    },
+    {
+        "en": "Mo i Rana",
+        "en:t": "Norway | Nordland",
+        "a": true,
+        "g": {
+            "lat": 66.3137,
+            "lon": 14.142
+        },
+        "it": "Mo i Rana",
+        "it:t": "Norvegia | Nordland",
+        "es": "Mo i Rana",
+        "es:t": "Noruega | Nordland",
+        "de": "Mo i Rana",
+        "de:t": "Norwegen | Nordland"
+    },
+    {
+        "en": "Molde",
+        "en:t": "Norway | M\u00f8re og Romsdal",
+        "a": true,
+        "g": {
+            "lat": 62.7372,
+            "lon": 7.1607
+        },
+        "it": "Molde",
+        "it:t": "Norvegia | M\u00f8re og Romsdal",
+        "es": "Molde",
+        "es:t": "Noruega | M\u00f8re og Romsdal",
+        "de": "Molde",
+        "de:t": "Norwegen | M\u00f8re og Romsdal"
+    },
+    {
+        "en": "Moss",
+        "en:t": "Norway | Ostfold",
+        "a": true,
+        "g": {
+            "lat": 59.4642,
+            "lon": 10.6594
+        },
+        "it": "Moss",
+        "it:t": "Norvegia | Ostfold",
+        "es": "Moss",
+        "es:t": "Noruega | \u00d8stfold",
+        "de": "Moss",
+        "de:t": "Norwegen | Ostfold"
+    },
+    {
+        "en": "Oslo",
+        "en:t": "Norway",
+        "a": true,
+        "g": {
+            "lat": 59.9139,
+            "lon": 10.7522
+        },
+        "it": "Oslo",
+        "it:t": "Norvegia",
+        "es": "Oslo",
+        "es:t": "Noruega",
+        "de": "Oslo",
+        "de:t": "Norwegen"
+    },
+    {
+        "en": "Porsgrunn",
+        "en:t": "Norway | Telemark",
+        "a": true,
+        "g": {
+            "lat": 59.1386,
+            "lon": 9.6555
+        },
+        "it": "Porsgrunn",
+        "it:t": "Norvegia | Telemark",
+        "es": "Porsgrunn",
+        "es:t": "Noruega | Telemark",
+        "de": "Porsgrunn",
+        "de:t": "Norwegen | Telemark"
+    },
+    {
+        "en": "Sandefjord",
+        "en:t": "Norway | Vestfold",
+        "a": true,
+        "g": {
+            "lat": 59.1313,
+            "lon": 10.2166
+        },
+        "it": "Sandefjord",
+        "it:t": "Norvegia | Vestfold",
+        "es": "Sandefjord",
+        "es:t": "Noruega | Vestfold",
+        "de": "Sandefjord",
+        "de:t": "Norwegen | Vestfold"
+    },
+    {
+        "en": "Sandnes",
+        "en:t": "Norway | Rogaland",
+        "a": true,
+        "g": {
+            "lat": 58.8533,
+            "lon": 5.7329
+        },
+        "it": "Sandnes",
+        "it:t": "Norvegia | Rogaland",
+        "es": "Sandnes",
+        "es:t": "Noruega | Rogaland",
+        "de": "Sandnes",
+        "de:t": "Norwegen | Rogaland"
+    },
+    {
+        "en": "Sarpsborg",
+        "en:t": "Norway | Ostfold",
+        "a": true,
+        "g": {
+            "lat": 59.2841,
+            "lon": 11.1094
+        },
+        "it": "Sarpsborg",
+        "it:t": "Norvegia | \u00d8stfold",
+        "es": "Sarpsborg",
+        "es:t": "Noruega | \u00d8stfold",
+        "de": "Sarpsborg",
+        "de:t": "Norwegen | \u00d8stfold"
+    },
+    {
+        "en": "Skien",
+        "en:t": "Norway | Telemark",
+        "a": true,
+        "g": {
+            "lat": 59.1882,
+            "lon": 9.6128
+        },
+        "it": "Skien",
+        "it:t": "Norvegia | Telemark",
+        "es": "Skien",
+        "es:t": "Noruega | Telemark",
+        "de": "Skien",
+        "de:t": "Norwegen | Telemark"
+    },
+    {
+        "en": "Stavanger",
+        "en:t": "Norway | Rogaland",
+        "a": true,
+        "g": {
+            "lat": 58.97,
+            "lon": 5.7331
+        },
+        "it": "Stavanger",
+        "it:t": "Norvegia | Rogaland",
+        "es": "Stavanger",
+        "es:t": "Noruega | Rogaland",
+        "de": "Stavanger",
+        "de:t": "Norwegen | Rogaland"
+    },
+    {
+        "en": "Steinkjer",
+        "en:t": "Norway | Trondelag",
+        "a": true,
+        "g": {
+            "lat": 64.015,
+            "lon": 11.4953
+        },
+        "it": "Steinkjer",
+        "it:t": "Norvegia | Tr\u00f8ndelag",
+        "es": "Steinkjer",
+        "es:t": "Noruega | Trondelag",
+        "de": "Steinkjer",
+        "de:t": "Norwegen | Tr\u00f6ndelag"
+    },
+    {
+        "en": "Troms\u00f8",
+        "en:t": "Norway | Troms",
+        "a": true,
+        "g": {
+            "lat": 69.6492,
+            "lon": 18.9553
+        },
+        "it": "Troms\u00f8",
+        "it:t": "Norvegia | Troms",
+        "es": "Troms\u00f8",
+        "es:t": "Noruega | Troms",
+        "de": "Troms\u00f8",
+        "de:t": "Norwegen | Troms"
+    },
+    {
+        "en": "Trondheim",
+        "en:t": "Norway | Trondelag",
+        "a": true,
+        "g": {
+            "lat": 63.4305,
+            "lon": 10.3951
+        },
+        "it": "Trondheim",
+        "it:t": "Norvegia | Tr\u00f8ndelag",
+        "es": "Trondheim",
+        "es:t": "Noruega | Trondelag",
+        "de": "Trondheim",
+        "de:t": "Norwegen | Tr\u00f6ndelag"
+    },
+    {
+        "en": "T\u00f8nsberg",
+        "en:t": "Norway | Vestfold",
+        "a": true,
+        "g": {
+            "lat": 59.2676,
+            "lon": 10.4076
+        },
+        "it": "T\u00f8nsberg",
+        "it:t": "Norvegia | Vestfold",
+        "es": "T\u00f8nsberg",
+        "es:t": "Noruega | Vestfold",
+        "de": "T\u00f8nsberg",
+        "de:t": "Norwegen | Vestfold"
+    },
+    {
+        "en": "Ytrebygda",
+        "en:t": "Norway | Bergen",
+        "a": true,
+        "g": {
+            "lat": 60.2914,
+            "lon": 5.262
+        },
+        "it": "Ytrebygda",
+        "it:t": "Norvegia | Bergen",
+        "es": "Ytrebygda",
+        "es:t": "Noruega | Bergen",
+        "de": "Ytrebygda",
+        "de:t": "Norwegen | Bergen"
+    }
+]

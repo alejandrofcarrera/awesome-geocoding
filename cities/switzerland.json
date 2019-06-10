@@ -1,0 +1,977 @@
+[
+    {
+        "en": "Aarau",
+        "en:t": "Switzerland",
+        "a": true,
+        "g": {
+            "lat": 47.3904,
+            "lon": 8.0457
+        },
+        "it": "Aarau",
+        "it:t": "Svizzera",
+        "es": "Aarau",
+        "es:t": "Suiza",
+        "de": "Aarau",
+        "de:t": "Schweiz"
+    },
+    {
+        "en": "Adliswil",
+        "en:t": "Switzerland | Horgen",
+        "a": true,
+        "g": {
+            "lat": 47.3124,
+            "lon": 8.527
+        },
+        "it": "Adliswil",
+        "it:t": "Svizzera | Horgen",
+        "es": "Adliswil",
+        "es:t": "Suiza | Horgen",
+        "de": "Adliswil",
+        "de:t": "Schweiz | Horgen"
+    },
+    {
+        "en": "Allschwil",
+        "en:t": "Switzerland | Arlesheim",
+        "a": true,
+        "g": {
+            "lat": 47.5529,
+            "lon": 7.5434
+        },
+        "it": "Allschwil",
+        "it:t": "Svizzera | Arlesheim",
+        "es": "Allschwil",
+        "es:t": "Suiza | Arlesheim",
+        "de": "Allschwil",
+        "de:t": "Schweiz | Arlesheim"
+    },
+    {
+        "en": "Altstadt",
+        "en:t": "Switzerland | Z\u00fcrich",
+        "a": true,
+        "g": {
+            "lat": 47.3731,
+            "lon": 8.5473
+        },
+        "it": "Altstadt",
+        "it:t": "Svizzera | Zurigo",
+        "es": "Altstadt",
+        "es:t": "Suiza | Z\u00fcrich",
+        "de": "Altstadt",
+        "de:t": "Schweiz | Z\u00fcrich"
+    },
+    {
+        "en": "Aussersihl",
+        "en:t": "Switzerland | Z\u00fcrich",
+        "a": true,
+        "g": {
+            "lat": 47.3801,
+            "lon": 8.5207
+        },
+        "it": "Aussersihl",
+        "it:t": "Svizzera | Zurigo",
+        "es": "Aussersihl",
+        "es:t": "Suiza | Z\u00fcrich",
+        "de": "Aussersihl",
+        "de:t": "Schweiz | Z\u00fcrich"
+    },
+    {
+        "en": "Baar",
+        "en:t": "Switzerland | Zug",
+        "a": true,
+        "g": {
+            "lat": 47.1954,
+            "lon": 8.5261
+        },
+        "it": "Baar",
+        "it:t": "Svizzera | Zug",
+        "es": "Baar",
+        "es:t": "Suiza | Zug",
+        "de": "Baar",
+        "de:t": "Schweiz | Zug"
+    },
+    {
+        "en": "Baden",
+        "en:t": "Switzerland",
+        "a": true,
+        "g": {
+            "lat": 47.4729,
+            "lon": 8.3081
+        },
+        "it": "Baden",
+        "it:t": "Svizzera",
+        "es": "Baden",
+        "es:t": "Suiza",
+        "de": "Baden",
+        "de:t": "Schweiz"
+    },
+    {
+        "en": "Basel",
+        "en:t": "Switzerland | Basel-Stadt",
+        "a": true,
+        "g": {
+            "lat": 47.5596,
+            "lon": 7.5886
+        },
+        "it": "Basilea",
+        "it:t": "Svizzera | Basel-Stadt",
+        "es": "Basilea",
+        "es:t": "Suiza | Basel-Stadt",
+        "de": "Basel",
+        "de:t": "Schweiz | Basel-Stadt"
+    },
+    {
+        "en": "Bellinzona",
+        "en:t": "Switzerland",
+        "a": true,
+        "g": {
+            "lat": 46.1946,
+            "lon": 9.0244
+        },
+        "it": "Bellinzona",
+        "it:t": "Svizzera",
+        "es": "Bellinzona",
+        "es:t": "Suiza",
+        "de": "Bellinzona",
+        "de:t": "Schweiz"
+    },
+    {
+        "en": "Bern",
+        "en:t": "Switzerland",
+        "a": true,
+        "g": {
+            "lat": 46.948,
+            "lon": 7.4474
+        },
+        "it": "Berna",
+        "it:t": "Svizzera",
+        "es": "Berna",
+        "es:t": "Suiza",
+        "de": "Bern",
+        "de:t": "Schweiz"
+    },
+    {
+        "en": "Bienne",
+        "en:t": "Switzerland",
+        "a": true,
+        "g": {
+            "lat": 47.1368,
+            "lon": 7.2468
+        },
+        "it": "Bienna",
+        "it:t": "Svizzera",
+        "es": "Bienne",
+        "es:t": "Suiza",
+        "de": "Biel",
+        "de:t": "Schweiz"
+    },
+    {
+        "en": "Carouge",
+        "en:t": "Switzerland | Geneva",
+        "a": true,
+        "g": {
+            "lat": 46.183,
+            "lon": 6.1379
+        },
+        "it": "Carouge",
+        "it:t": "Svizzera | Geneva",
+        "es": "Carouge",
+        "es:t": "Suiza | Geneva",
+        "de": "Carouge",
+        "de:t": "Schweiz | Geneva"
+    },
+    {
+        "en": "Chur",
+        "en:t": "Switzerland | Plessur",
+        "a": true,
+        "g": {
+            "lat": 46.8508,
+            "lon": 9.532
+        },
+        "it": "Coira",
+        "it:t": "Svizzera | Plessur",
+        "es": "Cuera",
+        "es:t": "Suiza | Plessur",
+        "de": "Chur",
+        "de:t": "Schweiz | Plessur"
+    },
+    {
+        "en": "Dietikon",
+        "en:t": "Switzerland | Dietikon",
+        "a": true,
+        "g": {
+            "lat": 47.4054,
+            "lon": 8.3998
+        },
+        "it": "Dietikon",
+        "it:t": "Svizzera | Dietikon",
+        "es": "Dietikon",
+        "es:t": "Suiza | Dietikon",
+        "de": "Dietikon",
+        "de:t": "Schweiz"
+    },
+    {
+        "en": "D\u00fcbendorf",
+        "en:t": "Switzerland | Uster",
+        "a": true,
+        "g": {
+            "lat": 47.3971,
+            "lon": 8.618
+        },
+        "it": "D\u00fcbendorf",
+        "it:t": "Svizzera | Uster",
+        "es": "D\u00fcbendorf",
+        "es:t": "Suiza | Uster",
+        "de": "D\u00fcbendorf",
+        "de:t": "Schweiz | Uster"
+    },
+    {
+        "en": "Emmen",
+        "en:t": "Switzerland | Hochdorf",
+        "a": true,
+        "g": {
+            "lat": 47.0772,
+            "lon": 8.2756
+        },
+        "it": "Emmen",
+        "it:t": "Svizzera | Hochdorf",
+        "es": "Emmen",
+        "es:t": "Suiza | Hochdorf",
+        "de": "Emmen",
+        "de:t": "Schweiz | Hochdorf"
+    },
+    {
+        "en": "Frauenfeld",
+        "en:t": "Switzerland",
+        "a": true,
+        "g": {
+            "lat": 47.5536,
+            "lon": 8.8988
+        },
+        "it": "Frauenfeld",
+        "it:t": "Svizzera",
+        "es": "Frauenfeld",
+        "es:t": "Suiza",
+        "de": "Frauenfeld",
+        "de:t": "Schweiz"
+    },
+    {
+        "en": "Fribourg",
+        "en:t": "Switzerland | Sarine",
+        "a": true,
+        "g": {
+            "lat": 46.8065,
+            "lon": 7.162
+        },
+        "it": "Friburgo",
+        "it:t": "Svizzera | Sarine",
+        "es": "Friburgo",
+        "es:t": "Suiza | Sarine",
+        "de": "Freiburg",
+        "de:t": "Schweiz | Saanebezirk"
+    },
+    {
+        "en": "Geneva",
+        "en:t": "Switzerland",
+        "a": true,
+        "g": {
+            "lat": 46.2044,
+            "lon": 6.1432
+        },
+        "it": "Ginevra",
+        "it:t": "Svizzera | Geneva",
+        "es": "Ginebra",
+        "es:t": "Suiza | Geneva",
+        "de": "Genf",
+        "de:t": "Schweiz | Geneva"
+    },
+    {
+        "en": "Gossau",
+        "en:t": "Switzerland | St. Gallen",
+        "a": true,
+        "g": {
+            "lat": 47.4156,
+            "lon": 9.2489
+        },
+        "it": "Gossau",
+        "it:t": "Svizzera | San Gallo",
+        "es": "Gossau",
+        "es:t": "Suiza | San Galo",
+        "de": "Gossau",
+        "de:t": "Schweiz | Sankt Gallen"
+    },
+    {
+        "en": "Grenchen",
+        "en:t": "Switzerland | Lebern",
+        "a": true,
+        "g": {
+            "lat": 47.1923,
+            "lon": 7.3959
+        },
+        "it": "Grenchen",
+        "it:t": "Svizzera | Lebern",
+        "es": "Grenchen",
+        "es:t": "Suiza | Lebern",
+        "de": "Grenchen",
+        "de:t": "Schweiz | Lebern"
+    },
+    {
+        "en": "Herisau",
+        "en:t": "Switzerland | Hinterland",
+        "a": true,
+        "g": {
+            "lat": 47.3857,
+            "lon": 9.2798
+        },
+        "it": "Herisau",
+        "it:t": "Svizzera | Hinterland",
+        "es": "Herisau",
+        "es:t": "Suiza | Hinterland",
+        "de": "Herisau",
+        "de:t": "Schweiz | Hinterland"
+    },
+    {
+        "en": "Horgen",
+        "en:t": "Switzerland",
+        "a": true,
+        "g": {
+            "lat": 47.2607,
+            "lon": 8.5964
+        },
+        "it": "Horgen",
+        "it:t": "Svizzera",
+        "es": "Horgen",
+        "es:t": "Suiza",
+        "de": "Horgen",
+        "de:t": "Schweiz"
+    },
+    {
+        "en": "H\u00f6ngg",
+        "en:t": "Switzerland",
+        "a": true,
+        "g": {
+            "lat": 47.4022,
+            "lon": 8.4993
+        },
+        "it": "H\u00f6ngg",
+        "it:t": "Svizzera",
+        "es": "H\u00f6nggerberg",
+        "es:t": "Suiza",
+        "de": "H\u00f6ngg",
+        "de:t": "Schweiz"
+    },
+    {
+        "en": "Jona",
+        "en:t": "Switzerland | See-Gaster",
+        "a": true,
+        "g": {
+            "lat": 47.2223,
+            "lon": 8.8327
+        },
+        "it": "Jona",
+        "it:t": "Svizzera | See-Gaster",
+        "es": "Jona",
+        "es:t": "Suiza | See-Gaster",
+        "de": "Jona",
+        "de:t": "Schweiz | See-Gaster"
+    },
+    {
+        "en": "Kloten",
+        "en:t": "Switzerland | B\u00fclach",
+        "a": true,
+        "g": {
+            "lat": 47.4495,
+            "lon": 8.5822
+        },
+        "it": "Kloten",
+        "it:t": "Svizzera | B\u00fclach",
+        "es": "Kloten",
+        "es:t": "Suiza | B\u00fclach",
+        "de": "Kloten",
+        "de:t": "Schweiz | B\u00fclach"
+    },
+    {
+        "en": "Kreuzlingen",
+        "en:t": "Switzerland",
+        "a": true,
+        "g": {
+            "lat": 47.6447,
+            "lon": 9.1708
+        },
+        "it": "Kreuzlingen",
+        "it:t": "Svizzera",
+        "es": "Kreuzlingen",
+        "es:t": "Suiza",
+        "de": "Kreuzlingen",
+        "de:t": "Schweiz"
+    },
+    {
+        "en": "Kriens",
+        "en:t": "Switzerland | Lucerne",
+        "a": true,
+        "g": {
+            "lat": 47.0342,
+            "lon": 8.2773
+        },
+        "it": "Kriens",
+        "it:t": "Svizzera | Lucerna",
+        "es": "Kriens",
+        "es:t": "Suiza | Lucerna",
+        "de": "Kriens",
+        "de:t": "Schweiz | Luzern"
+    },
+    {
+        "en": "K\u00f6niz",
+        "en:t": "Switzerland | Bern",
+        "a": true,
+        "g": {
+            "lat": 46.9256,
+            "lon": 7.4167
+        },
+        "it": "K\u00f6niz",
+        "it:t": "Svizzera | Berna",
+        "es": "K\u00f6niz",
+        "es:t": "Suiza | Berna",
+        "de": "K\u00f6niz",
+        "de:t": "Schweiz | Bern"
+    },
+    {
+        "en": "La Chaux-de-Fonds",
+        "en:t": "Switzerland | La Chaux-de-Fonds",
+        "a": true,
+        "g": {
+            "lat": 47.1035,
+            "lon": 6.8328
+        },
+        "it": "La Chaux-de-Fonds",
+        "it:t": "Svizzera | La Chaux-de-Fonds",
+        "es": "La Chaux-de-Fonds",
+        "es:t": "Suiza | La Chaux-de-Fonds",
+        "de": "La Chaux-de-Fonds",
+        "de:t": "Schweiz | La Chaux-de-Fonds"
+    },
+    {
+        "en": "Lancy",
+        "en:t": "Switzerland | Geneva",
+        "a": true,
+        "g": {
+            "lat": 46.1885,
+            "lon": 6.1145
+        },
+        "it": "Lancy",
+        "it:t": "Svizzera | Geneva",
+        "es": "Lancy",
+        "es:t": "Suiza | Geneva",
+        "de": "Lancy",
+        "de:t": "Schweiz | Geneva"
+    },
+    {
+        "en": "Lausanne",
+        "en:t": "Switzerland",
+        "a": true,
+        "g": {
+            "lat": 46.5197,
+            "lon": 6.6323
+        },
+        "it": "Losanna",
+        "it:t": "Svizzera",
+        "es": "Lausana",
+        "es:t": "Suiza",
+        "de": "Lausanne",
+        "de:t": "Schweiz"
+    },
+    {
+        "en": "Le Ch\u00e2telard",
+        "en:t": "Switzerland | Riviera-Pays-d'Enhaut",
+        "a": true,
+        "g": {
+            "lat": 46.4462,
+            "lon": 6.8968
+        },
+        "it": "Le Ch\u00e2telard",
+        "it:t": "Svizzera | Riviera-Pays-d'Enhaut",
+        "es": "Le Ch\u00e2telard",
+        "es:t": "Suiza | Riviera-Pays-d'Enhaut",
+        "de": "Le Ch\u00e2telard",
+        "de:t": "Schweiz | Riviera-Pays-d'Enhaut"
+    },
+    {
+        "en": "Littau",
+        "en:t": "Switzerland | Lucerne",
+        "a": true,
+        "g": {
+            "lat": 47.0508,
+            "lon": 8.2648
+        },
+        "it": "Littau",
+        "it:t": "Svizzera | Lucerna",
+        "es": "Littau",
+        "es:t": "Suiza | Lucerna",
+        "de": "Littau",
+        "de:t": "Schweiz | Luzern"
+    },
+    {
+        "en": "Lucerne",
+        "en:t": "Switzerland",
+        "a": true,
+        "g": {
+            "lat": 47.0502,
+            "lon": 8.3093
+        },
+        "it": "Lucerna",
+        "it:t": "Svizzera",
+        "es": "Lucerna",
+        "es:t": "Suiza",
+        "de": "Luzern",
+        "de:t": "Schweiz"
+    },
+    {
+        "en": "Lugano",
+        "en:t": "Switzerland",
+        "a": true,
+        "g": {
+            "lat": 46.0037,
+            "lon": 8.9511
+        },
+        "it": "Lugano",
+        "it:t": "Svizzera",
+        "es": "Lugano",
+        "es:t": "Suiza",
+        "de": "Lugano",
+        "de:t": "Schweiz"
+    },
+    {
+        "en": "Meyrin",
+        "en:t": "Switzerland | Geneva",
+        "a": true,
+        "g": {
+            "lat": 46.2283,
+            "lon": 6.071
+        },
+        "it": "Meyrin",
+        "it:t": "Svizzera | Geneva",
+        "es": "Meyrin",
+        "es:t": "Suiza | Geneva",
+        "de": "Meyrin",
+        "de:t": "Schweiz | Geneva"
+    },
+    {
+        "en": "Monthey",
+        "en:t": "Switzerland",
+        "a": true,
+        "g": {
+            "lat": 46.2522,
+            "lon": 6.947
+        },
+        "it": "Monthey",
+        "it:t": "Svizzera",
+        "es": "Monthey",
+        "es:t": "Suiza",
+        "de": "Monthey",
+        "de:t": "Schweiz"
+    },
+    {
+        "en": "Montreux",
+        "en:t": "Switzerland | Riviera-Pays-d'Enhaut",
+        "a": true,
+        "g": {
+            "lat": 46.4312,
+            "lon": 6.9107
+        },
+        "it": "Montreux",
+        "it:t": "Svizzera | Riviera-Pays-d'Enhaut",
+        "es": "Montreux",
+        "es:t": "Suiza | Riviera-Pays-d'Enhaut",
+        "de": "Montreux",
+        "de:t": "Schweiz | Riviera-Pays-d'Enhaut"
+    },
+    {
+        "en": "Muttenz",
+        "en:t": "Switzerland | Arlesheim",
+        "a": true,
+        "g": {
+            "lat": 47.5279,
+            "lon": 7.6476
+        },
+        "it": "Muttenz",
+        "it:t": "Svizzera | Arlesheim",
+        "es": "Muttenz",
+        "es:t": "Suiza | Arlesheim",
+        "de": "Muttenz",
+        "de:t": "Schweiz | Arlesheim"
+    },
+    {
+        "en": "Neuch\u00e2tel",
+        "en:t": "Switzerland | Neuch\u00e2tel",
+        "a": true,
+        "g": {
+            "lat": 46.99,
+            "lon": 6.9293
+        },
+        "it": "Neuch\u00e2tel",
+        "it:t": "Svizzera | Neuch\u00e2tel",
+        "es": "Neuch\u00e2tel",
+        "es:t": "Suiza | Neuch\u00e2tel",
+        "de": "Neuenburg",
+        "de:t": "Schweiz | Neuenburg"
+    },
+    {
+        "en": "Nyon",
+        "en:t": "Switzerland | Nyon",
+        "a": true,
+        "g": {
+            "lat": 46.3833,
+            "lon": 6.2348
+        },
+        "it": "Nyon",
+        "it:t": "Svizzera | Nyon",
+        "es": "Nyon",
+        "es:t": "Suiza | Nyon",
+        "de": "Nyon",
+        "de:t": "Schweiz | Nyon"
+    },
+    {
+        "en": "Oberwinterthur",
+        "en:t": "Switzerland | Winterthur",
+        "a": true,
+        "g": {
+            "lat": 47.5066,
+            "lon": 8.7606
+        },
+        "it": "Oberwinterthur",
+        "it:t": "Svizzera | Winterthur",
+        "es": "Oberwinterthur",
+        "es:t": "Suiza | Winterthur",
+        "de": "Kreis 2",
+        "de:t": "Schweiz | Z\u00fcrich"
+    },
+    {
+        "en": "Olten",
+        "en:t": "Switzerland",
+        "a": true,
+        "g": {
+            "lat": 47.35,
+            "lon": 7.9037
+        },
+        "it": "Olten",
+        "it:t": "Svizzera",
+        "es": "Olten",
+        "es:t": "Suiza",
+        "de": "Olten",
+        "de:t": "Schweiz"
+    },
+    {
+        "en": "Onex",
+        "en:t": "Switzerland | Geneva",
+        "a": true,
+        "g": {
+            "lat": 46.1835,
+            "lon": 6.1002
+        },
+        "it": "Onex",
+        "it:t": "Svizzera | Geneva",
+        "es": "Onex",
+        "es:t": "Suiza | Geneva",
+        "de": "Onex",
+        "de:t": "Schweiz | Geneva"
+    },
+    {
+        "en": "Pully",
+        "en:t": "Switzerland | Lavaux-Oron",
+        "a": true,
+        "g": {
+            "lat": 46.5093,
+            "lon": 6.6655
+        },
+        "it": "Pully",
+        "it:t": "Svizzera | Lavaux-Oron",
+        "es": "Pully",
+        "es:t": "Suiza | Lavaux-Oron",
+        "de": "Pully",
+        "de:t": "Schweiz | Lavaux-Oron"
+    },
+    {
+        "en": "Rapperswil-Jona",
+        "en:t": "Switzerland | See-Gaster",
+        "a": true,
+        "g": {
+            "lat": 47.2266,
+            "lon": 8.8184
+        },
+        "it": "Rapperswil-Jona",
+        "it:t": "Svizzera | See-Gaster",
+        "es": "Rapperswil-Jona",
+        "es:t": "Suiza | See-Gaster",
+        "de": "Rapperswil-Jona",
+        "de:t": "Schweiz | See-Gaster"
+    },
+    {
+        "en": "Renens",
+        "en:t": "Switzerland | Ouest Lausannois",
+        "a": true,
+        "g": {
+            "lat": 46.5338,
+            "lon": 6.5914
+        },
+        "it": "Renens",
+        "it:t": "Svizzera | Ouest lausannois",
+        "es": "Renens",
+        "es:t": "Suiza | Ouest lausannois",
+        "de": "Renens",
+        "de:t": "Schweiz | Ouest lausannois"
+    },
+    {
+        "en": "Riehen",
+        "en:t": "Switzerland | Basel-Stadt",
+        "a": true,
+        "g": {
+            "lat": 47.5848,
+            "lon": 7.6499
+        },
+        "it": "Riehen",
+        "it:t": "Svizzera | Basel-Stadt",
+        "es": "Riehen",
+        "es:t": "Suiza | Basel-Stadt",
+        "de": "Riehen",
+        "de:t": "Schweiz | Basel-Stadt"
+    },
+    {
+        "en": "Schaffhausen",
+        "en:t": "Switzerland",
+        "a": true,
+        "g": {
+            "lat": 47.6959,
+            "lon": 8.638
+        },
+        "it": "Sciaffusa",
+        "it:t": "Svizzera",
+        "es": "Escafusa",
+        "es:t": "Suiza",
+        "de": "Schaffhausen",
+        "de:t": "Schweiz"
+    },
+    {
+        "en": "Seefeld",
+        "en:t": "Switzerland",
+        "a": true,
+        "g": {
+            "lat": 47.3565,
+            "lon": 8.5533
+        },
+        "it": "Riesbach",
+        "it:t": "Svizzera",
+        "es": "Seefeld",
+        "es:t": "Suiza",
+        "de": "Seefeld",
+        "de:t": "Schweiz"
+    },
+    {
+        "en": "Sierre",
+        "en:t": "Switzerland",
+        "a": true,
+        "g": {
+            "lat": 46.2941,
+            "lon": 7.5335
+        },
+        "it": "Sierre",
+        "it:t": "Svizzera",
+        "es": "Sierre",
+        "es:t": "Suiza",
+        "de": "Sierre",
+        "de:t": "Schweiz"
+    },
+    {
+        "en": "Sion",
+        "en:t": "Switzerland",
+        "a": true,
+        "g": {
+            "lat": 46.2331,
+            "lon": 7.3606
+        },
+        "it": "Sion",
+        "it:t": "Svizzera",
+        "es": "Sion",
+        "es:t": "Suiza",
+        "de": "Sitten",
+        "de:t": "Schweiz"
+    },
+    {
+        "en": "St. Gallen",
+        "en:t": "Switzerland",
+        "a": true,
+        "g": {
+            "lat": 47.4245,
+            "lon": 9.3767
+        },
+        "it": "San Gallo",
+        "it:t": "Svizzera",
+        "es": "San Galo",
+        "es:t": "Suiza",
+        "de": "St. Gallen",
+        "de:t": "Schweiz"
+    },
+    {
+        "en": "Steffisburg",
+        "en:t": "Switzerland | Thun",
+        "a": true,
+        "g": {
+            "lat": 46.7788,
+            "lon": 7.6348
+        },
+        "it": "Steffisburg",
+        "it:t": "Svizzera | Thun",
+        "es": "Steffisburg",
+        "es:t": "Suiza | Thun",
+        "de": "Steffisburg",
+        "de:t": "Schweiz | Thun"
+    },
+    {
+        "en": "Thun",
+        "en:t": "Switzerland",
+        "a": true,
+        "g": {
+            "lat": 46.758,
+            "lon": 7.628
+        },
+        "it": "Thun",
+        "it:t": "Svizzera",
+        "es": "Thun",
+        "es:t": "Suiza",
+        "de": "Thun",
+        "de:t": "Schweiz"
+    },
+    {
+        "en": "Uster",
+        "en:t": "Switzerland",
+        "a": true,
+        "g": {
+            "lat": 47.3483,
+            "lon": 8.7179
+        },
+        "it": "Uster",
+        "it:t": "Svizzera",
+        "es": "Uster",
+        "es:t": "Suiza",
+        "de": "Uster",
+        "de:t": "Schweiz"
+    },
+    {
+        "en": "Vernier",
+        "en:t": "Switzerland | Geneva",
+        "a": true,
+        "g": {
+            "lat": 46.2123,
+            "lon": 6.1053
+        },
+        "it": "Vernier",
+        "it:t": "Svizzera | Geneva",
+        "es": "Vernier",
+        "es:t": "Suiza | Geneva",
+        "de": "Vernier",
+        "de:t": "Schweiz | Geneva"
+    },
+    {
+        "en": "Vevey",
+        "en:t": "Switzerland | Riviera-Pays-d'Enhaut",
+        "a": true,
+        "g": {
+            "lat": 46.4628,
+            "lon": 6.8419
+        },
+        "it": "Vevey",
+        "it:t": "Svizzera | Riviera-Pays-d'Enhaut",
+        "es": "Vevey",
+        "es:t": "Suiza | Riviera-Pays-d'Enhaut",
+        "de": "Vevey",
+        "de:t": "Schweiz | Riviera-Pays-d'Enhaut"
+    },
+    {
+        "en": "Wettingen",
+        "en:t": "Switzerland | Baden",
+        "a": true,
+        "g": {
+            "lat": 47.466,
+            "lon": 8.3266
+        },
+        "it": "Wettingen",
+        "it:t": "Svizzera | Baden",
+        "es": "Wettingen",
+        "es:t": "Suiza | Baden",
+        "de": "Wettingen",
+        "de:t": "Schweiz | Baden"
+    },
+    {
+        "en": "Wil",
+        "en:t": "Switzerland",
+        "a": true,
+        "g": {
+            "lat": 47.4636,
+            "lon": 9.0479
+        },
+        "it": "Wil",
+        "it:t": "Svizzera",
+        "es": "Wil",
+        "es:t": "Suiza",
+        "de": "Wil",
+        "de:t": "Schweiz"
+    },
+    {
+        "en": "Winterthur",
+        "en:t": "Switzerland",
+        "a": true,
+        "g": {
+            "lat": 47.4988,
+            "lon": 8.7237
+        },
+        "it": "Winterthur",
+        "it:t": "Svizzera",
+        "es": "Winterthur",
+        "es:t": "Suiza",
+        "de": "Winterthur",
+        "de:t": "Schweiz"
+    },
+    {
+        "en": "Yverdon-les-Bains",
+        "en:t": "Switzerland | Jura-Nord vaudois",
+        "a": true,
+        "g": {
+            "lat": 46.7785,
+            "lon": 6.6412
+        },
+        "it": "Yverdon-les-Bains",
+        "it:t": "Svizzera | Jura-Nord vaudois",
+        "es": "Yverdon-les-Bains",
+        "es:t": "Suiza | Jura-Nord vaudois",
+        "de": "Yverdon-les-Bains",
+        "de:t": "Schweiz | Jura-Nord vaudois"
+    },
+    {
+        "en": "Zug",
+        "en:t": "Switzerland",
+        "a": true,
+        "g": {
+            "lat": 47.1662,
+            "lon": 8.5155
+        },
+        "it": "Zugo",
+        "it:t": "Svizzera",
+        "es": "Zug",
+        "es:t": "Suiza",
+        "de": "Zug",
+        "de:t": "Schweiz"
+    },
+    {
+        "en": "Z\u00fcrich",
+        "en:t": "Switzerland",
+        "a": true,
+        "g": {
+            "lat": 47.3769,
+            "lon": 8.5417
+        },
+        "it": "Zurigo",
+        "it:t": "Svizzera",
+        "es": "Z\u00farich",
+        "es:t": "Suiza",
+        "de": "Z\u00fcrich",
+        "de:t": "Schweiz"
+    }
+]

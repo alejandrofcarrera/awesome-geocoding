@@ -1,0 +1,32 @@
+[
+    {
+        "en": "Dudelange",
+        "en:t": "Luxembourg | Esch-sur-Alzette",
+        "a": true,
+        "g": {
+            "lat": 49.4785,
+            "lon": 6.0859
+        },
+        "it": "Dudelange",
+        "it:t": "Lussemburgo | Esch-sur-Alzette",
+        "es": "Dudelange",
+        "es:t": "Luxemburgo | Esch-sur-Alzette",
+        "de": "D\u00fcdelingen",
+        "de:t": "Luxemburg | Kanton Esch an der Alzette"
+    },
+    {
+        "en": "Esch-sur-Alzette",
+        "en:t": "Luxembourg",
+        "a": true,
+        "g": {
+            "lat": 49.5009,
+            "lon": 5.9861
+        },
+        "it": "Esch-sur-Alzette",
+        "it:t": "Lussemburgo",
+        "es": "Esch-sur-Alzette",
+        "es:t": "Luxemburgo",
+        "de": "Esch an der Alzette",
+        "de:t": "Luxemburg"
+    }
+]

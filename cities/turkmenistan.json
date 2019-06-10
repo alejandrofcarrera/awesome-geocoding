@@ -1,0 +1,362 @@
+[
+    {
+        "en": "Abadan",
+        "en:t": "Turkmenistan | Archabil",
+        "a": true,
+        "g": {
+            "lat": 38.0587,
+            "lon": 58.1779
+        },
+        "it": "Abadan",
+        "it:t": "Turkmenistan | Archabil",
+        "es": "Abadan",
+        "es:t": "Turkmenist\u00e1n | Archabil",
+        "de": "Abadan",
+        "de:t": "Turkmenistan | Archabil"
+    },
+    {
+        "en": "Ahal",
+        "en:t": "Turkmenistan",
+        "a": true,
+        "g": {
+            "lat": 38.6399,
+            "lon": 59.4721
+        },
+        "it": "Ahal",
+        "it:t": "Turkmenistan",
+        "es": "Ahal",
+        "es:t": "Turkmenist\u00e1n",
+        "de": "Ahal",
+        "de:t": "Turkmenistan"
+    },
+    {
+        "en": "Annau",
+        "en:t": "Turkmenistan | Ahal",
+        "a": true,
+        "g": {
+            "lat": 37.9059,
+            "lon": 58.4973
+        },
+        "it": "\u00c4new",
+        "it:t": "Turkmenistan | Ahal",
+        "es": "Annau",
+        "es:t": "Turkmenist\u00e1n | Ahal",
+        "de": "\u00c4new",
+        "de:t": "Turkmenistan | Ahal"
+    },
+    {
+        "en": "Baharly",
+        "en:t": "Turkmenistan | Ahal",
+        "a": true,
+        "g": {
+            "lat": 38.4362,
+            "lon": 57.4288
+        },
+        "it": "Baharly",
+        "it:t": "Turkmenistan | Ahal",
+        "es": "Baharly",
+        "es:t": "Turkmenist\u00e1n | Ahal",
+        "de": "Baharly",
+        "de:t": "Turkmenistan | Ahal"
+    },
+    {
+        "en": "Balkanabat",
+        "en:t": "Turkmenistan | Balkan",
+        "a": true,
+        "g": {
+            "lat": 39.5239,
+            "lon": 54.336
+        },
+        "it": "Balkanabat",
+        "it:t": "Turkmenistan | Balkan",
+        "es": "Balkanabat",
+        "es:t": "Turkmenist\u00e1n | Balkan",
+        "de": "Balkanabat",
+        "de:t": "Turkmenistan | Balkan"
+    },
+    {
+        "en": "Bayramaly",
+        "en:t": "Turkmenistan | Mary",
+        "a": true,
+        "g": {
+            "lat": 37.6157,
+            "lon": 62.1571
+        },
+        "it": "Bayramaly",
+        "it:t": "Turkmenistan | Mary",
+        "es": "Ba\u00fdramaly",
+        "es:t": "Turkmenist\u00e1n | Mary",
+        "de": "Ba\u00fdramaly",
+        "de:t": "Turkmenistan | Mary"
+    },
+    {
+        "en": "Bereket",
+        "en:t": "Turkmenistan | Balkan",
+        "a": true,
+        "g": {
+            "lat": 39.2471,
+            "lon": 55.5192
+        },
+        "it": "Bereket",
+        "it:t": "Turkmenistan | Balkan",
+        "es": "Bereket",
+        "es:t": "Turkmenist\u00e1n | Balkan",
+        "de": "Bereket",
+        "de:t": "Turkmenistan | Balkan"
+    },
+    {
+        "en": "Boldumsaz",
+        "en:t": "Turkmenistan | Dashoguz",
+        "a": true,
+        "g": {
+            "lat": 42.1261,
+            "lon": 59.6665
+        },
+        "it": "Boldumsaz",
+        "it:t": "Turkmenistan | Da\u015foguz",
+        "es": "Boldumsaz",
+        "es:t": "Turkmenist\u00e1n | Da\u015foguz",
+        "de": "Boldumsaz",
+        "de:t": "Turkmenistan | Dashoguz"
+    },
+    {
+        "en": "Dashoguz",
+        "en:t": "Turkmenistan",
+        "a": true,
+        "g": {
+            "lat": 41.8369,
+            "lon": 59.9652
+        },
+        "it": "Da\u015foguz",
+        "it:t": "Turkmenistan",
+        "es": "Da\u015foguz",
+        "es:t": "Turkmenist\u00e1n",
+        "de": "Da\u015foguz",
+        "de:t": "Turkmenistan"
+    },
+    {
+        "en": "Gazadzhak",
+        "en:t": "Turkmenistan | Lebap",
+        "a": true,
+        "g": {
+            "lat": 41.1769,
+            "lon": 61.4027
+        },
+        "it": "Gazadzhak",
+        "it:t": "Turkmenistan | Lebap",
+        "es": "Gazadzhak",
+        "es:t": "Turkmenist\u00e1n | Lebap",
+        "de": "Gazojak",
+        "de:t": "Turkmenistan | Lebap"
+    },
+    {
+        "en": "Gowurdak",
+        "en:t": "Turkmenistan | Lebap",
+        "a": true,
+        "g": {
+            "lat": 37.8164,
+            "lon": 66.0285
+        },
+        "it": "Gowurdak",
+        "it:t": "Turkmenistan | Lebap",
+        "es": "Gowurdak",
+        "es:t": "Turkmenist\u00e1n | Lebap",
+        "de": "Gowurdak",
+        "de:t": "Turkmenistan | Lebap"
+    },
+    {
+        "en": "Kaakhka",
+        "en:t": "Turkmenistan | Ahal",
+        "a": true,
+        "g": {
+            "lat": 37.3445,
+            "lon": 59.6219
+        },
+        "it": "Kaka",
+        "it:t": "Turkmenistan | Ahal",
+        "es": "Kaka",
+        "es:t": "Turkmenist\u00e1n | Ahal",
+        "de": "Kaakhka",
+        "de:t": "Turkmenistan | Ahal"
+    },
+    {
+        "en": "Kerki",
+        "en:t": "Turkmenistan | Lebap",
+        "a": true,
+        "g": {
+            "lat": 37.81,
+            "lon": 65.2026
+        },
+        "it": "Kerki",
+        "it:t": "Turkmenistan | Lebap",
+        "es": "Kerki",
+        "es:t": "Turkmenist\u00e1n | Lebap",
+        "de": "Kerki",
+        "de:t": "Turkmenistan | Lebap"
+    },
+    {
+        "en": "Kum Dag",
+        "en:t": "Turkmenistan | Balkan",
+        "a": true,
+        "g": {
+            "lat": 39.2098,
+            "lon": 54.594
+        },
+        "it": "Kum Dag",
+        "it:t": "Turkmenistan | Balkan",
+        "es": "Gumdag",
+        "es:t": "Turkmenist\u00e1n | Balkan",
+        "de": "Kum Dag",
+        "de:t": "Turkmenistan | Balkan"
+    },
+    {
+        "en": "K\u00f6ne\u00fcrgench",
+        "en:t": "Turkmenistan | Dashoguz",
+        "a": true,
+        "g": {
+            "lat": 42.3242,
+            "lon": 59.1819
+        },
+        "it": "Kunya-Urgench",
+        "it:t": "Turkmenistan | Da\u015foguz",
+        "es": "Kunya-Urgench",
+        "es:t": "Turkmenist\u00e1n | Da\u015foguz",
+        "de": "K\u00f6ne\u00fcrgen\u00e7",
+        "de:t": "Turkmenistan | Da\u015foguz"
+    },
+    {
+        "en": "Mary",
+        "en:t": "Turkmenistan",
+        "a": true,
+        "g": {
+            "lat": 37.6092,
+            "lon": 61.8643
+        },
+        "it": "Mary",
+        "it:t": "Turkmenistan",
+        "es": "Mary",
+        "es:t": "Turkmenist\u00e1n",
+        "de": "Mary",
+        "de:t": "Turkmenistan"
+    },
+    {
+        "en": "Sa\u00fdat",
+        "en:t": "Turkmenistan | Lebap",
+        "a": true,
+        "g": {
+            "lat": 37.9333,
+            "lon": 66.5333
+        },
+        "it": "Sa\u00fdat",
+        "it:t": "Turkmenistan | Lebap",
+        "es": "Sayat",
+        "es:t": "Turkmenist\u00e1n | Lebap",
+        "de": "Sayat",
+        "de:t": "Turkmenistan | Lebap"
+    },
+    {
+        "en": "Seydi",
+        "en:t": "Turkmenistan | Lebap",
+        "a": true,
+        "g": {
+            "lat": 39.4286,
+            "lon": 62.8618
+        },
+        "it": "Se\u00fddi",
+        "it:t": "Turkmenistan | Lebap",
+        "es": "Se\u00fddi",
+        "es:t": "Turkmenist\u00e1n | Lebap",
+        "de": "Se\u00fddi",
+        "de:t": "Turkmenistan | Lebap"
+    },
+    {
+        "en": "Tahta",
+        "en:t": "Turkmenistan | Dashoguz",
+        "a": true,
+        "g": {
+            "lat": 41.6537,
+            "lon": 59.903
+        },
+        "it": "Tahta",
+        "it:t": "Turkmenistan | Dashoguz",
+        "es": "Tahta",
+        "es:t": "Turkmenist\u00e1n | Dashoguz",
+        "de": "Tahta",
+        "de:t": "Turkmenistan | Dashoguz"
+    },
+    {
+        "en": "Tejen",
+        "en:t": "Turkmenistan | Ahal",
+        "a": true,
+        "g": {
+            "lat": 37.3743,
+            "lon": 60.5008
+        },
+        "it": "Tejen",
+        "it:t": "Turkmenistan | Ahal",
+        "es": "Tejen",
+        "es:t": "Turkmenist\u00e1n | Ahal",
+        "de": "Tejen",
+        "de:t": "Turkmenistan | Ahal"
+    },
+    {
+        "en": "Turkmenabat",
+        "en:t": "Turkmenistan | Lebap",
+        "a": true,
+        "g": {
+            "lat": 39.0041,
+            "lon": 63.5688
+        },
+        "it": "T\u00fcrkmenabat",
+        "it:t": "Turkmenistan | Lebap",
+        "es": "T\u00fcrkmenabat",
+        "es:t": "Turkmenist\u00e1n | Lebap",
+        "de": "T\u00fcrkmenabat",
+        "de:t": "Turkmenistan | Lebap"
+    },
+    {
+        "en": "Turkmenbashi",
+        "en:t": "Turkmenistan | Balkan",
+        "a": true,
+        "g": {
+            "lat": 40.0337,
+            "lon": 52.9759
+        },
+        "it": "T\u00fcrkmenba\u015fy",
+        "it:t": "Turkmenistan | Balkan",
+        "es": "Turkmenbashi",
+        "es:t": "Turkmenist\u00e1n | Balkan",
+        "de": "T\u00fcrkmenba\u015fy",
+        "de:t": "Turkmenistan | Balkan"
+    },
+    {
+        "en": "Yoloten",
+        "en:t": "Turkmenistan | Mary",
+        "a": true,
+        "g": {
+            "lat": 37.2944,
+            "lon": 62.3683
+        },
+        "it": "\u00ddol\u00f6ten",
+        "it:t": "Turkmenistan | Mary",
+        "es": "\u00ddol\u00f6ten",
+        "es:t": "Turkmenist\u00e1n | Mary",
+        "de": "Yoloten",
+        "de:t": "Turkmenistan | Mary"
+    },
+    {
+        "en": "\u00ddylanly",
+        "en:t": "Turkmenistan | Dashoguz",
+        "a": true,
+        "g": {
+            "lat": 41.8639,
+            "lon": 59.6326
+        },
+        "it": "\u00ddylanly",
+        "it:t": "Turkmenistan | Da\u015foguz",
+        "es": "\u00ddylanly",
+        "es:t": "Turkmenist\u00e1n | Da\u015foguz",
+        "de": "\u00ddylanly",
+        "de:t": "Turkmenistan | Dashoguz"
+    }
+]

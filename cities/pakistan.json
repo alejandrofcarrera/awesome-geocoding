@@ -1,0 +1,2327 @@
+[
+    {
+        "en": "Abbottabad",
+        "en:t": "Pakistan",
+        "a": true,
+        "g": {
+            "lat": 34.1688,
+            "lon": 73.2215
+        },
+        "it": "Abbottabad",
+        "it:t": "Pakistan",
+        "es": "Abbottabad",
+        "es:t": "Pakist\u00e1n",
+        "de": "Abbottabad",
+        "de:t": "Pakistan"
+    },
+    {
+        "en": "Ahmedpur East",
+        "en:t": "Pakistan | Ahmadupr East",
+        "a": true,
+        "g": {
+            "lat": 29.1459,
+            "lon": 71.2518
+        },
+        "it": "Ahmedpur East",
+        "it:t": "Pakistan | Ahmadupr East",
+        "es": "Ahmedpur East",
+        "es:t": "Pakist\u00e1n | Ahmadupr East",
+        "de": "Ahmedpur East",
+        "de:t": "Pakistan | Ahmadupr East"
+    },
+    {
+        "en": "Ahmedpur Si\u0101l",
+        "en:t": "Pakistan | Ahmedpur Sial",
+        "a": true,
+        "g": {
+            "lat": 30.6836,
+            "lon": 71.7593
+        },
+        "it": "Ahmedpur Si\u0101l",
+        "it:t": "Pakistan | Ahmedpur Sial",
+        "es": "Ahmedpur Si\u0101l",
+        "es:t": "Pakist\u00e1n | Ahmedpur Sial",
+        "de": "Ahmedpur Si\u0101l",
+        "de:t": "Pakistan | Ahmedpur Sial"
+    },
+    {
+        "en": "Akora Khattak",
+        "en:t": "Pakistan | Nowshera",
+        "a": true,
+        "g": {
+            "lat": 33.995,
+            "lon": 72.1357
+        },
+        "it": "Akora Khattak",
+        "it:t": "Pakistan | Nowshera",
+        "es": "Akora Khattak",
+        "es:t": "Pakist\u00e1n | Nowshera",
+        "de": "Akora Khattak",
+        "de:t": "Pakistan | Nowshera"
+    },
+    {
+        "en": "Al\u012bpur",
+        "en:t": "Pakistan | Alipur Tehsil",
+        "a": true,
+        "g": {
+            "lat": 29.3817,
+            "lon": 70.9131
+        },
+        "it": "Al\u012bpur",
+        "it:t": "Pakistan | Alipur Tehsil",
+        "es": "Al\u012bpur",
+        "es:t": "Pakist\u00e1n | Alipur Tehsil",
+        "de": "Al\u012bpur",
+        "de:t": "Pakistan | Alipur Tehsil"
+    },
+    {
+        "en": "Amangarh",
+        "en:t": "Pakistan | Nowshera",
+        "a": true,
+        "g": {
+            "lat": 34.0058,
+            "lon": 71.9297
+        },
+        "it": "Amangarh",
+        "it:t": "Pakistan | Nowshera",
+        "es": "Amangarh",
+        "es:t": "Pakist\u00e1n | Nowshera",
+        "de": "Amangarh",
+        "de:t": "Pakistan | Nowshera"
+    },
+    {
+        "en": "Attock",
+        "en:t": "Pakistan",
+        "a": true,
+        "g": {
+            "lat": 33.766,
+            "lon": 72.3609
+        },
+        "it": "Attock",
+        "it:t": "Pakistan",
+        "es": "Attock",
+        "es:t": "Pakist\u00e1n",
+        "de": "Attock",
+        "de:t": "Pakistan"
+    },
+    {
+        "en": "Baddomalhi",
+        "en:t": "Pakistan | Narowal",
+        "a": true,
+        "g": {
+            "lat": 31.9868,
+            "lon": 74.6693
+        },
+        "it": "Baddomalhi",
+        "it:t": "Pakistan | Narowal",
+        "es": "Baddomalhi",
+        "es:t": "Pakist\u00e1n | Narowal",
+        "de": "Baddomalhi",
+        "de:t": "Pakistan | Narowal"
+    },
+    {
+        "en": "Badin",
+        "en:t": "Pakistan",
+        "a": true,
+        "g": {
+            "lat": 24.6459,
+            "lon": 68.8467
+        },
+        "it": "Badin",
+        "it:t": "Pakistan",
+        "es": "Badin",
+        "es:t": "Pakist\u00e1n",
+        "de": "Badin",
+        "de:t": "Pakistan"
+    },
+    {
+        "en": "Bahawalnagar",
+        "en:t": "Pakistan",
+        "a": true,
+        "g": {
+            "lat": 30.0025,
+            "lon": 73.2412
+        },
+        "it": "Bahawalnagar",
+        "it:t": "Pakistan",
+        "es": "Bahawalnagar",
+        "es:t": "Pakist\u00e1n",
+        "de": "Bahawalnagar",
+        "de:t": "Pakistan"
+    },
+    {
+        "en": "Bahawalpur",
+        "en:t": "Pakistan",
+        "a": true,
+        "g": {
+            "lat": 29.3544,
+            "lon": 71.6911
+        },
+        "it": "Bahawalpur",
+        "it:t": "Pakistan",
+        "es": "Bahawalpur",
+        "es:t": "Pakist\u00e1n",
+        "de": "Bahawalpur",
+        "de:t": "Pakistan"
+    },
+    {
+        "en": "Bannu",
+        "en:t": "Pakistan",
+        "a": true,
+        "g": {
+            "lat": 32.991,
+            "lon": 70.6455
+        },
+        "it": "Bannu",
+        "it:t": "Pakistan",
+        "es": "Bannu",
+        "es:t": "Pakist\u00e1n",
+        "de": "Bannu",
+        "de:t": "Pakistan"
+    },
+    {
+        "en": "Bas\u012brpur",
+        "en:t": "Pakistan | Depalpur",
+        "a": true,
+        "g": {
+            "lat": 30.578,
+            "lon": 73.836
+        },
+        "it": "Bas\u012brpur",
+        "it:t": "Pakistan | Depalpur",
+        "es": "Bas\u012brpur",
+        "es:t": "Pakist\u00e1n | Depalpur",
+        "de": "Bas\u012brpur",
+        "de:t": "Pakistan | Depalpur"
+    },
+    {
+        "en": "Batkhela",
+        "en:t": "Pakistan | Malakand",
+        "a": true,
+        "g": {
+            "lat": 34.6138,
+            "lon": 71.9283
+        },
+        "it": "Batkhela",
+        "it:t": "Pakistan | Malakand",
+        "es": "Batkhela",
+        "es:t": "Pakist\u00e1n | Malakand",
+        "de": "Batkhela",
+        "de:t": "Pakistan | Malakand"
+    },
+    {
+        "en": "Bela",
+        "en:t": "Pakistan",
+        "a": true,
+        "g": {
+            "lat": 26.219,
+            "lon": 66.3141
+        },
+        "it": "Bela",
+        "it:t": "Pakistan",
+        "es": "Bela",
+        "es:t": "Pakist\u00e1n",
+        "de": "Bela",
+        "de:t": "Pakistan"
+    },
+    {
+        "en": "Bhakkar",
+        "en:t": "Pakistan",
+        "a": true,
+        "g": {
+            "lat": 31.6082,
+            "lon": 71.0854
+        },
+        "it": "Bhakkar",
+        "it:t": "Pakistan",
+        "es": "Bhakkar",
+        "es:t": "Pakist\u00e1n",
+        "de": "Bhakkar",
+        "de:t": "Pakistan"
+    },
+    {
+        "en": "Bhalwal",
+        "en:t": "Pakistan",
+        "a": true,
+        "g": {
+            "lat": 32.2751,
+            "lon": 72.9047
+        },
+        "it": "Bhalwal",
+        "it:t": "Pakistan",
+        "es": "Bhalwai",
+        "es:t": "Pakist\u00e1n",
+        "de": "Bhalwal",
+        "de:t": "Pakistan"
+    },
+    {
+        "en": "Bhan",
+        "en:t": "Pakistan | Sehwan",
+        "a": true,
+        "g": {
+            "lat": 26.5544,
+            "lon": 67.7229
+        },
+        "it": "Bhan",
+        "it:t": "Pakistan | Sehwan",
+        "es": "Bhan",
+        "es:t": "Pakist\u00e1n | Sehwan",
+        "de": "Bhan",
+        "de:t": "Pakistan | Sehwan"
+    },
+    {
+        "en": "Bhawana",
+        "en:t": "Pakistan | Chiniot",
+        "a": true,
+        "g": {
+            "lat": 31.5659,
+            "lon": 72.6447
+        },
+        "it": "Bhawana",
+        "it:t": "Pakistan | Chiniot",
+        "es": "Bhawana",
+        "es:t": "Pakist\u00e1n | Chiniot",
+        "de": "Bhawana",
+        "de:t": "Pakistan | Chiniot"
+    },
+    {
+        "en": "Bhera",
+        "en:t": "Pakistan | Bhalwal",
+        "a": true,
+        "g": {
+            "lat": 32.477,
+            "lon": 72.9136
+        },
+        "it": "Bhera",
+        "it:t": "Pakistan | Bhalwal",
+        "es": "Bhera",
+        "es:t": "Pakist\u00e1n | Bhalwal",
+        "de": "Bhera",
+        "de:t": "Pakistan | Bhalwal"
+    },
+    {
+        "en": "Bhimber",
+        "en:t": "Pakistan",
+        "a": true,
+        "g": {
+            "lat": 32.9753,
+            "lon": 74.0858
+        },
+        "it": "Bhimber",
+        "it:t": "Pakistan",
+        "es": "Bhimber",
+        "es:t": "Pakist\u00e1n",
+        "de": "Bhimber",
+        "de:t": "Pakistan"
+    },
+    {
+        "en": "Bhit Shah",
+        "en:t": "Pakistan | Matiari",
+        "a": true,
+        "g": {
+            "lat": 25.8053,
+            "lon": 68.4949
+        },
+        "it": "Bhit Shah",
+        "it:t": "Pakistan | Matiari",
+        "es": "Bhit Shah",
+        "es:t": "Pakist\u00e1n | Matiari",
+        "de": "Bhit Shah",
+        "de:t": "Pakistan | Matiari"
+    },
+    {
+        "en": "Bopalwala",
+        "en:t": "Pakistan | Sambrial",
+        "a": true,
+        "g": {
+            "lat": 32.4293,
+            "lon": 74.3635
+        },
+        "it": "Bopalwala",
+        "it:t": "Pakistan | Sambrial",
+        "es": "Bopalwala",
+        "es:t": "Pakist\u00e1n | Sambrial",
+        "de": "Bopalwala",
+        "de:t": "Pakistan | Sambrial"
+    },
+    {
+        "en": "Bua",
+        "en:t": "Pakistan | Shakargarh",
+        "a": true,
+        "g": {
+            "lat": 32.1977,
+            "lon": 75.0684
+        },
+        "it": "Bua",
+        "it:t": "Pakistan | Shakargarh",
+        "es": "Bua",
+        "es:t": "Pakist\u00e1n | Shakargarh",
+        "de": "Bua",
+        "de:t": "Pakistan | Shakargarh"
+    },
+    {
+        "en": "Burewala",
+        "en:t": "Pakistan",
+        "a": true,
+        "g": {
+            "lat": 30.1593,
+            "lon": 72.6943
+        },
+        "it": "Burewala",
+        "it:t": "Pakistan",
+        "es": "Burewala",
+        "es:t": "Pakist\u00e1n",
+        "de": "Burewala",
+        "de:t": "Pakistan"
+    },
+    {
+        "en": "Chak",
+        "en:t": "Pakistan | Kharian",
+        "a": true,
+        "g": {
+            "lat": 32.8125,
+            "lon": 74.0902
+        },
+        "it": "Chak",
+        "it:t": "Pakistan | Kharian",
+        "es": "Chak",
+        "es:t": "Pakist\u00e1n | Kharian",
+        "de": "Chak",
+        "de:t": "Pakistan | Kharian"
+    },
+    {
+        "en": "Chak Jhumra",
+        "en:t": "Pakistan",
+        "a": true,
+        "g": {
+            "lat": 31.5629,
+            "lon": 73.1881
+        },
+        "it": "Chak Jhumra",
+        "it:t": "Pakistan",
+        "es": "Chak Jhumra",
+        "es:t": "Pakist\u00e1n",
+        "de": "Chak Jhumra",
+        "de:t": "Pakistan"
+    },
+    {
+        "en": "Chak \u0100zam Sahu",
+        "en:t": "Pakistan | Sahiwal",
+        "a": true,
+        "g": {
+            "lat": 30.7514,
+            "lon": 73.0295
+        },
+        "it": "Chak \u0100zam Sahu",
+        "it:t": "Pakistan | Sahiwal",
+        "es": "Chak \u0100zam Sahu",
+        "es:t": "Pakist\u00e1n | Sahiwal",
+        "de": "Chak \u0100zam Sahu",
+        "de:t": "Pakistan | Sahiwal"
+    },
+    {
+        "en": "Chakwal",
+        "en:t": "Pakistan",
+        "a": true,
+        "g": {
+            "lat": 32.9328,
+            "lon": 72.863
+        },
+        "it": "Chakwal",
+        "it:t": "Pakistan",
+        "es": "Chakwal",
+        "es:t": "Pakist\u00e1n",
+        "de": "Chakwal",
+        "de:t": "Pakistan"
+    },
+    {
+        "en": "Chaman",
+        "en:t": "Pakistan",
+        "a": true,
+        "g": {
+            "lat": 30.9164,
+            "lon": 66.4986
+        },
+        "it": "Chaman",
+        "it:t": "Pakistan",
+        "es": "Chaman",
+        "es:t": "Pakist\u00e1n",
+        "de": "Chaman",
+        "de:t": "Pakistan"
+    },
+    {
+        "en": "Chawinda",
+        "en:t": "Pakistan | Pasrur",
+        "a": true,
+        "g": {
+            "lat": 32.3446,
+            "lon": 74.7059
+        },
+        "it": "Chawinda",
+        "it:t": "Pakistan | Pasrur",
+        "es": "Chawinda",
+        "es:t": "Pakist\u00e1n | Pasrur",
+        "de": "Chawinda",
+        "de:t": "Pakistan | Pasrur"
+    },
+    {
+        "en": "Chichawatni",
+        "en:t": "Pakistan",
+        "a": true,
+        "g": {
+            "lat": 30.5373,
+            "lon": 72.6983
+        },
+        "it": "Chichawatni",
+        "it:t": "Pakistan",
+        "es": "Chichawatni",
+        "es:t": "Pakist\u00e1n",
+        "de": "Chichawatni",
+        "de:t": "Pakistan"
+    },
+    {
+        "en": "Chiniot",
+        "en:t": "Pakistan",
+        "a": true,
+        "g": {
+            "lat": 31.7292,
+            "lon": 72.9822
+        },
+        "it": "Chiniot",
+        "it:t": "Pakistan",
+        "es": "Chiniot",
+        "es:t": "Pakist\u00e1n",
+        "de": "Chiniot",
+        "de:t": "Pakistan"
+    },
+    {
+        "en": "Chishtian",
+        "en:t": "Pakistan",
+        "a": true,
+        "g": {
+            "lat": 29.7956,
+            "lon": 72.8634
+        },
+        "it": "Chishtian",
+        "it:t": "Pakistan",
+        "es": "Chishtian",
+        "es:t": "Pakist\u00e1n",
+        "de": "Chishtian",
+        "de:t": "Pakistan"
+    },
+    {
+        "en": "Choa Saidan Shah",
+        "en:t": "Pakistan",
+        "a": true,
+        "g": {
+            "lat": 32.722,
+            "lon": 72.9785
+        },
+        "it": "Choa Saidan Shah",
+        "it:t": "Pakistan",
+        "es": "Choa Saidan Shah",
+        "es:t": "Pakist\u00e1n",
+        "de": "Choa Saidan Shah",
+        "de:t": "Pakistan"
+    },
+    {
+        "en": "Chor",
+        "en:t": "Pakistan | Umerkot",
+        "a": true,
+        "g": {
+            "lat": 25.5114,
+            "lon": 69.7823
+        },
+        "it": "Chor",
+        "it:t": "Pakistan | Umerkot",
+        "es": "Chor",
+        "es:t": "Pakist\u00e1n | Umerkot",
+        "de": "Chor",
+        "de:t": "Pakistan | Umerkot"
+    },
+    {
+        "en": "Chuhar",
+        "en:t": "Pakistan | Sangla Hill",
+        "a": true,
+        "g": {
+            "lat": 31.7415,
+            "lon": 73.3687
+        },
+        "it": "Chuhar",
+        "it:t": "Pakistan | Sangla Hill",
+        "es": "Chuhar",
+        "es:t": "Pakist\u00e1n | Sangla Hill",
+        "de": "Chuhar",
+        "de:t": "Pakistan | Sangla Hill"
+    },
+    {
+        "en": "Chunian",
+        "en:t": "Pakistan",
+        "a": true,
+        "g": {
+            "lat": 30.9698,
+            "lon": 73.9712
+        },
+        "it": "Chunian",
+        "it:t": "Pakistan",
+        "es": "Chunian",
+        "es:t": "Pakist\u00e1n",
+        "de": "Chunian",
+        "de:t": "Pakistan"
+    },
+    {
+        "en": "Ch\u0101rsadda",
+        "en:t": "Pakistan",
+        "a": true,
+        "g": {
+            "lat": 34.1682,
+            "lon": 71.7504
+        },
+        "it": "Charsadda",
+        "it:t": "Pakistan",
+        "es": "Charsadda",
+        "es:t": "Pakist\u00e1n",
+        "de": "Charsadda",
+        "de:t": "Pakistan"
+    },
+    {
+        "en": "Dera Ghazi Khan",
+        "en:t": "Pakistan",
+        "a": true,
+        "g": {
+            "lat": 30.0489,
+            "lon": 70.6455
+        },
+        "it": "Dera Ghazi Khan",
+        "it:t": "Pakistan",
+        "es": "Dera Ghazi Khan",
+        "es:t": "Pakist\u00e1n",
+        "de": "Dera Ghazi Khan",
+        "de:t": "Pakistan"
+    },
+    {
+        "en": "Dajal",
+        "en:t": "Pakistan | Jampur",
+        "a": true,
+        "g": {
+            "lat": 29.5577,
+            "lon": 70.3777
+        },
+        "it": "Dajal",
+        "it:t": "Pakistan | Jampur",
+        "es": "Dajal",
+        "es:t": "Pakist\u00e1n | Jampur",
+        "de": "Dajal",
+        "de:t": "Pakistan | Jampur"
+    },
+    {
+        "en": "Darya Khan",
+        "en:t": "Pakistan",
+        "a": true,
+        "g": {
+            "lat": 31.7876,
+            "lon": 71.1092
+        },
+        "it": "Darya Khan",
+        "it:t": "Pakistan",
+        "es": "Darya Khan",
+        "es:t": "Pakist\u00e1n",
+        "de": "Darya Khan",
+        "de:t": "Pakistan"
+    },
+    {
+        "en": "Daska",
+        "en:t": "Pakistan",
+        "a": true,
+        "g": {
+            "lat": 32.3363,
+            "lon": 74.3675
+        },
+        "it": "Daska",
+        "it:t": "Pakistan",
+        "es": "Daska",
+        "es:t": "Pakist\u00e1n",
+        "de": "Daska",
+        "de:t": "Pakistan"
+    },
+    {
+        "en": "Daud Khel",
+        "en:t": "Pakistan | Mianwali",
+        "a": true,
+        "g": {
+            "lat": 32.8719,
+            "lon": 71.5694
+        },
+        "it": "Daud Khel",
+        "it:t": "Pakistan | Mianwali",
+        "es": "Daud Khel",
+        "es:t": "Pakist\u00e1n | Mianwali",
+        "de": "Daud Khel",
+        "de:t": "Pakistan | Mianwali"
+    },
+    {
+        "en": "Daur",
+        "en:t": "Pakistan",
+        "a": true,
+        "g": {
+            "lat": 26.4545,
+            "lon": 68.319
+        },
+        "it": "Daur",
+        "it:t": "Pakistan",
+        "es": "Daur",
+        "es:t": "Pakist\u00e1n",
+        "de": "Daur",
+        "de:t": "Pakistan"
+    },
+    {
+        "en": "Depalpur",
+        "en:t": "Pakistan",
+        "a": true,
+        "g": {
+            "lat": 30.677,
+            "lon": 73.6477
+        },
+        "it": "Depalpur",
+        "it:t": "Pakistan",
+        "es": "Depalpur",
+        "es:t": "Pakist\u00e1n",
+        "de": "Depalpur",
+        "de:t": "Pakistan"
+    },
+    {
+        "en": "Dera Bugti",
+        "en:t": "Pakistan",
+        "a": true,
+        "g": {
+            "lat": 29.0352,
+            "lon": 69.1596
+        },
+        "it": "Dera Bugti",
+        "it:t": "Pakistan",
+        "es": "Dera Bugti",
+        "es:t": "Pakist\u00e1n",
+        "de": "Dera Bugti",
+        "de:t": "Pakistan"
+    },
+    {
+        "en": "Dera Ismail Khan",
+        "en:t": "Pakistan",
+        "a": true,
+        "g": {
+            "lat": 31.8626,
+            "lon": 70.9019
+        },
+        "it": "Dera Ismail Khan",
+        "it:t": "Pakistan",
+        "es": "Dera Ismail Khan",
+        "es:t": "Pakist\u00e1n",
+        "de": "Dera Ismail Khan",
+        "de:t": "Pakistan"
+    },
+    {
+        "en": "Dhadar",
+        "en:t": "Pakistan | Mach",
+        "a": true,
+        "g": {
+            "lat": 29.4828,
+            "lon": 67.6364
+        },
+        "it": "Dhadar",
+        "it:t": "Pakistan | Mach",
+        "es": "Dhadar",
+        "es:t": "Pakist\u00e1n | Mach",
+        "de": "Dhadar",
+        "de:t": "Pakistan | Mach"
+    },
+    {
+        "en": "Dhanote",
+        "en:t": "Pakistan | Lodhran",
+        "a": true,
+        "g": {
+            "lat": 29.5803,
+            "lon": 71.7445
+        },
+        "it": "Dhanote",
+        "it:t": "Pakistan | Lodhran",
+        "es": "Dhanote",
+        "es:t": "Pakist\u00e1n | Lodhran",
+        "de": "Dhanote",
+        "de:t": "Pakistan | Lodhran"
+    },
+    {
+        "en": "Dhoron\u0101ro",
+        "en:t": "Pakistan | Umerkot",
+        "a": true,
+        "g": {
+            "lat": 25.4999,
+            "lon": 69.5649
+        },
+        "it": "Dhoron\u0101ro",
+        "it:t": "Pakistan | Umerkot",
+        "es": "Dhoron\u0101ro",
+        "es:t": "Pakist\u00e1n | Umerkot",
+        "de": "Dhoron\u0101ro",
+        "de:t": "Pakistan | Umerkot"
+    },
+    {
+        "en": "Digri",
+        "en:t": "Pakistan",
+        "a": true,
+        "g": {
+            "lat": 25.1568,
+            "lon": 69.1119
+        },
+        "it": "Digri",
+        "it:t": "Pakistan",
+        "es": "Digri",
+        "es:t": "Pakist\u00e1n",
+        "de": "Digri",
+        "de:t": "Pakistan"
+    },
+    {
+        "en": "Dijkot",
+        "en:t": "Pakistan | Faisalabad",
+        "a": true,
+        "g": {
+            "lat": 31.2155,
+            "lon": 72.9992
+        },
+        "it": "Dijkot",
+        "it:t": "Pakistan | Faisalabad",
+        "es": "Dijkot",
+        "es:t": "Pakist\u00e1n | Faisalabad",
+        "de": "Dijkot",
+        "de:t": "Pakistan | Faisalabad"
+    },
+    {
+        "en": "Dinga",
+        "en:t": "Pakistan | Gujrat",
+        "a": true,
+        "g": {
+            "lat": 32.6386,
+            "lon": 73.7184
+        },
+        "it": "Dinga",
+        "it:t": "Pakistan | Gujrat",
+        "es": "Dinga",
+        "es:t": "Pakist\u00e1n | Gujrat",
+        "de": "Dinga",
+        "de:t": "Pakistan | Gujrat"
+    },
+    {
+        "en": "Dir",
+        "en:t": "Pakistan",
+        "a": true,
+        "g": {
+            "lat": 35.1977,
+            "lon": 71.8749
+        },
+        "it": "Dir",
+        "it:t": "Pakistan",
+        "es": "Dir",
+        "es:t": "Pakist\u00e1n",
+        "de": "Dir",
+        "de:t": "Pakistan"
+    },
+    {
+        "en": "Dullewala",
+        "en:t": "Pakistan | Darya Khan",
+        "a": true,
+        "g": {
+            "lat": 31.8427,
+            "lon": 71.4359
+        },
+        "it": "Dullewala",
+        "it:t": "Pakistan | Darya Khan",
+        "es": "Dullewala",
+        "es:t": "Pakist\u00e1n | Darya Khan",
+        "de": "Dullewala",
+        "de:t": "Pakistan | Darya Khan"
+    },
+    {
+        "en": "Dunga Bunga",
+        "en:t": "Pakistan | Bahawalnagar",
+        "a": true,
+        "g": {
+            "lat": 29.749,
+            "lon": 73.2353
+        },
+        "it": "Dunga Bunga",
+        "it:t": "Pakistan | Bahawalnagar",
+        "es": "Dunga Bunga",
+        "es:t": "Pakist\u00e1n | Bahawalnagar",
+        "de": "Dunga Bunga",
+        "de:t": "Pakistan | Bahawalnagar"
+    },
+    {
+        "en": "Dunyapur",
+        "en:t": "Pakistan",
+        "a": true,
+        "g": {
+            "lat": 29.8045,
+            "lon": 71.7406
+        },
+        "it": "Dunyapur",
+        "it:t": "Pakistan",
+        "es": "Dunyapur",
+        "es:t": "Pakist\u00e1n",
+        "de": "Dunyapur",
+        "de:t": "Pakistan"
+    },
+    {
+        "en": "D\u0101du",
+        "en:t": "Pakistan",
+        "a": true,
+        "g": {
+            "lat": 26.7341,
+            "lon": 67.7795
+        },
+        "it": "Dadu",
+        "it:t": "Pakistan",
+        "es": "Dadu",
+        "es:t": "Pakist\u00e1n",
+        "de": "D\u0101du",
+        "de:t": "Pakistan"
+    },
+    {
+        "en": "Eminabad",
+        "en:t": "Pakistan | Gujranwala",
+        "a": true,
+        "g": {
+            "lat": 32.0433,
+            "lon": 74.2561
+        },
+        "it": "Eminabad",
+        "it:t": "Pakistan | Gujranwala",
+        "es": "Eminabad",
+        "es:t": "Pakist\u00e1n | Gujranwala",
+        "de": "Eminabad",
+        "de:t": "Pakistan | Gujranwala"
+    },
+    {
+        "en": "Faisalabad",
+        "en:t": "Pakistan",
+        "a": true,
+        "g": {
+            "lat": 31.4504,
+            "lon": 73.135
+        },
+        "it": "Faisalabad",
+        "it:t": "Pakistan",
+        "es": "Faisalabad",
+        "es:t": "Pakist\u00e1n",
+        "de": "Faisalabad",
+        "de:t": "Pakistan"
+    },
+    {
+        "en": "Faqir Wali",
+        "en:t": "Pakistan | Haroonabad",
+        "a": true,
+        "g": {
+            "lat": 29.4769,
+            "lon": 73.0464
+        },
+        "it": "Faqir Wali",
+        "it:t": "Pakistan | Haroonabad",
+        "es": "Faqir Wali",
+        "es:t": "Pakist\u00e1n | Haroonabad",
+        "de": "Faqir Wali",
+        "de:t": "Pakistan | Haroonabad"
+    },
+    {
+        "en": "Farooka",
+        "en:t": "Pakistan | Sahiwal",
+        "a": true,
+        "g": {
+            "lat": 31.8845,
+            "lon": 72.4169
+        },
+        "it": "Farooka",
+        "it:t": "Pakistan | Sahiwal",
+        "es": "Farooka",
+        "es:t": "Pakist\u00e1n | Sahiwal",
+        "de": "Farooka",
+        "de:t": "Pakistan | Sahiwal"
+    },
+    {
+        "en": "Fort Abbas",
+        "en:t": "Pakistan",
+        "a": true,
+        "g": {
+            "lat": 29.1931,
+            "lon": 72.8575
+        },
+        "it": "Fort Abbas",
+        "it:t": "Pakistan",
+        "es": "Fort Abbas",
+        "es:t": "Pakist\u00e1n",
+        "de": "Fort Abbas",
+        "de:t": "Pakistan"
+    },
+    {
+        "en": "Gambat",
+        "en:t": "Pakistan | Khairpur",
+        "a": true,
+        "g": {
+            "lat": 27.3571,
+            "lon": 68.5188
+        },
+        "it": "Gambat",
+        "it:t": "Pakistan | Khairpur",
+        "es": "Gambat",
+        "es:t": "Pakist\u00e1n | Khairpur",
+        "de": "Gambat",
+        "de:t": "Pakistan | Khairpur"
+    },
+    {
+        "en": "Garh Mah\u0101r\u0101ja",
+        "en:t": "Pakistan | Ahmedpur Sial",
+        "a": true,
+        "g": {
+            "lat": 30.8338,
+            "lon": 71.906
+        },
+        "it": "Garh Mah\u0101r\u0101ja",
+        "it:t": "Pakistan | Ahmedpur Sial",
+        "es": "Garh Mah\u0101r\u0101ja",
+        "es:t": "Pakist\u00e1n | Ahmedpur Sial",
+        "de": "Garh Mah\u0101r\u0101ja",
+        "de:t": "Pakistan | Ahmedpur Sial"
+    },
+    {
+        "en": "Gharo",
+        "en:t": "Pakistan | Mirpur Sakro",
+        "a": true,
+        "g": {
+            "lat": 24.7438,
+            "lon": 67.5798
+        },
+        "it": "Gharo",
+        "it:t": "Pakistan | Mirpur Sakro",
+        "es": "Gharo",
+        "es:t": "Pakist\u00e1n | Mirpur Sakro",
+        "de": "Gharo",
+        "de:t": "Pakistan | Mirpur Sakro"
+    },
+    {
+        "en": "Ghauspur",
+        "en:t": "Pakistan | Kashmore",
+        "a": true,
+        "g": {
+            "lat": 28.1394,
+            "lon": 69.0791
+        },
+        "it": "Ghauspur",
+        "it:t": "Pakistan | Kashmore",
+        "es": "Ghauspur",
+        "es:t": "Pakist\u00e1n | Kashmore",
+        "de": "Ghauspur",
+        "de:t": "Pakistan | Kashmore"
+    },
+    {
+        "en": "Ghotki",
+        "en:t": "Pakistan",
+        "a": true,
+        "g": {
+            "lat": 28.0271,
+            "lon": 69.3235
+        },
+        "it": "Ghotki",
+        "it:t": "Pakistan",
+        "es": "Ghotki",
+        "es:t": "Pakist\u00e1n",
+        "de": "Ghotki",
+        "de:t": "Pakistan"
+    },
+    {
+        "en": "Gojra",
+        "en:t": "Pakistan",
+        "a": true,
+        "g": {
+            "lat": 31.1505,
+            "lon": 72.6812
+        },
+        "it": "Gojra",
+        "it:t": "Pakistan",
+        "es": "Gorja",
+        "es:t": "Pakist\u00e1n",
+        "de": "Gojra",
+        "de:t": "Pakistan"
+    },
+    {
+        "en": "Gujar Khan",
+        "en:t": "Pakistan",
+        "a": true,
+        "g": {
+            "lat": 33.2616,
+            "lon": 73.3058
+        },
+        "it": "Gujar Khan",
+        "it:t": "Pakistan",
+        "es": "Gujar Khan",
+        "es:t": "Pakist\u00e1n",
+        "de": "Gujar Khan",
+        "de:t": "Pakistan"
+    },
+    {
+        "en": "Gujranwala",
+        "en:t": "Pakistan",
+        "a": true,
+        "g": {
+            "lat": 32.1877,
+            "lon": 74.1945
+        },
+        "it": "Gujranwala",
+        "it:t": "Pakistan",
+        "es": "Gujranwala",
+        "es:t": "Pakist\u00e1n",
+        "de": "Gujranwala",
+        "de:t": "Pakistan"
+    },
+    {
+        "en": "Gujrat",
+        "en:t": "Pakistan",
+        "a": true,
+        "g": {
+            "lat": 32.5731,
+            "lon": 74.1005
+        },
+        "it": "Gujrat",
+        "it:t": "Pakistan",
+        "es": "Gujrat",
+        "es:t": "Pakist\u00e1n",
+        "de": "Gujrat",
+        "de:t": "Pakistan"
+    },
+    {
+        "en": "Gwadar",
+        "en:t": "Pakistan",
+        "a": true,
+        "g": {
+            "lat": 25.246,
+            "lon": 62.2861
+        },
+        "it": "Gwadar",
+        "it:t": "Pakistan",
+        "es": "Gwadar",
+        "es:t": "Pakist\u00e1n",
+        "de": "Gwadar",
+        "de:t": "Pakistan"
+    },
+    {
+        "en": "Had\u0101li",
+        "en:t": "Pakistan | Khushab",
+        "a": true,
+        "g": {
+            "lat": 32.2953,
+            "lon": 72.1949
+        },
+        "it": "Had\u0101li",
+        "it:t": "Pakistan | Khushab",
+        "es": "Hadali",
+        "es:t": "Pakist\u00e1n | Khushab",
+        "de": "Had\u0101li",
+        "de:t": "Pakistan | Khushab"
+    },
+    {
+        "en": "Hafizabad",
+        "en:t": "Pakistan",
+        "a": true,
+        "g": {
+            "lat": 32.0712,
+            "lon": 73.6895
+        },
+        "it": "Hafizabad",
+        "it:t": "Pakistan",
+        "es": "Hafizabad",
+        "es:t": "Pakist\u00e1n",
+        "de": "Hafizabad",
+        "de:t": "Pakistan"
+    },
+    {
+        "en": "Hala",
+        "en:t": "Pakistan | Matiari",
+        "a": true,
+        "g": {
+            "lat": 25.799,
+            "lon": 68.4174
+        },
+        "it": "Hala",
+        "it:t": "Pakistan | Matiari",
+        "es": "Hala",
+        "es:t": "Pakist\u00e1n | Matiari",
+        "de": "Hala",
+        "de:t": "Pakistan | Matiari"
+    },
+    {
+        "en": "Hangu",
+        "en:t": "Pakistan",
+        "a": true,
+        "g": {
+            "lat": 33.5223,
+            "lon": 71.0617
+        },
+        "it": "Hangu",
+        "it:t": "Pakistan",
+        "es": "Hangu",
+        "es:t": "Pakist\u00e1n",
+        "de": "Hangu",
+        "de:t": "Pakistan"
+    },
+    {
+        "en": "Harnoli",
+        "en:t": "Pakistan | Piplan",
+        "a": true,
+        "g": {
+            "lat": 32.2773,
+            "lon": 71.5546
+        },
+        "it": "Harnoli",
+        "it:t": "Pakistan | Piplan",
+        "es": "Harnoli",
+        "es:t": "Pakist\u00e1n | Piplan",
+        "de": "Harnoli",
+        "de:t": "Pakistan | Piplan"
+    },
+    {
+        "en": "Har\u012bpur",
+        "en:t": "Pakistan",
+        "a": true,
+        "g": {
+            "lat": 33.9946,
+            "lon": 72.9106
+        },
+        "it": "Haripur",
+        "it:t": "Pakistan",
+        "es": "Haripur",
+        "es:t": "Pakist\u00e1n",
+        "de": "Har\u012bpur",
+        "de:t": "Pakistan"
+    },
+    {
+        "en": "Hasilpur",
+        "en:t": "Pakistan | Bahawalpur",
+        "a": true,
+        "g": {
+            "lat": 29.6902,
+            "lon": 72.5796
+        },
+        "it": "Hasilpur",
+        "it:t": "Pakistan | Bahawalpur",
+        "es": "Hasilpur",
+        "es:t": "Pakist\u00e1n | Bahawalpur",
+        "de": "Hasilpur",
+        "de:t": "Pakistan | Bahawalpur"
+    },
+    {
+        "en": "Hassan Abdal",
+        "en:t": "Pakistan",
+        "a": true,
+        "g": {
+            "lat": 33.821,
+            "lon": 72.68
+        },
+        "it": "Hasan Abdal",
+        "it:t": "Pakistan",
+        "es": "Hassan Abdal",
+        "es:t": "Pakist\u00e1n",
+        "de": "Hasan Abdal",
+        "de:t": "Pakistan"
+    },
+    {
+        "en": "Haveli",
+        "en:t": "Pakistan | Jand",
+        "a": true,
+        "g": {
+            "lat": 33.4693,
+            "lon": 72.1194
+        },
+        "it": "Haveli",
+        "it:t": "Pakistan | Jand",
+        "es": "Haveli",
+        "es:t": "Pakist\u00e1n | Jand",
+        "de": "Haveli",
+        "de:t": "Pakistan | Jand"
+    },
+    {
+        "en": "Havelian",
+        "en:t": "Pakistan | Abbottabad",
+        "a": true,
+        "g": {
+            "lat": 34.0435,
+            "lon": 73.1409
+        },
+        "it": "Havelian",
+        "it:t": "Pakistan | Abbottabad",
+        "es": "Havelian",
+        "es:t": "Pakist\u00e1n | Abbottabad",
+        "de": "Havelian",
+        "de:t": "Pakistan | Abbottabad"
+    },
+    {
+        "en": "Hazro",
+        "en:t": "Pakistan",
+        "a": true,
+        "g": {
+            "lat": 33.9053,
+            "lon": 72.4791
+        },
+        "it": "Hazro",
+        "it:t": "Pakistan",
+        "es": "Hazro",
+        "es:t": "Pakist\u00e1n",
+        "de": "Hazro",
+        "de:t": "Pakistan"
+    },
+    {
+        "en": "Hingorja",
+        "en:t": "Pakistan | Sobodhero",
+        "a": true,
+        "g": {
+            "lat": 27.2187,
+            "lon": 68.4234
+        },
+        "it": "Hingorja",
+        "it:t": "Pakistan | Sobodhero",
+        "es": "Hingorja",
+        "es:t": "Pakist\u00e1n | Sobodhero",
+        "de": "Hingorja",
+        "de:t": "Pakistan | Sobodhero"
+    },
+    {
+        "en": "Hujra Shah Muqeem",
+        "en:t": "Pakistan | Depalpur",
+        "a": true,
+        "g": {
+            "lat": 30.7356,
+            "lon": 73.8213
+        },
+        "it": "Hujra Shah Muqeem",
+        "it:t": "Pakistan | Depalpur",
+        "es": "Hujra Shah Muqeem",
+        "es:t": "Pakist\u00e1n | Depalpur",
+        "de": "Hujra Shah Muqeem",
+        "de:t": "Pakistan | Depalpur"
+    },
+    {
+        "en": "Hyderabad",
+        "en:t": "Pakistan",
+        "a": true,
+        "g": {
+            "lat": 25.396,
+            "lon": 68.3578
+        },
+        "it": "Hyderabad",
+        "it:t": "Pakistan",
+        "es": "Hyderabad",
+        "es:t": "Pakist\u00e1n",
+        "de": "Hyderabad",
+        "de:t": "Pakistan"
+    },
+    {
+        "en": "Islamabad",
+        "en:t": "Pakistan",
+        "a": true,
+        "g": {
+            "lat": 33.6844,
+            "lon": 73.0479
+        },
+        "it": "Islamabad",
+        "it:t": "Pakistan",
+        "es": "Islamabad",
+        "es:t": "Pakist\u00e1n",
+        "de": "Islamabad",
+        "de:t": "Pakistan"
+    },
+    {
+        "en": "Jacobabad",
+        "en:t": "Pakistan",
+        "a": true,
+        "g": {
+            "lat": 28.2823,
+            "lon": 68.4472
+        },
+        "it": "Jacobabad",
+        "it:t": "Pakistan",
+        "es": "Jacobabad",
+        "es:t": "Pakist\u00e1n",
+        "de": "Jacobabad",
+        "de:t": "Pakistan"
+    },
+    {
+        "en": "Jahanian Shah",
+        "en:t": "Pakistan | Sahiwal",
+        "a": true,
+        "g": {
+            "lat": 31.8052,
+            "lon": 72.2763
+        },
+        "it": "Jahanian Shah",
+        "it:t": "Pakistan | Sahiwal",
+        "es": "Jahanian Shah",
+        "es:t": "Pakist\u00e1n | Sahiwal",
+        "de": "Jahanian Shah",
+        "de:t": "Pakistan | Sahiwal"
+    },
+    {
+        "en": "Jalalpur Pirwala",
+        "en:t": "Pakistan",
+        "a": true,
+        "g": {
+            "lat": 29.5165,
+            "lon": 71.2221
+        },
+        "it": "Jalalpur Pirwala",
+        "it:t": "Pakistan",
+        "es": "Jalalpur Pirwala",
+        "es:t": "Pakist\u00e1n",
+        "de": "Jalalpur Pirwala",
+        "de:t": "Pakistan"
+    },
+    {
+        "en": "Jampur",
+        "en:t": "Pakistan",
+        "a": true,
+        "g": {
+            "lat": 29.6459,
+            "lon": 70.5919
+        },
+        "it": "Jampur",
+        "it:t": "Pakistan",
+        "es": "Jampur",
+        "es:t": "Pakist\u00e1n",
+        "de": "Jampur",
+        "de:t": "Pakistan"
+    },
+    {
+        "en": "Jand",
+        "en:t": "Pakistan",
+        "a": true,
+        "g": {
+            "lat": 33.4365,
+            "lon": 72.0172
+        },
+        "it": "Jand",
+        "it:t": "Pakistan",
+        "es": "Jand",
+        "es:t": "Pakist\u00e1n",
+        "de": "Jand",
+        "de:t": "Pakistan"
+    },
+    {
+        "en": "Jaranwala",
+        "en:t": "Pakistan",
+        "a": true,
+        "g": {
+            "lat": 31.3454,
+            "lon": 73.4298
+        },
+        "it": "Jaranwala",
+        "it:t": "Pakistan",
+        "es": "Jaranwala",
+        "es:t": "Pakist\u00e1n",
+        "de": "Jaranwala",
+        "de:t": "Pakistan"
+    },
+    {
+        "en": "Jatoi",
+        "en:t": "Pakistan | Muzaffargarh",
+        "a": true,
+        "g": {
+            "lat": 29.5069,
+            "lon": 70.8536
+        },
+        "it": "Jatoi",
+        "it:t": "Pakistan | Muzaffargarh",
+        "es": "Jatoi",
+        "es:t": "Pakist\u00e1n | Muzaffargarh",
+        "de": "Jatoi",
+        "de:t": "Pakistan | Muzaffargarh"
+    },
+    {
+        "en": "Jauharabad",
+        "en:t": "Pakistan | Khushab",
+        "a": true,
+        "g": {
+            "lat": 32.2899,
+            "lon": 72.2719
+        },
+        "it": "Jauharabad",
+        "it:t": "Pakistan | Khushab",
+        "es": "Jauharabad",
+        "es:t": "Pakist\u00e1n | Khushab",
+        "de": "Jauharabad",
+        "de:t": "Pakistan | Khushab"
+    },
+    {
+        "en": "Jhang Sadar",
+        "en:t": "Pakistan | Jhang",
+        "a": true,
+        "g": {
+            "lat": 31.2655,
+            "lon": 72.3124
+        },
+        "it": "Jhang Sadar",
+        "it:t": "Pakistan | Jhang",
+        "es": "Jhang Sadar",
+        "es:t": "Pakist\u00e1n | Jhang",
+        "de": "Jhang Sadar",
+        "de:t": "Pakistan | Jhang"
+    },
+    {
+        "en": "Jhawarian",
+        "en:t": "Pakistan | Shahpur",
+        "a": true,
+        "g": {
+            "lat": 32.3563,
+            "lon": 72.621
+        },
+        "it": "Jhawarian",
+        "it:t": "Pakistan | Shahpur",
+        "es": "Jhawarian",
+        "es:t": "Pakist\u00e1n | Shahpur",
+        "de": "Jhawarian",
+        "de:t": "Pakistan | Shahpur"
+    },
+    {
+        "en": "Jhelum",
+        "en:t": "Pakistan",
+        "a": true,
+        "g": {
+            "lat": 32.9425,
+            "lon": 73.7257
+        },
+        "it": "Jhelum",
+        "it:t": "Pakistan",
+        "es": "Jhelum",
+        "es:t": "Pakist\u00e1n",
+        "de": "Jhelam",
+        "de:t": "Pakistan"
+    },
+    {
+        "en": "Jhol",
+        "en:t": "Pakistan | Sinjhoro",
+        "a": true,
+        "g": {
+            "lat": 25.9575,
+            "lon": 68.9003
+        },
+        "it": "Jhol",
+        "it:t": "Pakistan | Sinjhoro",
+        "es": "Jhol",
+        "es:t": "Pakist\u00e1n | Sinjhoro",
+        "de": "Jhol",
+        "de:t": "Pakistan | Sinjhoro"
+    },
+    {
+        "en": "Johi",
+        "en:t": "Pakistan",
+        "a": true,
+        "g": {
+            "lat": 26.6941,
+            "lon": 67.6215
+        },
+        "it": "Johi",
+        "it:t": "Pakistan",
+        "es": "Johi",
+        "es:t": "Pakist\u00e1n",
+        "de": "Johi",
+        "de:t": "Pakistan"
+    },
+    {
+        "en": "J\u012bwani",
+        "en:t": "Pakistan | Gwadar",
+        "a": true,
+        "g": {
+            "lat": 25.0538,
+            "lon": 61.7707
+        },
+        "it": "J\u012bwani",
+        "it:t": "Pakistan | Gwadar",
+        "es": "J\u012bwani",
+        "es:t": "Pakist\u00e1n | Gwadar",
+        "de": "Jiwani",
+        "de:t": "Pakistan | Gwadar"
+    },
+    {
+        "en": "Kabirwala",
+        "en:t": "Pakistan",
+        "a": true,
+        "g": {
+            "lat": 30.4011,
+            "lon": 71.8631
+        },
+        "it": "Kabirwala",
+        "it:t": "Pakistan",
+        "es": "Kabirwala",
+        "es:t": "Pakist\u00e1n",
+        "de": "Kabirwala",
+        "de:t": "Pakistan"
+    },
+    {
+        "en": "Kahna",
+        "en:t": "Pakistan | Lahore Cantt",
+        "a": true,
+        "g": {
+            "lat": 31.3739,
+            "lon": 74.3675
+        },
+        "it": "Kahna",
+        "it:t": "Pakistan | Lahore Cantt",
+        "es": "Kahna",
+        "es:t": "Pakist\u00e1n | Lahore Cantt",
+        "de": "Kahna",
+        "de:t": "Pakistan | Lahore Cantt"
+    },
+    {
+        "en": "Kahror Pakka",
+        "en:t": "Pakistan",
+        "a": true,
+        "g": {
+            "lat": 29.6214,
+            "lon": 71.9164
+        },
+        "it": "Kahror Pakka",
+        "it:t": "Pakistan",
+        "es": "Kahror Pacca",
+        "es:t": "Pakist\u00e1n",
+        "de": "Kahror Pakka",
+        "de:t": "Pakistan"
+    },
+    {
+        "en": "Kahuta",
+        "en:t": "Pakistan",
+        "a": true,
+        "g": {
+            "lat": 33.5896,
+            "lon": 73.3886
+        },
+        "it": "Kahuta",
+        "it:t": "Pakistan",
+        "es": "Kahuta",
+        "es:t": "Pakist\u00e1n",
+        "de": "Kahuta",
+        "de:t": "Pakistan"
+    },
+    {
+        "en": "Kalabagh",
+        "en:t": "Pakistan | Isakhel",
+        "a": true,
+        "g": {
+            "lat": 32.9599,
+            "lon": 71.5398
+        },
+        "it": "Kalabagh",
+        "it:t": "Pakistan | Isakhel",
+        "es": "Kalabagh",
+        "es:t": "Pakist\u00e1n | Isakhel",
+        "de": "Kalabagh",
+        "de:t": "Pakistan | Isakhel"
+    },
+    {
+        "en": "Kaleke",
+        "en:t": "Pakistan | Hafizabad",
+        "a": true,
+        "g": {
+            "lat": 31.9747,
+            "lon": 73.5977
+        },
+        "it": "Kaleke",
+        "it:t": "Pakistan | Hafizabad",
+        "es": "Kaleke",
+        "es:t": "Pakist\u00e1n | Hafizabad",
+        "de": "Kaleke",
+        "de:t": "Pakistan | Hafizabad"
+    },
+    {
+        "en": "Kallar Kahar",
+        "en:t": "Pakistan",
+        "a": true,
+        "g": {
+            "lat": 32.7769,
+            "lon": 72.7068
+        },
+        "it": "Kallar Kahar",
+        "it:t": "Pakistan",
+        "es": "Kallar Kahar",
+        "es:t": "Pakist\u00e1n",
+        "de": "Kallar Kahar",
+        "de:t": "Pakistan"
+    },
+    {
+        "en": "Kalur Kot",
+        "en:t": "Pakistan | Kalurkot",
+        "a": true,
+        "g": {
+            "lat": 32.1575,
+            "lon": 71.2696
+        },
+        "it": "Kalur Kot",
+        "it:t": "Pakistan | Kalurkot",
+        "es": "Kalur Kot",
+        "es:t": "Pakist\u00e1n | Kalurkot",
+        "de": "Kalur Kot",
+        "de:t": "Pakistan | Kalurkot"
+    },
+    {
+        "en": "Kal\u0101t",
+        "en:t": "Pakistan | Kalat",
+        "a": true,
+        "g": {
+            "lat": 29.0523,
+            "lon": 66.5879
+        },
+        "it": "Kal\u0101t",
+        "it:t": "Pakistan | Kalat",
+        "es": "Kalat",
+        "es:t": "Pakist\u00e1n",
+        "de": "Kal\u0101t",
+        "de:t": "Pakistan | Kalat"
+    },
+    {
+        "en": "Kamalia",
+        "en:t": "Pakistan",
+        "a": true,
+        "g": {
+            "lat": 30.7222,
+            "lon": 72.6447
+        },
+        "it": "Kamalia",
+        "it:t": "Pakistan",
+        "es": "Kamalia",
+        "es:t": "Pakist\u00e1n",
+        "de": "Kamalia",
+        "de:t": "Pakistan"
+    },
+    {
+        "en": "Kamar Mashani",
+        "en:t": "Pakistan | Isakhel",
+        "a": true,
+        "g": {
+            "lat": 32.8469,
+            "lon": 71.3527
+        },
+        "it": "Kamar Mashani",
+        "it:t": "Pakistan | Isakhel",
+        "es": "Kamar Mashani",
+        "es:t": "Pakist\u00e1n | Isakhel",
+        "de": "Kamar Mashani",
+        "de:t": "Pakistan | Isakhel"
+    },
+    {
+        "en": "Kamir",
+        "en:t": "Pakistan | Sahiwal",
+        "a": true,
+        "g": {
+            "lat": 30.4305,
+            "lon": 73.0464
+        },
+        "it": "Kamir",
+        "it:t": "Pakistan | Sahiwal",
+        "es": "Kamir",
+        "es:t": "Pakist\u00e1n | Sahiwal",
+        "de": "Kamir",
+        "de:t": "Pakistan | Sahiwal"
+    },
+    {
+        "en": "Kamra Kalan",
+        "en:t": "Pakistan | Attock",
+        "a": true,
+        "g": {
+            "lat": 33.858,
+            "lon": 72.414
+        },
+        "it": "Kamra Kalan",
+        "it:t": "Pakistan | Attock",
+        "es": "Kamra",
+        "es:t": "Pakist\u00e1n | Attock",
+        "de": "Kamra",
+        "de:t": "Pakistan | Attock"
+    },
+    {
+        "en": "Kandhkot",
+        "en:t": "Pakistan | Kanhdkot",
+        "a": true,
+        "g": {
+            "lat": 28.2425,
+            "lon": 69.1835
+        },
+        "it": "Kandhkot",
+        "it:t": "Pakistan | Kanhdkot",
+        "es": "Kandhkot",
+        "es:t": "Pakist\u00e1n | Kanhdkot",
+        "de": "Kandhkot",
+        "de:t": "Pakistan | Kanhdkot"
+    },
+    {
+        "en": "Kandi\u0101ro",
+        "en:t": "Pakistan | Kandiaro",
+        "a": true,
+        "g": {
+            "lat": 27.0611,
+            "lon": 68.2087
+        },
+        "it": "Kandi\u0101ro",
+        "it:t": "Pakistan | Kandiaro",
+        "es": "Kandi\u0101ro",
+        "es:t": "Pakist\u00e1n | Kandiaro",
+        "de": "Kandi\u0101ro",
+        "de:t": "Pakistan | Kandiaro"
+    },
+    {
+        "en": "Kanganpur",
+        "en:t": "Pakistan | Chunian",
+        "a": true,
+        "g": {
+            "lat": 30.7639,
+            "lon": 74.1123
+        },
+        "it": "Kanganpur",
+        "it:t": "Pakistan | Chunian",
+        "es": "Kanganpur",
+        "es:t": "Pakist\u00e1n | Chunian",
+        "de": "Kanganpur",
+        "de:t": "Pakistan | Chunian"
+    },
+    {
+        "en": "Karachi",
+        "en:t": "Pakistan | Karachi",
+        "a": true,
+        "g": {
+            "lat": 24.8607,
+            "lon": 67.0011
+        },
+        "it": "Karachi",
+        "it:t": "Pakistan | Karachi",
+        "es": "Karachi",
+        "es:t": "Pakist\u00e1n | Karachi",
+        "de": "Karatschi",
+        "de:t": "Pakistan | Karachi"
+    },
+    {
+        "en": "Karor",
+        "en:t": "Pakistan | Karor Lal Esan",
+        "a": true,
+        "g": {
+            "lat": 31.2233,
+            "lon": 70.95
+        },
+        "it": "Karor",
+        "it:t": "Pakistan | Karor Lal Esan",
+        "es": "Karor",
+        "es:t": "Pakist\u00e1n | Karor Lal Esan",
+        "de": "Karor",
+        "de:t": "Pakistan | Karor Lal Esan"
+    },
+    {
+        "en": "Kashmore",
+        "en:t": "Pakistan",
+        "a": true,
+        "g": {
+            "lat": 28.4482,
+            "lon": 69.5857
+        },
+        "it": "Kashmore",
+        "it:t": "Pakistan",
+        "es": "Kashmor",
+        "es:t": "Pakist\u00e1n",
+        "de": "Kashmore",
+        "de:t": "Pakistan"
+    },
+    {
+        "en": "Kasur",
+        "en:t": "Pakistan",
+        "a": true,
+        "g": {
+            "lat": 31.1179,
+            "lon": 74.4408
+        },
+        "it": "Kasur",
+        "it:t": "Pakistan",
+        "es": "Kasur",
+        "es:t": "Pakist\u00e1n",
+        "de": "Kasur",
+        "de:t": "Pakistan"
+    },
+    {
+        "en": "Khairpur",
+        "en:t": "Pakistan",
+        "a": true,
+        "g": {
+            "lat": 27.5256,
+            "lon": 68.7551
+        },
+        "it": "Khairpur",
+        "it:t": "Pakistan",
+        "es": "Khairpur",
+        "es:t": "Pakist\u00e1n",
+        "de": "Khairpur",
+        "de:t": "Pakistan"
+    },
+    {
+        "en": "Khairpur",
+        "en:t": "Pakistan | Khairpur Tamewali",
+        "a": true,
+        "g": {
+            "lat": 29.5754,
+            "lon": 72.2356
+        },
+        "it": "Khairpur",
+        "it:t": "Pakistan | Khairpur Tamewali",
+        "es": "Khairpur",
+        "es:t": "Pakist\u00e1n | Khairpur Tamewali",
+        "de": "Khairpur",
+        "de:t": "Pakistan | Khairpur Tamewali"
+    },
+    {
+        "en": "Khairpur Nathan Shah Tehsil",
+        "en:t": "Pakistan | Dadu",
+        "a": true,
+        "g": {
+            "lat": 27.0363,
+            "lon": 67.2848
+        },
+        "it": "Khairpur Nathan Shah Tehsil",
+        "it:t": "Pakistan | Dadu",
+        "es": "Khairpur Nathan Shah Tehsil",
+        "es:t": "Pakist\u00e1n | Dadu",
+        "de": "Khairpur Nathan Shah Tehsil",
+        "de:t": "Pakistan | Dadu"
+    },
+    {
+        "en": "Khalabat Township",
+        "en:t": "Pakistan | Haripur",
+        "a": true,
+        "g": {
+            "lat": 34.0194,
+            "lon": 72.9136
+        },
+        "it": "Khalabat Township",
+        "it:t": "Pakistan | Haripur",
+        "es": "Khalabat Township",
+        "es:t": "Pakist\u00e1n | Haripur",
+        "de": "Khalabat Township",
+        "de:t": "Pakistan | Haripur"
+    },
+    {
+        "en": "Khangarh",
+        "en:t": "Pakistan | Muzaffargarh",
+        "a": true,
+        "g": {
+            "lat": 29.9142,
+            "lon": 71.1567
+        },
+        "it": "Khangarh",
+        "it:t": "Pakistan | Muzaffargarh",
+        "es": "Khangarh",
+        "es:t": "Pakist\u00e1n | Muzaffargarh",
+        "de": "Khangarh",
+        "de:t": "Pakistan | Muzaffargarh"
+    },
+    {
+        "en": "Khanpur",
+        "en:t": "Pakistan | Khanpur",
+        "a": true,
+        "g": {
+            "lat": 28.6332,
+            "lon": 70.6574
+        },
+        "it": "Khanpur",
+        "it:t": "Pakistan | Khanpur",
+        "es": "Khanpur",
+        "es:t": "Pakist\u00e1n | Khanpur",
+        "de": "Khanpur",
+        "de:t": "Pakistan | Khanpur"
+    },
+    {
+        "en": "Khanqah Dogran",
+        "en:t": "Pakistan | Safdarabad",
+        "a": true,
+        "g": {
+            "lat": 31.8299,
+            "lon": 73.6124
+        },
+        "it": "Khanqah Dogran",
+        "it:t": "Pakistan | Safdarabad",
+        "es": "Khanqah Dogran",
+        "es:t": "Pakist\u00e1n | Safdarabad",
+        "de": "Khanqah Dogran",
+        "de:t": "Pakistan | Safdarabad"
+    },
+    {
+        "en": "Kharan",
+        "en:t": "Pakistan",
+        "a": true,
+        "g": {
+            "lat": 28.5855,
+            "lon": 65.4163
+        },
+        "it": "Kharan",
+        "it:t": "Pakistan",
+        "es": "Kharan",
+        "es:t": "Pakist\u00e1n",
+        "de": "Kharan",
+        "de:t": "Pakistan"
+    },
+    {
+        "en": "Kharian",
+        "en:t": "Pakistan",
+        "a": true,
+        "g": {
+            "lat": 32.8143,
+            "lon": 73.8831
+        },
+        "it": "Kharian",
+        "it:t": "Pakistan",
+        "es": "Kharian",
+        "es:t": "Pakist\u00e1n",
+        "de": "Kharian",
+        "de:t": "Pakistan"
+    },
+    {
+        "en": "Khewra",
+        "en:t": "Pakistan | Pind Dadan Khan",
+        "a": true,
+        "g": {
+            "lat": 32.6305,
+            "lon": 73.011
+        },
+        "it": "Khewra",
+        "it:t": "Pakistan | Pind Dadan Khan",
+        "es": "Khewra",
+        "es:t": "Pakist\u00e1n | Pind Dadan Khan",
+        "de": "Khewra",
+        "de:t": "Pakistan | Pind Dadan Khan"
+    },
+    {
+        "en": "Khurianwala",
+        "en:t": "Pakistan | Faisalabad",
+        "a": true,
+        "g": {
+            "lat": 31.4963,
+            "lon": 73.2706
+        },
+        "it": "Khurianwala",
+        "it:t": "Pakistan | Faisalabad",
+        "es": "Khurianwala",
+        "es:t": "Pakist\u00e1n | Faisalabad",
+        "de": "Khurianwala",
+        "de:t": "Pakistan | Faisalabad"
+    },
+    {
+        "en": "Khush\u0101b",
+        "en:t": "Pakistan | Khushab",
+        "a": true,
+        "g": {
+            "lat": 32.2955,
+            "lon": 72.3489
+        },
+        "it": "Khush\u0101b",
+        "it:t": "Pakistan | Khushab",
+        "es": "Khushab",
+        "es:t": "Pakist\u00e1n",
+        "de": "Khush\u0101b",
+        "de:t": "Pakistan | Khushab"
+    },
+    {
+        "en": "Kh\u0101npur",
+        "en:t": "Pakistan | Khanpur",
+        "a": true,
+        "g": {
+            "lat": 28.0027,
+            "lon": 68.7304
+        },
+        "it": "Kh\u0101npur",
+        "it:t": "Pakistan | Khanpur",
+        "es": "Kh\u0101npur",
+        "es:t": "Pakist\u00e1n | Khanpur",
+        "de": "Kh\u0101npur",
+        "de:t": "Pakistan | Khanpur"
+    },
+    {
+        "en": "Kohat",
+        "en:t": "Pakistan",
+        "a": true,
+        "g": {
+            "lat": 33.5889,
+            "lon": 71.4429
+        },
+        "it": "Kohat",
+        "it:t": "Pakistan",
+        "es": "Kohat",
+        "es:t": "Pakist\u00e1n",
+        "de": "Kohat",
+        "de:t": "Pakistan"
+    },
+    {
+        "en": "Kot Abdul Malik",
+        "en:t": "Pakistan | Ferozewala",
+        "a": true,
+        "g": {
+            "lat": 31.6204,
+            "lon": 74.2344
+        },
+        "it": "Belucistan",
+        "it:t": "Pakistan",
+        "es": "Baluchist\u00e1n",
+        "es:t": "Pakist\u00e1n",
+        "de": "Belutschistan",
+        "de:t": "Pakistan"
+    },
+    {
+        "en": "Kot Addu",
+        "en:t": "Pakistan",
+        "a": true,
+        "g": {
+            "lat": 30.4685,
+            "lon": 70.9606
+        },
+        "it": "Kot Addu",
+        "it:t": "Pakistan",
+        "es": "Kot Adu",
+        "es:t": "Pakist\u00e1n",
+        "de": "Kot Addu",
+        "de:t": "Pakistan"
+    },
+    {
+        "en": "Kot Diji",
+        "en:t": "Pakistan",
+        "a": true,
+        "g": {
+            "lat": 27.3559,
+            "lon": 68.7215
+        },
+        "it": "Kot Diji",
+        "it:t": "Pakistan",
+        "es": "Kot Diji",
+        "es:t": "Pakist\u00e1n",
+        "de": "Kot Diji",
+        "de:t": "Pakistan"
+    },
+    {
+        "en": "Kot Ghul\u0101m Muhammad",
+        "en:t": "Pakistan | Pasrur",
+        "a": true,
+        "g": {
+            "lat": 32.3286,
+            "lon": 74.5602
+        },
+        "it": "Kot Ghul\u0101m Muhammad",
+        "it:t": "Pakistan | Pasrur",
+        "es": "Kot Ghul\u0101m Muhammad",
+        "es:t": "Pakist\u00e1n | Pasrur",
+        "de": "Kot Ghul\u0101m Muhammad",
+        "de:t": "Pakistan | Pasrur"
+    },
+    {
+        "en": "Kot Mumin Minor",
+        "en:t": "Pakistan | Kot Momin",
+        "a": true,
+        "g": {
+            "lat": 32.225,
+            "lon": 73.05
+        },
+        "it": "Kot Mumin Minor",
+        "it:t": "Pakistan | Kot Momin",
+        "es": "Kot Mumin Minor",
+        "es:t": "Pakist\u00e1n | Kot Momin",
+        "de": "Kot Mumin Minor",
+        "de:t": "Pakistan | Kot Momin"
+    },
+    {
+        "en": "Kot Radha Kishan",
+        "en:t": "Pakistan | Kasur",
+        "a": true,
+        "g": {
+            "lat": 31.1711,
+            "lon": 74.1064
+        },
+        "it": "Kot Radha Kishan",
+        "it:t": "Pakistan | Kasur",
+        "es": "Kot Radha Kishan",
+        "es:t": "Pakist\u00e1n | Kasur",
+        "de": "Kot Radha Kishan",
+        "de:t": "Pakistan | Kasur"
+    },
+    {
+        "en": "Kotli",
+        "en:t": "Pakistan",
+        "a": true,
+        "g": {
+            "lat": 33.5008,
+            "lon": 73.9007
+        },
+        "it": "Kotli",
+        "it:t": "Pakistan",
+        "es": "Kotli",
+        "es:t": "Pakist\u00e1n",
+        "de": "Kotli",
+        "de:t": "Pakistan"
+    },
+    {
+        "en": "Kotli Loh\u0101r\u0101n",
+        "en:t": "Pakistan | Sialkot",
+        "a": true,
+        "g": {
+            "lat": 32.5878,
+            "lon": 74.4965
+        },
+        "it": "Kotli Loh\u0101r\u0101n",
+        "it:t": "Pakistan | Sialkot",
+        "es": "Kotli Loh\u0101r\u0101n",
+        "es:t": "Pakist\u00e1n | Sialkot",
+        "de": "Kotli Loh\u0101r\u0101n",
+        "de:t": "Pakistan | Sialkot"
+    },
+    {
+        "en": "K\u0101moke",
+        "en:t": "Pakistan | Gujranwala",
+        "a": true,
+        "g": {
+            "lat": 31.9765,
+            "lon": 74.222
+        },
+        "it": "Kamoke",
+        "it:t": "Pakistan | Gujranwala",
+        "es": "Kamoke",
+        "es:t": "Pakist\u00e1n | Gujranwala",
+        "de": "K\u0101moke",
+        "de:t": "Pakistan | Gujranwala"
+    },
+    {
+        "en": "Malakw\u0101l",
+        "en:t": "Pakistan | Mandi Bahauddin",
+        "a": true,
+        "g": {
+            "lat": 32.5507,
+            "lon": 73.2087
+        },
+        "it": "Malakw\u0101l",
+        "it:t": "Pakistan | Mandi Bahauddin",
+        "es": "Malakwal",
+        "es:t": "Pakist\u00e1n | Mandi Bahauddin",
+        "de": "Malakwal",
+        "de:t": "Pakistan | Mandi Bahauddin"
+    },
+    {
+        "en": "Nowsherament",
+        "en:t": "Pakistan | Nowshera",
+        "a": true,
+        "g": {
+            "lat": 34.0046,
+            "lon": 72.0024
+        },
+        "it": "Nowsherament",
+        "it:t": "Pakistan | Nowshera",
+        "es": "Nowsherament",
+        "es:t": "Pakist\u00e1n | Nowshera",
+        "de": "Nowsherament",
+        "de:t": "Pakistan | Nowshera"
+    },
+    {
+        "en": "Phool Nagar",
+        "en:t": "Pakistan | Kasur",
+        "a": true,
+        "g": {
+            "lat": 31.2058,
+            "lon": 73.937
+        },
+        "it": "Phool Nagar",
+        "it:t": "Pakistan | Kasur",
+        "es": "Phool Nagar",
+        "es:t": "Pakist\u00e1n | Kasur",
+        "de": "Phool Nagar",
+        "de:t": "Pakistan | Kasur"
+    },
+    {
+        "en": "Punjab",
+        "en:t": "Pakistan",
+        "a": true,
+        "g": {
+            "lat": 31.1704,
+            "lon": 72.7097
+        },
+        "it": "Punjab",
+        "it:t": "Pakistan",
+        "es": "Haroonabad",
+        "es:t": "Pakist\u00e1n",
+        "de": "Punjab",
+        "de:t": "Pakistan"
+    },
+    {
+        "en": "Risalpur",
+        "en:t": "Pakistan | Nowshera",
+        "a": true,
+        "g": {
+            "lat": 34.0751,
+            "lon": 71.9876
+        },
+        "it": "Risalpur",
+        "it:t": "Pakistan | Nowshera",
+        "es": "Risalpur",
+        "es:t": "Pakist\u00e1n | Nowshera",
+        "de": "Risalpur",
+        "de:t": "Pakistan | Nowshera"
+    },
+    {
+        "en": "Sehawani Sark Rd",
+        "en:t": "Pakistan | Badah",
+        "a": true,
+        "g": {
+            "lat": 27.3286,
+            "lon": 68.0191
+        },
+        "it": "Sehawani Sark Rd",
+        "it:t": "Pakistan | Badah",
+        "es":  "Sehawani Sark Rd",
+        "es:t": "Pakist\u00e1n | Badah",
+        "de": "Sehawani Sark Rd",
+        "de:t": "Pakistan | Badah"
+    },
+    {
+        "en": "Setharja",
+        "en:t": "Pakistan | Mirwah",
+        "a": true,
+        "g": {
+            "lat": 27.204,
+            "lon": 68.4711
+        },
+        "it": "Setharja",
+        "it:t": "Pakistan | Mirwah",
+        "es": "Setharja",
+        "es:t": "Pakist\u00e1n | Mirwah",
+        "de": "Setharja",
+        "de:t": "Pakistan | Mirwah"
+    },
+    {
+        "en": "Tando Ghul\u0101m Ali",
+        "en:t": "Pakistan | Matli",
+        "a": true,
+        "g": {
+            "lat": 25.1242,
+            "lon": 68.8914
+        },
+        "it": "Tando Ghul\u0101m Ali",
+        "it:t": "Pakistan | Matli",
+        "es": "Tando Ghul\u0101m Ali",
+        "es:t": "Pakist\u00e1n | Matli",
+        "de": "Tando Ghul\u0101m Ali",
+        "de:t": "Pakistan | Matli"
+    },
+    {
+        "en": "\u0100rifw\u0101la",
+        "en:t": "Pakistan | Arif Wala",
+        "a": true,
+        "g": {
+            "lat": 30.2867,
+            "lon": 73.0582
+        },
+        "it": "Arifwala",
+        "it:t": "Pakistan | Arif Wala",
+        "es": "Arifwala",
+        "es:t": "Pakist\u00e1n | Arif Wala",
+        "de": "\u0100rifw\u0101la",
+        "de:t": "Pakistan | Arif Wala"
+    }
+]

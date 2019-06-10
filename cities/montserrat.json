@@ -1,0 +1,32 @@
+[
+    {
+        "en": "Brades",
+        "en:t": "Montserrat | Saint Peter",
+        "a": true,
+        "g": {
+            "lat": 16.7909,
+            "lon": -62.2106
+        },
+        "it": "Brades",
+        "it:t": "Montserrat | Saint Peter",
+        "es": "Brades",
+        "es:t": "Montserrat | Saint Peter",
+        "de": "Brades",
+        "de:t": "Montserrat | Saint Peter"
+    },
+    {
+        "en": "Plymouth",
+        "en:t": "Montserrat | Saint Anthony",
+        "a": true,
+        "g": {
+            "lat": 16.7065,
+            "lon": -62.2157
+        },
+        "it": "Plymouth",
+        "it:t": "Montserrat | Saint Anthony",
+        "es": "Plymouth",
+        "es:t": "Montserrat | Saint Anthony",
+        "de": "Plymouth",
+        "de:t": "Montserrat | Saint Anthony"
+    }
+]

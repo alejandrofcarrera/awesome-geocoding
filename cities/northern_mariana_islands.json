@@ -1,0 +1,17 @@
+[
+    {
+        "en": "Saipan",
+        "en:t": "Northern Mariana Islands",
+        "a": true,
+        "g": {
+            "lat": 15.185,
+            "lon": 145.7467
+        },
+        "it": "Saipan",
+        "it:t": "Isole Marianne Settentrionali",
+        "es": "Saip\u00e1n",
+        "es:t": "Islas Marianas del Norte",
+        "de": "Saipan",
+        "de:t": "N\u00f6rdliche Marianen"
+    }
+]

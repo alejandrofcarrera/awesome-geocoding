@@ -1,0 +1,5357 @@
+[
+  {
+    "en": "Aberdare",
+    "en:t": "United Kingdom",
+    "a": true,
+    "g": {
+      "lat": 51.7162,
+      "lon": -3.4518
+    },
+    "it": "Aberdare",
+    "it:t": "Regno Unito",
+    "es": "Aberdare",
+    "es:t": "Reino Unido",
+    "de": "Aberdare",
+    "de:t": "Vereinigtes Königreich"
+  },
+  {
+    "en": "Aberdeen",
+    "en:t": "United Kingdom",
+    "a": true,
+    "g": {
+      "lat": 57.1497,
+      "lon": -2.0943
+    },
+    "it": "Aberdeen",
+    "it:t": "Regno Unito",
+    "es": "Aberdeen",
+    "es:t": "Reino Unido",
+    "de": "Aberdeen",
+    "de:t": "Vereinigtes Königreich"
+  },
+  {
+    "en": "Abergele",
+    "en:t": "United Kingdom",
+    "a": true,
+    "g": {
+      "lat": 53.2844,
+      "lon": -3.5814
+    },
+    "it": "Abergele",
+    "it:t": "Regno Unito",
+    "es": "Abergele",
+    "es:t": "Reino Unido",
+    "de": "Abergele",
+    "de:t": "Vereinigtes Königreich"
+  },
+  {
+    "en": "Aberystwyth",
+    "en:t": "United Kingdom | Ceredigion",
+    "a": true,
+    "g": {
+      "lat": 52.4153,
+      "lon": -4.0829
+    },
+    "it": "Aberystwyth",
+    "it:t": "Regno Unito | Ceredigion",
+    "es": "Aberystwyth",
+    "es:t": "Reino Unido | Ceredigion",
+    "de": "Aberystwyth",
+    "de:t": "Vereinigtes Königreich | Ceredigion"
+  },
+  {
+    "en": "Abingdon",
+    "en:t": "United Kingdom",
+    "a": true,
+    "g": {
+      "lat": 51.6708,
+      "lon": -1.288
+    },
+    "it": "Abingdon-on-Thames",
+    "it:t": "Regno Unito",
+    "es": "Abingdon",
+    "es:t": "Reino Unido",
+    "de": "Abingdon",
+    "de:t": "Vereinigtes Königreich"
+  },
+  {
+    "en": "Accrington",
+    "en:t": "United Kingdom | Lancashire",
+    "a": true,
+    "g": {
+      "lat": 53.7536,
+      "lon": -2.3722
+    },
+    "it": "Accrington",
+    "it:t": "Regno Unito | Lancashire",
+    "es": "Accrington",
+    "es:t": "Reino Unido | Lancashire",
+    "de": "Accrington",
+    "de:t": "Vereinigtes Königreich | Lancashire"
+  },
+  {
+    "en": "Acocks Green",
+    "en:t": "United Kingdom | Birmingham",
+    "a": true,
+    "g": {
+      "lat": 52.4456,
+      "lon": -1.8308
+    },
+    "it": "Acocks Green",
+    "it:t": "Regno Unito | Birmingham",
+    "es": "Acocks Green",
+    "es:t": "Reino Unido | Birmingham",
+    "de": "Acocks Green",
+    "de:t": "Vereinigtes Königreich | Birmingham"
+  },
+  {
+    "en": "Acton",
+    "en:t": "United Kingdom | London",
+    "a": true,
+    "g": {
+      "lat": 51.5084,
+      "lon": -0.2744
+    },
+    "it": "Acton",
+    "it:t": "Regno Unito | London",
+    "es": "Acton",
+    "es:t": "Reino Unido | Londres",
+    "de": "Acton",
+    "de:t": "Vereinigtes Königreich | London"
+  },
+  {
+    "en": "Airdrie",
+    "en:t": "United Kingdom | North Lanarkshire",
+    "a": true,
+    "g": {
+      "lat": 55.8663,
+      "lon": -3.9626
+    },
+    "it": "Airdrie",
+    "it:t": "Regno Unito | Lanarkshire Settentrionale",
+    "es": "Airdrie",
+    "es:t": "Reino Unido | Lanarkshire Norte",
+    "de": "Airdrie",
+    "de:t": "Vereinigtes Königreich | North Lanarkshire"
+  },
+  {
+    "en": "Aldershot",
+    "en:t": "United Kingdom | Hampshire",
+    "a": true,
+    "g": {
+      "lat": 51.2484,
+      "lon": -0.7558
+    },
+    "it": "Aldershot",
+    "it:t": "Regno Unito | Hampshire",
+    "es": "Aldershot",
+    "es:t": "Reino Unido | Hampshire",
+    "de": "Aldershot",
+    "de:t": "Vereinigtes Königreich | Hampshire"
+  },
+  {
+    "en": "Aldridge",
+    "en:t": "United Kingdom | Walsall",
+    "a": true,
+    "g": {
+      "lat": 52.611,
+      "lon": -1.9142
+    },
+    "it": "Aldridge",
+    "it:t": "Regno Unito | Walsall",
+    "es": "Aldridge",
+    "es:t": "Reino Unido | Walsall",
+    "de": "Aldridge",
+    "de:t": "Vereinigtes Königreich | Walsall"
+  },
+  {
+    "en": "Alfreton",
+    "en:t": "United Kingdom",
+    "a": true,
+    "g": {
+      "lat": 53.0974,
+      "lon": -1.3823
+    },
+    "it": "Alfreton",
+    "it:t": "Regno Unito",
+    "es": "Alfreton",
+    "es:t": "Reino Unido",
+    "de": "Alfreton",
+    "de:t": "Vereinigtes Königreich"
+  },
+  {
+    "en": "Alloa",
+    "en:t": "United Kingdom",
+    "a": true,
+    "g": {
+      "lat": 56.1141,
+      "lon": -3.7919
+    },
+    "it": "Alloa",
+    "it:t": "Regno Unito",
+    "es": "Alloa",
+    "es:t": "Reino Unido",
+    "de": "Alloa",
+    "de:t": "Vereinigtes Königreich"
+  },
+  {
+    "en": "Alton",
+    "en:t": "United Kingdom",
+    "a": true,
+    "g": {
+      "lat": 51.1507,
+      "lon": -0.9732
+    },
+    "it": "Alton",
+    "it:t": "Regno Unito",
+    "es": "Alton",
+    "es:t": "Reino Unido",
+    "de": "Alton",
+    "de:t": "Vereinigtes Königreich"
+  },
+  {
+    "en": "Altrincham",
+    "en:t": "United Kingdom",
+    "a": true,
+    "g": {
+      "lat": 53.3869,
+      "lon": -2.3489
+    },
+    "it": "Altrincham",
+    "it:t": "Regno Unito",
+    "es": "Altrincham",
+    "es:t": "Reino Unido",
+    "de": "Altrincham",
+    "de:t": "Vereinigtes Königreich"
+  },
+  {
+    "en": "Amersham",
+    "en:t": "United Kingdom",
+    "a": true,
+    "g": {
+      "lat": 51.6755,
+      "lon": -0.6072
+    },
+    "it": "Amersham",
+    "it:t": "Regno Unito",
+    "es": "Amersham",
+    "es:t": "Reino Unido",
+    "de": "Amersham",
+    "de:t": "Vereinigtes Königreich"
+  },
+  {
+    "en": "Amersham",
+    "en:t": "United Kingdom",
+    "a": true,
+    "g": {
+      "lat": 51.6755,
+      "lon": -0.6072
+    },
+    "it": "Amersham",
+    "it:t": "Regno Unito",
+    "es": "Amersham",
+    "es:t": "Reino Unido",
+    "de": "Amersham",
+    "de:t": "Vereinigtes Königreich"
+  },
+  {
+    "en": "Andover",
+    "en:t": "United Kingdom",
+    "a": true,
+    "g": {
+      "lat": 51.2112,
+      "lon": -1.4919
+    },
+    "it": "Andover",
+    "it:t": "Regno Unito",
+    "es": "Andover",
+    "es:t": "Reino Unido",
+    "de": "Andover",
+    "de:t": "Vereinigtes Königreich"
+  },
+  {
+    "en": "Antrim",
+    "en:t": "United Kingdom",
+    "a": true,
+    "g": {
+      "lat": 54.7195,
+      "lon": -6.2072
+    },
+    "it": "Antrim",
+    "it:t": "Regno Unito",
+    "es": "Antrim",
+    "es:t": "Reino Unido",
+    "de": "Antrim",
+    "de:t": "Vereinigtes Königreich"
+  },
+  {
+    "en": "Arbroath",
+    "en:t": "United Kingdom",
+    "a": true,
+    "g": {
+      "lat": 56.5591,
+      "lon": -2.5915
+    },
+    "it": "Arbroath",
+    "it:t": "Regno Unito",
+    "es": "Arbroath",
+    "es:t": "Reino Unido",
+    "de": "Arbroath",
+    "de:t": "Vereinigtes Königreich"
+  },
+  {
+    "en": "Arnold",
+    "en:t": "United Kingdom | Nottingham",
+    "a": true,
+    "g": {
+      "lat": 53.0007,
+      "lon": -1.1319
+    },
+    "it": "Arnold",
+    "it:t": "Regno Unito | Nottingham",
+    "es": "Arnold",
+    "es:t": "Reino Unido | Nottingham",
+    "de": "Arnold",
+    "de:t": "Vereinigtes Königreich | Nottingham"
+  },
+  {
+    "en": "Ascot",
+    "en:t": "United Kingdom",
+    "a": true,
+    "g": {
+      "lat": 51.4062,
+      "lon": -0.6756
+    },
+    "it": "Ascot",
+    "it:t": "Regno Unito",
+    "es": "Ascot",
+    "es:t": "Reino Unido",
+    "de": "Ascot",
+    "de:t": "Vereinigtes Königreich"
+  },
+  {
+    "en": "Ashford",
+    "en:t": "United Kingdom",
+    "a": true,
+    "g": {
+      "lat": 51.1465,
+      "lon": 0.875
+    },
+    "it": "Ashford",
+    "it:t": "Regno Unito",
+    "es": "Ashford",
+    "es:t": "Reino Unido",
+    "de": "Ashford",
+    "de:t": "Vereinigtes Königreich"
+  },
+  {
+    "en": "Ashton-in-Makerfield",
+    "en:t": "United Kingdom | Greater Manchester",
+    "a": true,
+    "g": {
+      "lat": 53.487,
+      "lon": -2.6426
+    },
+    "it": "Ashton-in-Makerfield",
+    "it:t": "Regno Unito | Greater Manchester",
+    "es": "Ashton-in-Makerfield",
+    "es:t": "Reino Unido | Gran Mánchester",
+    "de": "Ashton-in-Makerfield",
+    "de:t": "Vereinigtes Königreich | Greater Manchester"
+  },
+  {
+    "en": "Ashton-under-Lyne",
+    "en:t": "United Kingdom | Greater Manchester",
+    "a": true,
+    "g": {
+      "lat": 53.4877,
+      "lon": -2.0961
+    },
+    "it": "Ashton-under-Lyne",
+    "it:t": "Regno Unito | Greater Manchester",
+    "es": "Ashton-under-Lyne",
+    "es:t": "Reino Unido | Gran Mánchester",
+    "de": "Ashton-under-Lyne",
+    "de:t": "Vereinigtes Königreich | Greater Manchester"
+  },
+  {
+    "en": "Atherton",
+    "en:t": "United Kingdom | Greater Manchester",
+    "a": true,
+    "g": {
+      "lat": 53.524,
+      "lon": -2.4923
+    },
+    "it": "Atherton",
+    "it:t": "Regno Unito | Greater Manchester",
+    "es": "Atherton",
+    "es:t": "Reino Unido | Gran Mánchester",
+    "de": "Atherton",
+    "de:t": "Vereinigtes Königreich | Greater Manchester"
+  },
+  {
+    "en": "Aylesbury",
+    "en:t": "United Kingdom",
+    "a": true,
+    "g": {
+      "lat": 51.8156,
+      "lon": -0.8084
+    },
+    "it": "Aylesbury",
+    "it:t": "Regno Unito",
+    "es": "Aylesbury",
+    "es:t": "Reino Unido",
+    "de": "Aylesbury",
+    "de:t": "Vereinigtes Königreich"
+  },
+  {
+    "en": "Ayr",
+    "en:t": "United Kingdom",
+    "a": true,
+    "g": {
+      "lat": 55.4586,
+      "lon": -4.6292
+    },
+    "it": "Ayr",
+    "it:t": "Regno Unito",
+    "es": "Ayr",
+    "es:t": "Reino Unido",
+    "de": "Ayr",
+    "de:t": "Vereinigtes Königreich"
+  },
+  {
+    "en": "Baildon",
+    "en:t": "United Kingdom | West Yorkshire",
+    "a": true,
+    "g": {
+      "lat": 53.8527,
+      "lon": -1.7681
+    },
+    "it": "Baildon",
+    "it:t": "Regno Unito | West Yorkshire",
+    "es": "Baildon",
+    "es:t": "Reino Unido | Yorkshire del Oeste",
+    "de": "Baildon",
+    "de:t": "Vereinigtes Königreich | West Yorkshire"
+  },
+  {
+    "en": "Ballymena",
+    "en:t": "United Kingdom",
+    "a": true,
+    "g": {
+      "lat": 54.8653,
+      "lon": -6.2802
+    },
+    "it": "Ballymena",
+    "it:t": "Regno Unito",
+    "es": "Ballymena",
+    "es:t": "Reino Unido",
+    "de": "Ballymena",
+    "de:t": "Vereinigtes Königreich"
+  },
+  {
+    "en": "Banbridge",
+    "en:t": "United Kingdom",
+    "a": true,
+    "g": {
+      "lat": 54.3487,
+      "lon": -6.2705
+    },
+    "it": "Banbridge",
+    "it:t": "Regno Unito",
+    "es": "Banbridge",
+    "es:t": "Reino Unido",
+    "de": "Banbridge",
+    "de:t": "Vereinigtes Königreich"
+  },
+  {
+    "en": "Banbury",
+    "en:t": "United Kingdom",
+    "a": true,
+    "g": {
+      "lat": 52.0629,
+      "lon": -1.3398
+    },
+    "it": "Banbury",
+    "it:t": "Regno Unito",
+    "es": "Banbury",
+    "es:t": "Reino Unido",
+    "de": "Banbury",
+    "de:t": "Vereinigtes Königreich"
+  },
+  {
+    "en": "Bangor",
+    "en:t": "United Kingdom | Gwynedd",
+    "a": true,
+    "g": {
+      "lat": 53.2274,
+      "lon": -4.1293
+    },
+    "it": "Bangor",
+    "it:t": "Regno Unito | Gwynedd",
+    "es": "Bangor",
+    "es:t": "Reino Unido | Gwynedd",
+    "de": "Bangor",
+    "de:t": "Vereinigtes Königreich | Gwynedd"
+  },
+  {
+    "en": "Bangor",
+    "en:t": "United Kingdom | North Down",
+    "a": true,
+    "g": {
+      "lat": 54.6542,
+      "lon": -5.6731
+    },
+    "it": "Bangor",
+    "it:t": "Regno Unito | North Down",
+    "es": "Bangor",
+    "es:t": "Reino Unido | Down Norte",
+    "de": "Bangor",
+    "de:t": "Vereinigtes Königreich | North Down"
+  },
+  {
+    "en": "Banstead",
+    "en:t": "United Kingdom | Surrey",
+    "a": true,
+    "g": {
+      "lat": 51.3222,
+      "lon": -0.205
+    },
+    "it": "Banstead",
+    "it:t": "Regno Unito | Surrey",
+    "es": "Banstead",
+    "es:t": "Reino Unido | Surrey",
+    "de": "Banstead",
+    "de:t": "Vereinigtes Königreich | Surrey"
+  },
+  {
+    "en": "Barking",
+    "en:t": "United Kingdom | Greater London",
+    "a": true,
+    "g": {
+      "lat": 51.5366,
+      "lon": 0.0758
+    },
+    "it": "Barking",
+    "it:t": "Regno Unito | Greater London",
+    "es": "Barking",
+    "es:t": "Reino Unido | Gran Londres",
+    "de": "Barking",
+    "de:t": "Vereinigtes Königreich | Greater London"
+  },
+  {
+    "en": "Barnsley",
+    "en:t": "United Kingdom",
+    "a": true,
+    "g": {
+      "lat": 53.5526,
+      "lon": -1.4797
+    },
+    "it": "Barnsley",
+    "it:t": "Regno Unito",
+    "es": "Barnsley",
+    "es:t": "Reino Unido",
+    "de": "Barnsley",
+    "de:t": "Vereinigtes Königreich"
+  },
+  {
+    "en": "Barnstaple",
+    "en:t": "United Kingdom | Devon",
+    "a": true,
+    "g": {
+      "lat": 51.0782,
+      "lon": -4.0583
+    },
+    "it": "Barnstaple",
+    "it:t": "Regno Unito | Devon",
+    "es": "Barnstaple",
+    "es:t": "Reino Unido | Devon",
+    "de": "Barnstaple",
+    "de:t": "Vereinigtes Königreich | Devon"
+  },
+  {
+    "en": "Barrhead",
+    "en:t": "United Kingdom | East Renfrewshire",
+    "a": true,
+    "g": {
+      "lat": 55.7967,
+      "lon": -4.3977
+    },
+    "it": "Barrhead",
+    "it:t": "Regno Unito | East Renfrewshire",
+    "es": "Barrhead",
+    "es:t": "Reino Unido | Renfrewshire Oriental",
+    "de": "Barrhead",
+    "de:t": "Vereinigtes Königreich | East Renfrewshire"
+  },
+  {
+    "en": "Barrow-in-Furness",
+    "en:t": "United Kingdom | Cumbria",
+    "a": true,
+    "g": {
+      "lat": 54.109,
+      "lon": -3.2189
+    },
+    "it": "Barrow-in-Furness",
+    "it:t": "Regno Unito | Cumbria",
+    "es": "Barrow-in-Furness",
+    "es:t": "Reino Unido | Cumbria",
+    "de": "Barrow-in-Furness",
+    "de:t": "Vereinigtes Königreich | Cumbria"
+  },
+  {
+    "en": "Barry",
+    "en:t": "United Kingdom | Vale of Glamorgan",
+    "a": true,
+    "g": {
+      "lat": 51.3998,
+      "lon": -3.2826
+    },
+    "it": "Barry",
+    "it:t": "Regno Unito | Vale of Glamorgan",
+    "es": "Barry",
+    "es:t": "Reino Unido | Valle de Glamorgan",
+    "de": "Barry",
+    "de:t": "Vereinigtes Königreich | Vale of Glamorgan"
+  },
+  {
+    "en": "Bartley Green",
+    "en:t": "United Kingdom | Birmingham",
+    "a": true,
+    "g": {
+      "lat": 52.4364,
+      "lon": -1.9957
+    },
+    "it": "Bartley Green",
+    "it:t": "Regno Unito | Birmingham",
+    "es": "Bartley Green",
+    "es:t": "Reino Unido | Birmingham",
+    "de": "Bartley Green",
+    "de:t": "Vereinigtes Königreich | Birmingham"
+  },
+  {
+    "en": "Basildon",
+    "en:t": "United Kingdom",
+    "a": true,
+    "g": {
+      "lat": 51.5761,
+      "lon": 0.4887
+    },
+    "it": "Basildon",
+    "it:t": "Regno Unito",
+    "es": "Basildon",
+    "es:t": "Reino Unido",
+    "de": "Basildon",
+    "de:t": "Vereinigtes Königreich"
+  },
+  {
+    "en": "Basingstoke",
+    "en:t": "United Kingdom",
+    "a": true,
+    "g": {
+      "lat": 51.2665,
+      "lon": -1.0924
+    },
+    "it": "Basingstoke",
+    "it:t": "Regno Unito",
+    "es": "Basingstoke",
+    "es:t": "Reino Unido",
+    "de": "Basingstoke",
+    "de:t": "Vereinigtes Königreich"
+  },
+  {
+    "en": "Bath",
+    "en:t": "United Kingdom",
+    "a": true,
+    "g": {
+      "lat": 51.3811,
+      "lon": -2.359
+    },
+    "it": "Bath",
+    "it:t": "Regno Unito",
+    "es": "Bath",
+    "es:t": "Reino Unido",
+    "de": "Bath",
+    "de:t": "Vereinigtes Königreich"
+  },
+  {
+    "en": "Bathgate",
+    "en:t": "United Kingdom",
+    "a": true,
+    "g": {
+      "lat": 55.9024,
+      "lon": -3.6431
+    },
+    "it": "Bathgate",
+    "it:t": "Regno Unito",
+    "es": "Bathgate",
+    "es:t": "Reino Unido",
+    "de": "Bathgate",
+    "de:t": "Vereinigtes Königreich"
+  },
+  {
+    "en": "Batley",
+    "en:t": "United Kingdom | West Yorkshire",
+    "a": true,
+    "g": {
+      "lat": 53.717,
+      "lon": -1.6351
+    },
+    "it": "Batley",
+    "it:t": "Regno Unito | West Yorkshire",
+    "es": "Batley",
+    "es:t": "Reino Unido | Yorkshire del Oeste",
+    "de": "Batley",
+    "de:t": "Vereinigtes Königreich | West Yorkshire"
+  },
+  {
+    "en": "Battersea",
+    "en:t": "United Kingdom | London",
+    "a": true,
+    "g": {
+      "lat": 51.4722,
+      "lon": -0.1655
+    },
+    "it": "Battersea",
+    "it:t": "Regno Unito | Londra",
+    "es": "Battersea",
+    "es:t": "Reino Unido | Londres",
+    "de": "Battersea",
+    "de:t": "Vereinigtes Königreich | London"
+  },
+  {
+    "en": "Bayswater",
+    "en:t": "United Kingdom | London",
+    "a": true,
+    "g": {
+      "lat": 51.5135,
+      "lon": -0.1866
+    },
+    "it": "Bayswater",
+    "it:t": "Regno Unito | London",
+    "es": "Bayswater",
+    "es:t": "Reino Unido | Londres",
+    "de": "Bayswater",
+    "de:t": "Vereinigtes Königreich | London"
+  },
+  {
+    "en": "Bearsden",
+    "en:t": "United Kingdom | Glasgow",
+    "a": true,
+    "g": {
+      "lat": 55.9217,
+      "lon": -4.3355
+    },
+    "it": "Bearsden",
+    "it:t": "Regno Unito | Glasgow",
+    "es": "Bearsden",
+    "es:t": "Reino Unido | Glasgow",
+    "de": "Bearsden",
+    "de:t": "Vereinigtes Königreich | Glasgow"
+  },
+  {
+    "en": "Bebington",
+    "en:t": "United Kingdom | Wirral",
+    "a": true,
+    "g": {
+      "lat": 53.353,
+      "lon": -3.0075
+    },
+    "it": "Bebington",
+    "it:t": "Regno Unito | Wirral",
+    "es": "Bebington",
+    "es:t": "Reino Unido | Wirral",
+    "de": "Bebington",
+    "de:t": "Vereinigtes Königreich | Wirral"
+  },
+  {
+    "en": "Beckenham",
+    "en:t": "United Kingdom | Greater London",
+    "a": true,
+    "g": {
+      "lat": 51.4082,
+      "lon": -0.0258
+    },
+    "it": "Beckenham",
+    "it:t": "Regno Unito | Greater London",
+    "es": "Beckenham",
+    "es:t": "Reino Unido | Gran Londres",
+    "de": "Beckenham",
+    "de:t": "Vereinigtes Königreich | Greater London"
+  },
+  {
+    "en": "Becontree",
+    "en:t": "United Kingdom | Dagenham",
+    "a": true,
+    "g": {
+      "lat": 51.5626,
+      "lon": 0.1224
+    },
+    "it": "Becontree",
+    "it:t": "Regno Unito | Dagenham",
+    "es": "Becontree",
+    "es:t": "Reino Unido | Dagenham",
+    "de": "Becontree",
+    "de:t": "Vereinigtes Königreich | Dagenham"
+  },
+  {
+    "en": "Bedfordshire",
+    "en:t": "United Kingdom",
+    "a": true,
+    "g": {
+      "lat": 52.0627,
+      "lon": -0.5292
+    },
+    "it": "Bedford",
+    "it:t": "Regno Unito",
+    "es": "Bedford",
+    "es:t": "Reino Unido",
+    "de": "Borough of Bedford",
+    "de:t": "Vereinigtes Königreich"
+  },
+  {
+    "en": "Bedlington",
+    "en:t": "United Kingdom",
+    "a": true,
+    "g": {
+      "lat": 55.1317,
+      "lon": -1.5995
+    },
+    "it": "Bedlington",
+    "it:t": "Regno Unito",
+    "es": "Bedlington",
+    "es:t": "Reino Unido",
+    "de": "Bedlington",
+    "de:t": "Vereinigtes Königreich"
+  },
+  {
+    "en": "Bedworth",
+    "en:t": "United Kingdom | Warwickshire",
+    "a": true,
+    "g": {
+      "lat": 52.4814,
+      "lon": -1.4689
+    },
+    "it": "Bedworth",
+    "it:t": "Regno Unito | Warwickshire",
+    "es": "Bedworth",
+    "es:t": "Reino Unido | Warwickshire",
+    "de": "Bedworth",
+    "de:t": "Vereinigtes Königreich | Warwickshire"
+  },
+  {
+    "en": "Belfast",
+    "en:t": "United Kingdom",
+    "a": true,
+    "g": {
+      "lat": 54.5973,
+      "lon": -5.9301
+    },
+    "it": "Belfast",
+    "it:t": "Regno Unito",
+    "es": "Belfast",
+    "es:t": "Reino Unido",
+    "de": "Belfast",
+    "de:t": "Vereinigtes Königreich"
+  },
+  {
+    "en": "Bellshill",
+    "en:t": "United Kingdom | North Lanarkshire",
+    "a": true,
+    "g": {
+      "lat": 55.8168,
+      "lon": -4.0265
+    },
+    "it": "Bellshill",
+    "it:t": "Regno Unito | Lanarkshire Settentrionale",
+    "es": "Bellshill",
+    "es:t": "Reino Unido | Lanarkshire Norte",
+    "de": "Bellshill",
+    "de:t": "Vereinigtes Königreich | North Lanarkshire"
+  },
+  {
+    "en": "Belper",
+    "en:t": "United Kingdom",
+    "a": true,
+    "g": {
+      "lat": 53.0244,
+      "lon": -1.4776
+    },
+    "it": "Belper",
+    "it:t": "Regno Unito",
+    "es": "Belper",
+    "es:t": "Reino Unido",
+    "de": "Belper",
+    "de:t": "Vereinigtes Königreich"
+  },
+  {
+    "en": "Bentley",
+    "en:t": "United Kingdom | Farnham",
+    "a": true,
+    "g": {
+      "lat": 51.1883,
+      "lon": -0.8781
+    },
+    "it": "Bentley",
+    "it:t": "Regno Unito | Farnham",
+    "es": "Bentley",
+    "es:t": "Reino Unido | Farnham",
+    "de": "Pyms Lane",
+    "de:t": "Vereinigtes Königreich | Crewe"
+  },
+  {
+    "en": "Berkhamsted",
+    "en:t": "United Kingdom",
+    "a": true,
+    "g": {
+      "lat": 51.7598,
+      "lon": -0.5679
+    },
+    "it": "Berkhamsted",
+    "it:t": "Regno Unito",
+    "es": "Berkhamsted",
+    "es:t": "Reino Unido",
+    "de": "Berkhamsted",
+    "de:t": "Vereinigtes Königreich"
+  },
+  {
+    "en": "Berwick-upon-Tweed",
+    "en:t": "United Kingdom | Northumberland",
+    "a": true,
+    "g": {
+      "lat": 55.7702,
+      "lon": -2.0054
+    },
+    "it": "Berwick-upon-Tweed",
+    "it:t": "Regno Unito | Northumberland",
+    "es": "Berwick-upon-Tweed",
+    "es:t": "Reino Unido | Northumberland",
+    "de": "Berwick-upon-Tweed",
+    "de:t": "Vereinigtes Königreich | Northumberland"
+  },
+  {
+    "en": "Bethnal Green",
+    "en:t": "United Kingdom | London",
+    "a": true,
+    "g": {
+      "lat": 51.5311,
+      "lon": -0.0481
+    },
+    "it": "Bethnal Green",
+    "it:t": "Regno Unito | Londra",
+    "es": "Bethnal Green",
+    "es:t": "Reino Unido | Londres",
+    "de": "Bethnal Green",
+    "de:t": "Vereinigtes Königreich | London"
+  },
+  {
+    "en": "Beverley",
+    "en:t": "United Kingdom",
+    "a": true,
+    "g": {
+      "lat": 53.842,
+      "lon": -0.4351
+    },
+    "it": "Beverley",
+    "it:t": "Regno Unito",
+    "es": "Beverley",
+    "es:t": "Reino Unido",
+    "de": "Beverley",
+    "de:t": "Vereinigtes Königreich"
+  },
+  {
+    "en": "Bexhill",
+    "en:t": "United Kingdom",
+    "a": true,
+    "g": {
+      "lat": 50.8499,
+      "lon": 0.4662
+    },
+    "it": "Bexhill",
+    "it:t": "Regno Unito",
+    "es": "Bexhill",
+    "es:t": "Reino Unido",
+    "de": "Bexhill",
+    "de:t": "Vereinigtes Königreich"
+  },
+  {
+    "en": "Bicester",
+    "en:t": "United Kingdom",
+    "a": true,
+    "g": {
+      "lat": 51.8996,
+      "lon": -1.1536
+    },
+    "it": "Bicester",
+    "it:t": "Regno Unito",
+    "es": "Bicester",
+    "es:t": "Reino Unido",
+    "de": "Bicester",
+    "de:t": "Vereinigtes Königreich"
+  },
+  {
+    "en": "Biddulph",
+    "en:t": "United Kingdom | Stoke-on-Trent",
+    "a": true,
+    "g": {
+      "lat": 53.1192,
+      "lon": -2.1716
+    },
+    "it": "Biddulph",
+    "it:t": "Regno Unito | Stoke-on-Trent",
+    "es": "Biddulph",
+    "es:t": "Reino Unido | Stoke-on-Trent",
+    "de": "Biddulph",
+    "de:t": "Vereinigtes Königreich | Stoke-on-Trent"
+  },
+  {
+    "en": "Bideford",
+    "en:t": "United Kingdom | Devon",
+    "a": true,
+    "g": {
+      "lat": 51.0167,
+      "lon": -4.2067
+    },
+    "it": "Bideford",
+    "it:t": "Regno Unito | Devon",
+    "es": "Bideford",
+    "es:t": "Reino Unido | Devon",
+    "de": "Bideford",
+    "de:t": "Vereinigtes Königreich | Devon"
+  },
+  {
+    "en": "Biggleswade",
+    "en:t": "United Kingdom",
+    "a": true,
+    "g": {
+      "lat": 52.0869,
+      "lon": -0.2642
+    },
+    "it": "Biggleswade",
+    "it:t": "Regno Unito",
+    "es": "Biggleswade",
+    "es:t": "Reino Unido",
+    "de": "Biggleswade",
+    "de:t": "Vereinigtes Königreich"
+  },
+  {
+    "en": "Billericay",
+    "en:t": "United Kingdom",
+    "a": true,
+    "g": {
+      "lat": 51.6279,
+      "lon": 0.4184
+    },
+    "it": "Billericay",
+    "it:t": "Regno Unito",
+    "es": "Billericay",
+    "es:t": "Reino Unido",
+    "de": "Billericay",
+    "de:t": "Vereinigtes Königreich"
+  },
+  {
+    "en": "Billingham",
+    "en:t": "United Kingdom | Stockton-on-Tees",
+    "a": true,
+    "g": {
+      "lat": 54.6125,
+      "lon": -1.291
+    },
+    "it": "Billingham",
+    "it:t": "Regno Unito | Stockton-on-Tees",
+    "es": "Billingham",
+    "es:t": "Reino Unido | Stockton-on-Tees",
+    "de": "Billingham",
+    "de:t": "Vereinigtes Königreich | Stockton-on-Tees"
+  },
+  {
+    "en": "Bingley",
+    "en:t": "United Kingdom | West Yorkshire",
+    "a": true,
+    "g": {
+      "lat": 53.8474,
+      "lon": -1.8338
+    },
+    "it": "Bingley",
+    "it:t": "Regno Unito | West Yorkshire",
+    "es": "Bingley",
+    "es:t": "Reino Unido | Yorkshire del Oeste",
+    "de": "Bingley",
+    "de:t": "Vereinigtes Königreich | West Yorkshire"
+  },
+  {
+    "en": "Birkenhead",
+    "en:t": "United Kingdom | Merseyside",
+    "a": true,
+    "g": {
+      "lat": 53.39,
+      "lon": -3.023
+    },
+    "it": "Birkenhead",
+    "it:t": "Regno Unito | Merseyside",
+    "es": "Birkenhead",
+    "es:t": "Reino Unido | Merseyside",
+    "de": "Birkenhead",
+    "de:t": "Vereinigtes Königreich | Merseyside"
+  },
+  {
+    "en": "Birmingham",
+    "en:t": "United Kingdom",
+    "a": true,
+    "g": {
+      "lat": 52.4862,
+      "lon": -1.8904
+    },
+    "it": "Birmingham",
+    "it:t": "Regno Unito",
+    "es": "Birmingham",
+    "es:t": "Reino Unido",
+    "de": "Birmingham",
+    "de:t": "Vereinigtes Königreich"
+  },
+  {
+    "en": "Bishop Auckland",
+    "en:t": "United Kingdom",
+    "a": true,
+    "g": {
+      "lat": 54.6638,
+      "lon": -1.6788
+    },
+    "it": "Bishop Auckland",
+    "it:t": "Regno Unito",
+    "es": "Bishop Auckland",
+    "es:t": "Reino Unido",
+    "de": "Bishop Auckland",
+    "de:t": "Vereinigtes Königreich"
+  },
+  {
+    "en": "Bishop's Stortford",
+    "en:t": "United Kingdom",
+    "a": true,
+    "g": {
+      "lat": 51.8722,
+      "lon": 0.1537
+    },
+    "it": "Bishop's Stortford",
+    "it:t": "Regno Unito",
+    "es": "Bishop's Stortford",
+    "es:t": "Reino Unido",
+    "de": "Bishop's Stortford",
+    "de:t": "Vereinigtes Königreich"
+  },
+  {
+    "en": "Bishopbriggs",
+    "en:t": "United Kingdom | Glasgow",
+    "a": true,
+    "g": {
+      "lat": 55.9042,
+      "lon": -4.2285
+    },
+    "it": "Bishopbriggs",
+    "it:t": "Regno Unito | Glasgow",
+    "es": "Bishopbriggs",
+    "es:t": "Reino Unido | Glasgow",
+    "de": "Bishopbriggs",
+    "de:t": "Vereinigtes Königreich | Glasgow"
+  },
+  {
+    "en": "Bishopstoke",
+    "en:t": "United Kingdom | Eastleigh",
+    "a": true,
+    "g": {
+      "lat": 50.9708,
+      "lon": -1.3358
+    },
+    "it": "Bishopstoke",
+    "it:t": "Regno Unito | Eastleigh",
+    "es": "Bishopstoke",
+    "es:t": "Reino Unido | Eastleigh",
+    "de": "Bishopstoke",
+    "de:t": "Vereinigtes Königreich | Eastleigh"
+  },
+  {
+    "en": "Blackburn",
+    "en:t": "United Kingdom | Blackburn with Darwen",
+    "a": true,
+    "g": {
+      "lat": 53.7486,
+      "lon": -2.4875
+    },
+    "it": "Blackburn",
+    "it:t": "Regno Unito | Blackburn with Darwen",
+    "es": "Blackburn",
+    "es:t": "Reino Unido | Blackburn con Darwen",
+    "de": "Blackburn",
+    "de:t": "Vereinigtes Königreich | Blackburn with Darwen"
+  },
+  {
+    "en": "Blackheath",
+    "en:t": "United Kingdom | London",
+    "a": true,
+    "g": {
+      "lat": 51.4658,
+      "lon": 0.009
+    },
+    "it": "Blackheath",
+    "it:t": "Regno Unito | Londra",
+    "es": "Blackheath",
+    "es:t": "Reino Unido | Londres",
+    "de": "Blackheath",
+    "de:t": "Vereinigtes Königreich | London"
+  },
+  {
+    "en": "Blackpool",
+    "en:t": "United Kingdom | England",
+    "a": true,
+    "g": {
+      "lat": 53.8175,
+      "lon": -3.0357
+    },
+    "it": "Blackpool",
+    "it:t": "Regno Unito | Inghilterra",
+    "es": "Blackpool",
+    "es:t": "Reino Unido | Inglaterra",
+    "de": "Blackpool",
+    "de:t": "Vereinigtes Königreich | England"
+  },
+  {
+    "en": "Blackwood",
+    "en:t": "United Kingdom",
+    "a": true,
+    "g": {
+      "lat": 51.6689,
+      "lon": -3.1958
+    },
+    "it": "Blackwood",
+    "it:t": "Regno Unito",
+    "es": "Blackwood",
+    "es:t": "Reino Unido",
+    "de": "Blackwood",
+    "de:t": "Vereinigtes Königreich"
+  },
+  {
+    "en": "Bletchley",
+    "en:t": "United Kingdom | Milton Keynes",
+    "a": true,
+    "g": {
+      "lat": 52.0022,
+      "lon": -0.7501
+    },
+    "it": "Bletchley",
+    "it:t": "Regno Unito | Milton Keynes",
+    "es": "Bletchley",
+    "es:t": "Reino Unido | Milton Keynes",
+    "de": "Bletchley",
+    "de:t": "Vereinigtes Königreich | Milton Keynes"
+  },
+  {
+    "en": "Bloxwich",
+    "en:t": "United Kingdom | Walsall",
+    "a": true,
+    "g": {
+      "lat": 52.6165,
+      "lon": -1.9976
+    },
+    "it": "Bloxwich",
+    "it:t": "Regno Unito | Walsall",
+    "es": "Bloxwich",
+    "es:t": "Reino Unido | Walsall",
+    "de": "Bloxwich",
+    "de:t": "Vereinigtes Königreich | Walsall"
+  },
+  {
+    "en": "Blyth",
+    "en:t": "United Kingdom | Northumberland",
+    "a": true,
+    "g": {
+      "lat": 55.127,
+      "lon": -1.5103
+    },
+    "it": "Blyth",
+    "it:t": "Regno Unito | Northumberland",
+    "es": "Blyth",
+    "es:t": "Reino Unido | Northumberland",
+    "de": "Blyth",
+    "de:t": "Vereinigtes Königreich | Northumberland"
+  },
+  {
+    "en": "Bognor Regis",
+    "en:t": "United Kingdom | West Sussex",
+    "a": true,
+    "g": {
+      "lat": 50.783,
+      "lon": -0.6731
+    },
+    "it": "Bognor Regis",
+    "it:t": "Regno Unito | West Sussex",
+    "es": "Bognor Regis",
+    "es:t": "Reino Unido | Sussex Occidental",
+    "de": "Bognor Regis",
+    "de:t": "Vereinigtes Königreich | West Sussex"
+  },
+  {
+    "en": "Bolton",
+    "en:t": "United Kingdom",
+    "a": true,
+    "g": {
+      "lat": 53.5769,
+      "lon": -2.4282
+    },
+    "it": "Bolton",
+    "it:t": "Regno Unito",
+    "es": "Bolton",
+    "es:t": "Reino Unido",
+    "de": "Bolton",
+    "de:t": "Vereinigtes Königreich"
+  },
+  {
+    "en": "Bootle",
+    "en:t": "United Kingdom | Merseyside",
+    "a": true,
+    "g": {
+      "lat": 53.4433,
+      "lon": -2.9989
+    },
+    "it": "Bootle",
+    "it:t": "Regno Unito | Merseyside",
+    "es": "Bootle",
+    "es:t": "Reino Unido | Merseyside",
+    "de": "Bootle",
+    "de:t": "Vereinigtes Königreich | Merseyside"
+  },
+  {
+    "en": "Borehamwood",
+    "en:t": "United Kingdom | Hertfordshire",
+    "a": true,
+    "g": {
+      "lat": 51.6577,
+      "lon": -0.2723
+    },
+    "it": "Borehamwood",
+    "it:t": "Regno Unito | Hertfordshire",
+    "es": "Borehamwood",
+    "es:t": "Reino Unido | Hertfordshire",
+    "de": "Borehamwood",
+    "de:t": "Vereinigtes Königreich | Hertfordshire"
+  },
+  {
+    "en": "Boston",
+    "en:t": "United Kingdom",
+    "a": true,
+    "g": {
+      "lat": 52.9789,
+      "lon": -0.0266
+    },
+    "it": "Boston",
+    "it:t": "Regno Unito",
+    "es": "Boston",
+    "es:t": "Reino Unido",
+    "de": "Boston",
+    "de:t": "Vereinigtes Königreich"
+  },
+  {
+    "en": "Bournemouth",
+    "en:t": "United Kingdom",
+    "a": true,
+    "g": {
+      "lat": 50.7192,
+      "lon": -1.8808
+    },
+    "it": "Bournemouth",
+    "it:t": "Regno Unito",
+    "es": "Bournemouth",
+    "es:t": "Reino Unido",
+    "de": "Bournemouth",
+    "de:t": "Vereinigtes Königreich"
+  },
+  {
+    "en": "Bowthorpe",
+    "en:t": "United Kingdom | Norwich",
+    "a": true,
+    "g": {
+      "lat": 52.6379,
+      "lon": 1.2158
+    },
+    "it": "Bowthorpe",
+    "it:t": "Regno Unito | Norwich",
+    "es": "Bowthorpe",
+    "es:t": "Reino Unido | Norwich",
+    "de": "Bowthorpe",
+    "de:t": "Vereinigtes Königreich | Norwich"
+  },
+  {
+    "en": "Bracknell",
+    "en:t": "United Kingdom | Bracknell Forest",
+    "a": true,
+    "g": {
+      "lat": 51.416,
+      "lon": -0.754
+    },
+    "it": "Bracknell",
+    "it:t": "Regno Unito | Foresta di Bracknell",
+    "es": "Bracknell",
+    "es:t": "Reino Unido | Bracknell Forest",
+    "de": "Bracknell",
+    "de:t": "Vereinigtes Königreich | Bracknell Forest"
+  },
+  {
+    "en": "Bradford",
+    "en:t": "United Kingdom",
+    "a": true,
+    "g": {
+      "lat": 53.796,
+      "lon": -1.7594
+    },
+    "it": "Bradford",
+    "it:t": "Regno Unito",
+    "es": "Bradford",
+    "es:t": "Reino Unido",
+    "de": "Bradford",
+    "de:t": "Vereinigtes Königreich"
+  },
+  {
+    "en": "Braintree",
+    "en:t": "United Kingdom | Essex",
+    "a": true,
+    "g": {
+      "lat": 51.8801,
+      "lon": 0.5509
+    },
+    "it": "Braintree",
+    "it:t": "Regno Unito | Essex",
+    "es": "Braintree",
+    "es:t": "Reino Unido | Essex",
+    "de": "Braintree",
+    "de:t": "Vereinigtes Königreich | Essex"
+  },
+  {
+    "en": "Bramhall",
+    "en:t": "United Kingdom | Stockport",
+    "a": true,
+    "g": {
+      "lat": 53.3676,
+      "lon": -2.1641
+    },
+    "it": "Bramhall",
+    "it:t": "Regno Unito | Stockport",
+    "es": "Bramhall",
+    "es:t": "Reino Unido | Stockport",
+    "de": "Bramhall",
+    "de:t": "Vereinigtes Königreich | Stockport"
+  },
+  {
+    "en": "Bredbury",
+    "en:t": "United Kingdom | Stockport",
+    "a": true,
+    "g": {
+      "lat": 53.4236,
+      "lon": -2.1138
+    },
+    "it": "Bredbury",
+    "it:t": "Regno Unito | Stockport",
+    "es": "Bredbury",
+    "es:t": "Reino Unido | Stockport",
+    "de": "Bredbury",
+    "de:t": "Vereinigtes Königreich | Stockport"
+  },
+  {
+    "en": "Brentwood",
+    "en:t": "United Kingdom",
+    "a": true,
+    "g": {
+      "lat": 51.6205,
+      "lon": 0.3072
+    },
+    "it": "Brentwood",
+    "it:t": "Regno Unito",
+    "es": "Brentwood",
+    "es:t": "Reino Unido",
+    "de": "Brentwood",
+    "de:t": "Vereinigtes Königreich"
+  },
+  {
+    "en": "Bridgend",
+    "en:t": "United Kingdom",
+    "a": true,
+    "g": {
+      "lat": 51.5043,
+      "lon": -3.5769
+    },
+    "it": "Bridgend",
+    "it:t": "Regno Unito",
+    "es": "Bridgend",
+    "es:t": "Reino Unido",
+    "de": "Bridgend",
+    "de:t": "Vereinigtes Königreich"
+  },
+  {
+    "en": "Bridgwater",
+    "en:t": "United Kingdom",
+    "a": true,
+    "g": {
+      "lat": 51.1279,
+      "lon": -3.0036
+    },
+    "it": "Bridgwater",
+    "it:t": "Regno Unito",
+    "es": "Bridgwater",
+    "es:t": "Reino Unido",
+    "de": "Bridgwater",
+    "de:t": "Vereinigtes Königreich"
+  },
+  {
+    "en": "Bridlington",
+    "en:t": "United Kingdom | East Riding of Yorkshire",
+    "a": true,
+    "g": {
+      "lat": 54.0853,
+      "lon": -0.1988
+    },
+    "it": "Bridlington",
+    "it:t": "Regno Unito | East Riding of Yorkshire",
+    "es": "Bridlington",
+    "es:t": "Reino Unido | Yorkshire Oriental",
+    "de": "Bridlington",
+    "de:t": "Vereinigtes Königreich | East Riding of Yorkshire"
+  },
+  {
+    "en": "Brierley Hill",
+    "en:t": "United Kingdom | West Midlands",
+    "a": true,
+    "g": {
+      "lat": 52.4822,
+      "lon": -2.1203
+    },
+    "it": "Brierley Hill",
+    "it:t": "Regno Unito | West Midlands",
+    "es": "Brierley Hill",
+    "es:t": "Reino Unido | Midlands Occidentales",
+    "de": "Brierley Hill",
+    "de:t": "Vereinigtes Königreich | West Midlands"
+  },
+  {
+    "en": "Brighouse",
+    "en:t": "United Kingdom | West Yorkshire",
+    "a": true,
+    "g": {
+      "lat": 53.6997,
+      "lon": -1.7825
+    },
+    "it": "Brighouse",
+    "it:t": "Regno Unito | West Yorkshire",
+    "es": "Brighouse",
+    "es:t": "Reino Unido | Yorkshire del Oeste",
+    "de": "Brighouse",
+    "de:t": "Vereinigtes Königreich | West Yorkshire"
+  },
+  {
+    "en": "Brighton",
+    "en:t": "United Kingdom | Brighton and Hove",
+    "a": true,
+    "g": {
+      "lat": 50.8225,
+      "lon": -0.1372
+    },
+    "it": "Brighton",
+    "it:t": "Regno Unito | Brighton & Hove",
+    "es": "Brighton",
+    "es:t": "Reino Unido | Brighton & Hove",
+    "de": "Brighton",
+    "de:t": "Vereinigtes Königreich | Brighton and Hove"
+  },
+  {
+    "en": "Bristol",
+    "en:t": "United Kingdom",
+    "a": true,
+    "g": {
+      "lat": 51.4545,
+      "lon": -2.5879
+    },
+    "it": "Bristol",
+    "it:t": "Regno Unito",
+    "es": "Brístol",
+    "es:t": "Reino Unido",
+    "de": "Bristol",
+    "de:t": "Vereinigtes Königreich"
+  },
+  {
+    "en": "Briton Ferry",
+    "en:t": "United Kingdom | Neath",
+    "a": true,
+    "g": {
+      "lat": 51.6321,
+      "lon": -3.8243
+    },
+    "it": "Briton Ferry",
+    "it:t": "Regno Unito | Neath",
+    "es": "Briton Ferry",
+    "es:t": "Reino Unido | Neath",
+    "de": "Briton Ferry",
+    "de:t": "Vereinigtes Königreich | Neath"
+  },
+  {
+    "en": "Brixham",
+    "en:t": "United Kingdom",
+    "a": true,
+    "g": {
+      "lat": 50.3951,
+      "lon": -3.5139
+    },
+    "it": "Brixham",
+    "it:t": "Regno Unito",
+    "es": "Brixham",
+    "es:t": "Reino Unido",
+    "de": "Brixham",
+    "de:t": "Vereinigtes Königreich"
+  },
+  {
+    "en": "Broadstairs",
+    "en:t": "United Kingdom | Kent",
+    "a": true,
+    "g": {
+      "lat": 51.3602,
+      "lon": 1.432
+    },
+    "it": "Broadstairs",
+    "it:t": "Regno Unito | Kent",
+    "es": "Broadstairs",
+    "es:t": "Reino Unido | Kent",
+    "de": "Broadstairs",
+    "de:t": "Vereinigtes Königreich | Kent"
+  },
+  {
+    "en": "Bromsgrove",
+    "en:t": "United Kingdom",
+    "a": true,
+    "g": {
+      "lat": 52.3356,
+      "lon": -2.0619
+    },
+    "it": "Bromsgrove",
+    "it:t": "Regno Unito",
+    "es": "Bromsgrove",
+    "es:t": "Reino Unido",
+    "de": "Bromsgrove",
+    "de:t": "Vereinigtes Königreich"
+  },
+  {
+    "en": "Brownhills",
+    "en:t": "United Kingdom | Walsall",
+    "a": true,
+    "g": {
+      "lat": 52.6461,
+      "lon": -1.9311
+    },
+    "it": "Brownhills",
+    "it:t": "Regno Unito | Walsall",
+    "es": "Brownhills",
+    "es:t": "Reino Unido | Walsall",
+    "de": "Brownhills",
+    "de:t": "Vereinigtes Königreich | Walsall"
+  },
+  {
+    "en": "Brymbo",
+    "en:t": "United Kingdom | Wrexham",
+    "a": true,
+    "g": {
+      "lat": 53.0756,
+      "lon": -3.0576
+    },
+    "it": "Brymbo",
+    "it:t": "Regno Unito | Wrexham",
+    "es": "Brymbo",
+    "es:t": "Reino Unido | Wrexham",
+    "de": "Brymbo",
+    "de:t": "Vereinigtes Königreich | Wrexham"
+  },
+  {
+    "en": "Buckhaven",
+    "en:t": "United Kingdom | Leven",
+    "a": true,
+    "g": {
+      "lat": 56.1745,
+      "lon": -3.0308
+    },
+    "it": "Buckhaven",
+    "it:t": "Regno Unito | Leven",
+    "es": "Buckhaven",
+    "es:t": "Reino Unido | Leven",
+    "de": "Buckhaven",
+    "de:t": "Vereinigtes Königreich | Leven"
+  },
+  {
+    "en": "Buckley",
+    "en:t": "United Kingdom | Flintshire",
+    "a": true,
+    "g": {
+      "lat": 53.1701,
+      "lon": -3.0815
+    },
+    "it": "Buckley",
+    "it:t": "Regno Unito | Flintshire",
+    "es": "Buckley",
+    "es:t": "Reino Unido | Flintshire",
+    "de": "Buckley",
+    "de:t": "Vereinigtes Königreich | Flintshire"
+  },
+  {
+    "en": "Burgess Hill",
+    "en:t": "United Kingdom | West Sussex",
+    "a": true,
+    "g": {
+      "lat": 50.9545,
+      "lon": -0.1287
+    },
+    "it": "Burgess Hill",
+    "it:t": "Regno Unito | West Sussex",
+    "es": "Burgess Hill",
+    "es:t": "Reino Unido | Sussex Occidental",
+    "de": "Burgess Hill",
+    "de:t": "Vereinigtes Königreich | West Sussex"
+  },
+  {
+    "en": "Burnham",
+    "en:t": "United Kingdom | Somerset",
+    "a": true,
+    "g": {
+      "lat": 51.2401,
+      "lon": -2.9939
+    },
+    "it": "Burnham",
+    "it:t": "Regno Unito | Somerset",
+    "es": "Burnham",
+    "es:t": "Reino Unido | Somerset",
+    "de": "Burnham",
+    "de:t": "Vereinigtes Königreich | Somerset"
+  },
+  {
+    "en": "Burnley",
+    "en:t": "United Kingdom",
+    "a": true,
+    "g": {
+      "lat": 53.7893,
+      "lon": -2.2405
+    },
+    "it": "Burnley",
+    "it:t": "Regno Unito",
+    "es": "Burnley",
+    "es:t": "Reino Unido",
+    "de": "Burnley",
+    "de:t": "Vereinigtes Königreich"
+  },
+  {
+    "en": "Burntwood",
+    "en:t": "United Kingdom | Staffordshire",
+    "a": true,
+    "g": {
+      "lat": 52.6799,
+      "lon": -1.9218
+    },
+    "it": "Burntwood",
+    "it:t": "Regno Unito | Staffordshire",
+    "es": "Burntwood",
+    "es:t": "Reino Unido | Staffordshire",
+    "de": "Burntwood",
+    "de:t": "Vereinigtes Königreich | Staffordshire"
+  },
+  {
+    "en": "Burton upon Trent",
+    "en:t": "United Kingdom",
+    "a": true,
+    "g": {
+      "lat": 52.814,
+      "lon": -1.6371
+    },
+    "it": "Burton upon Trent",
+    "it:t": "Regno Unito",
+    "es": "Burton upon Trent",
+    "es:t": "Reino Unido",
+    "de": "Burton-upon-Trent",
+    "de:t": "Vereinigtes Königreich"
+  },
+  {
+    "en": "Bury",
+    "en:t": "United Kingdom | Greater Manchester",
+    "a": true,
+    "g": {
+      "lat": 53.5933,
+      "lon": -2.2966
+    },
+    "it": "Bury",
+    "it:t": "Regno Unito | Greater Manchester",
+    "es": "Bury",
+    "es:t": "Reino Unido | Gran Mánchester",
+    "de": "Bury",
+    "de:t": "Vereinigtes Königreich | Greater Manchester"
+  },
+  {
+    "en": "Bury St Edmunds",
+    "en:t": "United Kingdoms",
+    "a": true,
+    "g": {
+      "lat": 52.2429,
+      "lon": 0.7105
+    },
+    "it": "Bury St Edmunds",
+    "it:t": "Regno Unito",
+    "es": "Bury St Edmunds",
+    "es:t": "Reino Unido",
+    "de": "Bury St Edmunds",
+    "de:t": "Vereinigtes Königreich"
+  },
+  {
+    "en": "Bushey",
+    "en:t": "United Kingdom | Hertfordshire",
+    "a": true,
+    "g": {
+      "lat": 51.6476,
+      "lon": -0.3584
+    },
+    "it": "Bushey",
+    "it:t": "Regno Unito | Hertfordshire",
+    "es": "Bushey",
+    "es:t": "Reino Unido | Hertfordshire",
+    "de": "Bushey",
+    "de:t": "Vereinigtes Königreich | Hertfordshire"
+  },
+  {
+    "en": "Buxton",
+    "en:t": "United Kingdom",
+    "a": true,
+    "g": {
+      "lat": 53.2591,
+      "lon": -1.9148
+    },
+    "it": "Buxton",
+    "it:t": "Regno Unito",
+    "es": "Buxton",
+    "es:t": "Reino Unido",
+    "de": "Buxton",
+    "de:t": "Vereinigtes Königreich"
+  },
+  {
+    "en": "Caerphilly",
+    "en:t": "United Kingdom",
+    "a": true,
+    "g": {
+      "lat": 51.5788,
+      "lon": -3.2181
+    },
+    "it": "Caerphilly",
+    "it:t": "Regno Unito",
+    "es": "Caerphilly",
+    "es:t": "Reino Unido",
+    "de": "Caerphilly",
+    "de:t": "Vereinigtes Königreich"
+  },
+  {
+    "en": "Camberley",
+    "en:t": "United Kingdom",
+    "a": true,
+    "g": {
+      "lat": 51.3354,
+      "lon": -0.7429
+    },
+    "it": "Camberley",
+    "it:t": "Regno Unito",
+    "es": "Camberley",
+    "es:t": "Reino Unido",
+    "de": "Camberley",
+    "de:t": "Vereinigtes Königreich"
+  },
+  {
+    "en": "Camborne",
+    "en:t": "United Kingdom | Cornwall",
+    "a": true,
+    "g": {
+      "lat": 50.2128,
+      "lon": -5.2948
+    },
+    "it": "Camborne",
+    "it:t": "Regno Unito | Cornovaglia",
+    "es": "Camborne",
+    "es:t": "Reino Unido | Cornualles",
+    "de": "Camborne",
+    "de:t": "Vereinigtes Königreich | Cornwall"
+  },
+  {
+    "en": "Cambridge",
+    "en:t": "United Kingdom",
+    "a": true,
+    "g": {
+      "lat": 52.2053,
+      "lon": 0.1218
+    },
+    "it": "Cambridge",
+    "it:t": "Regno Unito",
+    "es": "Cambridge",
+    "es:t": "Reino Unido",
+    "de": "Cambridge",
+    "de:t": "Vereinigtes Königreich"
+  },
+  {
+    "en": "Camden Town",
+    "en:t": "United Kingdom | London",
+    "a": true,
+    "g": {
+      "lat": 51.539,
+      "lon": -0.1426
+    },
+    "it": "Camden Town",
+    "it:t": "Regno Unito | Londra",
+    "es": "Camden Town",
+    "es:t": "Reino Unido | Londres",
+    "de": "Camden Town",
+    "de:t": "Vereinigtes Königreich | London"
+  },
+  {
+    "en": "Canary Wharf",
+    "en:t": "United Kingdom | London",
+    "a": true,
+    "g": {
+      "lat": 51.5054,
+      "lon": -0.0235
+    },
+    "it": "Canary Wharf",
+    "it:t": "Regno Unito | Londra",
+    "es": "Canary Wharf",
+    "es:t": "Reino Unido | Londres",
+    "de": "Canary Wharf",
+    "de:t": "Vereinigtes Königreich | London"
+  },
+  {
+    "en": "Cannock",
+    "en:t": "United Kingdom",
+    "a": true,
+    "g": {
+      "lat": 52.6999,
+      "lon": -2.0218
+    },
+    "it": "Cannock Chase",
+    "it:t": "Regno Unito",
+    "es": "Cannock",
+    "es:t": "Reino Unido",
+    "de": "Cannock",
+    "de:t": "Vereinigtes Königreich"
+  },
+  {
+    "en": "Canterbury",
+    "en:t": "United Kingdom",
+    "a": true,
+    "g": {
+      "lat": 51.2802,
+      "lon": 1.0789
+    },
+    "it": "Canterbury",
+    "it:t": "Regno Unito",
+    "es": "Canterbury",
+    "es:t": "Reino Unido",
+    "de": "Canterbury",
+    "de:t": "Vereinigtes Königreich"
+  },
+  {
+    "en": "Cardiff",
+    "en:t": "United Kingdom",
+    "a": true,
+    "g": {
+      "lat": 51.4816,
+      "lon": -3.1791
+    },
+    "it": "Cardiff",
+    "it:t": "Regno Unito",
+    "es": "Cardiff",
+    "es:t": "Reino Unido",
+    "de": "Cardiff",
+    "de:t": "Vereinigtes Königreich"
+  },
+  {
+    "en": "Carlisle",
+    "en:t": "United Kingdom",
+    "a": true,
+    "g": {
+      "lat": 54.8925,
+      "lon": -2.9329
+    },
+    "it": "Carlisle",
+    "it:t": "Regno Unito",
+    "es": "Carlisle",
+    "es:t": "Reino Unido",
+    "de": "Carlisle",
+    "de:t": "Vereinigtes Königreich"
+  },
+  {
+    "en": "Carmarthen",
+    "en:t": "United Kingdom",
+    "a": true,
+    "g": {
+      "lat": 51.8576,
+      "lon": -4.3121
+    },
+    "it": "Carmarthen",
+    "it:t": "Regno Unito",
+    "es": "Carmarthen",
+    "es:t": "Reino Unido",
+    "de": "Carmarthen",
+    "de:t": "Vereinigtes Königreich"
+  },
+  {
+    "en": "Carrickfergus",
+    "en:t": "United Kingdom",
+    "a": true,
+    "g": {
+      "lat": 54.7262,
+      "lon": -5.8101
+    },
+    "it": "Carrickfergus",
+    "it:t": "Regno Unito",
+    "es": "Carrickfergus",
+    "es:t": "Reino Unido",
+    "de": "Carrickfergus",
+    "de:t": "Vereinigtes Königreich"
+  },
+  {
+    "en": "Carshalton",
+    "en:t": "United Kingdom | Greater London",
+    "a": true,
+    "g": {
+      "lat": 51.365,
+      "lon": -0.1649
+    },
+    "it": "Carshalton",
+    "it:t": "Regno Unito | Greater London",
+    "es": "Carshalton",
+    "es:t": "Reino Unido | Greater London",
+    "de": "Carshalton",
+    "de:t": "Vereinigtes Königreich | Greater London"
+  },
+  {
+    "en": "Castleford",
+    "en:t": "United Kingdom",
+    "a": true,
+    "g": {
+      "lat": 53.7235,
+      "lon": -1.346
+    },
+    "it": "Castleford",
+    "it:t": "Regno Unito",
+    "es": "Castleford",
+    "es:t": "Reino Unido",
+    "de": "Castleford",
+    "de:t": "Vereinigtes Königreich"
+  },
+  {
+    "en": "Castlereagh",
+    "en:t": "United Kingdom | Belfast",
+    "a": true,
+    "g": {
+      "lat": 54.5757,
+      "lon": -5.8883
+    },
+    "it": "Castlereagh",
+    "it:t": "Regno Unito | Belfast",
+    "es": "Castlereagh",
+    "es:t": "Reino Unido | Belfast",
+    "de": "Castlereagh",
+    "de:t": "Vereinigtes Königreich | Belfast"
+  },
+  {
+    "en": "Caterham",
+    "en:t": "United Kingdom | Surrey",
+    "a": true,
+    "g": {
+      "lat": 51.2803,
+      "lon": -0.0816
+    },
+    "it": "Caterham",
+    "it:t": "Regno Unito | Surrey",
+    "es": "Caterham",
+    "es:t": "Reino Unido | Surrey",
+    "de": "Caterham",
+    "de:t": "Vereinigtes Königreich | Surrey"
+  },
+  {
+    "en": "Chalfont Saint Peter",
+    "en:t": "United Kingdom | Buckinghamshire",
+    "a": true,
+    "g": {
+      "lat": 51.6123,
+      "lon": -0.5562
+    },
+    "it": "Chalfont St Peter",
+    "it:t": "Regno Unito | Buckinghamshire",
+    "es": "Chalfont St Peter",
+    "es:t": "Reino Unido | Buckinghamshire",
+    "de": "Chalfont St Peter",
+    "de:t": "Vereinigtes Königreich | Buckinghamshire"
+  },
+  {
+    "en": "Chapel Allerton",
+    "en:t": "United Kingdom | Leeds",
+    "a": true,
+    "g": {
+      "lat": 53.8289,
+      "lon": -1.5379
+    },
+    "it": "Chapel Allerton",
+    "it:t": "Regno Unito | Leeds",
+    "es": "Chapel Allerton",
+    "es:t": "Reino Unido | Leeds",
+    "de": "Chapel Allerton",
+    "de:t": "Vereinigtes Königreich | Leeds"
+  },
+  {
+    "en": "Chapeltown",
+    "en:t": "United Kingdom | Sheffield",
+    "a": true,
+    "g": {
+      "lat": 53.4598,
+      "lon": -1.4658
+    },
+    "it": "Chapeltown",
+    "it:t": "Regno Unito | Sheffield",
+    "es": "Chapeltown",
+    "es:t": "Reino Unido | Sheffield",
+    "de": "Chapeltown",
+    "de:t": "Vereinigtes Königreich | Sheffield"
+  },
+  {
+    "en": "Chatham",
+    "en:t": "United Kingdom | Medway",
+    "a": true,
+    "g": {
+      "lat": 51.381,
+      "lon": 0.5221
+    },
+    "it": "Chatham",
+    "it:t": "Regno Unito | Medway",
+    "es": "Chatham",
+    "es:t": "Reino Unido | Medway",
+    "de": "Chatham",
+    "de:t": "Vereinigtes Königreich | Medway"
+  },
+  {
+    "en": "Cheadle Hulme",
+    "en:t": "United Kingdom | Greater Manchester",
+    "a": true,
+    "g": {
+      "lat": 53.3801,
+      "lon": -2.1932
+    },
+    "it": "Cheadle Hulme",
+    "it:t": "Regno Unito | Greater Manchester",
+    "es": "Cheadle Hulme",
+    "es:t": "Reino Unido | Gran Mánchester",
+    "de": "Cheadle Hulme",
+    "de:t": "Vereinigtes Königreich | Greater Manchester"
+  },
+  {
+    "en": "Chelmsford",
+    "en:t": "United Kingdom",
+    "a": true,
+    "g": {
+      "lat": 51.7356,
+      "lon": 0.4685
+    },
+    "it": "Chelmsford",
+    "it:t": "Regno Unito",
+    "es": "Chelmsford",
+    "es:t": "Reino Unido",
+    "de": "Chelmsford",
+    "de:t": "Vereinigtes Königreich"
+  },
+  {
+    "en": "Chelsea",
+    "en:t": "United Kingdom | London",
+    "a": true,
+    "g": {
+      "lat": 51.4869,
+      "lon": -0.17
+    },
+    "it": "Chelsea",
+    "it:t": "Regno Unito | Londra",
+    "es": "Chelsea",
+    "es:t": "Reino Unido | Londres",
+    "de": "Chelsea",
+    "de:t": "Vereinigtes Königreich | London"
+  },
+  {
+    "en": "Cheltenham",
+    "en:t": "United Kingdom",
+    "a": true,
+    "g": {
+      "lat": 51.8994,
+      "lon": -2.0783
+    },
+    "it": "Cheltenham",
+    "it:t": "Regno Unito",
+    "es": "Cheltenham",
+    "es:t": "Reino Unido",
+    "de": "Cheltenham",
+    "de:t": "Vereinigtes Königreich"
+  },
+  {
+    "en": "Chesham",
+    "en:t": "United Kingdom",
+    "a": true,
+    "g": {
+      "lat": 51.7094,
+      "lon": -0.6123
+    },
+    "it": "Chesham",
+    "it:t": "Regno Unito",
+    "es": "Chesham",
+    "es:t": "Reino Unido",
+    "de": "Chesham",
+    "de:t": "Vereinigtes Königreich"
+  },
+  {
+    "en": "Cheshunt",
+    "en:t": "United Kingdom | Hertfordshire",
+    "a": true,
+    "g": {
+      "lat": 51.6999,
+      "lon": -0.0285
+    },
+    "it": "Cheshunt",
+    "it:t": "Regno Unito | Hertfordshire",
+    "es": "Cheshunt",
+    "es:t": "Reino Unido | Hertfordshire",
+    "de": "Cheshunt",
+    "de:t": "Vereinigtes Königreich | Hertfordshire"
+  },
+  {
+    "en": "Chessington",
+    "en:t": "United Kingdom | Greater London",
+    "a": true,
+    "g": {
+      "lat": 51.3636,
+      "lon": -0.2963
+    },
+    "it": "Chessington",
+    "it:t": "Regno Unito | Greater London",
+    "es": "Chessington",
+    "es:t": "Reino Unido | Greater London",
+    "de": "Chessington",
+    "de:t": "Vereinigtes Königreich | Greater London"
+  },
+  {
+    "en": "Chester",
+    "en:t": "United Kingdom",
+    "a": true,
+    "g": {
+      "lat": 53.1934,
+      "lon": -2.8931
+    },
+    "it": "Chester",
+    "it:t": "Regno Unito",
+    "es": "Chester",
+    "es:t": "Reino Unido",
+    "de": "Chester",
+    "de:t": "Vereinigtes Königreich"
+  },
+  {
+    "en": "Chesterfield",
+    "en:t": "United Kingdom",
+    "a": true,
+    "g": {
+      "lat": 53.235,
+      "lon": -1.4216
+    },
+    "it": "Chesterfield",
+    "it:t": "Regno Unito",
+    "es": "Chesterfield",
+    "es:t": "Reino Unido",
+    "de": "Chesterfield",
+    "de:t": "Vereinigtes Königreich"
+  },
+  {
+    "en": "Chichester",
+    "en:t": "United Kingdom",
+    "a": true,
+    "g": {
+      "lat": 50.8376,
+      "lon": -0.7749
+    },
+    "it": "Chichester",
+    "it:t": "Regno Unito",
+    "es": "Chichester",
+    "es:t": "Reino Unido",
+    "de": "Chichester",
+    "de:t": "Vereinigtes Königreich"
+  },
+  {
+    "en": "Chippenham",
+    "en:t": "United Kingdom",
+    "a": true,
+    "g": {
+      "lat": 51.4615,
+      "lon": -2.1195
+    },
+    "it": "Chippenham",
+    "it:t": "Regno Unito",
+    "es": "Chippenham",
+    "es:t": "Reino Unido",
+    "de": "Chippenham",
+    "de:t": "Vereinigtes Königreich"
+  },
+  {
+    "en": "Chipping Sodbury",
+    "en:t": "United Kingdom | Bristol",
+    "a": true,
+    "g": {
+      "lat": 51.5352,
+      "lon": -2.3909
+    },
+    "it": "Chipping Sodbury",
+    "it:t": "Regno Unito | Bristol",
+    "es": "Chipping Sodbury",
+    "es:t": "Reino Unido | Bristol",
+    "de": "Chipping Sodbury",
+    "de:t": "Vereinigtes Königreich | Bristol"
+  },
+  {
+    "en": "Chislehurst",
+    "en:t": "United Kingdom | Greater London",
+    "a": true,
+    "g": {
+      "lat": 51.4126,
+      "lon": 0.0775
+    },
+    "it": "Chislehurst",
+    "it:t": "Regno Unito | Greater London",
+    "es": "Chislehurst",
+    "es:t": "Reino Unido | Greater London",
+    "de": "Chislehurst",
+    "de:t": "Vereinigtes Königreich | Greater London"
+  },
+  {
+    "en": "Chorley",
+    "en:t": "United Kingdom",
+    "a": true,
+    "g": {
+      "lat": 53.6535,
+      "lon": -2.6326
+    },
+    "it": "Chorley",
+    "it:t": "Regno Unito",
+    "es": "Chorley",
+    "es:t": "Reino Unido",
+    "de": "Chorley",
+    "de:t": "Vereinigtes Königreich"
+  },
+  {
+    "en": "Christchurch",
+    "en:t": "United Kingdom | Dorset",
+    "a": true,
+    "g": {
+      "lat": 50.7358,
+      "lon": -1.7786
+    },
+    "it": "Christchurch",
+    "it:t": "Regno Unito | Dorset",
+    "es": "Christchurch",
+    "es:t": "Reino Unido | Dorset",
+    "de": "Christchurch",
+    "de:t": "Vereinigtes Königreich | Dorset"
+  },
+  {
+    "en": "Cirencester",
+    "en:t": "United Kingdom",
+    "a": true,
+    "g": {
+      "lat": 51.7185,
+      "lon": -1.9682
+    },
+    "it": "Cirencester",
+    "it:t": "Regno Unito",
+    "es": "Cirencester",
+    "es:t": "Reino Unido",
+    "de": "Cirencester",
+    "de:t": "Vereinigtes Königreich"
+  },
+  {
+    "en": "London",
+    "en:t": "United Kingdom",
+    "a": true,
+    "g": {
+      "lat": 51.5123,
+      "lon": -0.091
+    },
+    "it": "Londra",
+    "it:t": "Regno Unito",
+    "es": "Londres",
+    "es:t": "Reino Unido",
+    "de": "London",
+    "de:t": "Vereinigtes Königreich"
+  },
+  {
+    "en": "Clacton-on-Sea",
+    "en:t": "United Kingdom | Essex",
+    "a": true,
+    "g": {
+      "lat": 51.7895,
+      "lon": 1.153
+    },
+    "it": "Clacton-on-Sea",
+    "it:t": "Regno Unito | Essex",
+    "es": "Clacton-on-Sea",
+    "es:t": "Reino Unido | Essex",
+    "de": "Clacton-on-Sea",
+    "de:t": "Vereinigtes Königreich | Essex"
+  },
+  {
+    "en": "Cleckheaton",
+    "en:t": "United Kingdom",
+    "a": true,
+    "g": {
+      "lat": 53.723,
+      "lon": -1.7075
+    },
+    "it": "Cleckheaton",
+    "it:t": "Regno Unito",
+    "es": "Cleckheaton",
+    "es:t": "Reino Unido",
+    "de": "Cleckheaton",
+    "de:t": "Vereinigtes Königreich"
+  },
+  {
+    "en": "Cleethorpes",
+    "en:t": "United Kingdom | North East Lincolnshire",
+    "a": true,
+    "g": {
+      "lat": 53.5574,
+      "lon": -0.0294
+    },
+    "it": "Cleethorpes",
+    "it:t": "Regno Unito | North East Lincolnshire",
+    "es": "Cleethorpes",
+    "es:t": "Reino Unido | Lincolnshire Noreste",
+    "de": "Cleethorpes",
+    "de:t": "Vereinigtes Königreich | North East Lincolnshire"
+  },
+  {
+    "en": "Clevedon",
+    "en:t": "United Kingdom | North Somerset",
+    "a": true,
+    "g": {
+      "lat": 51.4421,
+      "lon": -2.8562
+    },
+    "it": "Clevedon",
+    "it:t": "Regno Unito | North Somerset",
+    "es": "Clevedon",
+    "es:t": "Reino Unido | Somerset Norte",
+    "de": "Clevedon",
+    "de:t": "Vereinigtes Königreich | North Somerset"
+  },
+  {
+    "en": "Clitheroe",
+    "en:t": "United Kingdom",
+    "a": true,
+    "g": {
+      "lat": 53.8711,
+      "lon": -2.3931
+    },
+    "it": "Clitheroe",
+    "it:t": "Regno Unito",
+    "es": "Clitheroe",
+    "es:t": "Reino Unido",
+    "de": "Clitheroe",
+    "de:t": "Vereinigtes Königreich"
+  },
+  {
+    "en": "Clydach",
+    "en:t": "United Kingdom | Swansea",
+    "a": true,
+    "g": {
+      "lat": 51.6943,
+      "lon": -3.8988
+    },
+    "it": "Clydach",
+    "it:t": "Regno Unito | Swansea",
+    "es": "Clydach",
+    "es:t": "Reino Unido | Swansea",
+    "de": "Clydach",
+    "de:t": "Vereinigtes Königreich | Swansea"
+  },
+  {
+    "en": "Clydebank",
+    "en:t": "United Kingdom | West Dunbartonshire",
+    "a": true,
+    "g": {
+      "lat": 55.9001,
+      "lon": -4.4048
+    },
+    "it": "Clydebank",
+    "it:t": "Regno Unito | Dunbartonshire Occidentale",
+    "es": "Clydebank",
+    "es:t": "Reino Unido | Dunbartonshire Oeste",
+    "de": "Clydebank",
+    "de:t": "Vereinigtes Königreich | West Dunbartonshire"
+  },
+  {
+    "en": "Coalville",
+    "en:t": "United Kingdom",
+    "a": true,
+    "g": {
+      "lat": 52.7246,
+      "lon": -1.3677
+    },
+    "it": "Coalville",
+    "it:t": "Regno Unito",
+    "es": "Coalville",
+    "es:t": "Reino Unido",
+    "de": "Coalville",
+    "de:t": "Vereinigtes Königreich"
+  },
+  {
+    "en": "Coatbridge",
+    "en:t": "United Kingdom | North Lanarkshire",
+    "a": true,
+    "g": {
+      "lat": 55.8622,
+      "lon": -4.0193
+    },
+    "it": "Coatbridge",
+    "it:t": "Regno Unito | Lanarkshire Settentrionale",
+    "es": "Coatbridge",
+    "es:t": "Reino Unido | Lanarkshire Norte",
+    "de": "Coatbridge",
+    "de:t": "Vereinigtes Königreich | North Lanarkshire"
+  },
+  {
+    "en": "Cobham",
+    "en:t": "United Kingdom | Surrey",
+    "a": true,
+    "g": {
+      "lat": 51.3288,
+      "lon": -0.4109
+    },
+    "it": "Cobham",
+    "it:t": "Regno Unito | Surrey",
+    "es": "Cobham",
+    "es:t": "Reino Unido | Surrey",
+    "de": "Cobham",
+    "de:t": "Vereinigtes Königreich | Surrey"
+  },
+  {
+    "en": "Coity",
+    "en:t": "United Kingdom | Bridgend",
+    "a": true,
+    "g": {
+      "lat": 51.5213,
+      "lon": -3.5526
+    },
+    "it": "Coity",
+    "it:t": "Regno Unito | Bridgend",
+    "es": "Coity",
+    "es:t": "Reino Unido | Bridgend",
+    "de": "Coity",
+    "de:t": "Vereinigtes Königreich | Bridgend"
+  },
+  {
+    "en": "Craigavon",
+    "en:t": "United Kingdom",
+    "a": true,
+    "g": {
+      "lat": 54.4429,
+      "lon": -6.4176
+    },
+    "it": "Craigavon",
+    "it:t": "Regno Unito",
+    "es": "Craigavon",
+    "es:t": "Reino Unido",
+    "de": "Craigavon",
+    "de:t": "Vereinigtes Königreich"
+  },
+  {
+    "en": "Crosby",
+    "en:t": "United Kingdom | Liverpool",
+    "a": true,
+    "g": {
+      "lat": 53.4893,
+      "lon": -3.0462
+    },
+    "it": "Crosby",
+    "it:t": "Regno Unito | Liverpool",
+    "es": "Crosby",
+    "es:t": "Reino Unido | Liverpool",
+    "de": "Crosby",
+    "de:t": "Vereinigtes Königreich | Liverpool"
+  },
+  {
+    "en": "Deeside",
+    "en:t": "United Kingdom",
+    "a": true,
+    "g": {
+      "lat": 53.1997,
+      "lon": -3.033
+    },
+    "it": "Deeside",
+    "it:t": "Regno Unito",
+    "es": "Deeside",
+    "es:t": "Reino Unido",
+    "de": "Deeside",
+    "de:t": "Vereinigtes Königreich"
+  },
+  {
+    "en": "Earlsfield",
+    "en:t": "United Kingdom | London",
+    "a": true,
+    "g": {
+      "lat": 51.44,
+      "lon": -0.189
+    },
+    "it": "Earlsfield",
+    "it:t": "Regno Unito | London",
+    "es": "Earlsfield",
+    "es:t": "Reino Unido | London",
+    "de": "Earlsfield",
+    "de:t": "Vereinigtes Königreich | London"
+  },
+  {
+    "en": "Erskine",
+    "en:t": "United Kingdom",
+    "a": true,
+    "g": {
+      "lat": 55.9092,
+      "lon": -4.4624
+    },
+    "it": "Erskine",
+    "it:t": "Regno Unito",
+    "es": "Erskine",
+    "es:t": "Reino Unido",
+    "de": "Erskine",
+    "de:t": "Vereinigtes Königreich"
+  },
+  {
+    "en": "Ewell",
+    "en:t": "United Kingdom | Surrey",
+    "a": true,
+    "g": {
+      "lat": 51.3506,
+      "lon": -0.2533
+    },
+    "it": "Ewell",
+    "it:t": "Regno Unito | Surrey",
+    "es": "Ewell",
+    "es:t": "Reino Unido | Surrey",
+    "de": "Ewell",
+    "de:t": "Vereinigtes Königreich | Surrey"
+  },
+  {
+    "en": "Failsworth",
+    "en:t": "United Kingdom | Greater Manchester",
+    "a": true,
+    "g": {
+      "lat": 53.5081,
+      "lon": -2.1644
+    },
+    "it": "Failsworth",
+    "it:t": "Regno Unito | Greater Manchester",
+    "es": "Failsworth",
+    "es:t": "Reino Unido | Gran Mánchester",
+    "de": "Failsworth",
+    "de:t": "Vereinigtes Königreich | Greater Manchester"
+  },
+  {
+    "en": "Ferndown",
+    "en:t": "United Kingdom | Dorset",
+    "a": true,
+    "g": {
+      "lat": 50.8074,
+      "lon": -1.8998
+    },
+    "it": "Ferndown",
+    "it:t": "Regno Unito | Dorset",
+    "es": "Ferndown",
+    "es:t": "Reino Unido | Dorset",
+    "de": "Ferndown",
+    "de:t": "Vereinigtes Königreich | Dorset"
+  },
+  {
+    "en": "Hadley Wood",
+    "en:t": "United Kingdom | Barnet",
+    "a": true,
+    "g": {
+      "lat": 51.6678,
+      "lon": -0.1776
+    },
+    "it": "Hadley Wood",
+    "it:t": "Regno Unito | Barnet",
+    "es": "Hadley Wood",
+    "es:t": "Reino Unido | Barnet",
+    "de": "Hadley Wood",
+    "de:t": "Vereinigtes Königreich | Barnet"
+  },
+  {
+    "en": "Harringay",
+    "en:t": "United Kingdom | London",
+    "a": true,
+    "g": {
+      "lat": 51.5824,
+      "lon": -0.0997
+    },
+    "it": "Harringay",
+    "it:t": "Regno Unito | Londra",
+    "es": "Haringey",
+    "es:t": "Reino Unido | Londres",
+    "de": "Harringay",
+    "de:t": "Vereinigtes Königreich | London"
+  },
+  {
+    "en": "Hayling Island",
+    "en:t": "United Kingdom | Hampshire",
+    "a": true,
+    "g": {
+      "lat": 50.7948,
+      "lon": -0.976
+    },
+    "it": "Hayling Island",
+    "it:t": "Regno Unito | Hampshire",
+    "es": "Hayling Island",
+    "es:t": "Reino Unido | Hampshire",
+    "de": "Hayling Island",
+    "de:t": "Vereinigtes Königreich | Hampshire"
+  },
+  {
+    "en": "Heavitree",
+    "en:t": "United Kingdom | Exeter",
+    "a": true,
+    "g": {
+      "lat": 50.7216,
+      "lon": -3.5038
+    },
+    "it": "Heavitree",
+    "it:t": "Regno Unito | Exeter",
+    "es": "Heavitree",
+    "es:t": "Reino Unido | Exeter",
+    "de": "Heavitree",
+    "de:t": "Vereinigtes Königreich | Exeter"
+  },
+  {
+    "en": "Hedge End",
+    "en:t": "United Kingdom | Southampton",
+    "a": true,
+    "g": {
+      "lat": 50.9136,
+      "lon": -1.3039
+    },
+    "it": "Hedge End",
+    "it:t": "Regno Unito | Southampton",
+    "es": "Hedge End",
+    "es:t": "Reino Unido | Southampton",
+    "de": "Hedge End",
+    "de:t": "Vereinigtes Königreich | Southampton"
+  },
+  {
+    "en": "Heywood",
+    "en:t": "United Kingdom | Greater Manchester",
+    "a": true,
+    "g": {
+      "lat": 53.5926,
+      "lon": -2.2256
+    },
+    "it": "Heywood",
+    "it:t": "Regno Unito | Greater Manchester",
+    "es": "Heywood",
+    "es:t": "Reino Unido | Gran Mánchester",
+    "de": "Heywood",
+    "de:t": "Vereinigtes Königreich | Greater Manchester"
+  },
+  {
+    "en": "High Peak",
+    "en:t": "United Kingdom | Derbyshire",
+    "a": true,
+    "g": {
+      "lat": 53.3325,
+      "lon": -1.8877
+    },
+    "it": "High Peak",
+    "it:t": "Regno Unito | Derbyshire",
+    "es": "High Peak",
+    "es:t": "Reino Unido | Derbyshire",
+    "de": "High Peak",
+    "de:t": "Vereinigtes Königreich | Derbyshire"
+  },
+  {
+    "en": "Holloway",
+    "en:t": "United Kingdom | London",
+    "a": true,
+    "g": {
+      "lat": 51.557,
+      "lon": -0.1155
+    },
+    "it": "Holloway",
+    "it:t": "Regno Unito | Londra",
+    "es": "Holloway",
+    "es:t": "Reino Unido | Londres",
+    "de": "Holloway",
+    "de:t": "Vereinigtes Königreich | London"
+  },
+  {
+    "en": "Hornchurch",
+    "en:t": "United Kingdom | Greater London",
+    "a": true,
+    "g": {
+      "lat": 51.5623,
+      "lon": 0.2186
+    },
+    "it": "Hornchurch",
+    "it:t": "Regno Unito | Greater London",
+    "es": "Hornchurch",
+    "es:t": "Reino Unido | Gran Londres",
+    "de": "Hornchurch",
+    "de:t": "Vereinigtes Königreich | Greater London"
+  },
+  {
+    "en": "Irvine",
+    "en:t": "United Kingdom",
+    "a": true,
+    "g": {
+      "lat": 55.6116,
+      "lon": -4.6696
+    },
+    "it": "Irvine",
+    "it:t": "Regno Unito",
+    "es": "Irvine",
+    "es:t": "Reino Unido",
+    "de": "Irvine",
+    "de:t": "Vereinigtes Königreich"
+  },
+  {
+    "en": "Isle of Lewis",
+    "en:t": "United Kingdom | Na h-Eileanan an Iar",
+    "a": true,
+    "g": {
+      "lat": 58.2416,
+      "lon": -6.6616
+    },
+    "it": "Isle of Lewis",
+    "it:t": "Regno Unito | Na h-Eileanan an Iar",
+    "es": "Isla de Lewis",
+    "es:t": "Reino Unido | Orcadas Occidentales",
+    "de": "Lewis",
+    "de:t": "Vereinigtes Königreich | Äußere Hebriden"
+  },
+  {
+    "en": "Jarrow",
+    "en:t": "United Kingdom | Tyne and Wear",
+    "a": true,
+    "g": {
+      "lat": 54.9803,
+      "lon": -1.4828
+    },
+    "it": "Jarrow",
+    "it:t": "Regno Unito | Tyne and Wear",
+    "es": "Jarrow",
+    "es:t": "Reino Unido | Tyne y Wear",
+    "de": "Jarrow",
+    "de:t": "Vereinigtes Königreich | Tyne and Wear"
+  },
+  {
+    "en": "Johnstone",
+    "en:t": "United Kingdom",
+    "a": true,
+    "g": {
+      "lat": 55.8373,
+      "lon": -4.5139
+    },
+    "it": "Johnstone",
+    "it:t": "Regno Unito",
+    "es": "Johnstone",
+    "es:t": "Reino Unido",
+    "de": "Johnstone",
+    "de:t": "Vereinigtes Königreich"
+  },
+  {
+    "en": "Keighley",
+    "en:t": "United Kingdom",
+    "a": true,
+    "g": {
+      "lat": 53.8678,
+      "lon": -1.9124
+    },
+    "it": "Keighley",
+    "it:t": "Regno Unito",
+    "es": "Keighley",
+    "es:t": "Reino Unido",
+    "de": "Keighley",
+    "de:t": "Vereinigtes Königreich"
+  },
+  {
+    "en": "Kempston",
+    "en:t": "United Kingdom | Bedford",
+    "a": true,
+    "g": {
+      "lat": 52.1179,
+      "lon": -0.4968
+    },
+    "it": "Kempston",
+    "it:t": "Regno Unito | Bedford",
+    "es": "Kempston",
+    "es:t": "Reino Unido | Bedford",
+    "de": "Kempston",
+    "de:t": "Vereinigtes Königreich | Bedford"
+  },
+  {
+    "en": "Kempston Hardwick",
+    "en:t": "United Kingdom | Bedford",
+    "a": true,
+    "g": {
+      "lat": 52.0877,
+      "lon": -0.495
+    },
+    "it": "Kempston Hardwick",
+    "it:t": "Regno Unito | Bedford",
+    "es": "Kempston Hardwick",
+    "es:t": "Reino Unido | Bedford",
+    "de": "Kempston Hardwick",
+    "de:t": "Vereinigtes Königreich | Bedford"
+  },
+  {
+    "en": "Kendal",
+    "en:t": "United Kingdom",
+    "a": true,
+    "g": {
+      "lat": 54.328,
+      "lon": -2.7463
+    },
+    "it": "Kendal",
+    "it:t": "Regno Unito",
+    "es": "Kendal",
+    "es:t": "Reino Unido",
+    "de": "Kendal",
+    "de:t": "Vereinigtes Königreich"
+  },
+  {
+    "en": "Kenilworth",
+    "en:t": "United Kingdom",
+    "a": true,
+    "g": {
+      "lat": 52.3496,
+      "lon": -1.5807
+    },
+    "it": "Kenilworth",
+    "it:t": "Regno Unito",
+    "es": "Kenilworth",
+    "es:t": "Reino Unido",
+    "de": "Kenilworth",
+    "de:t": "Vereinigtes Königreich"
+  },
+  {
+    "en": "Kettering",
+    "en:t": "United Kingdom",
+    "a": true,
+    "g": {
+      "lat": 52.3963,
+      "lon": -0.7302
+    },
+    "it": "Kettering",
+    "it:t": "Regno Unito",
+    "es": "Kettering",
+    "es:t": "Reino Unido",
+    "de": "Kettering",
+    "de:t": "Vereinigtes Königreich"
+  },
+  {
+    "en": "Keynsham",
+    "en:t": "United Kingdom | Bristol",
+    "a": true,
+    "g": {
+      "lat": 51.4151,
+      "lon": -2.5025
+    },
+    "it": "Keynsham",
+    "it:t": "Regno Unito | Bristol",
+    "es": "Keynsham",
+    "es:t": "Reino Unido | Bristol",
+    "de": "Keynsham",
+    "de:t": "Vereinigtes Königreich | Bristol"
+  },
+  {
+    "en": "Kidderminster",
+    "en:t": "United Kingdom | Worcestershire",
+    "a": true,
+    "g": {
+      "lat": 52.3886,
+      "lon": -2.2497
+    },
+    "it": "Kidderminster",
+    "it:t": "Regno Unito | Worcestershire",
+    "es": "Kidderminster",
+    "es:t": "Reino Unido | Worcestershire",
+    "de": "Kidderminster",
+    "de:t": "Vereinigtes Königreich | Worcestershire"
+  },
+  {
+    "en": "Kidlington",
+    "en:t": "United Kingdom | Oxfordshire",
+    "a": true,
+    "g": {
+      "lat": 51.8234,
+      "lon": -1.2905
+    },
+    "it": "Kidlington",
+    "it:t": "Regno Unito | Oxfordshire",
+    "es": "Kidlington",
+    "es:t": "Reino Unido | Oxfordshire",
+    "de": "Kidlington",
+    "de:t": "Vereinigtes Königreich | Oxfordshire"
+  },
+  {
+    "en": "Kidsgrove",
+    "en:t": "United Kingdom | Stoke-on-Trent",
+    "a": true,
+    "g": {
+      "lat": 53.0862,
+      "lon": -2.2408
+    },
+    "it": "Kidsgrove",
+    "it:t": "Regno Unito | Stoke-on-Trent",
+    "es": "Kidsgrove",
+    "es:t": "Reino Unido | Stoke-on-Trent",
+    "de": "Kidsgrove",
+    "de:t": "Vereinigtes Königreich | Stoke-on-Trent"
+  },
+  {
+    "en": "Kilmarnock",
+    "en:t": "United Kingdom",
+    "a": true,
+    "g": {
+      "lat": 55.6147,
+      "lon": -4.4988
+    },
+    "it": "Kilmarnock",
+    "it:t": "Regno Unito",
+    "es": "Kilmarnock",
+    "es:t": "Reino Unido",
+    "de": "Kilmarnock",
+    "de:t": "Vereinigtes Königreich"
+  },
+  {
+    "en": "Kilwinning",
+    "en:t": "United Kingdom",
+    "a": true,
+    "g": {
+      "lat": 55.6559,
+      "lon": -4.7031
+    },
+    "it": "Kilwinning",
+    "it:t": "Regno Unito",
+    "es": "Kilwinning",
+    "es:t": "Reino Unido",
+    "de": "Kilwinning",
+    "de:t": "Vereinigtes Königreich"
+  },
+  {
+    "en": "King's Lynn",
+    "en:t": "United Kingdom",
+    "a": true,
+    "g": {
+      "lat": 52.7517,
+      "lon": 0.4023
+    },
+    "it": "King's Lynn",
+    "it:t": "Regno Unito",
+    "es": "King's Lynn",
+    "es:t": "Reino Unido",
+    "de": "King's Lynn",
+    "de:t": "Vereinigtes Königreich"
+  },
+  {
+    "en": "Kingston upon Hull",
+    "en:t": "United Kingdom",
+    "a": true,
+    "g": {
+      "lat": 53.7676,
+      "lon": -0.3274
+    },
+    "it": "Kingston upon Hull",
+    "it:t": "Regno Unito",
+    "es": "Kingston Upon Hull",
+    "es:t": "Reino Unido",
+    "de": "Kingston Upon Hull",
+    "de:t": "Vereinigtes Königreich"
+  },
+  {
+    "en": "Kingswinford",
+    "en:t": "United Kingdom | West Midlands",
+    "a": true,
+    "g": {
+      "lat": 52.4982,
+      "lon": -2.17
+    },
+    "it": "Kingswinford",
+    "it:t": "Regno Unito | West Midlands",
+    "es": "Kingswinford",
+    "es:t": "Reino Unido | Midlands Occidentales",
+    "de": "Kingswinford",
+    "de:t": "Vereinigtes Königreich | West Midlands"
+  },
+  {
+    "en": "Kingswood",
+    "en:t": "United Kingdom | Bristol",
+    "a": true,
+    "g": {
+      "lat": 51.4576,
+      "lon": -2.5075
+    },
+    "it": "Kingswood",
+    "it:t": "Regno Unito | Bristol",
+    "es": "Kingswood",
+    "es:t": "Reino Unido | Bristol",
+    "de": "Kingswood",
+    "de:t": "Vereinigtes Königreich | Bristol"
+  },
+  {
+    "en": "Kirkby",
+    "en:t": "United Kingdom | Liverpool",
+    "a": true,
+    "g": {
+      "lat": 53.4812,
+      "lon": -2.891
+    },
+    "it": "Kirkby",
+    "it:t": "Regno Unito | Liverpool",
+    "es": "Kirkby",
+    "es:t": "Reino Unido | Liverpool",
+    "de": "Kirkby",
+    "de:t": "Vereinigtes Königreich | Liverpool"
+  },
+  {
+    "en": "Kirkby in Ashfield",
+    "en:t": "United Kingdom | Nottinghamshire",
+    "a": true,
+    "g": {
+      "lat": 53.101,
+      "lon": -1.2696
+    },
+    "it": "Kirkby-in-Ashfield",
+    "it:t": "Regno Unito | Nottinghamshire",
+    "es": "Kirkby in Ashfield",
+    "es:t": "Reino Unido | Nottinghamshire",
+    "de": "Kirkby-in-Ashfield",
+    "de:t": "Vereinigtes Königreich | Nottinghamshire"
+  },
+  {
+    "en": "Kirkcaldy",
+    "en:t": "United Kingdom",
+    "a": true,
+    "g": {
+      "lat": 56.1168,
+      "lon": -3.1581
+    },
+    "it": "Kirkcaldy",
+    "it:t": "Regno Unito",
+    "es": "Kirkcaldy",
+    "es:t": "Reino Unido",
+    "de": "Kirkcaldy",
+    "de:t": "Vereinigtes Königreich"
+  },
+  {
+    "en": "Kirkintilloch",
+    "en:t": "United Kingdom | Glasgow",
+    "a": true,
+    "g": {
+      "lat": 55.9392,
+      "lon": -4.1562
+    },
+    "it": "Kirkintilloch",
+    "it:t": "Regno Unito | Glasgow",
+    "es": "Kirkintilloch",
+    "es:t": "Reino Unido | Glasgow",
+    "de": "Kirkintilloch",
+    "de:t": "Vereinigtes Königreich | Glasgow"
+  },
+  {
+    "en": "Lancaster",
+    "en:t": "United Kingdom | Lancashire",
+    "a": true,
+    "g": {
+      "lat": 54.0466,
+      "lon": -2.8007
+    },
+    "it": "Lancaster",
+    "it:t": "Regno Unito | Lancashire",
+    "es": "Lancaster",
+    "es:t": "Reino Unido | Lancashire",
+    "de": "Lancaster",
+    "de:t": "Vereinigtes Königreich | Lancashire"
+  },
+  {
+    "en": "Lancing",
+    "en:t": "United Kingdom",
+    "a": true,
+    "g": {
+      "lat": 50.8282,
+      "lon": -0.3281
+    },
+    "it": "Lancing",
+    "it:t": "Regno Unito",
+    "es": "Lancing",
+    "es:t": "Reino Unido",
+    "de": "Lancing",
+    "de:t": "Vereinigtes Königreich"
+  },
+  {
+    "en": "Larkhall",
+    "en:t": "United Kingdom",
+    "a": true,
+    "g": {
+      "lat": 55.7377,
+      "lon": -3.9717
+    },
+    "it": "Larkhall",
+    "it:t": "Regno Unito",
+    "es": "Larkhall",
+    "es:t": "Reino Unido",
+    "de": "Larkhall",
+    "de:t": "Vereinigtes Königreich"
+  },
+  {
+    "en": "Larne",
+    "en:t": "United Kingdom",
+    "a": true,
+    "g": {
+      "lat": 54.8578,
+      "lon": -5.8236
+    },
+    "it": "Larne",
+    "it:t": "Regno Unito",
+    "es": "Larne",
+    "es:t": "Reino Unido",
+    "de": "Larne",
+    "de:t": "Vereinigtes Königreich"
+  },
+  {
+    "en": "Leatherhead",
+    "en:t": "United Kingdom | Surrey",
+    "a": true,
+    "g": {
+      "lat": 51.2964,
+      "lon": -0.3311
+    },
+    "it": "Leatherhead",
+    "it:t": "Regno Unito | Surrey",
+    "es": "Leatherhead",
+    "es:t": "Reino Unido | Surrey",
+    "de": "Leatherhead",
+    "de:t": "Vereinigtes Königreich | Surrey"
+  },
+  {
+    "en": "Leeds",
+    "en:t": "United Kingdom | West Yorkshire",
+    "a": true,
+    "g": {
+      "lat": 53.8008,
+      "lon": -1.5491
+    },
+    "it": "Leeds",
+    "it:t": "Regno Unito | West Yorkshire",
+    "es": "Leeds",
+    "es:t": "Reino Unido | Yorkshire del Oeste",
+    "de": "Leeds",
+    "de:t": "Vereinigtes Königreich | West Yorkshire"
+  },
+  {
+    "en": "Leek",
+    "en:t": "United Kingdom",
+    "a": true,
+    "g": {
+      "lat": 53.1092,
+      "lon": -2.0234
+    },
+    "it": "Leek",
+    "it:t": "Regno Unito",
+    "es": "Leek",
+    "es:t": "Reino Unido",
+    "de": "Leek",
+    "de:t": "Vereinigtes Königreich"
+  },
+  {
+    "en": "Leicester",
+    "en:t": "United Kingdom",
+    "a": true,
+    "g": {
+      "lat": 52.6369,
+      "lon": -1.1398
+    },
+    "it": "Leicester",
+    "it:t": "Regno Unito",
+    "es": "Leicester",
+    "es:t": "Reino Unido",
+    "de": "Leicester",
+    "de:t": "Vereinigtes Königreich"
+  },
+  {
+    "en": "Leighton Buzzard",
+    "en:t": "United Kingdom",
+    "a": true,
+    "g": {
+      "lat": 51.9197,
+      "lon": -0.6607
+    },
+    "it": "Leighton Buzzard",
+    "it:t": "Regno Unito",
+    "es": "Leighton Buzzard",
+    "es:t": "Reino Unido",
+    "de": "Leighton Buzzard",
+    "de:t": "Vereinigtes Königreich"
+  },
+  {
+    "en": "Letchworth Garden",
+    "en:t": "United Kingdom | Hertfordshire",
+    "a": true,
+    "g": {
+      "lat": 51.9791,
+      "lon": -0.2266
+    },
+    "it": "Letchworth Garden",
+    "it:t": "Regno Unito | Hertfordshire",
+    "es": "Letchworth Garden",
+    "es:t": "Reino Unido | Hertfordshire",
+    "de": "Letchworth Garden",
+    "de:t": "Vereinigtes Königreich | Hertfordshire"
+  },
+  {
+    "en": "Lewes",
+    "en:t": "United Kingdom",
+    "a": true,
+    "g": {
+      "lat": 50.8739,
+      "lon": 0.0088
+    },
+    "it": "Lewes",
+    "it:t": "Regno Unito",
+    "es": "Lewes",
+    "es:t": "Reino Unido",
+    "de": "Lewes",
+    "de:t": "Vereinigtes Königreich"
+  },
+  {
+    "en": "Leyland",
+    "en:t": "United Kingdom",
+    "a": true,
+    "g": {
+      "lat": 53.6979,
+      "lon": -2.6955
+    },
+    "it": "Leyland",
+    "it:t": "Regno Unito",
+    "es": "Leyland",
+    "es:t": "Reino Unido",
+    "de": "Leyland",
+    "de:t": "Vereinigtes Königreich"
+  },
+  {
+    "en": "Lichfield",
+    "en:t": "United Kingdom",
+    "a": true,
+    "g": {
+      "lat": 52.6816,
+      "lon": -1.8317
+    },
+    "it": "Lichfield",
+    "it:t": "Regno Unito",
+    "es": "Lichfield",
+    "es:t": "Reino Unido",
+    "de": "Lichfield",
+    "de:t": "Vereinigtes Königreich"
+  },
+  {
+    "en": "Lincoln",
+    "en:t": "United Kingdom",
+    "a": true,
+    "g": {
+      "lat": 53.2307,
+      "lon": -0.5406
+    },
+    "it": "Lincoln",
+    "it:t": "Regno Unito",
+    "es": "Lincoln",
+    "es:t": "Reino Unido",
+    "de": "Lincoln",
+    "de:t": "Vereinigtes Königreich"
+  },
+  {
+    "en": "Lisburn",
+    "en:t": "United Kingdom",
+    "a": true,
+    "g": {
+      "lat": 54.5162,
+      "lon": -6.058
+    },
+    "it": "Lisburn",
+    "it:t": "Regno Unito",
+    "es": "Lisburn",
+    "es:t": "Reino Unido",
+    "de": "Lisburn",
+    "de:t": "Vereinigtes Königreich"
+  },
+  {
+    "en": "Litherland",
+    "en:t": "United Kingdom | Merseyside",
+    "a": true,
+    "g": {
+      "lat": 53.4721,
+      "lon": -2.9963
+    },
+    "it": "Litherland",
+    "it:t": "Regno Unito | Merseyside",
+    "es": "Litherland",
+    "es:t": "Reino Unido | Merseyside",
+    "de": "Litherland",
+    "de:t": "Vereinigtes Königreich | Merseyside"
+  },
+  {
+    "en": "Littlehampton",
+    "en:t": "United Kingdom | West Sussex",
+    "a": true,
+    "g": {
+      "lat": 50.8111,
+      "lon": -0.5387
+    },
+    "it": "Littlehampton",
+    "it:t": "Regno Unito | West Sussex",
+    "es": "Littlehampton",
+    "es:t": "Reino Unido | Sussex Occidental",
+    "de": "Littlehampton",
+    "de:t": "Vereinigtes Königreich | West Sussex"
+  },
+  {
+    "en": "Liverpool",
+    "en:t": "United Kingdom | Merseyside",
+    "a": true,
+    "g": {
+      "lat": 53.4084,
+      "lon": -2.9916
+    },
+    "it": "Liverpool",
+    "it:t": "Regno Unito | Merseyside",
+    "es": "Liverpool",
+    "es:t": "Reino Unido | Merseyside",
+    "de": "Liverpool",
+    "de:t": "Vereinigtes Königreich | Merseyside"
+  },
+  {
+    "en": "Livingston",
+    "en:t": "United Kingdom | West Lothian",
+    "a": true,
+    "g": {
+      "lat": 55.9007,
+      "lon": -3.5181
+    },
+    "it": "Livingston",
+    "it:t": "Regno Unito | Lothian Occidentale",
+    "es": "Livingston",
+    "es:t": "Reino Unido | Lothian Occidental",
+    "de": "Livingston",
+    "de:t": "Vereinigtes Königreich | West Lothian"
+  },
+  {
+    "en": "Llandudno",
+    "en:t": "United Kingdom",
+    "a": true,
+    "g": {
+      "lat": 53.3241,
+      "lon": -3.8276
+    },
+    "it": "Llandudno",
+    "it:t": "Regno Unito",
+    "es": "Llandudno",
+    "es:t": "Reino Unido",
+    "de": "Llandudno",
+    "de:t": "Vereinigtes Königreich"
+  },
+  {
+    "en": "Llanelli",
+    "en:t": "United Kingdom | Carmarthenshire",
+    "a": true,
+    "g": {
+      "lat": 51.6809,
+      "lon": -4.1602
+    },
+    "it": "Llanelli",
+    "it:t": "Regno Unito | Carmarthenshire",
+    "es": "Llanelli",
+    "es:t": "Reino Unido | Carmarthenshire",
+    "de": "Llanelli",
+    "de:t": "Vereinigtes Königreich | Carmarthenshire"
+  },
+  {
+    "en": "Lofthouse",
+    "en:t": "United Kingdom | Harrogate",
+    "a": true,
+    "g": {
+      "lat": 54.1568,
+      "lon": -1.8463
+    },
+    "it": "Lofthouse",
+    "it:t": "Regno Unito | Wakefield",
+    "es": "Lofthouse",
+    "es:t": "Reino Unido | Wakefield",
+    "de": "Lofthouse",
+    "de:t": "Vereinigtes Königreich | Harrogate"
+  },
+  {
+    "en": "London",
+    "en:t": "United Kingdom",
+    "a": true,
+    "g": {
+      "lat": 51.5074,
+      "lon": -0.1278
+    },
+    "it": "Londra",
+    "it:t": "Regno Unito",
+    "es": "Londres",
+    "es:t": "Reino Unido",
+    "de": "London",
+    "de:t": "Vereinigtes Königreich"
+  },
+  {
+    "en": "Londonderry",
+    "en:t": "United Kingdom",
+    "a": true,
+    "g": {
+      "lat": 54.9966,
+      "lon": -7.3086
+    },
+    "it": "Londonderry",
+    "it:t": "Regno Unito",
+    "es": "Londonderry",
+    "es:t": "Reino Unido",
+    "de": "Londonderry",
+    "de:t": "Vereinigtes Königreich"
+  },
+  {
+    "en": "Long Eaton",
+    "en:t": "United Kingdom | Nottingham",
+    "a": true,
+    "g": {
+      "lat": 52.8984,
+      "lon": -1.2698
+    },
+    "it": "Long Eaton",
+    "it:t": "Regno Unito | Nottingham",
+    "es": "Long Eaton",
+    "es:t": "Reino Unido | Nottingham",
+    "de": "Long Eaton",
+    "de:t": "Vereinigtes Königreich | Nottingham"
+  },
+  {
+    "en": "Longfield",
+    "en:t": "United Kingdom",
+    "a": true,
+    "g": {
+      "lat": 51.3984,
+      "lon": 0.3021
+    },
+    "it": "Longfield",
+    "it:t": "Regno Unito",
+    "es": "Longfield",
+    "es:t": "Reino Unido",
+    "de": "Longfield",
+    "de:t": "Vereinigtes Königreich"
+  },
+  {
+    "en": "Longsight",
+    "en:t": "United Kingdom | Manchester",
+    "a": true,
+    "g": {
+      "lat": 53.4541,
+      "lon": -2.2002
+    },
+    "it": "Longsight",
+    "it:t": "Regno Unito | Manchester",
+    "es": "Longsight",
+    "es:t": "Reino Unido | Manchester",
+    "de": "Longsight",
+    "de:t": "Vereinigtes Königreich | Manchester"
+  },
+  {
+    "en": "Loughborough",
+    "en:t": "United Kingdom",
+    "a": true,
+    "g": {
+      "lat": 52.7721,
+      "lon": -1.2062
+    },
+    "it": "Loughborough",
+    "it:t": "Regno Unito",
+    "es": "Loughborough",
+    "es:t": "Reino Unido",
+    "de": "Loughborough",
+    "de:t": "Vereinigtes Königreich"
+  },
+  {
+    "en": "Louth",
+    "en:t": "United Kingdom",
+    "a": true,
+    "g": {
+      "lat": 53.366,
+      "lon": -0.0077
+    },
+    "it": "Louth",
+    "it:t": "Regno Unito",
+    "es": "Louth",
+    "es:t": "Reino Unido",
+    "de": "Louth",
+    "de:t": "Vereinigtes Königreich"
+  },
+  {
+    "en": "Lower Earley",
+    "en:t": "United Kingdom | Earley",
+    "a": true,
+    "g": {
+      "lat": 51.4308,
+      "lon": -0.9292
+    },
+    "it": "Lower Earley",
+    "it:t": "Regno Unito | Earley",
+    "es": "Lower Earley",
+    "es:t": "Reino Unido | Earley",
+    "de": "Lower Earley",
+    "de:t": "Vereinigtes Königreich | Earley"
+  },
+  {
+    "en": "Lowestoft",
+    "en:t": "United Kingdom",
+    "a": true,
+    "g": {
+      "lat": 52.4811,
+      "lon": 1.7534
+    },
+    "it": "Lowestoft",
+    "it:t": "Regno Unito",
+    "es": "Lowestoft",
+    "es:t": "Reino Unido",
+    "de": "Lowestoft",
+    "de:t": "Vereinigtes Königreich"
+  },
+  {
+    "en": "Luton",
+    "en:t": "United Kingdom",
+    "a": true,
+    "g": {
+      "lat": 51.8787,
+      "lon": -0.42
+    },
+    "it": "Luton",
+    "it:t": "Regno Unito",
+    "es": "Luton",
+    "es:t": "Reino Unido",
+    "de": "Luton",
+    "de:t": "Vereinigtes Königreich"
+  },
+  {
+    "en": "Lytham St Annes",
+    "en:t": "United Kingdom | Lytham Saint Annes",
+    "a": true,
+    "g": {
+      "lat": 53.7566,
+      "lon": -3.0213
+    },
+    "it": "Lytham St Annes",
+    "it:t": "Regno Unito | Lytham Saint Annes",
+    "es": "Lytham St Annes",
+    "es:t": "Reino Unido | Lytham Saint Annes",
+    "de": "Lytham St Annes",
+    "de:t": "Vereinigtes Königreich | Lytham Saint Annes"
+  },
+  {
+    "en": "Macclesfield",
+    "en:t": "United Kingdom",
+    "a": true,
+    "g": {
+      "lat": 53.2587,
+      "lon": -2.1193
+    },
+    "it": "Macclesfield",
+    "it:t": "Regno Unito",
+    "es": "Macclesfield",
+    "es:t": "Reino Unido",
+    "de": "Macclesfield",
+    "de:t": "Vereinigtes Königreich"
+  },
+  {
+    "en": "Maghull",
+    "en:t": "United Kingdom | Liverpool",
+    "a": true,
+    "g": {
+      "lat": 53.5157,
+      "lon": -2.9454
+    },
+    "it": "Maghull",
+    "it:t": "Regno Unito | Liverpool",
+    "es": "Maghull",
+    "es:t": "Reino Unido | Liverpool",
+    "de": "Maghull",
+    "de:t": "Vereinigtes Königreich | Liverpool"
+  },
+  {
+    "en": "Maidenhead",
+    "en:t": "United Kingdom",
+    "a": true,
+    "g": {
+      "lat": 51.5224,
+      "lon": -0.7219
+    },
+    "it": "Maidenhead",
+    "it:t": "Regno Unito",
+    "es": "Maidenhead",
+    "es:t": "Reino Unido",
+    "de": "Maidenhead",
+    "de:t": "Vereinigtes Königreich"
+  },
+  {
+    "en": "Maidstone",
+    "en:t": "United Kingdom",
+    "a": true,
+    "g": {
+      "lat": 51.2704,
+      "lon": 0.5227
+    },
+    "it": "Maidstone",
+    "it:t": "Regno Unito",
+    "es": "Maidstone",
+    "es:t": "Reino Unido",
+    "de": "Maidstone",
+    "de:t": "Vereinigtes Königreich"
+  },
+  {
+    "en": "Maldon",
+    "en:t": "United Kingdom",
+    "a": true,
+    "g": {
+      "lat": 51.7318,
+      "lon": 0.6714
+    },
+    "it": "Maldon",
+    "it:t": "Regno Unito",
+    "es": "Maldon",
+    "es:t": "Reino Unido",
+    "de": "Maldon",
+    "de:t": "Vereinigtes Königreich"
+  },
+  {
+    "en": "Maltby",
+    "en:t": "United Kingdom | South Yorkshire",
+    "a": true,
+    "g": {
+      "lat": 53.4226,
+      "lon": -1.2011
+    },
+    "it": "Maltby",
+    "it:t": "Regno Unito | South Yorkshire",
+    "es": "Maltby",
+    "es:t": "Reino Unido | Yorkshire del Sur",
+    "de": "Maltby",
+    "de:t": "Vereinigtes Königreich | South Yorkshire"
+  },
+  {
+    "en": "Manchester",
+    "en:t": "United Kingdom",
+    "a": true,
+    "g": {
+      "lat": 53.4808,
+      "lon": -2.2426
+    },
+    "it": "Manchester",
+    "it:t": "Regno Unito",
+    "es": "Mánchester",
+    "es:t": "Reino Unido",
+    "de": "Manchester",
+    "de:t": "Vereinigtes Königreich"
+  },
+  {
+    "en": "Mangotsfield",
+    "en:t": "United Kingdom | Bristol",
+    "a": true,
+    "g": {
+      "lat": 51.4823,
+      "lon": -2.4882
+    },
+    "it": "Mangotsfield",
+    "it:t": "Regno Unito | Bristol",
+    "es": "Mangotsfield",
+    "es:t": "Reino Unido | Bristol",
+    "de": "Mangotsfield",
+    "de:t": "Vereinigtes Königreich | Bristol"
+  },
+  {
+    "en": "Mansfield",
+    "en:t": "United Kingdom | Nottinghamshire",
+    "a": true,
+    "g": {
+      "lat": 53.1472,
+      "lon": -1.1987
+    },
+    "it": "Mansfield",
+    "it:t": "Regno Unito | Nottinghamshire",
+    "es": "Mansfield",
+    "es:t": "Reino Unido | Nottinghamshire",
+    "de": "Mansfield",
+    "de:t": "Vereinigtes Königreich | Nottinghamshire"
+  },
+  {
+    "en": "Mansfield Woodhouse",
+    "en:t": "United Kingdom | Mansfield",
+    "a": true,
+    "g": {
+      "lat": 53.1665,
+      "lon": -1.1898
+    },
+    "it": "Mansfield Woodhouse",
+    "it:t": "Regno Unito | Mansfield",
+    "es": "Mansfield Woodhouse",
+    "es:t": "Reino Unido | Mansfield",
+    "de": "Mansfield Woodhouse",
+    "de:t": "Vereinigtes Königreich | Mansfield"
+  },
+  {
+    "en": "March",
+    "en:t": "United Kingdom | Cambridgeshire",
+    "a": true,
+    "g": {
+      "lat": 52.5517,
+      "lon": 0.0886
+    },
+    "it": "March",
+    "it:t": "Regno Unito | Cambridgeshire",
+    "es": "March",
+    "es:t": "Reino Unido | Cambridgeshire",
+    "de": "March",
+    "de:t": "Vereinigtes Königreich | Cambridgeshire"
+  },
+  {
+    "en": "Margate",
+    "en:t": "United Kingdom | Kent",
+    "a": true,
+    "g": {
+      "lat": 51.3896,
+      "lon": 1.3868
+    },
+    "it": "Margate",
+    "it:t": "Regno Unito | Kent",
+    "es": "Margate",
+    "es:t": "Reino Unido | Kent",
+    "de": "Margate",
+    "de:t": "Vereinigtes Königreich | Kent"
+  },
+  {
+    "en": "Market Harborough",
+    "en:t": "United Kingdom",
+    "a": true,
+    "g": {
+      "lat": 52.4758,
+      "lon": -0.9215
+    },
+    "it": "Market Harborough",
+    "it:t": "Regno Unito",
+    "es": "Market Harborough",
+    "es:t": "Reino Unido",
+    "de": "Market Harborough",
+    "de:t": "Vereinigtes Königreich"
+  },
+  {
+    "en": "Marlow",
+    "en:t": "United Kingdom",
+    "a": true,
+    "g": {
+      "lat": 51.5719,
+      "lon": -0.7769
+    },
+    "it": "Marlow",
+    "it:t": "Regno Unito",
+    "es": "Marlow",
+    "es:t": "Reino Unido",
+    "de": "Marlow",
+    "de:t": "Vereinigtes Königreich"
+  },
+  {
+    "en": "Marple",
+    "en:t": "United Kingdom | Greater Manchester",
+    "a": true,
+    "g": {
+      "lat": 53.3973,
+      "lon": -2.0617
+    },
+    "it": "Marple",
+    "it:t": "Regno Unito | Greater Manchester",
+    "es": "Marple",
+    "es:t": "Reino Unido | Gran Mánchester",
+    "de": "Marple",
+    "de:t": "Vereinigtes Königreich | Greater Manchester"
+  },
+  {
+    "en": "Melton Mowbray",
+    "en:t": "United Kingdom",
+    "a": true,
+    "g": {
+      "lat": 52.7664,
+      "lon": -0.8871
+    },
+    "it": "Melton Mowbray",
+    "it:t": "Regno Unito",
+    "es": "Melton Mowbray",
+    "es:t": "Reino Unido",
+    "de": "Melton Mowbray",
+    "de:t": "Vereinigtes Königreich"
+  },
+  {
+    "en": "Mendip",
+    "en:t": "United Kingdom | Somerset",
+    "a": true,
+    "g": {
+      "lat": 51.1942,
+      "lon": -2.5228
+    },
+    "it": "Mendip",
+    "it:t": "Regno Unito | Somerset",
+    "es": "Mendip",
+    "es:t": "Reino Unido | Somerset",
+    "de": "Mendip",
+    "de:t": "Vereinigtes Königreich | Somerset"
+  },
+  {
+    "en": "Merthyr Tydfil",
+    "en:t": "United Kingdom",
+    "a": true,
+    "g": {
+      "lat": 51.7487,
+      "lon": -3.3816
+    },
+    "it": "Merthyr Tydfil",
+    "it:t": "Regno Unito",
+    "es": "Merthyr Tydfil",
+    "es:t": "Reino Unido",
+    "de": "Merthyr Tydfil",
+    "de:t": "Vereinigtes Königreich"
+  },
+  {
+    "en": "Mexborough",
+    "en:t": "United Kingdom | South Yorkshire",
+    "a": true,
+    "g": {
+      "lat": 53.4931,
+      "lon": -1.2805
+    },
+    "it": "Mexborough",
+    "it:t": "Regno Unito | South Yorkshire",
+    "es": "Mexborough",
+    "es:t": "Reino Unido | Yorkshire del Sur",
+    "de": "Mexborough",
+    "de:t": "Vereinigtes Königreich | South Yorkshire"
+  },
+  {
+    "en": "Middlesbrough",
+    "en:t": "United Kingdom",
+    "a": true,
+    "g": {
+      "lat": 54.5742,
+      "lon": -1.235
+    },
+    "it": "Middlesbrough",
+    "it:t": "Regno Unito",
+    "es": "Middlesbrough",
+    "es:t": "Reino Unido",
+    "de": "Middlesbrough",
+    "de:t": "Vereinigtes Königreich"
+  },
+  {
+    "en": "Milton Keynes",
+    "en:t": "United Kingdom",
+    "a": true,
+    "g": {
+      "lat": 52.0406,
+      "lon": -0.7594
+    },
+    "it": "Milton Keynes",
+    "it:t": "Regno Unito",
+    "es": "Milton Keynes",
+    "es:t": "Reino Unido",
+    "de": "Milton Keynes",
+    "de:t": "Vereinigtes Königreich"
+  },
+  {
+    "en": "Mirfield",
+    "en:t": "United Kingdom | West Yorkshire",
+    "a": true,
+    "g": {
+      "lat": 53.6801,
+      "lon": -1.6967
+    },
+    "it": "Mirfield",
+    "it:t": "Regno Unito | West Yorkshire",
+    "es": "Mirfield",
+    "es:t": "Reino Unido | Yorkshire del Oeste",
+    "de": "Mirfield",
+    "de:t": "Vereinigtes Königreich | West Yorkshire"
+  },
+  {
+    "en": "Mitcham",
+    "en:t": "United Kingdom | Greater London",
+    "a": true,
+    "g": {
+      "lat": 51.4029,
+      "lon": -0.1667
+    },
+    "it": "Mitcham",
+    "it:t": "Regno Unito | Greater London",
+    "es": "Mitcham",
+    "es:t": "Reino Unido | Gran Londres",
+    "de": "Mitcham",
+    "de:t": "Vereinigtes Königreich | Greater London"
+  },
+  {
+    "en": "Morecambe",
+    "en:t": "United Kingdom | Lancashire",
+    "a": true,
+    "g": {
+      "lat": 54.0742,
+      "lon": -2.865
+    },
+    "it": "Morecambe",
+    "it:t": "Regno Unito | Lancashire",
+    "es": "Morecambe",
+    "es:t": "Reino Unido | Lancashire",
+    "de": "Morecambe",
+    "de:t": "Vereinigtes Königreich | Lancashire"
+  },
+  {
+    "en": "Moreton",
+    "en:t": "United Kingdom | Dorchester",
+    "a": true,
+    "g": {
+      "lat": 50.7028,
+      "lon": -2.2855
+    },
+    "it": "Moreton",
+    "it:t": "Regno Unito | Greasby",
+    "es": "Moreton",
+    "es:t": "Reino Unido | Greasby",
+    "de": "Moreton",
+    "de:t": "Vereinigtes Königreich | Dorchester"
+  },
+  {
+    "en": "Morley",
+    "en:t": "United Kingdom | West Yorkshire",
+    "a": true,
+    "g": {
+      "lat": 53.7445,
+      "lon": -1.598
+    },
+    "it": "Morley",
+    "it:t": "Regno Unito | West Yorkshire",
+    "es": "Morley",
+    "es:t": "Reino Unido | Ilkeston",
+    "de": "Morley",
+    "de:t": "Vereinigtes Königreich | West Yorkshire"
+  },
+  {
+    "en": "Motherwell",
+    "en:t": "United Kingdom | North Lanarkshire",
+    "a": true,
+    "g": {
+      "lat": 55.7832,
+      "lon": -3.9811
+    },
+    "it": "Motherwell",
+    "it:t": "Regno Unito | Lanarkshire Settentrionale",
+    "es": "Motherwell",
+    "es:t": "Reino Unido | Lanarkshire Norte",
+    "de": "Motherwell",
+    "de:t": "Vereinigtes Königreich | North Lanarkshire"
+  },
+  {
+    "en": "Musselburgh",
+    "en:t": "United Kingdom",
+    "a": true,
+    "g": {
+      "lat": 55.9419,
+      "lon": -3.0539
+    },
+    "it": "Musselburgh",
+    "it:t": "Regno Unito",
+    "es": "Musselburgh",
+    "es:t": "Reino Unido",
+    "de": "Musselburgh",
+    "de:t": "Vereinigtes Königreich"
+  },
+  {
+    "en": "Nailsea",
+    "en:t": "United Kingdom | North Somerset",
+    "a": true,
+    "g": {
+      "lat": 51.4318,
+      "lon": -2.7563
+    },
+    "it": "Nailsea",
+    "it:t": "Regno Unito | North Somerset",
+    "es": "Nailsea",
+    "es:t": "Reino Unido | Somerset Norte",
+    "de": "Nailsea",
+    "de:t": "Vereinigtes Königreich | North Somerset"
+  },
+  {
+    "en": "Neath",
+    "en:t": "United Kingdom | Neath Port Talbot",
+    "a": true,
+    "g": {
+      "lat": 51.657,
+      "lon": -3.8055
+    },
+    "it": "Neath",
+    "it:t": "Regno Unito | Neath Port Talbot",
+    "es": "Neath",
+    "es:t": "Reino Unido | Neath-Port Talbot",
+    "de": "Neath",
+    "de:t": "Vereinigtes Königreich | Neath Port Talbot"
+  },
+  {
+    "en": "Nelson",
+    "en:t": "United Kingdom",
+    "a": true,
+    "g": {
+      "lat": 53.8352,
+      "lon": -2.2194
+    },
+    "it": "Nelson",
+    "it:t": "Regno Unito",
+    "es": "Nelson",
+    "es:t": "Reino Unido",
+    "de": "Nelson",
+    "de:t": "Vereinigtes Königreich"
+  },
+  {
+    "en": "Neston",
+    "en:t": "United Kingdom | Cheshire West and Chester",
+    "a": true,
+    "g": {
+      "lat": 53.2906,
+      "lon": -3.0691
+    },
+    "it": "Neston",
+    "it:t": "Regno Unito | Cheshire West and Chester",
+    "es": "Neston",
+    "es:t": "Reino Unido | Cheshire West and Chester",
+    "de": "Neston",
+    "de:t": "Vereinigtes Königreich | Cheshire West and Chester"
+  },
+  {
+    "en": "New Malden",
+    "en:t": "United Kingdom | Greater London",
+    "a": true,
+    "g": {
+      "lat": 51.4007,
+      "lon": -0.2593
+    },
+    "it": "New Malden",
+    "it:t": "Regno Unito | Greater London",
+    "es": "New Malden",
+    "es:t": "Reino Unido | Greater London",
+    "de": "New Malden",
+    "de:t": "Vereinigtes Königreich | Greater London"
+  },
+  {
+    "en": "New Milton",
+    "en:t": "United Kingdom | Hampshire",
+    "a": true,
+    "g": {
+      "lat": 50.7531,
+      "lon": -1.6551
+    },
+    "it": "New Milton",
+    "it:t": "Regno Unito | Hampshire",
+    "es": "New Milton",
+    "es:t": "Reino Unido | Hampshire",
+    "de": "New Milton",
+    "de:t": "Vereinigtes Königreich | Hampshire"
+  },
+  {
+    "en": "Newark-on-Trent",
+    "en:t": "United Kingdom | Newark",
+    "a": true,
+    "g": {
+      "lat": 53.07,
+      "lon": -0.8066
+    },
+    "it": "Newark-on-Trent",
+    "it:t": "Regno Unito | Newark",
+    "es": "Newark-on-Trent",
+    "es:t": "Reino Unido | Newark",
+    "de": "Newark-on-Trent",
+    "de:t": "Vereinigtes Königreich | Newark"
+  },
+  {
+    "en": "Newburn",
+    "en:t": "United Kingdom | Newcastle upon Tyne",
+    "a": true,
+    "g": {
+      "lat": 54.9843,
+      "lon": -1.7425
+    },
+    "it": "Newburn",
+    "it:t": "Regno Unito | Newcastle Upon Tyne",
+    "es": "Newburn",
+    "es:t": "Reino Unido | Newcastle upon Tyne",
+    "de": "Newburn",
+    "de:t": "Vereinigtes Königreich | Newcastle upon Tyne"
+  },
+  {
+    "en": "Newbury",
+    "en:t": "United Kingdom | West Berkshire",
+    "a": true,
+    "g": {
+      "lat": 51.4014,
+      "lon": -1.3231
+    },
+    "it": "Newbury",
+    "it:t": "Regno Unito | West Berkshire",
+    "es": "Newbury",
+    "es:t": "Reino Unido | Berkshire Oeste",
+    "de": "Newbury",
+    "de:t": "Vereinigtes Königreich | West Berkshire"
+  },
+  {
+    "en": "Newcastle upon Tyne",
+    "en:t": "United Kingdom",
+    "a": true,
+    "g": {
+      "lat": 54.9783,
+      "lon": -1.6178
+    },
+    "it": "Newcastle upon Tyne",
+    "it:t": "Regno Unito",
+    "es": "Newcastle upon Tyne",
+    "es:t": "Reino Unido",
+    "de": "Newcastle upon Tyne",
+    "de:t": "Vereinigtes Königreich"
+  },
+  {
+    "en": "Newcastle-under-Lyme",
+    "en:t": "United Kingdom | Staffordshire",
+    "a": true,
+    "g": {
+      "lat": 53.0132,
+      "lon": -2.2273
+    },
+    "it": "Newcastle-under-Lyme",
+    "it:t": "Regno Unito | Staffordshire",
+    "es": "Newcastle-under-Lyme",
+    "es:t": "Reino Unido | Staffordshire",
+    "de": "Newcastle-under-Lyme",
+    "de:t": "Vereinigtes Königreich | Staffordshire"
+  },
+  {
+    "en": "Newmarket",
+    "en:t": "United Kingdom",
+    "a": true,
+    "g": {
+      "lat": 52.2449,
+      "lon": 0.408
+    },
+    "it": "Newmarket",
+    "it:t": "Regno Unito",
+    "es": "Newmarket",
+    "es:t": "Reino Unido",
+    "de": "Newmarket",
+    "de:t": "Vereinigtes Königreich"
+  },
+  {
+    "en": "Newport",
+    "en:t": "United Kingdom",
+    "a": true,
+    "g": {
+      "lat": 51.5842,
+      "lon": -2.9977
+    },
+    "it": "Newport",
+    "it:t": "Regno Unito",
+    "es": "Newport",
+    "es:t": "Reino Unido",
+    "de": "Newport",
+    "de:t": "Vereinigtes Königreich"
+  },
+  {
+    "en": "Newport Pagnell",
+    "en:t": "United Kingdom",
+    "a": true,
+    "g": {
+      "lat": 52.0846,
+      "lon": -0.7346
+    },
+    "it": "Newport Pagnell",
+    "it:t": "Regno Unito",
+    "es": "Newport Pagnell",
+    "es:t": "Reino Unido",
+    "de": "Newport Pagnell",
+    "de:t": "Vereinigtes Königreich"
+  },
+  {
+    "en": "Newquay",
+    "en:t": "United Kingdom | Cornwall",
+    "a": true,
+    "g": {
+      "lat": 50.4155,
+      "lon": -5.0737
+    },
+    "it": "Newquay",
+    "it:t": "Regno Unito | Cornovaglia",
+    "es": "Newquay",
+    "es:t": "Reino Unido | Cornualles",
+    "de": "Newquay",
+    "de:t": "Vereinigtes Königreich | Cornwall"
+  },
+  {
+    "en": "Newry",
+    "en:t": "United Kingdom",
+    "a": true,
+    "g": {
+      "lat": 54.1751,
+      "lon": -6.3402
+    },
+    "it": "Newry",
+    "it:t": "Regno Unito",
+    "es": "Newry",
+    "es:t": "Reino Unido",
+    "de": "Newry",
+    "de:t": "Vereinigtes Königreich"
+  },
+  {
+    "en": "Newton Abbot",
+    "en:t": "United Kingdom",
+    "a": true,
+    "g": {
+      "lat": 50.5289,
+      "lon": -3.6084
+    },
+    "it": "Newton Abbot",
+    "it:t": "Regno Unito",
+    "es": "Newton Abbot",
+    "es:t": "Reino Unido",
+    "de": "Newton Abbot",
+    "de:t": "Vereinigtes Königreich"
+  },
+  {
+    "en": "Newton Aycliffe",
+    "en:t": "United Kingdom | Durham",
+    "a": true,
+    "g": {
+      "lat": 54.616,
+      "lon": -1.5756
+    },
+    "it": "Newton Aycliffe",
+    "it:t": "Regno Unito | Durham",
+    "es": "Newton Aycliffe",
+    "es:t": "Reino Unido | Durham",
+    "de": "Newton Aycliffe",
+    "de:t": "Vereinigtes Königreich | Durham"
+  },
+  {
+    "en": "Newton Mearns",
+    "en:t": "United Kingdom | Glasgow",
+    "a": true,
+    "g": {
+      "lat": 55.7712,
+      "lon": -4.3366
+    },
+    "it": "Newton Mearns",
+    "it:t": "Regno Unito | Glasgow",
+    "es": "Newton Mearns",
+    "es:t": "Reino Unido | Glasgow",
+    "de": "Newton Mearns",
+    "de:t": "Vereinigtes Königreich | Glasgow"
+  },
+  {
+    "en": "Newton-le-Willows",
+    "en:t": "United Kingdom | Merseyside",
+    "a": true,
+    "g": {
+      "lat": 53.4529,
+      "lon": -2.6351
+    },
+    "it": "Newton-le-Willows",
+    "it:t": "Regno Unito | Merseyside",
+    "es": "Newton-le-Willows",
+    "es:t": "Reino Unido | Merseyside",
+    "de": "Newton-le-Willows",
+    "de:t": "Vereinigtes Königreich | Merseyside"
+  },
+  {
+    "en": "Newtownabbey",
+    "en:t": "United Kingdom | Northern Ireland",
+    "a": true,
+    "g": {
+      "lat": 54.6792,
+      "lon": -5.9591
+    },
+    "it": "Newtownabbey",
+    "it:t": "Regno Unito | Irlanda del Nord",
+    "es": "Newtownabbey",
+    "es:t": "Reino Unido | Irlanda del Norte",
+    "de": "Newtownabbey",
+    "de:t": "Vereinigtes Königreich | Nordirland"
+  },
+  {
+    "en": "Newtownards",
+    "en:t": "United Kingdom",
+    "a": true,
+    "g": {
+      "lat": 54.5914,
+      "lon": -5.6932
+    },
+    "it": "Newtownards",
+    "it:t": "Regno Unito",
+    "es": "Newtownards",
+    "es:t": "Reino Unido",
+    "de": "Newtownards",
+    "de:t": "Vereinigtes Königreich"
+  },
+  {
+    "en": "North Shields",
+    "en:t": "United Kingdom | Tyne and Wear",
+    "a": true,
+    "g": {
+      "lat": 55.0108,
+      "lon": -1.4491
+    },
+    "it": "North Shields",
+    "it:t": "Regno Unito | Tyne and Wear",
+    "es": "North Shields",
+    "es:t": "Reino Unido | Tyne y Wear",
+    "de": "North Shields",
+    "de:t": "Vereinigtes Königreich | Tyne and Wear"
+  },
+  {
+    "en": "Northallerton",
+    "en:t": "United Kingdom",
+    "a": true,
+    "g": {
+      "lat": 54.338,
+      "lon": -1.43
+    },
+    "it": "Northallerton",
+    "it:t": "Regno Unito",
+    "es": "Northallerton",
+    "es:t": "Reino Unido",
+    "de": "Northallerton",
+    "de:t": "Vereinigtes Königreich"
+  },
+  {
+    "en": "Northampton",
+    "en:t": "United Kingdom",
+    "a": true,
+    "g": {
+      "lat": 52.2405,
+      "lon": -0.9027
+    },
+    "it": "Northampton",
+    "it:t": "Regno Unito",
+    "es": "Northampton",
+    "es:t": "Reino Unido",
+    "de": "Northampton",
+    "de:t": "Vereinigtes Königreich"
+  },
+  {
+    "en": "Northolt",
+    "en:t": "United Kingdom | Greater London",
+    "a": true,
+    "g": {
+      "lat": 51.5466,
+      "lon": -0.3731
+    },
+    "it": "Northolt",
+    "it:t": "Regno Unito | Greater London",
+    "es": "Northolt",
+    "es:t": "Reino Unido | Greater London",
+    "de": "Northolt",
+    "de:t": "Vereinigtes Königreich | Greater London"
+  },
+  {
+    "en": "Northwich",
+    "en:t": "United Kingdom",
+    "a": true,
+    "g": {
+      "lat": 53.2587,
+      "lon": -2.5181
+    },
+    "it": "Northwich",
+    "it:t": "Regno Unito",
+    "es": "Northwich",
+    "es:t": "Reino Unido",
+    "de": "Northwich",
+    "de:t": "Vereinigtes Königreich"
+  },
+  {
+    "en": "Norwich",
+    "en:t": "United Kingdom",
+    "a": true,
+    "g": {
+      "lat": 52.6309,
+      "lon": 1.2974
+    },
+    "it": "Norwich",
+    "it:t": "Regno Unito",
+    "es": "Norwich",
+    "es:t": "Reino Unido",
+    "de": "Norwich",
+    "de:t": "Vereinigtes Königreich"
+  },
+  {
+    "en": "Nottingham",
+    "en:t": "United Kingdom",
+    "a": true,
+    "g": {
+      "lat": 52.9548,
+      "lon": -1.1581
+    },
+    "it": "Nottingham",
+    "it:t": "Regno Unito",
+    "es": "Nottingham",
+    "es:t": "Reino Unido",
+    "de": "Nottingham",
+    "de:t": "Vereinigtes Königreich"
+  },
+  {
+    "en": "Nuneaton",
+    "en:t": "United Kingdom | Warwickshire",
+    "a": true,
+    "g": {
+      "lat": 52.5205,
+      "lon": -1.4654
+    },
+    "it": "Nuneaton",
+    "it:t": "Regno Unito | Warwickshire",
+    "es": "Nuneaton",
+    "es:t": "Reino Unido | Warwickshire",
+    "de": "Nuneaton",
+    "de:t": "Vereinigtes Königreich | Warwickshire"
+  },
+  {
+    "en": "Oadby",
+    "en:t": "United Kingdom | Leicestershire",
+    "a": true,
+    "g": {
+      "lat": 52.5992,
+      "lon": -1.0784
+    },
+    "it": "Oadby",
+    "it:t": "Regno Unito | Leicestershire",
+    "es": "Oadby",
+    "es:t": "Reino Unido | Leicestershire",
+    "de": "Oadby",
+    "de:t": "Vereinigtes Königreich | Leicestershire"
+  },
+  {
+    "en": "Oldham",
+    "en:t": "United Kingdom | Greater Manchester",
+    "a": true,
+    "g": {
+      "lat": 53.5409,
+      "lon": -2.1114
+    },
+    "it": "Oldham",
+    "it:t": "Regno Unito | Greater Manchester",
+    "es": "Oldham",
+    "es:t": "Reino Unido | Gran Mánchester",
+    "de": "Oldham",
+    "de:t": "Vereinigtes Königreich | Greater Manchester"
+  },
+  {
+    "en": "Omagh",
+    "en:t": "United Kingdom",
+    "a": true,
+    "g": {
+      "lat": 54.5977,
+      "lon": -7.31
+    },
+    "it": "Omagh",
+    "it:t": "Regno Unito",
+    "es": "Omagh",
+    "es:t": "Reino Unido",
+    "de": "Omagh",
+    "de:t": "Vereinigtes Königreich"
+  },
+  {
+    "en": "Orkney",
+    "en:t": "United Kingdom",
+    "a": true,
+    "g": {
+      "lat": 59.076,
+      "lon": -3.1818
+    },
+    "it": "Orkney",
+    "it:t": "Regno Unito",
+    "es": "Orkney",
+    "es:t": "Reino Unido",
+    "de": "Orkney",
+    "de:t": "Vereinigtes Königreich"
+  },
+  {
+    "en": "Ormskirk",
+    "en:t": "United Kingdom",
+    "a": true,
+    "g": {
+      "lat": 53.5689,
+      "lon": -2.8851
+    },
+    "it": "Ormskirk",
+    "it:t": "Regno Unito",
+    "es": "Ormskirk",
+    "es:t": "Reino Unido",
+    "de": "Ormskirk",
+    "de:t": "Vereinigtes Königreich"
+  },
+  {
+    "en": "Orpington",
+    "en:t": "United Kingdom | Greater London",
+    "a": true,
+    "g": {
+      "lat": 51.3748,
+      "lon": 0.0942
+    },
+    "it": "Orpington",
+    "it:t": "Regno Unito | Greater London",
+    "es": "Orpington",
+    "es:t": "Reino Unido | Gran Londres",
+    "de": "Orpington",
+    "de:t": "Vereinigtes Königreich | Greater London"
+  },
+  {
+    "en": "Ossett",
+    "en:t": "United Kingdom | West Yorkshire",
+    "a": true,
+    "g": {
+      "lat": 53.6811,
+      "lon": -1.5789
+    },
+    "it": "Ossett",
+    "it:t": "Regno Unito | West Yorkshire",
+    "es": "Ossett",
+    "es:t": "Reino Unido | Yorkshire del Oeste",
+    "de": "Ossett",
+    "de:t": "Vereinigtes Königreich | West Yorkshire"
+  },
+  {
+    "en": "Oswestry",
+    "en:t": "United Kingdom",
+    "a": true,
+    "g": {
+      "lat": 52.8571,
+      "lon": -3.0564
+    },
+    "it": "Oswestry",
+    "it:t": "Regno Unito",
+    "es": "Oswestry",
+    "es:t": "Reino Unido",
+    "de": "Oswestry",
+    "de:t": "Vereinigtes Königreich"
+  },
+  {
+    "en": "Oxford",
+    "en:t": "United Kingdom",
+    "a": true,
+    "g": {
+      "lat": 51.752,
+      "lon": -1.2577
+    },
+    "it": "Oxford",
+    "it:t": "Regno Unito",
+    "es": "Oxford",
+    "es:t": "Reino Unido",
+    "de": "Oxford",
+    "de:t": "Vereinigtes Königreich"
+  },
+  {
+    "en": "Paignton",
+    "en:t": "United Kingdom | Torbay",
+    "a": true,
+    "g": {
+      "lat": 50.4351,
+      "lon": -3.5642
+    },
+    "it": "Paignton",
+    "it:t": "Regno Unito | Torbay",
+    "es": "Paignton",
+    "es:t": "Reino Unido | Torbay",
+    "de": "Paignton",
+    "de:t": "Vereinigtes Königreich | Torbay"
+  },
+  {
+    "en": "Paisley",
+    "en:t": "United Kingdom | Renfrewshire",
+    "a": true,
+    "g": {
+      "lat": 55.8473,
+      "lon": -4.4401
+    },
+    "it": "Paisley",
+    "it:t": "Regno Unito | Renfrewshire",
+    "es": "Paisley",
+    "es:t": "Reino Unido | Renfrewshire",
+    "de": "Paisley",
+    "de:t": "Vereinigtes Königreich | Renfrewshire"
+  },
+  {
+    "en": "Penarth",
+    "en:t": "United Kingdom | Vale of Glamorgan",
+    "a": true,
+    "g": {
+      "lat": 51.4388,
+      "lon": -3.1735
+    },
+    "it": "Penarth",
+    "it:t": "Regno Unito | Vale of Glamorgan",
+    "es": "Penarth",
+    "es:t": "Reino Unido | Valle de Glamorgan",
+    "de": "Penarth",
+    "de:t": "Vereinigtes Königreich | Vale of Glamorgan"
+  },
+  {
+    "en": "Penicuik",
+    "en:t": "United Kingdom",
+    "a": true,
+    "g": {
+      "lat": 55.8309,
+      "lon": -3.2245
+    },
+    "it": "Penicuik",
+    "it:t": "Regno Unito",
+    "es": "Penicuik",
+    "es:t": "Reino Unido",
+    "de": "Penicuik",
+    "de:t": "Vereinigtes Königreich"
+  },
+  {
+    "en": "Penzance",
+    "en:t": "United Kingdom | Cornwall",
+    "a": true,
+    "g": {
+      "lat": 50.1188,
+      "lon": -5.5376
+    },
+    "it": "Penzance",
+    "it:t": "Regno Unito | Cornovaglia",
+    "es": "Penzance",
+    "es:t": "Reino Unido | Cornualles",
+    "de": "Penzance",
+    "de:t": "Vereinigtes Königreich | Cornwall"
+  },
+  {
+    "en": "Perth",
+    "en:t": "United Kingdom",
+    "a": true,
+    "g": {
+      "lat": 56.395,
+      "lon": -3.4308
+    },
+    "it": "Perth",
+    "it:t": "Regno Unito",
+    "es": "Perth",
+    "es:t": "Reino Unido",
+    "de": "Perth",
+    "de:t": "Vereinigtes Königreich"
+  },
+  {
+    "en": "Peterborough",
+    "en:t": "United Kingdom",
+    "a": true,
+    "g": {
+      "lat": 52.5695,
+      "lon": -0.2405
+    },
+    "it": "Peterborough",
+    "it:t": "Regno Unito",
+    "es": "Peterborough",
+    "es:t": "Reino Unido",
+    "de": "Peterborough",
+    "de:t": "Vereinigtes Königreich"
+  },
+  {
+    "en": "Peterhead",
+    "en:t": "United Kingdom | Aberdeenshire",
+    "a": true,
+    "g": {
+      "lat": 57.5081,
+      "lon": -1.7841
+    },
+    "it": "Peterhead",
+    "it:t": "Regno Unito | Aberdeenshire",
+    "es": "Peterhead",
+    "es:t": "Reino Unido | Aberdeenshire",
+    "de": "Peterhead",
+    "de:t": "Vereinigtes Königreich | Aberdeenshire"
+  },
+  {
+    "en": "Peterlee",
+    "en:t": "United Kingdom | Durham",
+    "a": true,
+    "g": {
+      "lat": 54.7624,
+      "lon": -1.329
+    },
+    "it": "Peterlee",
+    "it:t": "Regno Unito | Durham",
+    "es": "Peterlee",
+    "es:t": "Reino Unido | Durham",
+    "de": "Peterlee",
+    "de:t": "Vereinigtes Königreich | Durham"
+  },
+  {
+    "en": "Pinner",
+    "en:t": "United Kingdom | Greater London",
+    "a": true,
+    "g": {
+      "lat": 51.5952,
+      "lon": -0.378
+    },
+    "it": "Pinner",
+    "it:t": "Regno Unito | Greater London",
+    "es": "Pinner",
+    "es:t": "Reino Unido | Greater London",
+    "de": "Pinner",
+    "de:t": "Vereinigtes Königreich | Greater London"
+  },
+  {
+    "en": "Pitsea",
+    "en:t": "United Kingdom | Basildon",
+    "a": true,
+    "g": {
+      "lat": 51.5649,
+      "lon": 0.5051
+    },
+    "it": "Pitsea",
+    "it:t": "Regno Unito | Basildon",
+    "es": "Pitsea",
+    "es:t": "Reino Unido | Basildon",
+    "de": "Pitsea",
+    "de:t": "Vereinigtes Königreich | Basildon"
+  },
+  {
+    "en": "Plymouth",
+    "en:t": "United Kingdom",
+    "a": true,
+    "g": {
+      "lat": 50.3755,
+      "lon": -4.1427
+    },
+    "it": "Plymouth",
+    "it:t": "Regno Unito",
+    "es": "Plymouth",
+    "es:t": "Reino Unido",
+    "de": "Plymouth",
+    "de:t": "Vereinigtes Königreich"
+  },
+  {
+    "en": "Plymstock",
+    "en:t": "United Kingdom | Plymouth",
+    "a": true,
+    "g": {
+      "lat": 50.3565,
+      "lon": -4.0897
+    },
+    "it": "Plymstock",
+    "it:t": "Regno Unito | Plymouth",
+    "es": "Plymstock",
+    "es:t": "Reino Unido | Plymouth",
+    "de": "Plymstock",
+    "de:t": "Vereinigtes Königreich | Plymouth"
+  },
+  {
+    "en": "Polmont",
+    "en:t": "United Kingdom | Falkirk",
+    "a": true,
+    "g": {
+      "lat": 55.9906,
+      "lon": -3.7073
+    },
+    "it": "Polmont",
+    "it:t": "Regno Unito | Falkirk",
+    "es": "Polmont",
+    "es:t": "Reino Unido | Falkirk",
+    "de": "Polmont",
+    "de:t": "Vereinigtes Königreich | Falkirk"
+  },
+  {
+    "en": "Pontefract",
+    "en:t": "United Kingdom",
+    "a": true,
+    "g": {
+      "lat": 53.6917,
+      "lon": -1.3086
+    },
+    "it": "Pontefract",
+    "it:t": "Regno Unito",
+    "es": "Pontefract",
+    "es:t": "Reino Unido",
+    "de": "Pontefract",
+    "de:t": "Vereinigtes Königreich"
+  },
+  {
+    "en": "Pontypool",
+    "en:t": "United Kingdom",
+    "a": true,
+    "g": {
+      "lat": 51.7004,
+      "lon": -3.0453
+    },
+    "it": "Pontypool",
+    "it:t": "Regno Unito",
+    "es": "Pontypool",
+    "es:t": "Reino Unido",
+    "de": "Pontypool",
+    "de:t": "Vereinigtes Königreich"
+  },
+  {
+    "en": "Pontypridd",
+    "en:t": "United Kingdom | Rhondda Cynon Taff",
+    "a": true,
+    "g": {
+      "lat": 51.6008,
+      "lon": -3.3423
+    },
+    "it": "Pontypridd",
+    "it:t": "Regno Unito | Rhondda Cynon Taff",
+    "es": "Pontypridd",
+    "es:t": "Reino Unido | Rhondda Cynon Taff",
+    "de": "Pontypridd",
+    "de:t": "Vereinigtes Königreich | Rhondda Cynon Taf"
+  },
+  {
+    "en": "Poole",
+    "en:t": "United Kingdom",
+    "a": true,
+    "g": {
+      "lat": 50.715,
+      "lon": -1.9872
+    },
+    "it": "Poole",
+    "it:t": "Regno Unito",
+    "es": "Poole",
+    "es:t": "Reino Unido",
+    "de": "Poole",
+    "de:t": "Vereinigtes Königreich"
+  },
+  {
+    "en": "Port Glasgow",
+    "en:t": "United Kingdom | Inverclyde",
+    "a": true,
+    "g": {
+      "lat": 55.9323,
+      "lon": -4.6798
+    },
+    "it": "Port Glasgow",
+    "it:t": "Regno Unito | Inverclyde",
+    "es": "Port Glasgow",
+    "es:t": "Reino Unido | Inverclyde",
+    "de": "Port Glasgow",
+    "de:t": "Vereinigtes Königreich | Inverclyde"
+  },
+  {
+    "en": "Portadown",
+    "en:t": "United Kingdom | Craigavon",
+    "a": true,
+    "g": {
+      "lat": 54.4203,
+      "lon": -6.4548
+    },
+    "it": "Portadown",
+    "it:t": "Regno Unito | Craigavon",
+    "es": "Portadown",
+    "es:t": "Reino Unido | Craigavon",
+    "de": "Portadown",
+    "de:t": "Vereinigtes Königreich | Craigavon"
+  },
+  {
+    "en": "Porthcawl",
+    "en:t": "United Kingdom | Bridgend Borough",
+    "a": true,
+    "g": {
+      "lat": 51.479,
+      "lon": -3.7052
+    },
+    "it": "Porthcawl",
+    "it:t": "Regno Unito | Bridgend",
+    "es": "Porthcawl",
+    "es:t": "Reino Unido | Bridgend",
+    "de": "Porthcawl",
+    "de:t": "Vereinigtes Königreich | Bridgend"
+  },
+  {
+    "en": "Portishead",
+    "en:t": "United Kingdom | North Somerset",
+    "a": true,
+    "g": {
+      "lat": 51.4852,
+      "lon": -2.7679
+    },
+    "it": "Portishead",
+    "it:t": "Regno Unito | North Somerset",
+    "es": "Portishead",
+    "es:t": "Reino Unido | Somerset Norte",
+    "de": "Portishead",
+    "de:t": "Vereinigtes Königreich | North Somerset"
+  },
+  {
+    "en": "Portslade",
+    "en:t": "United Kingdom | Brighton and Hove",
+    "a": true,
+    "g": {
+      "lat": 50.8427,
+      "lon": -0.2142
+    },
+    "it": "Portslade",
+    "it:t": "Regno Unito | Brighton and Hove",
+    "es": "Portslade",
+    "es:t": "Reino Unido | Brighton & Hove",
+    "de": "Portslade",
+    "de:t": "Vereinigtes Königreich | Brighton and Hove"
+  },
+  {
+    "en": "Portsmouth",
+    "en:t": "United Kingdom",
+    "a": true,
+    "g": {
+      "lat": 50.8198,
+      "lon": -1.088
+    },
+    "it": "Portsmouth",
+    "it:t": "Regno Unito",
+    "es": "Portsmouth",
+    "es:t": "Reino Unido",
+    "de": "Portsmouth",
+    "de:t": "Vereinigtes Königreich"
+  },
+  {
+    "en": "Potters Bar",
+    "en:t": "United Kingdom | Hertfordshire",
+    "a": true,
+    "g": {
+      "lat": 51.6966,
+      "lon": -0.1759
+    },
+    "it": "Potters Bar",
+    "it:t": "Regno Unito | Hertfordshire",
+    "es": "Potters Bar",
+    "es:t": "Reino Unido | Hertfordshire",
+    "de": "Potters Bar",
+    "de:t": "Vereinigtes Königreich | Hertfordshire"
+  },
+  {
+    "en": "Poulton-le-Fylde",
+    "en:t": "United Kingdom | Lancashire",
+    "a": true,
+    "g": {
+      "lat": 53.844,
+      "lon": -2.9863
+    },
+    "it": "Poulton-le-Fylde",
+    "it:t": "Regno Unito | Lancashire",
+    "es": "Poulton-le-Fylde",
+    "es:t": "Reino Unido | Lancashire",
+    "de": "Poulton-le-Fylde",
+    "de:t": "Vereinigtes Königreich | Lancashire"
+  },
+  {
+    "en": "Prescot",
+    "en:t": "United Kingdom",
+    "a": true,
+    "g": {
+      "lat": 53.4287,
+      "lon": -2.8046
+    },
+    "it": "Prescot",
+    "it:t": "Regno Unito",
+    "es": "Prescot",
+    "es:t": "Reino Unido",
+    "de": "Prescot",
+    "de:t": "Vereinigtes Königreich"
+  },
+  {
+    "en": "Prestatyn",
+    "en:t": "United Kingdom | Denbighshire",
+    "a": true,
+    "g": {
+      "lat": 53.3365,
+      "lon": -3.4076
+    },
+    "it": "Prestatyn",
+    "it:t": "Regno Unito | Denbighshire",
+    "es": "Prestatyn",
+    "es:t": "Reino Unido | Denbighshire",
+    "de": "Prestatyn",
+    "de:t": "Vereinigtes Königreich | Denbighshire"
+  },
+  {
+    "en": "Preston",
+    "en:t": "United Kingdom",
+    "a": true,
+    "g": {
+      "lat": 53.7632,
+      "lon": -2.7031
+    },
+    "it": "Preston",
+    "it:t": "Regno Unito",
+    "es": "Preston",
+    "es:t": "Reino Unido",
+    "de": "Preston",
+    "de:t": "Vereinigtes Königreich"
+  },
+  {
+    "en": "Prestwich",
+    "en:t": "United Kingdom | Manchester",
+    "a": true,
+    "g": {
+      "lat": 53.527,
+      "lon": -2.2806
+    },
+    "it": "Prestwich",
+    "it:t": "Regno Unito | Manchester",
+    "es": "Prestwich",
+    "es:t": "Reino Unido | Manchester",
+    "de": "Prestwich",
+    "de:t": "Vereinigtes Königreich | Manchester"
+  },
+  {
+    "en": "Prestwick",
+    "en:t": "United Kingdom | South Ayrshire",
+    "a": true,
+    "g": {
+      "lat": 55.4956,
+      "lon": -4.6142
+    },
+    "it": "Prestwick",
+    "it:t": "Regno Unito | Ayrshire Meridionale",
+    "es": "Prestwick",
+    "es:t": "Reino Unido | Ayrshire Sur",
+    "de": "Prestwick",
+    "de:t": "Vereinigtes Königreich | South Ayrshire"
+  },
+  {
+    "en": "Pudsey",
+    "en:t": "United Kingdom | West Yorkshire",
+    "a": true,
+    "g": {
+      "lat": 53.7958,
+      "lon": -1.6761
+    },
+    "it": "Pudsey",
+    "it:t": "Regno Unito | West Yorkshire",
+    "es": "Pudsey",
+    "es:t": "Reino Unido | Yorkshire del Oeste",
+    "de": "Pudsey",
+    "de:t": "Vereinigtes Königreich | West Yorkshire"
+  },
+  {
+    "en": "Purley",
+    "en:t": "United Kingdom | Greater London",
+    "a": true,
+    "g": {
+      "lat": 51.3392,
+      "lon": -0.1197
+    },
+    "it": "Purley",
+    "it:t": "Regno Unito | Greater London",
+    "es": "Purley",
+    "es:t": "Reino Unido | Greater London",
+    "de": "Purley",
+    "de:t": "Vereinigtes Königreich | Greater London"
+  },
+  {
+    "en": "Radcliffe",
+    "en:t": "United Kingdom | Greater Manchester",
+    "a": true,
+    "g": {
+      "lat": 53.5614,
+      "lon": -2.3268
+    },
+    "it": "Radcliffe",
+    "it:t": "Regno Unito | Greater Manchester",
+    "es": "Radcliffe",
+    "es:t": "Reino Unido | Gran Mánchester",
+    "de": "Radcliffe",
+    "de:t": "Vereinigtes Königreich | Greater Manchester"
+  },
+  {
+    "en": "Ramsbottom",
+    "en:t": "United Kingdom | Bury",
+    "a": true,
+    "g": {
+      "lat": 53.6485,
+      "lon": -2.3205
+    },
+    "it": "Ramsbottom",
+    "it:t": "Regno Unito | Bury",
+    "es": "Ramsbottom",
+    "es:t": "Reino Unido | Bury",
+    "de": "Ramsbottom",
+    "de:t": "Vereinigtes Königreich | Bury"
+  },
+  {
+    "en": "Ramsgate",
+    "en:t": "United Kingdom | Kent",
+    "a": true,
+    "g": {
+      "lat": 51.3355,
+      "lon": 1.4199
+    },
+    "it": "Ramsgate",
+    "it:t": "Regno Unito | Kent",
+    "es": "Ramsgate",
+    "es:t": "Reino Unido | Kent",
+    "de": "Ramsgate",
+    "de:t": "Vereinigtes Königreich | Kent"
+  },
+  {
+    "en": "Rawtenstall",
+    "en:t": "United Kingdom | Rossendale",
+    "a": true,
+    "g": {
+      "lat": 53.7005,
+      "lon": -2.3015
+    },
+    "it": "Rawtenstall",
+    "it:t": "Regno Unito | Rossendale",
+    "es": "Rawtenstall",
+    "es:t": "Reino Unido | Rossendale",
+    "de": "Rawtenstall",
+    "de:t": "Vereinigtes Königreich | Rossendale"
+  },
+  {
+    "en": "Rossendale",
+    "en:t": "United Kingdom",
+    "a": true,
+    "g": {
+      "lat": 53.694,
+      "lon": -2.256
+    },
+    "it": "Rossendale",
+    "it:t": "Regno Unito",
+    "es": "Rossendale",
+    "es:t": "Reino Unido",
+    "de": "Rossendale",
+    "de:t": "Vereinigtes Königreich"
+  },
+  {
+    "en": "Shetland Islands",
+    "en:t": "United Kingdom | Scotland",
+    "a": true,
+    "g": {
+      "lat": 60.5297,
+      "lon": -1.2659
+    },
+    "it": "Isole Shetland",
+    "it:t": "Regno Unito | Scozia",
+    "es": "Mainland",
+    "es:t": "Reino Unido | Shetland",
+    "de": "Shetlandinseln",
+    "de:t": "Vereinigtes Königreich | Schottland"
+  },
+  {
+    "en": "Shirley",
+    "en:t": "United Kingdom | Solihull",
+    "a": true,
+    "g": {
+      "lat": 52.4104,
+      "lon": -1.8194
+    },
+    "it": "Shirley",
+    "it:t": "Regno Unito | Solihull",
+    "es": "Shirley",
+    "es:t": "Reino Unido | Solihull",
+    "de": "Shirley",
+    "de:t": "Vereinigtes Königreich | Solihull"
+  },
+  {
+    "en": "South Croydon",
+    "en:t": "United Kingdom | Greater London",
+    "a": true,
+    "g": {
+      "lat": 51.3574,
+      "lon": -0.0983
+    },
+    "it": "South Croydon",
+    "it:t": "Regno Unito | Greater London",
+    "es": "South Croydon",
+    "es:t": "Reino Unido | Greater London",
+    "de": "South Croydon",
+    "de:t": "Vereinigtes Königreich | Greater London"
+  },
+  {
+    "en": "Stanley",
+    "en:t": "United Kingdom | Durham",
+    "a": true,
+    "g": {
+      "lat": 54.8689,
+      "lon": -1.6988
+    },
+    "it": "Stanley",
+    "it:t": "Regno Unito | Durham",
+    "es": "Stanley",
+    "es:t": "Reino Unido | Durham",
+    "de": "Stanley",
+    "de:t": "Vereinigtes Königreich | Durham"
+  },
+  {
+    "en": "Surbiton",
+    "en:t": "United Kingdom",
+    "a": true,
+    "g": {
+      "lat": 51.394,
+      "lon": -0.3027
+    },
+    "it": "Surbiton",
+    "it:t": "Regno Unito",
+    "es": "Surbiton",
+    "es:t": "Reino Unido",
+    "de": "Surbiton",
+    "de:t": "Vereinigtes Königreich"
+  },
+  {
+    "en": "Telford",
+    "en:t": "United Kingdom",
+    "a": true,
+    "g": {
+      "lat": 52.6784,
+      "lon": -2.4453
+    },
+    "it": "Telford",
+    "it:t": "Regno Unito",
+    "es": "Telford",
+    "es:t": "Reino Unido",
+    "de": "Telford",
+    "de:t": "Vereinigtes Königreich"
+  },
+  {
+    "en": "Thornton-Cleveleys",
+    "en:t": "United Kingdom",
+    "a": true,
+    "g": {
+      "lat": 53.8737,
+      "lon": -3.0214
+    },
+    "it": "Thornton-Cleveleys",
+    "it:t": "Regno Unito",
+    "es": "Thornton-Cleveleys",
+    "es:t": "Reino Unido",
+    "de": "Thornton-Cleveleys",
+    "de:t": "Vereinigtes Königreich"
+  },
+  {
+    "en": "Yateley",
+    "en:t": "United Kingdom",
+    "a": true,
+    "g": {
+      "lat": 51.3426,
+      "lon": -0.8263
+    },
+    "it": "Yateley",
+    "it:t": "Regno Unito",
+    "es": "Yateley",
+    "es:t": "Reino Unido",
+    "de": "Yateley",
+    "de:t": "Vereinigtes Königreich"
+  }
+]

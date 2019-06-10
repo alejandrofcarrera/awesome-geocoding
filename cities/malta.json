@@ -1,0 +1,77 @@
+[
+    {
+        "en": "Birkirkara",
+        "en:t": "Malta",
+        "a": true,
+        "g": {
+            "lat": 35.8955,
+            "lon": 14.4665
+        },
+        "it": "Birchircara",
+        "it:t": "Malta",
+        "es": "Birkirkara",
+        "es:t": "Malta",
+        "de": "Birkirkara",
+        "de:t": "Malta"
+    },
+    {
+        "en": "Mosta",
+        "en:t": "Malta",
+        "a": true,
+        "g": {
+            "lat": 35.9142,
+            "lon": 14.4228
+        },
+        "it": "Musta",
+        "it:t": "Malta",
+        "es": "Mosta",
+        "es:t": "Malta",
+        "de": "Mosta",
+        "de:t": "Malta"
+    },
+    {
+        "en": "Qormi",
+        "en:t": "Malta",
+        "a": true,
+        "g": {
+            "lat": 35.8764,
+            "lon": 14.4694
+        },
+        "it": "Curmi",
+        "it:t": "Malta",
+        "es": "Qormi",
+        "es:t": "Malta",
+        "de": "Qormi",
+        "de:t": "Malta"
+    },
+    {
+        "en": "Valletta",
+        "en:t": "Malta",
+        "a": true,
+        "g": {
+            "lat": 35.8989,
+            "lon": 14.5146
+        },
+        "it": "La Valletta",
+        "it:t": "Malta",
+        "es": "La Valeta",
+        "es:t": "Malta",
+        "de": "Valletta",
+        "de:t": "Malta"
+    },
+    {
+        "en": "\u0126a\u017c-\u017babbar",
+        "en:t": "Malta",
+        "a": true,
+        "g": {
+            "lat": 35.8725,
+            "lon": 14.5451
+        },
+        "it": "Zabbar",
+        "it:t": "Malta",
+        "es": "\u017babbar",
+        "es:t": "Malta",
+        "de": "\u017babbar",
+        "de:t": "Malta"
+    }
+]

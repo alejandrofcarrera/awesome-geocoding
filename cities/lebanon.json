@@ -1,0 +1,197 @@
+[
+    {
+        "en": "Baalbek",
+        "en:t": "Lebanon",
+        "a": true,
+        "g": {
+            "lat": 34.0047,
+            "lon": 36.211
+        },
+        "it": "Baalbek",
+        "it:t": "Libano",
+        "es": "Baalbek",
+        "es:t": "L\u00edbano",
+        "de": "Baalbek",
+        "de:t": "Libanon"
+    },
+    {
+        "en": "Beirut",
+        "en:t": "Lebanon",
+        "a": true,
+        "g": {
+            "lat": 33.8938,
+            "lon": 35.5018
+        },
+        "it": "Beirut",
+        "it:t": "Libano",
+        "es": "Beirut",
+        "es:t": "L\u00edbano",
+        "de": "Beirut",
+        "de:t": "Libanon"
+    },
+    {
+        "en": "Bsharri",
+        "en:t": "Lebanon | Bcharre",
+        "a": true,
+        "g": {
+            "lat": 34.2507,
+            "lon": 36.0117
+        },
+        "it": "Bsharre",
+        "it:t": "Libano | Bsharre",
+        "es": "Bisharri",
+        "es:t": "L\u00edbano | Bsharri",
+        "de": "Bischarri",
+        "de:t": "Libanon | Bischarri"
+    },
+    {
+        "en": "Byblos",
+        "en:t": "Lebanon",
+        "a": true,
+        "g": {
+            "lat": 34.123,
+            "lon": 35.6519
+        },
+        "it": "Jbeil",
+        "it:t": "Libano",
+        "es": "Biblos",
+        "es:t": "L\u00edbano",
+        "de": "Byblos",
+        "de:t": "Libanon"
+    },
+    {
+        "en": "Habbouch",
+        "en:t": "Lebanon | Nabatiyeh",
+        "a": true,
+        "g": {
+            "lat": 33.4074,
+            "lon": 35.4786
+        },
+        "it": "Habbouch",
+        "it:t": "Libano | Nabatiye",
+        "es": "Nabatieh",
+        "es:t": "L\u00edbano | Nabatiyeh",
+        "de": "Nabat\u00e4a",
+        "de:t": "Libanon | Nabat\u00e4a"
+    },
+    {
+        "en": "Jounieh",
+        "en:t": "Lebanon",
+        "a": true,
+        "g": {
+            "lat": 33.9843,
+            "lon": 35.6344
+        },
+        "it": "Monte Libano",
+        "it:t": "Libano",
+        "es": "Gobernaci\u00f3n del Monte L\u00edbano",
+        "es:t": "L\u00edbano",
+        "de": "Jounieh",
+        "de:t": "Libanon"
+    },
+    {
+        "en": "Nabatieh",
+        "en:t": "Lebanon | Nabatiyeh",
+        "a": true,
+        "g": {
+            "lat": 33.3772,
+            "lon": 35.4836
+        },
+        "it": "Nabatiye",
+        "it:t": "Libano | Nabatiye",
+        "es": "Nabatieh",
+        "es:t": "L\u00edbano | Nabatiyeh",
+        "de": "Nabat\u00e4a",
+        "de:t": "Libanon | Nabat\u00e4a"
+    },
+    {
+        "en": "Naqoura",
+        "en:t": "Lebanon | Tyre",
+        "a": true,
+        "g": {
+            "lat": 33.1183,
+            "lon": 35.1399
+        },
+        "it": "Naqura",
+        "it:t": "Libano | Tiro",
+        "es": "Naqoura",
+        "es:t": "L\u00edbano | Tyre",
+        "de": "Naqura",
+        "de:t": "Libanon | Tyros"
+    },
+    {
+        "en": "Ra's Bayrut",
+        "en:t": "Lebanon | Beirut",
+        "a": true,
+        "g": {
+            "lat": 33.8933,
+            "lon": 35.4692
+        },
+        "it": "Ra's Bayrut",
+        "it:t": "Libano | Beirut",
+        "es": "Ra's Bayrut",
+        "es:t": "L\u00edbano | Beirut",
+        "de": "Ra's Bayrut",
+        "de:t": "Libanon | Beirut"
+    },
+    {
+        "en": "Sidon",
+        "en:t": "Lebanon",
+        "a": true,
+        "g": {
+            "lat": 33.5571,
+            "lon": 35.3729
+        },
+        "it": "Sidone",
+        "it:t": "Libano",
+        "es": "Sid\u00f3n",
+        "es:t": "L\u00edbano",
+        "de": "Sidon",
+        "de:t": "Libanon"
+    },
+    {
+        "en": "Tripoli",
+        "en:t": "Lebanon",
+        "a": true,
+        "g": {
+            "lat": 34.4346,
+            "lon": 35.8362
+        },
+        "it": "Tripoli",
+        "it:t": "Libano",
+        "es": "Tr\u00edpoli",
+        "es:t": "L\u00edbano",
+        "de": "Tripoli",
+        "de:t": "Libanon"
+    },
+    {
+        "en": "Tyre",
+        "en:t": "Lebanon",
+        "a": true,
+        "g": {
+            "lat": 33.2705,
+            "lon": 35.2038
+        },
+        "it": "Tiro",
+        "it:t": "Libano",
+        "es": "Tiro",
+        "es:t": "L\u00edbano",
+        "de": "Tyros",
+        "de:t": "Libanon"
+    },
+    {
+        "en": "Zahl\u00e9",
+        "en:t": "Lebanon",
+        "a": true,
+        "g": {
+            "lat": 33.8462,
+            "lon": 35.902
+        },
+        "it": "Zahle",
+        "it:t": "Libano",
+        "es": "Zahl\u00e9",
+        "es:t": "L\u00edbano",
+        "de": "Zahl\u00e9",
+        "de:t": "Libanon"
+    }
+]

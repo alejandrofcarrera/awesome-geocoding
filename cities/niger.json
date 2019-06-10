@@ -1,0 +1,362 @@
+[
+    {
+        "en": "Agadez",
+        "en:t": "Niger | Tchirozerine",
+        "a": true,
+        "g": {
+            "lat": 16.9742,
+            "lon": 7.9865
+        },
+        "it": "Agadez",
+        "it:t": "Niger | Tchirozerine",
+        "es": "Agadez",
+        "es:t": "N\u00edger | Tchiroz\u00e9rine",
+        "de": "Agadez",
+        "de:t": "Niger | Tchiroz\u00e9rine"
+    },
+    {
+        "en": "Ayorou",
+        "en:t": "Niger | Tillaberi",
+        "a": true,
+        "g": {
+            "lat": 14.7328,
+            "lon": 0.9104
+        },
+        "it": "Ayorou",
+        "it:t": "Niger | Tillaberi",
+        "es": "Ayorou",
+        "es:t": "N\u00edger | Tillaberi",
+        "de": "Ay\u00e9rou",
+        "de:t": "Niger | Tillaberi"
+    },
+    {
+        "en": "Birnin Konni",
+        "en:t": "Niger",
+        "a": true,
+        "g": {
+            "lat": 13.7947,
+            "lon": 5.2528
+        },
+        "it": "Birni N'Konni",
+        "it:t": "Niger",
+        "es": "Birni Konni",
+        "es:t": "N\u00edger",
+        "de": "Birni-N'Konni",
+        "de:t": "Niger"
+    },
+    {
+        "en": "Dakoro",
+        "en:t": "Niger",
+        "a": true,
+        "g": {
+            "lat": 14.5089,
+            "lon": 6.7655
+        },
+        "it": "Dakoro",
+        "it:t": "Niger",
+        "es": "Dakoro",
+        "es:t": "N\u00edger",
+        "de": "Dakoro",
+        "de:t": "Niger"
+    },
+    {
+        "en": "Diffa",
+        "en:t": "Niger",
+        "a": true,
+        "g": {
+            "lat": 13.3132,
+            "lon": 12.6159
+        },
+        "it": "Diffa",
+        "it:t": "Niger",
+        "es": "Diffa",
+        "es:t": "N\u00edger",
+        "de": "Diffa",
+        "de:t": "Niger"
+    },
+    {
+        "en": "Dogondoutchi",
+        "en:t": "Niger",
+        "a": true,
+        "g": {
+            "lat": 13.6442,
+            "lon": 4.0338
+        },
+        "it": "Dogondoutchi",
+        "it:t": "Niger",
+        "es": "Dogondoutchi",
+        "es:t": "N\u00edger",
+        "de": "Dogondoutchi",
+        "de:t": "Niger"
+    },
+    {
+        "en": "Dosso",
+        "en:t": "Niger",
+        "a": true,
+        "g": {
+            "lat": 13.0505,
+            "lon": 3.2081
+        },
+        "it": "Dosso",
+        "it:t": "Niger",
+        "es": "Dosso",
+        "es:t": "N\u00edger",
+        "de": "Dosso",
+        "de:t": "Niger"
+    },
+    {
+        "en": "Gaya",
+        "en:t": "Niger",
+        "a": true,
+        "g": {
+            "lat": 11.8853,
+            "lon": 3.4549
+        },
+        "it": "Gaya",
+        "it:t": "Niger",
+        "es": "Gaya",
+        "es:t": "N\u00edger",
+        "de": "Gaya",
+        "de:t": "Niger"
+    },
+    {
+        "en": "Ill\u00e9la",
+        "en:t": "Niger",
+        "a": true,
+        "g": {
+            "lat": 14.4635,
+            "lon": 5.2502
+        },
+        "it": "Ill\u00e9la",
+        "it:t": "Niger",
+        "es": "Ill\u00e9la",
+        "es:t": "N\u00edger",
+        "de": "Ill\u00e9la",
+        "de:t": "Niger"
+    },
+    {
+        "en": "Madaoua",
+        "en:t": "Niger",
+        "a": true,
+        "g": {
+            "lat": 14.079,
+            "lon": 5.9568
+        },
+        "it": "Madaoua",
+        "it:t": "Niger",
+        "es": "Madaoua",
+        "es:t": "N\u00edger",
+        "de": "Madaoua",
+        "de:t": "Niger"
+    },
+    {
+        "en": "Magaria",
+        "en:t": "Niger",
+        "a": true,
+        "g": {
+            "lat": 13.0035,
+            "lon": 8.908
+        },
+        "it": "Magaria",
+        "it:t": "Niger",
+        "es": "Magaria",
+        "es:t": "N\u00edger",
+        "de": "Magaria",
+        "de:t": "Niger"
+    },
+    {
+        "en": "Maradi",
+        "en:t": "Niger | Madarounfa",
+        "a": true,
+        "g": {
+            "lat": 13.501,
+            "lon": 7.1036
+        },
+        "it": "Maradi",
+        "it:t": "Niger | Madarounfa",
+        "es": "Maradi",
+        "es:t": "N\u00edger | Madarounfa",
+        "de": "Maradi",
+        "de:t": "Niger | Madarounfa"
+    },
+    {
+        "en": "Matameye",
+        "en:t": "Niger",
+        "a": true,
+        "g": {
+            "lat": 13.4212,
+            "lon": 8.476
+        },
+        "it": "Matamey",
+        "it:t": "Niger",
+        "es": "Matam\u00e8ye",
+        "es:t": "N\u00edger",
+        "de": "Matam\u00e8ye",
+        "de:t": "Niger"
+    },
+    {
+        "en": "Mayahi",
+        "en:t": "Niger",
+        "a": true,
+        "g": {
+            "lat": 13.9501,
+            "lon": 7.6711
+        },
+        "it": "Mayahi",
+        "it:t": "Niger",
+        "es": "Mayahi",
+        "es:t": "N\u00edger",
+        "de": "Mayahi",
+        "de:t": "Niger"
+    },
+    {
+        "en": "Mirria",
+        "en:t": "Niger",
+        "a": true,
+        "g": {
+            "lat": 13.7122,
+            "lon": 9.1595
+        },
+        "it": "Mirriah",
+        "it:t": "Niger",
+        "es": "Mirriah",
+        "es:t": "N\u00edger",
+        "de": "Mirriah",
+        "de:t": "Niger"
+    },
+    {
+        "en": "N'Guigmi",
+        "en:t": "Niger | Nguigmi",
+        "a": true,
+        "g": {
+            "lat": 14.2554,
+            "lon": 13.1135
+        },
+        "it": "N'guigmi",
+        "it:t": "Niger | N'guigmi",
+        "es": "N'Guigmi",
+        "es:t": "N\u00edger | N'guigmi",
+        "de": "N'Guigmi",
+        "de:t": "Niger | N\u2019Guigmi"
+    },
+    {
+        "en": "Niamey",
+        "en:t": "Niger",
+        "a": true,
+        "g": {
+            "lat": 13.5116,
+            "lon": 2.1254
+        },
+        "it": "Niamey",
+        "it:t": "Niger",
+        "es": "Niamey",
+        "es:t": "N\u00edger",
+        "de": "Niamey",
+        "de:t": "Niger"
+    },
+    {
+        "en": "Tahoua",
+        "en:t": "Niger",
+        "a": true,
+        "g": {
+            "lat": 14.8905,
+            "lon": 5.258
+        },
+        "it": "Tahoua",
+        "it:t": "Niger",
+        "es": "Tahoua",
+        "es:t": "N\u00edger",
+        "de": "Tahoua",
+        "de:t": "Niger"
+    },
+    {
+        "en": "Tera",
+        "en:t": "Niger",
+        "a": true,
+        "g": {
+            "lat": 14.0032,
+            "lon": 0.7557
+        },
+        "it": "T\u00e9ra",
+        "it:t": "Niger",
+        "es": "T\u00e9ra",
+        "es:t": "N\u00edger",
+        "de": "T\u00e9ra",
+        "de:t": "Niger"
+    },
+    {
+        "en": "Tessaoua",
+        "en:t": "Niger",
+        "a": true,
+        "g": {
+            "lat": 13.7559,
+            "lon": 7.9865
+        },
+        "it": "Tessaoua",
+        "it:t": "Niger",
+        "es": "Tessaoua",
+        "es:t": "N\u00edger",
+        "de": "Tessaoua",
+        "de:t": "Niger"
+    },
+    {
+        "en": "Tibiri",
+        "en:t": "Niger | Groumdji",
+        "a": true,
+        "g": {
+            "lat": 13.5656,
+            "lon": 7.0552
+        },
+        "it": "Tibiri",
+        "it:t": "Niger | Groumdji",
+        "es": "Tibiri",
+        "es:t": "N\u00edger | Groumdji",
+        "de": "Tibiri",
+        "de:t": "Niger | Groumdji"
+    },
+    {
+        "en": "Tillab\u00e9ri",
+        "en:t": "Niger | Tillaberi",
+        "a": true,
+        "g": {
+            "lat": 14.2061,
+            "lon": 1.458
+        },
+        "it": "Tillab\u00e9ri",
+        "it:t": "Niger | Tillaberi",
+        "es": "Tillab\u00e9ri",
+        "es:t": "N\u00edger | Tillaberi",
+        "de": "Tillab\u00e9ri",
+        "de:t": "Niger | Tillaberi"
+    },
+    {
+        "en": "T\u00e2nout",
+        "en:t": "Niger",
+        "a": true,
+        "g": {
+            "lat": 14.9729,
+            "lon": 8.8832
+        },
+        "it": "Tanout",
+        "it:t": "Niger",
+        "es": "Tanout",
+        "es:t": "N\u00edger",
+        "de": "Tanout",
+        "de:t": "Niger"
+    },
+    {
+        "en": "Zinder",
+        "en:t": "Niger | Mirriah",
+        "a": true,
+        "g": {
+            "lat": 13.8018,
+            "lon": 8.9853
+        },
+        "it": "Zinder",
+        "it:t": "Niger | Mirriah",
+        "es": "Zinder",
+        "es:t": "N\u00edger | Mirriah",
+        "de": "Zinder",
+        "de:t": "Niger | Mirriah"
+    }
+]

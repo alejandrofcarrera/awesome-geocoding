@@ -1,0 +1,542 @@
+[
+    {
+        "en": "Bluefields",
+        "en:t": "Nicaragua | South Caribbean Coast",
+        "a": true,
+        "g": {
+            "lat": 12.0111,
+            "lon": -83.7704
+        },
+        "it": "Bluefields",
+        "it:t": "Nicaragua | Atlantico Sud",
+        "es": "Bluefields",
+        "es:t": "Nicaragua | Costa Caribe Sur",
+        "de": "Bluefields",
+        "de:t": "Nicaragua | Atl\u00e1ntico Sur"
+    },
+    {
+        "en": "Boaco",
+        "en:t": "Nicaragua",
+        "a": true,
+        "g": {
+            "lat": 12.4693,
+            "lon": -85.6615
+        },
+        "it": "Boaco",
+        "it:t": "Nicaragua",
+        "es": "Boaco",
+        "es:t": "Nicaragua",
+        "de": "Boaco",
+        "de:t": "Nicaragua"
+    },
+    {
+        "en": "Camoapa",
+        "en:t": "Nicaragua | Boaco",
+        "a": true,
+        "g": {
+            "lat": 12.3867,
+            "lon": -85.5071
+        },
+        "it": "Camoapa",
+        "it:t": "Nicaragua | Boaco",
+        "es": "Camoapa",
+        "es:t": "Nicaragua | Boaco",
+        "de": "Camoapa",
+        "de:t": "Nicaragua | Boaco"
+    },
+    {
+        "en": "Chichigalpa",
+        "en:t": "Nicaragua | Chinandega",
+        "a": true,
+        "g": {
+            "lat": 12.5679,
+            "lon": -87.0299
+        },
+        "it": "Chichigalpa",
+        "it:t": "Nicaragua | Chinandega",
+        "es": "Chichigalpa",
+        "es:t": "Nicaragua | Chinandega",
+        "de": "Chichigalpa",
+        "de:t": "Nicaragua | Chinandega"
+    },
+    {
+        "en": "Chinandega",
+        "en:t": "Nicaragua",
+        "a": true,
+        "g": {
+            "lat": 12.6235,
+            "lon": -87.1273
+        },
+        "it": "Chinandega",
+        "it:t": "Nicaragua",
+        "es": "Chinandega",
+        "es:t": "Nicaragua",
+        "de": "Chinandega",
+        "de:t": "Nicaragua"
+    },
+    {
+        "en": "Ciudad Sandino",
+        "en:t": "Nicaragua | Managua",
+        "a": true,
+        "g": {
+            "lat": 12.1565,
+            "lon": -86.3529
+        },
+        "it": "Ciudad Sandino",
+        "it:t": "Nicaragua | Managua",
+        "es": "Ciudad Sandino",
+        "es:t": "Nicaragua | Managua",
+        "de": "Ciudad Sandino",
+        "de:t": "Nicaragua | Managua"
+    },
+    {
+        "en": "Corinto",
+        "en:t": "Nicaragua | Chinandega",
+        "a": true,
+        "g": {
+            "lat": 12.4907,
+            "lon": -87.1784
+        },
+        "it": "Corinto",
+        "it:t": "Nicaragua | Chinandega",
+        "es": "Corinto",
+        "es:t": "Nicaragua | Chinandega",
+        "de": "Corinto",
+        "de:t": "Nicaragua | Chinandega"
+    },
+    {
+        "en": "Diriamba",
+        "en:t": "Nicaragua | Carazo",
+        "a": true,
+        "g": {
+            "lat": 11.8586,
+            "lon": -86.2413
+        },
+        "it": "Diriamba",
+        "it:t": "Nicaragua | Carazo",
+        "es": "Diriamba",
+        "es:t": "Nicaragua | Carazo",
+        "de": "Diriamba",
+        "de:t": "Nicaragua | Carazo"
+    },
+    {
+        "en": "El Crucero",
+        "en:t": "Nicaragua | Managua",
+        "a": true,
+        "g": {
+            "lat": 11.9806,
+            "lon": -86.3111
+        },
+        "it": "El Crucero",
+        "it:t": "Nicaragua | Managua",
+        "es": "El Crucero",
+        "es:t": "Nicaragua | Managua",
+        "de": "El Crucero",
+        "de:t": "Nicaragua | Managua"
+    },
+    {
+        "en": "El Viejo",
+        "en:t": "Nicaragua | Chinandega",
+        "a": true,
+        "g": {
+            "lat": 12.6583,
+            "lon": -87.1672
+        },
+        "it": "El Viejo",
+        "it:t": "Nicaragua | Chinandega",
+        "es": "El Viejo",
+        "es:t": "Nicaragua | Chinandega",
+        "de": "El Viejo",
+        "de:t": "Nicaragua | Chinandega"
+    },
+    {
+        "en": "Esteli",
+        "en:t": "Nicaragua",
+        "a": true,
+        "g": {
+            "lat": 13.0851,
+            "lon": -86.363
+        },
+        "it": "Estel\u00ed",
+        "it:t": "Nicaragua",
+        "es": "Estel\u00ed",
+        "es:t": "Nicaragua",
+        "de": "Estel\u00ed",
+        "de:t": "Nicaragua"
+    },
+    {
+        "en": "Granada",
+        "en:t": "Nicaragua",
+        "a": true,
+        "g": {
+            "lat": 11.9344,
+            "lon": -85.956
+        },
+        "it": "Granada",
+        "it:t": "Nicaragua",
+        "es": "Granada",
+        "es:t": "Nicaragua",
+        "de": "Granada",
+        "de:t": "Nicaragua"
+    },
+    {
+        "en": "Jalapa",
+        "en:t": "Nicaragua | Nueva Segovia",
+        "a": true,
+        "g": {
+            "lat": 13.9215,
+            "lon": -86.1268
+        },
+        "it": "Jalapa",
+        "it:t": "Nicaragua | Nueva Segovia",
+        "es": "Jalapa",
+        "es:t": "Nicaragua | Nueva Segovia",
+        "de": "Jalapa",
+        "de:t": "Nicaragua | Nueva Segovia"
+    },
+    {
+        "en": "Jinotega",
+        "en:t": "Nicaragua",
+        "a": true,
+        "g": {
+            "lat": 13.0884,
+            "lon": -85.9994
+        },
+        "it": "Jinotega",
+        "it:t": "Nicaragua",
+        "es": "Jinotega",
+        "es:t": "Nicaragua",
+        "de": "Jinotega",
+        "de:t": "Nicaragua"
+    },
+    {
+        "en": "Jinotepe",
+        "en:t": "Nicaragua | Carazo",
+        "a": true,
+        "g": {
+            "lat": 11.8495,
+            "lon": -86.1981
+        },
+        "it": "Jinotepe",
+        "it:t": "Nicaragua | Carazo",
+        "es": "Jinotepe",
+        "es:t": "Nicaragua | Carazo",
+        "de": "Jinotepe",
+        "de:t": "Nicaragua | Carazo"
+    },
+    {
+        "en": "Juigalpa",
+        "en:t": "Nicaragua | Chontales",
+        "a": true,
+        "g": {
+            "lat": 12.0963,
+            "lon": -85.3705
+        },
+        "it": "Juigalpa",
+        "it:t": "Nicaragua | Chontales",
+        "es": "Juigalpa",
+        "es:t": "Nicaragua | Chontales",
+        "de": "Juigalpa",
+        "de:t": "Nicaragua | Chontales"
+    },
+    {
+        "en": "La Paz Centro",
+        "en:t": "Nicaragua | Leon",
+        "a": true,
+        "g": {
+            "lat": 12.3434,
+            "lon": -86.6762
+        },
+        "it": "La Paz Centro",
+        "it:t": "Nicaragua | Le\u00f3n",
+        "es": "La Paz Centro",
+        "es:t": "Nicaragua | Le\u00f3n",
+        "de": "La Paz Centro",
+        "de:t": "Nicaragua | Leon"
+    },
+    {
+        "en": "Le\u00f3n",
+        "en:t": "Nicaragua",
+        "a": true,
+        "g": {
+            "lat": 12.4316,
+            "lon": -86.8722
+        },
+        "it": "Le\u00f3n",
+        "it:t": "Nicaragua",
+        "es": "Le\u00f3n",
+        "es:t": "Nicaragua",
+        "de": "Le\u00f3n",
+        "de:t": "Nicaragua"
+    },
+    {
+        "en": "Managua",
+        "en:t": "Nicaragua",
+        "a": true,
+        "g": {
+            "lat": 12.115,
+            "lon": -86.2362
+        },
+        "it": "Managua",
+        "it:t": "Nicaragua",
+        "es": "Managua",
+        "es:t": "Nicaragua",
+        "de": "Managua",
+        "de:t": "Nicaragua"
+    },
+    {
+        "en": "Masatepe",
+        "en:t": "Nicaragua | Masaya",
+        "a": true,
+        "g": {
+            "lat": 11.9171,
+            "lon": -86.1472
+        },
+        "it": "Masatepe",
+        "it:t": "Nicaragua | Masaya",
+        "es": "Masatepe",
+        "es:t": "Nicaragua | Masaya",
+        "de": "Masatepe",
+        "de:t": "Nicaragua | Masaya"
+    },
+    {
+        "en": "Masaya",
+        "en:t": "Nicaragua",
+        "a": true,
+        "g": {
+            "lat": 11.9704,
+            "lon": -86.0886
+        },
+        "it": "Masaya",
+        "it:t": "Nicaragua",
+        "es": "Masaya",
+        "es:t": "Nicaragua",
+        "de": "Masaya",
+        "de:t": "Nicaragua"
+    },
+    {
+        "en": "Matagalpa",
+        "en:t": "Nicaragua",
+        "a": true,
+        "g": {
+            "lat": 12.929,
+            "lon": -85.9151
+        },
+        "it": "Matagalpa",
+        "it:t": "Nicaragua",
+        "es": "Matagalpa",
+        "es:t": "Nicaragua",
+        "de": "Matagalpa",
+        "de:t": "Nicaragua"
+    },
+    {
+        "en": "Nagarote",
+        "en:t": "Nicaragua | Leon",
+        "a": true,
+        "g": {
+            "lat": 12.262,
+            "lon": -86.5653
+        },
+        "it": "Nagarote",
+        "it:t": "Nicaragua | Le\u00f3n",
+        "es": "Nagarote",
+        "es:t": "Nicaragua | Le\u00f3n",
+        "de": "Nagarote",
+        "de:t": "Nicaragua | Leon"
+    },
+    {
+        "en": "Nandaime",
+        "en:t": "Nicaragua | Granada",
+        "a": true,
+        "g": {
+            "lat": 11.7565,
+            "lon": -86.0504
+        },
+        "it": "Nandaime",
+        "it:t": "Nicaragua | Granada",
+        "es": "Nandaime",
+        "es:t": "Nicaragua | Granada",
+        "de": "Nandaime",
+        "de:t": "Nicaragua | Granada"
+    },
+    {
+        "en": "Nueva Guinea",
+        "en:t": "Nicaragua | South Caribbean Coast",
+        "a": true,
+        "g": {
+            "lat": 11.6932,
+            "lon": -84.454
+        },
+        "it": "Nueva Guinea",
+        "it:t": "Nicaragua | Atlantico Sud",
+        "es": "Nueva Guinea",
+        "es:t": "Nicaragua | Costa Caribe Sur",
+        "de": "Nueva Guinea",
+        "de:t": "Nicaragua | South Caribbean Coast"
+    },
+    {
+        "en": "Ocotal",
+        "en:t": "Nicaragua | Nueva Segovia",
+        "a": true,
+        "g": {
+            "lat": 13.6289,
+            "lon": -86.4845
+        },
+        "it": "Ocotal",
+        "it:t": "Nicaragua | Nueva Segovia",
+        "es": "Ocotal",
+        "es:t": "Nicaragua | Nueva Segovia",
+        "de": "Ocotal",
+        "de:t": "Nicaragua | Nueva Segovia"
+    },
+    {
+        "en": "Puerto Cabezas",
+        "en:t": "Nicaragua | North Caribbean Coast",
+        "a": true,
+        "g": {
+            "lat": 14.0391,
+            "lon": -83.395
+        },
+        "it": "Puerto Cabezas",
+        "it:t": "Nicaragua | Atlantico Nord",
+        "es": "Puerto Cabezas",
+        "es:t": "Nicaragua | Costa Caribe Norte",
+        "de": "Puerto Cabezas",
+        "de:t": "Nicaragua | Atl\u00e1ntico Norte"
+    },
+    {
+        "en": "Rama",
+        "en:t": "Nicaragua | South Caribbean Coast",
+        "a": true,
+        "g": {
+            "lat": 12.163,
+            "lon": -84.22
+        },
+        "it": "El Rama",
+        "it:t": "Nicaragua | Atlantico Sud",
+        "es": "El Rama",
+        "es:t": "Nicaragua | Costa Caribe Sur",
+        "de": "El Rama",
+        "de:t": "Nicaragua | Atl\u00e1ntico Sur"
+    },
+    {
+        "en": "Rivas",
+        "en:t": "Nicaragua | Rivas",
+        "a": true,
+        "g": {
+            "lat": 11.4327,
+            "lon": -85.823
+        },
+        "it": "Rivas",
+        "it:t": "Nicaragua | Rivas",
+        "es": "Rivas",
+        "es:t": "Nicaragua | Rivas",
+        "de": "Rivas",
+        "de:t": "Nicaragua | Rivas"
+    },
+    {
+        "en": "R\u00edo Blanco",
+        "en:t": "Nicaragua | Matagalpa",
+        "a": true,
+        "g": {
+            "lat": 12.9317,
+            "lon": -85.2231
+        },
+        "it": "R\u00edo Blanco",
+        "it:t": "Nicaragua | Matagalpa",
+        "es": "R\u00edo Blanco",
+        "es:t": "Nicaragua | Matagalpa",
+        "de": "R\u00edo Blanco",
+        "de:t": "Nicaragua | Matagalpa"
+    },
+    {
+        "en": "San Marcos",
+        "en:t": "Nicaragua | Carazo",
+        "a": true,
+        "g": {
+            "lat": 11.9065,
+            "lon": -86.2031
+        },
+        "it": "San Marcos",
+        "it:t": "Nicaragua | Carazo",
+        "es": "San Marcos",
+        "es:t": "Nicaragua | Carazo",
+        "de": "San Marcos",
+        "de:t": "Nicaragua | Carazo"
+    },
+    {
+        "en": "San Rafael del Sur",
+        "en:t": "Nicaragua | Managua",
+        "a": true,
+        "g": {
+            "lat": 11.8469,
+            "lon": -86.4364
+        },
+        "it": "San Rafael del Sur",
+        "it:t": "Nicaragua | Managua",
+        "es": "San Rafael del Sur",
+        "es:t": "Nicaragua | Managua",
+        "de": "San Rafael del Sur",
+        "de:t": "Nicaragua | Managua"
+    },
+    {
+        "en": "Siuna",
+        "en:t": "Nicaragua | North Caribbean Coast",
+        "a": true,
+        "g": {
+            "lat": 13.7405,
+            "lon": -84.7812
+        },
+        "it": "Siuna",
+        "it:t": "Nicaragua | Atlantico Nord",
+        "es": "Siuna",
+        "es:t": "Nicaragua | Costa Caribe Norte",
+        "de": "Siuna",
+        "de:t": "Nicaragua | Atl\u00e1ntico Norte"
+    },
+    {
+        "en": "Somotillo",
+        "en:t": "Nicaragua | Chinandega",
+        "a": true,
+        "g": {
+            "lat": 13.0432,
+            "lon": -86.9048
+        },
+        "it": "Somotillo",
+        "it:t": "Nicaragua | Chinandega",
+        "es": "Somotillo",
+        "es:t": "Nicaragua | Chinandega",
+        "de": "Somotillo",
+        "de:t": "Nicaragua | Chinandega"
+    },
+    {
+        "en": "Somoto",
+        "en:t": "Nicaragua | Madriz",
+        "a": true,
+        "g": {
+            "lat": 13.483,
+            "lon": -86.583
+        },
+        "it": "Somoto",
+        "it:t": "Nicaragua | Madriz",
+        "es": "Somoto",
+        "es:t": "Nicaragua | Madriz",
+        "de": "Somoto",
+        "de:t": "Nicaragua | Madriz"
+    },
+    {
+        "en": "Tipitapa",
+        "en:t": "Nicaragua | Managua",
+        "a": true,
+        "g": {
+            "lat": 12.2723,
+            "lon": -86.053
+        },
+        "it": "Tipitapa",
+        "it:t": "Nicaragua | Managua",
+        "es": "Tipitapa",
+        "es:t": "Nicaragua | Managua",
+        "de": "Tipitapa",
+        "de:t": "Nicaragua | Managua"
+    }
+]

@@ -1,0 +1,437 @@
+[
+    {
+        "en": "Bignona",
+        "en:t": "Senegal",
+        "a": true,
+        "g": {
+            "lat": 12.8051,
+            "lon": -16.2346
+        },
+        "it": "Bignona",
+        "it:t": "Senegal",
+        "es": "Bignona",
+        "es:t": "Senegal",
+        "de": "Bignona",
+        "de:t": "Senegal"
+    },
+    {
+        "en": "Dahra",
+        "en:t": "Senegal | Linguere",
+        "a": true,
+        "g": {
+            "lat": 15.3559,
+            "lon": -15.483
+        },
+        "it": "Dahra",
+        "it:t": "Senegal | Lingu\u00e8re",
+        "es": "Dahra",
+        "es:t": "Senegal | Linguere",
+        "de": "Dahra",
+        "de:t": "Senegal | Lingu\u00e8re"
+    },
+    {
+        "en": "Dakar",
+        "en:t": "Senegal | Guediawaye",
+        "a": true,
+        "g": {
+            "lat": 14.7167,
+            "lon": -17.4677
+        },
+        "it": "Dakar",
+        "it:t": "Senegal | Gu\u00e9diawaye",
+        "es": "Dakar",
+        "es:t": "Senegal | Gu\u00e9diawaye",
+        "de": "Dakar",
+        "de:t": "Senegal | Gu\u00e9diawaye"
+    },
+    {
+        "en": "Diourbel",
+        "en:t": "Senegal",
+        "a": true,
+        "g": {
+            "lat": 14.6561,
+            "lon": -16.2346
+        },
+        "it": "Diourbel",
+        "it:t": "Senegal",
+        "es": "Diourbel",
+        "es:t": "Senegal",
+        "de": "Diourbel",
+        "de:t": "Senegal"
+    },
+    {
+        "en": "Guinguineo",
+        "en:t": "Senegal | Gossas",
+        "a": true,
+        "g": {
+            "lat": 14.2703,
+            "lon": -15.9406
+        },
+        "it": "Guinguin\u00e9o",
+        "it:t": "Senegal | Gossas",
+        "es": "Guinguineo",
+        "es:t": "Senegal | Gossas",
+        "de": "Guinguin\u00e9o",
+        "de:t": "Senegal | Gossas"
+    },
+    {
+        "en": "Joal Fadiout",
+        "en:t": "Senegal | Mbour",
+        "a": true,
+        "g": {
+            "lat": 14.1812,
+            "lon": -16.8503
+        },
+        "it": "Joal-Fadiouth",
+        "it:t": "Senegal | M'bour",
+        "es": "Joal-Fadiouth",
+        "es:t": "Senegal | Mbour",
+        "de": "Joal-Fadiouth",
+        "de:t": "Senegal | Mbour"
+    },
+    {
+        "en": "Kaffrine",
+        "en:t": "Senegal | Kaffrine",
+        "a": true,
+        "g": {
+            "lat": 14.1052,
+            "lon": -15.5416
+        },
+        "it": "Kaffrine",
+        "it:t": "Senegal | Kaffrine",
+        "es": "Kaffrine",
+        "es:t": "Senegal | Kaffrine",
+        "de": "Kaffrine",
+        "de:t": "Senegal | Kaffrine"
+    },
+    {
+        "en": "Kaolack",
+        "en:t": "Senegal",
+        "a": true,
+        "g": {
+            "lat": 14.1652,
+            "lon": -16.0758
+        },
+        "it": "Kaolack",
+        "it:t": "Senegal",
+        "es": "Kaolack",
+        "es:t": "Senegal",
+        "de": "Kaolack",
+        "de:t": "Senegal"
+    },
+    {
+        "en": "Kayar",
+        "en:t": "Senegal | Thies",
+        "a": true,
+        "g": {
+            "lat": 14.9165,
+            "lon": -17.1204
+        },
+        "it": "Kayar",
+        "it:t": "Senegal | Thies",
+        "es": "Kayar",
+        "es:t": "Senegal | Thi\u00e8s",
+        "de": "Kayar",
+        "de:t": "Senegal | Thi\u00e8s"
+    },
+    {
+        "en": "Kedougou",
+        "en:t": "Senegal",
+        "a": true,
+        "g": {
+            "lat": 12.5605,
+            "lon": -12.1747
+        },
+        "it": "K\u00e9dougou",
+        "it:t": "Senegal",
+        "es": "K\u00e9dougou",
+        "es:t": "Senegal",
+        "de": "K\u00e9dougou",
+        "de:t": "Senegal"
+    },
+    {
+        "en": "Kolda",
+        "en:t": "Senegal",
+        "a": true,
+        "g": {
+            "lat": 12.9107,
+            "lon": -14.9506
+        },
+        "it": "Kolda",
+        "it:t": "Senegal",
+        "es": "Kolda",
+        "es:t": "Senegal",
+        "de": "Kolda",
+        "de:t": "Senegal"
+    },
+    {
+        "en": "Louga",
+        "en:t": "Senegal",
+        "a": true,
+        "g": {
+            "lat": 15.6142,
+            "lon": -16.2287
+        },
+        "it": "Louga",
+        "it:t": "Senegal",
+        "es": "Louga",
+        "es:t": "Senegal",
+        "de": "Louga",
+        "de:t": "Senegal"
+    },
+    {
+        "en": "Matam",
+        "en:t": "Senegal",
+        "a": true,
+        "g": {
+            "lat": 15.66,
+            "lon": -13.2577
+        },
+        "it": "Matam",
+        "it:t": "Senegal",
+        "es": "Matam",
+        "es:t": "Senegal",
+        "de": "Matam",
+        "de:t": "Senegal"
+    },
+    {
+        "en": "Mbacke",
+        "en:t": "Senegal",
+        "a": true,
+        "g": {
+            "lat": 14.8039,
+            "lon": -15.9054
+        },
+        "it": "Mback\u00e9",
+        "it:t": "Senegal",
+        "es": "Mbacke",
+        "es:t": "Senegal",
+        "de": "Mback\u00e9",
+        "de:t": "Senegal"
+    },
+    {
+        "en": "Meckhe",
+        "en:t": "Senegal | Tivaouane",
+        "a": true,
+        "g": {
+            "lat": 15.116,
+            "lon": -16.6321
+        },
+        "it": "Meckhe",
+        "it:t": "Senegal | Tivaouane",
+        "es": "Meckhe",
+        "es:t": "Senegal | Tivaouane",
+        "de": "M\u00e9ckh\u00e9",
+        "de:t": "Senegal | Tivaouane"
+    },
+    {
+        "en": "Ndibene Dahra",
+        "en:t": "Senegal | Lingu\u00e8re",
+        "a": true,
+        "g": {
+            "lat": 15.3349,
+            "lon": -15.4747
+        },
+        "it": "Ndibene Dahra",
+        "it:t": "Senegal | Lingu\u00e8re",
+        "es": "Ndibene Dahra",
+        "es:t": "Senegal | Lingu\u00e8re",
+        "de": "Ndibene Dahra",
+        "de:t": "Senegal | Lingu\u00e8re"
+    },
+    {
+        "en": "Nguekhokhe",
+        "en:t": "Senegal | Mbour",
+        "a": true,
+        "g": {
+            "lat": 14.518,
+            "lon": -17.0097
+        },
+        "it": "Nguekhokhe",
+        "it:t": "Senegal | Mbour",
+        "es": "Nguekhokhe",
+        "es:t": "Senegal | Mbour",
+        "de": "Ngu\u00e8khokh",
+        "de:t": "Senegal | Mbour"
+    },
+    {
+        "en": "Nioro Du Rip",
+        "en:t": "Senegal",
+        "a": true,
+        "g": {
+            "lat": 13.7437,
+            "lon": -15.7733
+        },
+        "it": "Nioro du Rip",
+        "it:t": "Senegal",
+        "es": "Nioro Du Rip",
+        "es:t": "Senegal",
+        "de": "Nioro du Rip",
+        "de:t": "Senegal"
+    },
+    {
+        "en": "Pikine",
+        "en:t": "Senegal",
+        "a": true,
+        "g": {
+            "lat": 14.7589,
+            "lon": -17.3938
+        },
+        "it": "Pikine",
+        "it:t": "Senegal",
+        "es": "Pikine",
+        "es:t": "Senegal",
+        "de": "Pikine",
+        "de:t": "Senegal"
+    },
+    {
+        "en": "Pourham",
+        "en:t": "Senegal | Fatick",
+        "a": true,
+        "g": {
+            "lat": 14.3583,
+            "lon": -16.4123
+        },
+        "it": "Pourham",
+        "it:t": "Senegal | Fatick",
+        "es": "Pourham",
+        "es:t": "Senegal | Fatick",
+        "de": "Pourham",
+        "de:t": "Senegal | Fatick"
+    },
+    {
+        "en": "Pout",
+        "en:t": "Senegal | Thies",
+        "a": true,
+        "g": {
+            "lat": 14.7673,
+            "lon": -17.0628
+        },
+        "it": "Pout",
+        "it:t": "Senegal | Thies",
+        "es": "Pout",
+        "es:t": "Senegal | Thies",
+        "de": "Pout",
+        "de:t": "Senegal | Thi\u00e8s"
+    },
+    {
+        "en": "Richard Toll",
+        "en:t": "Senegal | Dagana",
+        "a": true,
+        "g": {
+            "lat": 16.4589,
+            "lon": -15.694
+        },
+        "it": "Richard Toll",
+        "it:t": "Senegal | Dagana",
+        "es": "Richard Toll",
+        "es:t": "Senegal | Dagana",
+        "de": "Richard Toll",
+        "de:t": "Senegal | Dagana"
+    },
+    {
+        "en": "Saint Louis",
+        "en:t": "Senegal",
+        "a": true,
+        "g": {
+            "lat": 16.0326,
+            "lon": -16.4818
+        },
+        "it": "Saint-Louis",
+        "it:t": "Senegal",
+        "es": "Saint Louis",
+        "es:t": "Senegal",
+        "de": "Saint-Louis",
+        "de:t": "Senegal"
+    },
+    {
+        "en": "Sedhiou",
+        "en:t": "Senegal | S\u00e9dhiou",
+        "a": true,
+        "g": {
+            "lat": 12.7046,
+            "lon": -15.5562
+        },
+        "it": "S\u00e9dhiou",
+        "it:t": "Senegal | S\u00e9dhiou",
+        "es": "S\u00e9dhiou",
+        "es:t": "Senegal | S\u00e9dhiou",
+        "de": "S\u00e9dhiou",
+        "de:t": "Senegal | S\u00e9dhiou"
+    },
+    {
+        "en": "Tambacounda",
+        "en:t": "Senegal",
+        "a": true,
+        "g": {
+            "lat": 13.7726,
+            "lon": -13.671
+        },
+        "it": "Tambacounda",
+        "it:t": "Senegal",
+        "es": "Tambacounda",
+        "es:t": "Senegal",
+        "de": "Tambacounda",
+        "de:t": "Senegal"
+    },
+    {
+        "en": "Thies Nones",
+        "en:t": "Senegal | Thies Ouest",
+        "a": true,
+        "g": {
+            "lat": 14.779,
+            "lon": -16.9639
+        },
+        "it": "Thies Nones",
+        "it:t": "Senegal | Thies Ouest",
+        "es": "Thies Nones",
+        "es:t": "Senegal | Thies Ouest",
+        "de": "Thies Nones",
+        "de:t": "Senegal | Thies Ouest"
+    },
+    {
+        "en": "Touba",
+        "en:t": "Senegal | Mbacke",
+        "a": true,
+        "g": {
+            "lat": 14.8666,
+            "lon": -15.8995
+        },
+        "it": "Touba",
+        "it:t": "Senegal | Mback\u00e9",
+        "es": "Touba",
+        "es:t": "Senegal | Mback\u00e9",
+        "de": "Touba",
+        "de:t": "Senegal | Mback\u00e9"
+    },
+    {
+        "en": "Velingara",
+        "en:t": "Senegal",
+        "a": true,
+        "g": {
+            "lat": 13.1441,
+            "lon": -14.1059
+        },
+        "it": "V\u00e9lingara",
+        "it:t": "Senegal",
+        "es": "Velingara",
+        "es:t": "Senegal",
+        "de": "V\u00e9lingara",
+        "de:t": "Senegal"
+    },
+    {
+        "en": "Ziguinchor",
+        "en:t": "Senegal",
+        "a": true,
+        "g": {
+            "lat": 12.5641,
+            "lon": -16.264
+        },
+        "it": "Ziguinchor",
+        "it:t": "Senegal",
+        "es": "Ziguinchor",
+        "es:t": "Senegal",
+        "de": "Ziguinchor",
+        "de:t": "Senegal"
+    }
+]

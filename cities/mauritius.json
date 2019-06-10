@@ -1,0 +1,167 @@
+[
+    {
+        "en": "Bel Air",
+        "en:t": "Mauritius | Flacq",
+        "a": true,
+        "g": {
+            "lat": -20.2582,
+            "lon": 57.7545
+        },
+        "it": "Bel Air",
+        "it:t": "Mauritius | Flacq",
+        "es": "Bel Air",
+        "es:t": "Mauricio | Flacq",
+        "de": "Bel Air",
+        "de:t": "Mauritius | Flacq"
+    },
+    {
+        "en": "Central Flacq",
+        "en:t": "Mauritius | Flacq",
+        "a": true,
+        "g": {
+            "lat": -20.2029,
+            "lon": 57.7289
+        },
+        "it": "Centre de Flacq",
+        "it:t": "Mauritius | Flacq",
+        "es": "Central Flacq",
+        "es:t": "Mauricio | Flacq",
+        "de": "Centre de Flacq",
+        "de:t": "Mauritius | Flacq"
+    },
+    {
+        "en": "Curepipe",
+        "en:t": "Mauritius | Plaines Wilhems",
+        "a": true,
+        "g": {
+            "lat": -20.3171,
+            "lon": 57.5265
+        },
+        "it": "Curepipe",
+        "it:t": "Mauritius | Plaines Wilhems",
+        "es": "Curepipe",
+        "es:t": "Mauricio | Plaines Wilhems",
+        "de": "Curepipe",
+        "de:t": "Mauritius | Plaines Wilhems"
+    },
+    {
+        "en": "Goodlands",
+        "en:t": "Mauritius | Rivi\u00e8re du Rempart",
+        "a": true,
+        "g": {
+            "lat": -20.0391,
+            "lon": 57.6496
+        },
+        "it": "Goodlands",
+        "it:t": "Mauritius | Rivi\u00e8re du Rempart",
+        "es": "Goodlands",
+        "es:t": "Mauricio | Rivi\u00e8re du Rempart",
+        "de": "Goodlands",
+        "de:t": "Mauritius | Riviere du Rempart"
+    },
+    {
+        "en": "Le Hochet",
+        "en:t": "Mauritius | Port Louis",
+        "a": true,
+        "g": {
+            "lat": -20.1379,
+            "lon": 57.5278
+        },
+        "it": "Le Hochet",
+        "it:t": "Mauritius | Port Louis",
+        "es": "Le Hochet",
+        "es:t": "Mauricio | Port Louis",
+        "de": "Le Hochet",
+        "de:t": "Mauritius | Port Louis"
+    },
+    {
+        "en": "Mahebourg",
+        "en:t": "Mauritius | Grand Port",
+        "a": true,
+        "g": {
+            "lat": -20.406,
+            "lon": 57.7034
+        },
+        "it": "Mah\u00e9bourg",
+        "it:t": "Mauritius | Grand Port",
+        "es": "Mah\u00e9bourg",
+        "es:t": "Mauricio | Grand Port",
+        "de": "Mah\u00e9bourg",
+        "de:t": "Mauritius | Grand Port"
+    },
+    {
+        "en": "Port Louis",
+        "en:t": "Mauritius | Port Louis",
+        "a": true,
+        "g": {
+            "lat": -20.1609,
+            "lon": 57.5012
+        },
+        "it": "Port Louis",
+        "it:t": "Mauritius | Port Louis",
+        "es": "Port Louis",
+        "es:t": "Mauricio | Port Louis",
+        "de": "Port Louis",
+        "de:t": "Mauritius"
+    },
+    {
+        "en": "Quatre Bornes",
+        "en:t": "Mauritius | Plaines Wilhems",
+        "a": true,
+        "g": {
+            "lat": -20.2675,
+            "lon": 57.4797
+        },
+        "it": "Quatre Bornes",
+        "it:t": "Mauritius | Plaines Wilhems",
+        "es": "Quatre Bornes",
+        "es:t": "Mauricio | Plaines Wilhems",
+        "de": "Quatre Bornes",
+        "de:t": "Mauritius | Plaines Wilhems"
+    },
+    {
+        "en": "Saint Pierre",
+        "en:t": "Mauritius | Moka",
+        "a": true,
+        "g": {
+            "lat": -20.2181,
+            "lon": 57.5335
+        },
+        "it": "Saint Pierre",
+        "it:t": "Mauritius | Moka",
+        "es": "Saint Pierre",
+        "es:t": "Mauricio | Moka",
+        "de": "Saint Pierre",
+        "de:t": "Mauritius | Moka"
+    },
+    {
+        "en": "Triolet",
+        "en:t": "Mauritius | Pamplemousses",
+        "a": true,
+        "g": {
+            "lat": -20.0584,
+            "lon": 57.5504
+        },
+        "it": "Triolet",
+        "it:t": "Mauritius | Pamplemousses",
+        "es": "Triolet",
+        "es:t": "Mauricio | Pamplemousses",
+        "de": "Triolet",
+        "de:t": "Mauritius | Pamplemousses"
+    },
+    {
+        "en": "Vacoas-Phoenix",
+        "en:t": "Mauritius | Plaines Wilhems",
+        "a": true,
+        "g": {
+            "lat": -20.2984,
+            "lon": 57.4938
+        },
+        "it": "Vacoas-Phoenix",
+        "it:t": "Mauritius | Plaines Wilhems",
+        "es": "Vacoas-Phoenix",
+        "es:t": "Mauricio | Plaines Wilhems",
+        "de": "Vacoas-Phoenix",
+        "de:t": "Mauritius | Plaines Wilhems"
+    }
+]

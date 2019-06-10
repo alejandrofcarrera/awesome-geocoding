@@ -1,0 +1,302 @@
+[
+    {
+        "en": "Balti",
+        "en:t": "Moldova",
+        "a": true,
+        "g": {
+            "lat": 47.754,
+            "lon": 27.9184
+        },
+        "it": "B\u0103l\u021bi",
+        "it:t": "Moldavia",
+        "es": "B\u0103l\u021bi",
+        "es:t": "Moldavia",
+        "de": "B\u0103l\u021bi",
+        "de:t": "Moldawien"
+    },
+    {
+        "en": "Bender",
+        "en:t": "Moldova",
+        "a": true,
+        "g": {
+            "lat": 46.8228,
+            "lon": 29.462
+        },
+        "it": "Bender",
+        "it:t": "Moldavia",
+        "es": "Bender",
+        "es:t": "Moldavia",
+        "de": "Bender",
+        "de:t": "Moldawien"
+    },
+    {
+        "en": "Bilicenii Vechi",
+        "en:t": "Moldova | S\u00eengerei",
+        "a": true,
+        "g": {
+            "lat": 47.6541,
+            "lon": 28.044
+        },
+        "it": "Bilicenii Vechi",
+        "it:t": "Moldavia | S\u00eengerei",
+        "es": "Bilicenii Vechi",
+        "es:t": "Moldavia | S\u00eengerei",
+        "de": "Bilicenii Vechi",
+        "de:t": "Moldawien | S\u00eengerei"
+    },
+    {
+        "en": "Cahul",
+        "en:t": "Moldova | Cahul",
+        "a": true,
+        "g": {
+            "lat": 45.8939,
+            "lon": 28.189
+        },
+        "it": "Cahul",
+        "it:t": "Moldavia | Cahul",
+        "es": "Cahul",
+        "es:t": "Moldavia | Cahul",
+        "de": "Cahul",
+        "de:t": "Moldawien | Cahul"
+    },
+    {
+        "en": "Causeni",
+        "en:t": "Moldova | C\u0103u\u0219eni",
+        "a": true,
+        "g": {
+            "lat": 46.6555,
+            "lon": 29.4091
+        },
+        "it": "C\u0103u\u0219eni",
+        "it:t": "Moldavia | C\u0103u\u0219eni",
+        "es": "C\u0103u\u015feni",
+        "es:t": "Moldavia | C\u0103u\u0219eni",
+        "de": "C\u0103u\u0219eni",
+        "de:t": "Moldawien | Rajon C\u0103u\u0219eni"
+    },
+    {
+        "en": "Cead\u00eer-Lunga",
+        "en:t": "Moldova | Gagauzia",
+        "a": true,
+        "g": {
+            "lat": 46.0614,
+            "lon": 28.8288
+        },
+        "it": "Cead\u00eer-Lunga",
+        "it:t": "Moldavia | Gagauzia",
+        "es": "Cead\u00eer-Lunga",
+        "es:t": "Moldavia | Gagauzia",
+        "de": "Cead\u00eer-Lunga",
+        "de:t": "Moldawien | Gagausien"
+    },
+    {
+        "en": "Chisinau",
+        "en:t": "Moldova",
+        "a": true,
+        "g": {
+            "lat": 47.0105,
+            "lon": 28.8638
+        },
+        "it": "Chi\u0219in\u0103u",
+        "it:t": "Moldavia | Chisinau",
+        "es": "Chisin\u00e1u",
+        "es:t": "Moldavia | Chisinau",
+        "de": "Chi\u0219in\u0103u",
+        "de:t": "Moldawien | Chisinau"
+    },
+    {
+        "en": "Comrat",
+        "en:t": "Moldova | Gagauzia",
+        "a": true,
+        "g": {
+            "lat": 46.3069,
+            "lon": 28.6533
+        },
+        "it": "Comrat",
+        "it:t": "Moldavia | Gagauzia",
+        "es": "Comrat",
+        "es:t": "Moldavia | Gagauzia",
+        "de": "Comrat",
+        "de:t": "Moldawien | Gagausien"
+    },
+    {
+        "en": "Drochia",
+        "en:t": "Moldova | Drochia",
+        "a": true,
+        "g": {
+            "lat": 48.0318,
+            "lon": 27.8183
+        },
+        "it": "Drochia",
+        "it:t": "Moldavia | Drochia",
+        "es": "Drochia",
+        "es:t": "Moldavia | Drochia",
+        "de": "Drochia",
+        "de:t": "Moldawien | Drochia"
+    },
+    {
+        "en": "Edinet",
+        "en:t": "Moldova | Edine\u0163",
+        "a": true,
+        "g": {
+            "lat": 48.1679,
+            "lon": 27.2936
+        },
+        "it": "Edine\u021b",
+        "it:t": "Moldavia | Edine\u021b",
+        "es": "Edine\u021b",
+        "es:t": "Moldavia | Edine\u021b",
+        "de": "Edine\u021b",
+        "de:t": "Moldawien | Edine\u021b"
+    },
+    {
+        "en": "Floresti",
+        "en:t": "Moldova | Flore\u0219ti",
+        "a": true,
+        "g": {
+            "lat": 47.891,
+            "lon": 28.299
+        },
+        "it": "Flore\u0219ti",
+        "it:t": "Moldavia | Flore\u0219ti",
+        "es": "Flore\u0219ti",
+        "es:t": "Moldavia | Flore\u0219ti",
+        "de": "Flore\u0219ti",
+        "de:t": "Moldawien | Flore\u0219ti"
+    },
+    {
+        "en": "H\u00eence\u0219ti",
+        "en:t": "Moldova | H\u00eence\u0219ti",
+        "a": true,
+        "g": {
+            "lat": 46.8281,
+            "lon": 28.5851
+        },
+        "it": "H\u00eence\u0219ti",
+        "it:t": "Moldavia | H\u00eence\u0219ti",
+        "es": "H\u00eence\u0219ti",
+        "es:t": "Moldavia | H\u00eence\u0219ti",
+        "de": "H\u00eence\u0219ti",
+        "de:t": "Moldawien | H\u00eence\u0219ti"
+    },
+    {
+        "en": "Orhei",
+        "en:t": "Moldova | Orhei",
+        "a": true,
+        "g": {
+            "lat": 47.386,
+            "lon": 28.8303
+        },
+        "it": "Orhei",
+        "it:t": "Moldavia | Orhei",
+        "es": "Orhei",
+        "es:t": "Moldavia | Orhei",
+        "de": "Orhei",
+        "de:t": "Moldawien | Orhei"
+    },
+    {
+        "en": "R\u00eebni\u021ba",
+        "en:t": "Moldova | Transnistria",
+        "a": true,
+        "g": {
+            "lat": 47.7666,
+            "lon": 29.0035
+        },
+        "it": "R\u00eebni\u021ba",
+        "it:t": "Moldavia | Transnistria",
+        "es": "R\u00eebni\u0163a",
+        "es:t": "Moldavia | Transnistria",
+        "de": "R\u00eebni\u021ba",
+        "de:t": "Moldawien | Transnistrien"
+    },
+    {
+        "en": "Slobozia",
+        "en:t": "Moldova",
+        "a": true,
+        "g": {
+            "lat": 46.7135,
+            "lon": 29.717
+        },
+        "it": "Slobozia",
+        "it:t": "Moldavia",
+        "es": "Slobozia",
+        "es:t": "Moldavia",
+        "de": "Slobozia",
+        "de:t": "Moldawien"
+    },
+    {
+        "en": "Soroca",
+        "en:t": "Moldova | Soroca",
+        "a": true,
+        "g": {
+            "lat": 48.155,
+            "lon": 28.2871
+        },
+        "it": "Soroca",
+        "it:t": "Moldavia | Soroca",
+        "es": "Soroca",
+        "es:t": "Moldavia | Soroca",
+        "de": "Soroca",
+        "de:t": "Moldawien | Soroca"
+    },
+    {
+        "en": "Straseni",
+        "en:t": "Moldova | Str\u0103\u0219eni",
+        "a": true,
+        "g": {
+            "lat": 47.145,
+            "lon": 28.6137
+        },
+        "it": "Str\u0103\u0219eni",
+        "it:t": "Moldavia | Str\u0103\u0219eni",
+        "es": "Str\u0103\u015feni",
+        "es:t": "Moldavia | Str\u0103\u0219eni",
+        "de": "Straseni",
+        "de:t": "Moldawien | Str\u0103\u0219eni"
+    },
+    {
+        "en": "Telenesti",
+        "en:t": "Moldova",
+        "a": true,
+        "g": {
+            "lat": 47.4984,
+            "lon": 28.3676
+        },
+        "it": "Telene\u0219ti",
+        "it:t": "Moldavia",
+        "es": "Telenesti",
+        "es:t": "Moldavia",
+        "de": "Dub\u0103sari",
+        "de:t": "Moldawien"
+    },
+    {
+        "en": "Tiraspol",
+        "en:t": "Moldova | Transnistria",
+        "a": true,
+        "g": {
+            "lat": 46.8482,
+            "lon": 29.5968
+        },
+        "it": "Tiraspol",
+        "it:t": "Moldavia | Transnistria",
+        "es": "Tir\u00e1spol",
+        "es:t": "Moldavia | Transnistrien",
+        "de": "Tiraspol",
+        "de:t": "Moldawien | Transnistrien"
+    },
+    {
+        "en": "Ungheni",
+        "en:t": "Moldova | Ungheni",
+        "a": true,
+        "g": {
+            "lat": 47.2306,
+            "lon": 27.7893
+        },
+        "it": "Ungheni",
+        "it:t": "Moldavia | Ungheni",
+        "es": "Ungheni",
+        "es:t": "Moldavia | Ungheni",
+        "de": "Ungheni",
+        "de:t": "Moldawien | Ungheni"
+    }
+]

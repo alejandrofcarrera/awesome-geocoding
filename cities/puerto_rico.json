@@ -1,0 +1,317 @@
+[
+    {
+        "en": "Aguadilla Pueblo",
+        "en:t": "Puerto Rico | Caimital Bajo",
+        "a": true,
+        "g": {
+            "lat": 18.4274,
+            "lon": -67.1541
+        },
+        "it": "Aguadilla Pueblo",
+        "it:t": "Porto Rico | Caimital Bajo",
+        "es": "Aguadilla Pueblo",
+        "es:t": "Puerto Rico | Caimital Bajo",
+        "de": "Aguadilla Pueblo",
+        "de:t": "Puerto Rico | Caimital Bajo"
+    },
+    {
+        "en": "Arecibo",
+        "en:t": "Puerto Rico",
+        "a": true,
+        "g": {
+            "lat": 18.4442,
+            "lon": -66.6464
+        },
+        "it": "Arecibo",
+        "it:t": "Porto Rico",
+        "es": "Arecibo",
+        "es:t": "Puerto Rico",
+        "de": "Arecibo",
+        "de:t": "Puerto Rico"
+    },
+    {
+        "en": "Barceloneta",
+        "en:t": "Puerto Rico",
+        "a": true,
+        "g": {
+            "lat": 18.4547,
+            "lon": -66.5384
+        },
+        "it": "Barceloneta",
+        "it:t": "Porto Rico",
+        "es": "Barceloneta",
+        "es:t": "Puerto Rico",
+        "de": "Barceloneta",
+        "de:t": "Puerto Rico"
+    },
+    {
+        "en": "Bayam\u00f3n Pueblo",
+        "en:t": "Puerto Rico",
+        "a": true,
+        "g": {
+            "lat": 18.3958,
+            "lon": -66.1504
+        },
+        "it": "Bayam\u00f3n Pueblo",
+        "it:t": "Porto Rico",
+        "es": "Bayam\u00f3n Pueblo",
+        "es:t": "Puerto Rico",
+        "de": "Bayam\u00f3n Pueblo",
+        "de:t": "Puerto Rico"
+    },
+    {
+        "en": "Caguas",
+        "en:t": "Puerto Rico",
+        "a": true,
+        "g": {
+            "lat": 18.2388,
+            "lon": -66.0352
+        },
+        "it": "Caguas",
+        "it:t": "Porto Rico",
+        "es": "Caguas",
+        "es:t": "Puerto Rico",
+        "de": "Caguas",
+        "de:t": "Puerto Rico"
+    },
+    {
+        "en": "Candelaria",
+        "en:t": "Puerto Rico | Toa Baja",
+        "a": true,
+        "g": {
+            "lat": 18.4131,
+            "lon": -66.2189
+        },
+        "it": "Candelaria",
+        "it:t": "Porto Rico | Toa Baja",
+        "es": "Candelaria",
+        "es:t": "Puerto Rico | Toa Baja",
+        "de": "Candelaria",
+        "de:t": "Puerto Rico | Toa Baja"
+    },
+    {
+        "en": "Carolina",
+        "en:t": "Puerto Rico",
+        "a": true,
+        "g": {
+            "lat": 18.3736,
+            "lon": -65.9631
+        },
+        "it": "Carolina",
+        "it:t": "Porto Rico",
+        "es": "Carolina",
+        "es:t": "Puerto Rico",
+        "de": "Carolina",
+        "de:t": "Puerto Rico"
+    },
+    {
+        "en": "Cata\u00f1o",
+        "en:t": "Puerto Rico",
+        "a": true,
+        "g": {
+            "lat": 18.4465,
+            "lon": -66.1356
+        },
+        "it": "Cata\u00f1o",
+        "it:t": "Porto Rico",
+        "es": "Cata\u00f1o",
+        "es:t": "Puerto Rico",
+        "de": "Cata\u00f1o",
+        "de:t": "Puerto Rico"
+    },
+    {
+        "en": "Cayey",
+        "en:t": "Puerto Rico | Monte Llano",
+        "a": true,
+        "g": {
+            "lat": 18.1119,
+            "lon": -66.166
+        },
+        "it": "Cayey",
+        "it:t": "Porto Rico | Monte Llano",
+        "es": "Cayey",
+        "es:t": "Puerto Rico | Monte Llano",
+        "de": "Cayey",
+        "de:t": "Puerto Rico | Monte Llano"
+    },
+    {
+        "en": "Fajardo",
+        "en:t": "Puerto Rico | Quebrada Fajardo",
+        "a": true,
+        "g": {
+            "lat": 18.3258,
+            "lon": -65.6524
+        },
+        "it": "Fajardo",
+        "it:t": "Porto Rico | Quebrada Fajardo",
+        "es": "Fajardo",
+        "es:t": "Puerto Rico | Quebrada Fajardo",
+        "de": "Fajardo",
+        "de:t": "Puerto Rico | Quebrada Fajardo"
+    },
+    {
+        "en": "Guayama",
+        "en:t": "Puerto Rico | Jobos",
+        "a": true,
+        "g": {
+            "lat": 17.9841,
+            "lon": -66.1138
+        },
+        "it": "Guayama",
+        "it:t": "Porto Rico | Jobos",
+        "es": "Guayama",
+        "es:t": "Puerto Rico | Jobos",
+        "de": "Guayama",
+        "de:t": "Puerto Rico | Jobos"
+    },
+    {
+        "en": "Guaynabo",
+        "en:t": "Puerto Rico",
+        "a": true,
+        "g": {
+            "lat": 18.3616,
+            "lon": -66.1111
+        },
+        "it": "Guaynabo",
+        "it:t": "Porto Rico",
+        "es": "Guaynabo",
+        "es:t": "Puerto Rico",
+        "de": "Guaynabo",
+        "de:t": "Puerto Rico"
+    },
+    {
+        "en": "Humacao",
+        "en:t": "Puerto Rico",
+        "a": true,
+        "g": {
+            "lat": 18.1497,
+            "lon": -65.8274
+        },
+        "it": "Humacao",
+        "it:t": "Porto Rico",
+        "es": "Humacao",
+        "es:t": "Puerto Rico",
+        "de": "Humacao",
+        "de:t": "Puerto Rico"
+    },
+    {
+        "en": "Levittown",
+        "en:t": "Puerto Rico | Toa Baja",
+        "a": true,
+        "g": {
+            "lat": 18.4499,
+            "lon": -66.1816
+        },
+        "it": "Levittown",
+        "it:t": "Porto Rico | Toa Baja",
+        "es": "Levittown",
+        "es:t": "Puerto Rico | Toa Baja",
+        "de": "Levittown",
+        "de:t": "Puerto Rico | Toa Baja"
+    },
+    {
+        "en": "Manat\u00ed",
+        "en:t": "Puerto Rico",
+        "a": true,
+        "g": {
+            "lat": 18.433,
+            "lon": -66.4759
+        },
+        "it": "Manat\u00ed",
+        "it:t": "Porto Rico",
+        "es": "Manat\u00ed",
+        "es:t": "Puerto Rico",
+        "de": "Manat\u00ed",
+        "de:t": "Puerto Rico"
+    },
+    {
+        "en": "Mayag\u00fcez",
+        "en:t": "Puerto Rico",
+        "a": true,
+        "g": {
+            "lat": 18.2013,
+            "lon": -67.1452
+        },
+        "it": "Mayag\u00fcez",
+        "it:t": "Porto Rico",
+        "es": "Mayag\u00fcez",
+        "es:t": "Puerto Rico",
+        "de": "Mayag\u00fcez",
+        "de:t": "Puerto Rico"
+    },
+    {
+        "en": "Ponce",
+        "en:t": "Puerto Rico | Canas",
+        "a": true,
+        "g": {
+            "lat": 18.0111,
+            "lon": -66.6141
+        },
+        "it": "Ponce",
+        "it:t": "Porto Rico | Canas",
+        "es": "Ponce",
+        "es:t": "Puerto Rico | Canas",
+        "de": "Ponce",
+        "de:t": "Puerto Rico | Canas"
+    },
+    {
+        "en": "San Juan",
+        "en:t": "Puerto Rico | El Cinco",
+        "a": true,
+        "g": {
+            "lat": 18.4655,
+            "lon": -66.1057
+        },
+        "it": "San Juan",
+        "it:t": "Porto Rico | El Cinco",
+        "es": "San Juan",
+        "es:t": "Puerto Rico | El Cinco",
+        "de": "San Juan",
+        "de:t": "Puerto Rico | El Cinco"
+    },
+    {
+        "en": "Trujillo Alto",
+        "en:t": "Puerto Rico",
+        "a": true,
+        "g": {
+            "lat": 18.3563,
+            "lon": -66.0034
+        },
+        "it": "Trujillo Alto",
+        "it:t": "Porto Rico",
+        "es": "Trujillo Alto",
+        "es:t": "Puerto Rico",
+        "de": "Trujillo Alto",
+        "de:t": "Puerto Rico"
+    },
+    {
+        "en": "Vega Baja",
+        "en:t": "Puerto Rico",
+        "a": true,
+        "g": {
+            "lat": 18.4469,
+            "lon": -66.3973
+        },
+        "it": "Vega Baja",
+        "it:t": "Porto Rico",
+        "es": "Vega Baja",
+        "es:t": "Puerto Rico",
+        "de": "Vega Baja",
+        "de:t": "Puerto Rico"
+    },
+    {
+        "en": "Yauco",
+        "en:t": "Puerto Rico",
+        "a": true,
+        "g": {
+            "lat": 18.035,
+            "lon": -66.8499
+        },
+        "it": "Yauco",
+        "it:t": "Porto Rico",
+        "es": "Yauco",
+        "es:t": "Puerto Rico",
+        "de": "Yauco",
+        "de:t": "Puerto Rico"
+    }
+]

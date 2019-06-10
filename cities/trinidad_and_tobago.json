@@ -1,0 +1,182 @@
+[
+    {
+        "en": "Arima",
+        "en:t": "Trinidad and Tobago",
+        "a": true,
+        "g": {
+            "lat": 10.6172,
+            "lon": -61.2744
+        },
+        "it": "Arima",
+        "it:t": "Trinidad e Tobago",
+        "es": "Arima",
+        "es:t": "Trinidad y Tobago",
+        "de": "Arima",
+        "de:t": "Trinidad und Tobago"
+    },
+    {
+        "en": "Chaguanas",
+        "en:t": "Trinidad and Tobago",
+        "a": true,
+        "g": {
+            "lat": 10.5168,
+            "lon": -61.4114
+        },
+        "it": "Chaguanas",
+        "it:t": "Trinidad e Tobago",
+        "es": "Chaguanas",
+        "es:t": "Trinidad y Tobago",
+        "de": "Chaguanas",
+        "de:t": "Trinidad und Tobago"
+    },
+    {
+        "en": "Laventille",
+        "en:t": "Trinidad and Tobago | Port of Spain",
+        "a": true,
+        "g": {
+            "lat": 10.6485,
+            "lon": -61.4954
+        },
+        "it": "Laventille",
+        "it:t": "Trinidad e Tobago | Port of Spain",
+        "es": "Laventille",
+        "es:t": "Trinidad y Tobago | Port of Spain",
+        "de": "Laventille",
+        "de:t": "Trinidad und Tobago | Port of Spain"
+    },
+    {
+        "en": "Marabella",
+        "en:t": "Trinidad and Tobago | San Fernando",
+        "a": true,
+        "g": {
+            "lat": 10.3007,
+            "lon": -61.4494
+        },
+        "it": "Marabella",
+        "it:t": "Trinidad e Tobago | San Fernando",
+        "es": "Marabella",
+        "es:t": "Trinidad y Tobago | San Fernando",
+        "de": "Marabella",
+        "de:t": "Trinidad und Tobago | San Fernando"
+    },
+    {
+        "en": "Mon Repos",
+        "en:t": "Trinidad and Tobago | San Fernando",
+        "a": true,
+        "g": {
+            "lat": 10.2799,
+            "lon": -61.4501
+        },
+        "it": "Mon Repos",
+        "it:t": "Trinidad e Tobago | San Fernando",
+        "es": "Mon Repos",
+        "es:t": "Trinidad y Tobago | San Fernando",
+        "de": "Mon Repos",
+        "de:t": "Trinidad und Tobago | San Fernando"
+    },
+    {
+        "en": "Paradise",
+        "en:t": "Trinidad and Tobago | Tunapuna",
+        "a": true,
+        "g": {
+            "lat": 10.6484,
+            "lon": -61.3655
+        },
+        "it": "Paradise",
+        "it:t": "Trinidad e Tobago | Tunapuna",
+        "es": "Paradise",
+        "es:t": "Trinidad y Tobago | Tunapuna",
+        "de": "Paradise",
+        "de:t": "Trinidad und Tobago | Tunapuna"
+    },
+    {
+        "en": "Point Fortin",
+        "en:t": "Trinidad and Tobago",
+        "a": true,
+        "g": {
+            "lat": 10.1703,
+            "lon": -61.6713
+        },
+        "it": "Point Fortin",
+        "it:t": "Trinidad e Tobago",
+        "es": "Point Fortin",
+        "es:t": "Trinidad y Tobago",
+        "de": "Point Fortin",
+        "de:t": "Trinidad und Tobago"
+    },
+    {
+        "en": "Port of Spain",
+        "en:t": "Trinidad and Tobago",
+        "a": true,
+        "g": {
+            "lat": 10.6496,
+            "lon": -61.5142
+        },
+        "it": "Port of Spain",
+        "it:t": "Trinidad e Tobago",
+        "es": "Puerto Espa\u00f1a",
+        "es:t": "Trinidad y Tobago",
+        "de": "Port of Spain",
+        "de:t": "Trinidad und Tobago"
+    },
+    {
+        "en": "San Fernando Corporation",
+        "en:t": "Trinidad and Tobago",
+        "a": true,
+        "g": {
+            "lat": 10.2805,
+            "lon": -61.4494
+        },
+        "it": "San Fernando",
+        "it:t": "Trinidad e Tobago",
+        "es": "San Fernando",
+        "es:t": "Trinidad y Tobago",
+        "de": "San Fernando",
+        "de:t": "Trinidad und Tobago"
+    },
+    {
+        "en": "Sangre Grande",
+        "en:t": "Trinidad and Tobago",
+        "a": true,
+        "g": {
+            "lat": 10.5853,
+            "lon": -61.1316
+        },
+        "it": "Sangre Grande",
+        "it:t": "Trinidad e Tobago",
+        "es": "Sangre Grande",
+        "es:t": "Trinidad y Tobago",
+        "de": "Sangre Grande",
+        "de:t": "Trinidad und Tobago"
+    },
+    {
+        "en": "Scarborough",
+        "en:t": "Trinidad and Tobago | Western Tobago",
+        "a": true,
+        "g": {
+            "lat": 11.187,
+            "lon": -60.7302
+        },
+        "it": "Scarborough",
+        "it:t": "Trinidad e Tobago | Western Tobago",
+        "es": "Scarborough",
+        "es:t": "Trinidad y Tobago | Western Tobago",
+        "de": "Scarborough",
+        "de:t": "Trinidad und Tobago | Western Tobago"
+    },
+    {
+        "en": "Tunapuna",
+        "en:t": "Trinidad and Tobago",
+        "a": true,
+        "g": {
+            "lat": 10.6513,
+            "lon": -61.3881
+        },
+        "it": "Tunapuna",
+        "it:t": "Trinidad e Tobago",
+        "es": "Tunapuna",
+        "es:t": "Trinidad y Tobago",
+        "de": "Tunapuna",
+        "de:t": "Trinidad und Tobago"
+    }
+]

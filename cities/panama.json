@@ -1,0 +1,347 @@
+[
+    {
+        "en": "Aguadulce",
+        "en:t": "Panama",
+        "a": true,
+        "g": {
+            "lat": 8.2302,
+            "lon": -80.555
+        },
+        "it": "Aguadulce",
+        "it:t": "Panam\u00e1",
+        "es": "Aguadulce",
+        "es:t": "Panam\u00e1",
+        "de": "Aguadulce",
+        "de:t": "Panama"
+    },
+    {
+        "en": "Alcalde Diaz",
+        "en:t": "Panama",
+        "a": true,
+        "g": {
+            "lat": 9.117,
+            "lon": -79.5716
+        },
+        "it": "Alcalde D\u00edaz",
+        "it:t": "Panam\u00e1",
+        "es": "Alcalde D\u00edaz",
+        "es:t": "Panam\u00e1",
+        "de": "Alcalde Diaz",
+        "de:t": "Panama"
+    },
+    {
+        "en": "Arraijan",
+        "en:t": "Panama",
+        "a": true,
+        "g": {
+            "lat": 8.9418,
+            "lon": -79.6426
+        },
+        "it": "Arraij\u00e1n",
+        "it:t": "Panam\u00e1",
+        "es": "Arraij\u00e1n",
+        "es:t": "Panam\u00e1",
+        "de": "Arraijan",
+        "de:t": "Panama"
+    },
+    {
+        "en": "Cativa",
+        "en:t": "Panama | Colon",
+        "a": true,
+        "g": {
+            "lat": 9.3623,
+            "lon": -79.8325
+        },
+        "it": "Cativ\u00e1",
+        "it:t": "Panam\u00e1 | Colon",
+        "es": "Cativ\u00e1",
+        "es:t": "Panam\u00e1 | Col\u00f3n",
+        "de": "Cativa",
+        "de:t": "Panama | Colon"
+    },
+    {
+        "en": "Changuinola",
+        "en:t": "Panama",
+        "a": true,
+        "g": {
+            "lat": 9.4489,
+            "lon": -82.4852
+        },
+        "it": "Changuinola",
+        "it:t": "Panam\u00e1",
+        "es": "Changuinola",
+        "es:t": "Panam\u00e1",
+        "de": "Changuinola",
+        "de:t": "Panama"
+    },
+    {
+        "en": "Chepo",
+        "en:t": "Panama",
+        "a": true,
+        "g": {
+            "lat": 9.1632,
+            "lon": -79.104
+        },
+        "it": "Chepo",
+        "it:t": "Panam\u00e1",
+        "es": "Chepo",
+        "es:t": "Panam\u00e1",
+        "de": "Chepo",
+        "de:t": "Panama"
+    },
+    {
+        "en": "Chilibre",
+        "en:t": "Panama",
+        "a": true,
+        "g": {
+            "lat": 9.1619,
+            "lon": -79.6165
+        },
+        "it": "Chilibre",
+        "it:t": "Panam\u00e1",
+        "es": "Chil\u00edbre",
+        "es:t": "Panam\u00e1",
+        "de": "Chilibre",
+        "de:t": "Panama"
+    },
+    {
+        "en": "Chitre",
+        "en:t": "Panama",
+        "a": true,
+        "g": {
+            "lat": 7.9523,
+            "lon": -80.4382
+        },
+        "it": "Chitr\u00e9",
+        "it:t": "Panam\u00e1",
+        "es": "Chitr\u00e9",
+        "es:t": "Panam\u00e1",
+        "de": "Chitr\u00e9",
+        "de:t": "Panama"
+    },
+    {
+        "en": "Col\u00f3n",
+        "en:t": "Panama",
+        "a": true,
+        "g": {
+            "lat": 9.3593,
+            "lon": -79.8999
+        },
+        "it": "Col\u00f3n",
+        "it:t": "Panam\u00e1",
+        "es": "Col\u00f3n",
+        "es:t": "Panam\u00e1",
+        "de": "Col\u00f3n",
+        "de:t": "Panama"
+    },
+    {
+        "en": "David",
+        "en:t": "Panama | David",
+        "a": true,
+        "g": {
+            "lat": 8.4007,
+            "lon": -82.4428
+        },
+        "it": "David",
+        "it:t": "Panam\u00e1 | David",
+        "es": "David",
+        "es:t": "Panam\u00e1 | David",
+        "de": "David",
+        "de:t": "Panama | David"
+    },
+    {
+        "en": "La Cabima",
+        "en:t": "Panama",
+        "a": true,
+        "g": {
+            "lat": 9.1309,
+            "lon": -79.5323
+        },
+        "it": "La Cabima",
+        "it:t": "Panam\u00e1",
+        "es": "La Cabima",
+        "es:t": "Panam\u00e1",
+        "de": "La Cabima",
+        "de:t": "Panama"
+    },
+    {
+        "en": "La Chorrera",
+        "en:t": "Panama",
+        "a": true,
+        "g": {
+            "lat": 8.8829,
+            "lon": -79.7736
+        },
+        "it": "La Chorrera",
+        "it:t": "Panam\u00e1",
+        "es": "La Chorrera",
+        "es:t": "Panam\u00e1",
+        "de": "La Chorrera",
+        "de:t": "Panama"
+    },
+    {
+        "en": "La Concepcion",
+        "en:t": "Panama | Bugaba",
+        "a": true,
+        "g": {
+            "lat": 8.5134,
+            "lon": -82.6375
+        },
+        "it": "La Concepci\u00f3n",
+        "it:t": "Panam\u00e1 | Bugaba",
+        "es": "La Concepci\u00f3n",
+        "es:t": "Panam\u00e1 | Bugaba",
+        "de": "La Concepcion",
+        "de:t": "Panama | Bugaba"
+    },
+    {
+        "en": "Las Cumbres",
+        "en:t": "Panama",
+        "a": true,
+        "g": {
+            "lat": 9.0945,
+            "lon": -79.5491
+        },
+        "it": "Las Cumbres",
+        "it:t": "Panam\u00e1",
+        "es": "Las Cumbres",
+        "es:t": "Panam\u00e1",
+        "de": "Las Cumbres",
+        "de:t": "Panama"
+    },
+    {
+        "en": "Nuevo Arraijan",
+        "en:t": "Panama",
+        "a": true,
+        "g": {
+            "lat": 8.9308,
+            "lon": -79.7344
+        },
+        "it": "Nuevo Arraijan",
+        "it:t": "Panam\u00e1",
+        "es": "Nuevo Arraij\u00e1n",
+        "es:t": "Panam\u00e1",
+        "de": "Nuevo Arraijan",
+        "de:t": "Panama"
+    },
+    {
+        "en": "Pacora",
+        "en:t": "Panama",
+        "a": true,
+        "g": {
+            "lat": 9.0835,
+            "lon": -79.2907
+        },
+        "it": "Pacora",
+        "it:t": "Panam\u00e1",
+        "es": "Pacora",
+        "es:t": "Panam\u00e1",
+        "de": "Pacora",
+        "de:t": "Panama"
+    },
+    {
+        "en": "Pedregal",
+        "en:t": "Panama | David",
+        "a": true,
+        "g": {
+            "lat": 8.341,
+            "lon": -82.4482
+        },
+        "it": "Pedregal",
+        "it:t": "Panam\u00e1 | David",
+        "es": "Pedregal",
+        "es:t": "Panam\u00e1 | David",
+        "de": "Pedregal",
+        "de:t": "Panama | David"
+    },
+    {
+        "en": "Puerto Armuelles",
+        "en:t": "Panama | Bar\u00fa",
+        "a": true,
+        "g": {
+            "lat": 8.2743,
+            "lon": -82.86
+        },
+        "it": "Puerto Armuelles",
+        "it:t": "Panam\u00e1 | Bar\u00fa",
+        "es": "Puerto Armuelles",
+        "es:t": "Panam\u00e1 | Bar\u00fa",
+        "de": "Puerto Armuelles",
+        "de:t": "Panama | Bar\u00fa"
+    },
+    {
+        "en": "San Miguelito",
+        "en:t": "Panama",
+        "a": true,
+        "g": {
+            "lat": 9.0485,
+            "lon": -79.5083
+        },
+        "it": "San Miguelito",
+        "it:t": "Panam\u00e1",
+        "es": "San Miguelito",
+        "es:t": "Panam\u00e1",
+        "de": "San Miguelito",
+        "de:t": "Panama"
+    },
+    {
+        "en": "Santiago",
+        "en:t": "Panama",
+        "a": true,
+        "g": {
+            "lat": 8.0885,
+            "lon": -80.9761
+        },
+        "it": "Santiago",
+        "it:t": "Panam\u00e1",
+        "es": "Santiago",
+        "es:t": "Panam\u00e1",
+        "de": "Santiago",
+        "de:t": "Panama"
+    },
+    {
+        "en": "Tocumen",
+        "en:t": "Panama",
+        "a": true,
+        "g": {
+            "lat": 9.0675,
+            "lon": -79.3691
+        },
+        "it": "Tocumen",
+        "it:t": "Panam\u00e1",
+        "es": "Tocumen",
+        "es:t": "Panam\u00e1",
+        "de": "Tocumen",
+        "de:t": "Panama"
+    },
+    {
+        "en": "Veracruz",
+        "en:t": "Panama | Arraij\u00e1n",
+        "a": true,
+        "g": {
+            "lat": 8.8877,
+            "lon": -79.6421
+        },
+        "it": "Veracruz",
+        "it:t": "Panam\u00e1 | Arraij\u00e1n",
+        "es": "Veracruz",
+        "es:t": "Panam\u00e1 | Arraij\u00e1n",
+        "de": "Veracruz",
+        "de:t": "Panama | Arraij\u00e1n"
+    },
+    {
+        "en": "Vista Alegre",
+        "en:t": "Panama | Arraij\u00e1n",
+        "a": true,
+        "g": {
+            "lat": 8.9301,
+            "lon": -79.6991
+        },
+        "it": "Vista Alegre",
+        "it:t": "Panam\u00e1 | Arraij\u00e1n",
+        "es": "Vista Alegre",
+        "es:t": "Panam\u00e1 | Arraij\u00e1n",
+        "de": "Vista Alegre",
+        "de:t": "Panama | Arraij\u00e1n"
+    }
+]

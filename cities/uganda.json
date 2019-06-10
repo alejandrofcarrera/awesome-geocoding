@@ -1,0 +1,677 @@
+[
+  {
+    "en": "Adjumani",
+    "en:t": "Uganda",
+    "a": true,
+    "g": {
+      "lat": 3.3784,
+      "lon": 31.7822
+    },
+    "it": "Adjumani",
+    "it:t": "Uganda",
+    "es": "Adjumani",
+    "es:t": "Uganda",
+    "de": "Adjumani",
+    "de:t": "Uganda"
+  },
+  {
+    "en": "Arua",
+    "en:t": "Uganda",
+    "a": true,
+    "g": {
+      "lat": 3.0303,
+      "lon": 30.9073
+    },
+    "it": "Arua",
+    "it:t": "Uganda",
+    "es": "Arua",
+    "es:t": "Uganda",
+    "de": "Arua",
+    "de:t": "Uganda"
+  },
+  {
+    "en": "Bugiri",
+    "en:t": "Uganda | Namayingo",
+    "a": true,
+    "g": {
+      "lat": 0.5671,
+      "lon": 33.7462
+    },
+    "it": "Bugiri",
+    "it:t": "Uganda | Namayingo",
+    "es": "Bugiri",
+    "es:t": "Uganda | Namayingo",
+    "de": "Bugiri",
+    "de:t": "Uganda | Namayingo"
+  },
+  {
+    "en": "Bundibugyo",
+    "en:t": "Uganda",
+    "a": true,
+    "g": {
+      "lat": 0.7075,
+      "lon": 30.0636
+    },
+    "it": "Bundibugyo",
+    "it:t": "Uganda",
+    "es": "Bundibugyo",
+    "es:t": "Uganda",
+    "de": "Bundibugyo",
+    "de:t": "Uganda"
+  },
+  {
+    "en": "Busembatia",
+    "en:t": "Uganda | Iganga",
+    "a": true,
+    "g": {
+      "lat": 0.776,
+      "lon": 33.626
+    },
+    "it": "Busembatia",
+    "it:t": "Uganda | Iganga",
+    "es": "Busembatia",
+    "es:t": "Uganda | Iganga",
+    "de": "Busembatia",
+    "de:t": "Uganda | Iganga"
+  },
+  {
+    "en": "Busia Uganda",
+    "en:t": "Uganda | Busia",
+    "a": true,
+    "g": {
+      "lat": 0.4707,
+      "lon": 34.092
+    },
+    "it": "Busia",
+    "it:t": "Uganda | Busia",
+    "es": "Busia",
+    "es:t": "Uganda | Busia",
+    "de": "Busia",
+    "de:t": "Uganda | Busia"
+  },
+  {
+    "en": "Buwenge",
+    "en:t": "Uganda | Jinja",
+    "a": true,
+    "g": {
+      "lat": 0.6484,
+      "lon": 33.1717
+    },
+    "it": "Buwenge",
+    "it:t": "Uganda | Jinja",
+    "es": "Buwenge",
+    "es:t": "Uganda | Jinja",
+    "de": "Buwenge",
+    "de:t": "Uganda | Jinja"
+  },
+  {
+    "en": "Entebbe",
+    "en:t": "Uganda | Wakiso",
+    "a": true,
+    "g": {
+      "lat": 0.0512,
+      "lon": 32.4637
+    },
+    "it": "Entebbe",
+    "it:t": "Uganda | Wakiso",
+    "es": "Entebbe",
+    "es:t": "Uganda | Wakiso",
+    "de": "Entebbe",
+    "de:t": "Uganda | Wakiso"
+  },
+  {
+    "en": "Fort Portal",
+    "en:t": "Uganda | Kabarole",
+    "a": true,
+    "g": {
+      "lat": 0.6546,
+      "lon": 30.2801
+    },
+    "it": "Fort Portal",
+    "it:t": "Uganda | Kabarole",
+    "es": "Fort Portal",
+    "es:t": "Uganda | Kabarole",
+    "de": "Fort Portal",
+    "de:t": "Uganda | Kabarole"
+  },
+  {
+    "en": "Gulu",
+    "en:t": "Uganda",
+    "a": true,
+    "g": {
+      "lat": 2.7724,
+      "lon": 32.2881
+    },
+    "it": "Gulu",
+    "it:t": "Uganda",
+    "es": "Gulu",
+    "es:t": "Uganda",
+    "de": "Gulu",
+    "de:t": "Uganda"
+  },
+  {
+    "en": "Hoima",
+    "en:t": "Uganda",
+    "a": true,
+    "g": {
+      "lat": 1.4274,
+      "lon": 31.3484
+    },
+    "it": "Hoima",
+    "it:t": "Uganda",
+    "es": "Hoima",
+    "es:t": "Uganda",
+    "de": "Hoima",
+    "de:t": "Uganda"
+  },
+  {
+    "en": "Iganga",
+    "en:t": "Uganda",
+    "a": true,
+    "g": {
+      "lat": 0.6046,
+      "lon": 33.472
+    },
+    "it": "Iganga",
+    "it:t": "Uganda",
+    "es": "Iganga",
+    "es:t": "Uganda",
+    "de": "Iganga",
+    "de:t": "Uganda"
+  },
+  {
+    "en": "Jinja",
+    "en:t": "Uganda",
+    "a": true,
+    "g": {
+      "lat": 0.4479,
+      "lon": 33.2026
+    },
+    "it": "Jinja",
+    "it:t": "Uganda",
+    "es": "Jinja",
+    "es:t": "Uganda",
+    "de": "Jinja",
+    "de:t": "Uganda"
+  },
+  {
+    "en": "Kabale",
+    "en:t": "Uganda",
+    "a": true,
+    "g": {
+      "lat": -1.242,
+      "lon": 29.9856
+    },
+    "it": "Kabale",
+    "it:t": "Uganda",
+    "es": "Kabale",
+    "es:t": "Uganda",
+    "de": "Kabale",
+    "de:t": "Uganda"
+  },
+  {
+    "en": "Kampala",
+    "en:t": "Uganda",
+    "a": true,
+    "g": {
+      "lat": 0.3476,
+      "lon": 32.5825
+    },
+    "it": "Kampala",
+    "it:t": "Uganda",
+    "es": "Kampala",
+    "es:t": "Uganda",
+    "de": "Kampala",
+    "de:t": "Uganda"
+  },
+  {
+    "en": "Kamwenge",
+    "en:t": "Uganda",
+    "a": true,
+    "g": {
+      "lat": 0.1861,
+      "lon": 30.4512
+    },
+    "it": "Kamwenge",
+    "it:t": "Uganda",
+    "es": "Kamwenge",
+    "es:t": "Uganda",
+    "de": "Kamwenge",
+    "de:t": "Uganda"
+  },
+  {
+    "en": "Kasese",
+    "en:t": "Uganda",
+    "a": true,
+    "g": {
+      "lat": 0.1699,
+      "lon": 30.0781
+    },
+    "it": "Kasese",
+    "it:t": "Uganda",
+    "es": "Kasese",
+    "es:t": "Uganda",
+    "de": "Kasese",
+    "de:t": "Uganda"
+  },
+  {
+    "en": "Kayunga",
+    "en:t": "Uganda",
+    "a": true,
+    "g": {
+      "lat": 0.7014,
+      "lon": 32.9029
+    },
+    "it": "Kayunga",
+    "it:t": "Uganda",
+    "es": "Kayunga",
+    "es:t": "Uganda",
+    "de": "Kayunga",
+    "de:t": "Uganda"
+  },
+  {
+    "en": "Kireka",
+    "en:t": "Uganda | Nakawa",
+    "a": true,
+    "g": {
+      "lat": 0.3375,
+      "lon": 32.6469
+    },
+    "it": "Kireka",
+    "it:t": "Uganda | Nakawa",
+    "es": "Kireka",
+    "es:t": "Uganda | Nakawa",
+    "de": "Kireka",
+    "de:t": "Uganda | Nakawa"
+  },
+  {
+    "en": "Kitgum",
+    "en:t": "Uganda",
+    "a": true,
+    "g": {
+      "lat": 3.2885,
+      "lon": 32.8789
+    },
+    "it": "Kitgum",
+    "it:t": "Uganda",
+    "es": "Kitgum",
+    "es:t": "Uganda",
+    "de": "Kitgum",
+    "de:t": "Uganda"
+  },
+  {
+    "en": "Kotido",
+    "en:t": "Uganda",
+    "a": true,
+    "g": {
+      "lat": 3.0062,
+      "lon": 34.1115
+    },
+    "it": "Kotido",
+    "it:t": "Uganda",
+    "es": "Kotido",
+    "es:t": "Uganda",
+    "de": "Kotido",
+    "de:t": "Uganda"
+  },
+  {
+    "en": "Kyenjojo",
+    "en:t": "Uganda",
+    "a": true,
+    "g": {
+      "lat": 0.6093,
+      "lon": 30.6401
+    },
+    "it": "Kyenjojo",
+    "it:t": "Uganda",
+    "es": "Kyenjojo",
+    "es:t": "Uganda",
+    "de": "Kyenjojo",
+    "de:t": "Uganda"
+  },
+  {
+    "en": "Lira",
+    "en:t": "Uganda",
+    "a": true,
+    "g": {
+      "lat": 2.2581,
+      "lon": 32.8874
+    },
+    "it": "Lira",
+    "it:t": "Uganda",
+    "es": "Lira",
+    "es:t": "Uganda",
+    "de": "Lira",
+    "de:t": "Uganda"
+  },
+  {
+    "en": "Lugazi",
+    "en:t": "Uganda | Mukono",
+    "a": true,
+    "g": {
+      "lat": 0.3739,
+      "lon": 32.9381
+    },
+    "it": "Lugazi",
+    "it:t": "Uganda | Mukono",
+    "es": "Lugazi",
+    "es:t": "Uganda | Mukono",
+    "de": "Lugazi",
+    "de:t": "Uganda | Mukono"
+  },
+  {
+    "en": "Luweero",
+    "en:t": "Uganda | Luwero",
+    "a": true,
+    "g": {
+      "lat": 0.8404,
+      "lon": 32.4977
+    },
+    "it": "Luweero",
+    "it:t": "Uganda | Luweero",
+    "es": "Luweero",
+    "es:t": "Uganda | Luwero",
+    "de": "Luweero",
+    "de:t": "Uganda | Luweero"
+  },
+  {
+    "en": "Masaka",
+    "en:t": "Uganda",
+    "a": true,
+    "g": {
+      "lat": -0.3267,
+      "lon": 31.7537
+    },
+    "it": "Masaka",
+    "it:t": "Uganda",
+    "es": "Masaka",
+    "es:t": "Uganda",
+    "de": "Masaka",
+    "de:t": "Uganda"
+  },
+  {
+    "en": "Masindi",
+    "en:t": "Uganda",
+    "a": true,
+    "g": {
+      "lat": 1.6873,
+      "lon": 31.7138
+    },
+    "it": "Masindi",
+    "it:t": "Uganda",
+    "es": "Masindi",
+    "es:t": "Uganda",
+    "de": "Masindi",
+    "de:t": "Uganda"
+  },
+  {
+    "en": "Mbale",
+    "en:t": "Uganda",
+    "a": true,
+    "g": {
+      "lat": 1.0784,
+      "lon": 34.181
+    },
+    "it": "Mbale",
+    "it:t": "Uganda",
+    "es": "Mbale",
+    "es:t": "Uganda",
+    "de": "Mbale",
+    "de:t": "Uganda"
+  },
+  {
+    "en": "Mbarara",
+    "en:t": "Uganda",
+    "a": true,
+    "g": {
+      "lat": -0.6072,
+      "lon": 30.6545
+    },
+    "it": "Mbarara",
+    "it:t": "Uganda",
+    "es": "Mbarara",
+    "es:t": "Uganda",
+    "de": "Mbarara",
+    "de:t": "Uganda"
+  },
+  {
+    "en": "Mityana",
+    "en:t": "Uganda",
+    "a": true,
+    "g": {
+      "lat": 0.4016,
+      "lon": 32.044
+    },
+    "it": "Mityana",
+    "it:t": "Uganda",
+    "es": "Mityana",
+    "es:t": "Uganda",
+    "de": "Mityana",
+    "de:t": "Uganda"
+  },
+  {
+    "en": "Moyo",
+    "en:t": "Uganda",
+    "a": true,
+    "g": {
+      "lat": 3.6527,
+      "lon": 31.7281
+    },
+    "it": "Moyo",
+    "it:t": "Uganda",
+    "es": "Moyo",
+    "es:t": "Uganda",
+    "de": "Moyo",
+    "de:t": "Uganda"
+  },
+  {
+    "en": "Mubende",
+    "en:t": "Uganda",
+    "a": true,
+    "g": {
+      "lat": 0.5539,
+      "lon": 31.3885
+    },
+    "it": "Mubende",
+    "it:t": "Uganda",
+    "es": "Mubende",
+    "es:t": "Uganda",
+    "de": "Mubende",
+    "de:t": "Uganda"
+  },
+  {
+    "en": "Mukono",
+    "en:t": "Uganda",
+    "a": true,
+    "g": {
+      "lat": 0.3549,
+      "lon": 32.752
+    },
+    "it": "Mukono",
+    "it:t": "Uganda",
+    "es": "Mukono",
+    "es:t": "Uganda",
+    "de": "Mukono",
+    "de:t": "Uganda"
+  },
+  {
+    "en": "Namasuba",
+    "en:t": "Uganda | Rubaga Division",
+    "a": true,
+    "g": {
+      "lat": 0.2827,
+      "lon": 32.5662
+    },
+    "it": "Namasuba",
+    "it:t": "Uganda | Rubaga Division",
+    "es": "Namasuba",
+    "es:t": "Uganda | Rubaga Division",
+    "de": "Namasuba",
+    "de:t": "Uganda | Rubaga Division"
+  },
+  {
+    "en": "Nebbi",
+    "en:t": "Uganda",
+    "a": true,
+    "g": {
+      "lat": 2.4778,
+      "lon": 31.0851
+    },
+    "it": "Nebbi",
+    "it:t": "Uganda",
+    "es": "Nebbi",
+    "es:t": "Uganda",
+    "de": "Nebbi",
+    "de:t": "Uganda"
+  },
+  {
+    "en": "Njeru",
+    "en:t": "Uganda | Mukono",
+    "a": true,
+    "g": {
+      "lat": 0.4264,
+      "lon": 33.1492
+    },
+    "it": "Njeru",
+    "it:t": "Uganda | Mukono",
+    "es": "Njeru",
+    "es:t": "Uganda | Mukono",
+    "de": "Njeru",
+    "de:t": "Uganda | Mukono"
+  },
+  {
+    "en": "Ntungamo",
+    "en:t": "Uganda",
+    "a": true,
+    "g": {
+      "lat": -0.8751,
+      "lon": 30.2657
+    },
+    "it": "Ntungamo",
+    "it:t": "Uganda",
+    "es": "Ntungamo",
+    "es:t": "Uganda",
+    "de": "Ntungamo",
+    "de:t": "Uganda"
+  },
+  {
+    "en": "Nyachera",
+    "en:t": "Uganda | Wilaya ya Ntungamo",
+    "a": true,
+    "g": {
+      "lat": -0.9,
+      "lon": 30.4167
+    },
+    "it": "Nyachera",
+    "it:t": "Uganda | Wilaya ya Ntungamo",
+    "es": "Nyachera",
+    "es:t": "Uganda | Wilaya ya Ntungamo",
+    "de": "Nyachera",
+    "de:t": "Uganda | Wilaya ya Ntungamo"
+  },
+  {
+    "en": "Paidha",
+    "en:t": "Uganda | Nebbi",
+    "a": true,
+    "g": {
+      "lat": 2.4184,
+      "lon": 30.9848
+    },
+    "it": "Paidha",
+    "it:t": "Uganda | Nebbi",
+    "es": "Paidha",
+    "es:t": "Uganda | Nebbi",
+    "de": "Paidha",
+    "de:t": "Uganda | Nebbi"
+  },
+  {
+    "en": "Pallisa",
+    "en:t": "Uganda",
+    "a": true,
+    "g": {
+      "lat": 1.1707,
+      "lon": 33.7099
+    },
+    "it": "Pallisa",
+    "it:t": "Uganda",
+    "es": "Pallisa",
+    "es:t": "Uganda",
+    "de": "Pallisa",
+    "de:t": "Uganda"
+  },
+  {
+    "en": "Soroti",
+    "en:t": "Uganda",
+    "a": true,
+    "g": {
+      "lat": 1.7132,
+      "lon": 33.6064
+    },
+    "it": "Soroti",
+    "it:t": "Uganda",
+    "es": "Soroti",
+    "es:t": "Uganda",
+    "de": "Soroti",
+    "de:t": "Uganda"
+  },
+  {
+    "en": "Tororo",
+    "en:t": "Uganda",
+    "a": true,
+    "g": {
+      "lat": 0.6782,
+      "lon": 34.1866
+    },
+    "it": "Tororo",
+    "it:t": "Uganda",
+    "es": "Tororo",
+    "es:t": "Uganda",
+    "de": "Tororo",
+    "de:t": "Uganda"
+  },
+  {
+    "en": "Wakiso",
+    "en:t": "Uganda",
+    "a": true,
+    "g": {
+      "lat": 0.3987,
+      "lon": 32.4793
+    },
+    "it": "Wakiso",
+    "it:t": "Uganda",
+    "es": "Wakiso",
+    "es:t": "Uganda",
+    "de": "Wakiso",
+    "de:t": "Uganda"
+  },
+  {
+    "en": "Wobulenzi",
+    "en:t": "Uganda | Luwero",
+    "a": true,
+    "g": {
+      "lat": 0.7194,
+      "lon": 32.5316
+    },
+    "it": "Wobulenzi",
+    "it:t": "Uganda | Luwero",
+    "es": "Wobulenzi",
+    "es:t": "Uganda | Luwero",
+    "de": "Wobulenzi",
+    "de:t": "Uganda | Luwero"
+  },
+  {
+    "en": "Yumbe",
+    "en:t": "Uganda",
+    "a": true,
+    "g": {
+      "lat": 3.4698,
+      "lon": 31.2483
+    },
+    "it": "Yumbe",
+    "it:t": "Uganda",
+    "es": "Yumbe",
+    "es:t": "Uganda",
+    "de": "Yumbe",
+    "de:t": "Uganda"
+  }
+]

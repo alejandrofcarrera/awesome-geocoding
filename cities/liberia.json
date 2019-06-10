@@ -1,0 +1,152 @@
+[
+    {
+        "en": "Bensonville",
+        "en:t": "Liberia | St. Paul River",
+        "a": true,
+        "g": {
+            "lat": 6.447,
+            "lon": -10.6182
+        },
+        "it": "Bensonville",
+        "it:t": "Liberia | St. Paul River",
+        "es": "Bensonville",
+        "es:t": "Liberia | St. Paul River",
+        "de": "Bensonville",
+        "de:t": "Liberia | St. Paul River"
+    },
+    {
+        "en": "Buchanan",
+        "en:t": "Liberia | Commonwealth-B",
+        "a": true,
+        "g": {
+            "lat": 5.8872,
+            "lon": -10.0304
+        },
+        "it": "Buchanan",
+        "it:t": "Liberia | Commonwealth-B",
+        "es": "Buchanan",
+        "es:t": "Liberia | Commonwealth-B",
+        "de": "Buchanan",
+        "de:t": "Liberia | Commonwealth-B"
+    },
+    {
+        "en": "Gbarnga",
+        "en:t": "Liberia | Jorquelleh",
+        "a": true,
+        "g": {
+            "lat": 7.0024,
+            "lon": -9.4728
+        },
+        "it": "Gbarnga",
+        "it:t": "Liberia | Jorquelleh",
+        "es": "Gbarnga",
+        "es:t": "Liberia | Jorquelleh",
+        "de": "Gbarnga",
+        "de:t": "Liberia | Jorquelleh"
+    },
+    {
+        "en": "Greenville",
+        "en:t": "Liberia",
+        "a": true,
+        "g": {
+            "lat": 5.0154,
+            "lon": -9.0378
+        },
+        "it": "Greenville",
+        "it:t": "Liberia",
+        "es": "Greenville",
+        "es:t": "Liberia",
+        "de": "Greenville",
+        "de:t": "Liberia"
+    },
+    {
+        "en": "Harper",
+        "en:t": "Liberia",
+        "a": true,
+        "g": {
+            "lat": 4.376,
+            "lon": -7.7009
+        },
+        "it": "Harper",
+        "it:t": "Liberia",
+        "es": "Harper",
+        "es:t": "Liberia",
+        "de": "Harper",
+        "de:t": "Liberia"
+    },
+    {
+        "en": "Kakata",
+        "en:t": "Liberia",
+        "a": true,
+        "g": {
+            "lat": 6.5302,
+            "lon": -10.3442
+        },
+        "it": "Kakata",
+        "it:t": "Liberia",
+        "es": "Kakata",
+        "es:t": "Liberia",
+        "de": "Kakata",
+        "de:t": "Liberia"
+    },
+    {
+        "en": "Monrovia",
+        "en:t": "Liberia | Greater Monrovia",
+        "a": true,
+        "g": {
+            "lat": 6.3156,
+            "lon": -10.8074
+        },
+        "it": "Monrovia",
+        "it:t": "Liberia | Greater Monrovia",
+        "es": "Monrovia",
+        "es:t": "Liberia | Greater Monrovia",
+        "de": "Monrovia",
+        "de:t": "Liberia | Metropolregion Monrovia"
+    },
+    {
+        "en": "Voinjama",
+        "en:t": "Liberia",
+        "a": true,
+        "g": {
+            "lat": 8.4202,
+            "lon": -9.7539
+        },
+        "it": "Voinjama",
+        "it:t": "Liberia",
+        "es": "Voinjama",
+        "es:t": "Liberia",
+        "de": "Voinjama",
+        "de:t": "Liberia"
+    },
+    {
+        "en": "Yekepa",
+        "en:t": "Liberia | Yarmein",
+        "a": true,
+        "g": {
+            "lat": 7.579,
+            "lon": -8.5364
+        },
+        "it": "Yekepa",
+        "it:t": "Liberia | Yarmein",
+        "es": "Yekepa",
+        "es:t": "Liberia | Yarmein",
+        "de": "Yekepa",
+        "de:t": "Liberia | Yarmein"
+    },
+    {
+        "en": "Zwedru",
+        "en:t": "Liberia | Tchien",
+        "a": true,
+        "g": {
+            "lat": 6.0649,
+            "lon": -8.1393
+        },
+        "it": "Zwedru",
+        "it:t": "Liberia | Tchien",
+        "es": "Zwedru",
+        "es:t": "Liberia | Tchien",
+        "de": "Zwedru",
+        "de:t": "Liberia | Tchien"
+    }
+]

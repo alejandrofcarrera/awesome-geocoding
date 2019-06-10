@@ -1,0 +1,47 @@
+[
+    {
+        "en": "Dzaoudzi",
+        "en:t": "Mayotte",
+        "a": true,
+        "g": {
+            "lat": -12.7853,
+            "lon": 45.2583
+        },
+        "it": "Dzaoudzi",
+        "it:t": "Mayotte",
+        "es": "Dzaoudzi",
+        "es:t": "Mayotte",
+        "de": "Dzaoudzi",
+        "de:t": "Mayotte"
+    },
+    {
+        "en": "Koungou",
+        "en:t": "Mayotte",
+        "a": true,
+        "g": {
+            "lat": -12.7368,
+            "lon": 45.2068
+        },
+        "it": "Koungou",
+        "it:t": "Mayotte",
+        "es": "Koungou",
+        "es:t": "Mayotte",
+        "de": "Koungou",
+        "de:t": "Mayotte"
+    },
+    {
+        "en": "Mamoudzou",
+        "en:t": "Mayotte",
+        "a": true,
+        "g": {
+            "lat": -12.7809,
+            "lon": 45.2279
+        },
+        "it": "Mamoudzou",
+        "it:t": "Mayotte",
+        "es": "Mamoudzou",
+        "es:t": "Mayotte",
+        "de": "Mamoudzou",
+        "de:t": "Mayotte"
+    }
+]

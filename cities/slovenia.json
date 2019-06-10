@@ -1,0 +1,137 @@
+[
+    {
+        "en": "Celje",
+        "en:t": "Slovenia",
+        "a": true,
+        "g": {
+            "lat": 46.2397,
+            "lon": 15.2677
+        },
+        "it": "Celje",
+        "it:t": "Slovenia",
+        "es": "Celje",
+        "es:t": "Eslovenia",
+        "de": "Celje",
+        "de:t": "Slowenien"
+    },
+    {
+        "en": "Koper",
+        "en:t": "Slovenia",
+        "a": true,
+        "g": {
+            "lat": 45.5481,
+            "lon": 13.7302
+        },
+        "it": "Koper",
+        "it:t": "Slovenia",
+        "es": "Koper",
+        "es:t": "Eslovenia",
+        "de": "Koper",
+        "de:t": "Slowenien"
+    },
+    {
+        "en": "Kranj",
+        "en:t": "Slovenia",
+        "a": true,
+        "g": {
+            "lat": 46.2428,
+            "lon": 14.3555
+        },
+        "it": "Kranj",
+        "it:t": "Slovenia",
+        "es": "Kranj",
+        "es:t": "Eslovenia",
+        "de": "Kranj",
+        "de:t": "Slowenien"
+    },
+    {
+        "en": "Ljubljana",
+        "en:t": "Slovenia",
+        "a": true,
+        "g": {
+            "lat": 46.0569,
+            "lon": 14.5058
+        },
+        "it": "Lubiana",
+        "it:t": "Slovenia",
+        "es": "Liubliana",
+        "es:t": "Eslovenia",
+        "de": "Ljubljana",
+        "de:t": "Slowenien"
+    },
+    {
+        "en": "Maribor",
+        "en:t": "Slovenia",
+        "a": true,
+        "g": {
+            "lat": 46.5555,
+            "lon": 15.6767
+        },
+        "it": "Maribor",
+        "it:t": "Slovenia",
+        "es": "M\u00e1ribor",
+        "es:t": "Eslovenia",
+        "de": "Maribor",
+        "de:t": "Slowenien"
+    },
+    {
+        "en": "Novo mesto",
+        "en:t": "Slovenia",
+        "a": true,
+        "g": {
+            "lat": 45.8011,
+            "lon": 15.171
+        },
+        "it": "Novo Mesto",
+        "it:t": "Slovenia",
+        "es": "Novo Mesto",
+        "es:t": "Eslovenia",
+        "de": "Novo mesto",
+        "de:t": "Slowenien"
+    },
+    {
+        "en": "Ptuj",
+        "en:t": "Slovenia",
+        "a": true,
+        "g": {
+            "lat": 46.42,
+            "lon": 15.8697
+        },
+        "it": "Ptuj",
+        "it:t": "Slovenia",
+        "es": "Ptuj",
+        "es:t": "Eslovenia",
+        "de": "Ptuj",
+        "de:t": "Slowenien"
+    },
+    {
+        "en": "Trbovlje",
+        "en:t": "Slovenia",
+        "a": true,
+        "g": {
+            "lat": 46.1504,
+            "lon": 15.0453
+        },
+        "it": "Trbovlje",
+        "it:t": "Slovenia",
+        "es": "Trbovlje",
+        "es:t": "Eslovenia",
+        "de": "Trbovlje",
+        "de:t": "Slowenien"
+    },
+    {
+        "en": "Velenje",
+        "en:t": "Slovenia",
+        "a": true,
+        "g": {
+            "lat": 46.3623,
+            "lon": 15.1107
+        },
+        "it": "Velenje",
+        "it:t": "Slovenia",
+        "es": "Velenje",
+        "es:t": "Eslovenia",
+        "de": "Velenje",
+        "de:t": "Slowenien"
+    }
+]

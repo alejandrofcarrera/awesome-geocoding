@@ -1,0 +1,77 @@
+[
+    {
+        "en": "Al Khor",
+        "en:t": "Qatar",
+        "a": true,
+        "g": {
+            "lat": 25.6804,
+            "lon": 51.4969
+        },
+        "it": "Al Khawr",
+        "it:t": "Qatar",
+        "es": "Al Khor",
+        "es:t": "Catar",
+        "de": "al-Chaur",
+        "de:t": "Katar"
+    },
+    {
+        "en": "Al Rayyan",
+        "en:t": "Qatar",
+        "a": true,
+        "g": {
+            "lat": 25.2523,
+            "lon": 51.4389
+        },
+        "it": "Ar Rayyan",
+        "it:t": "Qatar",
+        "es": "Ar Ray\u00e1n",
+        "es:t": "Catar",
+        "de": "Ar-Rayyan",
+        "de:t": "Katar"
+    },
+    {
+        "en": "Al Wakrah",
+        "en:t": "Qatar",
+        "a": true,
+        "g": {
+            "lat": 25.1659,
+            "lon": 51.5976
+        },
+        "it": "Al Wakrah",
+        "it:t": "Qatar",
+        "es": "Al Uakra",
+        "es:t": "Catar",
+        "de": "Al-Wakrah",
+        "de:t": "Katar"
+    },
+    {
+        "en": "Doha",
+        "en:t": "Qatar",
+        "a": true,
+        "g": {
+            "lat": 25.2854,
+            "lon": 51.531
+        },
+        "it": "Doha",
+        "it:t": "Qatar",
+        "es": "Doha",
+        "es:t": "Catar",
+        "de": "Doha",
+        "de:t": "Katar"
+    },
+    {
+        "en": "Umm Salal Muhammed",
+        "en:t": "Qatar",
+        "a": true,
+        "g": {
+            "lat": 25.3981,
+            "lon": 51.4251
+        },
+        "it": "Umm Salal Muhammed",
+        "it:t": "Qatar",
+        "es": "Umm Salal Muhammed",
+        "es:t": "Catar",
+        "de": "Umm Salal",
+        "de:t": "Katar"
+    }
+]

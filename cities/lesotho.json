@@ -1,0 +1,122 @@
+[
+    {
+        "en": "Butha Buthe",
+        "en:t": "Lesotho",
+        "a": true,
+        "g": {
+            "lat": -28.7654,
+            "lon": 28.2468
+        },
+        "it": "Butha-Buthe",
+        "it:t": "Lesotho",
+        "es": "Butha-Buthe",
+        "es:t": "Lesoto",
+        "de": "Butha-Buthe",
+        "de:t": "Lesotho"
+    },
+    {
+        "en": "Hlotse",
+        "en:t": "Lesotho | Leribe",
+        "a": true,
+        "g": {
+            "lat": -28.8638,
+            "lon": 28.0479
+        },
+        "it": "Hlotse",
+        "it:t": "Lesotho | Leribe",
+        "es": "Hlotse",
+        "es:t": "Lesoto | Leribe",
+        "de": "Hlotse",
+        "de:t": "Lesotho | Leribe"
+    },
+    {
+        "en": "Mafeteng",
+        "en:t": "Lesotho",
+        "a": true,
+        "g": {
+            "lat": -29.8224,
+            "lon": 27.2388
+        },
+        "it": "Mafeteng",
+        "it:t": "Lesotho",
+        "es": "Mafeteng",
+        "es:t": "Lesoto",
+        "de": "Mafeteng",
+        "de:t": "Lesotho"
+    },
+    {
+        "en": "Maputsoe",
+        "en:t": "Lesotho | Leribe",
+        "a": true,
+        "g": {
+            "lat": -28.8954,
+            "lon": 27.9073
+        },
+        "it": "Maputsoe",
+        "it:t": "Lesotho | Leribe",
+        "es": "Maputsoe",
+        "es:t": "Lesoto | Leribe",
+        "de": "Maputsoe",
+        "de:t": "Lesotho | Leribe"
+    },
+    {
+        "en": "Maseru",
+        "en:t": "Lesotho",
+        "a": true,
+        "g": {
+            "lat": -29.3151,
+            "lon": 27.4869
+        },
+        "it": "Maseru",
+        "it:t": "Lesotho",
+        "es": "Maseru",
+        "es:t": "Lesoto",
+        "de": "Maseru",
+        "de:t": "Lesotho"
+    },
+    {
+        "en": "Mohales Hoek",
+        "en:t": "Lesotho | Mohale's Hoek",
+        "a": true,
+        "g": {
+            "lat": -30.1426,
+            "lon": 27.4674
+        },
+        "it": "Mohale's Hoek",
+        "it:t": "Lesotho | Mohale's Hoek",
+        "es": "Mohale's Hoek",
+        "es:t": "Lesoto | Mohale's Hoek",
+        "de": "Mohale's Hoek",
+        "de:t": "Lesotho | Mohale's Hoek"
+    },
+    {
+        "en": "Qachas Nek",
+        "en:t": "Lesotho | Qacha's Nek",
+        "a": true,
+        "g": {
+            "lat": -30.1115,
+            "lon": 28.679
+        },
+        "it": "Qacha's Nek",
+        "it:t": "Lesotho | Qacha's Nek",
+        "es": "Qacha's Nek",
+        "es:t": "Lesoto | Qacha's Nek",
+        "de": "Qacha's Nek",
+        "de:t": "Lesotho | Qacha's Nek"
+    },
+    {
+        "en": "Quthing",
+        "en:t": "Lesotho",
+        "a": true,
+        "g": {
+            "lat": -30.4016,
+            "lon": 27.708
+        },
+        "it": "Quthing",
+        "it:t": "Lesotho",
+        "es": "Quthing",
+        "es:t": "Lesoto",
+        "de": "Quthing",
+        "de:t": "Lesotho"
+    }
+]

@@ -1,0 +1,197 @@
+[
+    {
+        "en": "Gobabis",
+        "en:t": "Namibia | Omaheke",
+        "a": true,
+        "g": {
+            "lat": -22.399,
+            "lon": 18.974
+        },
+        "it": "Gobabis",
+        "it:t": "Namibia | Omaheke",
+        "es": "Gobabis",
+        "es:t": "Namibia | Omaheke",
+        "de": "Gobabis",
+        "de:t": "Namibia | Omaheke"
+    },
+    {
+        "en": "Grootfontein",
+        "en:t": "Namibia | Otjozondjupa",
+        "a": true,
+        "g": {
+            "lat": -19.5729,
+            "lon": 18.1073
+        },
+        "it": "Grootfontein",
+        "it:t": "Namibia | Otjozondjupa",
+        "es": "Grootfontein",
+        "es:t": "Namibia | Otjozondjupa",
+        "de": "Grootfontein",
+        "de:t": "Namibia | Otjozondjupa"
+    },
+    {
+        "en": "Katima Mulilo",
+        "en:t": "Namibia | Zambezi",
+        "a": true,
+        "g": {
+            "lat": -17.5062,
+            "lon": 24.2807
+        },
+        "it": "Katima Mulilo",
+        "it:t": "Namibia | Zambesi",
+        "es": "Katima Mulilo",
+        "es:t": "Namibia | Zambezi",
+        "de": "Katima Mulilo",
+        "de:t": "Namibia | Sambesi"
+    },
+    {
+        "en": "Keetmanshoop",
+        "en:t": "Namibia | Karas",
+        "a": true,
+        "g": {
+            "lat": -26.5642,
+            "lon": 18.131
+        },
+        "it": "Keetmanshoop",
+        "it:t": "Namibia | Karas",
+        "es": "Keetmanshoop",
+        "es:t": "Namibia | Karas",
+        "de": "Keetmanshoop",
+        "de:t": "Namibia | \u01c1Karas"
+    },
+    {
+        "en": "Luderitz",
+        "en:t": "Namibia | Karas",
+        "a": true,
+        "g": {
+            "lat": -26.642,
+            "lon": 15.1639
+        },
+        "it": "L\u00fcderitz",
+        "it:t": "Namibia | Karas",
+        "es": "L\u00fcderitz",
+        "es:t": "Namibia | Karas",
+        "de": "L\u00fcderitz",
+        "de:t": "Namibia | \u01c1Karas"
+    },
+    {
+        "en": "Okahandja",
+        "en:t": "Namibia | Otjozondjupa",
+        "a": true,
+        "g": {
+            "lat": -21.9719,
+            "lon": 16.9063
+        },
+        "it": "Okahandja",
+        "it:t": "Namibia | Otjozondjupa",
+        "es": "Okahandja",
+        "es:t": "Namibia | Otjozondjupa",
+        "de": "Okahandja",
+        "de:t": "Namibia | Otjozondjupa"
+    },
+    {
+        "en": "Oshakati",
+        "en:t": "Namibia | Oshana",
+        "a": true,
+        "g": {
+            "lat": -17.7895,
+            "lon": 15.7058
+        },
+        "it": "Oshakati",
+        "it:t": "Namibia | Oshana",
+        "es": "Oshakati",
+        "es:t": "Namibia | Oshana",
+        "de": "Oshakati",
+        "de:t": "Namibia | Oshana"
+    },
+    {
+        "en": "Otjiwarongo",
+        "en:t": "Namibia | Otjozondjupa",
+        "a": true,
+        "g": {
+            "lat": -20.4545,
+            "lon": 16.6645
+        },
+        "it": "Otjiwarongo",
+        "it:t": "Namibia | Otjozondjupa",
+        "es": "Otjiwarongo",
+        "es:t": "Namibia | Otjozondjupa",
+        "de": "Otjiwarongo",
+        "de:t": "Namibia | Otjozondjupa"
+    },
+    {
+        "en": "Rehoboth",
+        "en:t": "Namibia | Hardap",
+        "a": true,
+        "g": {
+            "lat": -23.3196,
+            "lon": 17.0894
+        },
+        "it": "Rehoboth",
+        "it:t": "Namibia | Hardap",
+        "es": "Rehoboth",
+        "es:t": "Namibia | Hardap",
+        "de": "Rehoboth",
+        "de:t": "Namibia | Hardap"
+    },
+    {
+        "en": "Rundu",
+        "en:t": "Namibia | Kavango",
+        "a": true,
+        "g": {
+            "lat": -17.9253,
+            "lon": 19.7532
+        },
+        "it": "Rundu",
+        "it:t": "Namibia | Kavango",
+        "es": "Rundu",
+        "es:t": "Namibia | Kavango",
+        "de": "Rundu",
+        "de:t": "Namibia | Kavango"
+    },
+    {
+        "en": "Swakopmund",
+        "en:t": "Namibia | Erongo",
+        "a": true,
+        "g": {
+            "lat": -22.6467,
+            "lon": 14.6005
+        },
+        "it": "Swakopmund",
+        "it:t": "Namibia | Erongo",
+        "es": "Swakopmund",
+        "es:t": "Namibia | Erongo",
+        "de": "Swakopmund",
+        "de:t": "Namibia | Erongo"
+    },
+    {
+        "en": "Walvis Bay",
+        "en:t": "Namibia | Erongo",
+        "a": true,
+        "g": {
+            "lat": -22.9584,
+            "lon": 14.5058
+        },
+        "it": "Walvisbaai",
+        "it:t": "Namibia | Erongo",
+        "es": "Walvis Bay",
+        "es:t": "Namibia | Erongo",
+        "de": "Walfischbucht",
+        "de:t": "Namibia | Erongo"
+    },
+    {
+        "en": "Windhoek",
+        "en:t": "Namibia | Khomas",
+        "a": true,
+        "g": {
+            "lat": -22.5609,
+            "lon": 17.0658
+        },
+        "it": "Windhoek",
+        "it:t": "Namibia | Khomas",
+        "es": "Windhoek",
+        "es:t": "Namibia | Khomas",
+        "de": "Windhuk",
+        "de:t": "Namibia | Khomas"
+    }
+]

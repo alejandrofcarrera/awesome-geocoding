@@ -1,0 +1,17 @@
+[
+    {
+        "en": "Kingstown",
+        "en:t": "Saint Vincent and the Grenadines | St. George",
+        "a": true,
+        "g": {
+            "lat": 13.16,
+            "lon": -61.2248
+        },
+        "it": "Kingstown",
+        "it:t": "Saint Vincent e Grenadine | Parrocchia di Saint George",
+        "es": "Kingstown",
+        "es:t": "San Vicente y las Granadinas | San Jorge",
+        "de": "Kingstown",
+        "de:t": "Sankt Vincent und die Grenadinen | Saint George"
+    }
+]

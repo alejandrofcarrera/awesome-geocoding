@@ -1,0 +1,1562 @@
+[
+    {
+        "en": "Andong",
+        "en:t": "South Korea | Gyeongsangbuk-do",
+        "a": true,
+        "g": {
+            "lat": 36.5684,
+            "lon": 128.7294
+        },
+        "it": "Andong",
+        "it:t": "Corea del Sud | Gyeongsang Settentrionale",
+        "es": "Andong",
+        "es:t": "Corea del Sur | Gyeongsang del Norte",
+        "de": "Andong",
+        "de:t": "S\u00fcdkorea | Gyeongsangbuk-do"
+    },
+    {
+        "en": "Ansan-si",
+        "en:t": "South Korea | Gyeonggi-do",
+        "a": true,
+        "g": {
+            "lat": 37.3219,
+            "lon": 126.8309
+        },
+        "it": "Ansan",
+        "it:t": "Corea del Sud | Gyeonggi",
+        "es": "Ansan",
+        "es:t": "Corea del Sur | Gyeonggi",
+        "de": "Ansan",
+        "de:t": "S\u00fcdkorea | Gyeonggi-do"
+    },
+    {
+        "en": "Anseong",
+        "en:t": "South Korea | Gyeonggi-do",
+        "a": true,
+        "g": {
+            "lat": 37.008,
+            "lon": 127.2797
+        },
+        "it": "Anseong",
+        "it:t": "Corea del Sud | Gyeonggi",
+        "es": "Ansung",
+        "es:t": "Corea del Sur | Gyeonggi",
+        "de": "Anseong",
+        "de:t": "S\u00fcdkorea | Gyeonggi-do"
+    },
+    {
+        "en": "Anyang",
+        "en:t": "South Korea | Gyeonggi-do",
+        "a": true,
+        "g": {
+            "lat": 37.3943,
+            "lon": 126.9568
+        },
+        "it": "Anyang",
+        "it:t": "Corea del Sud | Gyeonggi",
+        "es": "Anyang",
+        "es:t": "Corea del Sur | Gyeonggi",
+        "de": "Anyang",
+        "de:t": "S\u00fcdkorea | Gyeonggi-do"
+    },
+    {
+        "en": "Asan-si",
+        "en:t": "South Korea | Chungcheongnam-do",
+        "a": true,
+        "g": {
+            "lat": 36.7898,
+            "lon": 127.0018
+        },
+        "it": "Asan",
+        "it:t": "Corea del Sud | Chungcheong Meridionale",
+        "es": "Asan",
+        "es:t": "Corea del Sur | Chungcheong del Sur",
+        "de": "Asan",
+        "de:t": "S\u00fcdkorea | Chungcheongnam-do"
+    },
+    {
+        "en": "Beolgyoyeog",
+        "en:t": "South Korea | Beolgyo-eup",
+        "a": true,
+        "g": {
+            "lat": 34.842,
+            "lon": 127.3453
+        },
+        "it": "512-16",
+        "it:t": "Corea del Sud | Beolgyo-ri",
+        "es": "Beolgyoyeog",
+        "es:t": "Corea del Sur | Beolgyo-eup",
+        "de": "Beolgyoyeog",
+        "de:t": "S\u00fcdkorea | Beolgyo-eup"
+    },
+    {
+        "en": "Buan-gun",
+        "en:t": "South Korea | Jeollabuk-do",
+        "a": true,
+        "g": {
+            "lat": 35.7316,
+            "lon": 126.7335
+        },
+        "it": "Buan",
+        "it:t": "Corea del Sud | Jeolla Settentrionale",
+        "es": "Buan",
+        "es:t": "Corea del Sur | Jeolla del Norte",
+        "de": "Buan",
+        "de:t": "S\u00fcdkorea | Jeollabuk-do"
+    },
+    {
+        "en": "Bucheon",
+        "en:t": "South Korea | Gyeonggi-do",
+        "a": true,
+        "g": {
+            "lat": 37.5034,
+            "lon": 126.766
+        },
+        "it": "Bucheon",
+        "it:t": "Corea del Sud | Gyeonggi",
+        "es": "Bucheon",
+        "es:t": "Corea del Sur | Gyeonggi",
+        "de": "Bucheon",
+        "de:t": "S\u00fcdkorea | Gyeonggi-do"
+    },
+    {
+        "en": "Busan",
+        "en:t": "South Korea",
+        "a": true,
+        "g": {
+            "lat": 35.1796,
+            "lon": 129.0756
+        },
+        "it": "Pusan",
+        "it:t": "Corea del Sud",
+        "es": "Bus\u00e1n",
+        "es:t": "Corea del Sur",
+        "de": "Busan",
+        "de:t": "S\u00fcdkorea"
+    },
+    {
+        "en": "Changnyeong-gun",
+        "en:t": "South Korea | Gyeongsangnam-do",
+        "a": true,
+        "g": {
+            "lat": 35.5446,
+            "lon": 128.4922
+        },
+        "it": "Changnyeong",
+        "it:t": "Corea del Sud | Gyeongsang Meridionale",
+        "es": "Changnyeong-gun",
+        "es:t": "Corea del Sur | Gyeongsang del Sur",
+        "de": "Changnyeong",
+        "de:t": "S\u00fcdkorea | Gyeongsangnam-do"
+    },
+    {
+        "en": "Cheonan-si",
+        "en:t": "South Korea | Chungcheongnam-do",
+        "a": true,
+        "g": {
+            "lat": 36.8151,
+            "lon": 127.1139
+        },
+        "it": "Cheonan",
+        "it:t": "Corea del Sud | Chungcheong Meridionale",
+        "es": "Cheonan",
+        "es:t": "Corea del Sur | Chungcheong del Sur",
+        "de": "Cheonan",
+        "de:t": "S\u00fcdkorea | Chungcheongnam-do"
+    },
+    {
+        "en": "Cheongju-si",
+        "en:t": "South Korea | Chungcheongbuk-do",
+        "a": true,
+        "g": {
+            "lat": 36.6424,
+            "lon": 127.489
+        },
+        "it": "Cheongju",
+        "it:t": "Corea del Sud | Chungcheong Settentrionale",
+        "es": "Cheongju",
+        "es:t": "Corea del Sur | Chungcheong del Norte",
+        "de": "Cheongju",
+        "de:t": "S\u00fcdkorea | Chungcheongbuk-do"
+    },
+    {
+        "en": "Cheongsong-gun",
+        "en:t": "South Korea | Gyeongsangbuk-do",
+        "a": true,
+        "g": {
+            "lat": 36.4359,
+            "lon": 129.0571
+        },
+        "it": "Cheongsong",
+        "it:t": "Corea del Sud | Gyeongsang Settentrionale",
+        "es": "Cheongsong-gun",
+        "es:t": "Corea del Sur | Gyeongsang del Norte",
+        "de": "Cheongsong-gun",
+        "de:t": "S\u00fcdkorea | Gyeongsangbuk-do"
+    },
+    {
+        "en": "Chinch'on",
+        "en:t": "South Korea | Jincheon-ri",
+        "a": true,
+        "g": {
+            "lat": 34.9333,
+            "lon": 126.5833
+        },
+        "it": "Chinch'on",
+        "it:t": "Corea del Sud | Jincheon-ri",
+        "es": "Chinch'on",
+        "es:t": "Corea del Sur | Jincheon-ri",
+        "de": "Chinch'on",
+        "de:t": "S\u00fcdkorea | Jincheon-ri"
+    },
+    {
+        "en": "Chuncheon-si",
+        "en:t": "South Korea | Gangwon-do",
+        "a": true,
+        "g": {
+            "lat": 37.8813,
+            "lon": 127.73
+        },
+        "it": "Chuncheon",
+        "it:t": "Corea del Sud | Gangwon",
+        "es": "Chuncheon",
+        "es:t": "Corea del Sur | Gangwon",
+        "de": "Chuncheon",
+        "de:t": "S\u00fcdkorea | Gangwon-do"
+    },
+    {
+        "en": "Chungcheongbuk-do",
+        "en:t": "South Korea",
+        "a": true,
+        "g": {
+            "lat": 36.8,
+            "lon": 127.7
+        },
+        "it": "Chungcheong Settentrionale",
+        "it:t": "Corea del Sud",
+        "es": "Chungcheong del Norte",
+        "es:t": "Corea del Sur",
+        "de": "Yong-dong",
+        "de:t": "S\u00fcdkorea"
+    },
+    {
+        "en": "Chungcheongnam-do",
+        "en:t": "South Korea",
+        "a": true,
+        "g": {
+            "lat": 36.5184,
+            "lon": 126.8
+        },
+        "it": "Chungcheong Meridionale",
+        "it:t": "Corea del Sud",
+        "es": "Chungcheong del Sur",
+        "es:t": "Corea del Sur",
+        "de": "Chungcheongnam-do",
+        "de:t": "S\u00fcdkorea"
+    },
+    {
+        "en": "Daegu",
+        "en:t": "South Korea",
+        "a": true,
+        "g": {
+            "lat": 35.8714,
+            "lon": 128.6014
+        },
+        "it": "Taegu",
+        "it:t": "Corea del Sud",
+        "es": "Daegu",
+        "es:t": "Corea del Sur",
+        "de": "Daegu",
+        "de:t": "S\u00fcdkorea"
+    },
+    {
+        "en": "Daejeon",
+        "en:t": "South Korea",
+        "a": true,
+        "g": {
+            "lat": 36.3504,
+            "lon": 127.3845
+        },
+        "it": "Daedeok-gu",
+        "it:t": "Corea del Sud",
+        "es": "Daedeok",
+        "es:t": "Corea del Sur",
+        "de": "Daejeon",
+        "de:t": "S\u00fcdkorea"
+    },
+    {
+        "en": "Dangjin-si",
+        "en:t": "South Korea | Chungcheongnam-do",
+        "a": true,
+        "g": {
+            "lat": 36.8936,
+            "lon": 126.6283
+        },
+        "it": "Dangjin",
+        "it:t": "Corea del Sud | Chungcheong Meridionale",
+        "es": "Dangjin",
+        "es:t": "Corea del Sur | Chungcheong del Sur",
+        "de": "Dangjin-si",
+        "de:t": "S\u00fcdkorea | Chungcheongnam-do"
+    },
+    {
+        "en": "Donghae-si",
+        "en:t": "South Korea | Gangwon-do",
+        "a": true,
+        "g": {
+            "lat": 37.5247,
+            "lon": 129.1143
+        },
+        "it": "Donghae",
+        "it:t": "Corea del Sud | Gangwon",
+        "es": "Donghae",
+        "es:t": "Corea del Sur | Gangwon",
+        "de": "Donghae",
+        "de:t": "S\u00fcdkorea | Gangwon-do"
+    },
+    {
+        "en": "Ganghwa-gun",
+        "en:t": "South Korea | Incheon",
+        "a": true,
+        "g": {
+            "lat": 37.7467,
+            "lon": 126.4879
+        },
+        "it": "Ganghwa-gun",
+        "it:t": "Corea del Sud | Incheon",
+        "es": "Ganghwa-gun",
+        "es:t": "Corea del Sur | Incheon",
+        "de": "Ganghwa-gun",
+        "de:t": "S\u00fcdkorea | Incheon"
+    },
+    {
+        "en": "Gangneung-si",
+        "en:t": "South Korea | Gangwon-do",
+        "a": true,
+        "g": {
+            "lat": 37.7519,
+            "lon": 128.8761
+        },
+        "it": "Gangneung",
+        "it:t": "Corea del Sud | Gangwon",
+        "es": "Gangneung",
+        "es:t": "Corea del Sur | Gangwon",
+        "de": "Gangneung",
+        "de:t": "S\u00fcdkorea | Gangwon-do"
+    },
+    {
+        "en": "Gangwon-do",
+        "en:t": "South Korea",
+        "a": true,
+        "g": {
+            "lat": 37.8228,
+            "lon": 128.1555
+        },
+        "it": "Gangwon",
+        "it:t": "Corea del Sud",
+        "es": "Gangwon",
+        "es:t": "Corea del Sur",
+        "de": "Gangwon",
+        "de:t": "S\u00fcdkorea"
+    },
+    {
+        "en": "Gapyeong-gun",
+        "en:t": "South Korea | Gyeonggi-do",
+        "a": true,
+        "g": {
+            "lat": 37.8315,
+            "lon": 127.5099
+        },
+        "it": "Gapyeong",
+        "it:t": "Corea del Sud | Gyeonggi",
+        "es": "Gapyeong-gun",
+        "es:t": "Corea del Sur | Gyeonggi",
+        "de": "Gapyeong-gun",
+        "de:t": "S\u00fcdkorea | Gyeonggi-do"
+    },
+    {
+        "en": "Gijang-gun",
+        "en:t": "South Korea | Busan",
+        "a": true,
+        "g": {
+            "lat": 35.2445,
+            "lon": 129.2222
+        },
+        "it": "Gijang",
+        "it:t": "Corea del Sud | Pusan",
+        "es": "Gijang-gun",
+        "es:t": "Corea del Sur | Busan",
+        "de": "Gijang-gun",
+        "de:t": "S\u00fcdkorea | Busan"
+    },
+    {
+        "en": "Gimcheon-si",
+        "en:t": "South Korea | Gyeongsangbuk-do",
+        "a": true,
+        "g": {
+            "lat": 36.1398,
+            "lon": 128.1136
+        },
+        "it": "Gimcheon",
+        "it:t": "Corea del Sud | Gyeongsang Settentrionale",
+        "es": "Gimcheon",
+        "es:t": "Corea del Sur | Gyeongsang del Norte",
+        "de": "Gimcheon-si",
+        "de:t": "S\u00fcdkorea | Gyeongsangbuk-do"
+    },
+    {
+        "en": "Gimhae-si",
+        "en:t": "South Korea | Gyeongsangnam-do",
+        "a": true,
+        "g": {
+            "lat": 35.2285,
+            "lon": 128.8894
+        },
+        "it": "Gimhae",
+        "it:t": "Corea del Sud | Gyeongsang Meridionale",
+        "es": "Gimhae",
+        "es:t": "Corea del Sur | Gyeongsang del Sur",
+        "de": "Gimhae",
+        "de:t": "S\u00fcdkorea | Gyeongsangnam-do"
+    },
+    {
+        "en": "Gimje-si",
+        "en:t": "South Korea | Jeollabuk-do",
+        "a": true,
+        "g": {
+            "lat": 35.8036,
+            "lon": 126.8809
+        },
+        "it": "Gimje",
+        "it:t": "Corea del Sud | Jeolla Settentrionale",
+        "es": "Gimje",
+        "es:t": "Corea del Sur | Jeolla del Norte",
+        "de": "Gimje-si",
+        "de:t": "S\u00fcdkorea | Jeollabuk-do"
+    },
+    {
+        "en": "Gochang-gun",
+        "en:t": "South Korea | Jeollabuk-do",
+        "a": true,
+        "g": {
+            "lat": 35.4358,
+            "lon": 126.7021
+        },
+        "it": "Gochang",
+        "it:t": "Corea del Sud | Jeolla Settentrionale",
+        "es": "Gochang-gun",
+        "es:t": "Corea del Sur | Jeollabuk-do",
+        "de": "Gochang",
+        "de:t": "S\u00fcdkorea | Jeollabuk-do"
+    },
+    {
+        "en": "Goesan-gun",
+        "en:t": "South Korea | Chungcheongbuk-do",
+        "a": true,
+        "g": {
+            "lat": 36.8157,
+            "lon": 127.7866
+        },
+        "it": "Goesan",
+        "it:t": "Corea del Sud | Chungcheong Settentrionale",
+        "es": "Goesan-gun",
+        "es:t": "Corea del Sur | Chungcheong del Norte",
+        "de": "Goesan-gun",
+        "de:t": "S\u00fcdkorea | Chungcheongbuk-do"
+    },
+    {
+        "en": "Gongju-si",
+        "en:t": "South Korea | Chungcheongnam-do",
+        "a": true,
+        "g": {
+            "lat": 36.4465,
+            "lon": 127.1192
+        },
+        "it": "Gongju",
+        "it:t": "Corea del Sud | Chungcheong Meridionale",
+        "es": "Gongju",
+        "es:t": "Corea del Sur | Chungcheong del Sur",
+        "de": "Gongju",
+        "de:t": "S\u00fcdkorea | Chungcheongnam-do"
+    },
+    {
+        "en": "Goseong-gun",
+        "en:t": "South Korea | Gangwon-do",
+        "a": true,
+        "g": {
+            "lat": 38.3801,
+            "lon": 128.4674
+        },
+        "it": "Goseong",
+        "it:t": "Corea del Sud | Gangwon",
+        "es": "Goseong-gun",
+        "es:t": "Corea del Sur | Gangwon-do",
+        "de": "Goseong-gun",
+        "de:t": "S\u00fcdkorea | Gangwon-do"
+    },
+    {
+        "en": "Goseong-gun",
+        "en:t": "South Korea | Gyeongsangnam-do",
+        "a": true,
+        "g": {
+            "lat": 34.9731,
+            "lon": 128.3222
+        },
+        "it": "Goseong",
+        "it:t": "Corea del Sud | Gyeongsang Meridionale",
+        "es": "Goseong-gun",
+        "es:t": "Corea del Sur | Gyeongsang del Sur",
+        "de": "Goseong-gun",
+        "de:t": "S\u00fcdkorea | Gyeongsangnam-do"
+    },
+    {
+        "en": "Goyang-si",
+        "en:t": "South Korea | Gyeonggi-do",
+        "a": true,
+        "g": {
+            "lat": 37.6584,
+            "lon": 126.832
+        },
+        "it": "Goyang",
+        "it:t": "Corea del Sud | Gyeonggi",
+        "es": "Goyang",
+        "es:t": "Corea del Sur | Gyeonggi",
+        "de": "Goyang",
+        "de:t": "S\u00fcdkorea | Gyeonggi-do"
+    },
+    {
+        "en": "Gumi-si",
+        "en:t": "South Korea | Gyeongsangbuk-do",
+        "a": true,
+        "g": {
+            "lat": 36.1195,
+            "lon": 128.3446
+        },
+        "it": "Gumi",
+        "it:t": "Corea del Sud | Gyeongsang Settentrionale",
+        "es": "Gumi",
+        "es:t": "Corea del Sur | Gyeongsang del Norte",
+        "de": "Gumi",
+        "de:t": "S\u00fcdkorea | Gyeongsangbuk-do"
+    },
+    {
+        "en": "Gunsan-si",
+        "en:t": "South Korea | Jeollabuk-do",
+        "a": true,
+        "g": {
+            "lat": 35.9677,
+            "lon": 126.7366
+        },
+        "it": "Gunsan",
+        "it:t": "Corea del Sud | Jeolla Settentrionale",
+        "es": "Gunsan",
+        "es:t": "Corea del Sur | Jeolla del Norte",
+        "de": "Gunsan",
+        "de:t": "S\u00fcdkorea | Jeollabuk-do"
+    },
+    {
+        "en": "Guri-si",
+        "en:t": "South Korea | Gyeonggi-do",
+        "a": true,
+        "g": {
+            "lat": 37.5943,
+            "lon": 127.1296
+        },
+        "it": "Guri",
+        "it:t": "Corea del Sud | Gyeonggi",
+        "es": "Guri",
+        "es:t": "Corea del Sur | Gyeonggi",
+        "de": "Guri",
+        "de:t": "S\u00fcdkorea | Gyeonggi-do"
+    },
+    {
+        "en": "Gurye-gun",
+        "en:t": "South Korea | Jeollanam-do",
+        "a": true,
+        "g": {
+            "lat": 35.2025,
+            "lon": 127.4627
+        },
+        "it": "Jeolla Meridionale",
+        "it:t": "Corea del Sud",
+        "es": "Jeolla del Sur",
+        "es:t": "Corea del Sur",
+        "de": "Jeollanam-do",
+        "de:t": "S\u00fcdkorea"
+    },
+    {
+        "en": "Gwangju",
+        "en:t": "South Korea",
+        "a": true,
+        "g": {
+            "lat": 35.1595,
+            "lon": 126.8526
+        },
+        "it": "Gwangju",
+        "it:t": "Corea del Sud",
+        "es": "Gwangju",
+        "es:t": "Corea del Sur",
+        "de": "Gwangju",
+        "de:t": "S\u00fcdkorea"
+    },
+    {
+        "en": "Gwangju-si",
+        "en:t": "South Korea | Gyeonggi-do",
+        "a": true,
+        "g": {
+            "lat": 37.4171,
+            "lon": 127.2561
+        },
+        "it": "Gwangju",
+        "it:t": "Corea del Sud | Gyeonggi",
+        "es": "Gwangju",
+        "es:t": "Corea del Sur | Gyeonggi",
+        "de": "Gwangju",
+        "de:t": "S\u00fcdkorea | Gyeonggi-do"
+    },
+    {
+        "en": "Gwangmyeong-si",
+        "en:t": "South Korea | Gyeonggi-do",
+        "a": true,
+        "g": {
+            "lat": 37.4785,
+            "lon": 126.8643
+        },
+        "it": "Gwangmyeong",
+        "it:t": "Corea del Sud | Gyeonggi",
+        "es": "Gwangmyeong",
+        "es:t": "Corea del Sur | Gyeonggi",
+        "de": "Gwangmyeong",
+        "de:t": "S\u00fcdkorea | Gyeonggi-do"
+    },
+    {
+        "en": "Gwangyang-si",
+        "en:t": "South Korea | Jeollanam-do",
+        "a": true,
+        "g": {
+            "lat": 34.9407,
+            "lon": 127.6959
+        },
+        "it": "Gwangyang",
+        "it:t": "Corea del Sud | Jeolla Meridionale",
+        "es": "Gwangyang",
+        "es:t": "Corea del Sur | Jeolla del Sur",
+        "de": "Gwangyang",
+        "de:t": "S\u00fcdkorea | Jeollanam-do"
+    },
+    {
+        "en": "Gyeonggi-do",
+        "en:t": "South Korea",
+        "a": true,
+        "g": {
+            "lat": 37.4138,
+            "lon": 127.5183
+        },
+        "it": "Gyeonggi",
+        "it:t": "Corea del Sud",
+        "es": "Gyeonggi",
+        "es:t": "Corea del Sur",
+        "de": "Gyeonggi-do",
+        "de:t": "S\u00fcdkorea"
+    },
+    {
+        "en": "Gyeongju-si",
+        "en:t": "South Korea | Gyeongsangbuk-do",
+        "a": true,
+        "g": {
+            "lat": 35.8562,
+            "lon": 129.2247
+        },
+        "it": "Gyeongju",
+        "it:t": "Corea del Sud | Gyeongsang Settentrionale",
+        "es": "Gyeongju",
+        "es:t": "Corea del Sur | Gyeongsang del Norte",
+        "de": "Gyeongju",
+        "de:t": "S\u00fcdkorea | Gyeongsangbuk-do"
+    },
+    {
+        "en": "Gyeongsan-si",
+        "en:t": "South Korea | Gyeongsangbuk-do",
+        "a": true,
+        "g": {
+            "lat": 35.8251,
+            "lon": 128.7415
+        },
+        "it": "Gyeongsan",
+        "it:t": "Corea del Sud | Gyeongsang Settentrionale",
+        "es": "Gyeongsan",
+        "es:t": "Corea del Sur | Gyeongsang del Norte",
+        "de": "Gyeongsan",
+        "de:t": "S\u00fcdkorea | Gyeongsangbuk-do"
+    },
+    {
+        "en": "Gyeongsangbuk-do",
+        "en:t": "South Korea",
+        "a": true,
+        "g": {
+            "lat": 36.4919,
+            "lon": 128.8889
+        },
+        "it": "Gyeongsang Settentrionale",
+        "it:t": "Corea del Sud",
+        "es": "Gyeongsang del Norte",
+        "es:t": "Corea del Sur",
+        "de": "Gyeongsangbuk-do",
+        "de:t": "S\u00fcdkorea"
+    },
+    {
+        "en": "Gyeongsangnam-do",
+        "en:t": "South Korea",
+        "a": true,
+        "g": {
+            "lat": 35.4606,
+            "lon": 128.2132
+        },
+        "it": "Gyeongsang Meridionale",
+        "it:t": "Corea del Sud",
+        "es": "Sinhyeon",
+        "es:t": "Corea del Sur",
+        "de": "Gyeongsangnam-do",
+        "de:t": "S\u00fcdkorea"
+    },
+    {
+        "en": "Haenam-gun",
+        "en:t": "South Korea | Jeollanam-do",
+        "a": true,
+        "g": {
+            "lat": 34.5733,
+            "lon": 126.5989
+        },
+        "it": "Haenam",
+        "it:t": "Corea del Sud | Jeolla Meridionale",
+        "es": "Haenam-gun",
+        "es:t": "Corea del Sur | Jeolla del Sur",
+        "de": "Haenam-gun",
+        "de:t": "S\u00fcdkorea | Jeollanam-do"
+    },
+    {
+        "en": "Hanam-si",
+        "en:t": "South Korea | Gyeonggi-do",
+        "a": true,
+        "g": {
+            "lat": 37.5393,
+            "lon": 127.2149
+        },
+        "it": "Hanam",
+        "it:t": "Corea del Sud | Gyeonggi",
+        "es": "Hanam",
+        "es:t": "Corea del Sur | Gyeonggi",
+        "de": "Hanam-si",
+        "de:t": "S\u00fcdkorea | Gyeonggi-do"
+    },
+    {
+        "en": "Hayang-eup",
+        "en:t": "South Korea",
+        "a": true,
+        "g": {
+            "lat": 35.9132,
+            "lon": 128.8189
+        },
+        "it": "Hayang",
+        "it:t": "Corea del Sud",
+        "es": "Hayang-eup",
+        "es:t": "Corea del Sur",
+        "de": "Hayang",
+        "de:t": "S\u00fcdkorea"
+    },
+    {
+        "en": "Hongseong-gun",
+        "en:t": "South Korea | Chungcheongnam-do",
+        "a": true,
+        "g": {
+            "lat": 36.6012,
+            "lon": 126.6608
+        },
+        "it": "Hongseong",
+        "it:t": "Corea del Sud | Chungcheong Meridionale",
+        "es": "Hongseong",
+        "es:t": "Corea del Sur | Chungcheong del Sur",
+        "de": "Hongseong-gun",
+        "de:t": "S\u00fcdkorea | Chungcheongnam-do"
+    },
+    {
+        "en": "Hwacheon-gun",
+        "en:t": "South Korea | Gangwon-do",
+        "a": true,
+        "g": {
+            "lat": 38.1056,
+            "lon": 127.708
+        },
+        "it": "Hwacheon",
+        "it:t": "Corea del Sud | Gangwon",
+        "es": "Hwacheon",
+        "es:t": "Corea del Sur | Gangwon",
+        "de": "Hwacheon",
+        "de:t": "S\u00fcdkorea | Gangwon-do"
+    },
+    {
+        "en": "Hwado-eup",
+        "en:t": "South Korea | Namyangju-si",
+        "a": true,
+        "g": {
+            "lat": 37.6524,
+            "lon": 127.3083
+        },
+        "it": "Hwado-eup",
+        "it:t": "Corea del Sud | Namyangju-si",
+        "es": "Hwado-eup",
+        "es:t": "Corea del Sur | Namyangju-si",
+        "de": "Hwado-eup",
+        "de:t": "S\u00fcdkorea | Namyangju-si"
+    },
+    {
+        "en": "Hwaseong-si",
+        "en:t": "South Korea | Gyeonggi-do",
+        "a": true,
+        "g": {
+            "lat": 37.1995,
+            "lon": 126.8312
+        },
+        "it": "Hwaseong",
+        "it:t": "Corea del Sud | Gyeonggi",
+        "es": "Hwaseong",
+        "es:t": "Corea del Sur | Gyeonggi",
+        "de": "Hwaseong",
+        "de:t": "S\u00fcdkorea | Gyeonggi-do"
+    },
+    {
+        "en": "Hwasun-gun",
+        "en:t": "South Korea | Jeollanam-do",
+        "a": true,
+        "g": {
+            "lat": 35.0645,
+            "lon": 126.9865
+        },
+        "it": "Hwasun",
+        "it:t": "Corea del Sud | Jeolla Meridionale",
+        "es": "Hwasun-gun",
+        "es:t": "Corea del Sur | Jeolla del Sur",
+        "de": "Hwasun",
+        "de:t": "S\u00fcdkorea | Jeollanam-do"
+    },
+    {
+        "en": "Hwawon-eup",
+        "en:t": "South Korea | Dalseong-gun",
+        "a": true,
+        "g": {
+            "lat": 35.8038,
+            "lon": 128.5005
+        },
+        "it": "Hwawon-eup",
+        "it:t": "Corea del Sud | Dalseong-gun",
+        "es": "Hwawon-eup",
+        "es:t": "Corea del Sur | Dalseong-gun",
+        "de": "Hwawon-eup",
+        "de:t": "S\u00fcdkorea | Dalseong-gun"
+    },
+    {
+        "en": "Icheon-si",
+        "en:t": "South Korea | Gyeonggi-do",
+        "a": true,
+        "g": {
+            "lat": 37.272,
+            "lon": 127.4348
+        },
+        "it": "Icheon",
+        "it:t": "Corea del Sud | Gyeonggi",
+        "es": "Icheon",
+        "es:t": "Corea del Sur | Gyeonggi",
+        "de": "Icheon",
+        "de:t": "S\u00fcdkorea | Gyeonggi-do"
+    },
+    {
+        "en": "Iksan",
+        "en:t": "South Korea | Jeollabuk-do",
+        "a": true,
+        "g": {
+            "lat": 35.9483,
+            "lon": 126.9576
+        },
+        "it": "Iksan",
+        "it:t": "Corea del Sud | Jeolla Settentrionale",
+        "es": "Iksan",
+        "es:t": "Corea del Sur | Jeolla del Norte",
+        "de": "Iksan",
+        "de:t": "S\u00fcdkorea | Jeollabuk-do"
+    },
+    {
+        "en": "Imsil-gun",
+        "en:t": "South Korea | Jeollabuk-do",
+        "a": true,
+        "g": {
+            "lat": 35.6111,
+            "lon": 127.2827
+        },
+        "it": "Imsil",
+        "it:t": "Corea del Sud | Jeolla Settentrionale",
+        "es": "Imsil",
+        "es:t": "Corea del Sur | Jeolla del Norte",
+        "de": "Imsil",
+        "de:t": "S\u00fcdkorea | Jeollabuk-do"
+    },
+    {
+        "en": "Incheon",
+        "en:t": "South Korea",
+        "a": true,
+        "g": {
+            "lat": 37.4563,
+            "lon": 126.7052
+        },
+        "it": "Incheon",
+        "it:t": "Corea del Sud",
+        "es": "Inchon",
+        "es:t": "Corea del Sur",
+        "de": "Incheon",
+        "de:t": "S\u00fcdkorea"
+    },
+    {
+        "en": "Jeju-do",
+        "en:t": "South Korea",
+        "a": true,
+        "g": {
+            "lat": 33.489,
+            "lon": 126.4983
+        },
+        "it": "Jeju-do",
+        "it:t": "Corea del Sudo",
+        "es": "Jeju",
+        "es:t": "Corea del Sur",
+        "de": "Jeju-do",
+        "de:t": "S\u00fcdkorea"
+    },
+    {
+        "en": "Jeju-si",
+        "en:t": "South Korea | Jeju-do",
+        "a": true,
+        "g": {
+            "lat": 33.4996,
+            "lon": 126.5312
+        },
+        "it": "Jeju",
+        "it:t": "Corea del Sud | Jeju-do",
+        "es": "Jeju",
+        "es:t": "Corea del Sur | Jeju",
+        "de": "Jeju-si",
+        "de:t": "S\u00fcdkorea | Jeju-do"
+    },
+    {
+        "en": "Jeollanam-do",
+        "en:t": "South Korea",
+        "a": true,
+        "g": {
+            "lat": 34.8679,
+            "lon": 126.991
+        },
+        "it": "Jeolla Meridionale",
+        "it:t": "Corea del Sud",
+        "es": "Jeolla del Sur",
+        "es:t": "Corea del Sur",
+        "de": "Jeollanam-do",
+        "de:t": "S\u00fcdkorea"
+    },
+    {
+        "en": "Jeonju-si",
+        "en:t": "South Korea | Jeollabuk-do",
+        "a": true,
+        "g": {
+            "lat": 35.8242,
+            "lon": 127.148
+        },
+        "it": "Jeonju",
+        "it:t": "Corea del Sud | Jeolla Settentrionale",
+        "es": "Jeonju",
+        "es:t": "Corea del Sur | Jeolla del Norte",
+        "de": "Jeonju",
+        "de:t": "S\u00fcdkorea | Jeollabuk-do"
+    },
+    {
+        "en": "Jinan-gun",
+        "en:t": "South Korea | Jeollabuk-do",
+        "a": true,
+        "g": {
+            "lat": 35.7917,
+            "lon": 127.4248
+        },
+        "it": "Jinan",
+        "it:t": "Corea del Sud | Jeolla Settentrionale",
+        "es": "Jinan",
+        "es:t": "Corea del Sur | Jeolla del Norte",
+        "de": "Jinan",
+        "de:t": "S\u00fcdkorea | Jeollabuk-do"
+    },
+    {
+        "en": "Jinju-si",
+        "en:t": "South Korea | Gyeongsangnam-do",
+        "a": true,
+        "g": {
+            "lat": 35.18,
+            "lon": 128.1076
+        },
+        "it": "Jinju",
+        "it:t": "Corea del Sud | Gyeongsang Meridionale",
+        "es": "Jinju",
+        "es:t": "Corea del Sur | Gyeongsang del Sur",
+        "de": "Jinju",
+        "de:t": "S\u00fcdkorea | Gyeongsangnam-do"
+    },
+    {
+        "en": "Miryang-si",
+        "en:t": "South Korea | Gyeongsangnam-do",
+        "a": true,
+        "g": {
+            "lat": 35.5038,
+            "lon": 128.7464
+        },
+        "it": "Miryang",
+        "it:t": "Corea del Sud | Gyeongsang Meridionale",
+        "es": "Miryang",
+        "es:t": "Corea del Sur | Gyeongsang del Sur",
+        "de": "Miryang",
+        "de:t": "S\u00fcdkorea | Gyeongsangnam-do"
+    },
+    {
+        "en": "Mokpo-si",
+        "en:t": "South Korea | Jeollanam-do",
+        "a": true,
+        "g": {
+            "lat": 34.8118,
+            "lon": 126.3922
+        },
+        "it": "Mokpo",
+        "it:t": "Corea del Sud | Jeolla Meridionale",
+        "es": "Mokpo",
+        "es:t": "Corea del Sur | Jeolla del Sur",
+        "de": "Mokpo",
+        "de:t": "S\u00fcdkorea | Jeollanam-do"
+    },
+    {
+        "en": "Muan-gun",
+        "en:t": "South Korea | Jeollanam-do",
+        "a": true,
+        "g": {
+            "lat": 34.9905,
+            "lon": 126.4817
+        },
+        "it": "Muan",
+        "it:t": "Corea del Sud | Jeolla Meridionale",
+        "es": "Muan",
+        "es:t": "Corea del Sur | Jeolla del Sur",
+        "de": "Muan",
+        "de:t": "S\u00fcdkorea | Jeollanam-do"
+    },
+    {
+        "en": "Mungyeong-si",
+        "en:t": "South Korea | Gyeongsangbuk-do",
+        "a": true,
+        "g": {
+            "lat": 36.5861,
+            "lon": 128.1868
+        },
+        "it": "Mungyeong",
+        "it:t": "Corea del Sud | Gyeongsang Settentrionale",
+        "es": "Mungyeong",
+        "es:t": "Corea del Sur | Gyeongsang del Norte",
+        "de": "Mungyeong-si",
+        "de:t": "S\u00fcdkorea | Gyeongsangbuk-do"
+    },
+    {
+        "en": "Munsan-eup",
+        "en:t": "South Korea | Paju-si",
+        "a": true,
+        "g": {
+            "lat": 37.853,
+            "lon": 126.7842
+        },
+        "it": "Munsan-eup",
+        "it:t": "Corea del Sud | Paju-si",
+        "es": "Munsan-eup",
+        "es:t": "Corea del Sur | Paju-si",
+        "de": "Munsan-eup",
+        "de:t": "S\u00fcdkorea | Paju-si"
+    },
+    {
+        "en": "Naju-si",
+        "en:t": "South Korea | Jeollanam-do",
+        "a": true,
+        "g": {
+            "lat": 35.0161,
+            "lon": 126.7108
+        },
+        "it": "Naju",
+        "it:t": "Corea del Sud | Jeolla Meridionale",
+        "es": "Naju",
+        "es:t": "Corea del Sur | Jeolla del Sur",
+        "de": "Naju",
+        "de:t": "S\u00fcdkorea | Jeollanam-do"
+    },
+    {
+        "en": "Namyangju-si",
+        "en:t": "South Korea | Gyeonggi-do",
+        "a": true,
+        "g": {
+            "lat": 37.636,
+            "lon": 127.2165
+        },
+        "it": "Namyangju",
+        "it:t": "Corea del Sud | Gyeonggi",
+        "es": "Namyangju",
+        "es:t": "Corea del Sur | Gyeonggi",
+        "de": "Namyangju",
+        "de:t": "S\u00fcdkorea | Gyeonggi-do"
+    },
+    {
+        "en": "Nonsan-si",
+        "en:t": "South Korea | Chungcheongnam-do",
+        "a": true,
+        "g": {
+            "lat": 36.1871,
+            "lon": 127.0987
+        },
+        "it": "Nonsan",
+        "it:t": "Corea del Sud | Chungcheong Meridionale",
+        "es": "Nonsan",
+        "es:t": "Corea del Sur | Chungcheong del Sur",
+        "de": "Nonsan",
+        "de:t": "S\u00fcdkorea | Chungcheongnam-do"
+    },
+    {
+        "en": "Okcheon-gun",
+        "en:t": "South Korea | Chungcheongbuk-do",
+        "a": true,
+        "g": {
+            "lat": 36.3064,
+            "lon": 127.5713
+        },
+        "it": "Okcheon",
+        "it:t": "Corea del Sud | Chungcheong Settentrionale",
+        "es": "Okcheon-gun",
+        "es:t": "Corea del Sur | Chungcheong del Norte",
+        "de": "Okcheon-gun",
+        "de:t": "S\u00fcdkorea | Chungcheongbuk-do"
+    },
+    {
+        "en": "Osan-si",
+        "en:t": "South Korea | Gyeonggi-do",
+        "a": true,
+        "g": {
+            "lat": 37.1498,
+            "lon": 127.0772
+        },
+        "it": "Osan",
+        "it:t": "Corea del Sud | Gyeonggi",
+        "es": "Osan",
+        "es:t": "Corea del Sur | Gyeonggi",
+        "de": "Osan",
+        "de:t": "S\u00fcdkorea | Gyeonggi-do"
+    },
+    {
+        "en": "Pohang-si",
+        "en:t": "South Korea | Gyeongsangbuk-do",
+        "a": true,
+        "g": {
+            "lat": 36.019,
+            "lon": 129.3435
+        },
+        "it": "Pohang",
+        "it:t": "Corea del Sud | Gyeongsang Settentrionale",
+        "es": "Pohang",
+        "es:t": "Corea del Sur | Gyeongsang del Norte",
+        "de": "Pohang",
+        "de:t": "S\u00fcdkorea | Gyeongsangbuk-do"
+    },
+    {
+        "en": "Sangju-si",
+        "en:t": "South Korea | Gyeongsangbuk-do",
+        "a": true,
+        "g": {
+            "lat": 36.4109,
+            "lon": 128.1591
+        },
+        "it": "Sangju",
+        "it:t": "Corea del Sud | Gyeongsang Settentrionale",
+        "es": "Sangju",
+        "es:t": "Corea del Sur | Gyeongsang del Norte",
+        "de": "Sangju",
+        "de:t": "S\u00fcdkorea | Gyeongsangbuk-do"
+    },
+    {
+        "en": "Seogwipo-si",
+        "en:t": "South Korea | Jeju-do",
+        "a": true,
+        "g": {
+            "lat": 33.2541,
+            "lon": 126.5601
+        },
+        "it": "Seogwipo",
+        "it:t": "Corea del Sud | Jeju-do",
+        "es": "Seogwipo",
+        "es:t": "Corea del Sur | Jeju",
+        "de": "Seogwipo",
+        "de:t": "S\u00fcdkorea | Jeju-do"
+    },
+    {
+        "en": "Seonghwan",
+        "en:t": "South Korea | Seongjin-ro",
+        "a": true,
+        "g": {
+            "lat": 36.9118,
+            "lon": 127.1458
+        },
+        "it": "Seonghwan",
+        "it:t": "Corea del Sud | Seongjin-ro",
+        "es": "Seonghwan",
+        "es:t": "Corea del Sur | Seongjin-ro",
+        "de": "Seonghwan",
+        "de:t": "S\u00fcdkorea | Seongjin-ro"
+    },
+    {
+        "en": "Seongnam-si",
+        "en:t": "South Korea | Gyeonggi-do",
+        "a": true,
+        "g": {
+            "lat": 37.4449,
+            "lon": 127.1389
+        },
+        "it": "Seongnam",
+        "it:t": "Corea del Sud | Gyeonggi",
+        "es": "Seongnam",
+        "es:t": "Corea del Sur | Gyeonggi",
+        "de": "Seongnam",
+        "de:t": "S\u00fcdkorea | Gyeonggi-do"
+    },
+    {
+        "en": "Seonsan-eup",
+        "en:t": "South Korea | Gumi-si",
+        "a": true,
+        "g": {
+            "lat": 36.2429,
+            "lon": 128.299
+        },
+        "it": "Seonsan-eup",
+        "it:t": "Corea del Sud | Gumi-si",
+        "es": "Seonsan-eup",
+        "es:t": "Corea del Sur | Gumi-si",
+        "de": "Seonsan-eup",
+        "de:t": "S\u00fcdkorea | Gumi-si"
+    },
+    {
+        "en": "Seosan-si",
+        "en:t": "South Korea | Chungcheongnam-do",
+        "a": true,
+        "g": {
+            "lat": 36.7845,
+            "lon": 126.4503
+        },
+        "it": "Seosan",
+        "it:t": "Corea del Sud | Chungcheong Meridionale",
+        "es": "Seosan",
+        "es:t": "Corea del Sur | Chungcheong del Sur",
+        "de": "Seosan",
+        "de:t": "S\u00fcdkorea | Chungcheongnam-do"
+    },
+    {
+        "en": "Seoul",
+        "en:t": "South Korea",
+        "a": true,
+        "g": {
+            "lat": 37.5665,
+            "lon": 126.978
+        },
+        "it": "Seul",
+        "it:t": "Corea del Sud",
+        "es": "Se\u00fal",
+        "es:t": "Corea del Sur",
+        "de": "Seoul",
+        "de:t": "S\u00fcdkorea"
+    },
+    {
+        "en": "Sinan-gun",
+        "en:t": "South Korea | Jeollanam-do",
+        "a": true,
+        "g": {
+            "lat": 34.8273,
+            "lon": 126.1011
+        },
+        "it": "Sinan",
+        "it:t": "Corea del Sud | Jeolla Meridionale",
+        "es": "Sinan",
+        "es:t": "Corea del Sur | Jeolla del Sur",
+        "de": "Sinan-gun",
+        "de:t": "S\u00fcdkorea | Jeollanam-do"
+    },
+    {
+        "en": "Sokcho-si",
+        "en:t": "South Korea | Gangwon-do",
+        "a": true,
+        "g": {
+            "lat": 38.207,
+            "lon": 128.5918
+        },
+        "it": "Sokcho",
+        "it:t": "Corea del Sud | Gangwon",
+        "es": "Sokcho",
+        "es:t": "Corea del Sur | Gangwon",
+        "de": "Sokcho",
+        "de:t": "S\u00fcdkorea | Gangwon-do"
+    },
+    {
+        "en": "Suncheon-si",
+        "en:t": "South Korea | Jeollanam-do",
+        "a": true,
+        "g": {
+            "lat": 34.9506,
+            "lon": 127.4872
+        },
+        "it": "Suncheon",
+        "it:t": "Corea del Sud | Jeolla Meridionale",
+        "es": "Suncheon",
+        "es:t": "Corea del Sur | Jeolla del Sur",
+        "de": "Suncheon",
+        "de:t": "S\u00fcdkorea | Jeollanam-do"
+    },
+    {
+        "en": "Suwon-si",
+        "en:t": "South Korea | Gyeonggi-do",
+        "a": true,
+        "g": {
+            "lat": 37.2636,
+            "lon": 127.0286
+        },
+        "it": "Suwon",
+        "it:t": "Corea del Sud | Gyeonggi",
+        "es": "Suwon",
+        "es:t": "Corea del Sur | Gyeonggi",
+        "de": "Suwon",
+        "de:t": "S\u00fcdkorea | Gyeonggi-do"
+    },
+    {
+        "en": "Tae River",
+        "en:t": "South Korea | Jusan-myeon",
+        "a": true,
+        "g": {
+            "lat": 36.1936,
+            "lon": 126.5675
+        },
+        "it": "Tae River",
+        "it:t": "Corea del Sud | Jusan-myeon",
+        "es": "Tae River",
+        "es:t": "Corea del Sur | Jusan-myeon",
+        "de": "Tae River",
+        "de:t": "S\u00fcdkorea | Jusan-myeon"
+    },
+    {
+        "en": "Taebaek-si",
+        "en:t": "South Korea | Gangwon-do",
+        "a": true,
+        "g": {
+            "lat": 37.1641,
+            "lon": 128.9856
+        },
+        "it": "Taebaek",
+        "it:t": "Corea del Sud | Gangwon",
+        "es": "Taebaek",
+        "es:t": "Corea del Sur | Gangwon",
+        "de": "Taebaek",
+        "de:t": "S\u00fcdkorea | Gangwon-do"
+    },
+    {
+        "en": "Uichang-gu",
+        "en:t": "South Korea | Changwon-si",
+        "a": true,
+        "g": {
+            "lat": 35.2393,
+            "lon": 128.6554
+        },
+        "it": "Uichang-gu",
+        "it:t": "Corea del Sud | Changwon-si",
+        "es": "Uichang-gu",
+        "es:t": "Corea del Sur | Changwon-si",
+        "de": "Uichang-gu",
+        "de:t": "S\u00fcdkorea | Changwon-si"
+    },
+    {
+        "en": "Uijeongbu-si",
+        "en:t": "South Korea | Gyeonggi-do",
+        "a": true,
+        "g": {
+            "lat": 37.7381,
+            "lon": 127.0337
+        },
+        "it": "Uijeongbu",
+        "it:t": "Corea del Sud | Gyeonggi",
+        "es": "Uijeongbu",
+        "es:t": "Corea del Sur | Gyeonggi",
+        "de": "Uijeongbu",
+        "de:t": "S\u00fcdkorea | Gyeonggi-do"
+    },
+    {
+        "en": "Ulsan",
+        "en:t": "South Korea",
+        "a": true,
+        "g": {
+            "lat": 35.5384,
+            "lon": 129.3114
+        },
+        "it": "Ulsan",
+        "it:t": "Corea del Sud",
+        "es": "Ulsan",
+        "es:t": "Corea del Sur",
+        "de": "Ulsan",
+        "de:t": "S\u00fcdkorea"
+    },
+    {
+        "en": "Waegwan-eup",
+        "en:t": "South Korea | Chilgok-gun",
+        "a": true,
+        "g": {
+            "lat": 35.989,
+            "lon": 128.3977
+        },
+        "it": "Waegwan-eup",
+        "it:t": "Corea del Sud | Chilgok-gun",
+        "es": "Waegwan-eup",
+        "es:t": "Corea del Sur | Chilgok-gun",
+        "de": "Waegwan",
+        "de:t": "S\u00fcdkorea | Chilgok-gun"
+    },
+    {
+        "en": "Wanju-gun",
+        "en:t": "South Korea | Jeollabuk-do",
+        "a": true,
+        "g": {
+            "lat": 35.8913,
+            "lon": 127.2539
+        },
+        "it": "Wanju",
+        "it:t": "Corea del Sud | Jeolla Settentrionale",
+        "es": "Wanju",
+        "es:t": "Corea del Sur | Jeolla del Norte",
+        "de": "Wanju",
+        "de:t": "S\u00fcdkorea | Jeollabuk-do"
+    },
+    {
+        "en": "Wonju-si",
+        "en:t": "South Korea | Gangwon-do",
+        "a": true,
+        "g": {
+            "lat": 37.3422,
+            "lon": 127.9202
+        },
+        "it": "Wonju",
+        "it:t": "Corea del Sud | Gangwon",
+        "es": "Wonju",
+        "es:t": "Corea del Sur | Gangwon",
+        "de": "Wonju",
+        "de:t": "S\u00fcdkorea | Gangwon-do"
+    },
+    {
+        "en": "Yanggu-gun",
+        "en:t": "South Korea | Gangwon-do",
+        "a": true,
+        "g": {
+            "lat": 38.1101,
+            "lon": 127.9899
+        },
+        "it": "Yanggu",
+        "it:t": "Corea del Sud | Gangwon",
+        "es": "Yanggu",
+        "es:t": "Corea del Sur | Gangwon",
+        "de": "Yanggu",
+        "de:t": "S\u00fcdkorea | Gangwon-do"
+    },
+    {
+        "en": "Yangju-si",
+        "en:t": "South Korea | Gyeonggi-do",
+        "a": true,
+        "g": {
+            "lat": 37.7853,
+            "lon": 127.0458
+        },
+        "it": "Yangju Nari Park",
+        "it:t": "Corea del Sud | \uc0b046",
+        "es": "Yangju",
+        "es:t": "Corea del Sur | Gyeonggi",
+        "de": "Yangju-si",
+        "de:t": "S\u00fcdkorea | Gyeonggi-do"
+    },
+    {
+        "en": "Yangpyeong-gun",
+        "en:t": "South Korea | Gyeonggi-do",
+        "a": true,
+        "g": {
+            "lat": 37.4912,
+            "lon": 127.4876
+        },
+        "it": "Yangpyeong",
+        "it:t": "Corea del Sud | Gyeonggi",
+        "es": "Yangpyeong-gun",
+        "es:t": "Corea del Sur | Gyeonggi",
+        "de": "Yangpyeong",
+        "de:t": "S\u00fcdkorea | Gyeonggi-do"
+    },
+    {
+        "en": "Yangsan-si",
+        "en:t": "South Korea | Gyeongsangnam-do",
+        "a": true,
+        "g": {
+            "lat": 35.335,
+            "lon": 129.0372
+        },
+        "it": "Yangsan",
+        "it:t": "Corea del Sud | Gyeongsang Meridionale",
+        "es": "Yangsan",
+        "es:t": "Corea del Sur | Gyeongsang del Sur",
+        "de": "Yangsan-si",
+        "de:t": "S\u00fcdkorea | Gyeongsangnam-do"
+    },
+    {
+        "en": "Yeoju-gun",
+        "en:t": "South Korea | Gyeonggi-do",
+        "a": true,
+        "g": {
+            "lat": 37.298,
+            "lon": 127.6372
+        },
+        "it": "Yeoju",
+        "it:t": "Corea del Sud | Gyeonggi",
+        "es": "Yeoju",
+        "es:t": "Corea del Sur | Gyeonggi",
+        "de": "Yeoju-gun",
+        "de:t": "S\u00fcdkorea | Gyeonggi-do"
+    },
+    {
+        "en": "Yeosu-si",
+        "en:t": "South Korea | Jeollanam-do",
+        "a": true,
+        "g": {
+            "lat": 34.7604,
+            "lon": 127.6622
+        },
+        "it": "Yeosu",
+        "it:t": "Corea del Sud | Jeolla Meridionale",
+        "es": "Yeosu",
+        "es:t": "Corea del Sur | Jeolla del Sur",
+        "de": "Yeosu",
+        "de:t": "S\u00fcdkorea | Jeollanam-do"
+    },
+    {
+        "en": "Yesan-gun",
+        "en:t": "South Korea | Chungcheongnam-do",
+        "a": true,
+        "g": {
+            "lat": 36.6826,
+            "lon": 126.8484
+        },
+        "it": "Yesan",
+        "it:t": "Corea del Sud | Chungcheong Meridionale",
+        "es": "Yesan",
+        "es:t": "Corea del Sur | Chungcheong del Sur",
+        "de": "Yesan",
+        "de:t": "S\u00fcdkorea | Chungcheongnam-do"
+    }
+]

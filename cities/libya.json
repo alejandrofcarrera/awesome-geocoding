@@ -1,0 +1,572 @@
+[
+    {
+        "en": "Ajdabiya",
+        "en:t": "Libya",
+        "a": true,
+        "g": {
+            "lat": 30.2146,
+            "lon": 20.1403
+        },
+        "it": "MunicipalAgedabia",
+        "it:t": "Libia",
+        "es": "Ajdabiya",
+        "es:t": "Libia",
+        "de": "Adschdabiya",
+        "de:t": "Libyen"
+    },
+    {
+        "en": "Al Bayda",
+        "en:t": "Libya | Jabal al Akhdar",
+        "a": true,
+        "g": {
+            "lat": 32.7564,
+            "lon": 21.7376
+        },
+        "it": "Beda Littoria",
+        "it:t": "Libia | al-Jabal al-Akhdar",
+        "es": "Al Baida",
+        "es:t": "Libia | Jabal al Ajdar",
+        "de": "al-Baida",
+        "de:t": "Libyen | Al-Dschabal al-Akhdar"
+    },
+    {
+        "en": "Al Marj",
+        "en:t": "Libya | Marj",
+        "a": true,
+        "g": {
+            "lat": 32.4982,
+            "lon": 20.8195
+        },
+        "it": "el Merj",
+        "it:t": "Libia | al-Marj",
+        "es": "Al Marj",
+        "es:t": "Libia | Al Marj",
+        "de": "el Merdj",
+        "de:t": "Libyen | al-Mardsch"
+    },
+    {
+        "en": "Al Qubah",
+        "en:t": "Libya",
+        "a": true,
+        "g": {
+            "lat": 32.7675,
+            "lon": 22.2324
+        },
+        "it": "Gubba",
+        "it:t": "Libia",
+        "es": "Al Quba",
+        "es:t": "Libia",
+        "de": "Gubba",
+        "de:t": "Libyen"
+    },
+    {
+        "en": "Al-Jawf",
+        "en:t": "Libya | Kufra",
+        "a": true,
+        "g": {
+            "lat": 24.2087,
+            "lon": 23.3347
+        },
+        "it": "el-Giof",
+        "it:t": "Libia | Cufra",
+        "es": "Al Yauf",
+        "es:t": "Libia | Kufra",
+        "de": "al-Dschauf",
+        "de:t": "Libyen | Kufra-Oasen"
+    },
+    {
+        "en": "Alzintan",
+        "en:t": "Libya | Jabal al Gharbi",
+        "a": true,
+        "g": {
+            "lat": 31.8024,
+            "lon": 12.3006
+        },
+        "it": "al-Zintan",
+        "it:t": "Libia | Gebel Garbi",
+        "es": "Zintan",
+        "es:t": "Libia | Al Jabal al Gharbi",
+        "de": "az-Zintan",
+        "de:t": "Libyen | al-Dschabal al-Gharbi"
+    },
+    {
+        "en": "At Taj",
+        "en:t": "Libya | Kufra",
+        "a": true,
+        "g": {
+            "lat": 24.2234,
+            "lon": 23.3006
+        },
+        "it": "At Taj",
+        "it:t": "Libia | Kufra",
+        "es": "At Taj",
+        "es:t": "Libia | Kufra",
+        "de": "At Taj",
+        "de:t": "Libyen | Kufra"
+    },
+    {
+        "en": "Awbari\u200e",
+        "en:t": "Libya | Wadi al Hayaa",
+        "a": true,
+        "g": {
+            "lat": 26.581,
+            "lon": 12.794
+        },
+        "it": "Ubari",
+        "it:t": "Libia | Uadi el-Agial",
+        "es": "Ubari",
+        "es:t": "Libia | Wadi Al Hayaa",
+        "de": "Ubari",
+        "de:t": "Libyen | Wadi al-Haya"
+    },
+    {
+        "en": "Az-Zuwaytinah",
+        "en:t": "Libya | Ajdabiya",
+        "a": true,
+        "g": {
+            "lat": 30.9541,
+            "lon": 20.1194
+        },
+        "it": "Zueitina",
+        "it:t": "Libia | Ajdabiya",
+        "es": "Az-Zuwaytinah",
+        "es:t": "Libia | Ajdabiya",
+        "de": "Az-Zuwaytinah",
+        "de:t": "Libyen | Ajdabiya"
+    },
+    {
+        "en": "Az-Z\u0101wiyah",
+        "en:t": "Libya",
+        "a": true,
+        "g": {
+            "lat": 32.763,
+            "lon": 12.7365
+        },
+        "it": "ez Zauia",
+        "it:t": "Libia",
+        "es": "Zauiya",
+        "es:t": "Libia",
+        "de": "az-Zawiyya",
+        "de:t": "Libyen"
+    },
+    {
+        "en": "Bani Waled",
+        "en:t": "Libya | Misrata",
+        "a": true,
+        "g": {
+            "lat": 31.7976,
+            "lon": 14.0537
+        },
+        "it": "Beni Ulid",
+        "it:t": "Libia | Misurata",
+        "es": "Bani Walid",
+        "es:t": "Libia | Misrata",
+        "de": "Bani Walid",
+        "de:t": "Libyen | Misrata"
+    },
+    {
+        "en": "Benghazi",
+        "en:t": "Libya",
+        "a": true,
+        "g": {
+            "lat": 32.1194,
+            "lon": 20.0868
+        },
+        "it": "Bengasi",
+        "it:t": "Libia",
+        "es": "Bengasi",
+        "es:t": "Libia",
+        "de": "Bengasi",
+        "de:t": "Libyen"
+    },
+    {
+        "en": "Brak",
+        "en:t": "Libya | Wadi al Shatii",
+        "a": true,
+        "g": {
+            "lat": 27.5508,
+            "lon": 14.2687
+        },
+        "it": "Brach",
+        "it:t": "Libia | Uadi esc-Sciati",
+        "es": "Brak",
+        "es:t": "Libia | Shati",
+        "de": "Brach",
+        "de:t": "Libyen | Ash Shati"
+    },
+    {
+        "en": "Derna",
+        "en:t": "Libya",
+        "a": true,
+        "g": {
+            "lat": 32.7556,
+            "lon": 22.6377
+        },
+        "it": "Derna",
+        "it:t": "Libia",
+        "es": "Derna",
+        "es:t": "Libia",
+        "de": "Darna",
+        "de:t": "Libyen"
+    },
+    {
+        "en": "Garyan",
+        "en:t": "Libya | Gharyan",
+        "a": true,
+        "g": {
+            "lat": 32.1718,
+            "lon": 13.0184
+        },
+        "it": "Garian",
+        "it:t": "Libia | Gharyan",
+        "es": "Garian",
+        "es:t": "Libia | Gharyan",
+        "de": "Garian",
+        "de:t": "Libyen | Gharyan"
+    },
+    {
+        "en": "Ghat",
+        "en:t": "Libya",
+        "a": true,
+        "g": {
+            "lat": 24.964,
+            "lon": 10.1759
+        },
+        "it": "Ghat",
+        "it:t": "Libia",
+        "es": "Ghat",
+        "es:t": "Libia",
+        "de": "Ghat",
+        "de:t": "Libyen"
+    },
+    {
+        "en": "Houn",
+        "en:t": "Libya | Jufra",
+        "a": true,
+        "g": {
+            "lat": 28.6448,
+            "lon": 15.97
+        },
+        "it": "Hon",
+        "it:t": "Libia | Giofra",
+        "es": "Hun",
+        "es:t": "Libia | Al Jufrah",
+        "de": "Hon",
+        "de:t": "Libyen | al-Dschufra"
+    },
+    {
+        "en": "Khoms",
+        "en:t": "Libya | Murqub",
+        "a": true,
+        "g": {
+            "lat": 32.651,
+            "lon": 14.2679
+        },
+        "it": "Homs",
+        "it:t": "Libia | Margheb",
+        "es": "Al-Khums",
+        "es:t": "Libia | Al Murgub",
+        "de": "al-Chums",
+        "de:t": "Libyen | al-Murgub"
+    },
+    {
+        "en": "Misrata",
+        "en:t": "Libya | Misrata",
+        "a": true,
+        "g": {
+            "lat": 32.3256,
+            "lon": 15.0993
+        },
+        "it": "Misurata",
+        "it:t": "Libia | Misurata",
+        "es": "Misurata",
+        "es:t": "Libia | Misrata",
+        "de": "Misrata",
+        "de:t": "Libyen | Misrata"
+    },
+    {
+        "en": "Mizdah",
+        "en:t": "Libya | Gharyan",
+        "a": true,
+        "g": {
+            "lat": 31.4478,
+            "lon": 12.9839
+        },
+        "it": "MunicipalMizda",
+        "it:t": "Libia | Gharyan",
+        "es": "Mizdah",
+        "es:t": "Libia | Gharyan",
+        "de": "Mizda",
+        "de:t": "Libyen | Gharyan"
+    },
+    {
+        "en": "Msallata",
+        "en:t": "Libya | Murqub",
+        "a": true,
+        "g": {
+            "lat": 32.5836,
+            "lon": 14.0363
+        },
+        "it": "Msallata",
+        "it:t": "Libia | Margheb",
+        "es": "Msallata",
+        "es:t": "Libia | Murqub",
+        "de": "Msallata",
+        "de:t": "Libyen | Murqub"
+    },
+    {
+        "en": "Murzuq\u200e",
+        "en:t": "Libya | Murzuq",
+        "a": true,
+        "g": {
+            "lat": 25.9182,
+            "lon": 13.926
+        },
+        "it": "Murzuch",
+        "it:t": "Libia | Murzuq",
+        "es": "Murzuk",
+        "es:t": "Libia | Murzuq",
+        "de": "Murzuq",
+        "de:t": "Libyen | Murzuk"
+    },
+    {
+        "en": "Nalut",
+        "en:t": "Libya",
+        "a": true,
+        "g": {
+            "lat": 31.8742,
+            "lon": 10.975
+        },
+        "it": "Nalut",
+        "it:t": "Libia",
+        "es": "Nalut",
+        "es:t": "Libia",
+        "de": "Nalut",
+        "de:t": "Libyen"
+    },
+    {
+        "en": "Sabh\u0101",
+        "en:t": "Libya",
+        "a": true,
+        "g": {
+            "lat": 27.0365,
+            "lon": 14.429
+        },
+        "it": "Sebha",
+        "it:t": "Libia",
+        "es": "Sabha",
+        "es:t": "Libia",
+        "de": "Sabha",
+        "de:t": "Libyen"
+    },
+    {
+        "en": "Sabratah",
+        "en:t": "Libya | Sabratha Wa Surman",
+        "a": true,
+        "g": {
+            "lat": 32.7811,
+            "lon": 12.4495
+        },
+        "it": "Sabrata e Sorman",
+        "it:t": "Libia | Sabratha Wa Surman",
+        "es": "Sabratha",
+        "es:t": "Libia | Sabratha Wa Surman",
+        "de": "Sabrata wa-Surman",
+        "de:t": "Libyen | Sabratha Wa Surman"
+    },
+    {
+        "en": "Sirte",
+        "en:t": "Libya",
+        "a": true,
+        "g": {
+            "lat": 31.1897,
+            "lon": 16.5702
+        },
+        "it": "Sirte",
+        "it:t": "Libia",
+        "es": "Sirte",
+        "es:t": "Libia",
+        "de": "Sirte",
+        "de:t": "Libyen"
+    },
+    {
+        "en": "Suluq",
+        "en:t": "Libya | Benghazi",
+        "a": true,
+        "g": {
+            "lat": 31.6774,
+            "lon": 20.2713
+        },
+        "it": "Soluch",
+        "it:t": "Libia | Bengasi",
+        "es": "Suluq",
+        "es:t": "Libia | Benghazi",
+        "de": "Suluq",
+        "de:t": "Libyen | Benghazi"
+    },
+    {
+        "en": "Surman",
+        "en:t": "Libya | Sabratha Wa Surman",
+        "a": true,
+        "g": {
+            "lat": 32.7473,
+            "lon": 12.5642
+        },
+        "it": "Sorman",
+        "it:t": "Libia | Sabratha Wa Surman",
+        "es": "Surman",
+        "es:t": "Libia | Sabratha Wa Surman",
+        "de": "Sorman",
+        "de:t": "Libyen | Sabratha Wa Surman"
+    },
+    {
+        "en": "Tajoura",
+        "en:t": "Libya | Tripoli",
+        "a": true,
+        "g": {
+            "lat": 32.8279,
+            "lon": 13.3818
+        },
+        "it": "Tagiura",
+        "it:t": "Libia | Tripoli",
+        "es": "Tajura",
+        "es:t": "Libia | Tr\u00edpoli",
+        "de": "Tagiura",
+        "de:t": "Libyen | Tripolis"
+    },
+    {
+        "en": "Tarhunah",
+        "en:t": "Libya | Tarhuna Wa Masalata",
+        "a": true,
+        "g": {
+            "lat": 32.4279,
+            "lon": 13.6421
+        },
+        "it": "Tarhuna",
+        "it:t": "Libia | Tarhuna Wa Masalata",
+        "es": "Tarhuna",
+        "es:t": "Libia | Tarhuna Wa Masalata",
+        "de": "Tarhunah",
+        "de:t": "Libyen | Tarhuna Wa Masalata"
+    },
+    {
+        "en": "Tobruk",
+        "en:t": "Libya | Butnan",
+        "a": true,
+        "g": {
+            "lat": 32.0682,
+            "lon": 23.9418
+        },
+        "it": "Tobruch",
+        "it:t": "Libia | Butnan",
+        "es": "Tobruk",
+        "es:t": "Libia | Al Butnan",
+        "de": "Tobruk",
+        "de:t": "Libyen | al-Butnan"
+    },
+    {
+        "en": "Tocra",
+        "en:t": "Libya | Al Hizam Al Akhdar",
+        "a": true,
+        "g": {
+            "lat": 32.5326,
+            "lon": 20.5871
+        },
+        "it": "Tocra",
+        "it:t": "Libia | Al Hizam Al Akhdar",
+        "es": "Tocra",
+        "es:t": "Libia | Al Hizam Al Akhdar",
+        "de": "Taucheira",
+        "de:t": "Libyen | Al Hizam Al Akhdar"
+    },
+    {
+        "en": "Tripoli",
+        "en:t": "Libya",
+        "a": true,
+        "g": {
+            "lat": 32.8872,
+            "lon": 13.1913
+        },
+        "it": "Tripoli",
+        "it:t": "Libia",
+        "es": "Tr\u00edpoli",
+        "es:t": "Libia",
+        "de": "Tripolis",
+        "de:t": "Libyen"
+    },
+    {
+        "en": "Waddan",
+        "en:t": "Libya | Jufra",
+        "a": true,
+        "g": {
+            "lat": 29.1561,
+            "lon": 16.1463
+        },
+        "it": "Ueddan",
+        "it:t": "Libia | Giofra",
+        "es": "Waddan",
+        "es:t": "Libia | Al Jufrah",
+        "de": "Waddan",
+        "de:t": "Libyen | al-Dschufra"
+    },
+    {
+        "en": "Yefren",
+        "en:t": "Libya | Jabal al Gharbi",
+        "a": true,
+        "g": {
+            "lat": 32.0536,
+            "lon": 12.5355
+        },
+        "it": "Iefren",
+        "it:t": "Libia | Gebel Garbi",
+        "es": "Yefren",
+        "es:t": "Libia | Jabal al Gharbi",
+        "de": "Yafran",
+        "de:t": "Libyen | al-Dschabal al-Gharbi"
+    },
+    {
+        "en": "Zelten",
+        "en:t": "Libya | Nuqat al Khams",
+        "a": true,
+        "g": {
+            "lat": 32.9566,
+            "lon": 11.8493
+        },
+        "it": "Zelten",
+        "it:t": "Libia | Nuqat al Khams",
+        "es": "Zaltan",
+        "es:t": "Libia | An Nuqat al Jams",
+        "de": "Zelten",
+        "de:t": "Libyen | Nuqat al Khams"
+    },
+    {
+        "en": "Zliten",
+        "en:t": "Libya",
+        "a": true,
+        "g": {
+            "lat": 32.2785,
+            "lon": 14.5189
+        },
+        "it": "Zliten",
+        "it:t": "Libia",
+        "es": "Zliten",
+        "es:t": "Libia",
+        "de": "Zliten",
+        "de:t": "Libyen"
+    },
+    {
+        "en": "Zuwara",
+        "en:t": "Libya | Nuqat al Khams",
+        "a": true,
+        "g": {
+            "lat": 32.9235,
+            "lon": 12.0775
+        },
+        "it": "Zuara",
+        "it:t": "Libia | Nuqat al Khams",
+        "es": "Zuara",
+        "es:t": "Libia | An Nuqat al Jams",
+        "de": "Zuwara",
+        "de:t": "Libyen | an-Nuqat al-Chams"
+    }
+]

@@ -1,0 +1,3152 @@
+[
+  {
+    "en": "Amnat Charoen",
+    "en:t": "Thailand",
+    "a": true,
+    "g": {
+      "lat": 15.8657,
+      "lon": 104.6258
+    },
+    "it": "Amnat Charoen",
+    "it:t": "Thailandia",
+    "es": "Amnat Charoen",
+    "es:t": "Tailandia",
+    "de": "Amnat Charoen",
+    "de:t": "Thailand"
+  },
+  {
+    "en": "Aranyaprathet",
+    "en:t": "Thailand",
+    "a": true,
+    "g": {
+      "lat": 13.6782,
+      "lon": 102.5212
+    },
+    "it": "Aranyaprathet",
+    "it:t": "Thailandia",
+    "es": "Aranyaprathet",
+    "es:t": "Tailandia",
+    "de": "Aranyaprathet",
+    "de:t": "Thailand"
+  },
+  {
+    "en": "Ban Bueng",
+    "en:t": "Thailand",
+    "a": true,
+    "g": {
+      "lat": 13.308,
+      "lon": 101.1224
+    },
+    "it": "Ban Bueng",
+    "it:t": "Thailandia",
+    "es": "Ban Bueng",
+    "es:t": "Thailandia",
+    "de": "Ban Bueng",
+    "de:t": "Thailandia"
+  },
+  {
+    "en": "Ban Chang",
+    "en:t": "Thailand",
+    "a": true,
+    "g": {
+      "lat": 12.7362,
+      "lon": 101.0783
+    },
+    "it": "Ban Chang",
+    "it:t": "Thailandia",
+    "es": "Ban Chang",
+    "es:t": "Tailandia",
+    "de": "Ban Chang",
+    "de:t": "Thailand"
+  },
+  {
+    "en": "Ban Dung",
+    "en:t": "Thailand | Udon Thani",
+    "a": true,
+    "g": {
+      "lat": 17.7388,
+      "lon": 103.2202
+    },
+    "it": "Ban Dung",
+    "it:t": "Thailandia | Udon Thani",
+    "es": "Ban Dung",
+    "es:t": "Tailandia | Udon Thani",
+    "de": "Ban Dung",
+    "de:t": "Thailand | Udon Thani"
+  },
+  {
+    "en": "Ban Mai",
+    "en:t": "Thailand | Ranot",
+    "a": true,
+    "g": {
+      "lat": 7.8221,
+      "lon": 100.2937
+    },
+    "it": "Ban Mai",
+    "it:t": "Thailandia | Ranot",
+    "es": "Ban Mai",
+    "es:t": "Tailandia | Ranot",
+    "de": "Ban Mai",
+    "de:t": "Thailand | Ranot"
+  },
+  {
+    "en": "Ban Mo",
+    "en:t": "Thailand",
+    "a": true,
+    "g": {
+      "lat": 14.615,
+      "lon": 100.7154
+    },
+    "it": "Ban Mo",
+    "it:t": "Thailandia",
+    "es": "Ban Mo",
+    "es:t": "Thailandia",
+    "de": "Ban Mo",
+    "de:t": "Thailandia"
+  },
+  {
+    "en": "Ban Na",
+    "en:t": "Thailand | Si Samrong",
+    "a": true,
+    "g": {
+      "lat": 17.1623,
+      "lon": 99.8292
+    },
+    "it": "Ban Na",
+    "it:t": "Thailandia | Si Samrong",
+    "es": "Ban Na",
+    "es:t": "Tailandia | Si Samrong",
+    "de": "Ban Na",
+    "de:t": "Thailand | Si Samrong"
+  },
+  {
+    "en": "Ban Phaeo",
+    "en:t": "Thailand",
+    "a": true,
+    "g": {
+      "lat": 13.5905,
+      "lon": 100.1077
+    },
+    "it": "Ban Phaeo",
+    "it:t": "Thailandia",
+    "es": "Ban Phaeo",
+    "es:t": "Tailandia",
+    "de": "Ban Phaeo",
+    "de:t": "Thailand"
+  },
+  {
+    "en": "Ban Phai",
+    "en:t": "Thailand",
+    "a": true,
+    "g": {
+      "lat": 16.1154,
+      "lon": 102.7022
+    },
+    "it": "Ban Phai",
+    "it:t": "Thailandia",
+    "es": "Ban Phai",
+    "es:t": "Tailandia",
+    "de": "Ban Phai",
+    "de:t": "Thailand"
+  },
+  {
+    "en": "Ban Pong",
+    "en:t": "Thailand",
+    "a": true,
+    "g": {
+      "lat": 13.8105,
+      "lon": 99.8767
+    },
+    "it": "Ban Pong",
+    "it:t": "Thailandia",
+    "es": "Ban Pong",
+    "es:t": "Tailandia",
+    "de": "Ban Pong",
+    "de:t": "Thailand"
+  },
+  {
+    "en": "Ban Ratsada",
+    "en:t": "Thailand | Mueang Phuket",
+    "a": true,
+    "g": {
+      "lat": 7.9168,
+      "lon": 98.3708
+    },
+    "it": "Ban Ratsada",
+    "it:t": "Thailandia | Mueang Phuket",
+    "es": "Ban Ratsada",
+    "es:t": "Tailandia | Mueang Phuket",
+    "de": "Ban Ratsada",
+    "de:t": "Thailand | Mueang Phuket"
+  },
+  {
+    "en": "Ban Tak",
+    "en:t": "Thailand | Tak",
+    "a": true,
+    "g": {
+      "lat": 17.0405,
+      "lon": 99.0571
+    },
+    "it": "Ban Tak",
+    "it:t": "Thailandia | Tak",
+    "es": "Ban Tak",
+    "es:t": "Tailandia | Tak",
+    "de": "Ban Tak",
+    "de:t": "Thailand | Tak"
+  },
+  {
+    "en": "Bang Ban",
+    "en:t": "Thailand",
+    "a": true,
+    "g": {
+      "lat": 14.4051,
+      "lon": 100.4649
+    },
+    "it": "Bang Ban",
+    "it:t": "Thailandia",
+    "es": "Bang Ban",
+    "es:t": "Tailandia",
+    "de": "Bang Ban",
+    "de:t": "Thailand"
+  },
+  {
+    "en": "Bang Bo",
+    "en:t": "Thailand | Samut Prakan",
+    "a": true,
+    "g": {
+      "lat": 13.5848,
+      "lon": 100.8518
+    },
+    "it": "Bang Bo",
+    "it:t": "Thailandia | Samut Prakan",
+    "es": "Bang Bo",
+    "es:t": "Tailandia | Samut Prakan",
+    "de": "Bang Bo",
+    "de:t": "Thailand | Samut Prakan"
+  },
+  {
+    "en": "Bang Bua Thong",
+    "en:t": "Thailand | Nonthaburi",
+    "a": true,
+    "g": {
+      "lat": 13.9253,
+      "lon": 100.4134
+    },
+    "it": "Bang Bua Thong",
+    "it:t": "Thailandia | Nonthaburi",
+    "es": "Bang Bua Thong",
+    "es:t": "Tailandia | Nonthaburi",
+    "de": "Bang Bua Thong",
+    "de:t": "Thailand | Nonthaburi"
+  },
+  {
+    "en": "Bang Krathum",
+    "en:t": "Thailand",
+    "a": true,
+    "g": {
+      "lat": 16.5909,
+      "lon": 100.2993
+    },
+    "it": "Bang Krathum",
+    "it:t": "Thailandia",
+    "es": "Bang Krathum",
+    "es:t": "Tailandia",
+    "de": "Bang Krathum",
+    "de:t": "Thailand"
+  },
+  {
+    "en": "Bang Kruai",
+    "en:t": "Thailand",
+    "a": true,
+    "g": {
+      "lat": 13.8097,
+      "lon": 100.5097
+    },
+    "it": "Bang Kruai",
+    "it:t": "Thailandia",
+    "es": "Bang Kruai",
+    "es:t": "Tailandia",
+    "de": "Bang Kruai",
+    "de:t": "Thailand"
+  },
+  {
+    "en": "Bang Lamung",
+    "en:t": "Thailand | Chon Buri",
+    "a": true,
+    "g": {
+      "lat": 12.9434,
+      "lon": 100.9146
+    },
+    "it": "Bang Lamung",
+    "it:t": "Thailandia | Chonburi",
+    "es": "Bang Lamung",
+    "es:t": "Tailandia | Chon Buri",
+    "de": "Bang Lamung",
+    "de:t": "Thailand | Chon Buri"
+  },
+  {
+    "en": "Bang Len",
+    "en:t": "Thailand",
+    "a": true,
+    "g": {
+      "lat": 14.0073,
+      "lon": 100.1759
+    },
+    "it": "Bang Len",
+    "it:t": "Thailandia",
+    "es": "Bang Len",
+    "es:t": "Thailandia",
+    "de": "Bang Len",
+    "de:t": "Thailandia"
+  },
+  {
+    "en": "Bang Mun Nak",
+    "en:t": "Thailand | Phichit",
+    "a": true,
+    "g": {
+      "lat": 16.0214,
+      "lon": 100.4172
+    },
+    "it": "Bang Mun Nak",
+    "it:t": "Thailandia | Phichit",
+    "es": "Bang Mun Nak",
+    "es:t": "Tailandia | Phichit",
+    "de": "Bang Mun Nak",
+    "de:t": "Thailand | Phichit"
+  },
+  {
+    "en": "Bang Pa-in",
+    "en:t": "Thailand | Ayutthaya",
+    "a": true,
+    "g": {
+      "lat": 14.2459,
+      "lon": 100.6015
+    },
+    "it": "Bang Pa-in",
+    "it:t": "Thailandia | Ayutthaya",
+    "es": "Bang Pa-in",
+    "es:t": "Tailandia | Ayutthaya",
+    "de": "Bang Pa-in",
+    "de:t": "Thailand | Ayutthaya"
+  },
+  {
+    "en": "Bang Pakong",
+    "en:t": "Thailand | Chachoengsao",
+    "a": true,
+    "g": {
+      "lat": 13.547,
+      "lon": 100.9878
+    },
+    "it": "Bang Pakong",
+    "it:t": "Thailandia | Chachoengsao",
+    "es": "Bang Pakong",
+    "es:t": "Tailandia | Chachoengsao",
+    "de": "Bang Pakong",
+    "de:t": "Thailand | Chachoengsao"
+  },
+  {
+    "en": "Bang Phae",
+    "en:t": "Thailand",
+    "a": true,
+    "g": {
+      "lat": 13.6784,
+      "lon": 99.9577
+    },
+    "it": "Bang Phae",
+    "it:t": "Thailandia",
+    "es": "Bang Phae",
+    "es:t": "Tailandia",
+    "de": "Bang Phae",
+    "de:t": "Thailand"
+  },
+  {
+    "en": "Bang Rakam",
+    "en:t": "Thailand | Phitsanulok",
+    "a": true,
+    "g": {
+      "lat": 16.7145,
+      "lon": 100.036
+    },
+    "it": "Bang Rakam",
+    "it:t": "Thailandia | Phitsanulok",
+    "es": "Bang Rakam",
+    "es:t": "Tailandia | Phitsanulok",
+    "de": "Bang Rakam",
+    "de:t": "Thailand | Phitsanulok"
+  },
+  {
+    "en": "Bang Saphan",
+    "en:t": "Thailand | Prachuap Khiri Khan",
+    "a": true,
+    "g": {
+      "lat": 11.2141,
+      "lon": 99.5118
+    },
+    "it": "Bang Saphan",
+    "it:t": "Thailandia | Prachuap Khiri Khan",
+    "es": "Bang Saphan",
+    "es:t": "Tailandia | Prachuap Khiri Khan",
+    "de": "Bang Saphan",
+    "de:t": "Thailand | Prachuap Khiri Khan"
+  },
+  {
+    "en": "Bangkok",
+    "en:t": "Thailand",
+    "a": true,
+    "g": {
+      "lat": 13.7563,
+      "lon": 100.5018
+    },
+    "it": "Bangkok",
+    "it:t": "Thailandia",
+    "es": "Bangkok",
+    "es:t": "Tailandia",
+    "de": "Bangkok",
+    "de:t": "Thailand"
+  },
+  {
+    "en": "Betong",
+    "en:t": "Thailand",
+    "a": true,
+    "g": {
+      "lat": 5.78,
+      "lon": 101.0372
+    },
+    "it": "Betong",
+    "it:t": "Thailandia",
+    "es": "Betong",
+    "es:t": "Tailandia",
+    "de": "Betong",
+    "de:t": "Thailand"
+  },
+  {
+    "en": "Bo Phloi",
+    "en:t": "Thailand",
+    "a": true,
+    "g": {
+      "lat": 14.3059,
+      "lon": 99.4784
+    },
+    "it": "Bo Phloi",
+    "it:t": "Thailandia",
+    "es": "Bo Phloi",
+    "es:t": "Tailandia",
+    "de": "Bo Phloi",
+    "de:t": "Thailand"
+  },
+  {
+    "en": "Bua Yai",
+    "en:t": "Thailand",
+    "a": true,
+    "g": {
+      "lat": 15.5836,
+      "lon": 102.4253
+    },
+    "it": "Bua Yai",
+    "it:t": "Thailandia",
+    "es": "Bua Yai",
+    "es:t": "Tailandia",
+    "de": "Bua Yai",
+    "de:t": "Thailand"
+  },
+  {
+    "en": "Buri Ram",
+    "en:t": "Thailand",
+    "a": true,
+    "g": {
+      "lat": 14.993,
+      "lon": 103.1029
+    },
+    "it": "Buri Ram",
+    "it:t": "Thailandia",
+    "es": "Buri Ram",
+    "es:t": "Tailandia",
+    "de": "Buriram",
+    "de:t": "Thailand"
+  },
+  {
+    "en": "Cha-am",
+    "en:t": "Thailand",
+    "a": true,
+    "g": {
+      "lat": 12.7975,
+      "lon": 99.9719
+    },
+    "it": "Cha-am",
+    "it:t": "Thailandia",
+    "es": "Cha-am",
+    "es:t": "Tailandia",
+    "de": "Cha-am",
+    "de:t": "Thailand"
+  },
+  {
+    "en": "Chachoengsao",
+    "en:t": "Thailand",
+    "a": true,
+    "g": {
+      "lat": 13.6904,
+      "lon": 101.078
+    },
+    "it": "Chachoengsao",
+    "it:t": "Thailandia",
+    "es": "Chachoengsao",
+    "es:t": "Tailandia",
+    "de": "Chachoengsao",
+    "de:t": "Thailand"
+  },
+  {
+    "en": "Chai Badan",
+    "en:t": "Thailand",
+    "a": true,
+    "g": {
+      "lat": 15.1043,
+      "lon": 101.0768
+    },
+    "it": "Chai Badan",
+    "it:t": "Thailandia",
+    "es": "Chai Badan",
+    "es:t": "Tailandia",
+    "de": "Chai Badan",
+    "de:t": "Thailand"
+  },
+  {
+    "en": "Chai Nat",
+    "en:t": "Thailand",
+    "a": true,
+    "g": {
+      "lat": 15.1852,
+      "lon": 100.1251
+    },
+    "it": "Chainat",
+    "it:t": "Thailandia",
+    "es": "Tha Chai",
+    "es:t": "Tailandia",
+    "de": "Chai Nat",
+    "de:t": "Thailand"
+  },
+  {
+    "en": "Chaiyaphum",
+    "en:t": "Thailand",
+    "a": true,
+    "g": {
+      "lat": 15.8068,
+      "lon": 102.0315
+    },
+    "it": "Chaiyaphum",
+    "it:t": "Thailandia",
+    "es": "Chaiyaphum",
+    "es:t": "Tailandia",
+    "de": "Chaiyaphum",
+    "de:t": "Thailand"
+  },
+  {
+    "en": "Chanthaburi",
+    "en:t": "Thailand",
+    "a": true,
+    "g": {
+      "lat": 12.6112,
+      "lon": 102.1038
+    },
+    "it": "Chanthaburi",
+    "it:t": "Thailandia",
+    "es": "Chanthaburi",
+    "es:t": "Tailandia",
+    "de": "Chanthaburi",
+    "de:t": "Thailand"
+  },
+  {
+    "en": "Chiang Mai",
+    "en:t": "Thailand",
+    "a": true,
+    "g": {
+      "lat": 18.7061,
+      "lon": 98.9817
+    },
+    "it": "Chiang Mai",
+    "it:t": "Thailandia",
+    "es": "Chiang Mai",
+    "es:t": "Tailandia",
+    "de": "Chiang Mai",
+    "de:t": "Thailand"
+  },
+  {
+    "en": "Chok Chai",
+    "en:t": "Thailand",
+    "a": true,
+    "g": {
+      "lat": 14.7413,
+      "lon": 102.1649
+    },
+    "it": "Chok Chai",
+    "it:t": "Thailandia",
+    "es": "Chok Chai",
+    "es:t": "Tailandia",
+    "de": "Chok Chai",
+    "de:t": "Thailand"
+  },
+  {
+    "en": "Chom Bueng",
+    "en:t": "Thailand",
+    "a": true,
+    "g": {
+      "lat": 13.612,
+      "lon": 99.6119
+    },
+    "it": "Chom Bueng",
+    "it:t": "Thailandia",
+    "es": "Chom Bueng",
+    "es:t": "Tailandia",
+    "de": "Chom Bueng",
+    "de:t": "Thailand"
+  },
+  {
+    "en": "Chon Buri",
+    "en:t": "Thailand",
+    "a": true,
+    "g": {
+      "lat": 13.3611,
+      "lon": 100.9847
+    },
+    "it": "Chonburi",
+    "it:t": "Thailandia",
+    "es": "Chon Buri",
+    "es:t": "Tailandia",
+    "de": "Chon Buri",
+    "de:t": "Thailand"
+  },
+  {
+    "en": "Chon Daen",
+    "en:t": "Thailand",
+    "a": true,
+    "g": {
+      "lat": 16.1479,
+      "lon": 100.9016
+    },
+    "it": "Chon Daen",
+    "it:t": "Thailandia",
+    "es": "Chon Daen",
+    "es:t": "Tailandia",
+    "de": "Chon Daen",
+    "de:t": "Thailand"
+  },
+  {
+    "en": "Chum Phae",
+    "en:t": "Thailand",
+    "a": true,
+    "g": {
+      "lat": 16.5235,
+      "lon": 102.0833
+    },
+    "it": "Chum Phae",
+    "it:t": "Thailandia",
+    "es": "Chum Phae",
+    "es:t": "Tailandia",
+    "de": "Chum Phae",
+    "de:t": "Thailand"
+  },
+  {
+    "en": "Chumphon",
+    "en:t": "Thailand",
+    "a": true,
+    "g": {
+      "lat": 10.493,
+      "lon": 99.18
+    },
+    "it": "Chumphon",
+    "it:t": "Thailandia",
+    "es": "Chumphon",
+    "es:t": "Tailandia",
+    "de": "Chumphon",
+    "de:t": "Thailand"
+  },
+  {
+    "en": "Damnoen Saduak",
+    "en:t": "Thailand | Ratchaburi",
+    "a": true,
+    "g": {
+      "lat": 13.5171,
+      "lon": 99.9537
+    },
+    "it": "Damnoen Saduak",
+    "it:t": "Thailandia | Ratchaburi",
+    "es": "Damnoen Saduak",
+    "es:t": "Tailandia | Ratchaburi",
+    "de": "Damnoen Saduak",
+    "de:t": "Thailand | Ratchaburi"
+  },
+  {
+    "en": "Dan Khun Thot",
+    "en:t": "Thailand",
+    "a": true,
+    "g": {
+      "lat": 15.1787,
+      "lon": 101.7638
+    },
+    "it": "Dan Khun Thot",
+    "it:t": "Thailandia",
+    "es": "Dan Khun Thot",
+    "es:t": "Tailandia",
+    "de": "Dan Khun Thot",
+    "de:t": "Thailand"
+  },
+  {
+    "en": "Den Chai",
+    "en:t": "Thailand",
+    "a": true,
+    "g": {
+      "lat": 17.9645,
+      "lon": 100.0472
+    },
+    "it": "Den Chai",
+    "it:t": "Thailandia",
+    "es": "Den Chai",
+    "es:t": "Tailandia",
+    "de": "Den Chai",
+    "de:t": "Thailand"
+  },
+  {
+    "en": "Det Udom",
+    "en:t": "Thailand | Ubon Ratchathani",
+    "a": true,
+    "g": {
+      "lat": 14.8548,
+      "lon": 105.0791
+    },
+    "it": "Det Udom",
+    "it:t": "Thailandia | Ubon Ratchathani",
+    "es": "Det Udom",
+    "es:t": "Tailandia | Ubon Ratchathani",
+    "de": "Det Udom",
+    "de:t": "Thailand | Ubon Ratchathani"
+  },
+  {
+    "en": "Dok Khamtai",
+    "en:t": "Thailand",
+    "a": true,
+    "g": {
+      "lat": 19.1486,
+      "lon": 99.9633
+    },
+    "it": "Dok Khamtai",
+    "it:t": "Thailandia",
+    "es": "Dok Khamtai",
+    "es:t": "Tailandia",
+    "de": "Dok Khamtai",
+    "de:t": "Thailand"
+  },
+  {
+    "en": "Hang Dong",
+    "en:t": "Thailand",
+    "a": true,
+    "g": {
+      "lat": 18.6862,
+      "lon": 98.9194
+    },
+    "it": "Hang Dong",
+    "it:t": "Thailandia",
+    "es": "Hang Dong",
+    "es:t": "Tailandia",
+    "de": "Hang Dong",
+    "de:t": "Thailand"
+  },
+  {
+    "en": "Hat Yai",
+    "en:t": "Thailand",
+    "a": true,
+    "g": {
+      "lat": 7.0086,
+      "lon": 100.4747
+    },
+    "it": "Hat Yai",
+    "it:t": "Thailandia",
+    "es": "Hat Yai",
+    "es:t": "Tailandia",
+    "de": "Hat Yai",
+    "de:t": "Thailand"
+  },
+  {
+    "en": "Hua Hin",
+    "en:t": "Thailand",
+    "a": true,
+    "g": {
+      "lat": 12.5684,
+      "lon": 99.9577
+    },
+    "it": "Hua Hin",
+    "it:t": "Thailandia",
+    "es": "Hua Hin",
+    "es:t": "Tailandia",
+    "de": "Hua Hin",
+    "de:t": "Thailand"
+  },
+  {
+    "en": "Huai Yot",
+    "en:t": "Thailand",
+    "a": true,
+    "g": {
+      "lat": 7.7735,
+      "lon": 99.623
+    },
+    "it": "Huai Yot",
+    "it:t": "Thailandia | Huai Yot",
+    "es": "Huai Yot",
+    "es:t": "Tailandia | Huai Yot",
+    "de": "Huai Yot",
+    "de:t": "Thailand | Huai Yot"
+  },
+  {
+    "en": "Kabin Buri",
+    "en:t": "Thailand | Prachin Buri",
+    "a": true,
+    "g": {
+      "lat": 13.905,
+      "lon": 101.798
+    },
+    "it": "Kabin Buri",
+    "it:t": "Thailandia | Prachinburi",
+    "es": "Kabin Buri",
+    "es:t": "Tailandia | Prachin Buri",
+    "de": "Kabin Buri",
+    "de:t": "Thailand | Prachin Buri"
+  },
+  {
+    "en": "Kaeng Khoi",
+    "en:t": "Thailand",
+    "a": true,
+    "g": {
+      "lat": 14.5893,
+      "lon": 100.9943
+    },
+    "it": "Kaeng Khoi",
+    "it:t": "Thailandia",
+    "es": "Kaeng Khoi",
+    "es:t": "Thailandia",
+    "de": "Kaeng Khoi",
+    "de:t": "Thailandia"
+  },
+  {
+    "en": "Kaeng Khro",
+    "en:t": "Thailand | Chaiyaphum",
+    "a": true,
+    "g": {
+      "lat": 16.1344,
+      "lon": 102.209
+    },
+    "it": "Kaeng Khro",
+    "it:t": "Thailandia | Chaiyaphum",
+    "es": "Kaeng Khro",
+    "es:t": "Tailandia | Chaiyaphum",
+    "de": "Kaeng Khro",
+    "de:t": "Thailand | Chaiyaphum"
+  },
+  {
+    "en": "Kalasin",
+    "en:t": "Thailand | Mueang Kalasin",
+    "a": true,
+    "g": {
+      "lat": 16.4385,
+      "lon": 103.5061
+    },
+    "it": "Kalasin",
+    "it:t": "Thailandia | Mueang Kalasin",
+    "es": "Kalasin",
+    "es:t": "Tailandia | Mueang Kalasin",
+    "de": "Kalasin",
+    "de:t": "Thailand | Mueang Kalasin"
+  },
+  {
+    "en": "Kamalasai",
+    "en:t": "Thailand",
+    "a": true,
+    "g": {
+      "lat": 16.3172,
+      "lon": 103.5553
+    },
+    "it": "Kamalasai",
+    "it:t": "Thailandia",
+    "es": "Kamalasai",
+    "es:t": "Thailandia",
+    "de": "Kamalasai",
+    "de:t": "Thailandia"
+  },
+  {
+    "en": "Kamphaeng Phet",
+    "en:t": "Thailand",
+    "a": true,
+    "g": {
+      "lat": 16.4828,
+      "lon": 99.5227
+    },
+    "it": "Kamphaeng Phet",
+    "it:t": "Thailandia",
+    "es": "Kamphaeng Phet",
+    "es:t": "Tailandia",
+    "de": "Kamphaeng Phet",
+    "de:t": "Thailand"
+  },
+  {
+    "en": "Kanchanaburi",
+    "en:t": "Thailand | Mueang Kanchanaburi",
+    "a": true,
+    "g": {
+      "lat": 14.1011,
+      "lon": 99.4179
+    },
+    "it": "Kanchanaburi",
+    "it:t": "Thailandia | Mueang Kanchanaburi",
+    "es": "Kanchanaburi",
+    "es:t": "Tailandia | Mueang Kanchanaburi",
+    "de": "Kanchanaburi",
+    "de:t": "Thailand | Mueang Kanchanaburi"
+  },
+  {
+    "en": "Kantharalak",
+    "en:t": "Thailand | Si Sa Ket",
+    "a": true,
+    "g": {
+      "lat": 14.6066,
+      "lon": 104.7054
+    },
+    "it": "Kantharalak",
+    "it:t": "Thailandia | Sisaket",
+    "es": "Kantharalak",
+    "es:t": "Tailandia | Si Sa Ket",
+    "de": "Kantharalak",
+    "de:t": "Thailand | Sisaket"
+  },
+  {
+    "en": "Kaset Sombun",
+    "en:t": "Thailand | Chaiyaphum",
+    "a": true,
+    "g": {
+      "lat": 16.2426,
+      "lon": 101.9348
+    },
+    "it": "Kaset Sombun",
+    "it:t": "Thailandia | Chaiyaphum",
+    "es": "Kaset Sombun",
+    "es:t": "Tailandia | Chaiyaphum",
+    "de": "Kaset Sombun",
+    "de:t": "Thailand | Chaiyaphum"
+  },
+  {
+    "en": "Kaset Wisai",
+    "en:t": "Thailand",
+    "a": true,
+    "g": {
+      "lat": 15.6581,
+      "lon": 103.6131
+    },
+    "it": "Kaset Wisai",
+    "it:t": "Thailandia",
+    "es": "Kaset Wisai",
+    "es:t": "Thailandia",
+    "de": "Kaset Wisai",
+    "de:t": "Thailandia"
+  },
+  {
+    "en": "Kathu",
+    "en:t": "Thailand",
+    "a": true,
+    "g": {
+      "lat": 7.9107,
+      "lon": 98.3338
+    },
+    "it": "Kathu",
+    "it:t": "Thailandia",
+    "es": "Phuket",
+    "es:t": "Thailandia",
+    "de": "Kathu",
+    "de:t": "Thailandia"
+  },
+  {
+    "en": "Khanu Woralaksaburi",
+    "en:t": "Thailand | Kamphaeng Phet",
+    "a": true,
+    "g": {
+      "lat": 15.9863,
+      "lon": 99.6787
+    },
+    "it": "Khanu Woralaksaburi",
+    "it:t": "Thailandia | Kamphaeng Phet",
+    "es": "Khanu Woralaksaburi",
+    "es:t": "Tailandia | Kamphaeng Phet",
+    "de": "Khanu Woralaksaburi",
+    "de:t": "Thailand | Kamphaeng Phet"
+  },
+  {
+    "en": "Khao Wong",
+    "en:t": "Thailand | Kalasin",
+    "a": true,
+    "g": {
+      "lat": 16.6823,
+      "lon": 104.1234
+    },
+    "it": "Khao Wong",
+    "it:t": "Thailandia | Kalasin",
+    "es": "Khao Wong",
+    "es:t": "Tailandia | Kalasin",
+    "de": "Khao Wong",
+    "de:t": "Thailand | Kalasin"
+  },
+  {
+    "en": "Khao Yoi",
+    "en:t": "Thailand | Phetchaburi",
+    "a": true,
+    "g": {
+      "lat": 13.2394,
+      "lon": 99.7902
+    },
+    "it": "Khao Yoi",
+    "it:t": "Thailandia | Khao Yoi",
+    "es": "Khao Yoi",
+    "es:t": "Tailandia | Khao Yoi",
+    "de": "Khao Yoi",
+    "de:t": "Thailand | Khao Yoi"
+  },
+  {
+    "en": "Khlong Luang",
+    "en:t": "Thailand | Pathum Thani",
+    "a": true,
+    "g": {
+      "lat": 14.0654,
+      "lon": 100.6474
+    },
+    "it": "Khlong Luang",
+    "it:t": "Thailandia | Pathum Thani",
+    "es": "Khlong Luang",
+    "es:t": "Tailandia | Pathum Thani",
+    "de": "Khlong Luang",
+    "de:t": "Thailand | Pathum Thani"
+  },
+  {
+    "en": "Khon Buri",
+    "en:t": "Thailand",
+    "a": true,
+    "g": {
+      "lat": 14.5867,
+      "lon": 102.1061
+    },
+    "it": "Khon Buri",
+    "it:t": "Thailandia",
+    "es": "Khon Buri",
+    "es:t": "Thailandia",
+    "de": "Khon Buri",
+    "de:t": "Thailandia"
+  },
+  {
+    "en": "Khon Kaen",
+    "en:t": "Thailand | Mueang Khon Kaen",
+    "a": true,
+    "g": {
+      "lat": 16.4322,
+      "lon": 102.8236
+    },
+    "it": "Khon Kaen",
+    "it:t": "Thailandia | Mueang Khon Kaen",
+    "es": "Khon Kaen",
+    "es:t": "Tailandia | Mueang Khon Kaen",
+    "de": "Khon Kaen",
+    "de:t": "Thailand | Mueang Khon Kaen"
+  },
+  {
+    "en": "Khrongkan Ban Khlong Mon Road",
+    "en:t": "Thailand | Tambon Bang Sao Thong",
+    "a": true,
+    "g": {
+      "lat": 13.6937,
+      "lon": 100.8197
+    },
+    "it": "Khrongkan Ban Khlong Mon Road",
+    "it:t": "Thailandia | Tambon Bang Sao Thong",
+    "es": "Khrongkan Ban Khlong Mon Road",
+    "es:t": "Tailandia | Tambon Bang Sao Thong",
+    "de": "Khrongkan Ban Khlong Mon Road",
+    "de:t": "Thailand | Tambon Bang Sao Thong"
+  },
+  {
+    "en": "Klaeng",
+    "en:t": "Thailand | Rayong",
+    "a": true,
+    "g": {
+      "lat": 12.7797,
+      "lon": 101.6491
+    },
+    "it": "Klaeng",
+    "it:t": "Thailandia | Rayong",
+    "es": "Klaeng",
+    "es:t": "Tailandia | Rayong",
+    "de": "Klaeng",
+    "de:t": "Thailand | Rayong"
+  },
+  {
+    "en": "Ko Samui",
+    "en:t": "Thailand",
+    "a": true,
+    "g": {
+      "lat": 9.512,
+      "lon": 100.0136
+    },
+    "it": "Ko Samui",
+    "it:t": "Thailandia",
+    "es": "Ko Samui",
+    "es:t": "Thailandia",
+    "de": "Ko Samui",
+    "de:t": "Thailandia"
+  },
+  {
+    "en": "Krabi",
+    "en:t": "Thailand",
+    "a": true,
+    "g": {
+      "lat": 8.0863,
+      "lon": 98.9063
+    },
+    "it": "Krabi",
+    "it:t": "Thailandia",
+    "es": "Krabi",
+    "es:t": "Tailandia",
+    "de": "Krabi",
+    "de:t": "Thailand"
+  },
+  {
+    "en": "Krathum Baen",
+    "en:t": "Thailand | Samut Sakhon",
+    "a": true,
+    "g": {
+      "lat": 13.6656,
+      "lon": 100.2712
+    },
+    "it": "Krathum Baen",
+    "it:t": "Thailandia | Samut Sakhon",
+    "es": "Krathum Baen",
+    "es:t": "Tailandia | Samut Sakhon",
+    "de": "Krathum Baen",
+    "de:t": "Thailand | Samut Sakhon"
+  },
+  {
+    "en": "Kuchinarai",
+    "en:t": "Thailand | Kalasin",
+    "a": true,
+    "g": {
+      "lat": 16.5044,
+      "lon": 104.0305
+    },
+    "it": "Kuchinarai",
+    "it:t": "Thailandia | Kalasin",
+    "es": "Kuchinarai",
+    "es:t": "Tailandia | Kalasin",
+    "de": "Kuchinarai",
+    "de:t": "Thailand | Kalasin"
+  },
+  {
+    "en": "Kut Chap",
+    "en:t": "Thailand",
+    "a": true,
+    "g": {
+      "lat": 17.3786,
+      "lon": 102.5183
+    },
+    "it": "Kut Chap",
+    "it:t": "Thailandia",
+    "es": "Kut Chap",
+    "es:t": "Thailandia",
+    "de": "Kut Chap",
+    "de:t": "Thailandia"
+  },
+  {
+    "en": "Laem Sing",
+    "en:t": "Thailand | Chanthaburi",
+    "a": true,
+    "g": {
+      "lat": 12.4724,
+      "lon": 102.129
+    },
+    "it": "Laem Sing",
+    "it:t": "Thailandia | Chanthaburi",
+    "es": "Laem Sing",
+    "es:t": "Tailandia | Chanthaburi",
+    "de": "Laem Sing",
+    "de:t": "Thailand | Chanthaburi"
+  },
+  {
+    "en": "Lam Luk Ka",
+    "en:t": "Thailand | Pathum Thani",
+    "a": true,
+    "g": {
+      "lat": 13.9755,
+      "lon": 100.7774
+    },
+    "it": "Lam Luk Ka",
+    "it:t": "Thailandia | Pathum Thani",
+    "es": "Lam Luk Ka",
+    "es:t": "Tailandia | Pathum Thani",
+    "de": "Lam Luk Ka",
+    "de:t": "Thailand | Pathum Thani"
+  },
+  {
+    "en": "Lampang",
+    "en:t": "Thailand | Mueang Lampang",
+    "a": true,
+    "g": {
+      "lat": 18.2855,
+      "lon": 99.5128
+    },
+    "it": "Lampang",
+    "it:t": "Thailandia | Mueang Lampang",
+    "es": "Lampang",
+    "es:t": "Tailandia | Mueang Lampang",
+    "de": "Lampang",
+    "de:t": "Thailand | Mueang Lampang"
+  },
+  {
+    "en": "Lamphun",
+    "en:t": "Thailand",
+    "a": true,
+    "g": {
+      "lat": 18.5745,
+      "lon": 99.0087
+    },
+    "it": "Lamphun",
+    "it:t": "Thailandia",
+    "es": "Lamphun",
+    "es:t": "Tailandia",
+    "de": "Lamphun",
+    "de:t": "Thailand"
+  },
+  {
+    "en": "Lang Suan",
+    "en:t": "Thailand",
+    "a": true,
+    "g": {
+      "lat": 9.9486,
+      "lon": 99.082
+    },
+    "it": "Lang Suan",
+    "it:t": "Thailandia",
+    "es": "Lang Suan",
+    "es:t": "Thailandia",
+    "de": "Lang Suan",
+    "de:t": "Thailandia"
+  },
+  {
+    "en": "Lat Yao",
+    "en:t": "Thailand",
+    "a": true,
+    "g": {
+      "lat": 15.7631,
+      "lon": 99.7344
+    },
+    "it": "Lat Yao",
+    "it:t": "Thailandia",
+    "es": "Lat Yao",
+    "es:t": "Thailandia",
+    "de": "Lat Yao",
+    "de:t": "Thailandia"
+  },
+  {
+    "en": "Lom Sak",
+    "en:t": "Thailand",
+    "a": true,
+    "g": {
+      "lat": 16.7734,
+      "lon": 101.2451
+    },
+    "it": "Lom Sak",
+    "it:t": "Thailandia",
+    "es": "Lom Sak",
+    "es:t": "Thailandia",
+    "de": "Lom Sak",
+    "de:t": "Thailandia"
+  },
+  {
+    "en": "Lopburi",
+    "en:t": "Thailand",
+    "a": true,
+    "g": {
+      "lat": 14.7995,
+      "lon": 100.6534
+    },
+    "it": "Lopburi",
+    "it:t": "Thailandia",
+    "es": "Lopburi",
+    "es:t": "Tailandia",
+    "de": "Lopburi",
+    "de:t": "Thailand"
+  },
+  {
+    "en": "Mae Chan",
+    "en:t": "Thailand",
+    "a": true,
+    "g": {
+      "lat": 20.0933,
+      "lon": 99.8013
+    },
+    "it": "Mae Chan",
+    "it:t": "Thailandia",
+    "es": "Mae Chan",
+    "es:t": "Thailandia",
+    "de": "Mae Chan",
+    "de:t": "Thailandia"
+  },
+  {
+    "en": "Mae Ramat",
+    "en:t": "Thailand",
+    "a": true,
+    "g": {
+      "lat": 16.9642,
+      "lon": 98.5227
+    },
+    "it": "Mae Ramat",
+    "it:t": "Thailandia",
+    "es": "Mae Ramat",
+    "es:t": "Thailandia",
+    "de": "Mae Ramat",
+    "de:t": "Thailandia"
+  },
+  {
+    "en": "Mae Sai",
+    "en:t": "Thailand | Chiang Rai",
+    "a": true,
+    "g": {
+      "lat": 20.4314,
+      "lon": 99.885
+    },
+    "it": "Mae Sai",
+    "it:t": "Thailandia | Chiang Rai",
+    "es": "Mae Sai",
+    "es:t": "Tailandia | Chiang Rai",
+    "de": "Mae Sai",
+    "de:t": "Thailand | Chiang Rai"
+  },
+  {
+    "en": "Mae Sot",
+    "en:t": "Thailand",
+    "a": true,
+    "g": {
+      "lat": 16.7124,
+      "lon": 98.5747
+    },
+    "it": "Mae Sot",
+    "it:t": "Thailandia",
+    "es": "Mae Sot",
+    "es:t": "Tailandia",
+    "de": "Mae Sot",
+    "de:t": "Thailand"
+  },
+  {
+    "en": "Maha Sarakham",
+    "en:t": "Thailand",
+    "a": true,
+    "g": {
+      "lat": 16.0132,
+      "lon": 103.1615
+    },
+    "it": "Maha Sarakham",
+    "it:t": "Thailandia",
+    "es": "Maha Sarakham",
+    "es:t": "Tailandia",
+    "de": "Maha Sarakham",
+    "de:t": "Thailand"
+  },
+  {
+    "en": "Mu Ban Chalong Natural Home",
+    "en:t": "Thailand | Mueang Phuket",
+    "a": true,
+    "g": {
+      "lat": 7.8358,
+      "lon": 98.3385
+    },
+    "it": "Mu Ban Chalong Natural Home",
+    "it:t": "Thailandia | Mueang Phuket",
+    "es": "Mu Ban Chalong Natural Home",
+    "es:t": "Tailandia | Mueang Phuket",
+    "de": "Mu Ban Chalong Natural Home",
+    "de:t": "Thailand | Mueang Phuket"
+  },
+  {
+    "en": "Mueang Chiang Rai",
+    "en:t": "Thailand",
+    "a": true,
+    "g": {
+      "lat": 19.9105,
+      "lon": 99.8406
+    },
+    "it": "Chiang Rai",
+    "it:t": "Thailandia",
+    "es": "Chiang Rai",
+    "es:t": "Thailandia",
+    "de": "Chiang Rai",
+    "de:t": "Thailandia"
+  },
+  {
+    "en": "Mueang Loei Land",
+    "en:t": "Thailand",
+    "a": true,
+    "g": {
+      "lat": 17.5157,
+      "lon": 101.7254
+    },
+    "it": "Loei",
+    "it:t": "Thailandia",
+    "es": "Loei",
+    "es:t": "Tailandia",
+    "de": "Loei",
+    "de:t": "Thailand"
+  },
+  {
+    "en": "Mukdahan",
+    "en:t": "Thailand | Mueang Mukdahan",
+    "a": true,
+    "g": {
+      "lat": 16.5426,
+      "lon": 104.7021
+    },
+    "it": "Mukdahan",
+    "it:t": "Thailandia | Mueang Mukdahan",
+    "es": "Mukdahan",
+    "es:t": "Tailandia | Mueang Mukdahan",
+    "de": "Mukdahan",
+    "de:t": "Thailand | Mueang Mukdahan"
+  },
+  {
+    "en": "Na Klang",
+    "en:t": "Thailand",
+    "a": true,
+    "g": {
+      "lat": 17.3043,
+      "lon": 102.2205
+    },
+    "it": "Na Klang",
+    "it:t": "Thailandia",
+    "es": "Na Klang",
+    "es:t": "Thailandia",
+    "de": "Na Klang",
+    "de:t": "Thailandia"
+  },
+  {
+    "en": "Na San",
+    "en:t": "Thailand | Ban Na San",
+    "a": true,
+    "g": {
+      "lat": 8.8186,
+      "lon": 99.3562
+    },
+    "it": "Na San",
+    "it:t": "Thailandia | Ban Na San",
+    "es": "Na San",
+    "es:t": "Tailandia | Ban Na San",
+    "de": "Na San",
+    "de:t": "Thailand | Ban Na San"
+  },
+  {
+    "en": "Nakhon Luang",
+    "en:t": "Thailand",
+    "a": true,
+    "g": {
+      "lat": 14.476,
+      "lon": 100.6241
+    },
+    "it": "Nakhon Luang",
+    "it:t": "Thailandia",
+    "es": "Nakhon Luang",
+    "es:t": "Thailandia",
+    "de": "Nakhon Luang",
+    "de:t": "Thailandia"
+  },
+  {
+    "en": "Nakhon Pathom",
+    "en:t": "Thailand",
+    "a": true,
+    "g": {
+      "lat": 13.814,
+      "lon": 100.0373
+    },
+    "it": "Nakhon Pathom",
+    "it:t": "Thailandia",
+    "es": "Nakhon Pathom",
+    "es:t": "Tailandia",
+    "de": "Nakhon Pathom",
+    "de:t": "Thailand"
+  },
+  {
+    "en": "Nakhon Phanom",
+    "en:t": "Thailand",
+    "a": true,
+    "g": {
+      "lat": 17.392,
+      "lon": 104.7696
+    },
+    "it": "Phanom",
+    "it:t": "Thailandia",
+    "es": "Phanom",
+    "es:t": "Tailandia",
+    "de": "Nakhon Phanom",
+    "de:t": "Thailand"
+  },
+  {
+    "en": "Nakhon Ratchasima",
+    "en:t": "Thailand | Nai Mueang",
+    "a": true,
+    "g": {
+      "lat": 14.9738,
+      "lon": 102.0837
+    },
+    "it": "Nakhon Ratchasima",
+    "it:t": "Thailandia | Nai Mueang",
+    "es": "Nakhon Ratchasima",
+    "es:t": "Tailandia | Nai Mueang",
+    "de": "Nakhon Ratchasima",
+    "de:t": "Thailand | Nai Mueang"
+  },
+  {
+    "en": "Nakhon Sawan",
+    "en:t": "Thailand | Mueang Nakhon Sawan",
+    "a": true,
+    "g": {
+      "lat": 15.6987,
+      "lon": 100.12
+    },
+    "it": "Nakhon Sawan",
+    "it:t": "Thailandia | Mueang Nakhon Sawan",
+    "es": "Nakhon Sawan",
+    "es:t": "Tailandia | Mueang Nakhon Sawan",
+    "de": "Nakhon Sawan",
+    "de:t": "Thailand | Mueang Nakhon Sawan"
+  },
+  {
+    "en": "Nakhon Si Thammarat",
+    "en:t": "Thailand | Mueang Nakhon Si Thammarat",
+    "a": true,
+    "g": {
+      "lat": 8.4325,
+      "lon": 99.9599
+    },
+    "it": "Nakhon Si Thammarat",
+    "it:t": "Thailandia | Mueang Nakhon Si Thammarat",
+    "es": "Nakhon Si Thammarat",
+    "es:t": "Tailandia | Mueang Nakhon Si Thammarat",
+    "de": "Nakhon Si Thammarat",
+    "de:t": "Thailand | Mueang Nakhon Si Thammarat"
+  },
+  {
+    "en": "Nam Som",
+    "en:t": "Thailand",
+    "a": true,
+    "g": {
+      "lat": 17.7424,
+      "lon": 102.0947
+    },
+    "it": "Nam Som",
+    "it:t": "Thailandia",
+    "es": "Nam Som",
+    "es:t": "Thailandia",
+    "de": "Nam Som",
+    "de:t": "Thailandia"
+  },
+  {
+    "en": "Nan",
+    "en:t": "Thailand",
+    "a": true,
+    "g": {
+      "lat": 18.7756,
+      "lon": 100.773
+    },
+    "it": "Nan",
+    "it:t": "Thailandia",
+    "es": "Nan",
+    "es:t": "Tailandia",
+    "de": "Nan",
+    "de:t": "Thailand"
+  },
+  {
+    "en": "Nang Rong",
+    "en:t": "Thailand",
+    "a": true,
+    "g": {
+      "lat": 14.6336,
+      "lon": 102.7935
+    },
+    "it": "Nang Rong",
+    "it:t": "Thailandia",
+    "es": "Nang Rong",
+    "es:t": "Thailandia",
+    "de": "Nang Rong",
+    "de:t": "Thailandia"
+  },
+  {
+    "en": "Narathiwat",
+    "en:t": "Thailand",
+    "a": true,
+    "g": {
+      "lat": 6.4255,
+      "lon": 101.8253
+    },
+    "it": "Narathiwat",
+    "it:t": "Thailandia",
+    "es": "Narathiwat",
+    "es:t": "Tailandia",
+    "de": "Narathiwat",
+    "de:t": "Thailand"
+  },
+  {
+    "en": "Non Sung",
+    "en:t": "Thailand",
+    "a": true,
+    "g": {
+      "lat": 15.1806,
+      "lon": 102.2575
+    },
+    "it": "Non Sung",
+    "it:t": "Thailandia",
+    "es": "Non Sung",
+    "es:t": "Thailandia",
+    "de": "Non Sung",
+    "de:t": "Thailandia"
+  },
+  {
+    "en": "Nong Bua",
+    "en:t": "Thailand | Mueang Nong Bua Lam Phu",
+    "a": true,
+    "g": {
+      "lat": 17.174,
+      "lon": 102.4495
+    },
+    "it": "Nongbua Lamphu",
+    "it:t": "Thailandia | Mueang Nong Bua Lam Phu",
+    "es": "Nong Bua",
+    "es:t": "Tailandia | Mueang Nong Bua Lam Phu",
+    "de": "Nong Bua Lamphu",
+    "de:t": "Thailand | Mueang Nong Bua Lamphu"
+  },
+  {
+    "en": "Nong Khae",
+    "en:t": "Thailand",
+    "a": true,
+    "g": {
+      "lat": 14.3396,
+      "lon": 100.8593
+    },
+    "it": "Nong Khae",
+    "it:t": "Thailandia",
+    "es": "Nong Khae",
+    "es:t": "Thailandia",
+    "de": "Nong Khae",
+    "de:t": "Thailandia"
+  },
+  {
+    "en": "Nong Kung Si",
+    "en:t": "Thailand",
+    "a": true,
+    "g": {
+      "lat": 16.6336,
+      "lon": 103.301
+    },
+    "it": "Nong Kung Si",
+    "it:t": "Thailandia",
+    "es": "Nong Kung Si",
+    "es:t": "Thailandia",
+    "de": "Nong Kung Si",
+    "de:t": "Thailandia"
+  },
+  {
+    "en": "Nong Phai",
+    "en:t": "Thailand",
+    "a": true,
+    "g": {
+      "lat": 16.0018,
+      "lon": 101.0372
+    },
+    "it": "Nong Phai",
+    "it:t": "Thailandia",
+    "es": "Nong Phai",
+    "es:t": "Thailandia",
+    "de": "Nong Phai",
+    "de:t": "Thailandia"
+  },
+  {
+    "en": "Nong Wua So",
+    "en:t": "Thailand",
+    "a": true,
+    "g": {
+      "lat": 17.2761,
+      "lon": 102.605
+    },
+    "it": "Nong Wua So",
+    "it:t": "Thailandia",
+    "es": "Nong Wua So",
+    "es:t": "Thailandia",
+    "de": "Nong Wua So",
+    "de:t": "Thailandia"
+  },
+  {
+    "en": "Nonthaburi",
+    "en:t": "Thailand | Mueang Nonthaburi",
+    "a": true,
+    "g": {
+      "lat": 13.8591,
+      "lon": 100.5217
+    },
+    "it": "Nonthaburi",
+    "it:t": "Thailandia | Mueang Nonthaburi",
+    "es": "Nonthaburi",
+    "es:t": "Tailandia | Mueang Nonthaburi",
+    "de": "Nonthaburi",
+    "de:t": "Thailand | Mueang Nonthaburi"
+  },
+  {
+    "en": "Pa Sang",
+    "en:t": "Thailand",
+    "a": true,
+    "g": {
+      "lat": 18.5189,
+      "lon": 98.9301
+    },
+    "it": "Pa Sang",
+    "it:t": "Thailandia",
+    "es": "Pa Sang",
+    "es:t": "Thailandia",
+    "de": "Pa Sang",
+    "de:t": "Thailandia"
+  },
+  {
+    "en": "Pak Chong",
+    "en:t": "Thailand",
+    "a": true,
+    "g": {
+      "lat": 14.7129,
+      "lon": 101.4245
+    },
+    "it": "Pak Chong",
+    "it:t": "Thailandia",
+    "es": "Pak Chong",
+    "es:t": "Tailandia",
+    "de": "Pak Chong",
+    "de:t": "Thailand"
+  },
+  {
+    "en": "Pak Kret",
+    "en:t": "Thailand",
+    "a": true,
+    "g": {
+      "lat": 13.8995,
+      "lon": 100.5426
+    },
+    "it": "Pak Kret",
+    "it:t": "Thailandia",
+    "es": "Pak Kret",
+    "es:t": "Thailandia",
+    "de": "Pak Kret",
+    "de:t": "Thailandia"
+  },
+  {
+    "en": "Pak Phanang",
+    "en:t": "Thailand",
+    "a": true,
+    "g": {
+      "lat": 8.3442,
+      "lon": 100.1899
+    },
+    "it": "Pak Phanang",
+    "it:t": "Thailandia",
+    "es": "Pak Phanang",
+    "es:t": "Thailandia",
+    "de": "Pak Phanang",
+    "de:t": "Thailandia"
+  },
+  {
+    "en": "Pathum Thani",
+    "en:t": "Thailand",
+    "a": true,
+    "g": {
+      "lat": 14.0208,
+      "lon": 100.525
+    },
+    "it": "Pathum Thani",
+    "it:t": "Thailandia",
+    "es": "Pathum Thani",
+    "es:t": "Tailandia",
+    "de": "Pathum Thani",
+    "de:t": "Thailand"
+  },
+  {
+    "en": "Pattani",
+    "en:t": "Thailand",
+    "a": true,
+    "g": {
+      "lat": 6.7618,
+      "lon": 101.3233
+    },
+    "it": "Pattani",
+    "it:t": "Thailandia",
+    "es": "Pattani",
+    "es:t": "Tailandia",
+    "de": "Pattani",
+    "de:t": "Thailand"
+  },
+  {
+    "en": "Pattaya",
+    "en:t": "Thailand | Bang Lamung",
+    "a": true,
+    "g": {
+      "lat": 12.9236,
+      "lon": 100.8825
+    },
+    "it": "Pattaya",
+    "it:t": "Thailandia | Bang Lamung",
+    "es": "Pattaya",
+    "es:t": "Tailandia | Bang Lamung",
+    "de": "Pattaya",
+    "de:t": "Thailand | Bang Lamung"
+  },
+  {
+    "en": "Phak Hai",
+    "en:t": "Thailand",
+    "a": true,
+    "g": {
+      "lat": 14.4578,
+      "lon": 100.3779
+    },
+    "it": "Phak Hai",
+    "it:t": "Thailandia",
+    "es": "Phak Hai",
+    "es:t": "Thailandia",
+    "de": "Phak Hai",
+    "de:t": "Thailandia"
+  },
+  {
+    "en": "Phan Thong",
+    "en:t": "Thailand",
+    "a": true,
+    "g": {
+      "lat": 13.4712,
+      "lon": 101.0979
+    },
+    "it": "Phan Thong",
+    "it:t": "Thailandia",
+    "es": "Phan Thong",
+    "es:t": "Thailandia",
+    "de": "Phan Thong",
+    "de:t": "Thailandia"
+  },
+  {
+    "en": "Phanat Nikhom",
+    "en:t": "Thailand",
+    "a": true,
+    "g": {
+      "lat": 13.4523,
+      "lon": 101.1816
+    },
+    "it": "Phanat Nikhom",
+    "it:t": "Thailandia",
+    "es": "Phanat Nikhom",
+    "es:t": "Thailandia",
+    "de": "Phanat Nikhom",
+    "de:t": "Thailandia"
+  },
+  {
+    "en": "Phanom Sarakham",
+    "en:t": "Thailand",
+    "a": true,
+    "g": {
+      "lat": 13.7488,
+      "lon": 101.3459
+    },
+    "it": "Phanom Sarakham",
+    "it:t": "Thailandia",
+    "es": "Phanom Sarakham",
+    "es:t": "Thailandia",
+    "de": "Phanom Sarakham",
+    "de:t": "Thailandia"
+  },
+  {
+    "en": "Phatthalung",
+    "en:t": "Thailand",
+    "a": true,
+    "g": {
+      "lat": 7.6167,
+      "lon": 100.074
+    },
+    "it": "Phatthalung",
+    "it:t": "Thailandia",
+    "es": "Phattalung",
+    "es:t": "Tailandia",
+    "de": "Phatthalung",
+    "de:t": "Thailand"
+  },
+  {
+    "en": "Phayao",
+    "en:t": "Thailand",
+    "a": true,
+    "g": {
+      "lat": 19.2154,
+      "lon": 100.2024
+    },
+    "it": "Phayao",
+    "it:t": "Thailandia",
+    "es": "Phayao",
+    "es:t": "Tailandia",
+    "de": "Phayao",
+    "de:t": "Thailand"
+  },
+  {
+    "en": "Phetchabun",
+    "en:t": "Thailand",
+    "a": true,
+    "g": {
+      "lat": 16.3017,
+      "lon": 101.1193
+    },
+    "it": "Phetchabun",
+    "it:t": "Thailandia",
+    "es": "Phetchabun",
+    "es:t": "Tailandia",
+    "de": "Phetchabun",
+    "de:t": "Thailand"
+  },
+  {
+    "en": "Phetchaburi",
+    "en:t": "Thailand",
+    "a": true,
+    "g": {
+      "lat": 12.9649,
+      "lon": 99.6426
+    },
+    "it": "Phetchaburi",
+    "it:t": "Thailandia",
+    "es": "Phetchaburi",
+    "es:t": "Tailandia",
+    "de": "Phetchaburi",
+    "de:t": "Thailand"
+  },
+  {
+    "en": "Phibun",
+    "en:t": "Thailand | Phibun Mangsahan",
+    "a": true,
+    "g": {
+      "lat": 15.2487,
+      "lon": 105.2253
+    },
+    "it": "Phibun",
+    "it:t": "Thailandia | Phibun Mangsahan",
+    "es": "Phibun",
+    "es:t": "Tailandia | Phibun Mangsahan",
+    "de": "Phibun Mangsahan",
+    "de:t": "Thailand | Phibun Mangsahan"
+  },
+  {
+    "en": "Phichit",
+    "en:t": "Thailand",
+    "a": true,
+    "g": {
+      "lat": 16.2741,
+      "lon": 100.3347
+    },
+    "it": "Phichit",
+    "it:t": "Thailandia",
+    "es": "Phichit",
+    "es:t": "Tailandia",
+    "de": "Phichit",
+    "de:t": "Thailand"
+  },
+  {
+    "en": "Phitsanulok",
+    "en:t": "Thailand | Nai Mueang",
+    "a": true,
+    "g": {
+      "lat": 16.8211,
+      "lon": 100.2659
+    },
+    "it": "Phitsanulok",
+    "it:t": "Thailandia | Nai Mueang",
+    "es": "Phitsanulok",
+    "es:t": "Tailandia | Nai Mueang",
+    "de": "Phitsanulok",
+    "de:t": "Thailand | Nai Mueang"
+  },
+  {
+    "en": "Phon Charoen",
+    "en:t": "Thailand",
+    "a": true,
+    "g": {
+      "lat": 18.0351,
+      "lon": 103.7115
+    },
+    "it": "Phon Charoen",
+    "it:t": "Thailandia",
+    "es": "Phon Charoen",
+    "es:t": "Thailandia",
+    "de": "Phon Charoen",
+    "de:t": "Thailandia"
+  },
+  {
+    "en": "Photharam",
+    "en:t": "Thailand",
+    "a": true,
+    "g": {
+      "lat": 13.6912,
+      "lon": 99.8544
+    },
+    "it": "Photharam",
+    "it:t": "Thailandia",
+    "es": "Photharam",
+    "es:t": "Thailandia",
+    "de": "Photharam",
+    "de:t": "Thailandia"
+  },
+  {
+    "en": "Phra Phutthabat",
+    "en:t": "Thailand",
+    "a": true,
+    "g": {
+      "lat": 14.727,
+      "lon": 100.794
+    },
+    "it": "Phra Phutthabat",
+    "it:t": "Thailandia",
+    "es": "Phra Phutthabat",
+    "es:t": "Thailandia",
+    "de": "Phra Phutthabat",
+    "de:t": "Thailandia"
+  },
+  {
+    "en": "Phra Pradaeng",
+    "en:t": "Thailand | Samut Prakan",
+    "a": true,
+    "g": {
+      "lat": 13.6575,
+      "lon": 100.5537
+    },
+    "it": "Phra Pradaeng",
+    "it:t": "Thailandia | Samut Prakan",
+    "es": "Phra Pradaeng",
+    "es:t": "Tailandia | Samut Prakan",
+    "de": "Phra Pradaeng",
+    "de:t": "Thailand | Samut Prakan"
+  },
+  {
+    "en": "Phrae",
+    "en:t": "Thailand",
+    "a": true,
+    "g": {
+      "lat": 18.1446,
+      "lon": 100.1403
+    },
+    "it": "Phrae",
+    "it:t": "Thailandia",
+    "es": "Phrae",
+    "es:t": "Tailandia",
+    "de": "Phrae",
+    "de:t": "Thailand"
+  },
+  {
+    "en": "Phu Khiao",
+    "en:t": "Thailand | Chaiyaphum",
+    "a": true,
+    "g": {
+      "lat": 16.3763,
+      "lon": 102.1287
+    },
+    "it": "Phu Khiao",
+    "it:t": "Thailandia | Chaiyaphum",
+    "es": "Phu Khiao",
+    "es:t": "Tailandia | Chaiyaphum",
+    "de": "Phu Khiao",
+    "de:t": "Thailand | Chaiyaphum"
+  },
+  {
+    "en": "Phu Kradueng",
+    "en:t": "Thailand",
+    "a": true,
+    "g": {
+      "lat": 16.9067,
+      "lon": 101.8778
+    },
+    "it": "Phu Kradueng",
+    "it:t": "Thailandia",
+    "es": "Phu Kradueng",
+    "es:t": "Thailandia",
+    "de": "Phu Kradueng",
+    "de:t": "Thailandia"
+  },
+  {
+    "en": "Phuket",
+    "en:t": "Thailand",
+    "a": true,
+    "g": {
+      "lat": 7.9519,
+      "lon": 98.3381
+    },
+    "it": "Phuket",
+    "it:t": "Thailandia",
+    "es": "Phuket",
+    "es:t": "Tailandia",
+    "de": "Phuket",
+    "de:t": "Thailand"
+  },
+  {
+    "en": "Prachin Buri",
+    "en:t": "Thailand",
+    "a": true,
+    "g": {
+      "lat": 14.0421,
+      "lon": 101.6601
+    },
+    "it": "Prachinburi",
+    "it:t": "Thailandia",
+    "es": "Prachinburi",
+    "es:t": "Tailandia",
+    "de": "Prachin Buri",
+    "de:t": "Thailand"
+  },
+  {
+    "en": "Prachuap Khiri Khan",
+    "en:t": "Thailand | Mueang Prachuap Khiri Khan",
+    "a": true,
+    "g": {
+      "lat": 11.7938,
+      "lon": 99.7958
+    },
+    "it": "Prachuap Khiri Khan",
+    "it:t": "Thailandia | Mueang Prachuap Khiri Khan",
+    "es": "Prachuap Khiri Khan",
+    "es:t": "Tailandia",
+    "de": "Prachuap Khiri Khan",
+    "de:t": "Thailand | Mueang Prachuap Khiri Khan"
+  },
+  {
+    "en": "Prakhon Chai",
+    "en:t": "Thailand",
+    "a": true,
+    "g": {
+      "lat": 14.6015,
+      "lon": 103.0933
+    },
+    "it": "Prakhon Chai",
+    "it:t": "Thailandia",
+    "es": "Prakhon Chai",
+    "es:t": "Thailandia",
+    "de": "Prakhon Chai",
+    "de:t": "Thailandia"
+  },
+  {
+    "en": "Pran Buri",
+    "en:t": "Thailand",
+    "a": true,
+    "g": {
+      "lat": 12.3532,
+      "lon": 99.9409
+    },
+    "it": "Pran Buri",
+    "it:t": "Thailandia",
+    "es": "Pran Buri",
+    "es:t": "Thailandia",
+    "de": "Pran Buri",
+    "de:t": "Thailandia"
+  },
+  {
+    "en": "Ra-ngae",
+    "en:t": "Thailand | Narathiwat",
+    "a": true,
+    "g": {
+      "lat": 6.2541,
+      "lon": 101.7296
+    },
+    "it": "Ra-ngae",
+    "it:t": "Thailandia | Narathiwat",
+    "es": "Ra-ngae",
+    "es:t": "Tailandia | Narathiwat",
+    "de": "Ra-ngae",
+    "de:t": "Thailand | Narathiwat"
+  },
+  {
+    "en": "Ranong",
+    "en:t": "Thailand",
+    "a": true,
+    "g": {
+      "lat": 9.9658,
+      "lon": 98.6408
+    },
+    "it": "Ranong",
+    "it:t": "Thailandia",
+    "es": "Ranong",
+    "es:t": "Tailandia",
+    "de": "Ranong",
+    "de:t": "Thailand"
+  },
+  {
+    "en": "Ranot",
+    "en:t": "Thailand",
+    "a": true,
+    "g": {
+      "lat": 7.7687,
+      "lon": 100.2824
+    },
+    "it": "Ranot",
+    "it:t": "Thailandia",
+    "es": "Ranot",
+    "es:t": "Thailandia",
+    "de": "Ranot",
+    "de:t": "Thailandia"
+  },
+  {
+    "en": "Ratchaburi",
+    "en:t": "Thailand",
+    "a": true,
+    "g": {
+      "lat": 13.5283,
+      "lon": 99.8134
+    },
+    "it": "Ratchaburi",
+    "it:t": "Thailandia",
+    "es": "Ratchaburi",
+    "es:t": "Tailandia",
+    "de": "Ratchaburi",
+    "de:t": "Thailand"
+  },
+  {
+    "en": "Rayong",
+    "en:t": "Thailand | Mueang Rayong",
+    "a": true,
+    "g": {
+      "lat": 12.6814,
+      "lon": 101.2816
+    },
+    "it": "Rayong",
+    "it:t": "Thailandia | Mueang Rayong",
+    "es": "Rayong",
+    "es:t": "Tailandia | Mueang Rayong",
+    "de": "Rayong",
+    "de:t": "Thailand | Mueang Rayong"
+  },
+  {
+    "en": "Roi Et",
+    "en:t": "Thailand",
+    "a": true,
+    "g": {
+      "lat": 16.0538,
+      "lon": 103.652
+    },
+    "it": "Roi Et",
+    "it:t": "Thailandia",
+    "es": "Roi Et",
+    "es:t": "Tailandia",
+    "de": "Roi Et",
+    "de:t": "Thailand"
+  },
+  {
+    "en": "Ron Phibun",
+    "en:t": "Thailand | Nakhon Si Thammarat",
+    "a": true,
+    "g": {
+      "lat": 8.2311,
+      "lon": 99.8571
+    },
+    "it": "Ron Phibun",
+    "it:t": "Thailandia | Nakhon Si Thammarat",
+    "es": "Ron Phibun",
+    "es:t": "Tailandia | Nakhon Si Thammarat",
+    "de": "Ron Phibun",
+    "de:t": "Thailand | Nakhon Si Thammarat"
+  },
+  {
+    "en": "Sa Kaeo",
+    "en:t": "Thailand",
+    "a": true,
+    "g": {
+      "lat": 13.824,
+      "lon": 102.0646
+    },
+    "it": "Sa Kaeo",
+    "it:t": "Thailandia",
+    "es": "Sa Kaeo",
+    "es:t": "Tailandia",
+    "de": "Sa Kaeo",
+    "de:t": "Thailand"
+  },
+  {
+    "en": "Sadao",
+    "en:t": "Thailand",
+    "a": true,
+    "g": {
+      "lat": 6.6365,
+      "lon": 100.4238
+    },
+    "it": "Sadao",
+    "it:t": "Thailandia",
+    "es": "Sadao",
+    "es:t": "Thailandia",
+    "de": "Sadao",
+    "de:t": "Thailandia"
+  },
+  {
+    "en": "Sakhon Nakhon",
+    "en:t": "Thailand | That Choeng Chum",
+    "a": true,
+    "g": {
+      "lat": 17.1664,
+      "lon": 104.1486
+    },
+    "it": "Sakhon Nakhon",
+    "it:t": "Thailandia | That Choeng Chum",
+    "es": "Sakon Nakhon",
+    "es:t": "Tailandia | That Choeng Chum",
+    "de": "Sakon Nakhon",
+    "de:t": "Thailand | That Choeng Chum"
+  },
+  {
+    "en": "Sam Phran",
+    "en:t": "Thailand",
+    "a": true,
+    "g": {
+      "lat": 13.7191,
+      "lon": 100.2208
+    },
+    "it": "Sam Phran",
+    "it:t": "Thailandia",
+    "es": "Sam Phran",
+    "es:t": "Thailandia",
+    "de": "Sam Phran",
+    "de:t": "Thailandia"
+  },
+  {
+    "en": "Sam Roi Yot",
+    "en:t": "Thailand",
+    "a": true,
+    "g": {
+      "lat": 12.2451,
+      "lon": 99.9577
+    },
+    "it": "Sam Roi Yot",
+    "it:t": "Thailandia",
+    "es": "Sam Roi Yot",
+    "es:t": "Thailandia",
+    "de": "Sam Roi Yot",
+    "de:t": "Thailandia"
+  },
+  {
+    "en": "Samut Prakan",
+    "en:t": "Thailand | Pak Nam",
+    "a": true,
+    "g": {
+      "lat": 13.5954,
+      "lon": 100.6072
+    },
+    "it": "Samut Prakan",
+    "it:t": "Thailandia | Pak Nam",
+    "es": "Samut Prakan",
+    "es:t": "Tailandia | Pak Nam",
+    "de": "Samut Prakan",
+    "de:t": "Thailand | Pak Nam"
+  },
+  {
+    "en": "Samut Sakhon",
+    "en:t": "Thailand | Mueang Samut Sakhon",
+    "a": true,
+    "g": {
+      "lat": 13.5498,
+      "lon": 100.2741
+    },
+    "it": "Samut Sakhon",
+    "it:t": "Thailandia | Mueang Samut Sakhon",
+    "es": "Samut Sakhon",
+    "es:t": "Tailandia | Mueang Samut Sakhon",
+    "de": "Samut Sakhon",
+    "de:t": "Thailand | Mueang Samut Sakhon"
+  },
+  {
+    "en": "Samut Songkhram",
+    "en:t": "Thailand",
+    "a": true,
+    "g": {
+      "lat": 13.4098,
+      "lon": 100.0023
+    },
+    "it": "Samut Songkhram",
+    "it:t": "Thailandia",
+    "es": "Samut Songkhram",
+    "es:t": "Tailandia",
+    "de": "Samut Songkhram",
+    "de:t": "Thailand"
+  },
+  {
+    "en": "San Kamphaeng",
+    "en:t": "Thailand",
+    "a": true,
+    "g": {
+      "lat": 18.7477,
+      "lon": 99.1197
+    },
+    "it": "San Kamphaeng",
+    "it:t": "Thailandia",
+    "es": "San Kamphaeng",
+    "es:t": "Thailandia",
+    "de": "San Kamphaeng",
+    "de:t": "Thailandia"
+  },
+  {
+    "en": "San Pa Tong",
+    "en:t": "Thailand | Chiang Mai",
+    "a": true,
+    "g": {
+      "lat": 18.6286,
+      "lon": 98.8958
+    },
+    "it": "San Pa Tong",
+    "it:t": "Thailandia | Chiang Mai",
+    "es": "San Pa Tong",
+    "es:t": "Tailandia | Chiang Mai",
+    "de": "San Pa Tong",
+    "de:t": "Thailand | Chiang Mai"
+  },
+  {
+    "en": "Saraburi",
+    "en:t": "Thailand",
+    "a": true,
+    "g": {
+      "lat": 14.5289,
+      "lon": 100.9101
+    },
+    "it": "Saraburi",
+    "it:t": "Thailandia",
+    "es": "Saraburi",
+    "es:t": "Tailandia",
+    "de": "Saraburi",
+    "de:t": "Thailand"
+  },
+  {
+    "en": "Sattahip",
+    "en:t": "Thailand",
+    "a": true,
+    "g": {
+      "lat": 12.6737,
+      "lon": 100.8954
+    },
+    "it": "Sattahip",
+    "it:t": "Thailandia",
+    "es": "Sattahip",
+    "es:t": "Thailandia",
+    "de": "Sattahip",
+    "de:t": "Thailandia"
+  },
+  {
+    "en": "Satun",
+    "en:t": "Thailand",
+    "a": true,
+    "g": {
+      "lat": 6.6238,
+      "lon": 100.0674
+    },
+    "it": "Satun",
+    "it:t": "Thailandia",
+    "es": "Satun",
+    "es:t": "Tailandia",
+    "de": "Satun",
+    "de:t": "Thailand"
+  },
+  {
+    "en": "Sawang Daen Din",
+    "en:t": "Thailand",
+    "a": true,
+    "g": {
+      "lat": 17.4556,
+      "lon": 103.4627
+    },
+    "it": "Sawang Daen Din",
+    "it:t": "Thailandia",
+    "es": "Sawang Daen Din",
+    "es:t": "Thailandia",
+    "de": "Sawang Daen Din",
+    "de:t": "Thailandia"
+  },
+  {
+    "en": "Sawankhalok",
+    "en:t": "Thailand | Sukhothai",
+    "a": true,
+    "g": {
+      "lat": 17.2836,
+      "lon": 99.8571
+    },
+    "it": "Sawankhalok",
+    "it:t": "Thailandia | Sukhothai",
+    "es": "Sawankhalok",
+    "es:t": "Tailandia | Sukhothai",
+    "de": "Sawankhalok",
+    "de:t": "Thailand | Sukhothai"
+  },
+  {
+    "en": "Seka",
+    "en:t": "Thailand",
+    "a": true,
+    "g": {
+      "lat": 17.9898,
+      "lon": 103.9376
+    },
+    "it": "Seka",
+    "it:t": "Thailandia",
+    "es": "Seka",
+    "es:t": "Thailandia",
+    "de": "Seka",
+    "de:t": "Thailandia"
+  },
+  {
+    "en": "Si Racha",
+    "en:t": "Thailand",
+    "a": true,
+    "g": {
+      "lat": 13.1663,
+      "lon": 100.9314
+    },
+    "it": "Si Racha",
+    "it:t": "Thailandia",
+    "es": "Si Racha",
+    "es:t": "Thailandia",
+    "de": "Si Racha",
+    "de:t": "Thailandia"
+  },
+  {
+    "en": "Si Racha",
+    "en:t": "Thailand | Bueng",
+    "a": true,
+    "g": {
+      "lat": 13.0742,
+      "lon": 101.0085
+    },
+    "it": "Si Racha",
+    "it:t": "Thailandia | Bueng",
+    "es": "Si Racha",
+    "es:t": "Tailandia | Bueng",
+    "de": "Si Racha",
+    "de:t": "Thailand | Bueng"
+  },
+  {
+    "en": "Si Sa Ket",
+    "en:t": "Thailand",
+    "a": true,
+    "g": {
+      "lat": 15.1186,
+      "lon": 104.322
+    },
+    "it": "Sisaket",
+    "it:t": "Thailandia",
+    "es": "Sisaket",
+    "es:t": "Tailandia",
+    "de": "Sisaket",
+    "de:t": "Thailand"
+  },
+  {
+    "en": "Si Satchanalai",
+    "en:t": "Thailand",
+    "a": true,
+    "g": {
+      "lat": 17.4161,
+      "lon": 99.779
+    },
+    "it": "Si Satchanalai",
+    "it:t": "Thailandia",
+    "es": "Si Satchanalai",
+    "es:t": "Thailandia",
+    "de": "Si Satchanalai",
+    "de:t": "Thailandia"
+  },
+  {
+    "en": "Sikhio",
+    "en:t": "Thailand | Nakhon Ratchasima",
+    "a": true,
+    "g": {
+      "lat": 15.0716,
+      "lon": 101.5775
+    },
+    "it": "Sikhio",
+    "it:t": "Thailandia | Nakhon Ratchasima",
+    "es": "Sikhio",
+    "es:t": "Tailandia | Nakhon Ratchasima",
+    "de": "Sikhio",
+    "de:t": "Thailand | Nakhon Ratchasima"
+  },
+  {
+    "en": "Sing Buri",
+    "en:t": "Thailand",
+    "a": true,
+    "g": {
+      "lat": 14.8936,
+      "lon": 100.3967
+    },
+    "it": "Singburi",
+    "it:t": "Thailandia",
+    "es": "Sing Buri",
+    "es:t": "Tailandia",
+    "de": "Singburi",
+    "de:t": "Thailand"
+  },
+  {
+    "en": "Sing Buri",
+    "en:t": "Thailand",
+    "a": true,
+    "g": {
+      "lat": 14.8936,
+      "lon": 100.3967
+    },
+    "it": "Sing Buri",
+    "it:t": "Thailandia",
+    "es": "Sing Buri",
+    "es:t": "Tailandia",
+    "de": "Sing Buri",
+    "de:t": "Thailand"
+  },
+  {
+    "en": "Songkhla",
+    "en:t": "Thailand | Mueang Songkhla",
+    "a": true,
+    "g": {
+      "lat": 7.1898,
+      "lon": 100.5954
+    },
+    "it": "Songkhla",
+    "it:t": "Thailandia | Mueang Songkhla",
+    "es": "Songkhla",
+    "es:t": "Tailandia | Mueang Songkhla",
+    "de": "Songkhla",
+    "de:t": "Thailand | Mueang Songkhla"
+  },
+  {
+    "en": "Su-ngai Kolok",
+    "en:t": "Thailand",
+    "a": true,
+    "g": {
+      "lat": 6.0151,
+      "lon": 101.9519
+    },
+    "it": "Su-ngai Kolok",
+    "it:t": "Thailandia",
+    "es": "Su-ngai Kolok",
+    "es:t": "Thailandia",
+    "de": "Su-ngai Kolok",
+    "de:t": "Thailandia"
+  },
+  {
+    "en": "Suphan Buri",
+    "en:t": "Thailand",
+    "a": true,
+    "g": {
+      "lat": 14.4745,
+      "lon": 100.1177
+    },
+    "it": "Suphanburi",
+    "it:t": "Thailandia",
+    "es": "Suphanburi",
+    "es:t": "Tailandia",
+    "de": "Suphanburi",
+    "de:t": "Thailand"
+  },
+  {
+    "en": "Surat Thani",
+    "en:t": "Thailand | Mueang Surat Thani",
+    "a": true,
+    "g": {
+      "lat": 9.1342,
+      "lon": 99.3334
+    },
+    "it": "Surat Thani",
+    "it:t": "Thailandia | Mueang Surat Thani",
+    "es": "Surat Thani",
+    "es:t": "Tailandia | Mueang Surat Thani",
+    "de": "Surat Thani",
+    "de:t": "Thailand | Mueang Surat Thani"
+  },
+  {
+    "en": "Surin",
+    "en:t": "Thailand",
+    "a": true,
+    "g": {
+      "lat": 14.8829,
+      "lon": 103.4937
+    },
+    "it": "Surin",
+    "it:t": "Thailandia",
+    "es": "Surin",
+    "es:t": "Tailandia",
+    "de": "Surin",
+    "de:t": "Thailand"
+  },
+  {
+    "en": "Tak",
+    "en:t": "Thailand",
+    "a": true,
+    "g": {
+      "lat": 16.884,
+      "lon": 99.1258
+    },
+    "it": "Tak",
+    "it:t": "Thailandia",
+    "es": "Tak",
+    "es:t": "Tailandia",
+    "de": "Tak",
+    "de:t": "Thailand"
+  },
+  {
+    "en": "Tak Bai",
+    "en:t": "Thailand | Narathiwat",
+    "a": true,
+    "g": {
+      "lat": 6.2479,
+      "lon": 102.0033
+    },
+    "it": "Tak Bai",
+    "it:t": "Thailandia | Narathiwat",
+    "es": "Tak Bai",
+    "es:t": "Tailandia | Narathiwat",
+    "de": "Tak Bai",
+    "de:t": "Thailand | Narathiwat"
+  },
+  {
+    "en": "Talat Yai",
+    "en:t": "Thailand | Mueang Phuket",
+    "a": true,
+    "g": {
+      "lat": 7.8886,
+      "lon": 98.3938
+    },
+    "it": "Talat Yai",
+    "it:t": "Thailandia | Mueang Phuket",
+    "es": "Talat Yai",
+    "es:t": "Tailandia | Mueang Phuket",
+    "de": "Talat Yai",
+    "de:t": "Thailand | Mueang Phuket"
+  },
+  {
+    "en": "Taphan Hin",
+    "en:t": "Thailand",
+    "a": true,
+    "g": {
+      "lat": 16.2154,
+      "lon": 100.4256
+    },
+    "it": "Taphan Hin",
+    "it:t": "Thailandia",
+    "es": "Taphan Hin",
+    "es:t": "Thailandia",
+    "de": "Taphan Hin",
+    "de:t": "Thailandia"
+  },
+  {
+    "en": "Tha Bo",
+    "en:t": "Thailand",
+    "a": true,
+    "g": {
+      "lat": 17.8111,
+      "lon": 102.57
+    },
+    "it": "Tha Bo",
+    "it:t": "Thailandia",
+    "es": "Tha Bo",
+    "es:t": "Thailandia",
+    "de": "Tha Bo",
+    "de:t": "Thailandia"
+  },
+  {
+    "en": "Tha Kham",
+    "en:t": "Thailand | Phunphin",
+    "a": true,
+    "g": {
+      "lat": 9.1075,
+      "lon": 99.2334
+    },
+    "it": "Tha Kham",
+    "it:t": "Thailandia | Phunphin",
+    "es": "Phunphin",
+    "es:t": "Tailandia | Surat Thani",
+    "de": "Tha Kham",
+    "de:t": "Thailand | Phunphin"
+  },
+  {
+    "en": "Tha Mai",
+    "en:t": "Thailand",
+    "a": true,
+    "g": {
+      "lat": 12.6207,
+      "lon": 102.01
+    },
+    "it": "Tha Mai",
+    "it:t": "Thailandia",
+    "es": "Tha Mai",
+    "es:t": "Thailandia",
+    "de": "Tha Mai",
+    "de:t": "Thailandia"
+  },
+  {
+    "en": "Tha Maka",
+    "en:t": "Thailand | Kanchanaburi",
+    "a": true,
+    "g": {
+      "lat": 13.9257,
+      "lon": 99.7902
+    },
+    "it": "Tha Maka",
+    "it:t": "Thailandia | Tha Maka",
+    "es": "Tha Maka",
+    "es:t": "Tailandia | Tha Maka",
+    "de": "Tha Maka",
+    "de:t": "Thailand | Tha Maka"
+  },
+  {
+    "en": "Tha Muang",
+    "en:t": "Thailand | Kanchanaburi",
+    "a": true,
+    "g": {
+      "lat": 13.8649,
+      "lon": 99.5896
+    },
+    "it": "Tha Muang",
+    "it:t": "Thailandia | Kanchanaburi",
+    "es": "Tha Muang",
+    "es:t": "Tailandia | Kanchanaburi",
+    "de": "Tha Muang",
+    "de:t": "Thailand | Kanchanaburi"
+  },
+  {
+    "en": "Tha Ruea",
+    "en:t": "Thailand",
+    "a": true,
+    "g": {
+      "lat": 14.56,
+      "lon": 100.7239
+    },
+    "it": "Tha Ruea",
+    "it:t": "Thailandia",
+    "es": "Tha Ruea",
+    "es:t": "Thailandia",
+    "de": "Tha Ruea",
+    "de:t": "Thailandia"
+  },
+  {
+    "en": "Tha Yang",
+    "en:t": "Thailand",
+    "a": true,
+    "g": {
+      "lat": 12.9714,
+      "lon": 99.8992
+    },
+    "it": "Tha Yang",
+    "it:t": "Thailandia",
+    "es": "Tha Yang",
+    "es:t": "Thailandia",
+    "de": "Tha Yang",
+    "de:t": "Thailandia"
+  },
+  {
+    "en": "Thani",
+    "en:t": "Thailand | Mueang Sukhothai",
+    "a": true,
+    "g": {
+      "lat": 17.0076,
+      "lon": 99.8264
+    },
+    "it": "Sukhothai",
+    "it:t": "Thailandia | Mueang Sukhothai",
+    "es": "Sukhothai",
+    "es:t": "Tailandia | Mueang Sukhothai",
+    "de": "Sukhothai",
+    "de:t": "Thailand | Mueang Sukhothai"
+  },
+  {
+    "en": "Thap Khlo",
+    "en:t": "Thailand",
+    "a": true,
+    "g": {
+      "lat": 16.1883,
+      "lon": 100.5634
+    },
+    "it": "Thap Khlo",
+    "it:t": "Thailandia",
+    "es": "Thap Khlo",
+    "es:t": "Thailandia",
+    "de": "Thap Khlo",
+    "de:t": "Thailandia"
+  },
+  {
+    "en": "Thap Than",
+    "en:t": "Thailand",
+    "a": true,
+    "g": {
+      "lat": 15.4602,
+      "lon": 99.8962
+    },
+    "it": "Thap Than",
+    "it:t": "Thailandia",
+    "es": "Thap Than",
+    "es:t": "Thailandia",
+    "de": "Thap Than",
+    "de:t": "Thailandia"
+  },
+  {
+    "en": "Thoen",
+    "en:t": "Thailand | Lampang",
+    "a": true,
+    "g": {
+      "lat": 17.5455,
+      "lon": 99.2786
+    },
+    "it": "Thoen",
+    "it:t": "Thailandia | Lampang",
+    "es": "Thoen",
+    "es:t": "Tailandia | Lampang",
+    "de": "Thoen",
+    "de:t": "Thailand | Lampang"
+  },
+  {
+    "en": "Thung Song",
+    "en:t": "Thailand | Nakhon Si Thammarat",
+    "a": true,
+    "g": {
+      "lat": 8.1587,
+      "lon": 99.674
+    },
+    "it": "Thung Song",
+    "it:t": "Thailandia | Nakhon Si Thammarat",
+    "es": "Thung Song",
+    "es:t": "Tailandia | Nakhon Si Thammarat",
+    "de": "Thung Song",
+    "de:t": "Thailand | Nakhon Si Thammarat"
+  },
+  {
+    "en": "Trang",
+    "en:t": "Thailand | Mueang Trang",
+    "a": true,
+    "g": {
+      "lat": 7.5645,
+      "lon": 99.6239
+    },
+    "it": "Trang",
+    "it:t": "Thailandia | Mueang Trang",
+    "es": "Trang",
+    "es:t": "Tailandia | Mueang Trang",
+    "de": "Trang",
+    "de:t": "Thailand | Mueang Trang"
+  },
+  {
+    "en": "Trat",
+    "en:t": "Thailand",
+    "a": true,
+    "g": {
+      "lat": 12.2428,
+      "lon": 102.5175
+    },
+    "it": "Trat",
+    "it:t": "Thailandia",
+    "es": "Trat",
+    "es:t": "Tailandia",
+    "de": "Trat",
+    "de:t": "Thailand"
+  },
+  {
+    "en": "Ubon Ratchathani",
+    "en:t": "Thailand | Mueang Ubon Ratchathani",
+    "a": true,
+    "g": {
+      "lat": 15.2448,
+      "lon": 104.8473
+    },
+    "it": "Ubon Ratchathani",
+    "it:t": "Thailandia | Mueang Ubon Ratchathani",
+    "es": "Ubon Ratchathani",
+    "es:t": "Tailandia | Mueang Ubon Ratchathani",
+    "de": "Ubon Ratchathani",
+    "de:t": "Thailand | Mueang Ubon Ratchathani"
+  },
+  {
+    "en": "Udon Thani",
+    "en:t": "Thailand | Mueang Udon Thani",
+    "a": true,
+    "g": {
+      "lat": 17.3647,
+      "lon": 102.8159
+    },
+    "it": "Udon Thani",
+    "it:t": "Thailandia | Mueang Udon Thani",
+    "es": "Udon Thani",
+    "es:t": "Tailandia | Mueang Udon Thani",
+    "de": "Udon Thani",
+    "de:t": "Thailand | Mueang Udon Thani"
+  },
+  {
+    "en": "Uthai Thani",
+    "en:t": "Thailand",
+    "a": true,
+    "g": {
+      "lat": 15.3835,
+      "lon": 100.0246
+    },
+    "it": "Uthai Thani",
+    "it:t": "Thailandia",
+    "es": "Uthai Thani",
+    "es:t": "Tailandia",
+    "de": "Uthai Thani",
+    "de:t": "Thailand"
+  },
+  {
+    "en": "Uttaradit",
+    "en:t": "Thailand",
+    "a": true,
+    "g": {
+      "lat": 17.6201,
+      "lon": 100.0993
+    },
+    "it": "Uttaradit",
+    "it:t": "Thailandia",
+    "es": "Uttaradit",
+    "es:t": "Tailandia",
+    "de": "Uttaradit",
+    "de:t": "Thailand"
+  },
+  {
+    "en": "Wang Nam Yen",
+    "en:t": "Thailand",
+    "a": true,
+    "g": {
+      "lat": 13.5109,
+      "lon": 102.1747
+    },
+    "it": "Wang Nam Yen",
+    "it:t": "Thailandia",
+    "es": "Wang Nam Yen",
+    "es:t": "Thailandia",
+    "de": "Wang Nam Yen",
+    "de:t": "Thailandia"
+  },
+  {
+    "en": "Wang Noi",
+    "en:t": "Thailand",
+    "a": true,
+    "g": {
+      "lat": 14.2263,
+      "lon": 100.7273
+    },
+    "it": "Wang Noi",
+    "it:t": "Thailandia",
+    "es": "Wang Noi",
+    "es:t": "Thailandia",
+    "de": "Wang Noi",
+    "de:t": "Thailandia"
+  },
+  {
+    "en": "Wang Saphung",
+    "en:t": "Thailand",
+    "a": true,
+    "g": {
+      "lat": 17.3099,
+      "lon": 101.741
+    },
+    "it": "Wang Saphung",
+    "it:t": "Thailandia",
+    "es": "Wang Saphung",
+    "es:t": "Thailandia",
+    "de": "Wang Saphung",
+    "de:t": "Thailandia"
+  },
+  {
+    "en": "Warin Chamrap",
+    "en:t": "Thailand",
+    "a": true,
+    "g": {
+      "lat": 15.1959,
+      "lon": 104.8654
+    },
+    "it": "Warin Chamrap",
+    "it:t": "Thailandia",
+    "es": "Warin Chamrap",
+    "es:t": "Thailandia",
+    "de": "Warin Chamrap",
+    "de:t": "Thailandia"
+  },
+  {
+    "en": "Wichian Buri",
+    "en:t": "Thailand | Phetchabun",
+    "a": true,
+    "g": {
+      "lat": 15.6568,
+      "lon": 101.1068
+    },
+    "it": "Wichian Buri",
+    "it:t": "Thailandia | Phetchabun",
+    "es": "Wichian Buri",
+    "es:t": "Tailandia | Phetchabun",
+    "de": "Wichian Buri",
+    "de:t": "Thailand | Phetchabun"
+  },
+  {
+    "en": "Wichit",
+    "en:t": "Thailand | Mueang Phuket",
+    "a": true,
+    "g": {
+      "lat": 7.8473,
+      "lon": 98.3823
+    },
+    "it": "Wichit",
+    "it:t": "Thailandia | Mueang Phuket",
+    "es": "Wichit",
+    "es:t": "Tailandia | Mueang Phuket",
+    "de": "Wichit",
+    "de:t": "Thailand | Mueang Phuket"
+  },
+  {
+    "en": "Wiset Chai Chan",
+    "en:t": "Thailand | Ang Thong",
+    "a": true,
+    "g": {
+      "lat": 14.5463,
+      "lon": 100.3273
+    },
+    "it": "Wiset Chai Chan",
+    "it:t": "Thailandia | Ang Thong",
+    "es": "Wiset Chai Chan",
+    "es:t": "Tailandia | Ang Thong",
+    "de": "Wiset Chai Chan",
+    "de:t": "Thailand | Ang Thong"
+  },
+  {
+    "en": "Yala",
+    "en:t": "Thailand | Sateng",
+    "a": true,
+    "g": {
+      "lat": 6.5411,
+      "lon": 101.2804
+    },
+    "it": "Yala",
+    "it:t": "Thailandia | Sateng",
+    "es": "Yala",
+    "es:t": "Tailandia | Sateng",
+    "de": "Yala",
+    "de:t": "Thailand | Sateng"
+  },
+  {
+    "en": "Yaring",
+    "en:t": "Thailand | Pattani",
+    "a": true,
+    "g": {
+      "lat": 6.8281,
+      "lon": 101.3885
+    },
+    "it": "Yaring",
+    "it:t": "Thailandia | Pattani",
+    "es": "Yaring",
+    "es:t": "Tailandia | Pattani",
+    "de": "Yaring",
+    "de:t": "Thailand | Pattani"
+  },
+  {
+    "en": "Yasothon",
+    "en:t": "Thailand",
+    "a": true,
+    "g": {
+      "lat": 15.7926,
+      "lon": 104.1453
+    },
+    "it": "Yasothon",
+    "it:t": "Thailandia",
+    "es": "Yasothon",
+    "es:t": "Tailandia",
+    "de": "Yasothon",
+    "de:t": "Thailand"
+  }
+]

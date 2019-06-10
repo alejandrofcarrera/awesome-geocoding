@@ -1,0 +1,497 @@
+[
+    {
+        "en": "Ashburton",
+        "en:t": "New Zealand | Canterbury",
+        "a": true,
+        "g": {
+            "lat": -43.9084,
+            "lon": 171.7486
+        },
+        "it": "Ashburton",
+        "it:t": "Nuova Zelanda | Canterbury",
+        "es": "Ashburton",
+        "es:t": "Nueva Zelanda | Canterbury",
+        "de": "Ashburton",
+        "de:t": "Neuseeland | Canterbury"
+    },
+    {
+        "en": "Auckland",
+        "en:t": "New Zealand",
+        "a": true,
+        "g": {
+            "lat": -36.8485,
+            "lon": 174.7633
+        },
+        "it": "Auckland",
+        "it:t": "Nuova Zelanda",
+        "es": "Auckland",
+        "es:t": "Nueva Zelanda",
+        "de": "Auckland",
+        "de:t": "Neuseeland"
+    },
+    {
+        "en": "Blenheim",
+        "en:t": "New Zealand | Marlborough",
+        "a": true,
+        "g": {
+            "lat": -41.5134,
+            "lon": 173.9612
+        },
+        "it": "Blenheim",
+        "it:t": "Nuova Zelanda | Marlborough",
+        "es": "Blenheim",
+        "es:t": "Nueva Zelanda | Marlborough",
+        "de": "Blenheim",
+        "de:t": "Neuseeland | Marlborough"
+    },
+    {
+        "en": "Cambridge",
+        "en:t": "New Zealand | Waikato",
+        "a": true,
+        "g": {
+            "lat": -37.8911,
+            "lon": 175.4672
+        },
+        "it": "Cambridge",
+        "it:t": "Nuova Zelanda | Waikato",
+        "es": "Cambridge",
+        "es:t": "Nueva Zelanda | Waikato",
+        "de": "Cambridge",
+        "de:t": "Neuseeland | Waikato"
+    },
+    {
+        "en": "Christchurch",
+        "en:t": "New Zealand | Canterbury",
+        "a": true,
+        "g": {
+            "lat": -43.5321,
+            "lon": 172.6362
+        },
+        "it": "Christchurch",
+        "it:t": "Nuova Zelanda | Canterbury",
+        "es": "Christchurch",
+        "es:t": "Nueva Zelanda | Canterbury",
+        "de": "Christchurch",
+        "de:t": "Neuseeland | Canterbury"
+    },
+    {
+        "en": "Dunedin",
+        "en:t": "New Zealand | Otago",
+        "a": true,
+        "g": {
+            "lat": -45.8788,
+            "lon": 170.5028
+        },
+        "it": "Dunedin",
+        "it:t": "Nuova Zelanda | Otago",
+        "es": "Dunedin",
+        "es:t": "Nueva Zelanda | Otago",
+        "de": "Dunedin",
+        "de:t": "Neuseeland | Otago"
+    },
+    {
+        "en": "Gisborne",
+        "en:t": "New Zealand",
+        "a": true,
+        "g": {
+            "lat": -38.6623,
+            "lon": 178.0176
+        },
+        "it": "Gisborne",
+        "it:t": "Nuova Zelanda",
+        "es": "Gisborne",
+        "es:t": "Nueva Zelanda",
+        "de": "Gisborne",
+        "de:t": "Neuseeland"
+    },
+    {
+        "en": "Hamilton",
+        "en:t": "New Zealand | Waikato",
+        "a": true,
+        "g": {
+            "lat": -37.787,
+            "lon": 175.2793
+        },
+        "it": "Hamilton",
+        "it:t": "Nuova Zelanda | Waikato",
+        "es": "Hamilton",
+        "es:t": "Nueva Zelanda | Waikato",
+        "de": "Hamilton",
+        "de:t": "Neuseeland | Waikato"
+    },
+    {
+        "en": "Hastings",
+        "en:t": "New Zealand | Hawke's Bay",
+        "a": true,
+        "g": {
+            "lat": -39.6396,
+            "lon": 176.8392
+        },
+        "it": "Hastings",
+        "it:t": "Nuova Zelanda | Hawke's Bay",
+        "es": "Hastings",
+        "es:t": "Nueva Zelanda | Hawke's Bay",
+        "de": "Hastings",
+        "de:t": "Neuseeland | Hawke's Bay"
+    },
+    {
+        "en": "Invercargill",
+        "en:t": "New Zealand | Southland",
+        "a": true,
+        "g": {
+            "lat": -46.4132,
+            "lon": 168.3538
+        },
+        "it": "Invercargill",
+        "it:t": "Nuova Zelanda | Southland",
+        "es": "Invercargill",
+        "es:t": "Nueva Zelanda | Southland",
+        "de": "Invercargill",
+        "de:t": "Neuseeland | Southland"
+    },
+    {
+        "en": "Levin",
+        "en:t": "New Zealand | Manawatu-Wanganui",
+        "a": true,
+        "g": {
+            "lat": -40.6222,
+            "lon": 175.2862
+        },
+        "it": "Levin",
+        "it:t": "Nuova Zelanda | Manawatu-Wanganui",
+        "es": "Levin",
+        "es:t": "Nueva Zelanda | Manawatu-Wanganui",
+        "de": "Levin",
+        "de:t": "Neuseeland | Manawatu-Wanganui"
+    },
+    {
+        "en": "Lower Hutt",
+        "en:t": "New Zealand | Wellington",
+        "a": true,
+        "g": {
+            "lat": -41.2092,
+            "lon": 174.9081
+        },
+        "it": "Lower Hutt",
+        "it:t": "Nuova Zelanda | Wellington",
+        "es": "Lower Hutt",
+        "es:t": "Nueva Zelanda | Wellington",
+        "de": "Lower Hutt",
+        "de:t": "Neuseeland | Wellington"
+    },
+    {
+        "en": "Mangere",
+        "en:t": "New Zealand | Auckland",
+        "a": true,
+        "g": {
+            "lat": -36.9686,
+            "lon": 174.7937
+        },
+        "it": "Mangere",
+        "it:t": "Nuova Zelanda | Auckland",
+        "es": "Mangere",
+        "es:t": "Nueva Zelanda | Auckland",
+        "de": "Mangere",
+        "de:t": "Neuseeland | Auckland"
+    },
+    {
+        "en": "Manukau",
+        "en:t": "New Zealand | Auckland",
+        "a": true,
+        "g": {
+            "lat": -36.9941,
+            "lon": 174.8727
+        },
+        "it": "Manukau",
+        "it:t": "Nuova Zelanda | Auckland",
+        "es": "Manukau",
+        "es:t": "Nueva Zelanda | Auckland",
+        "de": "Manukau",
+        "de:t": "Neuseeland | Auckland"
+    },
+    {
+        "en": "Napier",
+        "en:t": "New Zealand | Hawke's Bay",
+        "a": true,
+        "g": {
+            "lat": -39.4928,
+            "lon": 176.912
+        },
+        "it": "Napier",
+        "it:t": "Nuova Zelanda | Hawke's Bay",
+        "es": "Napier",
+        "es:t": "Nueva Zelanda | Hawke's Bay",
+        "de": "Napier",
+        "de:t": "Neuseeland | Hawke's Bay"
+    },
+    {
+        "en": "Nelson",
+        "en:t": "New Zealand",
+        "a": true,
+        "g": {
+            "lat": -41.2706,
+            "lon": 173.284
+        },
+        "it": "Nelson",
+        "it:t": "Nuova Zelanda",
+        "es": "Nelson",
+        "es:t": "Nueva Zelanda",
+        "de": "Nelson",
+        "de:t": "Neuseeland"
+    },
+    {
+        "en": "New Plymouth",
+        "en:t": "New Zealand | Taranaki",
+        "a": true,
+        "g": {
+            "lat": -39.0556,
+            "lon": 174.0752
+        },
+        "it": "New Plymouth",
+        "it:t": "Nuova Zelanda | Taranaki",
+        "es": "Nueva Plymouth",
+        "es:t": "Nueva Zelanda | Taranaki",
+        "de": "New Plymouth",
+        "de:t": "Neuseeland | Taranaki"
+    },
+    {
+        "en": "North Shore",
+        "en:t": "New Zealand | Hauraki",
+        "a": true,
+        "g": {
+            "lat": -36.7965,
+            "lon": 174.766
+        },
+        "it": "North Shore",
+        "it:t": "Nuova Zelanda | Hauraki",
+        "es": "North Shore",
+        "es:t": "Nueva Zelanda | Hauraki",
+        "de": "North Shore",
+        "de:t": "Neuseeland | Hauraki"
+    },
+    {
+        "en": "Palmerston North",
+        "en:t": "New Zealand | Manawatu-Wanganui",
+        "a": true,
+        "g": {
+            "lat": -40.3523,
+            "lon": 175.6082
+        },
+        "it": "Palmerston North",
+        "it:t": "Nuova Zelanda | Manawatu-Wanganui",
+        "es": "Palmerston North",
+        "es:t": "Nueva Zelanda | Manawatu-Wanganui",
+        "de": "Palmerston Nord",
+        "de:t": "Neuseeland | Manawatu-Wanganui"
+    },
+    {
+        "en": "Papakura",
+        "en:t": "New Zealand",
+        "a": true,
+        "g": {
+            "lat": -37.0677,
+            "lon": 174.9436
+        },
+        "it": "Papakura",
+        "it:t": "Nuova Zelanda",
+        "es": "Papakura",
+        "es:t": "Nueva Zelanda",
+        "de": "Papakura",
+        "de:t": "Neuseeland"
+    },
+    {
+        "en": "Porirua",
+        "en:t": "New Zealand | Wellington",
+        "a": true,
+        "g": {
+            "lat": -41.1351,
+            "lon": 174.8391
+        },
+        "it": "Porirua",
+        "it:t": "Nuova Zelanda | Wellington",
+        "es": "Porirua",
+        "es:t": "Nueva Zelanda | Wellington",
+        "de": "Porirua",
+        "de:t": "Neuseeland | Wellington"
+    },
+    {
+        "en": "Pukekohe East",
+        "en:t": "New Zealand | Auckland",
+        "a": true,
+        "g": {
+            "lat": -37.1955,
+            "lon": 174.9498
+        },
+        "it": "Pukekohe",
+        "it:t": "Nuova Zelanda | Auckland",
+        "es": "Pukekohe",
+        "es:t": "Nueva Zelanda | Auckland",
+        "de": "Pukekohe East",
+        "de:t": "Neuseeland | Auckland"
+    },
+    {
+        "en": "Rotorua",
+        "en:t": "New Zealand | Bay Of Plenty",
+        "a": true,
+        "g": {
+            "lat": -38.1368,
+            "lon": 176.2497
+        },
+        "it": "Rotorua",
+        "it:t": "Nuova Zelanda | Bay Of Plenty",
+        "es": "Rotorua",
+        "es:t": "Nueva Zelanda | Bay Of Plenty",
+        "de": "Rotorua",
+        "de:t": "Neuseeland | Bay of Plenty"
+    },
+    {
+        "en": "Taradale",
+        "en:t": "New Zealand | Napier",
+        "a": true,
+        "g": {
+            "lat": -39.5366,
+            "lon": 176.8492
+        },
+        "it": "Taradale",
+        "it:t": "Nuova Zelanda | Napier",
+        "es": "Taradale",
+        "es:t": "Nueva Zelanda | Napier",
+        "de": "Taradale",
+        "de:t": "Neuseeland | Napier"
+    },
+    {
+        "en": "Taupo",
+        "en:t": "New Zealand | Waikato",
+        "a": true,
+        "g": {
+            "lat": -38.6857,
+            "lon": 176.0702
+        },
+        "it": "Taupo",
+        "it:t": "Nuova Zelanda | Waikato",
+        "es": "Taupo",
+        "es:t": "Nueva Zelanda | Waikato",
+        "de": "Taupo",
+        "de:t": "Neuseeland | Waikato"
+    },
+    {
+        "en": "Tauranga",
+        "en:t": "New Zealand | Bay Of Plenty",
+        "a": true,
+        "g": {
+            "lat": -37.6878,
+            "lon": 176.1651
+        },
+        "it": "Tauranga",
+        "it:t": "Nuova Zelanda | Bay Of Plenty",
+        "es": "Tauranga",
+        "es:t": "Nueva Zelanda | Bay Of Plenty",
+        "de": "Tauranga",
+        "de:t": "Neuseeland | Bay of Plenty"
+    },
+    {
+        "en": "Timaru",
+        "en:t": "New Zealand | Canterbury",
+        "a": true,
+        "g": {
+            "lat": -44.397,
+            "lon": 171.255
+        },
+        "it": "Timaru",
+        "it:t": "Nuova Zelanda | Canterbury",
+        "es": "Timaru",
+        "es:t": "Nueva Zelanda | Canterbury",
+        "de": "Timaru",
+        "de:t": "Neuseeland | Canterbury"
+    },
+    {
+        "en": "Upper Hutt",
+        "en:t": "New Zealand",
+        "a": true,
+        "g": {
+            "lat": -41.1244,
+            "lon": 175.0708
+        },
+        "it": "Upper Hutt",
+        "it:t": "Nuova Zelanda",
+        "es": "Upper Hutt",
+        "es:t": "Nueva Zelanda",
+        "de": "Upper Hutt",
+        "de:t": "Neuseeland"
+    },
+    {
+        "en": "Waitakere",
+        "en:t": "New Zealand | Auckland",
+        "a": true,
+        "g": {
+            "lat": -36.8504,
+            "lon": 174.5425
+        },
+        "it": "Waitakere",
+        "it:t": "Nuova Zelanda | Auckland",
+        "es": "Waitakere",
+        "es:t": "Nueva Zelanda | Auckland",
+        "de": "Waitakere",
+        "de:t": "Neuseeland | Auckland"
+    },
+    {
+        "en": "Wellington",
+        "en:t": "New Zealand",
+        "a": true,
+        "g": {
+            "lat": -41.2865,
+            "lon": 174.7762
+        },
+        "it": "Wellington",
+        "it:t": "Nuova Zelanda",
+        "es": "Wellington",
+        "es:t": "Nueva Zelanda",
+        "de": "Wellington",
+        "de:t": "Neuseeland"
+    },
+    {
+        "en": "Whakatane",
+        "en:t": "New Zealand | Bay Of Plenty",
+        "a": true,
+        "g": {
+            "lat": -37.9534,
+            "lon": 176.9908
+        },
+        "it": "Whakatane",
+        "it:t": "Nuova Zelanda | Bay Of Plenty",
+        "es": "Whakatane",
+        "es:t": "Nueva Zelanda | Bay Of Plenty",
+        "de": "Whakatane",
+        "de:t": "Neuseeland | Bay of Plenty"
+    },
+    {
+        "en": "Whanganui",
+        "en:t": "New Zealand",
+        "a": true,
+        "g": {
+            "lat": -39.9301,
+            "lon": 175.0479
+        },
+        "it": "Wanganui",
+        "it:t": "Nuova Zelanda",
+        "es": "Manawatu-Wanganui",
+        "es:t": "Nueva Zelanda",
+        "de": "Wanganui",
+        "de:t": "Neuseeland"
+    },
+    {
+        "en": "Whangarei",
+        "en:t": "New Zealand | Northland",
+        "a": true,
+        "g": {
+            "lat": -35.7251,
+            "lon": 174.3237
+        },
+        "it": "Whangarei",
+        "it:t": "Nuova Zelanda | Northland",
+        "es": "Whangarei",
+        "es:t": "Nueva Zelanda | Northland",
+        "de": "Whangarei",
+        "de:t": "Neuseeland | Northland"
+    }
+]

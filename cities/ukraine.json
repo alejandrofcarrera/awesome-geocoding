@@ -1,0 +1,2612 @@
+[
+  {
+    "en": "Alchevs'k",
+    "en:t": "Ukraine | Alchevs",
+    "a": true,
+    "g": {
+      "lat": 48.4713,
+      "lon": 38.8134
+    },
+    "it": "Alčevs'k",
+    "it:t": "Ucraina | Alchevs",
+    "es": "Alchevsk",
+    "es:t": "Ucrania | Alchevs",
+    "de": "Altschewsk",
+    "de:t": "Ukraine | Alchevs"
+  },
+  {
+    "en": "Alushta",
+    "en:t": "Ukraine",
+    "a": true,
+    "g": {
+      "lat": 44.6764,
+      "lon": 34.41
+    },
+    "it": "Alušta",
+    "it:t": "Ucraina",
+    "es": "Alushta",
+    "es:t": "Ucrania",
+    "de": "Aluschta",
+    "de:t": "Ukraine"
+  },
+  {
+    "en": "Amvrosiivka",
+    "en:t": "Ukraine | Amvrosiivs'kyi",
+    "a": true,
+    "g": {
+      "lat": 47.8018,
+      "lon": 38.4885
+    },
+    "it": "Amvrosiïvka",
+    "it:t": "Ucraina | Amvrosiïvka",
+    "es": "Amvrosivka",
+    "es:t": "Ucrania | Amvrosiivka",
+    "de": "Amwrossijiwka",
+    "de:t": "Ukraine | Amwrossijiwka"
+  },
+  {
+    "en": "Antratsyt",
+    "en:t": "Ukraine | Antratsytivs",
+    "a": true,
+    "g": {
+      "lat": 48.12,
+      "lon": 39.0898
+    },
+    "it": "Antracyt",
+    "it:t": "Ucraina | Antratsytivs",
+    "es": "Antratsit",
+    "es:t": "Ucrania | Antratsytivs",
+    "de": "Antrazyt",
+    "de:t": "Ukraine | Antratsytivs"
+  },
+  {
+    "en": "Apostolove",
+    "en:t": "Ukraine | Apostolivs'kyi",
+    "a": true,
+    "g": {
+      "lat": 47.6605,
+      "lon": 33.7205
+    },
+    "it": "Apostolove",
+    "it:t": "Ucraina | Apostolove",
+    "es": "Apostolove",
+    "es:t": "Ucrania | Apostolove",
+    "de": "Apostolowo",
+    "de:t": "Ukraine | Apostolowe"
+  },
+  {
+    "en": "Armiansk",
+    "en:t": "Ukraine",
+    "a": true,
+    "g": {
+      "lat": 46.1141,
+      "lon": 33.6876
+    },
+    "it": "Armjans'k",
+    "it:t": "Ucraina",
+    "es": "Armiansk",
+    "es:t": "Ucrania",
+    "de": "Armjansk",
+    "de:t": "Ukraine"
+  },
+  {
+    "en": "Artsyz",
+    "en:t": "Ukraine | Artsyz'kyi",
+    "a": true,
+    "g": {
+      "lat": 45.9788,
+      "lon": 29.4236
+    },
+    "it": "Arcyz",
+    "it:t": "Ucraina | Artsyz",
+    "es": "Arciz",
+    "es:t": "Ucrania | Artsyz",
+    "de": "Arzis",
+    "de:t": "Ukraine | Arzys"
+  },
+  {
+    "en": "Avdiivka",
+    "en:t": "Ukraine | Avdiivs",
+    "a": true,
+    "g": {
+      "lat": 48.1366,
+      "lon": 37.7491
+    },
+    "it": "Avdiïvka",
+    "it:t": "Ucraina | Avdiivs",
+    "es": "Avdivka",
+    "es:t": "Ucrania | Avdiivs",
+    "de": "Awdijiwka",
+    "de:t": "Ukraine | Avdiivs"
+  },
+  {
+    "en": "Bakhchysarai",
+    "en:t": "Ukraine",
+    "a": true,
+    "g": {
+      "lat": 44.7461,
+      "lon": 33.8616
+    },
+    "it": "Bachčysaraj",
+    "it:t": "Ucraina",
+    "es": "Bajchisarai",
+    "es:t": "Ucrania",
+    "de": "Bachtschyssaraj",
+    "de:t": "Ukraine"
+  },
+  {
+    "en": "Bakhmach",
+    "en:t": "Ukraine | Bakhmats'kyi",
+    "a": true,
+    "g": {
+      "lat": 51.1828,
+      "lon": 32.833
+    },
+    "it": "Bachmač",
+    "it:t": "Ucraina | Bachmač",
+    "es": "Bajmach",
+    "es:t": "Ucrania | Bakhmach",
+    "de": "Bachmatsch",
+    "de:t": "Ukraine | Bachmatsch"
+  },
+  {
+    "en": "Bakhmut",
+    "en:t": "Ukraine | Artemivs",
+    "a": true,
+    "g": {
+      "lat": 48.5987,
+      "lon": 37.998
+    },
+    "it": "Artemivs'k",
+    "it:t": "Ucraina | Artemivs",
+    "es": "Artemivsk",
+    "es:t": "Ucrania | Artemivs",
+    "de": "Artemiwsk",
+    "de:t": "Ukraine | Artemivs"
+  },
+  {
+    "en": "Balaklava",
+    "en:t": "Ukraine | Sevastopol",
+    "a": true,
+    "g": {
+      "lat": 44.5738,
+      "lon": 33.6766
+    },
+    "it": "Balaklava",
+    "it:t": "Ucraina | Sebastopoli",
+    "es": "Balaklava",
+    "es:t": "Ucrania | Sebastopol",
+    "de": "Balaklawa",
+    "de:t": "Ukraine | Sewastopol"
+  },
+  {
+    "en": "Balakliya",
+    "en:t": "Ukraine | Balakliis'kyi",
+    "a": true,
+    "g": {
+      "lat": 49.4644,
+      "lon": 36.8585
+    },
+    "it": "Balaklija",
+    "it:t": "Ucraina | Balaklija",
+    "es": "Balakliya",
+    "es:t": "Ucrania | Balakliis'kyi",
+    "de": "Balakliia",
+    "de:t": "Ukraine | Balaklija"
+  },
+  {
+    "en": "Balta",
+    "en:t": "Ukraine | Balts'kyi",
+    "a": true,
+    "g": {
+      "lat": 47.9371,
+      "lon": 29.6288
+    },
+    "it": "Balta",
+    "it:t": "Ucraina | Balta",
+    "es": "Balta",
+    "es:t": "Ucrania | Balta",
+    "de": "Balta",
+    "de:t": "Ukraine | Balta"
+  },
+  {
+    "en": "Bars'kyi",
+    "en:t": "Ukraine | Vinnytsia Oblast",
+    "a": true,
+    "g": {
+      "lat": 48.9912,
+      "lon": 27.6865
+    },
+    "it": "Bar",
+    "it:t": "Ucraina | Oblast' di Vinnycja",
+    "es": "Bar",
+    "es:t": "Ucrania | Vinitsa",
+    "de": "Bar",
+    "de:t": "Ukraine | Bar"
+  },
+  {
+    "en": "Berdyans'k",
+    "en:t": "Ukraine | Berdyans",
+    "a": true,
+    "g": {
+      "lat": 46.7738,
+      "lon": 36.8035
+    },
+    "it": "Berdiansk",
+    "it:t": "Ucraina | Berdyans",
+    "es": "Berdiansk",
+    "es:t": "Ucrania | Berdyans",
+    "de": "Berdjansk",
+    "de:t": "Ukraine | Berdyans"
+  },
+  {
+    "en": "Berdychiv",
+    "en:t": "Ukraine | Berdychivs",
+    "a": true,
+    "g": {
+      "lat": 49.9107,
+      "lon": 28.59
+    },
+    "it": "Berdyčiv",
+    "it:t": "Ucraina | Berdychivs",
+    "es": "Berdichev",
+    "es:t": "Ucrania | Berdychivs",
+    "de": "Berdytschiw",
+    "de:t": "Ukraine | Berdychivs"
+  },
+  {
+    "en": "Berehove",
+    "en:t": "Ukraine | Berehivs",
+    "a": true,
+    "g": {
+      "lat": 48.1972,
+      "lon": 22.6371
+    },
+    "it": "Berehove",
+    "it:t": "Ucraina | Berehivs",
+    "es": "Beregovo",
+    "es:t": "Ucrania | Berehivs",
+    "de": "Berehowe",
+    "de:t": "Ukraine | Berehivs"
+  },
+  {
+    "en": "Berezhany",
+    "en:t": "Ukraine | Berezhans'kyi",
+    "a": true,
+    "g": {
+      "lat": 49.4439,
+      "lon": 24.9361
+    },
+    "it": "Brzeżany",
+    "it:t": "Ucraina | Berezhans'kyi",
+    "es": "Berezhani",
+    "es:t": "Ucrania | Berezhanskyi",
+    "de": "Bereschany",
+    "de:t": "Ukraine | Bereschany"
+  },
+  {
+    "en": "Bila Tserkva",
+    "en:t": "Ukraine | Bilotserkivs",
+    "a": true,
+    "g": {
+      "lat": 49.7968,
+      "lon": 30.1311
+    },
+    "it": "Bila Cerkva",
+    "it:t": "Ucraina | Bilotserkivs",
+    "es": "Bila Tserkva",
+    "es:t": "Ucrania | Bilotserkivs",
+    "de": "Bila Zerkwa",
+    "de:t": "Ukraine | Bilotserkivs"
+  },
+  {
+    "en": "Bilhorod-Dnistrovs'kyi",
+    "en:t": "Ukraine | Bilhorod-Dnistrovs",
+    "a": true,
+    "g": {
+      "lat": 46.1855,
+      "lon": 30.3415
+    },
+    "it": "Maurocastro",
+    "it:t": "Ucraina | Bilhorod-Dnistrovs",
+    "es": "Belgorod-Dniéster",
+    "es:t": "Ucrania | Bilhorod-Dnistrovs",
+    "de": "Bilhorod-Dnistrowskyj",
+    "de:t": "Ukraine | Bilhorod-Dnistrovs"
+  },
+  {
+    "en": "Bilohirs'k",
+    "en:t": "Ukraine",
+    "a": true,
+    "g": {
+      "lat": 45.0578,
+      "lon": 34.6051
+    },
+    "it": "Bilohirs'k",
+    "it:t": "Ucraina",
+    "es": "Bilohir",
+    "es:t": "Ucrania",
+    "de": "Bilohirsk",
+    "de:t": "Ukraine"
+  },
+  {
+    "en": "Bilopillya",
+    "en:t": "Ukraine | Bilopil's'kyi",
+    "a": true,
+    "g": {
+      "lat": 51.1494,
+      "lon": 34.3175
+    },
+    "it": "Bilopillja",
+    "it:t": "Ucraina | Bilopil's'kyi",
+    "es": "Bilopillya",
+    "es:t": "Ucrania | Bilopil's'kyi",
+    "de": "Bilopillja",
+    "de:t": "Ukraine | Bilopillja"
+  },
+  {
+    "en": "Bohodukhiv",
+    "en:t": "Ukraine | Bohodukhivs'kyi",
+    "a": true,
+    "g": {
+      "lat": 50.1636,
+      "lon": 35.5402
+    },
+    "it": "Bohodochiv",
+    "it:t": "Ucraina | Bohoduchiv",
+    "es": "Bogodujov",
+    "es:t": "Ucrania | Bogodujiv",
+    "de": "Bohoduchiw",
+    "de:t": "Ukraine | Bohoduchiw"
+  },
+  {
+    "en": "Bohuslav",
+    "en:t": "Ukraine | Bohuslavs'kyi",
+    "a": true,
+    "g": {
+      "lat": 49.5406,
+      "lon": 30.8772
+    },
+    "it": "Bohuslav",
+    "it:t": "Ucraina | Bohuslavs'kyi",
+    "es": "Bohuslav",
+    "es:t": "Ucrania | Bohuslavs'kyi",
+    "de": "Bohuslaw",
+    "de:t": "Ukraine | Bohuslaw"
+  },
+  {
+    "en": "Bolhrad",
+    "en:t": "Ukraine | Bolhrads'kyi",
+    "a": true,
+    "g": {
+      "lat": 45.6838,
+      "lon": 28.6143
+    },
+    "it": "Bolhrad",
+    "it:t": "Ucraina | Bolhrad",
+    "es": "Bolgrad",
+    "es:t": "Ucrania | Bolhrad",
+    "de": "Bolhrad",
+    "de:t": "Ukraine | Bolhrad"
+  },
+  {
+    "en": "Boryslav",
+    "en:t": "Ukraine | Boryslavs",
+    "a": true,
+    "g": {
+      "lat": 49.2912,
+      "lon": 23.4272
+    },
+    "it": "Boryslav",
+    "it:t": "Ucraina | Boryslavs",
+    "es": "Borislav",
+    "es:t": "Ucrania | Boryslavs",
+    "de": "Boryslaw",
+    "de:t": "Ukraine | Boryslavs"
+  },
+  {
+    "en": "Boryspil",
+    "en:t": "Ukraine | Boryspil's",
+    "a": true,
+    "g": {
+      "lat": 50.3482,
+      "lon": 30.9562
+    },
+    "it": "Boryspil",
+    "it:t": "Ucraina | Boryspil's",
+    "es": "Aeropuerto Internacional de Boryspil",
+    "es:t": "Ucrania | Boryspil",
+    "de": "Flughafen Kiew-Boryspil",
+    "de:t": "Ukraine | Boryspil"
+  },
+  {
+    "en": "Boyarka",
+    "en:t": "Ukraine | Kyjevo-Svyatoshyns'kyi",
+    "a": true,
+    "g": {
+      "lat": 50.3171,
+      "lon": 30.2982
+    },
+    "it": "Boiarka",
+    "it:t": "Ucraina | Kyjevo-Svyatoshyns'kyi",
+    "es": "Boiarka",
+    "es:t": "Ucrania | Sviatoshyn",
+    "de": "Bojarka",
+    "de:t": "Ukraine | Swjatoschyn"
+  },
+  {
+    "en": "Brovary",
+    "en:t": "Ukraine | Brovars",
+    "a": true,
+    "g": {
+      "lat": 50.5111,
+      "lon": 30.7909
+    },
+    "it": "Brovary",
+    "it:t": "Ucraina | Brovars",
+    "es": "Brovary",
+    "es:t": "Ucrania | Brovars",
+    "de": "Browary",
+    "de:t": "Ukraine | Brovars"
+  },
+  {
+    "en": "Bryanka",
+    "en:t": "Ukraine | Bryankivs",
+    "a": true,
+    "g": {
+      "lat": 48.4988,
+      "lon": 38.6706
+    },
+    "it": "Bryanka",
+    "it:t": "Ucraina | Bryankivs",
+    "es": "Brianka",
+    "es:t": "Ucrania | Bryankivs",
+    "de": "Brjanka",
+    "de:t": "Ukraine | Bryankivs"
+  },
+  {
+    "en": "Bucha",
+    "en:t": "Ukraine | Buchans'ka",
+    "a": true,
+    "g": {
+      "lat": 50.5533,
+      "lon": 30.2135
+    },
+    "it": "Buča",
+    "it:t": "Ucraina | Buchans'ka",
+    "es": "Bucha",
+    "es:t": "Ucrania | Buchans'ka",
+    "de": "Butscha",
+    "de:t": "Ukraine | Buchans'ka"
+  },
+  {
+    "en": "Cherkasy",
+    "en:t": "Ukraine | Cherkas",
+    "a": true,
+    "g": {
+      "lat": 49.4444,
+      "lon": 32.0598
+    },
+    "it": "Čerkasy",
+    "it:t": "Ucraina | Cherkas",
+    "es": "Cherkasy",
+    "es:t": "Ucrania | Cherkas",
+    "de": "Tscherkassy",
+    "de:t": "Ukraine | Cherkas"
+  },
+  {
+    "en": "Chernihiv",
+    "en:t": "Ukraine | Chernihivs",
+    "a": true,
+    "g": {
+      "lat": 51.4982,
+      "lon": 31.2893
+    },
+    "it": "Chernihiv",
+    "it:t": "Ucraina | Chernihivs",
+    "es": "Chernígov",
+    "es:t": "Ucrania | Chernihivs",
+    "de": "Tschernihiw",
+    "de:t": "Ukraine | Chernihivs"
+  },
+  {
+    "en": "Chernivtsi",
+    "en:t": "Ukraine | Chernivitsi",
+    "a": true,
+    "g": {
+      "lat": 48.2921,
+      "lon": 25.9358
+    },
+    "it": "Černivci",
+    "it:t": "Ucraina | Chernivitsi",
+    "es": "Chernovtsi",
+    "es:t": "Ucrania | Chernivitsi",
+    "de": "Czernowitz",
+    "de:t": "Ukraine | Chernivitsi"
+  },
+  {
+    "en": "Chervonohrad",
+    "en:t": "Ukraine | Chervonohrads",
+    "a": true,
+    "g": {
+      "lat": 50.3872,
+      "lon": 24.2199
+    },
+    "it": "Červonohrad",
+    "it:t": "Ucraina | Chervonohrads",
+    "es": "Chervonograd",
+    "es:t": "Ucrania | Chervonohrads",
+    "de": "Tscherwonohrad",
+    "de:t": "Ukraine | Chervonohrads"
+  },
+  {
+    "en": "Chornomorsk",
+    "en:t": "Ukraine | Illichivs",
+    "a": true,
+    "g": {
+      "lat": 46.2952,
+      "lon": 30.6481
+    },
+    "it": "Čornomors'k",
+    "it:t": "Ucraina | Illichivs",
+    "es": "Chornomorsk",
+    "es:t": "Ucrania | Illichivs",
+    "de": "Tschornomorsk",
+    "de:t": "Ukraine | Illichivs"
+  },
+  {
+    "en": "Chortkiv",
+    "en:t": "Ukraine | Chortkivs'kyi",
+    "a": true,
+    "g": {
+      "lat": 49.0109,
+      "lon": 25.8027
+    },
+    "it": "Čortkiv",
+    "it:t": "Ucraina | Chortkivs'kyi",
+    "es": "Chortkov",
+    "es:t": "Ucrania | Chortkiv",
+    "de": "Tschortkiw",
+    "de:t": "Ukraine | Tschortkiw"
+  },
+  {
+    "en": "Chuhuiv",
+    "en:t": "Ukraine | Chuhuivs",
+    "a": true,
+    "g": {
+      "lat": 49.8363,
+      "lon": 36.6813
+    },
+    "it": "Čuhuïv",
+    "it:t": "Ucraina | Chuhuivs",
+    "es": "Chuguev",
+    "es:t": "Ucrania | Chuhuivs",
+    "de": "Tschuhujiw",
+    "de:t": "Ukraine | Chuhuivs"
+  },
+  {
+    "en": "Debal'tseve",
+    "en:t": "Ukraine | Debal'tsivs",
+    "a": true,
+    "g": {
+      "lat": 48.3341,
+      "lon": 38.4062
+    },
+    "it": "Debal'ceve",
+    "it:t": "Ucraina | Debal'tsivs",
+    "es": "Debaltsevo",
+    "es:t": "Ucrania | Debal'tsivs",
+    "de": "Debalzewe",
+    "de:t": "Ukraine | Debal'tsivs"
+  },
+  {
+    "en": "Derhachi",
+    "en:t": "Ukraine | Derhachivs'kyi",
+    "a": true,
+    "g": {
+      "lat": 50.1097,
+      "lon": 36.1155
+    },
+    "it": "Derhači",
+    "it:t": "Ucraina | Derhači",
+    "es": "Derhachi",
+    "es:t": "Ucrania | Derhachivs'kyi",
+    "de": "Derhatschi",
+    "de:t": "Ukraine | Derhatschi"
+  },
+  {
+    "en": "Dnipro",
+    "en:t": "Ukraine | Dnipropetrovs",
+    "a": true,
+    "g": {
+      "lat": 48.4647,
+      "lon": 35.0462
+    },
+    "it": "Dnipropetrovsk",
+    "it:t": "Ucraina | Dnipropetrovs",
+    "es": "Dnipropetrovsk",
+    "es:t": "Ucrania | Dnipropetrovs",
+    "de": "Dnipropetrowsk",
+    "de:t": "Ukraine | Dnipropetrovs"
+  },
+  {
+    "en": "Dniprorudne",
+    "en:t": "Ukraine | Vasylivs'kyi",
+    "a": true,
+    "g": {
+      "lat": 47.3825,
+      "lon": 34.9938
+    },
+    "it": "Dniprorudne",
+    "it:t": "Ucraina | Vasylivs'kyi",
+    "es": "Dniprorudne",
+    "es:t": "Ucrania | Vasylivs'kyi",
+    "de": "Dniprorudne",
+    "de:t": "Ukraine | Wassyliwka"
+  },
+  {
+    "en": "Dobropillya",
+    "en:t": "Ukraine | Dobropil's",
+    "a": true,
+    "g": {
+      "lat": 48.4691,
+      "lon": 37.0871
+    },
+    "it": "Dobropillja",
+    "it:t": "Ucraina | Dobropil's",
+    "es": "Dobropillya",
+    "es:t": "Ucrania | Dobropil's",
+    "de": "Dobropillja",
+    "de:t": "Ukraine | Dobropil's"
+  },
+  {
+    "en": "Dokuchajevs'k",
+    "en:t": "Ukraine | Dokuchaivs",
+    "a": true,
+    "g": {
+      "lat": 47.7582,
+      "lon": 37.6772
+    },
+    "it": "Dokučajevs'k",
+    "it:t": "Ucraina | Dokuchaivs",
+    "es": "Dokuchajevs'k",
+    "es:t": "Ucrania | Dokuchaivs",
+    "de": "Dokutschajiwsk",
+    "de:t": "Ukraine | Dokuchaivs"
+  },
+  {
+    "en": "Dolyna",
+    "en:t": "Ukraine | Dolyns'kyi",
+    "a": true,
+    "g": {
+      "lat": 48.9765,
+      "lon": 23.9892
+    },
+    "it": "Dolyna",
+    "it:t": "Ucraina | Dolyna",
+    "es": "Dolina",
+    "es:t": "Ucrania | Dolyna",
+    "de": "Dolyna",
+    "de:t": "Ukraine | Dolyna"
+  },
+  {
+    "en": "Dolyns'ka",
+    "en:t": "Ukraine | Dolyns'kyi",
+    "a": true,
+    "g": {
+      "lat": 48.1133,
+      "lon": 32.7659
+    },
+    "it": "Dolyns'ka",
+    "it:t": "Ucraina | Dolyns'kyi",
+    "es": "Dolinska",
+    "es:t": "Ucrania | Dolynska",
+    "de": "Dolynska",
+    "de:t": "Ukraine | Dolynska"
+  },
+  {
+    "en": "Donetsk",
+    "en:t": "Ukraine | Donets",
+    "a": true,
+    "g": {
+      "lat": 48.0159,
+      "lon": 37.8028
+    },
+    "it": "Donetsk",
+    "it:t": "Ucraina | Donets",
+    "es": "Donetsk",
+    "es:t": "Ucrania | Donets",
+    "de": "Donezk",
+    "de:t": "Ukraine | Donets"
+  },
+  {
+    "en": "Drohobych",
+    "en:t": "Ukraine | Drohobyts",
+    "a": true,
+    "g": {
+      "lat": 49.358,
+      "lon": 23.5123
+    },
+    "it": "Drohobyč",
+    "it:t": "Ucraina | Drohobyts",
+    "es": "Drohobich",
+    "es:t": "Ucrania | Drohobyts",
+    "de": "Drohobytsch",
+    "de:t": "Ukraine | Drohobyts"
+  },
+  {
+    "en": "Dubno",
+    "en:t": "Ukraine | Dubens",
+    "a": true,
+    "g": {
+      "lat": 50.4009,
+      "lon": 25.7591
+    },
+    "it": "Dubno",
+    "it:t": "Ucraina | Dubens",
+    "es": "Dubno",
+    "es:t": "Ucrania | Dubens",
+    "de": "Dubno",
+    "de:t": "Ukraine | Dubens"
+  },
+  {
+    "en": "Dunaivtsi",
+    "en:t": "Ukraine | Dunajevets'kyi",
+    "a": true,
+    "g": {
+      "lat": 48.8922,
+      "lon": 26.8604
+    },
+    "it": "Dunaïvci",
+    "it:t": "Ucraina | Dunajevets'kyi",
+    "es": "Dunaivtsi",
+    "es:t": "Ucrania | Dunajevets'kyi",
+    "de": "Dunajiwzi",
+    "de:t": "Ukraine | Dunajiwzi"
+  },
+  {
+    "en": "Dzhankoi",
+    "en:t": "Ukraine",
+    "a": true,
+    "g": {
+      "lat": 45.709,
+      "lon": 34.3875
+    },
+    "it": "Džankoj",
+    "it:t": "Ucraina",
+    "es": "Dzhankoy",
+    "es:t": "Ucrania",
+    "de": "Dschankoj",
+    "de:t": "Ukraine"
+  },
+  {
+    "en": "Enerhodar",
+    "en:t": "Ukraine | Enerhodars",
+    "a": true,
+    "g": {
+      "lat": 47.5015,
+      "lon": 34.6342
+    },
+    "it": "Enerhodar",
+    "it:t": "Ucraina | Enerhodars",
+    "es": "Energodar",
+    "es:t": "Ucrania | Enerhodars",
+    "de": "Enerhodar",
+    "de:t": "Ukraine | Enerhodars"
+  },
+  {
+    "en": "Fastiv",
+    "en:t": "Ukraine | Fastivs",
+    "a": true,
+    "g": {
+      "lat": 50.0638,
+      "lon": 29.905
+    },
+    "it": "Fastiv",
+    "it:t": "Ucraina | Fastivs",
+    "es": "Fastiv",
+    "es:t": "Ucrania | Fastivs",
+    "de": "Fastiw",
+    "de:t": "Ukraine | Fastivs"
+  },
+  {
+    "en": "Feodosia",
+    "en:t": "Ukraine",
+    "a": true,
+    "g": {
+      "lat": 45.0319,
+      "lon": 35.3824
+    },
+    "it": "Feodosiia",
+    "it:t": "Ucraina",
+    "es": "Feodosia",
+    "es:t": "Ucrania",
+    "de": "Feodossija",
+    "de:t": "Ukraine"
+  },
+  {
+    "en": "Hadyach",
+    "en:t": "Ukraine | Hadyats'kyi",
+    "a": true,
+    "g": {
+      "lat": 50.3678,
+      "lon": 33.9797
+    },
+    "it": "Gadjač",
+    "it:t": "Ucraina | Hadyats'kyi",
+    "es": "Haidach",
+    "es:t": "Ucrania | Hadyatskyi",
+    "de": "Hadjatsch",
+    "de:t": "Ukraine | Hadjatsch"
+  },
+  {
+    "en": "Haisyn",
+    "en:t": "Ukraine | Haisyns'kyi",
+    "a": true,
+    "g": {
+      "lat": 48.8139,
+      "lon": 29.3812
+    },
+    "it": "Hajsyn",
+    "it:t": "Ucraina | Hajsyn",
+    "es": "Haisin",
+    "es:t": "Ucrania | Haisyn",
+    "de": "Hajssyn",
+    "de:t": "Ukraine | Hajssyn"
+  },
+  {
+    "en": "Haivoron",
+    "en:t": "Ukraine | Haivorons'kyi",
+    "a": true,
+    "g": {
+      "lat": 48.3367,
+      "lon": 29.8686
+    },
+    "it": "Hajvoron",
+    "it:t": "Ucraina | Haivorons'kyi",
+    "es": "Haivoron",
+    "es:t": "Ucrania | Haivorons'kyi",
+    "de": "Hajworon",
+    "de:t": "Ukraine | Haiworon"
+  },
+  {
+    "en": "Heniches'k",
+    "en:t": "Ukraine | Heniches'kyi",
+    "a": true,
+    "g": {
+      "lat": 46.1784,
+      "lon": 34.8068
+    },
+    "it": "Heničes'k",
+    "it:t": "Ucraina | Heničes'k",
+    "es": "Genichesk",
+    "es:t": "Ucrania | Gueníchesk",
+    "de": "Henitschesk",
+    "de:t": "Ukraine | Henitschesk"
+  },
+  {
+    "en": "Hlukhiv",
+    "en:t": "Ukraine | Hlukhivs",
+    "a": true,
+    "g": {
+      "lat": 51.6709,
+      "lon": 33.9079
+    },
+    "it": "Hlukhiv",
+    "it:t": "Ucraina | Hlukhivs",
+    "es": "Glujov",
+    "es:t": "Ucrania | Hlukhivs",
+    "de": "Hluchiw",
+    "de:t": "Ukraine | Hlukhivs"
+  },
+  {
+    "en": "Hola Prystan",
+    "en:t": "Ukraine | Holoprystans'kyi",
+    "a": true,
+    "g": {
+      "lat": 46.5211,
+      "lon": 32.5201
+    },
+    "it": "Hola Prystan",
+    "it:t": "Ucraina | Hola Prystan",
+    "es": "Hola Prostan",
+    "es:t": "Ucrania | Golo Prystan",
+    "de": "Hola Prystan",
+    "de:t": "Ukraine | Hola Prystan"
+  },
+  {
+    "en": "Holubivka",
+    "en:t": "Ukraine | Kirovs",
+    "a": true,
+    "g": {
+      "lat": 48.6355,
+      "lon": 38.6374
+    },
+    "it": "Kirovs'k",
+    "it:t": "Ucraina | Kirovs",
+    "es": "Kirovsk",
+    "es:t": "Ucrania | Kirovs",
+    "de": "Kirowsk",
+    "de:t": "Ukraine | Kirovs"
+  },
+  {
+    "en": "Horishni Plavni",
+    "en:t": "Ukraine | Komsomol's",
+    "a": true,
+    "g": {
+      "lat": 49.0157,
+      "lon": 33.645
+    },
+    "it": "Horišni Plavni",
+    "it:t": "Ucraina | Komsomol's",
+    "es": "Horishni Plavni",
+    "es:t": "Ucrania | Komsomol's",
+    "de": "Horischni Plawni",
+    "de:t": "Ukraine | Komsomol's"
+  },
+  {
+    "en": "Horlivka",
+    "en:t": "Ukraine | Horlivs",
+    "a": true,
+    "g": {
+      "lat": 48.3071,
+      "lon": 38.0296
+    },
+    "it": "Horlivka",
+    "it:t": "Ucraina | Horlivs",
+    "es": "Górlovka",
+    "es:t": "Ucrania | Horlivs",
+    "de": "Horliwka",
+    "de:t": "Ukraine | Horlivs"
+  },
+  {
+    "en": "Horodok",
+    "en:t": "Ukraine | Horodots'kyi",
+    "a": true,
+    "g": {
+      "lat": 49.1665,
+      "lon": 26.5767
+    },
+    "it": "Horodok",
+    "it:t": "Ucraina | Horodots'kyi",
+    "es": "Grodok",
+    "es:t": "Ucrania | Gorodok",
+    "de": "Horodok",
+    "de:t": "Ukraine | Horodok"
+  },
+  {
+    "en": "Horodok",
+    "en:t": "Ukraine | Horodots'kyi",
+    "a": true,
+    "g": {
+      "lat": 49.7821,
+      "lon": 23.6611
+    },
+    "it": "Horodok",
+    "it:t": "Ucraina | Horodots'kyi",
+    "es": "Grodok",
+    "es:t": "Ucrania | Horodok",
+    "de": "Horodok",
+    "de:t": "Ukraine | Horodok"
+  },
+  {
+    "en": "Horodyshche",
+    "en:t": "Ukraine | Horodyshchens'kyi",
+    "a": true,
+    "g": {
+      "lat": 49.2918,
+      "lon": 31.4465
+    },
+    "it": "Horodyšče",
+    "it:t": "Ucraina | Horodyšče",
+    "es": "Horodische",
+    "es:t": "Ucrania | Gorodysche",
+    "de": "Horodyschtsche",
+    "de:t": "Ukraine | Horodyschtsche"
+  },
+  {
+    "en": "Hulyaipole",
+    "en:t": "Ukraine | Hulyaipil's'kyi",
+    "a": true,
+    "g": {
+      "lat": 47.6607,
+      "lon": 36.2732
+    },
+    "it": "Huljajpole",
+    "it:t": "Ucraina | Hulyaipil's'kyi",
+    "es": "Guliaipolé",
+    "es:t": "Ucrania | Huliaipole",
+    "de": "Huljajpole",
+    "de:t": "Ukraine | Huljajpole"
+  },
+  {
+    "en": "Ilovais'k",
+    "en:t": "Ukraine | Khartsyz",
+    "a": true,
+    "g": {
+      "lat": 47.9257,
+      "lon": 38.1957
+    },
+    "it": "Ilovajs'k",
+    "it:t": "Ucraina | Khartsyz",
+    "es": "Ilovaisk",
+    "es:t": "Ucrania | Khartsyz",
+    "de": "Ilowajsk",
+    "de:t": "Ukraine | Khartsyz"
+  },
+  {
+    "en": "Irpin",
+    "en:t": "Ukraine | Irpins",
+    "a": true,
+    "g": {
+      "lat": 50.5187,
+      "lon": 30.2398
+    },
+    "it": "Irpin",
+    "it:t": "Ucraina | Irpins",
+    "es": "Irpín",
+    "es:t": "Ucrania | Irpins",
+    "de": "Irpin",
+    "de:t": "Ukraine | Irpins"
+  },
+  {
+    "en": "Ivano-Frankivsk",
+    "en:t": "Ukraine | Ivano-Frankivs",
+    "a": true,
+    "g": {
+      "lat": 48.9226,
+      "lon": 24.7111
+    },
+    "it": "Ivano-Frankivs'k",
+    "it:t": "Ucraina | Ivano-Frankivs",
+    "es": "Ivano-Frankivsk",
+    "es:t": "Ucrania | Ivano-Frankivs",
+    "de": "Iwano-Frankiwsk",
+    "de:t": "Ukraine | Ivano-Frankivs"
+  },
+  {
+    "en": "Izmail",
+    "en:t": "Ukraine | Izmail's",
+    "a": true,
+    "g": {
+      "lat": 45.3502,
+      "lon": 28.8502
+    },
+    "it": "Izmail",
+    "it:t": "Ucraina | Izmail's",
+    "es": "Izmail",
+    "es:t": "Ucrania | Izmail's",
+    "de": "Ismajil",
+    "de:t": "Ukraine | Izmail's"
+  },
+  {
+    "en": "Izyaslav",
+    "en:t": "Ukraine | Izyaslavs'kyi",
+    "a": true,
+    "g": {
+      "lat": 50.1191,
+      "lon": 26.8281
+    },
+    "it": "Zaslavia",
+    "it:t": "Ucraina | Izyaslavs'kyi",
+    "es": "Iziaslav",
+    "es:t": "Ucrania | Iziaslav",
+    "de": "Izyaslaw",
+    "de:t": "Ukraine | Izyaslavs'kyi"
+  },
+  {
+    "en": "Izyum",
+    "en:t": "Ukraine | Izyums",
+    "a": true,
+    "g": {
+      "lat": 49.2121,
+      "lon": 37.2665
+    },
+    "it": "Izjum",
+    "it:t": "Ucraina | Izyums",
+    "es": "Izium",
+    "es:t": "Ucrania | Izyums",
+    "de": "Isjum",
+    "de:t": "Ukraine | Izyums"
+  },
+  {
+    "en": "Kakhovka",
+    "en:t": "Ukraine | Kakhovs",
+    "a": true,
+    "g": {
+      "lat": 46.8117,
+      "lon": 33.4902
+    },
+    "it": "Kachovka",
+    "it:t": "Ucraina | Kakhovs",
+    "es": "Kajovka",
+    "es:t": "Ucrania | Kakhovs",
+    "de": "Kachowka",
+    "de:t": "Ukraine | Kakhovs"
+  },
+  {
+    "en": "Kalush",
+    "en:t": "Ukraine | Kalus",
+    "a": true,
+    "g": {
+      "lat": 49.0414,
+      "lon": 24.395
+    },
+    "it": "Kaluš",
+    "it:t": "Ucraina | Kalus",
+    "es": "Kalush",
+    "es:t": "Ucrania | Kalus",
+    "de": "Kalusch",
+    "de:t": "Ukraine | Kalus"
+  },
+  {
+    "en": "Kalynivka",
+    "en:t": "Ukraine | Kalynivs'kyi",
+    "a": true,
+    "g": {
+      "lat": 49.4486,
+      "lon": 28.5227
+    },
+    "it": "Kalynivka",
+    "it:t": "Ucraina | Kalynivka",
+    "es": "Kalinovka",
+    "es:t": "Ucrania | Kalynivka",
+    "de": "Kalyniwka",
+    "de:t": "Ukraine | Kalyniwka"
+  },
+  {
+    "en": "Kam'yanets'-Podil's'kyi",
+    "en:t": "Ukraine | Kam'yanets'-Podil's",
+    "a": true,
+    "g": {
+      "lat": 48.6967,
+      "lon": 26.5825
+    },
+    "it": "Kam'janec'-Podil's'kyj",
+    "it:t": "Ucraina | Kam'yanets'-Podil's",
+    "es": "Kamenets-Podolski",
+    "es:t": "Ucrania | Kam'yanets'-Podil's",
+    "de": "Kamjanez-Podilskyj",
+    "de:t": "Ukraine | Kam'yanets'-Podil's"
+  },
+  {
+    "en": "Kamianske",
+    "en:t": "Ukraine | Dniprodzerzhyns",
+    "a": true,
+    "g": {
+      "lat": 48.5231,
+      "lon": 34.6137
+    },
+    "it": "Dniprodzeržyns'k",
+    "it:t": "Ucraina | Dniprodzerzhyns",
+    "es": "Dniprodzerzhynsk",
+    "es:t": "Ucrania | Dniprodzerzhyns",
+    "de": "Dniprodserschynsk",
+    "de:t": "Ukraine | Dniprodzerzhyns"
+  },
+  {
+    "en": "Kaniv",
+    "en:t": "Ukraine | Kanivs",
+    "a": true,
+    "g": {
+      "lat": 49.751,
+      "lon": 31.4697
+    },
+    "it": "Kaniv",
+    "it:t": "Ucraina | Kanivs",
+    "es": "Kániv",
+    "es:t": "Ucrania | Kanivs",
+    "de": "Kaniw",
+    "de:t": "Ukraine | Kanivs"
+  },
+  {
+    "en": "Karlivka",
+    "en:t": "Ukraine | Karlivs'kyi",
+    "a": true,
+    "g": {
+      "lat": 49.4576,
+      "lon": 35.12
+    },
+    "it": "Karlivka",
+    "it:t": "Ucraina | Karlivs'kyi",
+    "es": "Karlivka",
+    "es:t": "Ucrania | Karlivs'kyi",
+    "de": "Karliwka",
+    "de:t": "Ukraine | Karliwka"
+  },
+  {
+    "en": "Kerch",
+    "en:t": "Ukraine",
+    "a": true,
+    "g": {
+      "lat": 45.3573,
+      "lon": 36.4683
+    },
+    "it": "Kerč",
+    "it:t": "Ucraina",
+    "es": "Kerch",
+    "es:t": "Ucrania",
+    "de": "Kertsch",
+    "de:t": "Ukraine"
+  },
+  {
+    "en": "Kharkiv",
+    "en:t": "Ukraine | Kharkivs",
+    "a": true,
+    "g": {
+      "lat": 49.9935,
+      "lon": 36.2304
+    },
+    "it": "Charkiv",
+    "it:t": "Ucraina | Kharkivs",
+    "es": "Járkov",
+    "es:t": "Ucrania | Kharkivs",
+    "de": "Charkiw",
+    "de:t": "Ukraine | Kharkivs"
+  },
+  {
+    "en": "Khartsyz'k",
+    "en:t": "Ukraine | Khartsyz",
+    "a": true,
+    "g": {
+      "lat": 48.0432,
+      "lon": 38.1394
+    },
+    "it": "Charcyz'k",
+    "it:t": "Ucraina | Khartsyz",
+    "es": "Jartsizsk",
+    "es:t": "Ucrania | Khartsyz",
+    "de": "Charzysk",
+    "de:t": "Ukraine | Khartsyz"
+  },
+  {
+    "en": "Kherson",
+    "en:t": "Ukraine | Khersons",
+    "a": true,
+    "g": {
+      "lat": 46.6354,
+      "lon": 32.6169
+    },
+    "it": "Cherson",
+    "it:t": "Ucraina | Khersons",
+    "es": "Jersón",
+    "es:t": "Ucrania | Khersons",
+    "de": "Cherson",
+    "de:t": "Ukraine | Khersons"
+  },
+  {
+    "en": "Khmelnytskyi",
+    "en:t": "Ukraine | Khmel'nyts",
+    "a": true,
+    "g": {
+      "lat": 49.423,
+      "lon": 26.9871
+    },
+    "it": "Chmel'nyc'kyj",
+    "it:t": "Ucraina | Khmel'nyts",
+    "es": "Jmelnitsky",
+    "es:t": "Ucrania | Khmel'nyts",
+    "de": "Chmelnyzkyj",
+    "de:t": "Ukraine | Khmel'nyts"
+  },
+  {
+    "en": "Khmil'nyk",
+    "en:t": "Ukraine | Khmil'nyts",
+    "a": true,
+    "g": {
+      "lat": 49.551,
+      "lon": 27.9383
+    },
+    "it": "Chmil'nyk",
+    "it:t": "Ucraina | Khmil'nyts",
+    "es": "Jmilnik",
+    "es:t": "Ucrania | Khmil'nyts",
+    "de": "Chmilnyk",
+    "de:t": "Ukraine | Khmil'nyts"
+  },
+  {
+    "en": "Khrustalnyi",
+    "en:t": "Ukraine | Krasnoluchskiy Council",
+    "a": true,
+    "g": {
+      "lat": 48.1406,
+      "lon": 38.9367
+    },
+    "it": "Krasnyy Luch",
+    "it:t": "Ucraina | Krasnoluchskiy Council",
+    "es": "Krasnyi Luch",
+    "es:t": "Ucrania | Krasnoluchskiy Council",
+    "de": "Krasnyy Luch",
+    "de:t": "Ukraine | Krasnoluchskiy Council"
+  },
+  {
+    "en": "Khust",
+    "en:t": "Ukraine | Khusts",
+    "a": true,
+    "g": {
+      "lat": 48.1735,
+      "lon": 23.2972
+    },
+    "it": "Chust",
+    "it:t": "Ucraina | Khusts",
+    "es": "Hust",
+    "es:t": "Ucrania | Khusts",
+    "de": "Chust",
+    "de:t": "Ukraine | Khusts"
+  },
+  {
+    "en": "Kiliya",
+    "en:t": "Ukraine | Kiliis'kyi",
+    "a": true,
+    "g": {
+      "lat": 45.4651,
+      "lon": 29.248
+    },
+    "it": "Chilia",
+    "it:t": "Ucraina | Kiliya",
+    "es": "Kilia",
+    "es:t": "Ucrania | Kiliya",
+    "de": "Kilija",
+    "de:t": "Ukraine | Kilija"
+  },
+  {
+    "en": "Kivertsi",
+    "en:t": "Ukraine | Kivertsivs'kyi",
+    "a": true,
+    "g": {
+      "lat": 50.8323,
+      "lon": 25.4567
+    },
+    "it": "Kiverci",
+    "it:t": "Ucraina | Kivertsivs'kyi",
+    "es": "Kivertsi",
+    "es:t": "Ucrania | Kivertsivs'kyi",
+    "de": "Kiwerzi",
+    "de:t": "Ukraine | Kivertsivs'kyi"
+  },
+  {
+    "en": "Kivsharivka",
+    "en:t": "Ukraine | Kup'yans",
+    "a": true,
+    "g": {
+      "lat": 49.6297,
+      "lon": 37.681
+    },
+    "it": "Kivsharivka",
+    "it:t": "Ucraina | Kup'yans",
+    "es": "Kivsharivka",
+    "es:t": "Ucrania | Kup'yans",
+    "de": "Kiwschariwka",
+    "de:t": "Ukraine | Kup'yans"
+  },
+  {
+    "en": "Kolomyya",
+    "en:t": "Ukraine | Kolomyis",
+    "a": true,
+    "g": {
+      "lat": 48.5305,
+      "lon": 25.0412
+    },
+    "it": "Kolomyja",
+    "it:t": "Ucraina | Kolomyis",
+    "es": "Kolomyia",
+    "es:t": "Ucrania | Kolomyis",
+    "de": "Kolomea",
+    "de:t": "Ukraine | Kolomyis"
+  },
+  {
+    "en": "Konotop",
+    "en:t": "Ukraine | Konotops",
+    "a": true,
+    "g": {
+      "lat": 51.2409,
+      "lon": 33.2051
+    },
+    "it": "Konotop",
+    "it:t": "Ucraina | Konotops",
+    "es": "Konotop",
+    "es:t": "Ucrania | Konotops",
+    "de": "Konotop",
+    "de:t": "Ukraine | Konotops"
+  },
+  {
+    "en": "Korosten",
+    "en:t": "Ukraine | Korostens",
+    "a": true,
+    "g": {
+      "lat": 50.9532,
+      "lon": 28.6458
+    },
+    "it": "Korosten",
+    "it:t": "Ucraina | Korostens",
+    "es": "Korostén",
+    "es:t": "Ucrania | Korostens",
+    "de": "Korosten",
+    "de:t": "Ukraine | Korostens"
+  },
+  {
+    "en": "Korostyshiv",
+    "en:t": "Ukraine | Korostyshivs'kyi",
+    "a": true,
+    "g": {
+      "lat": 50.3172,
+      "lon": 29.0541
+    },
+    "it": "Korostyšiv",
+    "it:t": "Ucraina | Korostyšiv",
+    "es": "Korostioshev",
+    "es:t": "Ucrania | Korostyshiv",
+    "de": "Korostyschiw",
+    "de:t": "Ukraine | Korostyschiw"
+  },
+  {
+    "en": "Korsun'-Shevchenkivs'kyi",
+    "en:t": "Ukraine",
+    "a": true,
+    "g": {
+      "lat": 49.4261,
+      "lon": 31.2619
+    },
+    "it": "Korsun'-Ševčenkivs'kyj",
+    "it:t": "Ucraina",
+    "es": "Korsún-Shevchenko",
+    "es:t": "Ucrania",
+    "de": "Korsun-Schewtschenkiwskyj",
+    "de:t": "Ukraine"
+  },
+  {
+    "en": "Kostopil",
+    "en:t": "Ukraine | Kostopil's'kyi",
+    "a": true,
+    "g": {
+      "lat": 50.8791,
+      "lon": 26.4423
+    },
+    "it": "Kostopil",
+    "it:t": "Ucraina | Kostopil",
+    "es": "Kostopil",
+    "es:t": "Ucrania | Kostopil",
+    "de": "Kostopil",
+    "de:t": "Ukraine | Kostopil"
+  },
+  {
+    "en": "Kostyantynivka",
+    "en:t": "Ukraine | Kostyantynivs",
+    "a": true,
+    "g": {
+      "lat": 48.5239,
+      "lon": 37.7076
+    },
+    "it": "Kostjantynivka",
+    "it:t": "Ucraina | Kostyantynivs",
+    "es": "Kostiantynivka",
+    "es:t": "Ucrania | Kostyantynivs",
+    "de": "Kostjantyniwka",
+    "de:t": "Ukraine | Kostyantynivs"
+  },
+  {
+    "en": "Kovel",
+    "en:t": "Ukraine | Kovel's",
+    "a": true,
+    "g": {
+      "lat": 51.209,
+      "lon": 24.698
+    },
+    "it": "Kovel",
+    "it:t": "Ucraina | Kovel's",
+    "es": "Kovel",
+    "es:t": "Ucrania | Kovel's",
+    "de": "Kowel",
+    "de:t": "Ukraine | Kovel's"
+  },
+  {
+    "en": "Kozyatyn",
+    "en:t": "Ukraine | Kozyatyns",
+    "a": true,
+    "g": {
+      "lat": 49.7149,
+      "lon": 28.8364
+    },
+    "it": "Kozjatyn",
+    "it:t": "Ucraina | Kozyatyns",
+    "es": "Koziatin",
+    "es:t": "Ucrania | Kozyatyns",
+    "de": "Kosjatyn",
+    "de:t": "Ukraine | Kozyatyns"
+  },
+  {
+    "en": "Kramatorsk",
+    "en:t": "Ukraine | Kramators",
+    "a": true,
+    "g": {
+      "lat": 48.739,
+      "lon": 37.5844
+    },
+    "it": "Kramators'k",
+    "it:t": "Ucraina | Kramators",
+    "es": "Kramatorsk",
+    "es:t": "Ucrania | Kramators",
+    "de": "Kramatorsk",
+    "de:t": "Ukraine | Kramators"
+  },
+  {
+    "en": "Krasnohrad",
+    "en:t": "Ukraine | Krasnohrads'kyi",
+    "a": true,
+    "g": {
+      "lat": 49.373,
+      "lon": 35.4614
+    },
+    "it": "Krasnohrad",
+    "it:t": "Ucraina | Krasnohrad",
+    "es": "Krasnohrad",
+    "es:t": "Ucrania | Krasnograd",
+    "de": "Krasnohrad",
+    "de:t": "Ukraine | Krasnohrad"
+  },
+  {
+    "en": "Krasnoperekopsk",
+    "en:t": "Ukraine",
+    "a": true,
+    "g": {
+      "lat": 45.9522,
+      "lon": 33.7951
+    },
+    "it": "Krasnoperekops'k",
+    "it:t": "Ucraina",
+    "es": "Krasnoperekopsk",
+    "es:t": "Ucrania",
+    "de": "Krasnoperekopsk",
+    "de:t": "Ukraine"
+  },
+  {
+    "en": "Krasyliv",
+    "en:t": "Ukraine | Krasylivs'kyi",
+    "a": true,
+    "g": {
+      "lat": 49.6492,
+      "lon": 26.9757
+    },
+    "it": "Krasyliv",
+    "it:t": "Ucraina | Krasylivs'kyi",
+    "es": "Krasilov",
+    "es:t": "Ucrania | Krasyliv",
+    "de": "Krasyliw",
+    "de:t": "Ukraine | Krassyliw"
+  },
+  {
+    "en": "Kremenchuk",
+    "en:t": "Ukraine | Kremenchuts",
+    "a": true,
+    "g": {
+      "lat": 49.0658,
+      "lon": 33.41
+    },
+    "it": "Kremenčuk",
+    "it:t": "Ucraina | Kremenchuts",
+    "es": "Kremenchuk",
+    "es:t": "Ucrania | Kremenchuts",
+    "de": "Krementschuk",
+    "de:t": "Ukraine | Kremenchuts"
+  },
+  {
+    "en": "Kremenets",
+    "en:t": "Ukraine | Kremenets'kyi",
+    "a": true,
+    "g": {
+      "lat": 50.1078,
+      "lon": 25.7277
+    },
+    "it": "Kremenec",
+    "it:t": "Ucraina | Kremenets'kyi",
+    "es": "Kremenets",
+    "es:t": "Ucrania | Kremenets",
+    "de": "Kremenez",
+    "de:t": "Ukraine | Kremenez"
+  },
+  {
+    "en": "Kreminna",
+    "en:t": "Ukraine | Kremins'kyi",
+    "a": true,
+    "g": {
+      "lat": 49.0422,
+      "lon": 38.2177
+    },
+    "it": "Kreminna",
+    "it:t": "Ucraina | Kremins'kyi",
+    "es": "Kreminna",
+    "es:t": "Ucrania | Kreminna",
+    "de": "Kreminna",
+    "de:t": "Ukraine | Kreminna"
+  },
+  {
+    "en": "Krolevets",
+    "en:t": "Ukraine | Krolevets'kyi",
+    "a": true,
+    "g": {
+      "lat": 51.5489,
+      "lon": 33.386
+    },
+    "it": "Krolevec",
+    "it:t": "Ucraina | Krolevets'kyi",
+    "es": "Krolevets",
+    "es:t": "Ucrania | Krolevets'kyi",
+    "de": "Krolewez",
+    "de:t": "Ukraine | Krolewez"
+  },
+  {
+    "en": "Kropyvnytskyi",
+    "en:t": "Ukraine | Kirovohrads",
+    "a": true,
+    "g": {
+      "lat": 48.5079,
+      "lon": 32.2623
+    },
+    "it": "Kirovograd",
+    "it:t": "Ucraina | Kirovohrads",
+    "es": "Kirovogrado",
+    "es:t": "Ucrania | Kirovohrads",
+    "de": "Kirowohrad",
+    "de:t": "Ukraine | Kirovohrads"
+  },
+  {
+    "en": "Kryvyi Rih",
+    "en:t": "Ukraine | Kryvoriz",
+    "a": true,
+    "g": {
+      "lat": 47.9105,
+      "lon": 33.3918
+    },
+    "it": "Kryvyj Rih",
+    "it:t": "Ucraina | Kryvoriz",
+    "es": "Krivói Rog",
+    "es:t": "Ucrania | Kryvoriz",
+    "de": "Krywyj Rih",
+    "de:t": "Ukraine | Kryvoriz"
+  },
+  {
+    "en": "Kup'yans'k",
+    "en:t": "Ukraine | Kup'yans",
+    "a": true,
+    "g": {
+      "lat": 49.7056,
+      "lon": 37.6028
+    },
+    "it": "Kupjans'k",
+    "it:t": "Ucraina | Kup'yans",
+    "es": "Kupiansk",
+    "es:t": "Ucrania | Kup'yans",
+    "de": "Kupjansk",
+    "de:t": "Ukraine | Kup'yans"
+  },
+  {
+    "en": "Kurakhove",
+    "en:t": "Ukraine | Mar'ins'kyi",
+    "a": true,
+    "g": {
+      "lat": 47.9866,
+      "lon": 37.2907
+    },
+    "it": "Kurachove",
+    "it:t": "Ucraina | Mar'ïnka",
+    "es": "Kurajovo",
+    "es:t": "Ucrania | Marinka",
+    "de": "Kurachowe",
+    "de:t": "Ukraine | Marjinka"
+  },
+  {
+    "en": "Kyiv",
+    "en:t": "Ukraine",
+    "a": true,
+    "g": {
+      "lat": 50.4501,
+      "lon": 30.5234
+    },
+    "it": "Kyiv",
+    "it:t": "Ucraina",
+    "es": "Kiev",
+    "es:t": "Ucrania",
+    "de": "Kiew",
+    "de:t": "Ukraine"
+  },
+  {
+    "en": "Ladyzhyn",
+    "en:t": "Ukraine | Ladyzhyns",
+    "a": true,
+    "g": {
+      "lat": 48.6838,
+      "lon": 29.2476
+    },
+    "it": "Ladyžyn",
+    "it:t": "Ucraina | Ladyzhyns",
+    "es": "Ladizhin",
+    "es:t": "Ucrania | Ladyzhyns",
+    "de": "Ladyschyn",
+    "de:t": "Ukraine | Ladyzhyns"
+  },
+  {
+    "en": "Lozova",
+    "en:t": "Ukraine | Lozivs",
+    "a": true,
+    "g": {
+      "lat": 48.8902,
+      "lon": 36.308
+    },
+    "it": "Lozova",
+    "it:t": "Ucraina | Lozivs",
+    "es": "Lozova",
+    "es:t": "Ucrania | Lozivs",
+    "de": "Losowa",
+    "de:t": "Ukraine | Lozivs"
+  },
+  {
+    "en": "Lubny",
+    "en:t": "Ukraine | Lubens",
+    "a": true,
+    "g": {
+      "lat": 50.0173,
+      "lon": 32.9908
+    },
+    "it": "Lubny",
+    "it:t": "Ucraina | Lubens",
+    "es": "Lubny",
+    "es:t": "Ucrania | Lubens",
+    "de": "Lubny",
+    "de:t": "Ukraine | Lubens"
+  },
+  {
+    "en": "Luhansk",
+    "en:t": "Ukraine | Luhansʹka Misʹkrada",
+    "a": true,
+    "g": {
+      "lat": 48.574,
+      "lon": 39.3078
+    },
+    "it": "Luhans'k",
+    "it:t": "Ucraina | Luhansʹka Misʹkrada",
+    "es": "Lugansk",
+    "es:t": "Ucrania | Luhansʹka Misʹkrada",
+    "de": "Luhansk",
+    "de:t": "Ukraine | Luhansʹka Misʹkrada"
+  },
+  {
+    "en": "Lutsk",
+    "en:t": "Ukraine | Luts",
+    "a": true,
+    "g": {
+      "lat": 50.7472,
+      "lon": 25.3254
+    },
+    "it": "Lutsk",
+    "it:t": "Ucraina | Luts",
+    "es": "Lutsk",
+    "es:t": "Ucrania | Luts",
+    "de": "Luzk",
+    "de:t": "Ukraine | Luts"
+  },
+  {
+    "en": "Lutuhyne",
+    "en:t": "Ukraine | Lutuhyns'kyi",
+    "a": true,
+    "g": {
+      "lat": 48.4006,
+      "lon": 39.2015
+    },
+    "it": "Lutuhyne",
+    "it:t": "Ucraina | Lutuhyns'kyi",
+    "es": "Lutuhine",
+    "es:t": "Ucrania | Lutugino",
+    "de": "Lutuhyne",
+    "de:t": "Ukraine | Lutuhyne"
+  },
+  {
+    "en": "Lviv",
+    "en:t": "Ukraine | L'vivs",
+    "a": true,
+    "g": {
+      "lat": 49.8397,
+      "lon": 24.0297
+    },
+    "it": "Leopoli",
+    "it:t": "Ucraina | L'vivs",
+    "es": "Leópolis",
+    "es:t": "Ucrania | L'vivs",
+    "de": "Lwiw",
+    "de:t": "Ukraine | L'vivs"
+  },
+  {
+    "en": "Lyman",
+    "en:t": "Ukraine | Krasnolymans",
+    "a": true,
+    "g": {
+      "lat": 48.9898,
+      "lon": 37.805
+    },
+    "it": "Lyman",
+    "it:t": "Ucraina | Krasnolymans",
+    "es": "Limán",
+    "es:t": "Ucrania | Krasnolymans",
+    "de": "Lyman",
+    "de:t": "Ukraine | Krasnolymans"
+  },
+  {
+    "en": "Lysychans'k",
+    "en:t": "Ukraine | Lysychans",
+    "a": true,
+    "g": {
+      "lat": 48.9066,
+      "lon": 38.4434
+    },
+    "it": "Lysyčans'k",
+    "it:t": "Ucraina | Lysychans",
+    "es": "Lysychansk",
+    "es:t": "Ucrania | Lysychans",
+    "de": "Lyssytschansk",
+    "de:t": "Ukraine | Lysychans"
+  },
+  {
+    "en": "Lyubotyn",
+    "en:t": "Ukraine | Lyubotyns",
+    "a": true,
+    "g": {
+      "lat": 49.9511,
+      "lon": 35.9408
+    },
+    "it": "Ljubotyn",
+    "it:t": "Ucraina | Lyubotyns",
+    "es": "Liubotin",
+    "es:t": "Ucrania | Lyubotyns",
+    "de": "Ljubotyn",
+    "de:t": "Ukraine | Lyubotyns"
+  },
+  {
+    "en": "Makiivka",
+    "en:t": "Ukraine | Makiivs",
+    "a": true,
+    "g": {
+      "lat": 48.046,
+      "lon": 37.9667
+    },
+    "it": "Makiïvka",
+    "it:t": "Ucraina | Makiivs",
+    "es": "Makiivka",
+    "es:t": "Ucrania | Makiivs",
+    "de": "Makijiwka",
+    "de:t": "Ukraine | Makiivs"
+  },
+  {
+    "en": "Malyn",
+    "en:t": "Ukraine | Malyns",
+    "a": true,
+    "g": {
+      "lat": 50.7697,
+      "lon": 29.2605
+    },
+    "it": "Malyn",
+    "it:t": "Ucraina | Malyns",
+    "es": "Malin",
+    "es:t": "Ucrania | Malyns",
+    "de": "Malyn",
+    "de:t": "Ukraine | Malyns"
+  },
+  {
+    "en": "Marhanets",
+    "en:t": "Ukraine",
+    "a": true,
+    "g": {
+      "lat": 47.6489,
+      "lon": 34.6105
+    },
+    "it": "Marganec",
+    "it:t": "Ucraina",
+    "es": "Marganets",
+    "es:t": "Ucrania",
+    "de": "Marhanez",
+    "de:t": "Ukraine"
+  },
+  {
+    "en": "Mariupol",
+    "en:t": "Ukraine | Mariupol's",
+    "a": true,
+    "g": {
+      "lat": 47.0971,
+      "lon": 37.5434
+    },
+    "it": "Mariupol",
+    "it:t": "Ucraina | Mariupol's",
+    "es": "Mariúpol",
+    "es:t": "Ucrania | Mariupol's",
+    "de": "Mariupol",
+    "de:t": "Ukraine | Mariupol's"
+  },
+  {
+    "en": "Melitopol",
+    "en:t": "Ukraine | Melitopol's",
+    "a": true,
+    "g": {
+      "lat": 46.855,
+      "lon": 35.3587
+    },
+    "it": "Melitopol",
+    "it:t": "Ucraina | Melitopol's",
+    "es": "Melitópol",
+    "es:t": "Ucrania | Melitopol's",
+    "de": "Melitopol",
+    "de:t": "Ukraine | Melitopol's"
+  },
+  {
+    "en": "Merefa",
+    "en:t": "Ukraine | Kharkivs'kyi",
+    "a": true,
+    "g": {
+      "lat": 49.806,
+      "lon": 36.0503
+    },
+    "it": "Merefa",
+    "it:t": "Ucraina | Charkiv",
+    "es": "Merefa",
+    "es:t": "Ucrania | Kharkivs'kyi",
+    "de": "Merefa",
+    "de:t": "Ukraine | Charkiw"
+  },
+  {
+    "en": "Mohyliv-Podil's'kyi",
+    "en:t": "Ukraine | Mohyliv-Podil's",
+    "a": true,
+    "g": {
+      "lat": 48.4584,
+      "lon": 27.7929
+    },
+    "it": "Mohyliv-Podil's'kyj",
+    "it:t": "Ucraina | Mohyliv-Podil's",
+    "es": "Mohilov-Podolski",
+    "es:t": "Ucrania | Mohyliv-Podil's",
+    "de": "Mohyliw-Podilskyj",
+    "de:t": "Ukraine | Mohyliv-Podil's"
+  },
+  {
+    "en": "Molodohvardiis'k",
+    "en:t": "Ukraine | Krasnodons",
+    "a": true,
+    "g": {
+      "lat": 48.3477,
+      "lon": 39.649
+    },
+    "it": "Molodohvardijs'k",
+    "it:t": "Ucraina | Krasnodons",
+    "es": "Molodogvardisk",
+    "es:t": "Ucrania | Krasnodons",
+    "de": "Molodohwardijsk",
+    "de:t": "Ukraine | Krasnodons"
+  },
+  {
+    "en": "Mukachevo",
+    "en:t": "Ukraine | Mukachivs",
+    "a": true,
+    "g": {
+      "lat": 48.4493,
+      "lon": 22.7117
+    },
+    "it": "Mukacheve",
+    "it:t": "Ucraina | Mukachivs",
+    "es": "Mukácheve",
+    "es:t": "Ucrania | Mukachivs",
+    "de": "Mukatschewe",
+    "de:t": "Ukraine | Mukachivs"
+  },
+  {
+    "en": "Mykolaiv",
+    "en:t": "Ukraine | Mykolaivs",
+    "a": true,
+    "g": {
+      "lat": 46.975,
+      "lon": 31.9946
+    },
+    "it": "Mykolaïv",
+    "it:t": "Ucraina | Mykolaivs",
+    "es": "Mykolaiv",
+    "es:t": "Ucrania | Mykolaivs",
+    "de": "Mykolajiw",
+    "de:t": "Ukraine | Mykolaivs"
+  },
+  {
+    "en": "Myrhorod",
+    "en:t": "Ukraine | Myrhorods",
+    "a": true,
+    "g": {
+      "lat": 49.9627,
+      "lon": 33.6053
+    },
+    "it": "Myrhorod",
+    "it:t": "Ucraina | Myrhorods",
+    "es": "Myrhorod",
+    "es:t": "Ucrania | Myrhorods",
+    "de": "Myrhorod",
+    "de:t": "Ukraine | Myrhorods"
+  },
+  {
+    "en": "Myrnohrad",
+    "en:t": "Ukraine | Dymytrovs",
+    "a": true,
+    "g": {
+      "lat": 48.2962,
+      "lon": 37.27
+    },
+    "it": "Myrnohrad",
+    "it:t": "Ucraina | Dymytrovs",
+    "es": "Myrnohrad",
+    "es:t": "Ucrania | Dymytrovs",
+    "de": "Dimitrow",
+    "de:t": "Ukraine | Dymytrovs"
+  },
+  {
+    "en": "Nadvirna",
+    "en:t": "Ukraine | Nadvornyans'kyi",
+    "a": true,
+    "g": {
+      "lat": 48.6212,
+      "lon": 24.576
+    },
+    "it": "Nadvirna",
+    "it:t": "Ucraina | Nadvornyans'kyi",
+    "es": "Nadvorna",
+    "es:t": "Ucrania | Nadvirna",
+    "de": "Nadwirna",
+    "de:t": "Ukraine | Nadwirna"
+  },
+  {
+    "en": "Netishyn",
+    "en:t": "Ukraine | Netishyns",
+    "a": true,
+    "g": {
+      "lat": 50.334,
+      "lon": 26.6501
+    },
+    "it": "Netišyn",
+    "it:t": "Ucraina | Netishyns",
+    "es": "Netishin",
+    "es:t": "Ucrania | Netishyns",
+    "de": "Netischyn",
+    "de:t": "Ukraine | Netishyns"
+  },
+  {
+    "en": "Nikopol",
+    "en:t": "Ukraine | Nikopol's",
+    "a": true,
+    "g": {
+      "lat": 47.5675,
+      "lon": 34.3948
+    },
+    "it": "Nikopol",
+    "it:t": "Ucraina | Nikopol's",
+    "es": "Nikopol",
+    "es:t": "Ucrania | Nikopol's",
+    "de": "Nikopol",
+    "de:t": "Ukraine | Nikopol's"
+  },
+  {
+    "en": "Nizhnegorskiy",
+    "en:t": "Ukraine",
+    "a": true,
+    "g": {
+      "lat": 45.4466,
+      "lon": 34.7384
+    },
+    "it": "Nizhnegorskiy",
+    "it:t": "Ucraina",
+    "es": "Nizhnegorskiy",
+    "es:t": "Ucrania",
+    "de": "Nizhnegorskiy",
+    "de:t": "Ukraine"
+  },
+  {
+    "en": "Nizhyn",
+    "en:t": "Ukraine | Nizhyns",
+    "a": true,
+    "g": {
+      "lat": 51.0378,
+      "lon": 31.8881
+    },
+    "it": "Nezhin",
+    "it:t": "Ucraina | Nizhyns",
+    "es": "Nezhin",
+    "es:t": "Ucrania | Nizhyns",
+    "de": "Nischyn",
+    "de:t": "Ukraine | Nizhyns"
+  },
+  {
+    "en": "Nosivka",
+    "en:t": "Ukraine | Nosivs'kyi",
+    "a": true,
+    "g": {
+      "lat": 50.9374,
+      "lon": 31.5875
+    },
+    "it": "Nosivka",
+    "it:t": "Ucraina | Nosivka",
+    "es": "Nosivka",
+    "es:t": "Ucrania | Nosivs'kyi",
+    "de": "Nossiwka",
+    "de:t": "Ukraine | Nossiwka"
+  },
+  {
+    "en": "Nova Kakhovka",
+    "en:t": "Ukraine | Novokakhovs",
+    "a": true,
+    "g": {
+      "lat": 46.7515,
+      "lon": 33.3678
+    },
+    "it": "Nova Kachovka",
+    "it:t": "Ucraina | Novokakhovs",
+    "es": "Nueva Kajovka",
+    "es:t": "Ucrania | Novokakhovs",
+    "de": "Nowa Kachowka",
+    "de:t": "Ukraine | Novokakhovs"
+  },
+  {
+    "en": "Novohrad-Volyns'kyi",
+    "en:t": "Ukraine | Novohrad-Volyns",
+    "a": true,
+    "g": {
+      "lat": 50.586,
+      "lon": 27.6364
+    },
+    "it": "Novohrad-Volyns'kyj",
+    "it:t": "Ucraina | Novohrad-Volyns",
+    "es": "Novograd-Volinski",
+    "es:t": "Ucrania | Novohrad-Volyns",
+    "de": "Nowohrad-Wolynskyj",
+    "de:t": "Ukraine | Novohrad-Volyns"
+  },
+  {
+    "en": "Novoiavorivsk",
+    "en:t": "Ukraine | Yavorivs'kyi",
+    "a": true,
+    "g": {
+      "lat": 49.9316,
+      "lon": 23.5711
+    },
+    "it": "Novojavorivs'k",
+    "it:t": "Ucraina | Yavorivs'kyi",
+    "es": "Novoiavorivsk",
+    "es:t": "Ucrania | Yavorivs'kyi",
+    "de": "Nowojaworiwsk",
+    "de:t": "Ukraine | Jaworiw"
+  },
+  {
+    "en": "Novomoskovs'k",
+    "en:t": "Ukraine | Novomoskovs",
+    "a": true,
+    "g": {
+      "lat": 48.633,
+      "lon": 35.2242
+    },
+    "it": "Novomoskovs'k",
+    "it:t": "Ucraina | Novomoskovs",
+    "es": "Novomoskovsk",
+    "es:t": "Ucrania | Novomoskovs",
+    "de": "Nowomoskowsk",
+    "de:t": "Ukraine | Novomoskovs"
+  },
+  {
+    "en": "Novoukrainka",
+    "en:t": "Ukraine | Novoukrains'kyi",
+    "a": true,
+    "g": {
+      "lat": 48.3226,
+      "lon": 31.5188
+    },
+    "it": "Novoukraïnka",
+    "it:t": "Ucraina | Novoukrains'kyi",
+    "es": "Novoukrainka",
+    "es:t": "Ucrania | Novoukrains'kyi",
+    "de": "Nowoukrajinka",
+    "de:t": "Ukraine | Nowoukrajinka"
+  },
+  {
+    "en": "Novovolynsk",
+    "en:t": "Ukraine | Novovolyns",
+    "a": true,
+    "g": {
+      "lat": 50.7372,
+      "lon": 24.1659
+    },
+    "it": "Novovolyns'k",
+    "it:t": "Ucraina | Novovolyns",
+    "es": "Novovolinsk",
+    "es:t": "Ucrania | Novovolyns",
+    "de": "Nowowolynsk",
+    "de:t": "Ukraine | Novovolyns"
+  },
+  {
+    "en": "Novyi Buh",
+    "en:t": "Ukraine | Novobuz'kyi",
+    "a": true,
+    "g": {
+      "lat": 47.6969,
+      "lon": 32.5039
+    },
+    "it": "Novyj Buh",
+    "it:t": "Ucraina | Novobuz'kyi",
+    "es": "Novi Buh",
+    "es:t": "Ucrania | Novyi Buh",
+    "de": "Nowyj Buh",
+    "de:t": "Ukraine | Nowyj Buh"
+  },
+  {
+    "en": "Obukhiv",
+    "en:t": "Ukraine | Obukhivs'kyi",
+    "a": true,
+    "g": {
+      "lat": 50.1099,
+      "lon": 30.6299
+    },
+    "it": "Obuchiv",
+    "it:t": "Ucraina | Obukhivs'kyi",
+    "es": "Obujov",
+    "es:t": "Ucrania | Obukhiv",
+    "de": "Obuchiw",
+    "de:t": "Ukraine | Obuchiw"
+  },
+  {
+    "en": "Ochakiv",
+    "en:t": "Ukraine | Ochakivs",
+    "a": true,
+    "g": {
+      "lat": 46.6188,
+      "lon": 31.5388
+    },
+    "it": "Očakiv",
+    "it:t": "Ucraina | Ochakivs",
+    "es": "Ochakiv",
+    "es:t": "Ucrania | Ochakivs",
+    "de": "Otschakiw",
+    "de:t": "Ukraine | Ochakivs"
+  },
+  {
+    "en": "Odesa",
+    "en:t": "Ukraine | Odes",
+    "a": true,
+    "g": {
+      "lat": 46.4825,
+      "lon": 30.7233
+    },
+    "it": "Odessa",
+    "it:t": "Ucraina | Odes",
+    "es": "Odesa",
+    "es:t": "Ucrania | Odes",
+    "de": "Odessa",
+    "de:t": "Ukraine | Odes"
+  },
+  {
+    "en": "Okhtyrka",
+    "en:t": "Ukraine | Okhtyrs",
+    "a": true,
+    "g": {
+      "lat": 50.3151,
+      "lon": 34.9006
+    },
+    "it": "Ochtyrka",
+    "it:t": "Ucraina | Okhtyrs",
+    "es": "Ojtirka",
+    "es:t": "Ucrania | Okhtyrs",
+    "de": "Ochtyrka",
+    "de:t": "Ukraine | Okhtyrs"
+  },
+  {
+    "en": "Oleksandriya",
+    "en:t": "Ukraine | Oleksandriis",
+    "a": true,
+    "g": {
+      "lat": 48.6633,
+      "lon": 33.0968
+    },
+    "it": "Oleksandrija",
+    "it:t": "Ucraina | Oleksandriis",
+    "es": "Oleksandriya",
+    "es:t": "Ucrania | Oleksandriis",
+    "de": "Olexandrija",
+    "de:t": "Ukraine | Oleksandriis"
+  },
+  {
+    "en": "Orikhiv",
+    "en:t": "Ukraine | Orikhivs'kyi",
+    "a": true,
+    "g": {
+      "lat": 47.5659,
+      "lon": 35.7877
+    },
+    "it": "Orichiv",
+    "it:t": "Ucraina | Orikhivs'kyi",
+    "es": "Orejov",
+    "es:t": "Ucrania | Orijiv",
+    "de": "Orichiw",
+    "de:t": "Ukraine | Orichiw"
+  },
+  {
+    "en": "Ovruch",
+    "en:t": "Ukraine | Ovruts'kyi",
+    "a": true,
+    "g": {
+      "lat": 51.3268,
+      "lon": 28.8029
+    },
+    "it": "Ovruč",
+    "it:t": "Ucraina | Ovruč",
+    "es": "Ovruch",
+    "es:t": "Ucrania | Ovruts'kyi",
+    "de": "Owrutsch",
+    "de:t": "Ukraine | Owrutsch"
+  },
+  {
+    "en": "Pavlohrad",
+    "en:t": "Ukraine | Pavlohrads",
+    "a": true,
+    "g": {
+      "lat": 48.5294,
+      "lon": 35.9033
+    },
+    "it": "Pavlohrad",
+    "it:t": "Ucraina | Pavlohrads",
+    "es": "Pavlohrad",
+    "es:t": "Ucrania | Pavlohrads",
+    "de": "Pawlohrad",
+    "de:t": "Ukraine | Pavlohrads"
+  },
+  {
+    "en": "Pereval's'k",
+    "en:t": "Ukraine | Pereval's'kyi",
+    "a": true,
+    "g": {
+      "lat": 48.4401,
+      "lon": 38.818
+    },
+    "it": "Pereval's'k",
+    "it:t": "Ucraina | Pereval's'kyi",
+    "es": "Perevalsk",
+    "es:t": "Ucrania | Perevalsk",
+    "de": "Perewalsk",
+    "de:t": "Ukraine | Perewalsk"
+  },
+  {
+    "en": "Pereyaslav-Khmel'nyts'kyi",
+    "en:t": "Ukraine | Pereyaslav-Khmel'nyts",
+    "a": true,
+    "g": {
+      "lat": 50.0716,
+      "lon": 31.4502
+    },
+    "it": "Perejaslav-Chmel'nyc'kyj",
+    "it:t": "Ucraina | Pereyaslav-Khmel'nyts",
+    "es": "Pereiaslav-Jmelnitski",
+    "es:t": "Ucrania | Pereyaslav-Khmel'nyts",
+    "de": "Perejaslaw-Chmelnyzkyj",
+    "de:t": "Ukraine | Pereyaslav-Khmel'nyts"
+  },
+  {
+    "en": "Pervomais'k",
+    "en:t": "Ukraine | Mykolaiv Oblast",
+    "a": true,
+    "g": {
+      "lat": 48.0451,
+      "lon": 30.8884
+    },
+    "it": "Pervomajs'k",
+    "it:t": "Ucraina | Oblast' di Mykolaïv",
+    "es": "Pervomais'k",
+    "es:t": "Ucrania | Mykolaiv Oblast",
+    "de": "Perwomaisk",
+    "de:t": "Ukraine | Oblast Mykolajiw"
+  },
+  {
+    "en": "Pervomais'k",
+    "en:t": "Ukraine | Pervomais",
+    "a": true,
+    "g": {
+      "lat": 48.629,
+      "lon": 38.5498
+    },
+    "it": "Pervomajs'k",
+    "it:t": "Ucraina | Pervomais",
+    "es": "Pervomaisk",
+    "es:t": "Ucrania | Pervomais",
+    "de": "Perwomajsk",
+    "de:t": "Ukraine | Pervomais"
+  },
+  {
+    "en": "Pidhorodne",
+    "en:t": "Ukraine | Dnipro raion",
+    "a": true,
+    "g": {
+      "lat": 48.5725,
+      "lon": 35.0869
+    },
+    "it": "Pidhorodne",
+    "it:t": "Ucraina | Dnipropetrovs'k",
+    "es": "Pidgorodne",
+    "es:t": "Ucrania | Dnipropetrovsk",
+    "de": "Pidhorodne",
+    "de:t": "Ukraine | Dnipro"
+  },
+  {
+    "en": "Podilsk",
+    "en:t": "Ukraine | Kotovs",
+    "a": true,
+    "g": {
+      "lat": 47.7586,
+      "lon": 29.5339
+    },
+    "it": "Podil's'k",
+    "it:t": "Ucraina | Kotovs",
+    "es": "Kotovsk",
+    "es:t": "Ucrania | Kotovs",
+    "de": "Kotowsk",
+    "de:t": "Ukraine | Kotovs"
+  },
+  {
+    "en": "Pokrovsk",
+    "en:t": "Ukraine | Krasnoarmiis",
+    "a": true,
+    "g": {
+      "lat": 48.2822,
+      "lon": 37.1848
+    },
+    "it": "Pokrovs'k",
+    "it:t": "Ucraina | Krasnoarmiis",
+    "es": "Pokrovsk",
+    "es:t": "Ucrania | Krasnoarmiis",
+    "de": "Pokrowsk",
+    "de:t": "Ukraine | Krasnoarmiis"
+  },
+  {
+    "en": "Pyryatyn",
+    "en:t": "Ukraine | Pyryatyns'kyi",
+    "a": true,
+    "g": {
+      "lat": 50.2395,
+      "lon": 32.5071
+    },
+    "it": "Pirjatyn",
+    "it:t": "Ucraina | Pyryatyns'kyi",
+    "es": "Piriatin",
+    "es:t": "Ucrania | Pyriatyn",
+    "de": "Pyrjatyn",
+    "de:t": "Ukraine | Pyrjatyn"
+  },
+  {
+    "en": "Slavutych",
+    "en:t": "Ukraine | Darnyts'kyi",
+    "a": true,
+    "g": {
+      "lat": 50.3943,
+      "lon": 30.6049
+    },
+    "it": "Kiev",
+    "it:t": "Ucraina | Kyiv",
+    "es": "Slavutych",
+    "es:t": "Ucrania | Darnyts'kyi",
+    "de": "Slavutych",
+    "de:t": "Ukraine | Darnyts'kyi"
+  },
+  {
+    "en": "Slobozhanske",
+    "en:t": "Ukraine | Zmiivs'kyi",
+    "a": true,
+    "g": {
+      "lat": 49.5944,
+      "lon": 36.529
+    },
+    "it": "Slobozhanske",
+    "it:t": "Ucraina | Zmiivs'kyi",
+    "es": "Slobozhanske",
+    "es:t": "Ucrania | Zmiivs'kyi",
+    "de": "Sloboschanske",
+    "de:t": "Ukraine | Smijiw"
+  },
+  {
+    "en": "Sorokyne",
+    "en:t": "Ukraine | Krasnodons",
+    "a": true,
+    "g": {
+      "lat": 48.3001,
+      "lon": 39.743
+    },
+    "it": "Krasnodon",
+    "it:t": "Ucraina | Krasnodons",
+    "es": "Krasnodon",
+    "es:t": "Ucrania | Krasnodons",
+    "de": "Krasnodon",
+    "de:t": "Ukraine | Krasnodons"
+  },
+  {
+    "en": "Toretsk",
+    "en:t": "Ukraine | Dzerzhyns",
+    "a": true,
+    "g": {
+      "lat": 48.3973,
+      "lon": 37.8552
+    },
+    "it": "Torec'k",
+    "it:t": "Ucraina | Dzerzhyns",
+    "es": "Dzerzhinsk",
+    "es:t": "Ucrania | Dzerzhyns",
+    "de": "Dserschynsk",
+    "de:t": "Ukraine | Dzerzhyns"
+  },
+  {
+    "en": "Varash",
+    "en:t": "Ukraine | Kuznetsovs",
+    "a": true,
+    "g": {
+      "lat": 51.3437,
+      "lon": 25.8491
+    },
+    "it": "Varaş",
+    "it:t": "Ucraina | Kuznetsovs",
+    "es": "Kuznetsovsk",
+    "es:t": "Ucrania | Kuznetsovs",
+    "de": "Warasch",
+    "de:t": "Ukraine | Kuznetsovs"
+  },
+  {
+    "en": "Voznesenivka",
+    "en:t": "Ukraine | Sverdlovs",
+    "a": true,
+    "g": {
+      "lat": 48.0778,
+      "lon": 39.7955
+    },
+    "it": "Červonopartyzans'k",
+    "it:t": "Ucraina | Sverdlovs",
+    "es": "Chervonopartyzansk",
+    "es:t": "Ucrania | Sverdlovs",
+    "de": "Tscherwonopartysansk",
+    "de:t": "Ukraine | Sverdlovs"
+  },
+  {
+    "en": "Yalta",
+    "en:t": "Ukraine",
+    "a": true,
+    "g": {
+      "lat": 44.4952,
+      "lon": 34.1663
+    },
+    "it": "Crimean",
+    "it:t": "Ucraina",
+    "es": "Crimea",
+    "es:t": "Ucrania",
+    "de": "Jalta",
+    "de:t": "Ukraine"
+  },
+  {
+    "en": "Yuzhnoukrains'k",
+    "en:t": "Ukraine | Yuzhnoukrains",
+    "a": true,
+    "g": {
+      "lat": 47.8228,
+      "lon": 31.1841
+    },
+    "it": "Južnoukraïns'k",
+    "it:t": "Ucraina | Yuzhnoukrains",
+    "es": "Yuzhnoukrains'k",
+    "es:t": "Ucrania | Yuzhnoukrains",
+    "de": "Juschnoukrajinsk",
+    "de:t": "Ukraine | Yuzhnoukrains"
+  },
+  {
+    "en": "Zaporizhzhia",
+    "en:t": "Ukraine | Zaporiz",
+    "a": true,
+    "g": {
+      "lat": 47.8388,
+      "lon": 35.1396
+    },
+    "it": "Polohy",
+    "it:t": "Ucraina | Zaporiz",
+    "es": "Polohi",
+    "es:t": "Ucrania | Zaporiz",
+    "de": "Polohy",
+    "de:t": "Ukraine | Zaporiz"
+  }
+]

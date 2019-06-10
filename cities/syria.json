@@ -1,0 +1,1097 @@
+[
+    {
+        "en": "A'zaz",
+        "en:t": "Syria | Azaz",
+        "a": true,
+        "g": {
+            "lat": 36.5868,
+            "lon": 37.0481
+        },
+        "it": "A'zaz",
+        "it:t": "Siria | A'zaz",
+        "es": "Azaz",
+        "es:t": "Siria | Azaz",
+        "de": "A\u02bfz\u0101z",
+        "de:t": "Syrien | Azaz"
+    },
+    {
+        "en": "Ad Dana",
+        "en:t": "Syria | Harem",
+        "a": true,
+        "g": {
+            "lat": 36.2184,
+            "lon": 36.7685
+        },
+        "it": "Ad Dana",
+        "it:t": "Siria | Harem",
+        "es": "Ad Dana",
+        "es:t": "Siria | Harem",
+        "de": "Ad Dana",
+        "de:t": "Syrien | Harem"
+    },
+    {
+        "en": "Ad Darbasiyah",
+        "en:t": "Syria | Al Qamisil",
+        "a": true,
+        "g": {
+            "lat": 37.0721,
+            "lon": 40.6525
+        },
+        "it": "Ad Darbasiyah",
+        "it:t": "Siria | Al Qamisil",
+        "es": "Ad Darbasiyah",
+        "es:t": "Siria | Al Qamisil",
+        "de": "Ad Darbasiyah",
+        "de:t": "Syrien | Al Qamisil"
+    },
+    {
+        "en": "Afrin",
+        "en:t": "Syria",
+        "a": true,
+        "g": {
+            "lat": 36.5123,
+            "lon": 36.8654
+        },
+        "it": "Afrin",
+        "it:t": "Siria",
+        "es": "Afrin",
+        "es:t": "Siria",
+        "de": "Afrin",
+        "de:t": "Syrien"
+    },
+    {
+        "en": "Al Bab",
+        "en:t": "Syria",
+        "a": true,
+        "g": {
+            "lat": 36.3721,
+            "lon": 37.5161
+        },
+        "it": "Al Bab",
+        "it:t": "Siria",
+        "es": "Al-Bab",
+        "es:t": "Siria",
+        "de": "al-Bab",
+        "de:t": "Syrien"
+    },
+    {
+        "en": "Al Bukamal",
+        "en:t": "Syria",
+        "a": true,
+        "g": {
+            "lat": 34.4653,
+            "lon": 40.9082
+        },
+        "it": "Abu Kamal",
+        "it:t": "Siria",
+        "es": "Abu Kamal",
+        "es:t": "Siria",
+        "de": "Abu Kamal",
+        "de:t": "Syrien"
+    },
+    {
+        "en": "Al Hasakah",
+        "en:t": "Syria | Al-Hasakah",
+        "a": true,
+        "g": {
+            "lat": 36.5079,
+            "lon": 40.7463
+        },
+        "it": "Al Hasakah",
+        "it:t": "Siria | Al-Hasakah",
+        "es": "Hasaka",
+        "es:t": "Siria | Hasaka",
+        "de": "al-Hasaka",
+        "de:t": "Syrien | Al-Hasakah"
+    },
+    {
+        "en": "Al Hrak",
+        "en:t": "Syria | Daraa",
+        "a": true,
+        "g": {
+            "lat": 32.751,
+            "lon": 36.301
+        },
+        "it": "Al Hrak",
+        "it:t": "Siria | Daraa",
+        "es": "Al Hrak",
+        "es:t": "Siria | Daraa",
+        "de": "Al Hrak",
+        "de:t": "Syrien | Daraa"
+    },
+    {
+        "en": "Al Kiswah",
+        "en:t": "Syria | Markaz Rif Dimashq",
+        "a": true,
+        "g": {
+            "lat": 33.3584,
+            "lon": 36.2522
+        },
+        "it": "Al Kiswah",
+        "it:t": "Siria | Markaz Rif Dimashq",
+        "es": "Al Kiswah",
+        "es:t": "Siria | Markaz Rif Dimashq",
+        "de": "Al Kiswah",
+        "de:t": "Syrien | Markaz Rif Dimashq"
+    },
+    {
+        "en": "Al Mayadin",
+        "en:t": "Syria",
+        "a": true,
+        "g": {
+            "lat": 35.0161,
+            "lon": 40.4465
+        },
+        "it": "Al Mayadin",
+        "it:t": "Siria",
+        "es": "Mayadin",
+        "es:t": "Siria",
+        "de": "al-Mayadin",
+        "de:t": "Syrien"
+    },
+    {
+        "en": "Al Nabk",
+        "en:t": "Syria | An-Nabk",
+        "a": true,
+        "g": {
+            "lat": 34.0132,
+            "lon": 36.7335
+        },
+        "it": "Al Nabk",
+        "it:t": "Siria | An-Nabk",
+        "es": "An-Nabk",
+        "es:t": "Siria | An-Nabek",
+        "de": "an-Nabk",
+        "de:t": "Syrien | An-Nabk Distrikt"
+    },
+    {
+        "en": "Al Quaryatayn",
+        "en:t": "Syria | Homs",
+        "a": true,
+        "g": {
+            "lat": 34.2307,
+            "lon": 37.2384
+        },
+        "it": "Al-Qaryatayn",
+        "it:t": "Siria | Homs",
+        "es": "Al Quaryatayn",
+        "es:t": "Siria | Homs",
+        "de": "al-Qaryatain",
+        "de:t": "Syrien | Homs"
+    },
+    {
+        "en": "Al Qunaitra",
+        "en:t": "Syria",
+        "a": true,
+        "g": {
+            "lat": 33.1263,
+            "lon": 35.8258
+        },
+        "it": "Quneitra",
+        "it:t": "Siria",
+        "es": "Quneitra",
+        "es:t": "Siria",
+        "de": "Quneitra",
+        "de:t": "Syrien"
+    },
+    {
+        "en": "Al Qusayr",
+        "en:t": "Syria",
+        "a": true,
+        "g": {
+            "lat": 34.5083,
+            "lon": 36.5824
+        },
+        "it": "Al-Qusayr",
+        "it:t": "Siria",
+        "es": "Al Quseir",
+        "es:t": "Siria",
+        "de": "Kusseir",
+        "de:t": "Syrien"
+    },
+    {
+        "en": "Al Qutayfah",
+        "en:t": "Syria | Al-Qutayfah",
+        "a": true,
+        "g": {
+            "lat": 33.7394,
+            "lon": 36.5959
+        },
+        "it": "Al Qutayfah",
+        "it:t": "Siria | Al-Qutayfah",
+        "es": "Al Qutayfah",
+        "es:t": "Siria | Al-Qutayfah",
+        "de": "Al Qutayfah",
+        "de:t": "Syrien | Al-Qutayfah"
+    },
+    {
+        "en": "Al Tabqah",
+        "en:t": "Syria",
+        "a": true,
+        "g": {
+            "lat": 35.8381,
+            "lon": 38.5375
+        },
+        "it": "Al-Thawrah",
+        "it:t": "Siria",
+        "es": "Al-Thawrah",
+        "es:t": "Siria",
+        "de": "ath-Thaura",
+        "de:t": "Syrien"
+    },
+    {
+        "en": "Al Tal",
+        "en:t": "Syria | At-Tall",
+        "a": true,
+        "g": {
+            "lat": 33.6089,
+            "lon": 36.3173
+        },
+        "it": "Al Tal",
+        "it:t": "Siria | At-Tall",
+        "es": "Al Tal",
+        "es:t": "Siria | At-Tall",
+        "de": "at-Tall",
+        "de:t": "Syrien | At-Tall"
+    },
+    {
+        "en": "Al Zabadani",
+        "en:t": "Syria | Zabadani",
+        "a": true,
+        "g": {
+            "lat": 33.7258,
+            "lon": 36.1042
+        },
+        "it": "Al Zabadani",
+        "it:t": "Siria | Zabadani",
+        "es": "Zabadani",
+        "es:t": "Siria | Zabadani",
+        "de": "az-Zabadani",
+        "de:t": "Syrien | Zabadani"
+    },
+    {
+        "en": "Al-Safirah",
+        "en:t": "Syria | As-Safirah",
+        "a": true,
+        "g": {
+            "lat": 36.0834,
+            "lon": 37.372
+        },
+        "it": "Al-Safirah",
+        "it:t": "Siria | As-Safirah",
+        "es": "Al-Safira",
+        "es:t": "Siria | As-Safirah",
+        "de": "Sfireh",
+        "de:t": "Syrien | As-Safirah"
+    },
+    {
+        "en": "Aleppo",
+        "en:t": "Syria | Mount Simeon",
+        "a": true,
+        "g": {
+            "lat": 36.2021,
+            "lon": 37.1343
+        },
+        "it": "Aleppo",
+        "it:t": "Siria | Jabal Sam'an",
+        "es": "Alepo",
+        "es:t": "Siria | Monte Sime\u00f3n",
+        "de": "Aleppo",
+        "de:t": "Syrien | Mount Simeon"
+    },
+    {
+        "en": "Ar Raqqah",
+        "en:t": "Syria | Ar-Raqqah",
+        "a": true,
+        "g": {
+            "lat": 35.9594,
+            "lon": 38.9981
+        },
+        "it": "Al-Raqqa",
+        "it:t": "Siria | Ar-Raqqah",
+        "es": "Raqqa",
+        "es:t": "Siria | Ar-Raqqah",
+        "de": "Ar-Raqqa",
+        "de:t": "Syrien | Ar-Raqqah"
+    },
+    {
+        "en": "Ar Rastan",
+        "en:t": "Syria | Ar-Rastan",
+        "a": true,
+        "g": {
+            "lat": 34.925,
+            "lon": 36.7335
+        },
+        "it": "Al-Rastan",
+        "it:t": "Siria | Ar-Rastan",
+        "es": "Rast\u00e1n",
+        "es:t": "Siria | Ar-Rastan",
+        "de": "Rastan",
+        "de:t": "Syrien | Ar-Rastan"
+    },
+    {
+        "en": "As Sanamayn",
+        "en:t": "Syria | As-Sanamayn",
+        "a": true,
+        "g": {
+            "lat": 33.0747,
+            "lon": 36.1817
+        },
+        "it": "As Sanamayn",
+        "it:t": "Siria | As-Sanamayn",
+        "es": "As Sanamayn",
+        "es:t": "Siria | As-Sanamayn",
+        "de": "As Sanamayn",
+        "de:t": "Syrien | As-Sanamayn"
+    },
+    {
+        "en": "As Suwayda",
+        "en:t": "Syria | As-Suwayda",
+        "a": true,
+        "g": {
+            "lat": 32.7129,
+            "lon": 36.5663
+        },
+        "it": "As-Suwayda",
+        "it:t": "Siria | As-Suwayda",
+        "es": "As-Suwayda",
+        "es:t": "Siria | As-Suwayda",
+        "de": "as-Suwaida",
+        "de:t": "Syrien | As-Suwayda"
+    },
+    {
+        "en": "Ash Shaykh Miskin",
+        "en:t": "Syria | Al Sheikh Maskin",
+        "a": true,
+        "g": {
+            "lat": 32.8338,
+            "lon": 36.1651
+        },
+        "it": "Ash Shaykh Miskin",
+        "it:t": "Siria | Al Sheikh Maskin",
+        "es": "Ash Shaykh Miskin",
+        "es:t": "Siria | Al Sheikh Maskin",
+        "de": "Ash Shaykh Miskin",
+        "de:t": "Syrien | Al Sheikh Maskin"
+    },
+    {
+        "en": "Baniyas",
+        "en:t": "Syria",
+        "a": true,
+        "g": {
+            "lat": 35.1853,
+            "lon": 35.9533
+        },
+        "it": "Baniyas",
+        "it:t": "Siria",
+        "es": "Baniyas",
+        "es:t": "Siria",
+        "de": "Baniyas",
+        "de:t": "Syrien"
+    },
+    {
+        "en": "Binnish",
+        "en:t": "Syria | Idlib",
+        "a": true,
+        "g": {
+            "lat": 35.9582,
+            "lon": 36.7119
+        },
+        "it": "Binnish",
+        "it:t": "Siria | Idlib",
+        "es": "Binnish",
+        "es:t": "Siria | Idlib",
+        "de": "Binnish",
+        "de:t": "Syrien | Idlib"
+    },
+    {
+        "en": "Damascus",
+        "en:t": "Syria",
+        "a": true,
+        "g": {
+            "lat": 33.5138,
+            "lon": 36.2765
+        },
+        "it": "Damasco",
+        "it:t": "Siria",
+        "es": "Damasco",
+        "es:t": "Siria",
+        "de": "Damaskus",
+        "de:t": "Syrien"
+    },
+    {
+        "en": "Daraa",
+        "en:t": "Syria | Daraa",
+        "a": true,
+        "g": {
+            "lat": 32.6264,
+            "lon": 36.1033
+        },
+        "it": "Dar'a",
+        "it:t": "Siria | Daraa",
+        "es": "Daraa",
+        "es:t": "Siria | Daraa",
+        "de": "Dar\u02bf\u0101",
+        "de:t": "Syrien | Daraa"
+    },
+    {
+        "en": "Darayya",
+        "en:t": "Syria | Darayya",
+        "a": true,
+        "g": {
+            "lat": 33.4564,
+            "lon": 36.236
+        },
+        "it": "Darayya",
+        "it:t": "Siria | Darayya",
+        "es": "Daraya",
+        "es:t": "Siria | Darayya",
+        "de": "Darayya",
+        "de:t": "Syrien | Darayya"
+    },
+    {
+        "en": "Dayr Hafir",
+        "en:t": "Syria | Al Bab",
+        "a": true,
+        "g": {
+            "lat": 36.1523,
+            "lon": 37.7078
+        },
+        "it": "Dayr Hafir",
+        "it:t": "Siria | Al Bab",
+        "es": "Dayr Hafir",
+        "es:t": "Siria | Al-Bab",
+        "de": "Dair Hafir",
+        "de:t": "Syrien | Al-Bab"
+    },
+    {
+        "en": "Deir ez-Zur",
+        "en:t": "Syria | Deir ez-Zor",
+        "a": true,
+        "g": {
+            "lat": 35.3297,
+            "lon": 40.135
+        },
+        "it": "Deir el-Zor",
+        "it:t": "Siria | Deir ez-Zor",
+        "es": "Dier ez-Zor",
+        "es:t": "Siria | Deir ez-Zor",
+        "de": "Deir ez-Zor",
+        "de:t": "Syrien | Deir ez-Zor"
+    },
+    {
+        "en": "Duma",
+        "en:t": "Syria | Duma",
+        "a": true,
+        "g": {
+            "lat": 33.5728,
+            "lon": 36.4094
+        },
+        "it": "Duma",
+        "it:t": "Siria | Duma",
+        "es": "Duma",
+        "es:t": "Siria | Duma",
+        "de": "Duma",
+        "de:t": "Syrien | Duma"
+    },
+    {
+        "en": "Hajin",
+        "en:t": "Syria | Abu Kamal",
+        "a": true,
+        "g": {
+            "lat": 34.6867,
+            "lon": 40.8349
+        },
+        "it": "Hajin",
+        "it:t": "Siria | Abu Kamal",
+        "es": "Hajin",
+        "es:t": "Siria | Abu Kamal",
+        "de": "Hadschin",
+        "de:t": "Syrien | Abu Kamal"
+    },
+    {
+        "en": "Halfaya",
+        "en:t": "Syria | Muhradah",
+        "a": true,
+        "g": {
+            "lat": 35.2627,
+            "lon": 36.6067
+        },
+        "it": "Halfaya",
+        "it:t": "Siria | Muhradah",
+        "es": "Halfaya",
+        "es:t": "Siria | Muhrada",
+        "de": "Halfaya",
+        "de:t": "Syrien | Muhradah"
+    },
+    {
+        "en": "Hama",
+        "en:t": "Syria",
+        "a": true,
+        "g": {
+            "lat": 35.1409,
+            "lon": 36.7552
+        },
+        "it": "Hama",
+        "it:t": "Siria",
+        "es": "Hama",
+        "es:t": "Siria",
+        "de": "Al-Hamah",
+        "de:t": "Syrien"
+    },
+    {
+        "en": "Harasta",
+        "en:t": "Syria | Duma",
+        "a": true,
+        "g": {
+            "lat": 33.5583,
+            "lon": 36.3661
+        },
+        "it": "Harasta",
+        "it:t": "Siria | Duma",
+        "es": "Harasta",
+        "es:t": "Siria | Duma",
+        "de": "Harasta",
+        "de:t": "Syrien | Duma"
+    },
+    {
+        "en": "Homs\u200e",
+        "en:t": "Syria",
+        "a": true,
+        "g": {
+            "lat": 34.7324,
+            "lon": 36.7137
+        },
+        "it": "Homs",
+        "it:t": "Siria",
+        "es": "Homs",
+        "es:t": "Siria",
+        "de": "Homs",
+        "de:t": "Syrien"
+    },
+    {
+        "en": "Houla",
+        "en:t": "Syria | Homs",
+        "a": true,
+        "g": {
+            "lat": 34.893,
+            "lon": 36.4959
+        },
+        "it": "Houla",
+        "it:t": "Siria | Homs",
+        "es": "Houla",
+        "es:t": "Siria | Homs",
+        "de": "Houla",
+        "de:t": "Syrien | Homs"
+    },
+    {
+        "en": "Idlib",
+        "en:t": "Syria | Idlib",
+        "a": true,
+        "g": {
+            "lat": 35.931,
+            "lon": 36.6418
+        },
+        "it": "Idlib",
+        "it:t": "Siria | Idlib",
+        "es": "Idlib",
+        "es:t": "Siria | Idlib",
+        "de": "Idlib",
+        "de:t": "Syrien | Idlib"
+    },
+    {
+        "en": "Inkhil",
+        "en:t": "Syria | Izra",
+        "a": true,
+        "g": {
+            "lat": 33.0146,
+            "lon": 36.1274
+        },
+        "it": "Inkhil",
+        "it:t": "Siria | Izra",
+        "es": "Inkhil",
+        "es:t": "Siria | Izra",
+        "de": "Inkhil",
+        "de:t": "Syrien | Izra"
+    },
+    {
+        "en": "Irbin",
+        "en:t": "Syria | Duma",
+        "a": true,
+        "g": {
+            "lat": 33.5389,
+            "lon": 36.3661
+        },
+        "it": "Irbin",
+        "it:t": "Siria | Duma",
+        "es": "Irbin",
+        "es:t": "Siria | Duma",
+        "de": "Irbin",
+        "de:t": "Syrien | Duma"
+    },
+    {
+        "en": "Jableh",
+        "en:t": "Syria",
+        "a": true,
+        "g": {
+            "lat": 35.3688,
+            "lon": 35.9207
+        },
+        "it": "Jable",
+        "it:t": "Siria",
+        "es": "Jableh",
+        "es:t": "Siria",
+        "de": "Dschabla",
+        "de:t": "Syrien"
+    },
+    {
+        "en": "Jarabulus",
+        "en:t": "Syria",
+        "a": true,
+        "g": {
+            "lat": 36.819,
+            "lon": 38.0076
+        },
+        "it": "Jarabulus",
+        "it:t": "Siria",
+        "es": "Yarabulus",
+        "es:t": "Siria",
+        "de": "Dscharabulus",
+        "de:t": "Syrien"
+    },
+    {
+        "en": "Jasim",
+        "en:t": "Syria | Izra",
+        "a": true,
+        "g": {
+            "lat": 32.9941,
+            "lon": 36.0567
+        },
+        "it": "Jasim",
+        "it:t": "Siria | Izra",
+        "es": "Jasim",
+        "es:t": "Siria | Izra",
+        "de": "Jasim",
+        "de:t": "Syrien | Izra"
+    },
+    {
+        "en": "Jayrud",
+        "en:t": "Syria | Al-Qutayfah",
+        "a": true,
+        "g": {
+            "lat": 33.8216,
+            "lon": 36.7712
+        },
+        "it": "Jayrud",
+        "it:t": "Siria | Al-Qutayfah",
+        "es": "Jayrud",
+        "es:t": "Siria | Al-Qutayfah",
+        "de": "Jayrud",
+        "de:t": "Syrien | Al-Qutayfah"
+    },
+    {
+        "en": "Jisr al-Shughur",
+        "en:t": "Syria | Jisr ash-Shugur",
+        "a": true,
+        "g": {
+            "lat": 35.8144,
+            "lon": 36.32
+        },
+        "it": "Jisr al-Shughur",
+        "it:t": "Siria | Jisr ash-Shugur",
+        "es": "Yisr al-Shugur",
+        "es:t": "Siria | Jisr ash-Shugur",
+        "de": "Dschisr asch-Schughur",
+        "de:t": "Syrien | Jisr ash-Shugur"
+    },
+    {
+        "en": "Kafar Takharim",
+        "en:t": "Syria | Harem",
+        "a": true,
+        "g": {
+            "lat": 36.1182,
+            "lon": 36.5162
+        },
+        "it": "Kafar Takharim",
+        "it:t": "Siria | Harem",
+        "es": "Kafar Takharim",
+        "es:t": "Siria | Harem",
+        "de": "Kafar Takharim",
+        "de:t": "Syrien | Harem"
+    },
+    {
+        "en": "Kafr Nabl",
+        "en:t": "Syria | Ma'arrat al-Numan",
+        "a": true,
+        "g": {
+            "lat": 35.6139,
+            "lon": 36.5608
+        },
+        "it": "Kafr Nabl",
+        "it:t": "Siria | Ma'arrat al-Numan",
+        "es": "Kafranbel",
+        "es:t": "Siria | Maarat an-Numan",
+        "de": "Kafranbel",
+        "de:t": "Syrien | Ma'arrat al-Numan"
+    },
+    {
+        "en": "Kafr Zita",
+        "en:t": "Syria | Muhradah",
+        "a": true,
+        "g": {
+            "lat": 35.374,
+            "lon": 36.6013
+        },
+        "it": "Kafr Zita",
+        "it:t": "Siria | Muhradah",
+        "es": "Kafr Zita",
+        "es:t": "Siria | Muhradah",
+        "de": "Kafr Zita",
+        "de:t": "Syrien | Muhradah"
+    },
+    {
+        "en": "Khan Shaykhun",
+        "en:t": "Syria | Muhradah",
+        "a": true,
+        "g": {
+            "lat": 35.4404,
+            "lon": 36.6572
+        },
+        "it": "Khan Shaykhun",
+        "it:t": "Siria | Muhradah",
+        "es": "Jan Sheijun",
+        "es:t": "Siria | Muhrada",
+        "de": "Chan Schaichun",
+        "de:t": "Syrien | Muhradah"
+    },
+    {
+        "en": "Kobane",
+        "en:t": "Syria | Kobani",
+        "a": true,
+        "g": {
+            "lat": 36.8903,
+            "lon": 38.35
+        },
+        "it": "Koban\u00ea",
+        "it:t": "Siria | 'Ayn al-'Arab",
+        "es": "Kobane",
+        "es:t": "Siria | Ayn Al-Arab",
+        "de": "Ain al-Arab",
+        "de:t": "Syrien | Ain al-Arab"
+    },
+    {
+        "en": "Latakia",
+        "en:t": "Syria | Latakia",
+        "a": true,
+        "g": {
+            "lat": 35.5407,
+            "lon": 35.7953
+        },
+        "it": "Laodicea",
+        "it:t": "Siria | Latakia",
+        "es": "Lataquia",
+        "es:t": "Siria | Latakia",
+        "de": "Latakia",
+        "de:t": "Syrien | Latakia"
+    },
+    {
+        "en": "Manbij",
+        "en:t": "Syria",
+        "a": true,
+        "g": {
+            "lat": 36.5353,
+            "lon": 37.9679
+        },
+        "it": "Hierapolis Bambyce",
+        "it:t": "Siria | Manbij",
+        "es": "Manbiy",
+        "es:t": "Siria | Manbij",
+        "de": "Manbidsch",
+        "de:t": "Syrien | Manbij"
+    },
+    {
+        "en": "Masyaf",
+        "en:t": "Syria",
+        "a": true,
+        "g": {
+            "lat": 35.0637,
+            "lon": 36.3417
+        },
+        "it": "Masyaf",
+        "it:t": "Siria",
+        "es": "Masyaf",
+        "es:t": "Siria",
+        "de": "Masyaf",
+        "de:t": "Syrien"
+    },
+    {
+        "en": "Nubl",
+        "en:t": "Syria | Mount Simeon",
+        "a": true,
+        "g": {
+            "lat": 36.3756,
+            "lon": 36.9917
+        },
+        "it": "Nubl",
+        "it:t": "Siria | Mount Simeon",
+        "es": "Nubl",
+        "es:t": "Siria | Mount Simeon",
+        "de": "Nubl",
+        "de:t": "Syrien | Mount Simeon"
+    },
+    {
+        "en": "Palmyra",
+        "en:t": "Syria",
+        "a": true,
+        "g": {
+            "lat": 34.57,
+            "lon": 38.2922
+        },
+        "it": "Tadmor",
+        "it:t": "Siria",
+        "es": "Tudmur",
+        "es:t": "Siria",
+        "de": "Tadmur",
+        "de:t": "Syrien"
+    },
+    {
+        "en": "Qarah",
+        "en:t": "Syria | An-Nabk",
+        "a": true,
+        "g": {
+            "lat": 34.154,
+            "lon": 36.7442
+        },
+        "it": "Qarah",
+        "it:t": "Siria | An-Nabk",
+        "es": "Qarah",
+        "es:t": "Siria | An-Nabk",
+        "de": "Qarah",
+        "de:t": "Syrien | An-Nabk"
+    },
+    {
+        "en": "Qatana",
+        "en:t": "Syria | Qatana",
+        "a": true,
+        "g": {
+            "lat": 33.4394,
+            "lon": 36.0839
+        },
+        "it": "Qatana",
+        "it:t": "Siria | Qatana",
+        "es": "Qatana",
+        "es:t": "Siria | Qatana",
+        "de": "Qatana",
+        "de:t": "Syrien | Qatana"
+    },
+    {
+        "en": "Safita",
+        "en:t": "Syria",
+        "a": true,
+        "g": {
+            "lat": 34.819,
+            "lon": 36.1192
+        },
+        "it": "Safita",
+        "it:t": "Siria",
+        "es": "Safita",
+        "es:t": "Siria",
+        "de": "Safita",
+        "de:t": "Syrien"
+    },
+    {
+        "en": "Salamiyah",
+        "en:t": "Syria",
+        "a": true,
+        "g": {
+            "lat": 35.0114,
+            "lon": 37.0561
+        },
+        "it": "Salamiyya",
+        "it:t": "Siria",
+        "es": "Salamiyah",
+        "es:t": "Siria",
+        "de": "Salamiyya",
+        "de:t": "Syrien"
+    },
+    {
+        "en": "Salqin",
+        "en:t": "Syria | Harem",
+        "a": true,
+        "g": {
+            "lat": 36.1408,
+            "lon": 36.4554
+        },
+        "it": "Salqin",
+        "it:t": "Siria | Harem",
+        "es": "Salqin",
+        "es:t": "Siria | Harem",
+        "de": "Salqin",
+        "de:t": "Syrien | Harem"
+    },
+    {
+        "en": "Saraqib",
+        "en:t": "Syria | Idlib",
+        "a": true,
+        "g": {
+            "lat": 35.8615,
+            "lon": 36.7981
+        },
+        "it": "Saraqib",
+        "it:t": "Siria | Idlib",
+        "es": "Saraqib",
+        "es:t": "Siria | Idlib",
+        "de": "Sarakeb",
+        "de:t": "Syrien | Idlib"
+    },
+    {
+        "en": "Subaykhan",
+        "en:t": "Syria | Abu Kamal",
+        "a": true,
+        "g": {
+            "lat": 34.8592,
+            "lon": 40.6017
+        },
+        "it": "Subaykhan",
+        "it:t": "Siria | Abu Kamal",
+        "es": "Subaykhan",
+        "es:t": "Siria | Abu Kamal",
+        "de": "Subaykhan",
+        "de:t": "Syrien | Abu Kamal"
+    },
+    {
+        "en": "Suran",
+        "en:t": "Syria | Hama",
+        "a": true,
+        "g": {
+            "lat": 35.2867,
+            "lon": 36.7415
+        },
+        "it": "Suran",
+        "it:t": "Siria | Hama",
+        "es": "Suran",
+        "es:t": "Siria | Hama",
+        "de": "Suran",
+        "de:t": "Syrien | Hama"
+    },
+    {
+        "en": "Tadif",
+        "en:t": "Syria | Al Bab",
+        "a": true,
+        "g": {
+            "lat": 36.349,
+            "lon": 37.5348
+        },
+        "it": "Tadif",
+        "it:t": "Siria | Al Bab",
+        "es": "Tadif",
+        "es:t": "Siria | Al Bab",
+        "de": "Tedef",
+        "de:t": "Syrien | Al-Bab"
+    },
+    {
+        "en": "Tafas",
+        "en:t": "Syria | Daraa",
+        "a": true,
+        "g": {
+            "lat": 32.7325,
+            "lon": 36.0622
+        },
+        "it": "Tafas",
+        "it:t": "Siria | Daraa",
+        "es": "Tafas",
+        "es:t": "Siria | Daraa",
+        "de": "Tafas",
+        "de:t": "Syrien | Daraa"
+    },
+    {
+        "en": "Talbiseh",
+        "en:t": "Syria | Ar-Rastan",
+        "a": true,
+        "g": {
+            "lat": 34.8423,
+            "lon": 36.7308
+        },
+        "it": "Talbiseh",
+        "it:t": "Siria | Ar-Rastan",
+        "es": "Talbiseh",
+        "es:t": "Siria | Ar-Rastan",
+        "de": "Talbiseh",
+        "de:t": "Syrien | Ar-Rastan"
+    },
+    {
+        "en": "Talkalakh",
+        "en:t": "Syria",
+        "a": true,
+        "g": {
+            "lat": 34.6683,
+            "lon": 36.2577
+        },
+        "it": "Talkalakh",
+        "it:t": "Siria",
+        "es": "Talkalakh",
+        "es:t": "Siria",
+        "de": "Tell Kalach",
+        "de:t": "Syrien"
+    },
+    {
+        "en": "Tall Rifat",
+        "en:t": "Syria | Azaz",
+        "a": true,
+        "g": {
+            "lat": 36.4652,
+            "lon": 37.0937
+        },
+        "it": "Tall Rifat",
+        "it:t": "Siria | Azaz",
+        "es": "Tall Rifat",
+        "es:t": "Siria | Azaz",
+        "de": "Tall Rifaat",
+        "de:t": "Syrien | Azaz"
+    },
+    {
+        "en": "Tartus\u200e",
+        "en:t": "Syria | Tartus",
+        "a": true,
+        "g": {
+            "lat": 34.8959,
+            "lon": 35.8867
+        },
+        "it": "Tartus",
+        "it:t": "Siria | Tartus",
+        "es": "Tart\u00fas",
+        "es:t": "Siria | Tartus",
+        "de": "Tartus",
+        "de:t": "Syrien | Tartus"
+    },
+    {
+        "en": "Tayyibat al Imam",
+        "en:t": "Syria | Muhradah",
+        "a": true,
+        "g": {
+            "lat": 35.2662,
+            "lon": 36.7119
+        },
+        "it": "Tayyibat al Imam",
+        "it:t": "Siria | Muhradah",
+        "es": "Taybat al-Imam",
+        "es:t": "Siria | Muhrada",
+        "de": "Tayyibat al Imam",
+        "de:t": "Syrien | Muhradah"
+    },
+    {
+        "en": "Yabrud",
+        "en:t": "Syria",
+        "a": true,
+        "g": {
+            "lat": 33.9718,
+            "lon": 36.658
+        },
+        "it": "Yabrud",
+        "it:t": "Siria",
+        "es": "Yabrud",
+        "es:t": "Siria",
+        "de": "Yabrud",
+        "de:t": "Syrien"
+    }
+]

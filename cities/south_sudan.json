@@ -1,0 +1,182 @@
+[
+    {
+        "en": "Aweil",
+        "en:t": "South Sudan",
+        "a": true,
+        "g": {
+            "lat": 8.7671,
+            "lon": 27.3998
+        },
+        "it": "Aweil",
+        "it:t": "Sudan del Sud",
+        "es": "Uwail",
+        "es:t": "Sud\u00e1n del Sur",
+        "de": "Aweil",
+        "de:t": "S\u00fcdsudan"
+    },
+    {
+        "en": "Bor",
+        "en:t": "South Sudan",
+        "a": true,
+        "g": {
+            "lat": 6.2133,
+            "lon": 31.5655
+        },
+        "it": "Bor",
+        "it:t": "Sudan del Sud",
+        "es": "Bor",
+        "es:t": "Sud\u00e1n del Sur",
+        "de": "Bor",
+        "de:t": "S\u00fcdsudan"
+    },
+    {
+        "en": "Gogrial",
+        "en:t": "South Sudan",
+        "a": true,
+        "g": {
+            "lat": 8.5324,
+            "lon": 28.0991
+        },
+        "it": "Gogrial",
+        "it:t": "Sudan del Sud",
+        "es": "Gogrial",
+        "es:t": "Sud\u00e1n del Sur",
+        "de": "Gogrial",
+        "de:t": "S\u00fcdsudan"
+    },
+    {
+        "en": "Juba",
+        "en:t": "South Sudan",
+        "a": true,
+        "g": {
+            "lat": 4.8594,
+            "lon": 31.5712
+        },
+        "it": "Giuba",
+        "it:t": "Sudan del Sud",
+        "es": "Yuba",
+        "es:t": "Sud\u00e1n del Sur",
+        "de": "Juba",
+        "de:t": "S\u00fcdsudan"
+    },
+    {
+        "en": "Malakal",
+        "en:t": "South Sudan | Tonga",
+        "a": true,
+        "g": {
+            "lat": 9.528,
+            "lon": 31.6682
+        },
+        "it": "Malakal",
+        "it:t": "Sudan del Sud | Tonga",
+        "es": "Malakal",
+        "es:t": "Sud\u00e1n del Sur | Tonga",
+        "de": "Malakal",
+        "de:t": "S\u00fcdsudan | Tonga"
+    },
+    {
+        "en": "Pajok",
+        "en:t": "South Sudan | Magwi",
+        "a": true,
+        "g": {
+            "lat": 3.8731,
+            "lon": 32.475
+        },
+        "it": "Pajok",
+        "it:t": "Sudan del Sud | Magwi",
+        "es": "Pajok",
+        "es:t": "Sud\u00e1n del Sur | Magwi",
+        "de": "Pajok",
+        "de:t": "S\u00fcdsudan | Magwi"
+    },
+    {
+        "en": "Rumbek",
+        "en:t": "South Sudan",
+        "a": true,
+        "g": {
+            "lat": 6.8072,
+            "lon": 29.6789
+        },
+        "it": "Rumbek",
+        "it:t": "Sudan del Sud",
+        "es": "Rumbek",
+        "es:t": "Sud\u00e1n del Sur",
+        "de": "Rumbek",
+        "de:t": "S\u00fcdsudan"
+    },
+    {
+        "en": "Tonj",
+        "en:t": "South Sudan",
+        "a": true,
+        "g": {
+            "lat": 7.2675,
+            "lon": 28.679
+        },
+        "it": "Tonj",
+        "it:t": "Sudan del Sud",
+        "es": "Tonj",
+        "es:t": "Sud\u00e1n del Sur",
+        "de": "Tonj",
+        "de:t": "S\u00fcdsudan"
+    },
+    {
+        "en": "Torit",
+        "en:t": "South Sudan | Amatonge",
+        "a": true,
+        "g": {
+            "lat": 4.4102,
+            "lon": 32.574
+        },
+        "it": "Torit",
+        "it:t": "Sudan del Sud | Amatonge",
+        "es": "Torit",
+        "es:t": "Sud\u00e1n del Sur | Amatonge",
+        "de": "Torit",
+        "de:t": "S\u00fcdsudan | Amatonge"
+    },
+    {
+        "en": "Wau",
+        "en:t": "South Sudan",
+        "a": true,
+        "g": {
+            "lat": 7.7092,
+            "lon": 27.9835
+        },
+        "it": "W\u0101w",
+        "it:t": "Sudan del Sud | Wau",
+        "es": "Wau",
+        "es:t": "Sud\u00e1n del Sur",
+        "de": "Wau",
+        "de:t": "S\u00fcdsudan"
+    },
+    {
+        "en": "Yambio",
+        "en:t": "South Sudan",
+        "a": true,
+        "g": {
+            "lat": 4.5776,
+            "lon": 28.3988
+        },
+        "it": "Yambio",
+        "it:t": "Sudan del Sud",
+        "es": "Yambio",
+        "es:t": "Sud\u00e1n del Sur",
+        "de": "Yambio",
+        "de:t": "S\u00fcdsudan"
+    },
+    {
+        "en": "Yei",
+        "en:t": "South Sudan",
+        "a": true,
+        "g": {
+            "lat": 4.0953,
+            "lon": 30.6775
+        },
+        "it": "Yei",
+        "it:t": "Sudan del Sud",
+        "es": "Yei",
+        "es:t": "Sud\u00e1n del Sur",
+        "de": "Yei",
+        "de:t": "S\u00fcdsudan"
+    }
+]

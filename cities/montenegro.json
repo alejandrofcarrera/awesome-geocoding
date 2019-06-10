@@ -1,0 +1,122 @@
+[
+    {
+        "en": "Bar",
+        "en:t": "Montenegro",
+        "a": true,
+        "g": {
+            "lat": 42.1002,
+            "lon": 19.0907
+        },
+        "it": "Bar",
+        "it:t": "Montenegro",
+        "es": "Bar",
+        "es:t": "Montenegro",
+        "de": "Bar",
+        "de:t": "Montenegro"
+    },
+    {
+        "en": "Bijelo Polje",
+        "en:t": "Montenegro",
+        "a": true,
+        "g": {
+            "lat": 43.0369,
+            "lon": 19.7562
+        },
+        "it": "Bijelo Polje",
+        "it:t": "Montenegro",
+        "es": "Bijelo Polje",
+        "es:t": "Montenegro",
+        "de": "Bijelo Polje",
+        "de:t": "Montenegro"
+    },
+    {
+        "en": "Budva",
+        "en:t": "Montenegro",
+        "a": true,
+        "g": {
+            "lat": 42.2911,
+            "lon": 18.8403
+        },
+        "it": "Budua",
+        "it:t": "Montenegro",
+        "es": "Budva",
+        "es:t": "Montenegro",
+        "de": "Budva",
+        "de:t": "Montenegro"
+    },
+    {
+        "en": "Cetinje",
+        "en:t": "Montenegro | Cetinje",
+        "a": true,
+        "g": {
+            "lat": 42.3931,
+            "lon": 18.9116
+        },
+        "it": "Cettigne",
+        "it:t": "Montenegro | Cetinje",
+        "es": "Ceti\u00f1a",
+        "es:t": "Montenegro | Ceti\u00f1a",
+        "de": "Cetinje",
+        "de:t": "Montenegro | Cetinje"
+    },
+    {
+        "en": "Herceg Novi",
+        "en:t": "Montenegro | Herceg Novi",
+        "a": true,
+        "g": {
+            "lat": 42.4572,
+            "lon": 18.5315
+        },
+        "it": "Herceg Novi",
+        "it:t": "Montenegro | Herceg Novi",
+        "es": "Herceg Novi",
+        "es:t": "Montenegro | Herceg Novi",
+        "de": "Herceg Novi",
+        "de:t": "Montenegro | Herceg Novi"
+    },
+    {
+        "en": "Niksic",
+        "en:t": "Montenegro | Nik\u0161i\u0107",
+        "a": true,
+        "g": {
+            "lat": 42.7805,
+            "lon": 18.9562
+        },
+        "it": "Nik\u0161i\u0107",
+        "it:t": "Montenegro | Nik\u0161i\u0107",
+        "es": "Nik\u0161i\u0107",
+        "es:t": "Montenegro | Nik\u0161i\u0107",
+        "de": "Nik\u0161i\u0107",
+        "de:t": "Montenegro | Nik\u0161i\u0107"
+    },
+    {
+        "en": "Pljevlja",
+        "en:t": "Montenegro | Pljevlja",
+        "a": true,
+        "g": {
+            "lat": 43.3582,
+            "lon": 19.3513
+        },
+        "it": "Pljevlja",
+        "it:t": "Montenegro | Pljevlja",
+        "es": "Pljevlja",
+        "es:t": "Montenegro | Pljevlja",
+        "de": "Pljevlja",
+        "de:t": "Montenegro | Pljevlja"
+    },
+    {
+        "en": "Podgorica",
+        "en:t": "Montenegro | Podgorica",
+        "a": true,
+        "g": {
+            "lat": 42.4304,
+            "lon": 19.2594
+        },
+        "it": "Podgorica",
+        "it:t": "Montenegro | Podgorica",
+        "es": "Podgorica",
+        "es:t": "Montenegro | Podgorica",
+        "de": "Podgorica",
+        "de:t": "Montenegro | Podgorica"
+    }
+]

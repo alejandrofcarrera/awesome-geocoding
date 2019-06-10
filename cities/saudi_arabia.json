@@ -1,0 +1,737 @@
+[
+    {
+        "en": "Abha",
+        "en:t": "Saudi Arabia | Aseer",
+        "a": true,
+        "g": {
+            "lat": 18.2465,
+            "lon": 42.5117
+        },
+        "it": "Abha",
+        "it:t": "Arabia Saudita | Asir",
+        "es": "Abha",
+        "es:t": "Arabia Saudita | Asir",
+        "de": "Abha",
+        "de:t": "Saudi-Arabien | Asir"
+    },
+    {
+        "en": "Abu Arish",
+        "en:t": "Saudi Arabia | Jazan",
+        "a": true,
+        "g": {
+            "lat": 16.9692,
+            "lon": 42.8443
+        },
+        "it": "Abu Arish",
+        "it:t": "Arabia Saudita | Jazan",
+        "es": "Abu Arish",
+        "es:t": "Arabia Saudita | Jiz\u00e1n",
+        "de": "Abu Arish",
+        "de:t": "Saudi-Arabien | Jazan"
+    },
+    {
+        "en": "Ad Dawadimi",
+        "en:t": "Saudi Arabia | Riyadh",
+        "a": true,
+        "g": {
+            "lat": 24.5045,
+            "lon": 44.3943
+        },
+        "it": "Al Duwadimi",
+        "it:t": "Arabia Saudita | Riyadh",
+        "es": "Ad Dawadimi",
+        "es:t": "Arabia Saudita | Riad",
+        "de": "Dawadmi",
+        "de:t": "Saudi-Arabien | Riad"
+    },
+    {
+        "en": "Ad Dilam",
+        "en:t": "Saudi Arabia | Riyadh",
+        "a": true,
+        "g": {
+            "lat": 23.9766,
+            "lon": 47.1557
+        },
+        "it": "Ad Dilam",
+        "it:t": "Arabia Saudita | Riyadh",
+        "es": "Ad Dilam",
+        "es:t": "Arabia Saudita | Riyadh",
+        "de": "Ad Dilam",
+        "de:t": "Saudi-Arabien | Riyadh"
+    },
+    {
+        "en": "Afif",
+        "en:t": "Saudi Arabia | Riyadh",
+        "a": true,
+        "g": {
+            "lat": 23.9052,
+            "lon": 42.9125
+        },
+        "it": "Afif",
+        "it:t": "Arabia Saudita | Riyadh",
+        "es": "Afif",
+        "es:t": "Arabia Saudita | Riad",
+        "de": "Afif",
+        "de:t": "Saudi-Arabien | Riad"
+    },
+    {
+        "en": "Al Battaliyah",
+        "en:t": "Saudi Arabia | Al Ahsa",
+        "a": true,
+        "g": {
+            "lat": 25.4336,
+            "lon": 49.6274
+        },
+        "it": "Al Battaliyah",
+        "it:t": "Arabia Saudita | Al Ahsa",
+        "es": "Al Battaliyah",
+        "es:t": "Arabia Saudita | Al Ahsa",
+        "de": "Al Battaliyah",
+        "de:t": "Saudi-Arabien | Al Ahsa"
+    },
+    {
+        "en": "Al Hofuf",
+        "en:t": "Saudi Arabia | Al Ahsa",
+        "a": true,
+        "g": {
+            "lat": 25.38,
+            "lon": 49.5888
+        },
+        "it": "Al Hofuf",
+        "it:t": "Arabia Saudita | Al Ahsa",
+        "es": "Al Hofuf",
+        "es:t": "Arabia Saudita | Al Ahsa",
+        "de": "Hofuf",
+        "de:t": "Saudi-Arabien | Al-Hasa"
+    },
+    {
+        "en": "Al Jubail",
+        "en:t": "Saudi Arabia | Eastern",
+        "a": true,
+        "g": {
+            "lat": 26.9598,
+            "lon": 49.5687
+        },
+        "it": "Al Jubayl",
+        "it:t": "Arabia Saudita | Al-Sharqiyya",
+        "es": "Al Jubayl",
+        "es:t": "Arabia Saudita | Oriental",
+        "de": "al-Dschubail",
+        "de:t": "Saudi-Arabien | asch-Scharqiyya"
+    },
+    {
+        "en": "Al Jumum",
+        "en:t": "Saudi Arabia | Makkah",
+        "a": true,
+        "g": {
+            "lat": 21.6475,
+            "lon": 39.7137
+        },
+        "it": "Al Jumum",
+        "it:t": "Arabia Saudita | Makkah",
+        "es": "Al Jumum",
+        "es:t": "Arabia Saudita | Makkah",
+        "de": "Al Jumum",
+        "de:t": "Saudi-Arabien | Makkah"
+    },
+    {
+        "en": "Al Khobar",
+        "en:t": "Saudi Arabia | Eastern",
+        "a": true,
+        "g": {
+            "lat": 26.2172,
+            "lon": 50.1971
+        },
+        "it": "Al Khobar",
+        "it:t": "Arabia Saudita | Al-Sharqiyya",
+        "es": "Al Khobar",
+        "es:t": "Arabia Saudita | Oriental",
+        "de": "al-Chubar",
+        "de:t": "Saudi-Arabien | asch-Scharqiyya"
+    },
+    {
+        "en": "Al Mubarraz",
+        "en:t": "Saudi Arabia | Al Ahsa",
+        "a": true,
+        "g": {
+            "lat": 25.4051,
+            "lon": 49.5484
+        },
+        "it": "Al Mubarraz",
+        "it:t": "Arabia Saudita | Al Ahsa",
+        "es": "Al-Mubarraz",
+        "es:t": "Arabia Saudita | Al Ahsa",
+        "de": "Al Mubarraz",
+        "de:t": "Saudi-Arabien | Al Ahsa"
+    },
+    {
+        "en": "Al Namas",
+        "en:t": "Saudi Arabia | Aseer",
+        "a": true,
+        "g": {
+            "lat": 19.1134,
+            "lon": 42.1671
+        },
+        "it": "Al Namas",
+        "it:t": "Arabia Saudita | Aseer",
+        "es": "Al Namas",
+        "es:t": "Arabia Saudita | Aseer",
+        "de": "Al Namas",
+        "de:t": "Saudi-Arabien | Aseer"
+    },
+    {
+        "en": "Al Qaisumah",
+        "en:t": "Saudi Arabia | Eastern",
+        "a": true,
+        "g": {
+            "lat": 28.3107,
+            "lon": 46.1231
+        },
+        "it": "al-Qays\u016bma",
+        "it:t": "Arabia Saudita | Al-Sharqiyya",
+        "es": "Al Qaisumah",
+        "es:t": "Arabia Saudita | Eastern",
+        "de": "Al Qaisumah",
+        "de:t": "Saudi-Arabien | Eastern"
+    },
+    {
+        "en": "Al Qatif",
+        "en:t": "Saudi Arabia | Eastern",
+        "a": true,
+        "g": {
+            "lat": 26.5765,
+            "lon": 49.9982
+        },
+        "it": "Al Qatif",
+        "it:t": "Arabia Saudita | Eastern",
+        "es": "Qatif",
+        "es:t": "Arabia Saudita | Oriental",
+        "de": "al-Qatif",
+        "de:t": "Saudi-Arabien | Eastern"
+    },
+    {
+        "en": "Al Ula",
+        "en:t": "Saudi Arabia | Al Madinah",
+        "a": true,
+        "g": {
+            "lat": 26.5503,
+            "lon": 37.9679
+        },
+        "it": "Al Ula",
+        "it:t": "Arabia Saudita | Al Madinah",
+        "es": "Al-Ula",
+        "es:t": "Arabia Saudita | Medina",
+        "de": "al-'Ula",
+        "de:t": "Saudi-Arabien | Medina"
+    },
+    {
+        "en": "Al Wajh",
+        "en:t": "Saudi Arabia | Tabuk",
+        "a": true,
+        "g": {
+            "lat": 26.2366,
+            "lon": 36.4689
+        },
+        "it": "Al Wajh",
+        "it:t": "Arabia Saudita | Tabuk",
+        "es": "Al Wajh",
+        "es:t": "Arabia Saudita | Tabuk",
+        "de": "al-Wadschh",
+        "de:t": "Saudi-Arabien | Tabuk"
+    },
+    {
+        "en": "Arar",
+        "en:t": "Saudi Arabia | Northern Borders",
+        "a": true,
+        "g": {
+            "lat": 30.9599,
+            "lon": 41.0596
+        },
+        "it": "'Ar'ar",
+        "it:t": "Arabia Saudita | Al-Hudud al-Shamaliyya",
+        "es": "Arar",
+        "es:t": "Arabia Saudita | Hudud del Norte",
+        "de": "Arar",
+        "de:t": "Saudi-Arabien | Al-Hudud asch-schamaliyya"
+    },
+    {
+        "en": "As Sulayyil",
+        "en:t": "Saudi Arabia | Riyadh",
+        "a": true,
+        "g": {
+            "lat": 20.4669,
+            "lon": 45.5629
+        },
+        "it": "As Sulayyil",
+        "it:t": "Arabia Saudita | Riyadh",
+        "es": "As Sulayyil",
+        "es:t": "Arabia Saudita | Riyadh",
+        "de": "As Sulayyil",
+        "de:t": "Saudi-Arabien | Riad"
+    },
+    {
+        "en": "Ash Shafa",
+        "en:t": "Saudi Arabia | Makkah",
+        "a": true,
+        "g": {
+            "lat": 21.0744,
+            "lon": 40.3242
+        },
+        "it": "Ash Shafa",
+        "it:t": "Arabia Saudita | Makkah",
+        "es": "Ash Shafa",
+        "es:t": "Arabia Saudita | Makkah",
+        "de": "Ash Shafa",
+        "de:t": "Saudi-Arabien | Makkah"
+    },
+    {
+        "en": "Az Zulfi",
+        "en:t": "Saudi Arabia | Riyadh",
+        "a": true,
+        "g": {
+            "lat": 26.3099,
+            "lon": 44.8318
+        },
+        "it": "Az Zulfi",
+        "it:t": "Arabia Saudita | Riyadh",
+        "es": "Az Zulfi",
+        "es:t": "Arabia Saudita | Riyadh",
+        "de": "Az Zulfi",
+        "de:t": "Saudi-Arabien | Riyadh"
+    },
+    {
+        "en": "Badr",
+        "en:t": "Saudi Arabia | Al Madinah",
+        "a": true,
+        "g": {
+            "lat": 23.773,
+            "lon": 38.7963
+        },
+        "it": "Badr",
+        "it:t": "Arabia Saudita | Medina",
+        "es": "Badr",
+        "es:t": "Arabia Saudita | Al Madinah",
+        "de": "Badr",
+        "de:t": "Saudi-Arabien | Medina"
+    },
+    {
+        "en": "Bisha",
+        "en:t": "Saudi Arabia | Aseer",
+        "a": true,
+        "g": {
+            "lat": 19.9764,
+            "lon": 42.5902
+        },
+        "it": "Bisha",
+        "it:t": "Arabia Saudita | Aseer",
+        "es": "Bisha",
+        "es:t": "Arabia Saudita | Asir",
+        "de": "Bisha",
+        "de:t": "Saudi-Arabien | Asir"
+    },
+    {
+        "en": "Buqayq",
+        "en:t": "Saudi Arabia | Eastern",
+        "a": true,
+        "g": {
+            "lat": 25.9168,
+            "lon": 49.6707
+        },
+        "it": "Buqayq",
+        "it:t": "Arabia Saudita | Al-Sharqiyya",
+        "es": "Abqaiq",
+        "es:t": "Arabia Saudita | Oriental",
+        "de": "Abqaiq",
+        "de:t": "Saudi-Arabien | asch-Scharqiyya"
+    },
+    {
+        "en": "Dammam",
+        "en:t": "Saudi Arabia | Eastern",
+        "a": true,
+        "g": {
+            "lat": 26.4207,
+            "lon": 50.0888
+        },
+        "it": "Dammam",
+        "it:t": "Arabia Saudita | Al-Sharqiyya",
+        "es": "Dammam",
+        "es:t": "Arabia Saudita | Oriental",
+        "de": "Dammam",
+        "de:t": "Saudi-Arabien | asch-Scharqiyya"
+    },
+    {
+        "en": "Dhahran",
+        "en:t": "Saudi Arabia | Eastern",
+        "a": true,
+        "g": {
+            "lat": 26.2361,
+            "lon": 50.0393
+        },
+        "it": "Dhahran",
+        "it:t": "Arabia Saudita | Al-Sharqiyya",
+        "es": "Dhahran",
+        "es:t": "Arabia Saudita | Oriental",
+        "de": "Dhahran",
+        "de:t": "Saudi-Arabien | asch-Scharqiyya"
+    },
+    {
+        "en": "Duba",
+        "en:t": "Saudi Arabia | Tabuk",
+        "a": true,
+        "g": {
+            "lat": 27.3457,
+            "lon": 35.7243
+        },
+        "it": "Duba",
+        "it:t": "Arabia Saudita | Tabuk",
+        "es": "Duba",
+        "es:t": "Arabia Saudita | Tabuk",
+        "de": "Duba",
+        "de:t": "Saudi-Arabien | Tabuk"
+    },
+    {
+        "en": "Hail",
+        "en:t": "Saudi Arabia",
+        "a": true,
+        "g": {
+            "lat": 27.5114,
+            "lon": 41.7208
+        },
+        "it": "Hail",
+        "it:t": "Arabia Saudita",
+        "es": "Hail",
+        "es:t": "Arabia Saudita",
+        "de": "Ha'il",
+        "de:t": "Saudi-Arabien"
+    },
+    {
+        "en": "Jazan",
+        "en:t": "Saudi Arabia",
+        "a": true,
+        "g": {
+            "lat": 16.8894,
+            "lon": 42.5706
+        },
+        "it": "Jizan",
+        "it:t": "Arabia Saudita",
+        "es": "Jiz\u00e1n",
+        "es:t": "Arabia Saudita",
+        "de": "Dschaizan",
+        "de:t": "Saudi-Arabien"
+    },
+    {
+        "en": "Jeddah",
+        "en:t": "Saudi Arabia | Makkah",
+        "a": true,
+        "g": {
+            "lat": 21.4858,
+            "lon": 39.1925
+        },
+        "it": "Gedda",
+        "it:t": "Arabia Saudita | Mecca",
+        "es": "Yidda",
+        "es:t": "Arabia Saudita | La Meca",
+        "de": "Dschidda",
+        "de:t": "Saudi-Arabien | Mekka"
+    },
+    {
+        "en": "Khafji",
+        "en:t": "Saudi Arabia | Eastern",
+        "a": true,
+        "g": {
+            "lat": 28.4257,
+            "lon": 48.4887
+        },
+        "it": "Khafji",
+        "it:t": "Arabia Saudita | Al-Sharqiyya",
+        "es": "Khafji",
+        "es:t": "Arabia Saudita | Oriental",
+        "de": "Khafji",
+        "de:t": "Saudi-Arabien | Eastern"
+    },
+    {
+        "en": "Khamis Mushait",
+        "en:t": "Saudi Arabia | Aseer",
+        "a": true,
+        "g": {
+            "lat": 18.3093,
+            "lon": 42.7662
+        },
+        "it": "Khamis Mushait",
+        "it:t": "Arabia Saudita | Aseer",
+        "es": "Khamis Mushait",
+        "es:t": "Arabia Saudita | Aseer",
+        "de": "Chamis Muschait",
+        "de:t": "Saudi-Arabien | Asir"
+    },
+    {
+        "en": "Mecca",
+        "en:t": "Saudi Arabia | Makkah",
+        "a": true,
+        "g": {
+            "lat": 21.3891,
+            "lon": 39.8579
+        },
+        "it": "La Mecca",
+        "it:t": "Arabia Saudita | Mecca",
+        "es": "Meca",
+        "es:t": "Arabia Saudita | La Meca",
+        "de": "Mekka",
+        "de:t": "Saudi-Arabien | Mekka"
+    },
+    {
+        "en": "Medina",
+        "en:t": "Saudi Arabia",
+        "a": true,
+        "g": {
+            "lat": 24.5247,
+            "lon": 39.5692
+        },
+        "it": "Medina",
+        "it:t": "Arabia Saudita",
+        "es": "Medina",
+        "es:t": "Arabia Saudita",
+        "de": "Medina",
+        "de:t": "Saudi-Arabien"
+    },
+    {
+        "en": "Najran",
+        "en:t": "Saudi Arabia",
+        "a": true,
+        "g": {
+            "lat": 17.5656,
+            "lon": 44.2289
+        },
+        "it": "Najran",
+        "it:t": "Arabia Saudita",
+        "es": "Najr\u00e1n",
+        "es:t": "Arabia Saudita",
+        "de": "Nadschran",
+        "de:t": "Saudi-Arabien"
+    },
+    {
+        "en": "Rabigh",
+        "en:t": "Saudi Arabia | Makkah",
+        "a": true,
+        "g": {
+            "lat": 22.7907,
+            "lon": 39.019
+        },
+        "it": "Rabigh",
+        "it:t": "Arabia Saudita | Makkah",
+        "es": "Rabigh",
+        "es:t": "Arabia Saudita | Makkah",
+        "de": "Rabigh",
+        "de:t": "Saudi-Arabien | Mekka"
+    },
+    {
+        "en": "Riyadh",
+        "en:t": "Saudi Arabia | Riyadh",
+        "a": true,
+        "g": {
+            "lat": 24.7136,
+            "lon": 46.6753
+        },
+        "it": "Riyad",
+        "it:t": "Arabia Saudita | Al-Riyad",
+        "es": "Riad",
+        "es:t": "Arabia Saudita | Riad",
+        "de": "Riad",
+        "de:t": "Saudi-Arabien | Riad"
+    },
+    {
+        "en": "Sabya",
+        "en:t": "Saudi Arabia | Jazan",
+        "a": true,
+        "g": {
+            "lat": 17.1548,
+            "lon": 42.6269
+        },
+        "it": "Sabya",
+        "it:t": "Arabia Saudita | Jazan",
+        "es": "Sabya",
+        "es:t": "Arabia Saudita | Jazan",
+        "de": "Sabya",
+        "de:t": "Saudi-Arabien | Dschaizan"
+    },
+    {
+        "en": "Safwa",
+        "en:t": "Saudi Arabia | Eastern",
+        "a": true,
+        "g": {
+            "lat": 26.6275,
+            "lon": 49.9162
+        },
+        "it": "Safwa",
+        "it:t": "Arabia Saudita | Eastern",
+        "es": "Safwa",
+        "es:t": "Arabia Saudita | Eastern",
+        "de": "Safwa",
+        "de:t": "Saudi-Arabien | asch-Scharqiyya"
+    },
+    {
+        "en": "Saihat",
+        "en:t": "Saudi Arabia | Eastern",
+        "a": true,
+        "g": {
+            "lat": 26.4915,
+            "lon": 50.0085
+        },
+        "it": "Saihat",
+        "it:t": "Arabia Saudita | Al-Sharqiyya",
+        "es": "Saihat",
+        "es:t": "Arabia Saudita | Oriental",
+        "de": "Saihat",
+        "de:t": "Saudi-Arabien | Eastern"
+    },
+    {
+        "en": "Samtah",
+        "en:t": "Saudi Arabia | Jazan",
+        "a": true,
+        "g": {
+            "lat": 16.597,
+            "lon": 42.9392
+        },
+        "it": "Samtah",
+        "it:t": "Arabia Saudita | Jazan",
+        "es": "Samtah",
+        "es:t": "Arabia Saudita | Jazan",
+        "de": "Samtah",
+        "de:t": "Saudi-Arabien | Jazan"
+    },
+    {
+        "en": "Sultanah",
+        "en:t": "Saudi Arabia | Al Madinah",
+        "a": true,
+        "g": {
+            "lat": 24.5,
+            "lon": 39.58
+        },
+        "it": "Sultanah",
+        "it:t": "Arabia Saudita | Al Madinah",
+        "es": "Sultanah",
+        "es:t": "Arabia Saudita | Al Madinah",
+        "de": "Sultanah",
+        "de:t": "Saudi-Arabien | Al Madinah"
+    },
+    {
+        "en": "Tabuk",
+        "en:t": "Saudi Arabia | Tabuk",
+        "a": true,
+        "g": {
+            "lat": 28.3835,
+            "lon": 36.5662
+        },
+        "it": "Tabuk",
+        "it:t": "Arabia Saudita",
+        "es": "Tabuk",
+        "es:t": "Arabia Saudita | Tabuk",
+        "de": "Tabuk",
+        "de:t": "Saudi-Arabien | Tabuk"
+    },
+    {
+        "en": "Taif",
+        "en:t": "Saudi Arabia | Makkah",
+        "a": true,
+        "g": {
+            "lat": 21.2841,
+            "lon": 40.4248
+        },
+        "it": "Ta'if",
+        "it:t": "Arabia Saudita | Mecca",
+        "es": "Taif",
+        "es:t": "Arabia Saudita | La Meca",
+        "de": "Ta'if",
+        "de:t": "Saudi-Arabien | Mekka"
+    },
+    {
+        "en": "Tarout",
+        "en:t": "Saudi Arabia | Eastern",
+        "a": true,
+        "g": {
+            "lat": 26.5777,
+            "lon": 50.0753
+        },
+        "it": "Tarout",
+        "it:t": "Arabia Saudita | Eastern",
+        "es": "Tarut",
+        "es:t": "Arabia Saudita | Oriental",
+        "de": "Tarout",
+        "de:t": "Saudi-Arabien | Eastern"
+    },
+    {
+        "en": "Tubarjal",
+        "en:t": "Saudi Arabia | Al Jowf",
+        "a": true,
+        "g": {
+            "lat": 30.5155,
+            "lon": 38.2216
+        },
+        "it": "Tubarjal",
+        "it:t": "Arabia Saudita | Al Jowf",
+        "es": "Tubarjal",
+        "es:t": "Arabia Saudita | Al Jowf",
+        "de": "Tubarjal",
+        "de:t": "Saudi-Arabien | Al Jowf"
+    },
+    {
+        "en": "Turaif",
+        "en:t": "Saudi Arabia | Northern Borders",
+        "a": true,
+        "g": {
+            "lat": 31.6661,
+            "lon": 38.6635
+        },
+        "it": "Turaif",
+        "it:t": "Arabia Saudita | Northern Borders",
+        "es": "Turaif",
+        "es:t": "Arabia Saudita | Northern Borders",
+        "de": "Turaif",
+        "de:t": "Saudi-Arabien | Al-Hudud asch-schamaliyya"
+    },
+    {
+        "en": "Turbah",
+        "en:t": "Saudi Arabia | Makkah",
+        "a": true,
+        "g": {
+            "lat": 21.2076,
+            "lon": 41.6211
+        },
+        "it": "Turbah",
+        "it:t": "Arabia Saudita | Makkah",
+        "es": "Turbah",
+        "es:t": "Arabia Saudita | Makkah",
+        "de": "Turbah",
+        "de:t": "Saudi-Arabien | Makkah"
+    },
+    {
+        "en": "Umm Lajj",
+        "en:t": "Saudi Arabia | Al Batha",
+        "a": true,
+        "g": {
+            "lat": 25.0264,
+            "lon": 37.2708
+        },
+        "it": "Umm Lajj",
+        "it:t": "Arabia Saudita | Al Batha",
+        "es": "Umm Lajj",
+        "es:t": "Arabia Saudita | Al Batha",
+        "de": "Umm Lajj",
+        "de:t": "Saudi-Arabien | Al Batha"
+    },
+    {
+        "en": "Yanbu",
+        "en:t": "Saudi Arabia | Al Madinah",
+        "a": true,
+        "g": {
+            "lat": 24.0232,
+            "lon": 38.19
+        },
+        "it": "Yanbu\u02bf",
+        "it:t": "Arabia Saudita | Medina",
+        "es": "Yanbu",
+        "es:t": "Arabia Saudita | Medina",
+        "de": "Yanbu",
+        "de:t": "Saudi-Arabien | Medina"
+    }
+]

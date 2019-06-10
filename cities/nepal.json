@@ -1,0 +1,587 @@
+[
+    {
+        "en": "Baglung",
+        "en:t": "Nepal | Dhawalagiri",
+        "a": true,
+        "g": {
+            "lat": 28.2774,
+            "lon": 83.5816
+        },
+        "it": "Baglung",
+        "it:t": "Nepal | Dhawalagiri",
+        "es": "Baglung",
+        "es:t": "Nepal | Dhawalagiri",
+        "de": "Baglung",
+        "de:t": "Nepal | Dhaulagiri"
+    },
+    {
+        "en": "Banepa",
+        "en:t": "Nepal | Bagmati",
+        "a": true,
+        "g": {
+            "lat": 27.6332,
+            "lon": 85.5277
+        },
+        "it": "Banepa",
+        "it:t": "Nepal | Bagmati",
+        "es": "Banepa",
+        "es:t": "Nepal | Bagmati",
+        "de": "Banepa",
+        "de:t": "Nepal | Bagmati"
+    },
+    {
+        "en": "Bhadrapur",
+        "en:t": "Nepal | Mechi",
+        "a": true,
+        "g": {
+            "lat": 26.5363,
+            "lon": 88.0803
+        },
+        "it": "Bhadrapur",
+        "it:t": "Nepal | Mechi",
+        "es": "Bhadrapur",
+        "es:t": "Nepal | Mechi",
+        "de": "Bhadrapur",
+        "de:t": "Nepal | Mechi"
+    },
+    {
+        "en": "Bharatpur",
+        "en:t": "Nepal | Narayani",
+        "a": true,
+        "g": {
+            "lat": 27.6706,
+            "lon": 84.4385
+        },
+        "it": "Bharatpur",
+        "it:t": "Nepal | Narayani",
+        "es": "Bharatpur",
+        "es:t": "Nepal | Narayani",
+        "de": "Bharatpur",
+        "de:t": "Nepal | Narayani"
+    },
+    {
+        "en": "Bhimdatta",
+        "en:t": "Nepal | Mahakali",
+        "a": true,
+        "g": {
+            "lat": 28.9873,
+            "lon": 80.1652
+        },
+        "it": "Mahendranagar",
+        "it:t": "Nepal | Mahakali",
+        "es": "Bhimdatta",
+        "es:t": "Nepal | Mahakali",
+        "de": "Bhim Datta",
+        "de:t": "Nepal | Mahakali"
+    },
+    {
+        "en": "Biratnagar",
+        "en:t": "Nepal | Koshi",
+        "a": true,
+        "g": {
+            "lat": 26.4525,
+            "lon": 87.2718
+        },
+        "it": "Biratnagar",
+        "it:t": "Nepal | Kosi",
+        "es": "Biratnagar",
+        "es:t": "Nepal | Kosi",
+        "de": "Biratnagar",
+        "de:t": "Nepal | Koshi"
+    },
+    {
+        "en": "Birendranagar",
+        "en:t": "Nepal | Bheri",
+        "a": true,
+        "g": {
+            "lat": 28.5776,
+            "lon": 81.6254
+        },
+        "it": "Birendranagara",
+        "it:t": "Nepal | Bheri",
+        "es": "Birendranagar",
+        "es:t": "Nepal | Bheri",
+        "de": "Birendranagar",
+        "de:t": "Nepal | Bheri"
+    },
+    {
+        "en": "Birgunj",
+        "en:t": "Nepal | Narayani",
+        "a": true,
+        "g": {
+            "lat": 27.0449,
+            "lon": 84.8672
+        },
+        "it": "Birganj",
+        "it:t": "Nepal | Narayani",
+        "es": "Birgunj",
+        "es:t": "Nepal | Narayani",
+        "de": "Birganj",
+        "de:t": "Nepal | Narayani"
+    },
+    {
+        "en": "Butwal",
+        "en:t": "Nepal | Lumbini",
+        "a": true,
+        "g": {
+            "lat": 27.6874,
+            "lon": 83.4323
+        },
+        "it": "Butwal",
+        "it:t": "Nepal | Lumbini",
+        "es": "Butwal",
+        "es:t": "Nepal | Lumbini",
+        "de": "Butwal",
+        "de:t": "Nepal | Lumbini"
+    },
+    {
+        "en": "Dadeldhura",
+        "en:t": "Nepal | Mahakali",
+        "a": true,
+        "g": {
+            "lat": 29.2188,
+            "lon": 80.4994
+        },
+        "it": "Dadeldhura",
+        "it:t": "Nepal | Mahakali",
+        "es": "Dadeldhura",
+        "es:t": "Nepal | Mahakali",
+        "de": "Dadeldhura",
+        "de:t": "Nepal | Mahakali"
+    },
+    {
+        "en": "Dailekh",
+        "en:t": "Nepal | Bheri",
+        "a": true,
+        "g": {
+            "lat": 28.9262,
+            "lon": 81.6473
+        },
+        "it": "Dailekh",
+        "it:t": "Nepal | Bheri",
+        "es": "Dailekh",
+        "es:t": "Nepal | Bheri",
+        "de": "Dailekh",
+        "de:t": "Nepal | Bheri"
+    },
+    {
+        "en": "Dhangadhi",
+        "en:t": "Nepal | Seti",
+        "a": true,
+        "g": {
+            "lat": 28.6852,
+            "lon": 80.6216
+        },
+        "it": "Dhangadhi",
+        "it:t": "Nepal | Seti",
+        "es": "Dhangarhi",
+        "es:t": "Nepal | Seti",
+        "de": "Dhangadhi",
+        "de:t": "Nepal | Seti"
+    },
+    {
+        "en": "Dhankuta",
+        "en:t": "Nepal | Koshi",
+        "a": true,
+        "g": {
+            "lat": 26.9835,
+            "lon": 87.3215
+        },
+        "it": "Dhanakuta",
+        "it:t": "Nepal | Kosi",
+        "es": "Dhankuta",
+        "es:t": "Nepal | Koshi",
+        "de": "Dhankuta",
+        "de:t": "Nepal | Koshi"
+    },
+    {
+        "en": "Dharan",
+        "en:t": "Nepal | Koshi",
+        "a": true,
+        "g": {
+            "lat": 26.7944,
+            "lon": 87.2817
+        },
+        "it": "Dharan",
+        "it:t": "Nepal | Kosi",
+        "es": "Dharan",
+        "es:t": "Nepal | Kosi",
+        "de": "Dharan",
+        "de:t": "Nepal | Koshi"
+    },
+    {
+        "en": "Dipayal Silgadhi",
+        "en:t": "Nepal | Seti",
+        "a": true,
+        "g": {
+            "lat": 29.2605,
+            "lon": 80.9318
+        },
+        "it": "Dipayal Silgadhi",
+        "it:t": "Nepal | Seti",
+        "es": "Dipayal Silgadhi",
+        "es:t": "Nepal | Seti",
+        "de": "Dipayal Silgadhi",
+        "de:t": "Nepal | Seti"
+    },
+    {
+        "en": "Gaur",
+        "en:t": "Nepal | Narayani",
+        "a": true,
+        "g": {
+            "lat": 26.7831,
+            "lon": 85.2774
+        },
+        "it": "Gaur",
+        "it:t": "Nepal | Narayani",
+        "es": "Gaur",
+        "es:t": "Nepal | Narayani",
+        "de": "Gaur",
+        "de:t": "Nepal | Narayani"
+    },
+    {
+        "en": "Gulariya",
+        "en:t": "Nepal | Bheri",
+        "a": true,
+        "g": {
+            "lat": 28.2228,
+            "lon": 81.3289
+        },
+        "it": "Gularia",
+        "it:t": "Nepal | Bheri",
+        "es": "Gulariya",
+        "es:t": "Nepal | Bheri",
+        "de": "Gulariya",
+        "de:t": "Nepal | Bheri"
+    },
+    {
+        "en": "Hetauda",
+        "en:t": "Nepal | Narayani",
+        "a": true,
+        "g": {
+            "lat": 27.4368,
+            "lon": 85.0026
+        },
+        "it": "Hetauda",
+        "it:t": "Nepal | Narayani",
+        "es": "Hetauda",
+        "es:t": "Nepal | Narayani",
+        "de": "Hetauda",
+        "de:t": "Nepal | Narayani"
+    },
+    {
+        "en": "Ilam",
+        "en:t": "Nepal | Mechi",
+        "a": true,
+        "g": {
+            "lat": 26.9112,
+            "lon": 87.9237
+        },
+        "it": "Ilam",
+        "it:t": "Nepal | Mechi",
+        "es": "Ilam",
+        "es:t": "Nepal | Mechi",
+        "de": "Ilam",
+        "de:t": "Nepal | Mechi"
+    },
+    {
+        "en": "Itahari",
+        "en:t": "Nepal | Koshi",
+        "a": true,
+        "g": {
+            "lat": 26.6646,
+            "lon": 87.2718
+        },
+        "it": "Itahari",
+        "it:t": "Nepal | Kosi",
+        "es": "Itahari",
+        "es:t": "Nepal | Koshi",
+        "de": "Itahari",
+        "de:t": "Nepal | Koshi"
+    },
+    {
+        "en": "Jaleshwor",
+        "en:t": "Nepal | Janakpur",
+        "a": true,
+        "g": {
+            "lat": 26.6524,
+            "lon": 85.7974
+        },
+        "it": "Jaleshwor",
+        "it:t": "Nepal | Janakpur",
+        "es": "Jaleshwor",
+        "es:t": "Nepal | Janakpur",
+        "de": "Jaleshwar",
+        "de:t": "Nepal | Janakpur"
+    },
+    {
+        "en": "Janakpur",
+        "en:t": "Nepal",
+        "a": true,
+        "g": {
+            "lat": 26.7271,
+            "lon": 85.9407
+        },
+        "it": "Janakpur",
+        "it:t": "Nepal",
+        "es": "Janakpur",
+        "es:t": "Nepal",
+        "de": "Janakpur",
+        "de:t": "Nepal"
+    },
+    {
+        "en": "Kathmandu",
+        "en:t": "Nepal | Bagmati",
+        "a": true,
+        "g": {
+            "lat": 27.7172,
+            "lon": 85.324
+        },
+        "it": "Katmandu",
+        "it:t": "Nepal | Bagmati",
+        "es": "Katmand\u00fa",
+        "es:t": "Nepal | Bagmati",
+        "de": "Kathmandu",
+        "de:t": "Nepal | Bagmati"
+    },
+    {
+        "en": "Khalanga",
+        "en:t": "Nepal | Api",
+        "a": true,
+        "g": {
+            "lat": 29.8424,
+            "lon": 80.5395
+        },
+        "it": "Darchula",
+        "it:t": "Nepal | Api",
+        "es": "Khalanga",
+        "es:t": "Nepal | Api",
+        "de": "Khalanga",
+        "de:t": "Nepal | Api"
+    },
+    {
+        "en": "Khandbari",
+        "en:t": "Nepal | Koshi",
+        "a": true,
+        "g": {
+            "lat": 27.3927,
+            "lon": 87.2121
+        },
+        "it": "Khandbari",
+        "it:t": "Nepal | Koshi",
+        "es": "Khandbari",
+        "es:t": "Nepal | Koshi",
+        "de": "Khandbari",
+        "de:t": "Nepal | Koshi"
+    },
+    {
+        "en": "Kirtipur",
+        "en:t": "Nepal | Bagmati",
+        "a": true,
+        "g": {
+            "lat": 27.663,
+            "lon": 85.2774
+        },
+        "it": "Kirtipur",
+        "it:t": "Nepal | Bagmati",
+        "es": "Kirtipur",
+        "es:t": "Nepal | Bagmati",
+        "de": "Kirtipur",
+        "de:t": "Nepal | Bagmati"
+    },
+    {
+        "en": "Lahan",
+        "en:t": "Nepal | Sagarmatha",
+        "a": true,
+        "g": {
+            "lat": 26.7297,
+            "lon": 86.4794
+        },
+        "it": "Lahan",
+        "it:t": "Nepal | Sagarmatha",
+        "es": "Lahan",
+        "es:t": "Nepal | Sagarmatha",
+        "de": "Lahan",
+        "de:t": "Nepal | Sagarmatha"
+    },
+    {
+        "en": "Malangawa",
+        "en:t": "Nepal | Janakpur",
+        "a": true,
+        "g": {
+            "lat": 26.8627,
+            "lon": 85.5561
+        },
+        "it": "Malangawa",
+        "it:t": "Nepal | Janakpur",
+        "es": "Malangawa",
+        "es:t": "Nepal | Janakpur",
+        "de": "Malangwa",
+        "de:t": "Nepal | Janakpur"
+    },
+    {
+        "en": "Nepalgunj",
+        "en:t": "Nepal | Bheri",
+        "a": true,
+        "g": {
+            "lat": 28.0548,
+            "lon": 81.6145
+        },
+        "it": "Nepalganj",
+        "it:t": "Nepal | Bheri",
+        "es": "Nepalgunj",
+        "es:t": "Nepal | Bheri",
+        "de": "Nepalganj",
+        "de:t": "Nepal | Bheri"
+    },
+    {
+        "en": "Panauti",
+        "en:t": "Nepal | Bagmati",
+        "a": true,
+        "g": {
+            "lat": 27.5829,
+            "lon": 85.5097
+        },
+        "it": "Panauti",
+        "it:t": "Nepal | Bagmati",
+        "es": "Panauti",
+        "es:t": "Nepal | Bagmati",
+        "de": "Panauti",
+        "de:t": "Nepal | Bagmati"
+    },
+    {
+        "en": "Patan",
+        "en:t": "Nepal | Bagmati",
+        "a": true,
+        "g": {
+            "lat": 27.6644,
+            "lon": 85.3188
+        },
+        "it": "Patan",
+        "it:t": "Nepal | Bagmati",
+        "es": "Patan",
+        "es:t": "Nepal | Bagmati",
+        "de": "Patan",
+        "de:t": "Nepal | Bagmati"
+    },
+    {
+        "en": "Pokhara",
+        "en:t": "Nepal | Gandaki",
+        "a": true,
+        "g": {
+            "lat": 28.2096,
+            "lon": 83.9856
+        },
+        "it": "Pokhara",
+        "it:t": "Nepal | Gandaki",
+        "es": "Pokhara",
+        "es:t": "Nepal | Gandaki",
+        "de": "Pokhara",
+        "de:t": "Nepal | Gandaki"
+    },
+    {
+        "en": "Rajbiraj",
+        "en:t": "Nepal | Sagarmatha",
+        "a": true,
+        "g": {
+            "lat": 26.5419,
+            "lon": 86.7567
+        },
+        "it": "Rajbiraj",
+        "it:t": "Nepal | Sagarmatha",
+        "es": "Rajbiraj",
+        "es:t": "Nepal | Sagarmatha",
+        "de": "Rajbiraj",
+        "de:t": "Nepal | Sagarmatha"
+    },
+    {
+        "en": "Siddharthanagar",
+        "en:t": "Nepal | Lumbini",
+        "a": true,
+        "g": {
+            "lat": 27.5065,
+            "lon": 83.4377
+        },
+        "it": "Siddharthanagar",
+        "it:t": "Nepal | Lumbini",
+        "es": "Siddharthanagar",
+        "es:t": "Nepal | Lumbini",
+        "de": "Siddharthanagar",
+        "de:t": "Nepal | Lumbini"
+    },
+    {
+        "en": "Siraha",
+        "en:t": "Nepal | Sagarmatha",
+        "a": true,
+        "g": {
+            "lat": 26.6397,
+            "lon": 86.1853
+        },
+        "it": "Siraha",
+        "it:t": "Nepal | Sagarmatha",
+        "es": "Siraha",
+        "es:t": "Nepal | Sagarmatha",
+        "de": "Siraha",
+        "de:t": "Nepal | Sagarmatha"
+    },
+    {
+        "en": "Tansen",
+        "en:t": "Nepal | Lumbini",
+        "a": true,
+        "g": {
+            "lat": 27.8619,
+            "lon": 83.5443
+        },
+        "it": "Tansen",
+        "it:t": "Nepal | Lumbini",
+        "es": "Tansen",
+        "es:t": "Nepal | Lumbini",
+        "de": "Tansen",
+        "de:t": "Nepal | Lumbini"
+    },
+    {
+        "en": "Tikapur",
+        "en:t": "Nepal | Seti",
+        "a": true,
+        "g": {
+            "lat": 28.5099,
+            "lon": 81.1086
+        },
+        "it": "Tikapur",
+        "it:t": "Nepal | Seti",
+        "es": "Tikapur",
+        "es:t": "Nepal | Seti",
+        "de": "Tikapur",
+        "de:t": "Nepal | Seti"
+    },
+    {
+        "en": "Tulsipur",
+        "en:t": "Nepal | Rapti",
+        "a": true,
+        "g": {
+            "lat": 28.1545,
+            "lon": 82.3235
+        },
+        "it": "Tulsipur",
+        "it:t": "Nepal | Rapti",
+        "es": "Tulsipur",
+        "es:t": "Nepal | Rapti",
+        "de": "Tulsipur",
+        "de:t": "Nepal | Rapti"
+    },
+    {
+        "en": "Waling",
+        "en:t": "Nepal | Gandaki",
+        "a": true,
+        "g": {
+            "lat": 27.9772,
+            "lon": 83.7677
+        },
+        "it": "Waling",
+        "it:t": "Nepal | Gandaki",
+        "es": "Waling",
+        "es:t": "Nepal | Gandaki",
+        "de": "Waling",
+        "de:t": "Nepal | Gandaki"
+    }
+]

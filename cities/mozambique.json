@@ -1,0 +1,362 @@
+[
+    {
+        "en": "Angoche",
+        "en:t": "Mozambique",
+        "a": true,
+        "g": {
+            "lat": -16.2163,
+            "lon": 39.9145
+        },
+        "it": "Angoche",
+        "it:t": "Mozambico",
+        "es": "Angoche",
+        "es:t": "Mozambique",
+        "de": "Angoche",
+        "de:t": "Mosambik"
+    },
+    {
+        "en": "Beira",
+        "en:t": "Mozambique",
+        "a": true,
+        "g": {
+            "lat": -19.8316,
+            "lon": 34.837
+        },
+        "it": "Beira",
+        "it:t": "Mozambico",
+        "es": "Beira",
+        "es:t": "Mozambique",
+        "de": "Beira",
+        "de:t": "Mosambik"
+    },
+    {
+        "en": "Chibuto",
+        "en:t": "Mozambique",
+        "a": true,
+        "g": {
+            "lat": -24.6806,
+            "lon": 33.5312
+        },
+        "it": "Chibuto",
+        "it:t": "Mozambico",
+        "es": "Chibuto",
+        "es:t": "Mozambique",
+        "de": "Chibuto",
+        "de:t": "Mosambik"
+    },
+    {
+        "en": "Chimoio",
+        "en:t": "Mozambique | Gondola",
+        "a": true,
+        "g": {
+            "lat": -19.1055,
+            "lon": 33.4608
+        },
+        "it": "Chimoio",
+        "it:t": "Mozambico | Gondola",
+        "es": "Chimoio",
+        "es:t": "Mozambique | Gondola",
+        "de": "Chimoio",
+        "de:t": "Mosambik | G\u00f4ndola"
+    },
+    {
+        "en": "Chokwe",
+        "en:t": "Mozambique",
+        "a": true,
+        "g": {
+            "lat": -24.5323,
+            "lon": 32.9832
+        },
+        "it": "Chokwe",
+        "it:t": "Mozambico",
+        "es": "Ch\u00f3kw\u00e8",
+        "es:t": "Mozambique",
+        "de": "Ch\u00f3kw\u00e8",
+        "de:t": "Mosambik"
+    },
+    {
+        "en": "Cuamba",
+        "en:t": "Mozambique",
+        "a": true,
+        "g": {
+            "lat": -14.8001,
+            "lon": 36.5338
+        },
+        "it": "Cuamba",
+        "it:t": "Mozambico",
+        "es": "Cuamba",
+        "es:t": "Mozambique",
+        "de": "Cuamba",
+        "de:t": "Mosambik"
+    },
+    {
+        "en": "Dondo",
+        "en:t": "Mozambique",
+        "a": true,
+        "g": {
+            "lat": -19.6115,
+            "lon": 34.7409
+        },
+        "it": "Dondo",
+        "it:t": "Mozambico",
+        "es": "Dondo",
+        "es:t": "Mozambique",
+        "de": "Dondo",
+        "de:t": "Mosambik"
+    },
+    {
+        "en": "Inhambane",
+        "en:t": "Mozambique",
+        "a": true,
+        "g": {
+            "lat": -23.8662,
+            "lon": 35.3827
+        },
+        "it": "Inhambane",
+        "it:t": "Mozambico",
+        "es": "Inhambane",
+        "es:t": "Mozambique",
+        "de": "Inhambane",
+        "de:t": "Mosambik"
+    },
+    {
+        "en": "Island of Mozambique",
+        "en:t": "Mozambique | Mozambique Island",
+        "a": true,
+        "g": {
+            "lat": -15.0364,
+            "lon": 40.7323
+        },
+        "it": "Isola di Mozambico",
+        "it:t": "Mozambico | Mozambique Island",
+        "es": "Isla de Mozambique",
+        "es:t": "Mozambique | Mozambique Island",
+        "de": "Ilha de Mo\u00e7ambique",
+        "de:t": "Mosambik | Mozambique Island"
+    },
+    {
+        "en": "Lichinga",
+        "en:t": "Mozambique | Cidade De Lichinga",
+        "a": true,
+        "g": {
+            "lat": -13.3024,
+            "lon": 35.2478
+        },
+        "it": "Lichinga",
+        "it:t": "Mozambico | Cidade De Lichinga",
+        "es": "Lichinga",
+        "es:t": "Mozambique | Cidade De Lichinga",
+        "de": "Lichinga",
+        "de:t": "Mosambik | Cidade De Lichinga"
+    },
+    {
+        "en": "Macia",
+        "en:t": "Mozambique | Bilene Macia",
+        "a": true,
+        "g": {
+            "lat": -25.0264,
+            "lon": 33.107
+        },
+        "it": "Macia",
+        "it:t": "Mozambico | Bilene Macia",
+        "es": "Macia",
+        "es:t": "Mozambique | Bilene Macia",
+        "de": "Macia",
+        "de:t": "Mosambik | Bilene Macia"
+    },
+    {
+        "en": "Manjacaze",
+        "en:t": "Mozambique",
+        "a": true,
+        "g": {
+            "lat": -24.7057,
+            "lon": 33.8802
+        },
+        "it": "Manjacaze",
+        "it:t": "Mozambico",
+        "es": "Manjacaze",
+        "es:t": "Mozambique",
+        "de": "Manjacaze",
+        "de:t": "Mosambik"
+    },
+    {
+        "en": "Maputo",
+        "en:t": "Mozambique",
+        "a": true,
+        "g": {
+            "lat": -25.9692,
+            "lon": 32.5732
+        },
+        "it": "Maputo",
+        "it:t": "Mozambico",
+        "es": "Maputo",
+        "es:t": "Mozambique",
+        "de": "Maputo",
+        "de:t": "Mosambik"
+    },
+    {
+        "en": "Matola",
+        "en:t": "Mozambique",
+        "a": true,
+        "g": {
+            "lat": -25.9239,
+            "lon": 32.4658
+        },
+        "it": "Matola",
+        "it:t": "Mozambico",
+        "es": "Matola",
+        "es:t": "Mozambique",
+        "de": "Matola",
+        "de:t": "Mosambik"
+    },
+    {
+        "en": "Maxixe",
+        "en:t": "Mozambique",
+        "a": true,
+        "g": {
+            "lat": -23.8606,
+            "lon": 35.3468
+        },
+        "it": "Maxixe",
+        "it:t": "Mozambico",
+        "es": "Maxixe",
+        "es:t": "Mozambique",
+        "de": "Maxixe",
+        "de:t": "Mosambik"
+    },
+    {
+        "en": "Mocimboa da Praia",
+        "en:t": "Mozambique",
+        "a": true,
+        "g": {
+            "lat": -11.3536,
+            "lon": 40.3522
+        },
+        "it": "Moc\u00edmboa da Praia",
+        "it:t": "Mozambico",
+        "es": "Moc\u00edmboa da Praia",
+        "es:t": "Mozambique",
+        "de": "Moc\u00edmboa da Praia",
+        "de:t": "Mosambik"
+    },
+    {
+        "en": "Montepuez",
+        "en:t": "Mozambique",
+        "a": true,
+        "g": {
+            "lat": -13.134,
+            "lon": 38.9981
+        },
+        "it": "Montepuez",
+        "it:t": "Mozambico",
+        "es": "Montepuez",
+        "es:t": "Mozambique",
+        "de": "Montepuez",
+        "de:t": "Mosambik"
+    },
+    {
+        "en": "Mutuali",
+        "en:t": "Mozambique | Malema",
+        "a": true,
+        "g": {
+            "lat": -14.876,
+            "lon": 37.0025
+        },
+        "it": "Mutuali",
+        "it:t": "Mozambico | Malema",
+        "es": "Mutuali",
+        "es:t": "Mozambique | Malema",
+        "de": "Mutuali",
+        "de:t": "Mosambik | Malema"
+    },
+    {
+        "en": "Nacala",
+        "en:t": "Mozambique",
+        "a": true,
+        "g": {
+            "lat": -14.5656,
+            "lon": 40.6854
+        },
+        "it": "Nacala",
+        "it:t": "Mozambico",
+        "es": "Nacala",
+        "es:t": "Mozambique",
+        "de": "Nacala",
+        "de:t": "Mosambik"
+    },
+    {
+        "en": "Nampula",
+        "en:t": "Mozambique | Cidade de Nampula",
+        "a": true,
+        "g": {
+            "lat": -15.1266,
+            "lon": 39.2687
+        },
+        "it": "Nampula",
+        "it:t": "Mozambico | Cidade de Nampula",
+        "es": "Nampula",
+        "es:t": "Mozambique | Cidade de Nampula",
+        "de": "Nampula",
+        "de:t": "Mosambik | Cidade de Nampula"
+    },
+    {
+        "en": "Pemba",
+        "en:t": "Mozambique | Cidade de Pemba",
+        "a": true,
+        "g": {
+            "lat": -12.9732,
+            "lon": 40.5178
+        },
+        "it": "Pemba",
+        "it:t": "Mozambico | Cidade de Pemba",
+        "es": "Pemba",
+        "es:t": "Mozambique | Cidade de Pemba",
+        "de": "Pemba",
+        "de:t": "Mosambik | Cidade de Pemba"
+    },
+    {
+        "en": "Quelimane",
+        "en:t": "Mozambique",
+        "a": true,
+        "g": {
+            "lat": -17.8503,
+            "lon": 36.9219
+        },
+        "it": "Quelimane",
+        "it:t": "Mozambico",
+        "es": "Quelimane",
+        "es:t": "Mozambique",
+        "de": "Quelimane",
+        "de:t": "Mosambik"
+    },
+    {
+        "en": "Tete",
+        "en:t": "Mozambique",
+        "a": true,
+        "g": {
+            "lat": -16.1328,
+            "lon": 33.6064
+        },
+        "it": "Tete",
+        "it:t": "Mozambico",
+        "es": "Tete",
+        "es:t": "Mozambique",
+        "de": "Tete",
+        "de:t": "Mosambik"
+    },
+    {
+        "en": "Xai-Xai",
+        "en:t": "Mozambique",
+        "a": true,
+        "g": {
+            "lat": -25.0605,
+            "lon": 33.6959
+        },
+        "it": "Xai-Xai",
+        "it:t": "Mozambico",
+        "es": "Xai-Xai",
+        "es:t": "Mozambique",
+        "de": "Xai-Xai",
+        "de:t": "Mosambik"
+    }
+]

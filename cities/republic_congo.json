@@ -1,0 +1,182 @@
+[
+    {
+        "en": "Bouenza",
+        "en:t": "Republic of Congo",
+        "a": true,
+        "g": {
+            "lat": -4.1128,
+            "lon": 13.7289
+        },
+        "it": "Bouenza",
+        "it:t": "Republic of Congo",
+        "es": "Bouenza",
+        "es:t": "Republica del Congo",
+        "de": "Bouenza",
+        "de:t": "Kongo"
+    },
+    {
+        "en": "Brazzaville",
+        "en:t": "Republic of Congo",
+        "a": true,
+        "g": {
+            "lat": -4.2634,
+            "lon": 15.2429
+        },
+        "it": "Brazzaville",
+        "it:t": "Republic of Congo",
+        "es": "Brazzaville",
+        "es:t": "Republica del Congo",
+        "de": "Brazzaville",
+        "de:t": "Kongo"
+    },
+    {
+        "en": "Dolisie",
+        "en:t": "Republic of Congo | Louvakou",
+        "a": true,
+        "g": {
+            "lat": -4.1956,
+            "lon": 12.6733
+        },
+        "it": "Dolisie",
+        "it:t": "Republic of Congo | Louvakou",
+        "es": "Dolisie",
+        "es:t": "Republic of Congo | Louvakou",
+        "de": "Dolisie",
+        "de:t": "Kongo | Louvakou"
+    },
+    {
+        "en": "Gamboma",
+        "en:t": "Republic of Congo | Lekana",
+        "a": true,
+        "g": {
+            "lat": -2.0833,
+            "lon": 14.6833
+        },
+        "it": "Gamboma",
+        "it:t": "Republic of Congo | L\u00e9kana",
+        "es": "Gamboma",
+        "es:t": "Republic of Congo | Lekana",
+        "de": "Gamboma",
+        "de:t": "Kongo | Lekana"
+    },
+    {
+        "en": "Impfondo",
+        "en:t": "Republic of Congo",
+        "a": true,
+        "g": {
+            "lat": 1.6259,
+            "lon": 18.0539
+        },
+        "it": "Impfondo",
+        "it:t": "Republic of Congo",
+        "es": "Impfondo",
+        "es:t": "Republica del Congo",
+        "de": "Impfondo",
+        "de:t": "Kongo"
+    },
+    {
+        "en": "Loandjili",
+        "en:t": "Republic of Congo | Pointe-Noire",
+        "a": true,
+        "g": {
+            "lat": -4.7673,
+            "lon": 11.8628
+        },
+        "it": "Loandjili",
+        "it:t": "Republic of Congo | Pointe-Noire",
+        "es": "Loandjili",
+        "es:t": "Republic of Congo | Pointe-Noire",
+        "de": "Loandjili",
+        "de:t": "Kongo | Pointe-Noire"
+    },
+    {
+        "en": "Madingou",
+        "en:t": "Republic of Congo",
+        "a": true,
+        "g": {
+            "lat": -4.1682,
+            "lon": 13.5524
+        },
+        "it": "Madingou",
+        "it:t": "Republic of Congo",
+        "es": "Madingou",
+        "es:t": "Republica del Congo",
+        "de": "Madingou",
+        "de:t": "Kongo"
+    },
+    {
+        "en": "Mossendjo",
+        "en:t": "Republic of Congo",
+        "a": true,
+        "g": {
+            "lat": -2.9655,
+            "lon": 12.7279
+        },
+        "it": "Mossendjo",
+        "it:t": "Republic of Congo",
+        "es": "Mossendjo",
+        "es:t": "Republica del Congo",
+        "de": "Mossendjo",
+        "de:t": "Kongo"
+    },
+    {
+        "en": "Ouesso",
+        "en:t": "Republic of Congo",
+        "a": true,
+        "g": {
+            "lat": 1.6155,
+            "lon": 16.0464
+        },
+        "it": "Ou\u00e9sso",
+        "it:t": "Republic of Congo",
+        "es": "Ouesso",
+        "es:t": "Republica del Congo",
+        "de": "Ou\u00e9sso",
+        "de:t": "Kongo"
+    },
+    {
+        "en": "Owando",
+        "en:t": "Republic of Congo",
+        "a": true,
+        "g": {
+            "lat": -0.483,
+            "lon": 15.8936
+        },
+        "it": "Owando",
+        "it:t": "Republic of Congo",
+        "es": "Owando",
+        "es:t": "Republica del Congo",
+        "de": "Owando",
+        "de:t": "Kongo"
+    },
+    {
+        "en": "Pointe-Noire",
+        "en:t": "Republic of Congo | Pointe Noire",
+        "a": true,
+        "g": {
+            "lat": -4.7692,
+            "lon": 11.8664
+        },
+        "it": "Pointe-Noire",
+        "it:t": "Republic of Congo | Pointe Noire",
+        "es": "Pointe-Noire",
+        "es:t": "Republic of Congo | Pointe Noire",
+        "de": "Pointe-Noire",
+        "de:t": "Kongo | Pointe Noire"
+    },
+    {
+        "en": "Sibiti",
+        "en:t": "Republic of Congo",
+        "a": true,
+        "g": {
+            "lat": -3.6847,
+            "lon": 13.3501
+        },
+        "it": "Sibiti",
+        "it:t": "Republic of Congo",
+        "es": "Sibiti",
+        "es:t": "Republica del Congo",
+        "de": "Sibiti",
+        "de:t": "Kongo"
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "en": "Dumbea",
+        "en:t": "New Caledonia",
+        "a": true,
+        "g": {
+            "lat": -22.156,
+            "lon": 166.4447
+        },
+        "it": "Dumb\u00e9a",
+        "it:t": "Nuova Caledonia",
+        "es": "Dumb\u00e9a",
+        "es:t": "Nueva Caledonia",
+        "de": "Dumb\u00e9a",
+        "de:t": "Neukaledonien"
+    },
+    {
+        "en": "Mont-Dore",
+        "en:t": "New Caledonia",
+        "a": true,
+        "g": {
+            "lat": -22.2629,
+            "lon": 166.5691
+        },
+        "it": "Le Mont-Dore",
+        "it:t": "Nuova Caledonia",
+        "es": "Le Mont-Dore",
+        "es:t": "Nueva Caledonia",
+        "de": "Le Mont-Dore",
+        "de:t": "Neukaledonien"
+    },
+    {
+        "en": "Noumea",
+        "en:t": "New Caledonia | South",
+        "a": true,
+        "g": {
+            "lat": -22.2711,
+            "lon": 166.4416
+        },
+        "it": "Noum\u00e9a",
+        "it:t": "Nuova Caledonia | Sud",
+        "es": "Numea",
+        "es:t": "Nueva Caledonia | Sur",
+        "de": "Noum\u00e9a",
+        "de:t": "Neukaledonien | S\u00fcdprovinz"
+    }
+]

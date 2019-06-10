@@ -1,0 +1,527 @@
+[
+    {
+        "en": "Aleksotas",
+        "en:t": "Lithuania | Kaunas",
+        "a": true,
+        "g": {
+            "lat": 54.8695,
+            "lon": 23.9008
+        },
+        "it": "Aleksotas",
+        "it:t": "Lituania | Kaunas",
+        "es": "Aleksotas",
+        "es:t": "Lituania | Kaunas",
+        "de": "Aleksotas",
+        "de:t": "Litauen | Kaunas"
+    },
+    {
+        "en": "Alytus",
+        "en:t": "Lithuania | Alytaus miesto savivaldyb\u0117",
+        "a": true,
+        "g": {
+            "lat": 54.3963,
+            "lon": 24.0459
+        },
+        "it": "Alytus",
+        "it:t": "Lituania | Alytus",
+        "es": "Alytus",
+        "es:t": "Lituania | Alytaus miesto savivaldyb\u0117",
+        "de": "Alytus",
+        "de:t": "Litauen | StadtAlytus"
+    },
+    {
+        "en": "Dainava",
+        "en:t": "Lithuania | Kaunas",
+        "a": true,
+        "g": {
+            "lat": 54.918,
+            "lon": 23.9763
+        },
+        "it": "Dainava",
+        "it:t": "Lituania | Kaunas",
+        "es": "Dainava",
+        "es:t": "Lituania | Kaunas",
+        "de": "Dainava",
+        "de:t": "Litauen | Kaunas"
+    },
+    {
+        "en": "Druskininkai",
+        "en:t": "Lithuania | Druskininkai",
+        "a": true,
+        "g": {
+            "lat": 54.0049,
+            "lon": 23.9864
+        },
+        "it": "Druskininkai",
+        "it:t": "Lituania | Druskininkai",
+        "es": "Druskininkai",
+        "es:t": "Lituania | Druskininkai",
+        "de": "Druskininkai",
+        "de:t": "Litauen | Druskininkai"
+    },
+    {
+        "en": "Eiguliai",
+        "en:t": "Lithuania | Kaunas",
+        "a": true,
+        "g": {
+            "lat": 54.9381,
+            "lon": 23.9359
+        },
+        "it": "Eiguliai",
+        "it:t": "Lituania | Kaunas",
+        "es": "Eiguliai",
+        "es:t": "Lituania | Kaunas",
+        "de": "Eiguliai",
+        "de:t": "Litauen | Kaunas"
+    },
+    {
+        "en": "Fabijoni\u0161k\u0117s",
+        "en:t": "Lithuania | Vilnius",
+        "a": true,
+        "g": {
+            "lat": 54.7342,
+            "lon": 25.2494
+        },
+        "it": "Fabijoni\u0161k\u0117s",
+        "it:t": "Lituania | Vilnius",
+        "es": "Fabijoni\u0161k\u0117s",
+        "es:t": "Lituania | Vilna",
+        "de": "Fabijoni\u0161k\u0117s",
+        "de:t": "Litauen | Vilnius"
+    },
+    {
+        "en": "Garg\u017edai",
+        "en:t": "Lithuania | Klaip\u0117da",
+        "a": true,
+        "g": {
+            "lat": 55.706,
+            "lon": 21.3807
+        },
+        "it": "Garg\u017edai",
+        "it:t": "Lituania | Klaip\u0117da",
+        "es": "Garg\u017edai",
+        "es:t": "Lituania | Klaip\u0117da",
+        "de": "Garg\u017edai",
+        "de:t": "Litauen | RajonKlaip\u0117da"
+    },
+    {
+        "en": "Jonava",
+        "en:t": "Lithuania | Jonava",
+        "a": true,
+        "g": {
+            "lat": 55.0727,
+            "lon": 24.2793
+        },
+        "it": "Jonava",
+        "it:t": "Lituania | Jonava",
+        "es": "Jonava",
+        "es:t": "Lituania | Jonava",
+        "de": "Jonava",
+        "de:t": "Litauen | RajonJonava"
+    },
+    {
+        "en": "Justini\u0161k\u0117s",
+        "en:t": "Lithuania | Vilnius",
+        "a": true,
+        "g": {
+            "lat": 54.7186,
+            "lon": 25.2138
+        },
+        "it": "Justini\u0161k\u0117s",
+        "it:t": "Lituania | Vilnius",
+        "es": "Justini\u0161k\u0117s",
+        "es:t": "Lituania | Vilnius",
+        "de": "Justini\u0161k\u0117s",
+        "de:t": "Litauen | Vilnius"
+    },
+    {
+        "en": "Kaunas",
+        "en:t": "Lithuania | Kaunas",
+        "a": true,
+        "g": {
+            "lat": 54.8985,
+            "lon": 23.9036
+        },
+        "it": "Kaunas",
+        "it:t": "Lituania | Kaunas",
+        "es": "Kaunas",
+        "es:t": "Lituania | Ciudad de Kaunas",
+        "de": "Kaunas",
+        "de:t": "Litauen | StadtKaunas"
+    },
+    {
+        "en": "Klaip\u0117da",
+        "en:t": "Lithuania | Klaipeda",
+        "a": true,
+        "g": {
+            "lat": 55.7033,
+            "lon": 21.1443
+        },
+        "it": "Klaip\u0117da",
+        "it:t": "Lituania | Klaipeda",
+        "es": "Klaip\u0117da",
+        "es:t": "Lituania | Klaipeda",
+        "de": "Klaip\u0117da",
+        "de:t": "Litauen | StadtKlaip\u0117da"
+    },
+    {
+        "en": "Kretinga",
+        "en:t": "Lithuania | Kretinga",
+        "a": true,
+        "g": {
+            "lat": 55.8838,
+            "lon": 21.2351
+        },
+        "it": "Kretinga",
+        "it:t": "Lituania | Kretinga",
+        "es": "Kretinga",
+        "es:t": "Lituania | Kretinga",
+        "de": "Kretinga",
+        "de:t": "Litauen | RajonKretinga"
+    },
+    {
+        "en": "K\u0117dainiai",
+        "en:t": "Lithuania | K\u0117dainiai",
+        "a": true,
+        "g": {
+            "lat": 55.2881,
+            "lon": 23.9577
+        },
+        "it": "K\u0117dainiai",
+        "it:t": "Lituania | K\u0117dainiai",
+        "es": "K\u0117dainiai",
+        "es:t": "Lituania | K\u0117dainiai",
+        "de": "K\u0117dainiai",
+        "de:t": "Litauen | RajonK\u0117dainiai"
+    },
+    {
+        "en": "Lazdynai",
+        "en:t": "Lithuania | Vilnius",
+        "a": true,
+        "g": {
+            "lat": 54.6648,
+            "lon": 25.2052
+        },
+        "it": "Lazdynai",
+        "it:t": "Lituania | Vilnius",
+        "es": "Lazdynai",
+        "es:t": "Lituania | Vilnius",
+        "de": "Lazdynai",
+        "de:t": "Litauen | Vilnius"
+    },
+    {
+        "en": "Marijampol\u0117",
+        "en:t": "Lithuania",
+        "a": true,
+        "g": {
+            "lat": 54.5554,
+            "lon": 23.3626
+        },
+        "it": "Marijampol\u0117",
+        "it:t": "Lituania",
+        "es": "Marijampol\u0117",
+        "es:t": "Lituania",
+        "de": "Marijampol\u0117",
+        "de:t": "Litauen"
+    },
+    {
+        "en": "Ma\u017eeikiai",
+        "en:t": "Lithuania | Ma\u017eeikiai",
+        "a": true,
+        "g": {
+            "lat": 56.3092,
+            "lon": 22.3415
+        },
+        "it": "Ma\u017eeikiai",
+        "it:t": "Lituania | Ma\u017eeikiai",
+        "es": "Ma\u017eeikiai",
+        "es:t": "Lituania | Ma\u017eeikiai",
+        "de": "Ma\u017eeikiai",
+        "de:t": "Litauen | RajonMa\u017eeikiai"
+    },
+    {
+        "en": "Naujamiestis",
+        "en:t": "Lithuania | Vilnius",
+        "a": true,
+        "g": {
+            "lat": 54.6781,
+            "lon": 25.2638
+        },
+        "it": "Naujamiestis eldership",
+        "it:t": "Lituania | Vilnius",
+        "es": "Naujamiestis",
+        "es:t": "Lituania | Vilna",
+        "de": "Naujamiestis",
+        "de:t": "Litauen | Vilnius"
+    },
+    {
+        "en": "Palanga",
+        "en:t": "Lithuania | Palanga",
+        "a": true,
+        "g": {
+            "lat": 55.9202,
+            "lon": 21.0678
+        },
+        "it": "Palanga",
+        "it:t": "Lituania | Palanga",
+        "es": "Palanga",
+        "es:t": "Lituania | Palanga",
+        "de": "Palanga",
+        "de:t": "Litauen | StadtPalanga"
+    },
+    {
+        "en": "Panev\u0117\u017eys",
+        "en:t": "Lithuania | Panev\u0117\u017eio miesto savivaldyb\u0117",
+        "a": true,
+        "g": {
+            "lat": 55.7348,
+            "lon": 24.3575
+        },
+        "it": "Panev\u0117\u017eys",
+        "it:t": "Lituania | Panev\u0117\u017eys",
+        "es": "Panev\u0117\u017eys",
+        "es:t": "Lituania | Panev\u0117\u017eio miesto savivaldyb\u0117",
+        "de": "Panev\u0117\u017eys",
+        "de:t": "Litauen | StadtPanev\u0117\u017eys"
+    },
+    {
+        "en": "Pa\u0161ilai\u010diai",
+        "en:t": "Lithuania | Vilnius",
+        "a": true,
+        "g": {
+            "lat": 54.7348,
+            "lon": 25.22
+        },
+        "it": "Pa\u0161ilai\u010diai",
+        "it:t": "Lituania | Vilnius",
+        "es": "Pa\u0161ilai\u010diai",
+        "es:t": "Lituania | Vilna",
+        "de": "Pa\u0161ilai\u010diai",
+        "de:t": "Litauen | Vilnius"
+    },
+    {
+        "en": "Pilait\u0117",
+        "en:t": "Lithuania | Vilnius",
+        "a": true,
+        "g": {
+            "lat": 54.7082,
+            "lon": 25.1682
+        },
+        "it": "Pilait\u0117",
+        "it:t": "Lituania | Vilnius",
+        "es": "Pilait\u0117",
+        "es:t": "Lituania | Vilnius",
+        "de": "Pilait\u0117",
+        "de:t": "Litauen | Vilnius"
+    },
+    {
+        "en": "Plung\u0117",
+        "en:t": "Lithuania | Plung\u0117",
+        "a": true,
+        "g": {
+            "lat": 55.9108,
+            "lon": 21.8454
+        },
+        "it": "Plung\u0117",
+        "it:t": "Lituania | Plung\u0117",
+        "es": "Plung\u0117",
+        "es:t": "Lituania | Plung\u0117",
+        "de": "Plung\u0117",
+        "de:t": "Litauen | RajonPlung\u0117"
+    },
+    {
+        "en": "Radvili\u0161kis",
+        "en:t": "Lithuania | Radvili\u0161kis",
+        "a": true,
+        "g": {
+            "lat": 55.8108,
+            "lon": 23.5465
+        },
+        "it": "Radvili\u0161kis",
+        "it:t": "Lituania | Radvili\u0161kis",
+        "es": "Radvili\u0161kis",
+        "es:t": "Lituania | Radvili\u0161kis",
+        "de": "Radvili\u0161kis",
+        "de:t": "Litauen | RajonRadvili\u0161kis"
+    },
+    {
+        "en": "Roki\u0161kis",
+        "en:t": "Lithuania | Roki\u0161kis",
+        "a": true,
+        "g": {
+            "lat": 55.9555,
+            "lon": 25.5859
+        },
+        "it": "Roki\u0161kis",
+        "it:t": "Lituania | Roki\u0161kis",
+        "es": "Roki\u0161kis",
+        "es:t": "Lituania | Roki\u0161kis",
+        "de": "Roki\u0161kis",
+        "de:t": "Litauen | RajonRoki\u0161kis"
+    },
+    {
+        "en": "Taurag\u0117",
+        "en:t": "Lithuania | Taurag\u0117",
+        "a": true,
+        "g": {
+            "lat": 55.2504,
+            "lon": 22.2909
+        },
+        "it": "Taurag\u0117",
+        "it:t": "Lituania | Taurag\u0117",
+        "es": "Taurag\u00eb",
+        "es:t": "Lituania | Taurag\u0117",
+        "de": "Tauroggen",
+        "de:t": "Litauen | RajonTaurag\u0117"
+    },
+    {
+        "en": "Tel\u0161iai",
+        "en:t": "Lithuania | Tel\u0161iai",
+        "a": true,
+        "g": {
+            "lat": 55.987,
+            "lon": 22.2486
+        },
+        "it": "Tel\u0161iai",
+        "it:t": "Lituania | Tel\u0161iai",
+        "es": "Tel\u0161iai",
+        "es:t": "Lituania | Tel\u0161iai",
+        "de": "Tel\u0161iai",
+        "de:t": "Litauen | RajonTel\u0161iai"
+    },
+    {
+        "en": "Ukmerg\u0117",
+        "en:t": "Lithuania | Ukmerg\u0117",
+        "a": true,
+        "g": {
+            "lat": 55.2453,
+            "lon": 24.7761
+        },
+        "it": "Ukmerg\u0117",
+        "it:t": "Lituania | Ukmerg\u0117",
+        "es": "Ukmerg\u0117",
+        "es:t": "Lituania | Ukmerg\u0117",
+        "de": "Ukmerg\u0117",
+        "de:t": "Litauen | RajonUkmerg\u0117"
+    },
+    {
+        "en": "Utena",
+        "en:t": "Lithuania | Utena",
+        "a": true,
+        "g": {
+            "lat": 55.5,
+            "lon": 25.6094
+        },
+        "it": "Utena",
+        "it:t": "Lituania | Utena",
+        "es": "Utena",
+        "es:t": "Lituania | Utena",
+        "de": "Utena",
+        "de:t": "Litauen | RajonUtena"
+    },
+    {
+        "en": "Vilkp\u0117d\u0117",
+        "en:t": "Lithuania | Vilnius",
+        "a": true,
+        "g": {
+            "lat": 54.656,
+            "lon": 25.2316
+        },
+        "it": "Vilkp\u0117d\u0117",
+        "it:t": "Lituania | Vilnius",
+        "es": "Vilkp\u0117d\u0117",
+        "es:t": "Lituania | Vilna",
+        "de": "Vilkp\u0117d\u0117",
+        "de:t": "Litauen | Vilnius"
+    },
+    {
+        "en": "Vilnius",
+        "en:t": "Lithuania | Vilnius",
+        "a": true,
+        "g": {
+            "lat": 54.6872,
+            "lon": 25.2797
+        },
+        "it": "Vilnius",
+        "it:t": "Lituania | Vilnius",
+        "es": "Vilna",
+        "es:t": "Lituania | Vilnius",
+        "de": "Vilnius",
+        "de:t": "Litauen | StadtVilnius"
+    },
+    {
+        "en": "Visaginas",
+        "en:t": "Lithuania | Visagino savivaldyb\u0117",
+        "a": true,
+        "g": {
+            "lat": 55.5973,
+            "lon": 26.4313
+        },
+        "it": "Visaginas",
+        "it:t": "Lituania | Visagino savivaldyb\u0117",
+        "es": "Visaginas",
+        "es:t": "Lituania | Visagino savivaldyb\u0117",
+        "de": "Visaginas",
+        "de:t": "Litauen | Visagino savivaldyb\u0117"
+    },
+    {
+        "en": "\u0160e\u0161kin\u0117",
+        "en:t": "Lithuania | Vilnius",
+        "a": true,
+        "g": {
+            "lat": 54.7128,
+            "lon": 25.2532
+        },
+        "it": "\u0160e\u0161kin\u0117",
+        "it:t": "Lituania | Vilnius",
+        "es": "\u0160e\u0161kin\u0117",
+        "es:t": "Lituania | Vilnius",
+        "de": "\u0160e\u0161kin\u0117",
+        "de:t": "Litauen | Vilnius"
+    },
+    {
+        "en": "\u0160iauliai",
+        "en:t": "Lithuania | \u0160iauli\u0173 miesto savivaldyb\u0117",
+        "a": true,
+        "g": {
+            "lat": 55.9349,
+            "lon": 23.3137
+        },
+        "it": "Siauliai",
+        "it:t": "Lituania | \u0160iauli\u0173 miesto savivaldyb\u0117",
+        "es": "\u0160iauliai",
+        "es:t": "Lituania | \u0160iauli\u0173 miesto savivaldyb\u0117",
+        "de": "\u0160iauliai",
+        "de:t": "Litauen | Stadt\u0160iauliai"
+    },
+    {
+        "en": "\u0160ilainiai",
+        "en:t": "Lithuania | Kaunas",
+        "a": true,
+        "g": {
+            "lat": 54.9255,
+            "lon": 23.8844
+        },
+        "it": "\u0160ilainiai",
+        "it:t": "Lituania | Kaunas",
+        "es": "\u0160ilainiai",
+        "es:t": "Lituania | Kaunas",
+        "de": "\u0160ilainiai",
+        "de:t": "Litauen | Kaunas"
+    },
+    {
+        "en": "\u0160ilut\u0117",
+        "en:t": "Lithuania | \u0160ilut\u0117",
+        "a": true,
+        "g": {
+            "lat": 55.3504,
+            "lon": 21.466
+        },
+        "it": "\u0160ilut\u0117",
+        "it:t": "Lituania | \u0160ilut\u0117",
+        "es": "\u0160ilut\u0117",
+        "es:t": "Lituania | \u0160ilut\u0117",
+        "de": "\u0160ilut\u0117",
+        "de:t": "Litauen | Rajon\u0160ilut\u0117"
+    }
+]

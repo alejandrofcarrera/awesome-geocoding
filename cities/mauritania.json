@@ -1,0 +1,167 @@
+[
+    {
+        "en": "Aleg",
+        "en:t": "Mauritania",
+        "a": true,
+        "g": {
+            "lat": 17.0516,
+            "lon": -13.9115
+        },
+        "it": "Aleg",
+        "it:t": "Mauritania",
+        "es": "Aleg",
+        "es:t": "Mauritania",
+        "de": "Aleg",
+        "de:t": "Mauretanien"
+    },
+    {
+        "en": "Atar",
+        "en:t": "Mauritania",
+        "a": true,
+        "g": {
+            "lat": 20.5073,
+            "lon": -13.053
+        },
+        "it": "Atar",
+        "it:t": "Mauritania",
+        "es": "Atar",
+        "es:t": "Mauritania",
+        "de": "Atar",
+        "de:t": "Mauretanien"
+    },
+    {
+        "en": "Ka\u00e9di",
+        "en:t": "Mauritania",
+        "a": true,
+        "g": {
+            "lat": 16.1536,
+            "lon": -13.5032
+        },
+        "it": "Kaedi",
+        "it:t": "Mauritania",
+        "es": "Ka\u00e9di",
+        "es:t": "Mauritania",
+        "de": "Ka\u00e9di",
+        "de:t": "Mauretanien"
+    },
+    {
+        "en": "Kiffa",
+        "en:t": "Mauritania",
+        "a": true,
+        "g": {
+            "lat": 16.6258,
+            "lon": -11.4055
+        },
+        "it": "Kiffa",
+        "it:t": "Mauritania",
+        "es": "Kifa",
+        "es:t": "Mauritania",
+        "de": "Kiffa",
+        "de:t": "Mauretanien"
+    },
+    {
+        "en": "Nouadhibou",
+        "en:t": "Mauritania",
+        "a": true,
+        "g": {
+            "lat": 20.9425,
+            "lon": -17.0362
+        },
+        "it": "Nouadhibou",
+        "it:t": "Mauritania",
+        "es": "Nuadib\u00fa",
+        "es:t": "Mauritania",
+        "de": "Nouadhibou",
+        "de:t": "Mauretanien"
+    },
+    {
+        "en": "Nouakchott",
+        "en:t": "Mauritania",
+        "a": true,
+        "g": {
+            "lat": 18.0735,
+            "lon": -15.9582
+        },
+        "it": "Nouakchott",
+        "it:t": "Mauritania",
+        "es": "Nuakchot",
+        "es:t": "Mauritania",
+        "de": "Nuakschott",
+        "de:t": "Mauretanien"
+    },
+    {
+        "en": "N\u00e9ma",
+        "en:t": "Mauritania | Nema",
+        "a": true,
+        "g": {
+            "lat": 16.6144,
+            "lon": -7.2599
+        },
+        "it": "N\u00e9ma",
+        "it:t": "Mauritania | N\u00e9ma",
+        "es": "N\u00e9ma",
+        "es:t": "Mauritania | Nema",
+        "de": "N\u00e9ma",
+        "de:t": "Mauretanien | Nema"
+    },
+    {
+        "en": "Rosso",
+        "en:t": "Mauritania",
+        "a": true,
+        "g": {
+            "lat": 16.5163,
+            "lon": -15.8026
+        },
+        "it": "Rosso",
+        "it:t": "Mauritania",
+        "es": "Rosso",
+        "es:t": "Mauritania",
+        "de": "Rosso",
+        "de:t": "Mauretanien"
+    },
+    {
+        "en": "S\u00e9libaby",
+        "en:t": "Mauritania",
+        "a": true,
+        "g": {
+            "lat": 15.1506,
+            "lon": -12.1804
+        },
+        "it": "S\u00e9libabi",
+        "it:t": "Mauritania",
+        "es": "S\u00e9libaby",
+        "es:t": "Mauritania",
+        "de": "S\u00e9libaby",
+        "de:t": "Mauretanien"
+    },
+    {
+        "en": "T\u00e9kane",
+        "en:t": "Mauritania | R'Kiz",
+        "a": true,
+        "g": {
+            "lat": 16.6054,
+            "lon": -15.3482
+        },
+        "it": "T\u00e9kane",
+        "it:t": "Mauritania | R'Kiz",
+        "es": "T\u00e9kane",
+        "es:t": "Mauritania | R'Kiz",
+        "de": "T\u00e9kane",
+        "de:t": "Mauretanien | R'Kiz"
+    },
+    {
+        "en": "Zou\u00e9rat",
+        "en:t": "Mauritania | Fderik",
+        "a": true,
+        "g": {
+            "lat": 22.7325,
+            "lon": -12.4753
+        },
+        "it": "Zou\u00e9rat",
+        "it:t": "Mauritania | F'Derick",
+        "es": "Zu\u00e9rate",
+        "es:t": "Mauritania | Fderik",
+        "de": "Zou\u00e9rat",
+        "de:t": "Mauretanien | Fderik"
+    }
+]

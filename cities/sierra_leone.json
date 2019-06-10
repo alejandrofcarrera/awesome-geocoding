@@ -1,0 +1,152 @@
+[
+    {
+        "en": "Bo",
+        "en:t": "Sierra Leone",
+        "a": true,
+        "g": {
+            "lat": 7.9552,
+            "lon": -11.741
+        },
+        "it": "Bo",
+        "it:t": "Sierra Leone",
+        "es": "Bo",
+        "es:t": "Sierra Leona",
+        "de": "Bo",
+        "de:t": "Sierra Leone"
+    },
+    {
+        "en": "Freetown",
+        "en:t": "Sierra Leone | Western Area",
+        "a": true,
+        "g": {
+            "lat": 8.4657,
+            "lon": -13.2317
+        },
+        "it": "Freetown",
+        "it:t": "Sierra Leone | Area Occidentale",
+        "es": "Freetown",
+        "es:t": "Sierra Leona | \u00c1rea Occidental",
+        "de": "Freetown",
+        "de:t": "Sierra Leone | Western Area"
+    },
+    {
+        "en": "Kabala",
+        "en:t": "Sierra Leone | Koinadugu",
+        "a": true,
+        "g": {
+            "lat": 9.5844,
+            "lon": -11.5589
+        },
+        "it": "Kabala",
+        "it:t": "Sierra Leone | Koinadugu",
+        "es": "Kabala",
+        "es:t": "Sierra Leona | Koinadugu",
+        "de": "Kabala",
+        "de:t": "Sierra Leone | Koinadugu"
+    },
+    {
+        "en": "Kenema",
+        "en:t": "Sierra Leone",
+        "a": true,
+        "g": {
+            "lat": 7.8632,
+            "lon": -11.1957
+        },
+        "it": "Kenema",
+        "it:t": "Sierra Leone",
+        "es": "Kenema",
+        "es:t": "Sierra Leona",
+        "de": "Kenema",
+        "de:t": "Sierra Leone"
+    },
+    {
+        "en": "Koidu",
+        "en:t": "Sierra Leone | Kono",
+        "a": true,
+        "g": {
+            "lat": 8.6448,
+            "lon": -10.9694
+        },
+        "it": "Koidu",
+        "it:t": "Sierra Leone | Kono",
+        "es": "Koidu",
+        "es:t": "Sierra Leona | Kono",
+        "de": "Koidu",
+        "de:t": "Sierra Leone | Kono"
+    },
+    {
+        "en": "Lunsar",
+        "en:t": "Sierra Leone | Port Loko",
+        "a": true,
+        "g": {
+            "lat": 8.6881,
+            "lon": -12.5355
+        },
+        "it": "Lunsar",
+        "it:t": "Sierra Leone | Port Loko",
+        "es": "Lunsar",
+        "es:t": "Sierra Leona | Port Loko",
+        "de": "Lunsar",
+        "de:t": "Sierra Leone | Port Loko"
+    },
+    {
+        "en": "Makeni",
+        "en:t": "Sierra Leone | Bombali",
+        "a": true,
+        "g": {
+            "lat": 8.872,
+            "lon": -12.0376
+        },
+        "it": "Makeni",
+        "it:t": "Sierra Leone | Bombali",
+        "es": "Makeni",
+        "es:t": "Sierra Leona | Bombali",
+        "de": "Makeni",
+        "de:t": "Sierra Leone | Bombali"
+    },
+    {
+        "en": "Port Loko",
+        "en:t": "Sierra Leone",
+        "a": true,
+        "g": {
+            "lat": 8.7687,
+            "lon": -12.7854
+        },
+        "it": "Port Loko",
+        "it:t": "Sierra Leone",
+        "es": "Port Loko",
+        "es:t": "Sierra Leona",
+        "de": "Port Loko",
+        "de:t": "Sierra Leone"
+    },
+    {
+        "en": "Segbwema",
+        "en:t": "Sierra Leone | Kailahun",
+        "a": true,
+        "g": {
+            "lat": 7.993,
+            "lon": -10.9524
+        },
+        "it": "Segbwema",
+        "it:t": "Sierra Leone | Kailahun",
+        "es": "Segbwema",
+        "es:t": "Sierra Leona | Kailahun",
+        "de": "Segbwema",
+        "de:t": "Sierra Leone | Kailahun"
+    },
+    {
+        "en": "Waterloo",
+        "en:t": "Sierra Leone | Western Area",
+        "a": true,
+        "g": {
+            "lat": 8.3266,
+            "lon": -13.0645
+        },
+        "it": "Waterloo",
+        "it:t": "Sierra Leone | Area Occidentale",
+        "es": "Waterloo",
+        "es:t": "Sierra Leona | Western Area",
+        "de": "Waterloo",
+        "de:t": "Sierra Leone | Western Area"
+    }
+]

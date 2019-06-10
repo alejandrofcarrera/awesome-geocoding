@@ -1,0 +1,2042 @@
+[
+    {
+        "en": "Alor Gajah",
+        "en:t": "Malaysia | Malacca",
+        "a": true,
+        "g": {
+            "lat": 2.3822,
+            "lon": 102.2116
+        },
+        "it": "Alor Gajah",
+        "it:t": "Malesia | Malacca",
+        "es": "Alor Gajah",
+        "es:t": "Malasia | Malaca",
+        "de": "Alor Gajah",
+        "de:t": "Malaysia | Malacca"
+    },
+    {
+        "en": "Alor Setar",
+        "en:t": "Malaysia | Kedah",
+        "a": true,
+        "g": {
+            "lat": 6.1263,
+            "lon": 100.3672
+        },
+        "it": "Alor Setar",
+        "it:t": "Malesia | Kedah",
+        "es": "Alor Setar",
+        "es:t": "Malasia | Kedah",
+        "de": "Alor Setar",
+        "de:t": "Malaysia | Kedah"
+    },
+    {
+        "en": "Bagan Serai",
+        "en:t": "Malaysia | Perak",
+        "a": true,
+        "g": {
+            "lat": 5.0081,
+            "lon": 100.5394
+        },
+        "it": "Bagan Serai",
+        "it:t": "Malesia | Perak",
+        "es": "Bagan Serai",
+        "es:t": "Malasia | Perak",
+        "de": "Bagan Serai",
+        "de:t": "Malaysia | Perak"
+    },
+    {
+        "en": "Bahau",
+        "en:t": "Malaysia | Negeri Sembilan",
+        "a": true,
+        "g": {
+            "lat": 2.8099,
+            "lon": 102.3984
+        },
+        "it": "Bahau",
+        "it:t": "Malesia | Negeri Sembilan",
+        "es": "Bahau",
+        "es:t": "Malasia | Negeri Sembilan",
+        "de": "Bahau",
+        "de:t": "Malaysia | Negeri Sembilan"
+    },
+    {
+        "en": "Balakong",
+        "en:t": "Malaysia | Selangor",
+        "a": true,
+        "g": {
+            "lat": 3.0257,
+            "lon": 101.7381
+        },
+        "it": "Balakong",
+        "it:t": "Malesia | Selangor",
+        "es": "Balakong",
+        "es:t": "Malasia | Selangor",
+        "de": "Balakong",
+        "de:t": "Malaysia | Selangor"
+    },
+    {
+        "en": "Banting",
+        "en:t": "Malaysia | Selangor",
+        "a": true,
+        "g": {
+            "lat": 2.8121,
+            "lon": 101.5026
+        },
+        "it": "Banting",
+        "it:t": "Malesia | Selangor",
+        "es": "Banting",
+        "es:t": "Malasia | Selangor",
+        "de": "Banting",
+        "de:t": "Malaysia | Selangor"
+    },
+    {
+        "en": "Batu Arang",
+        "en:t": "Malaysia | Selangor",
+        "a": true,
+        "g": {
+            "lat": 3.319,
+            "lon": 101.4731
+        },
+        "it": "Batu Arang",
+        "it:t": "Malesia | Selangor",
+        "es": "Batu Arang",
+        "es:t": "Malasia | Selangor",
+        "de": "Batu Arang",
+        "de:t": "Malaysia | Selangor"
+    },
+    {
+        "en": "Batu Berendam",
+        "en:t": "Malaysia | Malacca",
+        "a": true,
+        "g": {
+            "lat": 2.2396,
+            "lon": 102.2559
+        },
+        "it": "Batu Berendam",
+        "it:t": "Malesia | Malacca",
+        "es": "Batu Berendam",
+        "es:t": "Malasia | Malaca",
+        "de": "Batu Berendam",
+        "de:t": "Malaysia | Malacca"
+    },
+    {
+        "en": "Batu Gajah",
+        "en:t": "Malaysia | Perak",
+        "a": true,
+        "g": {
+            "lat": 4.4721,
+            "lon": 101.0412
+        },
+        "it": "Batu Gajah",
+        "it:t": "Malesia | Perak",
+        "es": "Batu Gajah",
+        "es:t": "Malasia | Perak",
+        "de": "Batu Gagah",
+        "de:t": "Malaysia | Perak"
+    },
+    {
+        "en": "Batu Pahat",
+        "en:t": "Malaysia | Johor",
+        "a": true,
+        "g": {
+            "lat": 1.8494,
+            "lon": 102.9288
+        },
+        "it": "Batu Pahat",
+        "it:t": "Malesia | Johor",
+        "es": "Batu Pahat",
+        "es:t": "Malasia | Johor",
+        "de": "Batu Pahat",
+        "de:t": "Malaysia | Johor"
+    },
+    {
+        "en": "Beaufort",
+        "en:t": "Malaysia | Sabah",
+        "a": true,
+        "g": {
+            "lat": 5.3451,
+            "lon": 115.7451
+        },
+        "it": "Beaufort",
+        "it:t": "Malesia | Sabah",
+        "es": "Beaufort",
+        "es:t": "Malasia | Sabah",
+        "de": "Beaufort",
+        "de:t": "Malaysia | Sabah"
+    },
+    {
+        "en": "Bedong",
+        "en:t": "Malaysia | Kedah",
+        "a": true,
+        "g": {
+            "lat": 5.7288,
+            "lon": 100.5071
+        },
+        "it": "Bedong",
+        "it:t": "Malesia | Kedah",
+        "es": "Bedong",
+        "es:t": "Malasia | Kedah",
+        "de": "Bedong",
+        "de:t": "Malaysia | Kedah"
+    },
+    {
+        "en": "Bentong",
+        "en:t": "Malaysia | Pahang",
+        "a": true,
+        "g": {
+            "lat": 3.5222,
+            "lon": 101.9104
+        },
+        "it": "Bentong",
+        "it:t": "Malesia | Pahang",
+        "es": "Bentong",
+        "es:t": "Malasia | Pahang",
+        "de": "Bentong",
+        "de:t": "Malaysia | Pahang"
+    },
+    {
+        "en": "Bestari Jaya",
+        "en:t": "Malaysia | Selangor",
+        "a": true,
+        "g": {
+            "lat": 3.378,
+            "lon": 101.4062
+        },
+        "it": "Bestari Jaya",
+        "it:t": "Malesia | Selangor",
+        "es": "Kg Ijok",
+        "es:t": "Malasia | Bestari Jaya",
+        "de": "Bestari Jaya",
+        "de:t": "Malaysia | Selangor"
+    },
+    {
+        "en": "Bidor",
+        "en:t": "Malaysia | Perak",
+        "a": true,
+        "g": {
+            "lat": 4.1116,
+            "lon": 101.2878
+        },
+        "it": "Bidor",
+        "it:t": "Malesia | Perak",
+        "es": "Bidor",
+        "es:t": "Malasia | Perak",
+        "de": "Bidor",
+        "de:t": "Malaysia | Perak"
+    },
+    {
+        "en": "Bintulu",
+        "en:t": "Malaysia | Sarawak",
+        "a": true,
+        "g": {
+            "lat": 3.1713,
+            "lon": 113.0419
+        },
+        "it": "Bintulu",
+        "it:t": "Malesia | Sarawak",
+        "es": "Bintulu",
+        "es:t": "Malasia | Sarawak",
+        "de": "Bintulu",
+        "de:t": "Malaysia | Sarawak"
+    },
+    {
+        "en": "Bukit Bakri",
+        "en:t": "Malaysia | Johor",
+        "a": true,
+        "g": {
+            "lat": 2.0417,
+            "lon": 102.6577
+        },
+        "it": "Bukit Bakri",
+        "it:t": "Malesia | Johor",
+        "es": "Bukit Bakri",
+        "es:t": "Malasia | Johor",
+        "de": "Bukit Bakri",
+        "de:t": "Malaysia | Johor"
+    },
+    {
+        "en": "Bukit Mertajam",
+        "en:t": "Malaysia | Penang",
+        "a": true,
+        "g": {
+            "lat": 5.3655,
+            "lon": 100.459
+        },
+        "it": "Bukit Mertajam",
+        "it:t": "Malesia | Penang",
+        "es": "Bukit Mertajam",
+        "es:t": "Malasia | Penang",
+        "de": "Bukit Mertajam",
+        "de:t": "Malaysia | Penang"
+    },
+    {
+        "en": "Bukit Rambai",
+        "en:t": "Malaysia | Malacca",
+        "a": true,
+        "g": {
+            "lat": 2.253,
+            "lon": 102.189
+        },
+        "it": "Bukit Rambai",
+        "it:t": "Malesia | Malacca",
+        "es": "Bukit Rambai",
+        "es:t": "Malasia | Malacca",
+        "de": "Bukit Rambai",
+        "de:t": "Malaysia | Malacca"
+    },
+    {
+        "en": "Butterworth",
+        "en:t": "Malaysia | Penang",
+        "a": true,
+        "g": {
+            "lat": 5.438,
+            "lon": 100.3882
+        },
+        "it": "Butterworth",
+        "it:t": "Malesia | Penang",
+        "es": "Butterworth",
+        "es:t": "Malasia | Penang",
+        "de": "Butterworth",
+        "de:t": "Malaysia | Penang"
+    },
+    {
+        "en": "Chukai",
+        "en:t": "Malaysia | Terengganu",
+        "a": true,
+        "g": {
+            "lat": 4.2316,
+            "lon": 103.4254
+        },
+        "it": "Chukai",
+        "it:t": "Malesia | Terengganu",
+        "es": "Chukai",
+        "es:t": "Malasia | Terengganu",
+        "de": "Chukai",
+        "de:t": "Malaysia | Terengganu"
+    },
+    {
+        "en": "Dongongan",
+        "en:t": "Malaysia | Sabah",
+        "a": true,
+        "g": {
+            "lat": 5.921,
+            "lon": 116.0897
+        },
+        "it": "Dongongan",
+        "it:t": "Malesia | Sabah",
+        "es": "Dongongan",
+        "es:t": "Malasia | Sabah",
+        "de": "Donggongon",
+        "de:t": "Malaysia | Sabah"
+    },
+    {
+        "en": "George Town",
+        "en:t": "Malaysia | Penang",
+        "a": true,
+        "g": {
+            "lat": 5.4356,
+            "lon": 100.3091
+        },
+        "it": "George Town",
+        "it:t": "Malesia | Penang",
+        "es": "Pulau Pinang",
+        "es:t": "Malasia | Penang",
+        "de": "George Town",
+        "de:t": "Malaysia | Penang"
+    },
+    {
+        "en": "Gua Musang",
+        "en:t": "Malaysia | Kelantan",
+        "a": true,
+        "g": {
+            "lat": 4.8843,
+            "lon": 101.9682
+        },
+        "it": "Gua Musang",
+        "it:t": "Malesia | Kelantan",
+        "es": "Gua Musang",
+        "es:t": "Malasia | Kelantan",
+        "de": "Gua Musang",
+        "de:t": "Malaysia | Kelantan"
+    },
+    {
+        "en": "Gurun",
+        "en:t": "Malaysia | Kedah",
+        "a": true,
+        "g": {
+            "lat": 5.8199,
+            "lon": 100.4773
+        },
+        "it": "Gurun",
+        "it:t": "Malesia | Kedah",
+        "es": "Gurun",
+        "es:t": "Malasia | Kedah",
+        "de": "Gurun",
+        "de:t": "Malaysia | Kedah"
+    },
+    {
+        "en": "Ipoh",
+        "en:t": "Malaysia | Perak",
+        "a": true,
+        "g": {
+            "lat": 4.5975,
+            "lon": 101.0901
+        },
+        "it": "Ipoh",
+        "it:t": "Malesia | Perak",
+        "es": "Ipoh",
+        "es:t": "Malasia | Perak",
+        "de": "Ipoh",
+        "de:t": "Malaysia | Perak"
+    },
+    {
+        "en": "Jalan Pantai Chenang",
+        "en:t": "Malaysia | Langkawi",
+        "a": true,
+        "g": {
+            "lat": 6.2907,
+            "lon": 99.7261
+        },
+        "it": "Jalan Pantai Chenang",
+        "it:t": "Malaysia | Langkawi",
+        "es": "Jalan Pantai Chenang",
+        "es:t": "Malaysia | Langkawi",
+        "de": "Jalan Pantai Chenang",
+        "de:t": "Malaysia | Langkawi"
+    },
+    {
+        "en": "Jenjarom",
+        "en:t": "Malaysia | Selangor",
+        "a": true,
+        "g": {
+            "lat": 2.8758,
+            "lon": 101.4985
+        },
+        "it": "Jenjarom",
+        "it:t": "Malesia | Selangor",
+        "es": "Jenjarom",
+        "es:t": "Malasia | Selangor",
+        "de": "Jenjarom",
+        "de:t": "Malaysia | Selangor"
+    },
+    {
+        "en": "Jerantut",
+        "en:t": "Malaysia | Pahang",
+        "a": true,
+        "g": {
+            "lat": 3.9374,
+            "lon": 102.362
+        },
+        "it": "Jerantut",
+        "it:t": "Malesia | Pahang",
+        "es": "Jerantut",
+        "es:t": "Malasia | Pahang",
+        "de": "Jerantut",
+        "de:t": "Malaysia | Pahang"
+    },
+    {
+        "en": "Jitra",
+        "en:t": "Malaysia",
+        "a": true,
+        "g": {
+            "lat": 6.2644,
+            "lon": 100.4202
+        },
+        "it": "Malaysia",
+        "it:t": "Malesia",
+        "es": "Jitra",
+        "es:t": "Malasia",
+        "de": "Jitra",
+        "de:t": "Malaysia"
+    },
+    {
+        "en": "Johor Bahru",
+        "en:t": "Malaysia | Johor",
+        "a": true,
+        "g": {
+            "lat": 1.4927,
+            "lon": 103.7414
+        },
+        "it": "Johor Bahru",
+        "it:t": "Malesia | Johor",
+        "es": "Johor Bahru",
+        "es:t": "Malasia | Johor",
+        "de": "Johor Bahru",
+        "de:t": "Malaysia | Johor"
+    },
+    {
+        "en": "Kadok",
+        "en:t": "Malaysia | Kelantan",
+        "a": true,
+        "g": {
+            "lat": 5.9942,
+            "lon": 102.2422
+        },
+        "it": "Kadok",
+        "it:t": "Malesia | Kelantan",
+        "es": "Kadok",
+        "es:t": "Malasia | Kelantan",
+        "de": "Kadok",
+        "de:t": "Malaysia | Kelantan"
+    },
+    {
+        "en": "Kampar",
+        "en:t": "Malaysia | Perak",
+        "a": true,
+        "g": {
+            "lat": 4.3085,
+            "lon": 101.1537
+        },
+        "it": "Kampar",
+        "it:t": "Malesia | Perak",
+        "es": "Kampar",
+        "es:t": "Malasia | Perak",
+        "de": "Kampar",
+        "de:t": "Malaysia | Perak"
+    },
+    {
+        "en": "Kampung Ayer Keroh",
+        "en:t": "Malaysia | Melaka",
+        "a": true,
+        "g": {
+            "lat": 2.2678,
+            "lon": 102.2769
+        },
+        "it": "Kampong Ayer Keroh",
+        "it:t": "Malesia | Melaka",
+        "es": "Kampung Ayer Keroh",
+        "es:t": "Malasia | Melaka",
+        "de": "Kampong Ayer Keroh",
+        "de:t": "Malaysia | Melaka"
+    },
+    {
+        "en": "Kampung Ayer Molek",
+        "en:t": "Malaysia | Melaka",
+        "a": true,
+        "g": {
+            "lat": 2.2109,
+            "lon": 102.3281
+        },
+        "it": "Kampung Ayer Molek",
+        "it:t": "Malesia | Melaka",
+        "es": "Kampung Ayer Molek",
+        "es:t": "Malasia | Melaka",
+        "de": "Kampung Ayer Molek",
+        "de:t": "Malaysia | Melaka"
+    },
+    {
+        "en": "Kampung Baharu Nilai",
+        "en:t": "Malaysia | Pekan Nilai",
+        "a": true,
+        "g": {
+            "lat": 2.8037,
+            "lon": 101.7994
+        },
+        "it": "Kampung Baharu Nilai",
+        "it:t": "Malesia | Pekan Nilai",
+        "es": "Kampung Baharu Nilai",
+        "es:t": "Malasia | Pekan Nilai",
+        "de": "Kampung Baharu Nilai",
+        "de:t": "Malaysia | Pekan Nilai"
+    },
+    {
+        "en": "Kampung Bukit Baharu",
+        "en:t": "Malaysia | Melaka",
+        "a": true,
+        "g": {
+            "lat": 2.2089,
+            "lon": 102.2929
+        },
+        "it": "Kampung Bukit Baharu",
+        "it:t": "Malesia | Melaka",
+        "es": "Kampung Bukit Baharu",
+        "es:t": "Malasia | Melaka",
+        "de": "Kampung Bukit Baharu",
+        "de:t": "Malaysia | Melaka"
+    },
+    {
+        "en": "Kampung Pasir Gudang Baru",
+        "en:t": "Malaysia | Masai",
+        "a": true,
+        "g": {
+            "lat": 1.4737,
+            "lon": 103.8828
+        },
+        "it": "Kampung Pasir Gudang Baru",
+        "it:t": "Malesia | Masai",
+        "es": "Kampung Pasir Gudang Baru",
+        "es:t": "Malasia | Masai",
+        "de": "Kampung Pasir Gudang Baru",
+        "de:t": "Malaysia | Masai"
+    },
+    {
+        "en": "Kampung Peringat",
+        "en:t": "Malaysia | Melor",
+        "a": true,
+        "g": {
+            "lat": 6.0203,
+            "lon": 102.2861
+        },
+        "it": "Kampung Peringat",
+        "it:t": "Malesia | Melor",
+        "es": "Kampung Peringat",
+        "es:t": "Malasia | Melor",
+        "de": "Kampung Peringat",
+        "de:t": "Malaysia | Melor"
+    },
+    {
+        "en": "Kampung Simpang Renggam",
+        "en:t": "Malaysia | Simpang Renggam",
+        "a": true,
+        "g": {
+            "lat": 1.8304,
+            "lon": 103.3043
+        },
+        "it": "Kampung Simpang Renggam",
+        "it:t": "Malesia | Simpang Renggam",
+        "es": "Kampung Simpang Renggam",
+        "es:t": "Malasia | Simpang Renggam",
+        "de": "Kampung Simpang Renggam",
+        "de:t": "Malaysia | Simpang Renggam"
+    },
+    {
+        "en": "Kampung Subang Baru",
+        "en:t": "Malaysia | Shah Alam",
+        "a": true,
+        "g": {
+            "lat": 3.1293,
+            "lon": 101.5221
+        },
+        "it": "Kampung Subang Baru",
+        "it:t": "Malesia | Shah Alam",
+        "es": "Kampung Subang Baru",
+        "es:t": "Malasia | Shah Alam",
+        "de": "Kampung Subang Baru",
+        "de:t": "Malaysia | Shah Alam"
+    },
+    {
+        "en": "Kampung Sungai Ara",
+        "en:t": "Malaysia | Bayan Lepas",
+        "a": true,
+        "g": {
+            "lat": 5.3233,
+            "lon": 100.2732
+        },
+        "it": "Kampung Sungai Ara",
+        "it:t": "Malesia | Bayan Lepas",
+        "es": "Kampung Sungai Ara",
+        "es:t": "Malasia | Bayan Lepas",
+        "de": "Kampung Sungai Ara",
+        "de:t": "Malaysia | Bayan Lepas"
+    },
+    {
+        "en": "Kangar",
+        "en:t": "Malaysia | Perlis",
+        "a": true,
+        "g": {
+            "lat": 6.4406,
+            "lon": 100.1984
+        },
+        "it": "Kangar",
+        "it:t": "Malesia | Perlis",
+        "es": "Kangar",
+        "es:t": "Malasia | Perlis",
+        "de": "Kangar",
+        "de:t": "Malaysia | Perlis"
+    },
+    {
+        "en": "Kapit",
+        "en:t": "Malaysia | Sarawak",
+        "a": true,
+        "g": {
+            "lat": 1.9951,
+            "lon": 112.9331
+        },
+        "it": "Kapit",
+        "it:t": "Malesia | Sarawak",
+        "es": "Kapit",
+        "es:t": "Malasia | Sarawak",
+        "de": "Kapit",
+        "de:t": "Malaysia | Sarawak"
+    },
+    {
+        "en": "Keningau",
+        "en:t": "Malaysia | Sabah",
+        "a": true,
+        "g": {
+            "lat": 5.3374,
+            "lon": 116.1567
+        },
+        "it": "Keningau",
+        "it:t": "Malesia | Sabah",
+        "es": "Keningau",
+        "es:t": "Malasia | Sabah",
+        "de": "Keningau",
+        "de:t": "Malaysia | Sabah"
+    },
+    {
+        "en": "Kepala Batas",
+        "en:t": "Malaysia | Penang",
+        "a": true,
+        "g": {
+            "lat": 5.5172,
+            "lon": 100.4315
+        },
+        "it": "Kepala Batas",
+        "it:t": "Malesia | Penang",
+        "es": "Kepala Batas",
+        "es:t": "Malasia | Penang",
+        "de": "Kepala Batas",
+        "de:t": "Malaysia | Penang"
+    },
+    {
+        "en": "Kerteh",
+        "en:t": "Malaysia | Terengganu",
+        "a": true,
+        "g": {
+            "lat": 4.5079,
+            "lon": 103.443
+        },
+        "it": "Kerteh",
+        "it:t": "Malesia | Terengganu",
+        "es": "Kerteh",
+        "es:t": "Malasia | Terengganu",
+        "de": "Kerteh",
+        "de:t": "Malaysia | Terengganu"
+    },
+    {
+        "en": "Kinarut",
+        "en:t": "Malaysia | Sabah",
+        "a": true,
+        "g": {
+            "lat": 5.837,
+            "lon": 116.0433
+        },
+        "it": "Kinarut",
+        "it:t": "Malesia | Sabah",
+        "es": "Kinarut",
+        "es:t": "Malasia | Sabah",
+        "de": "Kinarut",
+        "de:t": "Malaysia | Sabah"
+    },
+    {
+        "en": "Klang",
+        "en:t": "Malaysia | Selangor",
+        "a": true,
+        "g": {
+            "lat": 3.0449,
+            "lon": 101.4456
+        },
+        "it": "Klang",
+        "it:t": "Malesia | Selangor",
+        "es": "Klang",
+        "es:t": "Malasia | Selangor",
+        "de": "Klang",
+        "de:t": "Malaysia | Selangor"
+    },
+    {
+        "en": "Kluang",
+        "en:t": "Malaysia | Johor",
+        "a": true,
+        "g": {
+            "lat": 2.0301,
+            "lon": 103.3185
+        },
+        "it": "Kluang",
+        "it:t": "Malesia | Johor",
+        "es": "Kluang",
+        "es:t": "Malasia | Johor",
+        "de": "Kluang",
+        "de:t": "Malaysia | Johor"
+    },
+    {
+        "en": "Kota Bharu",
+        "en:t": "Malaysia",
+        "a": true,
+        "g": {
+            "lat": 5.9138,
+            "lon": 102.2444
+        },
+        "it": "Kota Bharu",
+        "it:t": "Malesia",
+        "es": "Kota Bharu",
+        "es:t": "Malasia",
+        "de": "Kota Bharu",
+        "de:t": "Malaysia"
+    },
+    {
+        "en": "Kota Bharu",
+        "en:t": "Malaysia | Kelantan",
+        "a": true,
+        "g": {
+            "lat": 6.1253,
+            "lon": 102.2376
+        },
+        "it": "Kota Bharu",
+        "it:t": "Malesia | Kelantan",
+        "es": "Kota Bharu",
+        "es:t": "Malasia | Kelantan",
+        "de": "Kota Bharu",
+        "de:t": "Malaysia | Kelantan"
+    },
+    {
+        "en": "Kota Kinabalu",
+        "en:t": "Malaysia | Sabah",
+        "a": true,
+        "g": {
+            "lat": 5.9804,
+            "lon": 116.0735
+        },
+        "it": "Kota Kinabalu",
+        "it:t": "Malesia | Sabah",
+        "es": "Kota Kinabalu",
+        "es:t": "Malasia | Sabah",
+        "de": "Kota Kinabalu",
+        "de:t": "Malaysia | Sabah"
+    },
+    {
+        "en": "Kota Tinggi",
+        "en:t": "Malaysia | Johor",
+        "a": true,
+        "g": {
+            "lat": 1.7294,
+            "lon": 103.8992
+        },
+        "it": "Kota Tinggi",
+        "it:t": "Malesia | Johor",
+        "es": "Kota Tinggi",
+        "es:t": "Malasia | Johor",
+        "de": "Kota Tinggi",
+        "de:t": "Malaysia | Johor"
+    },
+    {
+        "en": "Kuah",
+        "en:t": "Malaysia | Kedah",
+        "a": true,
+        "g": {
+            "lat": 6.3271,
+            "lon": 99.8396
+        },
+        "it": "Kuah",
+        "it:t": "Malesia | Kedah",
+        "es": "Kuah",
+        "es:t": "Malasia | Kedah",
+        "de": "Kuah",
+        "de:t": "Malaysia | Kedah"
+    },
+    {
+        "en": "Kuala Dungun",
+        "en:t": "Malaysia",
+        "a": true,
+        "g": {
+            "lat": 4.7549,
+            "lon": 103.4156
+        },
+        "it": "Kuala Dungun",
+        "it:t": "Malesia",
+        "es": "Perak",
+        "es:t": "Malasia",
+        "de": "Kuala Dungun",
+        "de:t": "Malaysia"
+    },
+    {
+        "en": "Kuala Kangsar",
+        "en:t": "Malaysia | Perak",
+        "a": true,
+        "g": {
+            "lat": 4.7736,
+            "lon": 100.942
+        },
+        "it": "Kuala Kangsar",
+        "it:t": "Malesia | Perak",
+        "es": "Kuala Kangsar",
+        "es:t": "Malasia | Perak",
+        "de": "Kuala Kangsar",
+        "de:t": "Malaysia | Perak"
+    },
+    {
+        "en": "Kuala Kedah",
+        "en:t": "Malaysia | Kedah",
+        "a": true,
+        "g": {
+            "lat": 6.1056,
+            "lon": 100.2914
+        },
+        "it": "Kuala Kedah",
+        "it:t": "Malesia | Kedah",
+        "es": "Kuala Kedah",
+        "es:t": "Malasia | Kedah",
+        "de": "Kuala Kedah",
+        "de:t": "Malaysia | Kedah"
+    },
+    {
+        "en": "Kuala Lipis",
+        "en:t": "Malaysia | Pahang",
+        "a": true,
+        "g": {
+            "lat": 4.1843,
+            "lon": 102.0542
+        },
+        "it": "Kuala Lipis",
+        "it:t": "Malesia | Pahang",
+        "es": "Kuala Lipis",
+        "es:t": "Malasia | Pahang",
+        "de": "Kuala Lipis",
+        "de:t": "Malaysia | Pahang"
+    },
+    {
+        "en": "Kuala Lumpur",
+        "en:t": "Malaysia | Kuala Lumpur",
+        "a": true,
+        "g": {
+            "lat": 3.139,
+            "lon": 101.6869
+        },
+        "it": "Kuala Lumpur",
+        "it:t": "Malesia | Kuala Lumpur",
+        "es": "Kuala Lumpur",
+        "es:t": "Malasia | Kuala Lumpur",
+        "de": "Kuala Lumpur",
+        "de:t": "Malaysia | Kuala Lumpur"
+    },
+    {
+        "en": "Kuala Selangor",
+        "en:t": "Malaysia | Selangor",
+        "a": true,
+        "g": {
+            "lat": 3.3402,
+            "lon": 101.2498
+        },
+        "it": "Kuala Selangor",
+        "it:t": "Malesia | Selangor",
+        "es": "Kuala Selangor",
+        "es:t": "Malasia | Selangor",
+        "de": "Kuala Selangor",
+        "de:t": "Malaysia | Selangor"
+    },
+    {
+        "en": "Kuala Terengganu",
+        "en:t": "Malaysia | Terengganu",
+        "a": true,
+        "g": {
+            "lat": 5.3296,
+            "lon": 103.137
+        },
+        "it": "Kuala Terengganu",
+        "it:t": "Malesia | Terengganu",
+        "es": "Kuala Terengganu",
+        "es:t": "Malasia | Terengganu",
+        "de": "Kuala Terengganu",
+        "de:t": "Malaysia | Terengganu"
+    },
+    {
+        "en": "Kuantan",
+        "en:t": "Malaysia | Pahang",
+        "a": true,
+        "g": {
+            "lat": 3.7634,
+            "lon": 103.2202
+        },
+        "it": "Kuantan",
+        "it:t": "Malesia | Pahang",
+        "es": "Kuantan",
+        "es:t": "Malasia | Pahang",
+        "de": "Kuantan",
+        "de:t": "Malaysia | Pahang"
+    },
+    {
+        "en": "Kuching",
+        "en:t": "Malaysia | Sarawak",
+        "a": true,
+        "g": {
+            "lat": 1.5535,
+            "lon": 110.3593
+        },
+        "it": "Kuching",
+        "it:t": "Malesia | Sarawak",
+        "es": "Kuching",
+        "es:t": "Malasia | Sarawak",
+        "de": "Kuching",
+        "de:t": "Malaysia | Sarawak"
+    },
+    {
+        "en": "Kudat",
+        "en:t": "Malaysia | Sabah",
+        "a": true,
+        "g": {
+            "lat": 6.8868,
+            "lon": 116.8253
+        },
+        "it": "Kudat",
+        "it:t": "Malesia | Sabah",
+        "es": "Kudat",
+        "es:t": "Malasia | Sabah",
+        "de": "Kudat",
+        "de:t": "Malaysia | Sabah"
+    },
+    {
+        "en": "Kulai",
+        "en:t": "Malaysia | Johor",
+        "a": true,
+        "g": {
+            "lat": 1.663,
+            "lon": 103.5999
+        },
+        "it": "Kulai",
+        "it:t": "Malesia | Johor",
+        "es": "Kulai",
+        "es:t": "Malasia | Johor",
+        "de": "Kulai",
+        "de:t": "Malaysia | Johor"
+    },
+    {
+        "en": "Kulim",
+        "en:t": "Malaysia | Kedah",
+        "a": true,
+        "g": {
+            "lat": 5.3655,
+            "lon": 100.5524
+        },
+        "it": "Kulim",
+        "it:t": "Malesia | Kedah",
+        "es": "Kulim",
+        "es:t": "Malasia | Kedah",
+        "de": "Kulim",
+        "de:t": "Malaysia | Kedah"
+    },
+    {
+        "en": "Labis",
+        "en:t": "Malaysia | Johor",
+        "a": true,
+        "g": {
+            "lat": 2.3823,
+            "lon": 103.0201
+        },
+        "it": "Labis",
+        "it:t": "Malesia | Johor",
+        "es": "Labis",
+        "es:t": "Malasia | Johor",
+        "de": "Labis",
+        "de:t": "Malaysia | Johor"
+    },
+    {
+        "en": "Labuan",
+        "en:t": "Malaysia",
+        "a": true,
+        "g": {
+            "lat": 5.2831,
+            "lon": 115.2308
+        },
+        "it": "Labuan",
+        "it:t": "Malesia",
+        "es": "Labuan",
+        "es:t": "Malasia",
+        "de": "Labuan",
+        "de:t": "Malaysia"
+    },
+    {
+        "en": "Lahad Datu",
+        "en:t": "Malaysia | Sabah",
+        "a": true,
+        "g": {
+            "lat": 5.0242,
+            "lon": 118.3307
+        },
+        "it": "Lahad Datu",
+        "it:t": "Malesia | Sabah",
+        "es": "Lahad Datu",
+        "es:t": "Malasia | Sabah",
+        "de": "Lahad Datu",
+        "de:t": "Malaysia | Sabah"
+    },
+    {
+        "en": "Limbang",
+        "en:t": "Malaysia | Sarawak",
+        "a": true,
+        "g": {
+            "lat": 4.755,
+            "lon": 115.0081
+        },
+        "it": "Limbang",
+        "it:t": "Malesia | Sarawak",
+        "es": "Limbang",
+        "es:t": "Malasia | Sarawak",
+        "de": "Limbang",
+        "de:t": "Malaysia | Sarawak"
+    },
+    {
+        "en": "Lorong Kuching",
+        "en:t": "Malaysia | George Town",
+        "a": true,
+        "g": {
+            "lat": 5.4317,
+            "lon": 100.3093
+        },
+        "it": "Lorong Kuching",
+        "it:t": "Malesia | George Town",
+        "es": "Lorong Kuching",
+        "es:t": "Malasia | George Town",
+        "de": "Lorong Kuching",
+        "de:t": "Malaysia | George Town"
+    },
+    {
+        "en": "Lumut",
+        "en:t": "Malaysia | Perak",
+        "a": true,
+        "g": {
+            "lat": 4.2363,
+            "lon": 100.6322
+        },
+        "it": "Lumut",
+        "it:t": "Malesia | Perak",
+        "es": "Lumut",
+        "es:t": "Malasia | Perak",
+        "de": "Lumut",
+        "de:t": "Malaysia | Perak"
+    },
+    {
+        "en": "Malacca",
+        "en:t": "Malaysia",
+        "a": true,
+        "g": {
+            "lat": 2.1896,
+            "lon": 102.2501
+        },
+        "it": "Malacca",
+        "it:t": "Malesia",
+        "es": "Malaca",
+        "es:t": "Malasia",
+        "de": "Malakka",
+        "de:t": "Malaysia"
+    },
+    {
+        "en": "Marang",
+        "en:t": "Malaysia | Terengganu",
+        "a": true,
+        "g": {
+            "lat": 5.2077,
+            "lon": 103.2049
+        },
+        "it": "Marang",
+        "it:t": "Malesia | Terengganu",
+        "es": "Marang",
+        "es:t": "Malasia | Terengganu",
+        "de": "Marang",
+        "de:t": "Malaysia | Terengganu"
+    },
+    {
+        "en": "Masjid Tanah",
+        "en:t": "Malaysia | Malacca",
+        "a": true,
+        "g": {
+            "lat": 2.3523,
+            "lon": 102.1089
+        },
+        "it": "Masjid Tanah",
+        "it:t": "Malesia | Malacca",
+        "es": "Masjid Tanah",
+        "es:t": "Malasia | Malacca",
+        "de": "Masjid Tanah",
+        "de:t": "Malaysia | Malacca"
+    },
+    {
+        "en": "Mentakab",
+        "en:t": "Malaysia | Pahang",
+        "a": true,
+        "g": {
+            "lat": 3.4846,
+            "lon": 102.3503
+        },
+        "it": "Mentakab",
+        "it:t": "Malesia | Pahang",
+        "es": "Mentakab",
+        "es:t": "Malasia | Pahang",
+        "de": "Mentakab",
+        "de:t": "Malaysia | Pahang"
+    },
+    {
+        "en": "Mersing",
+        "en:t": "Malaysia | Johor",
+        "a": true,
+        "g": {
+            "lat": 2.4309,
+            "lon": 103.8361
+        },
+        "it": "Mersing",
+        "it:t": "Malesia | Johor",
+        "es": "Mersing",
+        "es:t": "Malasia | Johor",
+        "de": "Mersing",
+        "de:t": "Malaysia | Johor"
+    },
+    {
+        "en": "Miri",
+        "en:t": "Malaysia | Sarawak",
+        "a": true,
+        "g": {
+            "lat": 4.3995,
+            "lon": 113.9914
+        },
+        "it": "Miri",
+        "it:t": "Malesia | Sarawak",
+        "es": "Miri",
+        "es:t": "Malasia | Sarawak",
+        "de": "Miri",
+        "de:t": "Malaysia | Sarawak"
+    },
+    {
+        "en": "Muar",
+        "en:t": "Malaysia | Johor",
+        "a": true,
+        "g": {
+            "lat": 2.0631,
+            "lon": 102.5849
+        },
+        "it": "Muar",
+        "it:t": "Malesia | Johor",
+        "es": "Muar",
+        "es:t": "Malasia | Johor",
+        "de": "Muar",
+        "de:t": "Malaysia | Johor"
+    },
+    {
+        "en": "Nibong Tebal",
+        "en:t": "Malaysia | Penang",
+        "a": true,
+        "g": {
+            "lat": 5.1701,
+            "lon": 100.4792
+        },
+        "it": "Nibong Tebai",
+        "it:t": "Malesia | Penang",
+        "es": "Nibong Tebal",
+        "es:t": "Malasia | Penang",
+        "de": "Nibong Tebal",
+        "de:t": "Malaysia | Penang"
+    },
+    {
+        "en": "Padang Matsirat",
+        "en:t": "Malaysia | Langkawi",
+        "a": true,
+        "g": {
+            "lat": 6.3521,
+            "lon": 99.7336
+        },
+        "it": "Padang Mat Sirat",
+        "it:t": "Malesia | Langkawi",
+        "es": "Padang Matsirat",
+        "es:t": "Malasia | Langkawi",
+        "de": "Padang Matsirat",
+        "de:t": "Malaysia | Langkawi"
+    },
+    {
+        "en": "Paka",
+        "en:t": "Malaysia | Terengganu",
+        "a": true,
+        "g": {
+            "lat": 4.6266,
+            "lon": 103.44
+        },
+        "it": "Paka",
+        "it:t": "Malesia | Malaysia",
+        "es": "Paka",
+        "es:t": "Malasia | Terengganu",
+        "de": "Paka",
+        "de:t": "Malaysia | Terengganu"
+    },
+    {
+        "en": "Pantai Remis",
+        "en:t": "Malaysia | Perak",
+        "a": true,
+        "g": {
+            "lat": 4.4556,
+            "lon": 100.6293
+        },
+        "it": "Pantai Remis",
+        "it:t": "Malesia | Perak",
+        "es": "Pantai Remis",
+        "es:t": "Malasia | Perak",
+        "de": "Pantai Remis",
+        "de:t": "Malaysia | Perak"
+    },
+    {
+        "en": "Papar",
+        "en:t": "Malaysia | Sabah",
+        "a": true,
+        "g": {
+            "lat": 5.7346,
+            "lon": 115.9319
+        },
+        "it": "Papar",
+        "it:t": "Malesia | Sabah",
+        "es": "Papar",
+        "es:t": "Malasia | Sabah",
+        "de": "Papar",
+        "de:t": "Malaysia | Sabah"
+    },
+    {
+        "en": "Parit Buntar",
+        "en:t": "Malaysia | Perak",
+        "a": true,
+        "g": {
+            "lat": 5.1474,
+            "lon": 100.4212
+        },
+        "it": "Parit Buntar",
+        "it:t": "Malesia | Perak",
+        "es": "Parit Buntar",
+        "es:t": "Malasia | Perak",
+        "de": "Parit Buntar",
+        "de:t": "Malaysia | Perak"
+    },
+    {
+        "en": "Parit Raja",
+        "en:t": "Malaysia | Johor",
+        "a": true,
+        "g": {
+            "lat": 1.8635,
+            "lon": 103.1089
+        },
+        "it": "Parit Raja",
+        "it:t": "Malesia | Johor",
+        "es": "Parit Raja",
+        "es:t": "Malasia | Johor",
+        "de": "Parit Raja",
+        "de:t": "Malaysia | Johor"
+    },
+    {
+        "en": "Pasir Mas",
+        "en:t": "Malaysia | Kelantan",
+        "a": true,
+        "g": {
+            "lat": 6.0424,
+            "lon": 102.1428
+        },
+        "it": "Pasir Mas",
+        "it:t": "Malesia | Kelantan",
+        "es": "Pasir Mas",
+        "es:t": "Malasia | Kelantan",
+        "de": "Pasir Mas",
+        "de:t": "Malaysia | Kelantan"
+    },
+    {
+        "en": "Pekan",
+        "en:t": "Malaysia | Pahang",
+        "a": true,
+        "g": {
+            "lat": 3.4921,
+            "lon": 103.3895
+        },
+        "it": "Pekan",
+        "it:t": "Malesia | Pahang",
+        "es": "Pekan",
+        "es:t": "Malasia | Pahang",
+        "de": "Pekan",
+        "de:t": "Malaysia | Pahang"
+    },
+    {
+        "en": "Pekan Nanas",
+        "en:t": "Malaysia",
+        "a": true,
+        "g": {
+            "lat": 1.5076,
+            "lon": 103.5125
+        },
+        "it": "Pekan Nanas",
+        "it:t": "Malesia",
+        "es": "Pekan Nenas",
+        "es:t": "Malasia",
+        "de": "Pekan Nanas",
+        "de:t": "Malaysia"
+    },
+    {
+        "en": "Perai",
+        "en:t": "Malaysia | Penang",
+        "a": true,
+        "g": {
+            "lat": 5.3773,
+            "lon": 100.4001
+        },
+        "it": "Perai",
+        "it:t": "Malesia | Penang",
+        "es": "Perai",
+        "es:t": "Malasia | Penang",
+        "de": "Perai",
+        "de:t": "Malaysia | Penang"
+    },
+    {
+        "en": "Petaling Jaya",
+        "en:t": "Malaysia | Selangor",
+        "a": true,
+        "g": {
+            "lat": 3.1279,
+            "lon": 101.5945
+        },
+        "it": "Petaling Jaya",
+        "it:t": "Malesia | Selangor",
+        "es": "Petaling Jaya",
+        "es:t": "Malasia | Selangor",
+        "de": "Petaling Jaya",
+        "de:t": "Malaysia | Selangor"
+    },
+    {
+        "en": "Pilah",
+        "en:t": "Malaysia | Negeri Sembilan",
+        "a": true,
+        "g": {
+            "lat": 2.7005,
+            "lon": 102.2262
+        },
+        "it": "Pilah",
+        "it:t": "Malesia | Negeri Sembilan",
+        "es": "Kuala Pilah",
+        "es:t": "Malasia | Negeri Sembilan",
+        "de": "Pilah",
+        "de:t": "Malaysia | Negeri Sembilan"
+    },
+    {
+        "en": "Pontian Kechil",
+        "en:t": "Malaysia | Pontian",
+        "a": true,
+        "g": {
+            "lat": 1.479,
+            "lon": 103.3898
+        },
+        "it": "Pontian Kechil",
+        "it:t": "Malesia | Pontian",
+        "es": "Pontian Kechil",
+        "es:t": "Malasia | Pontian",
+        "de": "Pontian Kechil",
+        "de:t": "Malaysia | Pontian"
+    },
+    {
+        "en": "Port Dickson",
+        "en:t": "Malaysia | Negeri Sembilan",
+        "a": true,
+        "g": {
+            "lat": 2.5225,
+            "lon": 101.7963
+        },
+        "it": "Port Dickinson",
+        "it:t": "Malesia | Negeri Sembilan",
+        "es": "Port Dickson",
+        "es:t": "Malasia | Negeri Sembilan",
+        "de": "Port Dickson",
+        "de:t": "Malaysia | Negeri Sembilan"
+    },
+    {
+        "en": "Putatan",
+        "en:t": "Malaysia | Sabah",
+        "a": true,
+        "g": {
+            "lat": 5.8912,
+            "lon": 116.0485
+        },
+        "it": "Putatan",
+        "it:t": "Malesia | Sabah",
+        "es": "Putatan",
+        "es:t": "Malasia | Sabah",
+        "de": "Putatan",
+        "de:t": "Malaysia | Sabah"
+    },
+    {
+        "en": "Putra Heights",
+        "en:t": "Malaysia | Subang Jaya",
+        "a": true,
+        "g": {
+            "lat": 3.0058,
+            "lon": 101.5778
+        },
+        "it": "Putra Heights",
+        "it:t": "Malesia | Subang Jaya",
+        "es": "Putra Heights",
+        "es:t": "Malasia | Subang Jaya",
+        "de": "Putra Heights",
+        "de:t": "Malaysia | Subang Jaya"
+    },
+    {
+        "en": "Putrajaya",
+        "en:t": "Malaysia",
+        "a": true,
+        "g": {
+            "lat": 2.9264,
+            "lon": 101.6964
+        },
+        "it": "Putrajaya",
+        "it:t": "Malesia",
+        "es": "Putrajaya",
+        "es:t": "Malasia",
+        "de": "Putrajaya",
+        "de:t": "Malaysia"
+    },
+    {
+        "en": "Ranau",
+        "en:t": "Malaysia | Sabah",
+        "a": true,
+        "g": {
+            "lat": 5.9536,
+            "lon": 116.664
+        },
+        "it": "Ranau",
+        "it:t": "Malesia | Sabah",
+        "es": "Ranau",
+        "es:t": "Malasia | Sabah",
+        "de": "Ranau",
+        "de:t": "Malaysia | Sabah"
+    },
+    {
+        "en": "Raub",
+        "en:t": "Malaysia | Pahang",
+        "a": true,
+        "g": {
+            "lat": 3.7935,
+            "lon": 101.8575
+        },
+        "it": "Raub",
+        "it:t": "Malesia | Pahang",
+        "es": "Raub",
+        "es:t": "Malasia | Pahang",
+        "de": "Raub",
+        "de:t": "Malaysia | Pahang"
+    },
+    {
+        "en": "Rawang",
+        "en:t": "Malaysia | Selangor",
+        "a": true,
+        "g": {
+            "lat": 3.3205,
+            "lon": 101.5759
+        },
+        "it": "Rawang",
+        "it:t": "Malesia | Selangor",
+        "es": "Rawang",
+        "es:t": "Malasia | Selangor",
+        "de": "Rawang",
+        "de:t": "Malaysia | Selangor"
+    },
+    {
+        "en": "Sabak",
+        "en:t": "Malaysia | Selangor",
+        "a": true,
+        "g": {
+            "lat": 3.7696,
+            "lon": 100.9837
+        },
+        "it": "Sabak",
+        "it:t": "Malesia | Selangor",
+        "es": "Sabak",
+        "es:t": "Malasia | Selangor",
+        "de": "Sabak",
+        "de:t": "Malaysia | Selangor"
+    },
+    {
+        "en": "Sandakan",
+        "en:t": "Malaysia | Sabah",
+        "a": true,
+        "g": {
+            "lat": 5.8394,
+            "lon": 118.1172
+        },
+        "it": "Sandakan",
+        "it:t": "Malesia | Sabah",
+        "es": "Sandakan",
+        "es:t": "Malasia | Sabah",
+        "de": "Sandakan",
+        "de:t": "Malaysia | Sabah"
+    },
+    {
+        "en": "Sarikei",
+        "en:t": "Malaysia | Sarawak",
+        "a": true,
+        "g": {
+            "lat": 2.1317,
+            "lon": 111.5237
+        },
+        "it": "Sarikei",
+        "it:t": "Malesia | Sarawak",
+        "es": "Sarikei",
+        "es:t": "Malasia | Sarawak",
+        "de": "Sarikei",
+        "de:t": "Malaysia | Sarawak"
+    },
+    {
+        "en": "Segamat",
+        "en:t": "Malaysia | Johor",
+        "a": true,
+        "g": {
+            "lat": 2.5035,
+            "lon": 102.8208
+        },
+        "it": "Segamat",
+        "it:t": "Malesia | Johor",
+        "es": "Segamat",
+        "es:t": "Malasia | Johor",
+        "de": "Segamat",
+        "de:t": "Malaysia | Johor"
+    },
+    {
+        "en": "Semenyih",
+        "en:t": "Malaysia | Selangor",
+        "a": true,
+        "g": {
+            "lat": 2.9474,
+            "lon": 101.8451
+        },
+        "it": "Semenyih",
+        "it:t": "Malesia | Selangor",
+        "es": "Semenyih",
+        "es:t": "Malasia | Selangor",
+        "de": "Semenyih",
+        "de:t": "Malaysia | Selangor"
+    },
+    {
+        "en": "Semporna",
+        "en:t": "Malaysia | Sabah",
+        "a": true,
+        "g": {
+            "lat": 4.4794,
+            "lon": 118.6115
+        },
+        "it": "Semporna",
+        "it:t": "Malesia | Sabah",
+        "es": "Semporna",
+        "es:t": "Malasia | Sabah",
+        "de": "Semporna",
+        "de:t": "Malaysia | Sabah"
+    },
+    {
+        "en": "Senai",
+        "en:t": "Malaysia | Johor",
+        "a": true,
+        "g": {
+            "lat": 1.602,
+            "lon": 103.6444
+        },
+        "it": "Senai",
+        "it:t": "Malesia | Johor",
+        "es": "Senai",
+        "es:t": "Malasia | Johor",
+        "de": "Senai",
+        "de:t": "Malaysia | Johor"
+    },
+    {
+        "en": "Sepang",
+        "en:t": "Malaysia | Selangor",
+        "a": true,
+        "g": {
+            "lat": 2.6914,
+            "lon": 101.7505
+        },
+        "it": "Sepang",
+        "it:t": "Malesia | Selangor",
+        "es": "Sepang",
+        "es:t": "Malasia | Selangor",
+        "de": "Sepang",
+        "de:t": "Malaysia | Selangor"
+    },
+    {
+        "en": "Seremban",
+        "en:t": "Malaysia | Negeri Sembilan",
+        "a": true,
+        "g": {
+            "lat": 2.7259,
+            "lon": 101.9378
+        },
+        "it": "Seremban",
+        "it:t": "Malesia | Negeri Sembilan",
+        "es": "Seremban",
+        "es:t": "Malasia | Negeri Sembilan",
+        "de": "Seremban",
+        "de:t": "Malaysia | Negeri Sembilan"
+    },
+    {
+        "en": "Serendah",
+        "en:t": "Malaysia | Selangor",
+        "a": true,
+        "g": {
+            "lat": 3.3639,
+            "lon": 101.6029
+        },
+        "it": "Serendah",
+        "it:t": "Malesia | Selangor",
+        "es": "Serendah",
+        "es:t": "Malasia | Selangor",
+        "de": "Serendah",
+        "de:t": "Malaysia | Selangor"
+    },
+    {
+        "en": "Shah Alam",
+        "en:t": "Malaysia | Selangor",
+        "a": true,
+        "g": {
+            "lat": 3.0733,
+            "lon": 101.5185
+        },
+        "it": "Shah Alam",
+        "it:t": "Malesia | Selangor",
+        "es": "Shah Alam",
+        "es:t": "Malasia | Selangor",
+        "de": "Shah Alam",
+        "de:t": "Malaysia | Selangor"
+    },
+    {
+        "en": "Sibu",
+        "en:t": "Malaysia | Sarawak",
+        "a": true,
+        "g": {
+            "lat": 2.2873,
+            "lon": 111.8305
+        },
+        "it": "Sibu",
+        "it:t": "Malesia | Sarawak",
+        "es": "Sibu",
+        "es:t": "Malasia | Sarawak",
+        "de": "Sibu",
+        "de:t": "Malaysia | Sarawak"
+    },
+    {
+        "en": "Simpang Empat Semanggol",
+        "en:t": "Malaysia | Perak",
+        "a": true,
+        "g": {
+            "lat": 4.9512,
+            "lon": 100.6293
+        },
+        "it": "Simpang Empat Semanggol",
+        "it:t": "Malesia | Perak",
+        "es": "Simpang Empat Semanggol",
+        "es:t": "Malasia | Perak",
+        "de": "Simpang Empat Semanggol",
+        "de:t": "Malaysia | Perak"
+    },
+    {
+        "en": "Skudai",
+        "en:t": "Malaysia | Johor",
+        "a": true,
+        "g": {
+            "lat": 1.5344,
+            "lon": 103.6594
+        },
+        "it": "Skudai",
+        "it:t": "Malesia | Johor",
+        "es": "Skudai",
+        "es:t": "Malasia | Johor",
+        "de": "Skudai",
+        "de:t": "Malaysia | Johor"
+    },
+    {
+        "en": "Sri Aman",
+        "en:t": "Malaysia | Sarawak",
+        "a": true,
+        "g": {
+            "lat": 1.237,
+            "lon": 111.4621
+        },
+        "it": "Sri Aman",
+        "it:t": "Malesia | Sarawak",
+        "es": "Sri Aman",
+        "es:t": "Malasia | Sarawak",
+        "de": "Sri Aman",
+        "de:t": "Malaysia | Sarawak"
+    },
+    {
+        "en": "Subang Jaya",
+        "en:t": "Malaysia | Selangor",
+        "a": true,
+        "g": {
+            "lat": 3.0567,
+            "lon": 101.5851
+        },
+        "it": "Subang Jaya",
+        "it:t": "Malesia | Selangor",
+        "es": "Subang Jaya",
+        "es:t": "Malasia | Selangor",
+        "de": "Subang Jaya",
+        "de:t": "Malaysia | Selangor"
+    },
+    {
+        "en": "Sungai Besar",
+        "en:t": "Malaysia | Selangor",
+        "a": true,
+        "g": {
+            "lat": 3.6754,
+            "lon": 100.9858
+        },
+        "it": "Sungai Besar",
+        "it:t": "Malesia | Selangor",
+        "es": "Sungai Besar",
+        "es:t": "Malasia | Selangor",
+        "de": "Sungai Besar",
+        "de:t": "Malaysia | Selangor"
+    },
+    {
+        "en": "Sungai Petani",
+        "en:t": "Malaysia | Kedah",
+        "a": true,
+        "g": {
+            "lat": 5.6436,
+            "lon": 100.4894
+        },
+        "it": "Sungai Petani",
+        "it:t": "Malesia | Kedah",
+        "es": "Sungai Petani",
+        "es:t": "Malasia | Kedah",
+        "de": "Sungai Petani",
+        "de:t": "Malaysia | Kedah"
+    },
+    {
+        "en": "Sungai Udang",
+        "en:t": "Malaysia | Malacca",
+        "a": true,
+        "g": {
+            "lat": 2.2915,
+            "lon": 102.1329
+        },
+        "it": "Sungai Udang",
+        "it:t": "Malesia | Malacca",
+        "es": "Sungai Udang",
+        "es:t": "Malasia | Malaca",
+        "de": "Sungai Udang",
+        "de:t": "Malaysia | Malacca"
+    },
+    {
+        "en": "Taiping",
+        "en:t": "Malaysia | Perak",
+        "a": true,
+        "g": {
+            "lat": 4.8519,
+            "lon": 100.7416
+        },
+        "it": "Taiping",
+        "it:t": "Malesia | Perak",
+        "es": "Taiping",
+        "es:t": "Malasia | Perak",
+        "de": "Taiping",
+        "de:t": "Malaysia | Perak"
+    },
+    {
+        "en": "Tampin",
+        "en:t": "Malaysia | Negeri Sembilan",
+        "a": true,
+        "g": {
+            "lat": 2.473,
+            "lon": 102.2312
+        },
+        "it": "Tampin",
+        "it:t": "Malesia | Negeri Sembilan",
+        "es": "Tampin",
+        "es:t": "Malasia | Negeri Sembilan",
+        "de": "Tampin",
+        "de:t": "Malaysia | Negeri Sembilan"
+    },
+    {
+        "en": "Tanah Merah",
+        "en:t": "Malaysia | Kelantan",
+        "a": true,
+        "g": {
+            "lat": 5.8089,
+            "lon": 102.1471
+        },
+        "it": "Tanah Merah",
+        "it:t": "Malesia | Kelantan",
+        "es": "Tanah Merah",
+        "es:t": "Malasia | Kelantan",
+        "de": "Tanah Merah",
+        "de:t": "Malaysia | Kelantan"
+    },
+    {
+        "en": "Tangkak",
+        "en:t": "Malaysia | Johor",
+        "a": true,
+        "g": {
+            "lat": 2.2711,
+            "lon": 102.542
+        },
+        "it": "Tangkak",
+        "it:t": "Malesia | Johor",
+        "es": "Tangkak",
+        "es:t": "Malasia | Johor",
+        "de": "Tangkak",
+        "de:t": "Malaysia | Johor"
+    },
+    {
+        "en": "Tanjong Sepat",
+        "en:t": "Malaysia | Selangor",
+        "a": true,
+        "g": {
+            "lat": 2.6653,
+            "lon": 101.5577
+        },
+        "it": "Tanjong Sepat",
+        "it:t": "Malesia | Selangor",
+        "es": "Tanjong Sepat",
+        "es:t": "Malasia | Selangor",
+        "de": "Tanjong Sepat",
+        "de:t": "Malaysia | Selangor"
+    },
+    {
+        "en": "Tanjung Karang",
+        "en:t": "Malaysia | Selangor",
+        "a": true,
+        "g": {
+            "lat": 3.4264,
+            "lon": 101.1767
+        },
+        "it": "Tanjung Karang",
+        "it:t": "Malesia | Selangor",
+        "es": "Tanjung Karang",
+        "es:t": "Malasia | Selangor",
+        "de": "Tanjung Karang",
+        "de:t": "Malaysia | Selangor"
+    },
+    {
+        "en": "Tanjung Tokong",
+        "en:t": "Malesia | Penang",
+        "a": true,
+        "g": {
+            "lat": 5.4556,
+            "lon": 100.3025
+        },
+        "it": "Tanjung Tokong",
+        "it:t": "Malesia | Penang",
+        "es": "Tanjung Tokong",
+        "es:t": "Malasia | Penang",
+        "de": "Tanjung Tokong",
+        "de:t": "Malesia | Penang"
+    },
+    {
+        "en": "Tapah Road",
+        "en:t": "Malaysia | Perak",
+        "a": true,
+        "g": {
+            "lat": 4.1731,
+            "lon": 101.1905
+        },
+        "it": "Tapah Road",
+        "it:t": "Malesia | Perak",
+        "es": "Tapah Road",
+        "es:t": "Malasia | Perak",
+        "de": "Tapah Road",
+        "de:t": "Malaysia | Perak"
+    },
+    {
+        "en": "Tasek Gelugor",
+        "en:t": "Malaysia | Penang",
+        "a": true,
+        "g": {
+            "lat": 5.4821,
+            "lon": 100.4945
+        },
+        "it": "Tasek Gelugor",
+        "it:t": "Malesia | Penang",
+        "es": "Tasek Gelugor",
+        "es:t": "Malasia | Penang",
+        "de": "Tasek Gelugor",
+        "de:t": "Malaysia | Penang"
+    },
+    {
+        "en": "Tasik Biru Seri Kundang",
+        "en:t": "Malaysia | Selangor",
+        "a": true,
+        "g": {
+            "lat": 3.2514,
+            "lon": 101.5255
+        },
+        "it": "Tasik Biru Seri Kundang",
+        "it:t": "Malesia | Selangor",
+        "es": "Tasik Biru Seri Kundang",
+        "es:t": "Malasia | Selangor",
+        "de": "Tasik Biru Seri Kundang",
+        "de:t": "Malaysia | Selangor"
+    },
+    {
+        "en": "Tawau",
+        "en:t": "Malaysia | Sabah",
+        "a": true,
+        "g": {
+            "lat": 4.2447,
+            "lon": 117.8912
+        },
+        "it": "Tawau",
+        "it:t": "Malesia | Sabah",
+        "es": "Tawau",
+        "es:t": "Malasia | Sabah",
+        "de": "Tawau",
+        "de:t": "Malaysia | Sabah"
+    },
+    {
+        "en": "Teluk Intan",
+        "en:t": "Malaysia | Perak",
+        "a": true,
+        "g": {
+            "lat": 4.0224,
+            "lon": 101.0206
+        },
+        "it": "Teluk Intan",
+        "it:t": "Malesia | Perak",
+        "es": "Teluk Intan",
+        "es:t": "Malasia | Perak",
+        "de": "Teluk Intan",
+        "de:t": "Malaysia | Perak"
+    },
+    {
+        "en": "Temerloh",
+        "en:t": "Malaysia | Pahang",
+        "a": true,
+        "g": {
+            "lat": 3.4486,
+            "lon": 102.4163
+        },
+        "it": "Temerloh",
+        "it:t": "Malesia | Pahang",
+        "es": "Temerloh",
+        "es:t": "Malasia | Pahang",
+        "de": "Temerloh",
+        "de:t": "Malaysia | Pahang"
+    },
+    {
+        "en": "Ulu Tiram",
+        "en:t": "Malaysia | Johor",
+        "a": true,
+        "g": {
+            "lat": 1.5974,
+            "lon": 103.8151
+        },
+        "it": "Ulu Tiram",
+        "it:t": "Malesia | Johor",
+        "es": "Ulu Tiram",
+        "es:t": "Malasia | Johor",
+        "de": "Ulu Tiram",
+        "de:t": "Malaysia | Johor"
+    },
+    {
+        "en": "Victoria",
+        "en:t": "Malaysia | Labuan",
+        "a": true,
+        "g": {
+            "lat": 5.2813,
+            "lon": 115.2479
+        },
+        "it": "Victoria",
+        "it:t": "Malesia | Labuan",
+        "es": "Victoria",
+        "es:t": "Malasia | Labuan",
+        "de": "Bandar Labuan",
+        "de:t": "Malaysia | Labuan"
+    },
+    {
+        "en": "Yong Peng",
+        "en:t": "Malaysia | Johor",
+        "a": true,
+        "g": {
+            "lat": 2.012,
+            "lon": 103.0582
+        },
+        "it": "Yong Peng",
+        "it:t": "Malesia | Johor",
+        "es": "Yong Peng",
+        "es:t": "Malasia | Johor",
+        "de": "Yong Peng",
+        "de:t": "Malaysia | Johor"
+    }
+]

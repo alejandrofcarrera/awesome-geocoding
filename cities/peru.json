@@ -1,0 +1,1607 @@
+[
+    {
+        "en": "Abancay",
+        "en:t": "Peru",
+        "a": true,
+        "g": {
+            "lat": -13.6392,
+            "lon": -72.8929
+        },
+        "it": "Abancay",
+        "it:t": "Per\u00f9",
+        "es": "Abancay",
+        "es:t": "Per\u00fa",
+        "de": "Abancay",
+        "de:t": "Peru"
+    },
+    {
+        "en": "Andahuaylas",
+        "en:t": "Peru",
+        "a": true,
+        "g": {
+            "lat": -13.6617,
+            "lon": -73.3768
+        },
+        "it": "Andahuaylas",
+        "it:t": "Per\u00f9",
+        "es": "Andahuaylas",
+        "es:t": "Per\u00fa",
+        "de": "Andahuaylas",
+        "de:t": "Peru"
+    },
+    {
+        "en": "Arequipa",
+        "en:t": "Peru",
+        "a": true,
+        "g": {
+            "lat": -16.409,
+            "lon": -71.5375
+        },
+        "it": "Arequipa",
+        "it:t": "Per\u00f9",
+        "es": "Arequipa",
+        "es:t": "Per\u00fa",
+        "de": "Arequipa",
+        "de:t": "Peru"
+    },
+    {
+        "en": "Ayacucho",
+        "en:t": "Peru | Huamanga",
+        "a": true,
+        "g": {
+            "lat": -13.1639,
+            "lon": -74.2236
+        },
+        "it": "Ayacucho",
+        "it:t": "Per\u00f9 | Huamanga",
+        "es": "Ayacucho",
+        "es:t": "Per\u00fa | Huamanga",
+        "de": "Ayacucho",
+        "de:t": "Peru | Huamanga"
+    },
+    {
+        "en": "Ayaviri",
+        "en:t": "Peru | Melgar",
+        "a": true,
+        "g": {
+            "lat": -14.8843,
+            "lon": -70.589
+        },
+        "it": "Ayaviri",
+        "it:t": "Per\u00f9 | Melgar",
+        "es": "Ayaviri",
+        "es:t": "Per\u00fa | Melgar",
+        "de": "Ayaviri",
+        "de:t": "Peru | Melgar"
+    },
+    {
+        "en": "Bagua Grande",
+        "en:t": "Peru | Utcubamba",
+        "a": true,
+        "g": {
+            "lat": -5.7567,
+            "lon": -78.4439
+        },
+        "it": "Bagua Grande",
+        "it:t": "Per\u00f9 | Utcubamba",
+        "es": "Bagua Grande",
+        "es:t": "Per\u00fa | Utcubamba",
+        "de": "Bagua Grande",
+        "de:t": "Peru | Utcubamba"
+    },
+    {
+        "en": "Barranca",
+        "en:t": "Peru",
+        "a": true,
+        "g": {
+            "lat": -10.7525,
+            "lon": -77.7599
+        },
+        "it": "Barranca",
+        "it:t": "Per\u00f9",
+        "es": "Barranca",
+        "es:t": "Per\u00fa",
+        "de": "Barranca",
+        "de:t": "Peru"
+    },
+    {
+        "en": "Bellavista",
+        "en:t": "Peru",
+        "a": true,
+        "g": {
+            "lat": -7.0535,
+            "lon": -76.5893
+        },
+        "it": "Bellavista",
+        "it:t": "Per\u00f9",
+        "es": "Bellavista",
+        "es:t": "Per\u00fa",
+        "de": "Bellavista",
+        "de:t": "Peru"
+    },
+    {
+        "en": "Cajamarca",
+        "en:t": "Peru",
+        "a": true,
+        "g": {
+            "lat": -7.1617,
+            "lon": -78.5128
+        },
+        "it": "Cajamarca",
+        "it:t": "Per\u00f9",
+        "es": "Cajamarca",
+        "es:t": "Per\u00fa",
+        "de": "Cajamarca",
+        "de:t": "Peru"
+    },
+    {
+        "en": "Callao",
+        "en:t": "Peru",
+        "a": true,
+        "g": {
+            "lat": -12.0508,
+            "lon": -77.126
+        },
+        "it": "Callao",
+        "it:t": "Per\u00f9",
+        "es": "Callao",
+        "es:t": "Per\u00fa",
+        "de": "Callao",
+        "de:t": "Peru"
+    },
+    {
+        "en": "Camana",
+        "en:t": "Peru",
+        "a": true,
+        "g": {
+            "lat": -16.6236,
+            "lon": -72.7105
+        },
+        "it": "Caman\u00e1",
+        "it:t": "Per\u00f9",
+        "es": "Caman\u00e1",
+        "es:t": "Per\u00fa",
+        "de": "Caman\u00e1",
+        "de:t": "Peru"
+    },
+    {
+        "en": "Catacaos",
+        "en:t": "Peru | Piura",
+        "a": true,
+        "g": {
+            "lat": -5.2688,
+            "lon": -80.6743
+        },
+        "it": "Catacaos",
+        "it:t": "Per\u00f9 | Piura",
+        "es": "Catacaos",
+        "es:t": "Per\u00fa | Piura",
+        "de": "Catacaos",
+        "de:t": "Peru | Piura"
+    },
+    {
+        "en": "Cerro de Pasco",
+        "en:t": "Peru | Pasco",
+        "a": true,
+        "g": {
+            "lat": -10.6777,
+            "lon": -76.2613
+        },
+        "it": "Cerro de Pasco",
+        "it:t": "Per\u00f9 | Pasco",
+        "es": "Cerro De Pasco",
+        "es:t": "Per\u00fa | Pasco",
+        "de": "Cerro de Pasco",
+        "de:t": "Peru | Pasco"
+    },
+    {
+        "en": "Chachapoyas",
+        "en:t": "Peru | Chachapoyas",
+        "a": true,
+        "g": {
+            "lat": -6.2302,
+            "lon": -77.8708
+        },
+        "it": "Chachapoyas",
+        "it:t": "Per\u00f9 | Chachapoyas",
+        "es": "Chachapoyas",
+        "es:t": "Per\u00fa",
+        "de": "Chachapoyas",
+        "de:t": "Peru | Chachapoyas"
+    },
+    {
+        "en": "Chancay",
+        "en:t": "Peru | Lima",
+        "a": true,
+        "g": {
+            "lat": -11.5667,
+            "lon": -77.2686
+        },
+        "it": "Chancay",
+        "it:t": "Per\u00f9 | Lima",
+        "es": "Chancay",
+        "es:t": "Per\u00fa | Lima",
+        "de": "Chancay",
+        "de:t": "Peru | Lima"
+    },
+    {
+        "en": "Chaupimarca",
+        "en:t": "Peru | Pasco",
+        "a": true,
+        "g": {
+            "lat": -10.7115,
+            "lon": -76.2421
+        },
+        "it": "Chaupimarca",
+        "it:t": "Per\u00f9 | Pasco",
+        "es": "Chaupimarca",
+        "es:t": "Per\u00fa | Pasco",
+        "de": "Chaupimarca",
+        "de:t": "Peru | Pasco"
+    },
+    {
+        "en": "Chepen",
+        "en:t": "Peru | Chep\u00e9n",
+        "a": true,
+        "g": {
+            "lat": -7.2272,
+            "lon": -79.4288
+        },
+        "it": "Chep\u00e9n",
+        "it:t": "Per\u00f9 | Chep\u00e9n",
+        "es": "Chep\u00e9n",
+        "es:t": "Per\u00fa | Chep\u00e9n",
+        "de": "Chepen",
+        "de:t": "Peru | Chep\u00e9n"
+    },
+    {
+        "en": "Chiclayo",
+        "en:t": "Peru",
+        "a": true,
+        "g": {
+            "lat": -6.7766,
+            "lon": -79.8443
+        },
+        "it": "Chiclayo",
+        "it:t": "Per\u00f9",
+        "es": "Chiclayo",
+        "es:t": "Per\u00fa",
+        "de": "Chiclayo",
+        "de:t": "Peru"
+    },
+    {
+        "en": "Chimbote",
+        "en:t": "Peru | Ancash",
+        "a": true,
+        "g": {
+            "lat": -9.0633,
+            "lon": -78.589
+        },
+        "it": "Chimbote",
+        "it:t": "Per\u00f9 | Ancash",
+        "es": "Chimbote",
+        "es:t": "Per\u00fa | \u00c1ncash",
+        "de": "Chimbote",
+        "de:t": "Peru | Ancash"
+    },
+    {
+        "en": "Chincha Alta",
+        "en:t": "Peru | Chincha",
+        "a": true,
+        "g": {
+            "lat": -13.4255,
+            "lon": -76.1367
+        },
+        "it": "Chincha Alta",
+        "it:t": "Per\u00f9 | Chincha",
+        "es": "Chincha Alta",
+        "es:t": "Per\u00fa | Chincha",
+        "de": "Chincha Alta",
+        "de:t": "Peru | Chincha"
+    },
+    {
+        "en": "Chocope",
+        "en:t": "Peru | Ascope",
+        "a": true,
+        "g": {
+            "lat": -7.7911,
+            "lon": -79.2197
+        },
+        "it": "Chocope",
+        "it:t": "Per\u00f9 | Ascope",
+        "es": "Chocope",
+        "es:t": "Per\u00fa | Ascope",
+        "de": "Chocope",
+        "de:t": "Peru | Ascope"
+    },
+    {
+        "en": "Chongoyape",
+        "en:t": "Peru | Chiclayo",
+        "a": true,
+        "g": {
+            "lat": -6.6376,
+            "lon": -79.3888
+        },
+        "it": "Chongoyape",
+        "it:t": "Per\u00f9 | Chiclayo",
+        "es": "Chongoyape",
+        "es:t": "Per\u00fa | Chiclayo",
+        "de": "Chongoyape",
+        "de:t": "Peru | Chiclayo"
+    },
+    {
+        "en": "Chulucanas",
+        "en:t": "Peru | Morrop\u00f3n",
+        "a": true,
+        "g": {
+            "lat": -5.0936,
+            "lon": -80.1596
+        },
+        "it": "Chulucanas",
+        "it:t": "Per\u00f9 | Morrop\u00f3n",
+        "es": "Chulucanas",
+        "es:t": "Per\u00fa | Morrop\u00f3n",
+        "de": "Chulucanas",
+        "de:t": "Peru | Morrop\u00f3n"
+    },
+    {
+        "en": "Coishco",
+        "en:t": "Peru | Santa",
+        "a": true,
+        "g": {
+            "lat": -9.0202,
+            "lon": -78.6143
+        },
+        "it": "Coishco",
+        "it:t": "Per\u00f9 | Santa",
+        "es": "Coishco",
+        "es:t": "Per\u00fa | Santa",
+        "de": "Coishco",
+        "de:t": "Peru | Santa"
+    },
+    {
+        "en": "Santa Ana",
+        "en:t": "Peru | Cusco",
+        "a": true,
+        "g": {
+            "lat": -13.515,
+            "lon": -71.9846
+        },
+        "it": "Santa Ana",
+        "it:t": "Per\u00f9 | Cusco",
+        "es": "Santa Ana",
+        "es:t": "Per\u00fa | Cusco",
+        "de": "Santa Ana",
+        "de:t": "Peru | Cusco"
+    },
+    {
+        "en": "Cusco",
+        "en:t": "Peru",
+        "a": true,
+        "g": {
+            "lat": -13.532,
+            "lon": -71.9675
+        },
+        "it": "Cuzco",
+        "it:t": "Per\u00f9",
+        "es": "Cusco",
+        "es:t": "Per\u00fa",
+        "de": "Cusco",
+        "de:t": "Peru"
+    },
+    {
+        "en": "Ferre\u00f1afe",
+        "en:t": "Peru",
+        "a": true,
+        "g": {
+            "lat": -6.6341,
+            "lon": -79.787
+        },
+        "it": "Ferre\u00f1afe",
+        "it:t": "Per\u00f9",
+        "es": "Ferre\u00f1afe",
+        "es:t": "Per\u00fa",
+        "de": "Ferre\u00f1afe",
+        "de:t": "Peru"
+    },
+    {
+        "en": "Guadalupe",
+        "en:t": "Peru | Pacasmayo",
+        "a": true,
+        "g": {
+            "lat": -7.2453,
+            "lon": -79.476
+        },
+        "it": "Guadalupe",
+        "it:t": "Per\u00f9 | Pacasmayo",
+        "es": "Guadalupe",
+        "es:t": "Per\u00fa | Pacasmayo",
+        "de": "Guadalupe",
+        "de:t": "Peru | Pacasmayo"
+    },
+    {
+        "en": "Huacho",
+        "en:t": "Peru | Huaura",
+        "a": true,
+        "g": {
+            "lat": -11.1227,
+            "lon": -77.6106
+        },
+        "it": "Huacho",
+        "it:t": "Per\u00f9 | Huaura",
+        "es": "Huacho",
+        "es:t": "Per\u00fa | Huaura",
+        "de": "Huacho",
+        "de:t": "Peru | Huaura"
+    },
+    {
+        "en": "Hualmay",
+        "en:t": "Peru | Huaura",
+        "a": true,
+        "g": {
+            "lat": -11.0883,
+            "lon": -77.6107
+        },
+        "it": "Hualmay",
+        "it:t": "Per\u00f9 | Huaura",
+        "es": "Hualmay",
+        "es:t": "Per\u00fa | Huaura",
+        "de": "Hualmay",
+        "de:t": "Peru | Huaura"
+    },
+    {
+        "en": "Huamachuco",
+        "en:t": "Peru | S\u00e1nchez Carri\u00f3n",
+        "a": true,
+        "g": {
+            "lat": -7.8165,
+            "lon": -78.0452
+        },
+        "it": "Huamachuco",
+        "it:t": "Per\u00f9 | S\u00e1nchez Carri\u00f3n",
+        "es": "Huamachuco",
+        "es:t": "Per\u00fa | Sanchez Carri\u00f3n",
+        "de": "Huamachuco",
+        "de:t": "Peru | S\u00e1nchez Carri\u00f3n"
+    },
+    {
+        "en": "Huancavelica",
+        "en:t": "Peru",
+        "a": true,
+        "g": {
+            "lat": -12.7862,
+            "lon": -74.9764
+        },
+        "it": "Huancavelica",
+        "it:t": "Per\u00f9",
+        "es": "Huancavelica",
+        "es:t": "Per\u00fa",
+        "de": "Huancavelica",
+        "de:t": "Peru"
+    },
+    {
+        "en": "Huancayo",
+        "en:t": "Peru",
+        "a": true,
+        "g": {
+            "lat": -12.0686,
+            "lon": -75.2103
+        },
+        "it": "Huancayo",
+        "it:t": "Per\u00f9",
+        "es": "Huancayo",
+        "es:t": "Per\u00fa",
+        "de": "Huancayo",
+        "de:t": "Peru"
+    },
+    {
+        "en": "Huanta",
+        "en:t": "Peru | Huanta",
+        "a": true,
+        "g": {
+            "lat": -12.9384,
+            "lon": -74.2502
+        },
+        "it": "Huanta",
+        "it:t": "Per\u00f9 | Huanta",
+        "es": "Huanta",
+        "es:t": "Per\u00fa | Huanta",
+        "de": "Huanta",
+        "de:t": "Peru | Huanta"
+    },
+    {
+        "en": "Huanuco",
+        "en:t": "Peru",
+        "a": true,
+        "g": {
+            "lat": -9.9298,
+            "lon": -76.2433
+        },
+        "it": "Hu\u00e1nuco",
+        "it:t": "Per\u00f9",
+        "es": "Hu\u00e1nuco",
+        "es:t": "Per\u00fa",
+        "de": "Hu\u00e1nuco",
+        "de:t": "Peru"
+    },
+    {
+        "en": "Huanuco",
+        "en:t": "Peru | Cercado de Huanuco",
+        "a": true,
+        "g": {
+            "lat": -9.9298,
+            "lon": -76.2433
+        },
+        "it": "Hu\u00e1nuco",
+        "it:t": "Per\u00f9 | Cercado de Huanuco",
+        "es": "Hu\u00e1nuco",
+        "es:t": "Per\u00fa | Cercado de Huanuco",
+        "de": "Hu\u00e1nuco",
+        "de:t": "Peru | Cercado de Huanuco"
+    },
+    {
+        "en": "Huaral",
+        "en:t": "Peru",
+        "a": true,
+        "g": {
+            "lat": -11.4965,
+            "lon": -77.2118
+        },
+        "it": "Huaral",
+        "it:t": "Per\u00f9",
+        "es": "Huaral",
+        "es:t": "Per\u00fa",
+        "de": "Huaral",
+        "de:t": "Peru"
+    },
+    {
+        "en": "Huaraz",
+        "en:t": "Peru",
+        "a": true,
+        "g": {
+            "lat": -9.5261,
+            "lon": -77.5288
+        },
+        "it": "Huaraz",
+        "it:t": "Per\u00f9",
+        "es": "Huaraz",
+        "es:t": "Per\u00fa",
+        "de": "Huaraz",
+        "de:t": "Peru"
+    },
+    {
+        "en": "Huarmey",
+        "en:t": "Peru",
+        "a": true,
+        "g": {
+            "lat": -10.0664,
+            "lon": -78.1507
+        },
+        "it": "Huarmey",
+        "it:t": "Per\u00f9",
+        "es": "Huarmey",
+        "es:t": "Per\u00fa",
+        "de": "Huarmey",
+        "de:t": "Peru"
+    },
+    {
+        "en": "Huaura",
+        "en:t": "Peru",
+        "a": true,
+        "g": {
+            "lat": -11.1223,
+            "lon": -77.611
+        },
+        "it": "Huaura",
+        "it:t": "Per\u00f9",
+        "es": "Huaura",
+        "es:t": "Per\u00fa",
+        "de": "Huaura",
+        "de:t": "Peru"
+    },
+    {
+        "en": "Ica",
+        "en:t": "Peru",
+        "a": true,
+        "g": {
+            "lat": -14.0755,
+            "lon": -75.7342
+        },
+        "it": "Ica",
+        "it:t": "Per\u00f9",
+        "es": "Ica",
+        "es:t": "Per\u00fa",
+        "de": "Ica",
+        "de:t": "Peru"
+    },
+    {
+        "en": "Ilave",
+        "en:t": "Peru | El Collao",
+        "a": true,
+        "g": {
+            "lat": -16.0825,
+            "lon": -69.6385
+        },
+        "it": "Ilave",
+        "it:t": "Per\u00f9 | El Collao",
+        "es": "Ilave",
+        "es:t": "Per\u00fa | El Collao",
+        "de": "Ilave",
+        "de:t": "Peru | El Collao"
+    },
+    {
+        "en": "Ilo",
+        "en:t": "Peru",
+        "a": true,
+        "g": {
+            "lat": -17.6681,
+            "lon": -71.3468
+        },
+        "it": "Ilo",
+        "it:t": "Per\u00f9",
+        "es": "Ilo",
+        "es:t": "Per\u00fa",
+        "de": "Ilo",
+        "de:t": "Peru"
+    },
+    {
+        "en": "Imperial",
+        "en:t": "Peru",
+        "a": true,
+        "g": {
+            "lat": -13.0295,
+            "lon": -76.3753
+        },
+        "it": "Imperial",
+        "it:t": "Per\u00f9",
+        "es": "Imperial",
+        "es:t": "Per\u00fa",
+        "de": "Imperial",
+        "de:t": "Peru"
+    },
+    {
+        "en": "Iquitos",
+        "en:t": "Peru | Maynas",
+        "a": true,
+        "g": {
+            "lat": -3.7437,
+            "lon": -73.2516
+        },
+        "it": "Iquitos",
+        "it:t": "Per\u00f9 | Maynas",
+        "es": "Iquitos",
+        "es:t": "Per\u00fa | Maynas",
+        "de": "Iquitos",
+        "de:t": "Peru | Maynas"
+    },
+    {
+        "en": "Jauja",
+        "en:t": "Peru",
+        "a": true,
+        "g": {
+            "lat": -11.7806,
+            "lon": -75.4869
+        },
+        "it": "Jauja",
+        "it:t": "Per\u00f9",
+        "es": "Jauja",
+        "es:t": "Per\u00fa",
+        "de": "Jauja",
+        "de:t": "Peru"
+    },
+    {
+        "en": "Ja\u00e9n",
+        "en:t": "Peru",
+        "a": true,
+        "g": {
+            "lat": -5.7094,
+            "lon": -78.7986
+        },
+        "it": "Ja\u00e9n",
+        "it:t": "Per\u00f9",
+        "es": "Ja\u00e9n",
+        "es:t": "Per\u00fa",
+        "de": "Ja\u00e9n",
+        "de:t": "Peru"
+    },
+    {
+        "en": "Juanju\u00ed",
+        "en:t": "Peru | Mariscal C\u00e1ceres",
+        "a": true,
+        "g": {
+            "lat": -7.1731,
+            "lon": -76.7279
+        },
+        "it": "Juanju\u00ed",
+        "it:t": "Per\u00f9 | Mariscal C\u00e1ceres",
+        "es": "Juanju\u00ed",
+        "es:t": "Per\u00fa | Mariscal C\u00e1ceres",
+        "de": "Juanju\u00ed",
+        "de:t": "Peru | Mariscal C\u00e1ceres"
+    },
+    {
+        "en": "Juliaca",
+        "en:t": "Peru | San Roman",
+        "a": true,
+        "g": {
+            "lat": -15.4997,
+            "lon": -70.1297
+        },
+        "it": "Juliaca",
+        "it:t": "Per\u00f9 | San Rom\u00e1n",
+        "es": "Juliaca",
+        "es:t": "Per\u00fa | San Rom\u00e1n",
+        "de": "Juliaca",
+        "de:t": "Peru | San Roman"
+    },
+    {
+        "en": "Jun\u00edn",
+        "en:t": "Peru",
+        "a": true,
+        "g": {
+            "lat": -11.1582,
+            "lon": -75.9926
+        },
+        "it": "Jun\u00edn",
+        "it:t": "Per\u00f9",
+        "es": "Jun\u00edn",
+        "es:t": "Per\u00fa",
+        "de": "Jun\u00edn",
+        "de:t": "Peru"
+    },
+    {
+        "en": "La Oroya",
+        "en:t": "Peru | Yauli",
+        "a": true,
+        "g": {
+            "lat": -11.5254,
+            "lon": -75.8984
+        },
+        "it": "La Oroya",
+        "it:t": "Per\u00f9 | Yauli",
+        "es": "La Oroya",
+        "es:t": "Per\u00fa | Yauli",
+        "de": "La Oroya",
+        "de:t": "Peru | Yauli"
+    },
+    {
+        "en": "La Peca",
+        "en:t": "Peru | Bagua",
+        "a": true,
+        "g": {
+            "lat": -5.5836,
+            "lon": -78.4411
+        },
+        "it": "La Peca",
+        "it:t": "Per\u00f9 | Bagua",
+        "es": "La Peca",
+        "es:t": "Per\u00fa | Bagua",
+        "de": "La Peca",
+        "de:t": "Peru | Bagua"
+    },
+    {
+        "en": "La Rinconada",
+        "en:t": "Peru | San Antonio de Putina",
+        "a": true,
+        "g": {
+            "lat": -14.6312,
+            "lon": -69.4464
+        },
+        "it": "La Rinconada",
+        "it:t": "Per\u00f9 | San Antonio de Putina",
+        "es": "La Rinconada",
+        "es:t": "Per\u00fa | San Antonio de Putina",
+        "de": "La Rinconada",
+        "de:t": "Peru | San Antonio de Putina"
+    },
+    {
+        "en": "La Union",
+        "en:t": "Peru | Piura",
+        "a": true,
+        "g": {
+            "lat": -5.4035,
+            "lon": -80.743
+        },
+        "it": "La Union",
+        "it:t": "Per\u00f9 | Piura",
+        "es": "La Uni\u00f3n",
+        "es:t": "Per\u00fa | Piura",
+        "de": "La Union",
+        "de:t": "Peru | Piura"
+    },
+    {
+        "en": "Lambayeque",
+        "en:t": "Peru",
+        "a": true,
+        "g": {
+            "lat": -6.7198,
+            "lon": -79.9081
+        },
+        "it": "Lambayeque",
+        "it:t": "Per\u00f9",
+        "es": "Lambayeque",
+        "es:t": "Per\u00fa",
+        "de": "Lambayeque",
+        "de:t": "Peru"
+    },
+    {
+        "en": "Laredo",
+        "en:t": "Peru | Trujillo",
+        "a": true,
+        "g": {
+            "lat": -8.082,
+            "lon": -78.9628
+        },
+        "it": "Laredo",
+        "it:t": "Per\u00f9 | Trujillo",
+        "es": "Laredo",
+        "es:t": "Per\u00fa | Trujillo",
+        "de": "Laredo",
+        "de:t": "Peru | Trujillo"
+    },
+    {
+        "en": "Lima",
+        "en:t": "Peru | Callao",
+        "a": true,
+        "g": {
+            "lat": -12.0464,
+            "lon": -77.0428
+        },
+        "it": "Lima",
+        "it:t": "Per\u00f9 | Callao",
+        "es": "Lima",
+        "es:t": "Per\u00fa | Callao",
+        "de": "Lima",
+        "de:t": "Peru | Callao"
+    },
+    {
+        "en": "Lurigancho-Chosica",
+        "en:t": "Peru | Lima",
+        "a": true,
+        "g": {
+            "lat": -12.0033,
+            "lon": -76.918
+        },
+        "it": "Lurigancho-Chosica",
+        "it:t": "Per\u00f9 | Lima",
+        "es": "Lurigancho",
+        "es:t": "Per\u00fa | Lima",
+        "de": "Lurigancho-Chosica",
+        "de:t": "Peru | Lima"
+    },
+    {
+        "en": "Mala",
+        "en:t": "Peru | Ca\u00f1ete",
+        "a": true,
+        "g": {
+            "lat": -12.6709,
+            "lon": -76.6182
+        },
+        "it": "Mala",
+        "it:t": "Per\u00f9 | Ca\u00f1ete",
+        "es": "Mala",
+        "es:t": "Per\u00fa | Ca\u00f1ete",
+        "de": "Mala",
+        "de:t": "Peru | Ca\u00f1ete"
+    },
+    {
+        "en": "Marcavelica",
+        "en:t": "Peru | Sullana",
+        "a": true,
+        "g": {
+            "lat": -4.8682,
+            "lon": -80.7131
+        },
+        "it": "Marcavelica",
+        "it:t": "Per\u00f9 | Sullana",
+        "es": "Marcavelica",
+        "es:t": "Per\u00fa | Sullana",
+        "de": "Marcavelica",
+        "de:t": "Peru | Sullana"
+    },
+    {
+        "en": "Marcona",
+        "en:t": "Peru | Nazca",
+        "a": true,
+        "g": {
+            "lat": -15.3583,
+            "lon": -75.1594
+        },
+        "it": "Marcona",
+        "it:t": "Per\u00f9 | Nazca",
+        "es": "Marcona",
+        "es:t": "Per\u00fa | Nazca",
+        "de": "Marcona",
+        "de:t": "Peru | Nazca",
+    },
+    {
+        "en": "Moche",
+        "en:t": "Peru | Trujillo",
+        "a": true,
+        "g": {
+            "lat": -8.1637,
+            "lon": -79.0023
+        },
+        "it": "Moche",
+        "it:t": "Per\u00f9 | Trujillo",
+        "es": "Moche",
+        "es:t": "Per\u00fa | Trujillo",
+        "de": "Moche",
+        "de:t": "Peru | Trujillo"
+    },
+    {
+        "en": "Mollendo",
+        "en:t": "Peru | Islay",
+        "a": true,
+        "g": {
+            "lat": -17.0206,
+            "lon": -72.0172
+        },
+        "it": "Mollendo",
+        "it:t": "Per\u00f9 | Islay",
+        "es": "Mollendo",
+        "es:t": "Per\u00fa | Islay",
+        "de": "Mollendo",
+        "de:t": "Peru | Islay"
+    },
+    {
+        "en": "Monsef\u00fa",
+        "en:t": "Peru | Chiclayo",
+        "a": true,
+        "g": {
+            "lat": -6.8802,
+            "lon": -79.8717
+        },
+        "it": "Monsef\u00fa",
+        "it:t": "Per\u00f9 | Chiclayo",
+        "es": "Monsef\u00fa",
+        "es:t": "Per\u00fa | Chiclayo",
+        "de": "Monsef\u00fa",
+        "de:t": "Peru | Chiclayo"
+    },
+    {
+        "en": "Moquegua",
+        "en:t": "Peru | Mariscal Nieto",
+        "a": true,
+        "g": {
+            "lat": -17.1927,
+            "lon": -70.9328
+        },
+        "it": "Moquegua",
+        "it:t": "Per\u00f9 | Mariscal Nieto",
+        "es": "Moquegua",
+        "es:t": "Per\u00fa | Mariscal Nieto",
+        "de": "Moquegua",
+        "de:t": "Peru | Mariscal Nieto"
+    },
+    {
+        "en": "Moyobamba",
+        "en:t": "Peru",
+        "a": true,
+        "g": {
+            "lat": -6.042,
+            "lon": -76.9701
+        },
+        "it": "Moyobamba",
+        "it:t": "Per\u00f9",
+        "es": "Moyobamba",
+        "es:t": "Per\u00fa",
+        "de": "Moyobamba",
+        "de:t": "Peru"
+    },
+    {
+        "en": "Nazca",
+        "en:t": "Peru",
+        "a": true,
+        "g": {
+            "lat": -14.8359,
+            "lon": -74.9328
+        },
+        "it": "Nazca",
+        "it:t": "Per\u00f9",
+        "es": "Nasca",
+        "es:t": "Per\u00fa",
+        "de": "Nazca",
+        "de:t": "Peru"
+    },
+    {
+        "en": "Nuevo Imperial",
+        "en:t": "Peru | Ca\u00f1ete",
+        "a": true,
+        "g": {
+            "lat": -12.9214,
+            "lon": -76.2479
+        },
+        "it": "Nuevo Imperial",
+        "it:t": "Per\u00f9 | Ca\u00f1ete",
+        "es": "Nuevo Imperial",
+        "es:t": "Per\u00fa | Ca\u00f1ete",
+        "de": "Nuevo Imperial",
+        "de:t": "Peru | Ca\u00f1ete"
+    },
+    {
+        "en": "Pacasmayo",
+        "en:t": "Peru | La Libertad",
+        "a": true,
+        "g": {
+            "lat": -7.404,
+            "lon": -79.5651
+        },
+        "it": "Pacasmayo",
+        "it:t": "Per\u00f9 | La Libertad",
+        "es": "Pacasmayo",
+        "es:t": "Per\u00fa | La Libertad",
+        "de": "Pacasmayo",
+        "de:t": "Peru | La Libertad"
+    },
+    {
+        "en": "Paij\u00e1n",
+        "en:t": "Peru | Ascope",
+        "a": true,
+        "g": {
+            "lat": -7.7342,
+            "lon": -79.2987
+        },
+        "it": "Paij\u00e1n",
+        "it:t": "Per\u00f9 | Ascope",
+        "es": "Paij\u00e1n",
+        "es:t": "Per\u00fa | Ascope",
+        "de": "Paij\u00e1n",
+        "de:t": "Peru | Ascope"
+    },
+    {
+        "en": "Paita",
+        "en:t": "Peru",
+        "a": true,
+        "g": {
+            "lat": -5.0938,
+            "lon": -81.0962
+        },
+        "it": "Paita",
+        "it:t": "Per\u00f9",
+        "es": "Paita",
+        "es:t": "Per\u00fa",
+        "de": "Paita",
+        "de:t": "Peru"
+    },
+    {
+        "en": "Paramonga",
+        "en:t": "Peru | Lima",
+        "a": true,
+        "g": {
+            "lat": -10.6785,
+            "lon": -77.8196
+        },
+        "it": "Paramonga",
+        "it:t": "Per\u00f9 | Lima",
+        "es": "Paramonga",
+        "es:t": "Per\u00fa | Lima",
+        "de": "Paramonga",
+        "de:t": "Peru | Lima"
+    },
+    {
+        "en": "Picsi",
+        "en:t": "Peru | Chiclayo",
+        "a": true,
+        "g": {
+            "lat": -6.7195,
+            "lon": -79.7708
+        },
+        "it": "Picsi",
+        "it:t": "Per\u00f9 | Chiclayo",
+        "es": "Picsi",
+        "es:t": "Per\u00fa | Chiclayo",
+        "de": "Picsi",
+        "de:t": "Peru | Chiclayo"
+    },
+    {
+        "en": "Pimentel",
+        "en:t": "Peru | Lambayeque",
+        "a": true,
+        "g": {
+            "lat": -6.8325,
+            "lon": -79.9296
+        },
+        "it": "Pimentel",
+        "it:t": "Per\u00f9 | Lambayeque",
+        "es": "Pimentel",
+        "es:t": "Per\u00fa | Lambayeque",
+        "de": "Pimentel",
+        "de:t": "Peru | Lambayeque"
+    },
+    {
+        "en": "Pisco",
+        "en:t": "Peru",
+        "a": true,
+        "g": {
+            "lat": -13.7135,
+            "lon": -76.1842
+        },
+        "it": "Pisco",
+        "it:t": "Per\u00f9",
+        "es": "Pisco",
+        "es:t": "Per\u00fa",
+        "de": "Pisco",
+        "de:t": "Peru"
+    },
+    {
+        "en": "Piura",
+        "en:t": "Peru",
+        "a": true,
+        "g": {
+            "lat": -5.1783,
+            "lon": -80.6549
+        },
+        "it": "Piura",
+        "it:t": "Per\u00f9",
+        "es": "Piura",
+        "es:t": "Per\u00fa",
+        "de": "Piura",
+        "de:t": "Peru"
+    },
+    {
+        "en": "Pucallpa",
+        "en:t": "Peru | Coronel Portillo",
+        "a": true,
+        "g": {
+            "lat": -8.3929,
+            "lon": -74.5826
+        },
+        "it": "Pucallpa",
+        "it:t": "Per\u00f9 | Coronel Portillo",
+        "es": "Pucallpa",
+        "es:t": "Per\u00fa | Coronel Portillo",
+        "de": "Pucallpa",
+        "de:t": "Peru | Coronel Portillo"
+    },
+    {
+        "en": "Puerto Maldonado",
+        "en:t": "Peru | Tambopata",
+        "a": true,
+        "g": {
+            "lat": -12.5809,
+            "lon": -69.2032
+        },
+        "it": "Puerto Maldonado",
+        "it:t": "Per\u00f9 | Tambopata",
+        "es": "Puerto Maldonado",
+        "es:t": "Per\u00fa | Tambopata",
+        "de": "Puerto Maldonado",
+        "de:t": "Peru | Tambopata-Provinz"
+    },
+    {
+        "en": "Puno",
+        "en:t": "Peru",
+        "a": true,
+        "g": {
+            "lat": -15.8402,
+            "lon": -70.0219
+        },
+        "it": "Puno",
+        "it:t": "Per\u00f9",
+        "es": "Puno",
+        "es:t": "Per\u00fa",
+        "de": "Puno",
+        "de:t": "Peru"
+    },
+    {
+        "en": "Querecotillo",
+        "en:t": "Peru | Sullana",
+        "a": true,
+        "g": {
+            "lat": -4.8383,
+            "lon": -80.6482
+        },
+        "it": "Querecotillo",
+        "it:t": "Per\u00f9 | Sullana",
+        "es": "Querecotillo",
+        "es:t": "Per\u00fa | Sullana",
+        "de": "Querecotillo",
+        "de:t": "Peru | Sullana"
+    },
+    {
+        "en": "Rioja",
+        "en:t": "Peru",
+        "a": true,
+        "g": {
+            "lat": -6.057,
+            "lon": -77.1658
+        },
+        "it": "Rioja",
+        "it:t": "Per\u00f9",
+        "es": "Rioja",
+        "es:t": "Per\u00fa",
+        "de": "Rioja",
+        "de:t": "Peru"
+    },
+    {
+        "en": "San Clemente",
+        "en:t": "Peru | Pisco",
+        "a": true,
+        "g": {
+            "lat": -13.6809,
+            "lon": -76.1581
+        },
+        "it": "San Clemente",
+        "it:t": "Per\u00f9 | Pisco",
+        "es": "San Clemente",
+        "es:t": "Per\u00fa | Pisco",
+        "de": "San Clemente",
+        "de:t": "Peru | Pisco"
+    },
+    {
+        "en": "San Isidro",
+        "en:t": "Peru | Lima",
+        "a": true,
+        "g": {
+            "lat": -12.0965,
+            "lon": -77.0355
+        },
+        "it": "San Isidro",
+        "it:t": "Per\u00f9 | Lima",
+        "es": "San Isidro",
+        "es:t": "Per\u00fa | Lima",
+        "de": "San Isidro",
+        "de:t": "Peru | Lima"
+    },
+    {
+        "en": "San Pedro de Lloc",
+        "en:t": "Peru | Pacasmayo",
+        "a": true,
+        "g": {
+            "lat": -7.425,
+            "lon": -79.5033
+        },
+        "it": "San Pedro de Lloc",
+        "it:t": "Per\u00f9 | Pacasmayo",
+        "es": "San Pedro de Lloc",
+        "es:t": "Per\u00fa | Pacasmayo",
+        "de": "San Pedro de Lloc",
+        "de:t": "Peru | Pacasmayo"
+    },
+    {
+        "en": "San Vicente de Ca\u00f1ete",
+        "en:t": "Peru | Ca\u00f1ete",
+        "a": true,
+        "g": {
+            "lat": -13.1917,
+            "lon": -76.2479
+        },
+        "it": "San Vicente de Ca\u00f1ete",
+        "it:t": "Per\u00f9 | Ca\u00f1ete",
+        "es": "San Vicente de Ca\u00f1ete",
+        "es:t": "Per\u00fa | Ca\u00f1ete",
+        "de": "San Vicente de Ca\u00f1ete",
+        "de:t": "Peru | Ca\u00f1ete"
+    },
+    {
+        "en": "Santiago de Cao",
+        "en:t": "Peru | Ascope",
+        "a": true,
+        "g": {
+            "lat": -7.9551,
+            "lon": -79.2395
+        },
+        "it": "Santiago de Cao",
+        "it:t": "Per\u00f9 | Ascope",
+        "es": "Santiago de Cao",
+        "es:t": "Per\u00fa | Ascope",
+        "de": "Santiago de Cao",
+        "de:t": "Peru | Ascope"
+    },
+    {
+        "en": "Santiago de Surco",
+        "en:t": "Peru | Lima",
+        "a": true,
+        "g": {
+            "lat": -12.1416,
+            "lon": -76.9918
+        },
+        "it": "Santiago de Surco",
+        "it:t": "Per\u00f9 | Lima",
+        "es": "Santiago de Surco",
+        "es:t": "Per\u00fa | Lima",
+        "de": "Santiago De Surco",
+        "de:t": "Peru | Lima"
+    },
+    {
+        "en": "Satipo",
+        "en:t": "Peru",
+        "a": true,
+        "g": {
+            "lat": -11.2527,
+            "lon": -74.6371
+        },
+        "it": "Satipo",
+        "it:t": "Per\u00f9",
+        "es": "Satipo",
+        "es:t": "Per\u00fa",
+        "de": "Satipo",
+        "de:t": "Peru"
+    },
+    {
+        "en": "Sechura",
+        "en:t": "Peru",
+        "a": true,
+        "g": {
+            "lat": -5.5622,
+            "lon": -80.8188
+        },
+        "it": "Sechura",
+        "it:t": "Per\u00f9",
+        "es": "Sechura",
+        "es:t": "Per\u00fa",
+        "de": "Sechura",
+        "de:t": "Peru"
+    },
+    {
+        "en": "Sicuani",
+        "en:t": "Peru | Canchis",
+        "a": true,
+        "g": {
+            "lat": -14.2713,
+            "lon": -71.2221
+        },
+        "it": "Sicuani",
+        "it:t": "Per\u00f9 | Canchis",
+        "es": "Sicuani",
+        "es:t": "Per\u00fa | Canchis",
+        "de": "Sicuani",
+        "de:t": "Peru | Canchis"
+    },
+    {
+        "en": "Sullana",
+        "en:t": "Peru",
+        "a": true,
+        "g": {
+            "lat": -4.9036,
+            "lon": -80.6864
+        },
+        "it": "Sullana",
+        "it:t": "Per\u00f9",
+        "es": "Sullana",
+        "es:t": "Per\u00fa",
+        "de": "Sullana",
+        "de:t": "Peru"
+    },
+    {
+        "en": "Tacna",
+        "en:t": "Peru",
+        "a": true,
+        "g": {
+            "lat": -18.0066,
+            "lon": -70.2463
+        },
+        "it": "Tacna",
+        "it:t": "Per\u00f9",
+        "es": "Tacna",
+        "es:t": "Per\u00fa",
+        "de": "Tacna",
+        "de:t": "Peru"
+    },
+    {
+        "en": "Talara",
+        "en:t": "Peru",
+        "a": true,
+        "g": {
+            "lat": -4.5812,
+            "lon": -81.2629
+        },
+        "it": "Talara",
+        "it:t": "Per\u00f9",
+        "es": "Talara",
+        "es:t": "Per\u00fa",
+        "de": "Talara",
+        "de:t": "Peru"
+    },
+    {
+        "en": "Talara",
+        "en:t": "Peru | Piura",
+        "a": true,
+        "g": {
+            "lat": -4.5868,
+            "lon": -81.2748
+        },
+        "it": "Talara",
+        "it:t": "Per\u00f9 | Piura",
+        "es": "Talara",
+        "es:t": "Per\u00fa | Piura",
+        "de": "Talara",
+        "de:t": "Peru | Piura"
+    },
+    {
+        "en": "Tambo Grande",
+        "en:t": "Peru | Piura",
+        "a": true,
+        "g": {
+            "lat": -4.9263,
+            "lon": -80.3411
+        },
+        "it": "Tambo Grande",
+        "it:t": "Per\u00f9 | Piura",
+        "es": "Tambo Grande",
+        "es:t": "Per\u00fa | Piura",
+        "de": "Tambo Grande",
+        "de:t": "Peru | Piura"
+    },
+    {
+        "en": "Tambopata",
+        "en:t": "Peru | Madre de Dios",
+        "a": true,
+        "g": {
+            "lat": -12.5825,
+            "lon": -69.1933
+        },
+        "it": "Tambopata",
+        "it:t": "Per\u00f9 | Madre de Dios",
+        "es": "Tambopata",
+        "es:t": "Per\u00fa | Madre de Dios",
+        "de": "Tambopata",
+        "de:t": "Peru | Madre de Dios"
+    },
+    {
+        "en": "Tarma",
+        "en:t": "Peru",
+        "a": true,
+        "g": {
+            "lat": -11.4193,
+            "lon": -75.6889
+        },
+        "it": "Tarma",
+        "it:t": "Per\u00f9",
+        "es": "Tarma",
+        "es:t": "Per\u00fa",
+        "de": "Tarma",
+        "de:t": "Peru"
+    },
+    {
+        "en": "Tocache",
+        "en:t": "Peru",
+        "a": true,
+        "g": {
+            "lat": -8.1893,
+            "lon": -76.5189
+        },
+        "it": "Tocache",
+        "it:t": "Per\u00f9",
+        "es": "Tocache",
+        "es:t": "Per\u00fa",
+        "de": "Tocache",
+        "de:t": "Peru"
+    },
+    {
+        "en": "Trujillo",
+        "en:t": "Peru",
+        "a": true,
+        "g": {
+            "lat": -8.109,
+            "lon": -79.0216
+        },
+        "it": "Trujillo",
+        "it:t": "Per\u00f9",
+        "es": "Trujillo",
+        "es:t": "Per\u00fa",
+        "de": "Trujillo",
+        "de:t": "Peru"
+    },
+    {
+        "en": "Tumbes",
+        "en:t": "Peru",
+        "a": true,
+        "g": {
+            "lat": -3.5565,
+            "lon": -80.4271
+        },
+        "it": "Tumbes",
+        "it:t": "Per\u00f9",
+        "es": "Tumbes",
+        "es:t": "Per\u00fa",
+        "de": "Tumbes",
+        "de:t": "Peru"
+    },
+    {
+        "en": "Uchiza",
+        "en:t": "Peru | Tocache",
+        "a": true,
+        "g": {
+            "lat": -8.4593,
+            "lon": -76.462
+        },
+        "it": "Uchiza",
+        "it:t": "Per\u00f9 | Tocache",
+        "es": "Uchiza",
+        "es:t": "Per\u00fa | Tocache",
+        "de": "Uchiza",
+        "de:t": "Peru | Tocache"
+    },
+    {
+        "en": "Vir\u00fa",
+        "en:t": "Peru | La Libertad",
+        "a": true,
+        "g": {
+            "lat": -8.5411,
+            "lon": -78.6758
+        },
+        "it": "Vir\u00fa",
+        "it:t": "Per\u00f9 | La Libertad",
+        "es": "Vir\u00fa",
+        "es:t": "Per\u00fa | La Libertad",
+        "de": "Vir\u00fa",
+        "de:t": "Peru | Vir\u00fa"
+    },
+    {
+        "en": "Yanacancha",
+        "en:t": "Peru | Pasco",
+        "a": true,
+        "g": {
+            "lat": -10.6377,
+            "lon": -76.19
+        },
+        "it": "Yanacancha",
+        "it:t": "Per\u00f9 | Pasco",
+        "es": "Yanacancha",
+        "es:t": "Per\u00fa | Pasco",
+        "de": "Hu\u00e1nuco",
+        "de:t": "Peru | Huanuco"
+    },
+    {
+        "en": "Yunguyo",
+        "en:t": "Peru",
+        "a": true,
+        "g": {
+            "lat": -16.2494,
+            "lon": -69.0881
+        },
+        "it": "Yunguyo",
+        "it:t": "Per\u00f9",
+        "es": "Yunguyo",
+        "es:t": "Per\u00fa",
+        "de": "Yunguyo",
+        "de:t": "Peru"
+    },
+    {
+        "en": "Yurimaguas",
+        "en:t": "Peru | Alto Amazonas",
+        "a": true,
+        "g": {
+            "lat": -5.9008,
+            "lon": -76.1129
+        },
+        "it": "Yurimaguas",
+        "it:t": "Per\u00f9 | Alto Amazonas",
+        "es": "Yurimaguas",
+        "es:t": "Per\u00fa | Alto Amazonas",
+        "de": "Yurimaguas",
+        "de:t": "Peru | Alto Amazonas"
+    },
+    {
+        "en": "Zarumilla",
+        "en:t": "Peru",
+        "a": true,
+        "g": {
+            "lat": -3.495,
+            "lon": -80.2712
+        },
+        "it": "Zarumilla",
+        "it:t": "Per\u00f9",
+        "es": "Zarumilla",
+        "es:t": "Per\u00fa",
+        "de": "Zarumilla",
+        "de:t": "Peru"
+    },
+    {
+        "en": "Za\u00f1a",
+        "en:t": "Peru | Chiclayo",
+        "a": true,
+        "g": {
+            "lat": -6.9082,
+            "lon": -79.5772
+        },
+        "it": "Za\u00f1a",
+        "it:t": "Per\u00f9 | Chiclayo",
+        "es": "Za\u00f1a",
+        "es:t": "Per\u00fa | Chiclayo",
+        "de": "Za\u00f1a",
+        "de:t": "Peru | Chiclayo"
+    }
+]

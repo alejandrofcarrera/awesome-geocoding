@@ -1,0 +1,1382 @@
+[
+    {
+        "en": "Alings\u00e5s",
+        "en:t": "Sweden | V\u00e4stra G\u00f6taland",
+        "a": true,
+        "g": {
+            "lat": 57.93,
+            "lon": 12.5362
+        },
+        "it": "Alings\u00e5s",
+        "it:t": "Svezia | V\u00e4stra G\u00f6taland",
+        "es": "Alings\u00e5s",
+        "es:t": "Suecia | V\u00e4stra G\u00f6taland",
+        "de": "Alings\u00e5s",
+        "de:t": "Schweden | V\u00e4stra G\u00f6talands l\u00e4n"
+    },
+    {
+        "en": "Boden",
+        "en:t": "Sweden | Norrbotten",
+        "a": true,
+        "g": {
+            "lat": 65.8251,
+            "lon": 21.6887
+        },
+        "it": "Boden",
+        "it:t": "Svezia | Norrbotten",
+        "es": "Boden",
+        "es:t": "Suecia | Norrbotten",
+        "de": "Boden",
+        "de:t": "Schweden | Norrbottens l\u00e4n"
+    },
+    {
+        "en": "Boo",
+        "en:t": "Sweden | Saltsj\u00f6-boo",
+        "a": true,
+        "g": {
+            "lat": 59.325,
+            "lon": 18.2639
+        },
+        "it": "Boo",
+        "it:t": "Svezia | Saltsj\u00f6-boo",
+        "es": "Boo, Sweden",
+        "es:t": "Suecia | Stockholm",
+        "de": "Boo",
+        "de:t": "Schweden | Stockholms l\u00e4n"
+    },
+    {
+        "en": "Borl\u00e4nge",
+        "en:t": "Sweden | Dalarna",
+        "a": true,
+        "g": {
+            "lat": 60.4843,
+            "lon": 15.434
+        },
+        "it": "Borl\u00e4nge",
+        "it:t": "Svezia | Dalarna",
+        "es": "Borl\u00e4nge",
+        "es:t": "Suecia | Dalarna",
+        "de": "Borl\u00e4nge",
+        "de:t": "Schweden | Dalarnas l\u00e4n"
+    },
+    {
+        "en": "Bor\u00e5s",
+        "en:t": "Sweden | V\u00e4stra G\u00f6taland",
+        "a": true,
+        "g": {
+            "lat": 57.721,
+            "lon": 12.9398
+        },
+        "it": "Bor\u00e5s",
+        "it:t": "Svezia | V\u00e4stra G\u00f6taland",
+        "es": "Bor\u00e5s",
+        "es:t": "Suecia | V\u00e4stra G\u00f6taland",
+        "de": "Bor\u00e5s",
+        "de:t": "Schweden | V\u00e4stra G\u00f6talands l\u00e4n"
+    },
+    {
+        "en": "Bromma",
+        "en:t": "Sweden | Stockholm",
+        "a": true,
+        "g": {
+            "lat": 59.3398,
+            "lon": 17.9397
+        },
+        "it": "Bromma",
+        "it:t": "Svezia | Stoccolma",
+        "es": "Bromma",
+        "es:t": "Suecia | Estocolmo",
+        "de": "Bromma",
+        "de:t": "Schweden | Stockholm"
+    },
+    {
+        "en": "Enk\u00f6ping",
+        "en:t": "Sweden | Uppsala",
+        "a": true,
+        "g": {
+            "lat": 59.6357,
+            "lon": 17.0778
+        },
+        "it": "Enk\u00f6ping",
+        "it:t": "Svezia | Uppsala",
+        "es": "Enk\u00f6ping",
+        "es:t": "Suecia | Upsala",
+        "de": "Enk\u00f6ping",
+        "de:t": "Schweden | Uppsala l\u00e4n"
+    },
+    {
+        "en": "Eskilstuna",
+        "en:t": "Sweden | S\u00f6dermanland",
+        "a": true,
+        "g": {
+            "lat": 59.3712,
+            "lon": 16.5098
+        },
+        "it": "Eskilstuna",
+        "it:t": "Svezia | S\u00f6dermanland",
+        "es": "Eskilstuna",
+        "es:t": "Suecia | S\u00f6dermanland",
+        "de": "Eskilstuna",
+        "de:t": "Schweden | S\u00f6dermanlands l\u00e4n"
+    },
+    {
+        "en": "Esl\u00f6v",
+        "en:t": "Sweden | Sk\u00e5ne",
+        "a": true,
+        "g": {
+            "lat": 55.8391,
+            "lon": 13.3034
+        },
+        "it": "Esl\u00f6v",
+        "it:t": "Svezia | Scania",
+        "es": "Esl\u00f6v",
+        "es:t": "Suecia | Sk\u00e5ne",
+        "de": "Esl\u00f6v",
+        "de:t": "Schweden | Sk\u00e5ne l\u00e4n"
+    },
+    {
+        "en": "Falkenberg",
+        "en:t": "Sweden | Halland",
+        "a": true,
+        "g": {
+            "lat": 56.9027,
+            "lon": 12.4888
+        },
+        "it": "Falkenberg",
+        "it:t": "Svezia | Halland",
+        "es": "Falkenberg",
+        "es:t": "Suecia | Halland",
+        "de": "Falkenberg",
+        "de:t": "Schweden | Hallands l\u00e4n"
+    },
+    {
+        "en": "Falk\u00f6ping",
+        "en:t": "Sweden | V\u00e4stra G\u00f6taland",
+        "a": true,
+        "g": {
+            "lat": 58.175,
+            "lon": 13.5532
+        },
+        "it": "Falk\u00f6ping",
+        "it:t": "Svezia | V\u00e4stra G\u00f6taland",
+        "es": "Falk\u00f6ping",
+        "es:t": "Suecia | V\u00e4stra G\u00f6taland",
+        "de": "Falk\u00f6ping",
+        "de:t": "Schweden | V\u00e4stra G\u00f6talands l\u00e4n"
+    },
+    {
+        "en": "Falun",
+        "en:t": "Sweden | Dalarna",
+        "a": true,
+        "g": {
+            "lat": 60.6065,
+            "lon": 15.6355
+        },
+        "it": "Falun",
+        "it:t": "Svezia | Dalarna",
+        "es": "Falun",
+        "es:t": "Suecia | Dalarna",
+        "de": "Falun",
+        "de:t": "Schweden | Dalarnas l\u00e4n"
+    },
+    {
+        "en": "Gamla Uppsala",
+        "en:t": "Sweden | Uppsala",
+        "a": true,
+        "g": {
+            "lat": 59.9,
+            "lon": 17.6333
+        },
+        "it": "Gamla Uppsala",
+        "it:t": "Svezia | Uppsala",
+        "es": "Gamla Uppsala",
+        "es:t": "Suecia | Uppsala",
+        "de": "Alt-Uppsala",
+        "de:t": "Schweden | Uppsala"
+    },
+    {
+        "en": "Gothenburg",
+        "en:t": "Sweden | V\u00e4stra G\u00f6taland",
+        "a": true,
+        "g": {
+            "lat": 57.7089,
+            "lon": 11.9746
+        },
+        "it": "G\u00f6teborg",
+        "it:t": "Svezia | V\u00e4stra G\u00f6taland",
+        "es": "Gotemburgo",
+        "es:t": "Suecia | V\u00e4stra G\u00f6taland",
+        "de": "G\u00f6teborg",
+        "de:t": "Schweden | V\u00e4stra G\u00f6talands l\u00e4n"
+    },
+    {
+        "en": "G\u00e4vle",
+        "en:t": "Sweden | Gavleborg",
+        "a": true,
+        "g": {
+            "lat": 60.6749,
+            "lon": 17.1413
+        },
+        "it": "G\u00e4vle",
+        "it:t": "Svezia | G\u00e4vleborg",
+        "es": "G\u00e4vle",
+        "es:t": "Suecia | G\u00e4vleborg",
+        "de": "G\u00e4vle",
+        "de:t": "Schweden | G\u00e4vleborgs l\u00e4n"
+    },
+    {
+        "en": "Halmstad",
+        "en:t": "Sweden | Halland",
+        "a": true,
+        "g": {
+            "lat": 56.6744,
+            "lon": 12.8578
+        },
+        "it": "Halmstad",
+        "it:t": "Svezia | Halland",
+        "es": "Halmstad",
+        "es:t": "Suecia | Halland",
+        "de": "Halmstad",
+        "de:t": "Schweden | Hallands l\u00e4n"
+    },
+    {
+        "en": "Haninge",
+        "en:t": "Sweden",
+        "a": true,
+        "g": {
+            "lat": 59.1783,
+            "lon": 18.1564
+        },
+        "it": "Haninge",
+        "it:t": "Svezia",
+        "es": "Haninge",
+        "es:t": "Suecia",
+        "de": "Handen",
+        "de:t": "Schweden"
+    },
+    {
+        "en": "Helsingborg",
+        "en:t": "Sweden | Sk\u00e5ne",
+        "a": true,
+        "g": {
+            "lat": 56.0465,
+            "lon": 12.6945
+        },
+        "it": "Helsingborg",
+        "it:t": "Svezia | Scania",
+        "es": "Helsingborg",
+        "es:t": "Suecia | Escania",
+        "de": "Helsingborg",
+        "de:t": "Schweden | Sk\u00e5ne l\u00e4n"
+    },
+    {
+        "en": "Huddinge",
+        "en:t": "Sweden | Stockholm",
+        "a": true,
+        "g": {
+            "lat": 59.2098,
+            "lon": 18.0522
+        },
+        "it": "Huddinge",
+        "it:t": "Svezia | Stoccolma",
+        "es": "Huddinge",
+        "es:t": "Suecia | Estocolmo",
+        "de": "Huddinge",
+        "de:t": "Schweden | Stockholms l\u00e4n"
+    },
+    {
+        "en": "Huskvarna",
+        "en:t": "Sweden | Jonkoping",
+        "a": true,
+        "g": {
+            "lat": 57.7904,
+            "lon": 14.2756
+        },
+        "it": "Huskvarna",
+        "it:t": "Svezia | J\u00f6nk\u00f6ping",
+        "es": "Huskvarna",
+        "es:t": "Suecia | J\u00f6nk\u00f6ping",
+        "de": "Huskvarna",
+        "de:t": "Schweden | J\u00f6nk\u00f6pings l\u00e4n"
+    },
+    {
+        "en": "H\u00e4rn\u00f6sand",
+        "en:t": "Sweden | V\u00e4sternorrland",
+        "a": true,
+        "g": {
+            "lat": 62.6323,
+            "lon": 17.9409
+        },
+        "it": "H\u00e4rn\u00f6sand",
+        "it:t": "Svezia | V\u00e4sternorrland",
+        "es": "H\u00e4rn\u00f6sand",
+        "es:t": "Suecia | V\u00e4sternorrland",
+        "de": "H\u00e4rn\u00f6sand",
+        "de:t": "Schweden | V\u00e4sternorrlands l\u00e4n"
+    },
+    {
+        "en": "H\u00e4ssleholm",
+        "en:t": "Sweden | Sk\u00e5ne",
+        "a": true,
+        "g": {
+            "lat": 56.1589,
+            "lon": 13.7668
+        },
+        "it": "H\u00e4ssleholm",
+        "it:t": "Svezia | Scania",
+        "es": "H\u00e4ssleholm",
+        "es:t": "Suecia | Sk\u00e5ne",
+        "de": "H\u00e4ssleholm",
+        "de:t": "Schweden | Sk\u00e5ne l\u00e4n"
+    },
+    {
+        "en": "Jakobsberg",
+        "en:t": "Sweden | Stockholm",
+        "a": true,
+        "g": {
+            "lat": 59.4226,
+            "lon": 17.8331
+        },
+        "it": "Jakobsberg",
+        "it:t": "Svezia | Stoccolma",
+        "es": "Jakobsberg",
+        "es:t": "Suecia | Stockholm",
+        "de": "Jakobsberg",
+        "de:t": "Schweden | Stockholms l\u00e4n"
+    },
+    {
+        "en": "J\u00f6nk\u00f6ping",
+        "en:t": "Sweden | Jonkoping",
+        "a": true,
+        "g": {
+            "lat": 57.7826,
+            "lon": 14.1618
+        },
+        "it": "J\u00f6nk\u00f6ping",
+        "it:t": "Svezia | J\u00f6nk\u00f6ping",
+        "es": "J\u00f6nk\u00f6ping",
+        "es:t": "Suecia | J\u00f6nk\u00f6ping",
+        "de": "J\u00f6nk\u00f6ping",
+        "de:t": "Schweden | J\u00f6nk\u00f6pings l\u00e4n"
+    },
+    {
+        "en": "Kalmar",
+        "en:t": "Sweden | Kalmar",
+        "a": true,
+        "g": {
+            "lat": 56.6634,
+            "lon": 16.3568
+        },
+        "it": "Kalmar",
+        "it:t": "Svezia | Kalmar",
+        "es": "Kalmar",
+        "es:t": "Suecia | Kalmar",
+        "de": "Kalmar",
+        "de:t": "Schweden | Kalmar l\u00e4n"
+    },
+    {
+        "en": "Karlshamn",
+        "en:t": "Sweden | Blekinge",
+        "a": true,
+        "g": {
+            "lat": 56.1703,
+            "lon": 14.8631
+        },
+        "it": "Karlshamn",
+        "it:t": "Svezia | Blekinge",
+        "es": "Karlshamn",
+        "es:t": "Suecia | Blekinge",
+        "de": "Karlshamn",
+        "de:t": "Schweden | Blekinge l\u00e4n"
+    },
+    {
+        "en": "Karlskoga",
+        "en:t": "Sweden | \u00d6rebro",
+        "a": true,
+        "g": {
+            "lat": 59.3286,
+            "lon": 14.5364
+        },
+        "it": "Karlskoga",
+        "it:t": "Svezia | \u00d6rebro",
+        "es": "Karlskoga",
+        "es:t": "Suecia | \u00d6rebro",
+        "de": "Karlskoga",
+        "de:t": "Schweden | \u00d6rebro l\u00e4n"
+    },
+    {
+        "en": "Karlskrona",
+        "en:t": "Sweden | Blekinge",
+        "a": true,
+        "g": {
+            "lat": 56.1612,
+            "lon": 15.5869
+        },
+        "it": "Karlskrona",
+        "it:t": "Svezia | Blekinge",
+        "es": "Karlskrona",
+        "es:t": "Suecia | Blekinge",
+        "de": "Karlskrona",
+        "de:t": "Schweden | Blekinge l\u00e4n"
+    },
+    {
+        "en": "Karlstad",
+        "en:t": "Sweden | Varmland",
+        "a": true,
+        "g": {
+            "lat": 59.4022,
+            "lon": 13.5115
+        },
+        "it": "Karlstad",
+        "it:t": "Svezia | V\u00e4rmland",
+        "es": "Karlstad",
+        "es:t": "Suecia | V\u00e4rmland",
+        "de": "Karlstad",
+        "de:t": "Schweden | V\u00e4rmlands l\u00e4n"
+    },
+    {
+        "en": "Katrineholm",
+        "en:t": "Sweden | S\u00f6dermanland",
+        "a": true,
+        "g": {
+            "lat": 58.9956,
+            "lon": 16.2055
+        },
+        "it": "Katrineholm",
+        "it:t": "Svezia | S\u00f6dermanland",
+        "es": "Katrineholm",
+        "es:t": "Suecia | S\u00f6dermanland",
+        "de": "Katrineholm",
+        "de:t": "Schweden | S\u00f6dermanlands l\u00e4n"
+    },
+    {
+        "en": "Kiruna",
+        "en:t": "Sweden | Norrbotten",
+        "a": true,
+        "g": {
+            "lat": 67.8558,
+            "lon": 20.2253
+        },
+        "it": "Kiruna",
+        "it:t": "Svezia | Norrbotten",
+        "es": "Kiruna",
+        "es:t": "Suecia | Norrbotten",
+        "de": "Kiruna",
+        "de:t": "Schweden | Norrbottens l\u00e4n"
+    },
+    {
+        "en": "Kristianstad",
+        "en:t": "Sweden | Sk\u00e5ne",
+        "a": true,
+        "g": {
+            "lat": 56.0294,
+            "lon": 14.1567
+        },
+        "it": "Kristianstad",
+        "it:t": "Svezia | Scania",
+        "es": "Kristianstad",
+        "es:t": "Suecia | Escania",
+        "de": "Kristianstad",
+        "de:t": "Schweden | Sk\u00e5ne l\u00e4n"
+    },
+    {
+        "en": "Kristinehamn",
+        "en:t": "Sweden | Varmland",
+        "a": true,
+        "g": {
+            "lat": 59.3101,
+            "lon": 14.1089
+        },
+        "it": "Kristinehamn",
+        "it:t": "Svezia | V\u00e4rmland",
+        "es": "Kristinehamn",
+        "es:t": "Suecia | Varmland",
+        "de": "Kristinehamn",
+        "de:t": "Schweden | V\u00e4rmlands l\u00e4n"
+    },
+    {
+        "en": "Kungsbacka",
+        "en:t": "Sweden | Halland",
+        "a": true,
+        "g": {
+            "lat": 57.4875,
+            "lon": 12.0762
+        },
+        "it": "Kungsbacka",
+        "it:t": "Svezia | Halland",
+        "es": "Kungsbacka",
+        "es:t": "Suecia | Halland",
+        "de": "Kungsbacka",
+        "de:t": "Schweden | Hallands l\u00e4n"
+    },
+    {
+        "en": "Kung\u00e4lv",
+        "en:t": "Sweden | V\u00e4stra G\u00f6taland",
+        "a": true,
+        "g": {
+            "lat": 57.8698,
+            "lon": 11.974
+        },
+        "it": "Kung\u00e4lv",
+        "it:t": "Svezia | V\u00e4stra G\u00f6taland",
+        "es": "Kung\u00e4lv",
+        "es:t": "Suecia | V\u00e4stra G\u00f6taland",
+        "de": "Kung\u00e4lv",
+        "de:t": "Schweden | V\u00e4stra G\u00f6talands l\u00e4n"
+    },
+    {
+        "en": "K\u00f6ping",
+        "en:t": "Sweden | V\u00e4stmanland",
+        "a": true,
+        "g": {
+            "lat": 59.5121,
+            "lon": 15.9945
+        },
+        "it": "K\u00f6ping",
+        "it:t": "Svezia | V\u00e4stmanland",
+        "es": "K\u00f6ping",
+        "es:t": "Suecia | V\u00e4stmanland",
+        "de": "K\u00f6ping",
+        "de:t": "Schweden | V\u00e4stmanlands l\u00e4n"
+    },
+    {
+        "en": "Landskrona",
+        "en:t": "Sweden | Sk\u00e5ne",
+        "a": true,
+        "g": {
+            "lat": 55.8703,
+            "lon": 12.8301
+        },
+        "it": "Landskrona",
+        "it:t": "Svezia | Scania",
+        "es": "Landskrona",
+        "es:t": "Suecia | Escania",
+        "de": "Landskrona",
+        "de:t": "Schweden | Sk\u00e5ne l\u00e4n"
+    },
+    {
+        "en": "Lerum",
+        "en:t": "Sweden | V\u00e4stra G\u00f6taland",
+        "a": true,
+        "g": {
+            "lat": 57.7695,
+            "lon": 12.2688
+        },
+        "it": "Lerum",
+        "it:t": "Svezia | V\u00e4stra G\u00f6taland",
+        "es": "Lerum",
+        "es:t": "Suecia | V\u00e4stra G\u00f6taland",
+        "de": "Lerum",
+        "de:t": "Schweden | V\u00e4stra G\u00f6talands l\u00e4n"
+    },
+    {
+        "en": "Liding\u00f6",
+        "en:t": "Sweden",
+        "a": true,
+        "g": {
+            "lat": 59.3536,
+            "lon": 18.1696
+        },
+        "it": "Liding\u00f6",
+        "it:t": "Svezia",
+        "es": "Liding\u00f6",
+        "es:t": "Suecia",
+        "de": "Liding\u00f6",
+        "de:t": "Schweden"
+    },
+    {
+        "en": "Lidk\u00f6ping",
+        "en:t": "Sweden | V\u00e4stra G\u00f6taland",
+        "a": true,
+        "g": {
+            "lat": 58.5035,
+            "lon": 13.1571
+        },
+        "it": "Lidk\u00f6ping",
+        "it:t": "Svezia | V\u00e4stra G\u00f6taland",
+        "es": "Lidk\u00f6ping",
+        "es:t": "Suecia | V\u00e4stra G\u00f6taland",
+        "de": "Lidk\u00f6ping",
+        "de:t": "Schweden | V\u00e4stra G\u00f6talands l\u00e4n"
+    },
+    {
+        "en": "Link\u00f6ping",
+        "en:t": "Sweden | \u00d6sterg\u00f6tland",
+        "a": true,
+        "g": {
+            "lat": 58.4108,
+            "lon": 15.6214
+        },
+        "it": "Link\u00f6ping",
+        "it:t": "Svezia | \u00d6sterg\u00f6tland",
+        "es": "Link\u00f6ping",
+        "es:t": "Suecia | \u00d6sterg\u00f6tland",
+        "de": "Link\u00f6ping",
+        "de:t": "Schweden | \u00d6sterg\u00f6tlands l\u00e4n"
+    },
+    {
+        "en": "Lule\u00e5",
+        "en:t": "Sweden | Norrbotten",
+        "a": true,
+        "g": {
+            "lat": 65.5848,
+            "lon": 22.1567
+        },
+        "it": "Lule\u00e5",
+        "it:t": "Svezia | Norrbotten",
+        "es": "Lule\u00e5",
+        "es:t": "Suecia | Norrbotten",
+        "de": "Lule\u00e5",
+        "de:t": "Schweden | Norrbottens l\u00e4n"
+    },
+    {
+        "en": "Lund",
+        "en:t": "Sweden | Sk\u00e5ne",
+        "a": true,
+        "g": {
+            "lat": 55.7047,
+            "lon": 13.191
+        },
+        "it": "Lund",
+        "it:t": "Svezia | Scania",
+        "es": "Lund",
+        "es:t": "Suecia | Escania",
+        "de": "Lund",
+        "de:t": "Schweden | Sk\u00e5ne l\u00e4n"
+    },
+    {
+        "en": "Majorna",
+        "en:t": "Sweden | Gothenburg",
+        "a": true,
+        "g": {
+            "lat": 57.6952,
+            "lon": 11.9278
+        },
+        "it": "Majorna",
+        "it:t": "Svezia | Gothenburg",
+        "es": "Majorna",
+        "es:t": "Suecia | Gothenburg",
+        "de": "Majorna",
+        "de:t": "Schweden | Gothenburg"
+    },
+    {
+        "en": "Malm\u00f6",
+        "en:t": "Sweden | Sk\u00e5ne",
+        "a": true,
+        "g": {
+            "lat": 55.605,
+            "lon": 13.0038
+        },
+        "it": "Malm\u00f6",
+        "it:t": "Svezia | Scania",
+        "es": "Malm\u00f6",
+        "es:t": "Suecia | Escania",
+        "de": "Malm\u00f6",
+        "de:t": "Schweden | Sk\u00e5ne l\u00e4n"
+    },
+    {
+        "en": "Motala",
+        "en:t": "Sweden | \u00d6sterg\u00f6tland",
+        "a": true,
+        "g": {
+            "lat": 58.538,
+            "lon": 15.0471
+        },
+        "it": "Motala",
+        "it:t": "Svezia | \u00d6sterg\u00f6tland",
+        "es": "Motala",
+        "es:t": "Suecia | \u00d6sterg\u00f6tland",
+        "de": "Motala",
+        "de:t": "Schweden | \u00d6sterg\u00f6tlands l\u00e4n"
+    },
+    {
+        "en": "M\u00e4rsta",
+        "en:t": "Sweden | Stockholm",
+        "a": true,
+        "g": {
+            "lat": 59.6196,
+            "lon": 17.8555
+        },
+        "it": "M\u00e4rsta",
+        "it:t": "Svezia | Stoccolma",
+        "es": "M\u00e4rsta",
+        "es:t": "Suecia | Stockholm",
+        "de": "M\u00e4rsta",
+        "de:t": "Schweden | Stockholms l\u00e4n"
+    },
+    {
+        "en": "M\u00f6lndal",
+        "en:t": "Sweden | V\u00e4stra G\u00f6taland",
+        "a": true,
+        "g": {
+            "lat": 57.65,
+            "lon": 12.0167
+        },
+        "it": "M\u00f6lndal",
+        "it:t": "Svezia | V\u00e4stra G\u00f6taland",
+        "es": "M\u00f6lndal",
+        "es:t": "Suecia | V\u00e4stra G\u00f6taland",
+        "de": "M\u00f6lndal",
+        "de:t": "Schweden | V\u00e4stra G\u00f6talands l\u00e4n"
+    },
+    {
+        "en": "Nacka",
+        "en:t": "Sweden | Stockholm",
+        "a": true,
+        "g": {
+            "lat": 59.3092,
+            "lon": 18.2705
+        },
+        "it": "Nacka",
+        "it:t": "Svezia | Stoccolma",
+        "es": "Nacka",
+        "es:t": "Suecia | Estocolmo",
+        "de": "Nacka",
+        "de:t": "Schweden | Stockholm"
+    },
+    {
+        "en": "Norrk\u00f6ping",
+        "en:t": "Sweden | \u00d6sterg\u00f6tland",
+        "a": true,
+        "g": {
+            "lat": 58.5877,
+            "lon": 16.1924
+        },
+        "it": "Norrk\u00f6ping",
+        "it:t": "Svezia | \u00d6sterg\u00f6tland",
+        "es": "Norrk\u00f6ping",
+        "es:t": "Suecia | \u00d6sterg\u00f6tland",
+        "de": "Norrk\u00f6ping",
+        "de:t": "Schweden | \u00d6sterg\u00f6tlands l\u00e4n"
+    },
+    {
+        "en": "Norrt\u00e4lje",
+        "en:t": "Sweden | Stockholm",
+        "a": true,
+        "g": {
+            "lat": 59.7596,
+            "lon": 18.7014
+        },
+        "it": "Norrt\u00e4lje",
+        "it:t": "Svezia | Stoccolma",
+        "es": "Norrt\u00e4lje",
+        "es:t": "Suecia | Estocolmo",
+        "de": "Norrt\u00e4lje",
+        "de:t": "Schweden | Stockholms l\u00e4n"
+    },
+    {
+        "en": "Nyk\u00f6ping",
+        "en:t": "Sweden | S\u00f6dermanland",
+        "a": true,
+        "g": {
+            "lat": 58.7528,
+            "lon": 17.0092
+        },
+        "it": "Nyk\u00f6ping",
+        "it:t": "Svezia | S\u00f6dermanland",
+        "es": "Nyk\u00f6ping",
+        "es:t": "Suecia | S\u00f6dermanland",
+        "de": "Nyk\u00f6ping",
+        "de:t": "Schweden | S\u00f6dermanlands l\u00e4n"
+    },
+    {
+        "en": "N\u00e4ssj\u00f6",
+        "en:t": "Sweden | Jonkoping",
+        "a": true,
+        "g": {
+            "lat": 57.653,
+            "lon": 14.6967
+        },
+        "it": "N\u00e4ssj\u00f6",
+        "it:t": "Svezia | J\u00f6nk\u00f6ping",
+        "es": "N\u00e4ssj\u00f6",
+        "es:t": "Suecia | J\u00f6nk\u00f6ping",
+        "de": "N\u00e4ssj\u00f6",
+        "de:t": "Schweden | J\u00f6nk\u00f6pings l\u00e4n"
+    },
+    {
+        "en": "Oskarshamn",
+        "en:t": "Sweden | Kalmar",
+        "a": true,
+        "g": {
+            "lat": 57.2657,
+            "lon": 16.4474
+        },
+        "it": "Oskarshamn",
+        "it:t": "Svezia | Kalmar",
+        "es": "Oskarshamn",
+        "es:t": "Suecia | Kalmar",
+        "de": "Oskarshamn",
+        "de:t": "Schweden | Kalmar l\u00e4n"
+    },
+    {
+        "en": "Partille",
+        "en:t": "Sweden",
+        "a": true,
+        "g": {
+            "lat": 57.7366,
+            "lon": 12.1252
+        },
+        "it": "Partille",
+        "it:t": "Svezia",
+        "es": "Partille",
+        "es:t": "Suecia",
+        "de": "Partille",
+        "de:t": "Schweden"
+    },
+    {
+        "en": "Pite\u00e5",
+        "en:t": "Sweden | Norrbotten",
+        "a": true,
+        "g": {
+            "lat": 65.3167,
+            "lon": 21.48
+        },
+        "it": "Pite\u00e5",
+        "it:t": "Svezia | Norrbotten",
+        "es": "Pite\u00e5",
+        "es:t": "Suecia | Norrbotten",
+        "de": "Pite\u00e5",
+        "de:t": "Schweden | Norrbottens l\u00e4n"
+    },
+    {
+        "en": "R\u00e5sunda",
+        "en:t": "Sweden | Solna",
+        "a": true,
+        "g": {
+            "lat": 59.3667,
+            "lon": 17.9833
+        },
+        "it": "R\u00e5sunda",
+        "it:t": "Svezia | Solna",
+        "es": "R\u00e5sta Strandv\u00e4g 1",
+        "es:t": "Suecia | R\u00e5sunda",
+        "de": "R\u00e5sunda",
+        "de:t": "Schweden | Solna"
+    },
+    {
+        "en": "Sandviken",
+        "en:t": "Sweden | Gavleborg",
+        "a": true,
+        "g": {
+            "lat": 60.6216,
+            "lon": 16.7759
+        },
+        "it": "Sandviken",
+        "it:t": "Svezia | G\u00e4vleborg",
+        "es": "Sandviken",
+        "es:t": "Suecia | Gavleborg",
+        "de": "Sandviken",
+        "de:t": "Schweden | G\u00e4vleborgs l\u00e4n"
+    },
+    {
+        "en": "Skara",
+        "en:t": "Sweden | V\u00e4stra G\u00f6taland",
+        "a": true,
+        "g": {
+            "lat": 58.386,
+            "lon": 13.4393
+        },
+        "it": "Skara",
+        "it:t": "Svezia | V\u00e4stra G\u00f6taland",
+        "es": "Skara",
+        "es:t": "Suecia | V\u00e4stra G\u00f6taland",
+        "de": "Skara",
+        "de:t": "Schweden | V\u00e4stra G\u00f6talands l\u00e4n"
+    },
+    {
+        "en": "Skellefte\u00e5",
+        "en:t": "Sweden | V\u00e4sterbotten",
+        "a": true,
+        "g": {
+            "lat": 64.7502,
+            "lon": 20.9509
+        },
+        "it": "Skellefte\u00e5",
+        "it:t": "Svezia | V\u00e4sterbotten",
+        "es": "Skellefte\u00e5",
+        "es:t": "Suecia | V\u00e4sterbotten",
+        "de": "Skellefte\u00e5",
+        "de:t": "Schweden | V\u00e4sterbottens l\u00e4n"
+    },
+    {
+        "en": "Sk\u00f6vde",
+        "en:t": "Sweden | V\u00e4stra G\u00f6taland",
+        "a": true,
+        "g": {
+            "lat": 58.3903,
+            "lon": 13.8461
+        },
+        "it": "Sk\u00f6vde",
+        "it:t": "Svezia | V\u00e4stra G\u00f6taland",
+        "es": "Sk\u00f6vde",
+        "es:t": "Suecia | V\u00e4stra G\u00f6taland",
+        "de": "Sk\u00f6vde",
+        "de:t": "Schweden | V\u00e4stra G\u00f6talands l\u00e4n"
+    },
+    {
+        "en": "Sollentuna",
+        "en:t": "Sweden | Stockholm",
+        "a": true,
+        "g": {
+            "lat": 59.4541,
+            "lon": 17.9243
+        },
+        "it": "Sollentuna",
+        "it:t": "Svezia | Stoccolma",
+        "es": "Sollentuna",
+        "es:t": "Suecia | Estocolmo",
+        "de": "Sollentuna",
+        "de:t": "Schweden | Stockholms l\u00e4n"
+    },
+    {
+        "en": "Solna",
+        "en:t": "Sweden | Stockholm",
+        "a": true,
+        "g": {
+            "lat": 59.3689,
+            "lon": 18.0084
+        },
+        "it": "Solna",
+        "it:t": "Svezia | Stoccolma",
+        "es": "Solna",
+        "es:t": "Suecia | Estocolmo",
+        "de": "Solna",
+        "de:t": "Schweden | Stockholms l\u00e4n"
+    },
+    {
+        "en": "Stockholm",
+        "en:t": "Sweden | Stockholm",
+        "a": true,
+        "g": {
+            "lat": 59.3293,
+            "lon": 18.0686
+        },
+        "it": "Stoccolma",
+        "it:t": "Svezia | Stoccolma",
+        "es": "Estocolmo",
+        "es:t": "Suecia | Estocolmo",
+        "de": "Stockholm",
+        "de:t": "Schweden | Stockholms l\u00e4n"
+    },
+    {
+        "en": "Sundbyberg",
+        "en:t": "Sweden | Stockholm",
+        "a": true,
+        "g": {
+            "lat": 59.3829,
+            "lon": 17.9645
+        },
+        "it": "Sundbyberg",
+        "it:t": "Svezia | Stoccolma",
+        "es": "Sundbyberg",
+        "es:t": "Suecia | Estocolmo",
+        "de": "Sundbyberg",
+        "de:t": "Schweden | Stockholms l\u00e4n"
+    },
+    {
+        "en": "Sundsvall",
+        "en:t": "Sweden | V\u00e4sternorrland",
+        "a": true,
+        "g": {
+            "lat": 62.3908,
+            "lon": 17.3069
+        },
+        "it": "Sundsvall",
+        "it:t": "Svezia | V\u00e4sternorrland",
+        "es": "Sundsvall",
+        "es:t": "Suecia | V\u00e4sternorrland",
+        "de": "Sundsvall",
+        "de:t": "Schweden | V\u00e4sternorrlands l\u00e4n"
+    },
+    {
+        "en": "S\u00f6dert\u00e4lje",
+        "en:t": "Sweden | Stockholm",
+        "a": true,
+        "g": {
+            "lat": 59.1954,
+            "lon": 17.6257
+        },
+        "it": "S\u00f6dert\u00e4lje",
+        "it:t": "Svezia | Stoccolma",
+        "es": "S\u00f6dert\u00e4lje",
+        "es:t": "Suecia | Estocolmo",
+        "de": "S\u00f6dert\u00e4lje",
+        "de:t": "Schweden | Stockholms l\u00e4n"
+    },
+    {
+        "en": "Trelleborg",
+        "en:t": "Sweden | Sk\u00e5ne",
+        "a": true,
+        "g": {
+            "lat": 55.3762,
+            "lon": 13.1574
+        },
+        "it": "Trelleborg",
+        "it:t": "Svezia | Scania",
+        "es": "Trelleborg",
+        "es:t": "Suecia | Escania",
+        "de": "Trelleborg",
+        "de:t": "Schweden | Sk\u00e5ne l\u00e4n"
+    },
+    {
+        "en": "Trollh\u00e4ttan",
+        "en:t": "Sweden | V\u00e4stra G\u00f6taland",
+        "a": true,
+        "g": {
+            "lat": 58.2835,
+            "lon": 12.2858
+        },
+        "it": "Trollh\u00e4ttan",
+        "it:t": "Svezia | V\u00e4stra G\u00f6taland",
+        "es": "Trollh\u00e4ttan",
+        "es:t": "Suecia | V\u00e4stra G\u00f6taland",
+        "de": "Trollh\u00e4ttan",
+        "de:t": "Schweden | V\u00e4stra G\u00f6talands l\u00e4n"
+    },
+    {
+        "en": "Tullinge",
+        "en:t": "Sweden | Botkyrka",
+        "a": true,
+        "g": {
+            "lat": 59.1983,
+            "lon": 17.8953
+        },
+        "it": "Tullinge",
+        "it:t": "Svezia | Botkyrka",
+        "es": "Tullinge",
+        "es:t": "Suecia | Botkyrka",
+        "de": "Tullinge",
+        "de:t": "Schweden | Botkyrka"
+    },
+    {
+        "en": "Tumba",
+        "en:t": "Sweden | Botkyrka",
+        "a": true,
+        "g": {
+            "lat": 59.1999,
+            "lon": 17.831
+        },
+        "it": "Tumba",
+        "it:t": "Svezia | Botkyrka",
+        "es": "Tumba",
+        "es:t": "Suecia | Botkyrka",
+        "de": "Tumba",
+        "de:t": "Schweden | Botkyrka"
+    },
+    {
+        "en": "T\u00e4by",
+        "en:t": "Sweden | Stockholm",
+        "a": true,
+        "g": {
+            "lat": 59.4419,
+            "lon": 18.0703
+        },
+        "it": "T\u00e4by",
+        "it:t": "Svezia | Stoccolma",
+        "es": "T\u00e4by",
+        "es:t": "Suecia | Estocolmo",
+        "de": "T\u00e4by",
+        "de:t": "Schweden | Stockholms l\u00e4n"
+    },
+    {
+        "en": "Uddevalla",
+        "en:t": "Sweden | V\u00e4stra G\u00f6taland",
+        "a": true,
+        "g": {
+            "lat": 58.3498,
+            "lon": 11.9356
+        },
+        "it": "Uddevalla",
+        "it:t": "Svezia | V\u00e4stra G\u00f6taland",
+        "es": "Uddevalla",
+        "es:t": "Suecia | V\u00e4stra G\u00f6taland",
+        "de": "Uddevalla",
+        "de:t": "Schweden | V\u00e4stra G\u00f6talands l\u00e4n"
+    },
+    {
+        "en": "Ume\u00e5",
+        "en:t": "Sweden | V\u00e4sterbotten",
+        "a": true,
+        "g": {
+            "lat": 63.8258,
+            "lon": 20.263
+        },
+        "it": "Ume\u00e5",
+        "it:t": "Svezia | V\u00e4sterbotten",
+        "es": "Ume\u00e5",
+        "es:t": "Suecia | V\u00e4sterbotten",
+        "de": "Ume\u00e5",
+        "de:t": "Schweden | V\u00e4sterbottens l\u00e4n"
+    },
+    {
+        "en": "Upplands V\u00e4sby",
+        "en:t": "Sweden | Stockholm",
+        "a": true,
+        "g": {
+            "lat": 59.5196,
+            "lon": 17.9283
+        },
+        "it": "Upplands V\u00e4sby",
+        "it:t": "Svezia | Stoccolma",
+        "es": "Upplands V\u00e4sby",
+        "es:t": "Suecia | Estocolmo",
+        "de": "Upplands V\u00e4sby",
+        "de:t": "Schweden | Stockholms l\u00e4n"
+    },
+    {
+        "en": "Uppsala",
+        "en:t": "Sweden | Uppsala",
+        "a": true,
+        "g": {
+            "lat": 59.8586,
+            "lon": 17.6389
+        },
+        "it": "Uppsala",
+        "it:t": "Svezia | Uppsala",
+        "es": "Uppsala",
+        "es:t": "Suecia | Upsala",
+        "de": "Uppsala",
+        "de:t": "Schweden | Uppsala l\u00e4n"
+    },
+    {
+        "en": "Vallentuna",
+        "en:t": "Sweden | Stockholm",
+        "a": true,
+        "g": {
+            "lat": 59.5357,
+            "lon": 18.078
+        },
+        "it": "Vallentuna",
+        "it:t": "Svezia | Stoccolma",
+        "es": "Vallentuna",
+        "es:t": "Suecia | Stockholm",
+        "de": "Vallentuna",
+        "de:t": "Schweden | Stockholms l\u00e4n"
+    },
+    {
+        "en": "Varberg",
+        "en:t": "Sweden | Halland",
+        "a": true,
+        "g": {
+            "lat": 57.1071,
+            "lon": 12.2521
+        },
+        "it": "Varberg",
+        "it:t": "Svezia | Halland",
+        "es": "Varberg",
+        "es:t": "Suecia | Halland",
+        "de": "Varberg",
+        "de:t": "Schweden | Hallands l\u00e4n"
+    },
+    {
+        "en": "Visby",
+        "en:t": "Sweden | Gotland",
+        "a": true,
+        "g": {
+            "lat": 57.6348,
+            "lon": 18.2948
+        },
+        "it": "Visby",
+        "it:t": "Svezia | Gotland",
+        "es": "Visby",
+        "es:t": "Suecia | Gotland",
+        "de": "Visby",
+        "de:t": "Schweden | Gotlands l\u00e4n"
+    },
+    {
+        "en": "V\u00e4nersborg",
+        "en:t": "Sweden | V\u00e4stra G\u00f6taland",
+        "a": true,
+        "g": {
+            "lat": 58.3797,
+            "lon": 12.3248
+        },
+        "it": "V\u00e4nersborg",
+        "it:t": "Svezia | V\u00e4stra G\u00f6taland",
+        "es": "V\u00e4nersborg",
+        "es:t": "Suecia | V\u00e4stra G\u00f6taland",
+        "de": "V\u00e4nersborg",
+        "de:t": "Schweden | V\u00e4stra G\u00f6talands l\u00e4n"
+    },
+    {
+        "en": "V\u00e4rnamo",
+        "en:t": "Sweden | Jonkoping",
+        "a": true,
+        "g": {
+            "lat": 57.1832,
+            "lon": 14.0478
+        },
+        "it": "V\u00e4rnamo",
+        "it:t": "Svezia | J\u00f6nk\u00f6ping",
+        "es": "V\u00e4rnamo",
+        "es:t": "Suecia | Jonkoping",
+        "de": "V\u00e4rnamo",
+        "de:t": "Schweden | J\u00f6nk\u00f6pings l\u00e4n"
+    },
+    {
+        "en": "V\u00e4stervik",
+        "en:t": "Sweden | Kalmar",
+        "a": true,
+        "g": {
+            "lat": 57.7577,
+            "lon": 16.637
+        },
+        "it": "V\u00e4stervik",
+        "it:t": "Svezia | Kalmar",
+        "es": "V\u00e4stervik",
+        "es:t": "Suecia | Kalmar",
+        "de": "V\u00e4stervik",
+        "de:t": "Schweden | Kalmar l\u00e4n"
+    },
+    {
+        "en": "V\u00e4ster\u00e5s",
+        "en:t": "Sweden | V\u00e4stmanland",
+        "a": true,
+        "g": {
+            "lat": 59.6099,
+            "lon": 16.5448
+        },
+        "it": "V\u00e4ster\u00e5s",
+        "it:t": "Svezia | V\u00e4stmanland",
+        "es": "V\u00e4ster\u00e5s",
+        "es:t": "Suecia | V\u00e4stmanland",
+        "de": "V\u00e4ster\u00e5s",
+        "de:t": "Schweden | V\u00e4stmanlands l\u00e4n"
+    },
+    {
+        "en": "V\u00e4xj\u00f6",
+        "en:t": "Sweden | Kronoberg",
+        "a": true,
+        "g": {
+            "lat": 56.879,
+            "lon": 14.8059
+        },
+        "it": "V\u00e4xj\u00f6",
+        "it:t": "Svezia | Kronoberg",
+        "es": "V\u00e4xj\u00f6",
+        "es:t": "Suecia | Kronoberg",
+        "de": "V\u00e4xj\u00f6",
+        "de:t": "Schweden | Kronobergs l\u00e4n"
+    },
+    {
+        "en": "Ystad",
+        "en:t": "Sweden | Sk\u00e5ne",
+        "a": true,
+        "g": {
+            "lat": 55.4295,
+            "lon": 13.82
+        },
+        "it": "Ystad",
+        "it:t": "Svezia | Scania",
+        "es": "Ystad",
+        "es:t": "Suecia | Escania",
+        "de": "Ystad",
+        "de:t": "Schweden | Sk\u00e5ne l\u00e4n"
+    },
+    {
+        "en": "\u00c4ngelholm",
+        "en:t": "Sweden | Sk\u00e5ne",
+        "a": true,
+        "g": {
+            "lat": 56.2457,
+            "lon": 12.8639
+        },
+        "it": "\u00c4ngelholm",
+        "it:t": "Svezia | Scania",
+        "es": "\u00c4ngelholm",
+        "es:t": "Suecia | Escania",
+        "de": "\u00c4ngelholm",
+        "de:t": "Schweden | Sk\u00e5ne l\u00e4n"
+    },
+    {
+        "en": "\u00c5kersberga",
+        "en:t": "Sweden | Stockholm",
+        "a": true,
+        "g": {
+            "lat": 59.4803,
+            "lon": 18.3108
+        },
+        "it": "\u00c5kersberga",
+        "it:t": "Svezia | Stoccolma",
+        "es": "\u00c5kersberga",
+        "es:t": "Suecia | Stockholm",
+        "de": "\u00c5kersberga",
+        "de:t": "Schweden | Stockholms l\u00e4n"
+    },
+    {
+        "en": "\u00c5rsta",
+        "en:t": "Sweden | Enskede-\u00c5rsta-Vant\u00f6r",
+        "a": true,
+        "g": {
+            "lat": 59.2989,
+            "lon": 18.0509
+        },
+        "it": "\u00c5rsta",
+        "it:t": "Svezia | Enskede-\u00c5rsta-Vant\u00f6r",
+        "es": "\u00c5rsta",
+        "es:t": "Suecia | Enskede-\u00c5rsta-Vant\u00f6r",
+        "de": "\u00c5rsta",
+        "de:t": "Schweden | Enskede-\u00c5rsta-Vant\u00f6r"
+    },
+    {
+        "en": "\u00d6rebro",
+        "en:t": "Sweden | \u00d6rebro",
+        "a": true,
+        "g": {
+            "lat": 59.2753,
+            "lon": 15.2134
+        },
+        "it": "\u00d6rebro",
+        "it:t": "Svezia | \u00d6rebro",
+        "es": "\u00d6rebro",
+        "es:t": "Suecia | \u00d6rebro",
+        "de": "\u00d6rebro",
+        "de:t": "Schweden | \u00d6rebro l\u00e4n"
+    },
+    {
+        "en": "\u00d6rnsk\u00f6ldsvik",
+        "en:t": "Sweden | V\u00e4sternorrland",
+        "a": true,
+        "g": {
+            "lat": 63.29,
+            "lon": 18.7166
+        },
+        "it": "\u00d6rnsk\u00f6ldsvik",
+        "it:t": "Svezia | V\u00e4sternorrland",
+        "es": "\u00d6rnsk\u00f6ldsvik",
+        "es:t": "Suecia | V\u00e4sternorrland",
+        "de": "\u00d6rnsk\u00f6ldsvik",
+        "de:t": "Schweden | V\u00e4sternorrlands l\u00e4n"
+    },
+    {
+        "en": "\u00d6stermalm",
+        "en:t": "Sweden | Stockholm",
+        "a": true,
+        "g": {
+            "lat": 59.3367,
+            "lon": 18.0853
+        },
+        "it": "\u00d6stermalm",
+        "it:t": "Svezia | Stoccolma",
+        "es": "\u00d6stermalm",
+        "es:t": "Suecia | Estocolmo",
+        "de": "\u00d6stermalm",
+        "de:t": "Schweden | Stockholm"
+    },
+    {
+        "en": "\u00d6stersund",
+        "en:t": "Sweden | Jamtland",
+        "a": true,
+        "g": {
+            "lat": 63.1767,
+            "lon": 14.6361
+        },
+        "it": "\u00d6stersund",
+        "it:t": "Svezia | J\u00e4mtland",
+        "es": "\u00d6stersund",
+        "es:t": "Suecia | J\u00e4mtland",
+        "de": "\u00d6stersund",
+        "de:t": "Schweden | J\u00e4mtlands l\u00e4n"
+    }
+]

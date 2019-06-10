@@ -1,0 +1,182 @@
+[
+    {
+        "en": "Ban Houakhoua",
+        "en:t": "Laos | Phongsaly",
+        "a": true,
+        "g": {
+            "lat": 21.4692,
+            "lon": 101.7997
+        },
+        "it": "Ban Houakhoua",
+        "it:t": "Laos | Phongsaly",
+        "es": "Ban Houakhoua",
+        "es:t": "Laos | Phongsaly",
+        "de": "Ban Houakhoua",
+        "de:t": "Laos | Phongsaly"
+    },
+    {
+        "en": "Luang Prabang",
+        "en:t": "Laos | Luang Prabang",
+        "a": true,
+        "g": {
+            "lat": 19.8834,
+            "lon": 102.1347
+        },
+        "it": "Luang Prabang",
+        "it:t": "Laos | Luang Prabang",
+        "es": "Luang Prabang",
+        "es:t": "Laos | Luang Prabang",
+        "de": "Luang Prabang",
+        "de:t": "Laos | Luang Prabang"
+    },
+    {
+        "en": "Muang Xai",
+        "en:t": "Laos | Oudomxay",
+        "a": true,
+        "g": {
+            "lat": 20.6907,
+            "lon": 101.9862
+        },
+        "it": "Muang Xay",
+        "it:t": "Laos | Oudomxay",
+        "es": "Muang Xay",
+        "es:t": "Laos | Oudomxay",
+        "de": "Muang Xay",
+        "de:t": "Laos | Oudomxay"
+    },
+    {
+        "en": "Paksan",
+        "en:t": "Laos | Bolikhamsai",
+        "a": true,
+        "g": {
+            "lat": 18.3983,
+            "lon": 103.6652
+        },
+        "it": "Pakxan",
+        "it:t": "Laos | Bolikhamxai",
+        "es": "Pakxan",
+        "es:t": "Laos | Bolijamxai",
+        "de": "Pakxan",
+        "de:t": "Laos | Bolikhamsai"
+    },
+    {
+        "en": "Pakse",
+        "en:t": "Laos | Champasak",
+        "a": true,
+        "g": {
+            "lat": 15.1105,
+            "lon": 105.8173
+        },
+        "it": "Pakse",
+        "it:t": "Laos | Champasak",
+        "es": "Pakse",
+        "es:t": "Laos | Champasak",
+        "de": "Pakse",
+        "de:t": "Laos | Champasak"
+    },
+    {
+        "en": "Phonsavan",
+        "en:t": "Laos | Xiangkhouang",
+        "a": true,
+        "g": {
+            "lat": 19.4521,
+            "lon": 103.1856
+        },
+        "it": "Muang Khoun",
+        "it:t": "Laos | Xiangkhouang",
+        "es": "Phonsavan",
+        "es:t": "Laos | Xiangkhoang",
+        "de": "Phonsavan",
+        "de:t": "Laos | Xieng Khouang"
+    },
+    {
+        "en": "Phonsavan",
+        "en:t": "Laos | Xiangkhouang",
+        "a": true,
+        "g": {
+            "lat": 19.4521,
+            "lon": 103.1856
+        },
+        "it": "Phonsavan",
+        "it:t": "Laos | Xiangkhoang",
+        "es": "Phonsavan",
+        "es:t": "Laos | Xiangkhoang",
+        "de": "Phonsavan",
+        "de:t": "Laos | Xieng Khouang"
+    },
+    {
+        "en": "Sam Nuea",
+        "en:t": "Laos | Houaphanh",
+        "a": true,
+        "g": {
+            "lat": 20.4171,
+            "lon": 104.0479
+        },
+        "it": "Xam Neua",
+        "it:t": "Laos | Houaphan",
+        "es": "Xam Neua",
+        "es:t": "Laos | Houaphan",
+        "de": "Sam Neua",
+        "de:t": "Laos | Houaphan"
+    },
+    {
+        "en": "Savannakhet",
+        "en:t": "Laos | Savannakhet",
+        "a": true,
+        "g": {
+            "lat": 16.5722,
+            "lon": 104.7706
+        },
+        "it": "Savannakhet",
+        "it:t": "Laos | Savannakhet",
+        "es": "Savannakhet",
+        "es:t": "Laos | Savannajet",
+        "de": "Savannakhet",
+        "de:t": "Laos | Savannakhet"
+    },
+    {
+        "en": "Thakhek",
+        "en:t": "Laos | Khammouane",
+        "a": true,
+        "g": {
+            "lat": 17.403,
+            "lon": 104.8338
+        },
+        "it": "Thakhek",
+        "it:t": "Laos | Khammouan",
+        "es": "Thakhek",
+        "es:t": "Laos | Khammouane",
+        "de": "Thakhek",
+        "de:t": "Laos | Khammouane"
+    },
+    {
+        "en": "Vang Vieng",
+        "en:t": "Laos | Vientiane",
+        "a": true,
+        "g": {
+            "lat": 18.9501,
+            "lon": 102.4438
+        },
+        "it": "Vang Vieng",
+        "it:t": "Laos | Vientiane",
+        "es": "Vang Vieng",
+        "es:t": "Laos | Vienti\u00e1n",
+        "de": "Vang Vieng",
+        "de:t": "Laos | Vientiane"
+    },
+    {
+        "en": "Vientiane",
+        "en:t": "Laos | Vientiane",
+        "a": true,
+        "g": {
+            "lat": 17.9757,
+            "lon": 102.6331
+        },
+        "it": "Vientiane",
+        "it:t": "Laos | Vientiane",
+        "es": "Vienti\u00e1n",
+        "es:t": "Laos | Vienti\u00e1n",
+        "de": "Vientiane",
+        "de:t": "Laos | Vientiane"
+    }
+]

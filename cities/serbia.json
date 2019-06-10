@@ -1,0 +1,722 @@
+[
+    {
+        "en": "Apatin",
+        "en:t": "Serbia | West Ba\u010dka",
+        "a": true,
+        "g": {
+            "lat": 45.6729,
+            "lon": 18.9843
+        },
+        "it": "Apatin",
+        "it:t": "Serbia | Ba\u010dka Occidentale",
+        "es": "Apatin",
+        "es:t": "Serbia | Ba\u010dka del Oeste",
+        "de": "Apatin",
+        "de:t": "Serbien | Zapadna Ba\u010dka"
+    },
+    {
+        "en": "Aran\u0111elovac",
+        "en:t": "Serbia | Sumadija",
+        "a": true,
+        "g": {
+            "lat": 44.3082,
+            "lon": 20.5563
+        },
+        "it": "Aran\u0111elovac",
+        "it:t": "Serbia | \u0160umadija",
+        "es": "Aran\u0111elovac",
+        "es:t": "Serbia | \u0160umadija",
+        "de": "Aran\u0111elovac",
+        "de:t": "Serbien | \u0160umadija"
+    },
+    {
+        "en": "Backa Palanka",
+        "en:t": "Serbia | South Backa",
+        "a": true,
+        "g": {
+            "lat": 45.2497,
+            "lon": 19.3968
+        },
+        "it": "Ba\u010dka Palanka",
+        "it:t": "Serbia | Ba\u010dka Meridionale",
+        "es": "Ba\u010dka Palanka",
+        "es:t": "Serbia | Ba\u010dka del Sur",
+        "de": "Plankenburg",
+        "de:t": "Serbien | Ju\u017ena Ba\u010dka"
+    },
+    {
+        "en": "Ba\u010dka Topola",
+        "en:t": "Serbia | North Ba\u010dka",
+        "a": true,
+        "g": {
+            "lat": 45.8144,
+            "lon": 19.638
+        },
+        "it": "Ba\u010dka Topola",
+        "it:t": "Serbia | Ba\u010dka Settentrionale",
+        "es": "Ba\u010dka Topola",
+        "es:t": "Serbia | Ba\u010dka del Norte",
+        "de": "Ba\u010dka Topola",
+        "de:t": "Serbien | Severna Ba\u010dka"
+    },
+    {
+        "en": "Belgrade",
+        "en:t": "Serbia | Belgrade",
+        "a": true,
+        "g": {
+            "lat": 44.7866,
+            "lon": 20.4489
+        },
+        "it": "Belgrado",
+        "it:t": "Serbia | Belgrade",
+        "es": "Belgrado",
+        "es:t": "Serbia | Belgrade",
+        "de": "Belgrad",
+        "de:t": "Serbien | Belgrade"
+    },
+    {
+        "en": "Be\u010dej",
+        "en:t": "Serbia | South Backa",
+        "a": true,
+        "g": {
+            "lat": 45.6138,
+            "lon": 20.046
+        },
+        "it": "Be\u010dej",
+        "it:t": "Serbia | Ba\u010dka Meridionale",
+        "es": "Be\u010dej",
+        "es:t": "Serbia | Ba\u010dka del Sur",
+        "de": "Be\u010dej",
+        "de:t": "Serbien | Ju\u017ena Ba\u010dka"
+    },
+    {
+        "en": "Bor",
+        "en:t": "Serbia",
+        "a": true,
+        "g": {
+            "lat": 44.0699,
+            "lon": 22.0985
+        },
+        "it": "Bor",
+        "it:t": "Serbia",
+        "es": "Bor",
+        "es:t": "Serbia",
+        "de": "Bor",
+        "de:t": "Serbien"
+    },
+    {
+        "en": "Gornji Milanovac",
+        "en:t": "Serbia | Moravica",
+        "a": true,
+        "g": {
+            "lat": 44.0207,
+            "lon": 20.4633
+        },
+        "it": "Gornji Milanovac",
+        "it:t": "Serbia | Moravica",
+        "es": "Gornji Milanovac",
+        "es:t": "Serbia | Moravica",
+        "de": "Gornji Milanovac",
+        "de:t": "Serbien | Moravica"
+    },
+    {
+        "en": "In\u0111ija",
+        "en:t": "Serbia | Srem",
+        "a": true,
+        "g": {
+            "lat": 45.0485,
+            "lon": 20.0808
+        },
+        "it": "In\u0111ija",
+        "it:t": "Serbia | Sirmia",
+        "es": "In\u0111ija",
+        "es:t": "Serbia | Sirmia",
+        "de": "In\u0111ija",
+        "de:t": "Serbien | Srem"
+    },
+    {
+        "en": "Jagodina",
+        "en:t": "Serbia | Pomoravlje",
+        "a": true,
+        "g": {
+            "lat": 43.9777,
+            "lon": 21.2573
+        },
+        "it": "Jagodina",
+        "it:t": "Serbia | Pomoravlje",
+        "es": "Jagodina",
+        "es:t": "Serbia | Pomoravlje",
+        "de": "Jagodina",
+        "de:t": "Serbien | Pomoravlje"
+    },
+    {
+        "en": "Kikinda",
+        "en:t": "Serbia | North Banat",
+        "a": true,
+        "g": {
+            "lat": 45.8273,
+            "lon": 20.4615
+        },
+        "it": "Kikinda",
+        "it:t": "Serbia | Banato Settentrionale",
+        "es": "Kikinda",
+        "es:t": "Serbia | Banato del Norte",
+        "de": "Kikinda",
+        "de:t": "Serbien | Severni Banat"
+    },
+    {
+        "en": "Knjazevac",
+        "en:t": "Serbia | Zaje\u010dar",
+        "a": true,
+        "g": {
+            "lat": 43.5661,
+            "lon": 22.2467
+        },
+        "it": "Knja\u017eevac",
+        "it:t": "Serbia | Zaje\u010dar",
+        "es": "Knja\u017eevac",
+        "es:t": "Serbia | Zaje\u010dar",
+        "de": "Knja\u017eevac",
+        "de:t": "Serbien | Zaje\u010dar"
+    },
+    {
+        "en": "Kragujevac",
+        "en:t": "Serbia | Sumadija",
+        "a": true,
+        "g": {
+            "lat": 44.0128,
+            "lon": 20.9114
+        },
+        "it": "Kragujevac",
+        "it:t": "Serbia | \u0160umadija",
+        "es": "Kragujevac",
+        "es:t": "Serbia | \u0160umadija",
+        "de": "Kragujevac",
+        "de:t": "Serbien | \u0160umadija"
+    },
+    {
+        "en": "Kraljevo",
+        "en:t": "Serbia | Ra\u0161ka",
+        "a": true,
+        "g": {
+            "lat": 43.7238,
+            "lon": 20.6873
+        },
+        "it": "Kraljevo",
+        "it:t": "Serbia | Ra\u0161ka",
+        "es": "Kraljevo",
+        "es:t": "Serbia | Ra\u0161ka",
+        "de": "Kraljevo",
+        "de:t": "Serbien | Ra\u0161ka"
+    },
+    {
+        "en": "Kru\u0161evac",
+        "en:t": "Serbia | Rasina",
+        "a": true,
+        "g": {
+            "lat": 43.5763,
+            "lon": 21.3336
+        },
+        "it": "Kru\u0161evac",
+        "it:t": "Serbia | Rasina",
+        "es": "Kru\u0161evac",
+        "es:t": "Serbia | Rasina",
+        "de": "Kru\u0161evac",
+        "de:t": "Serbien | Rasina"
+    },
+    {
+        "en": "Lazarevac",
+        "en:t": "Serbia | Belgrade",
+        "a": true,
+        "g": {
+            "lat": 44.3795,
+            "lon": 20.2639
+        },
+        "it": "Lazarevac",
+        "it:t": "Serbia | Belgrade",
+        "es": "Lazarevac",
+        "es:t": "Serbia | Belgrade",
+        "de": "Lazarevac",
+        "de:t": "Serbien | Belgrade"
+    },
+    {
+        "en": "Leskovac",
+        "en:t": "Serbia | Jablanica",
+        "a": true,
+        "g": {
+            "lat": 42.9964,
+            "lon": 21.944
+        },
+        "it": "Leskovac",
+        "it:t": "Serbia | Jablanica",
+        "es": "Leskovac",
+        "es:t": "Serbia | Jablanica",
+        "de": "Leskovac",
+        "de:t": "Serbien | Jablanica"
+    },
+    {
+        "en": "Negotin",
+        "en:t": "Serbia | Bor",
+        "a": true,
+        "g": {
+            "lat": 44.2289,
+            "lon": 22.5311
+        },
+        "it": "Negotin",
+        "it:t": "Serbia | Bor",
+        "es": "Negotin",
+        "es:t": "Serbia | Bor",
+        "de": "Negotin",
+        "de:t": "Serbien | Bor"
+    },
+    {
+        "en": "Ni\u0161",
+        "en:t": "Serbia | Ni\u0161ava",
+        "a": true,
+        "g": {
+            "lat": 43.3209,
+            "lon": 21.8958
+        },
+        "it": "Ni\u0161",
+        "it:t": "Serbia | Ni\u0161ava",
+        "es": "Ni\u0161",
+        "es:t": "Serbia | Ni\u0161ava",
+        "de": "Ni\u0161",
+        "de:t": "Serbien | Ni\u0161avski"
+    },
+    {
+        "en": "Nova Pazova",
+        "en:t": "Serbia | Srem",
+        "a": true,
+        "g": {
+            "lat": 44.9443,
+            "lon": 20.2192
+        },
+        "it": "Nova Pazova",
+        "it:t": "Serbia | Sirmia",
+        "es": "Nova Pazova",
+        "es:t": "Serbia | Srem",
+        "de": "Nova Pazova",
+        "de:t": "Serbien | Srem"
+    },
+    {
+        "en": "Novi Pazar",
+        "en:t": "Serbia | Ra\u0161ka",
+        "a": true,
+        "g": {
+            "lat": 43.1407,
+            "lon": 20.5214
+        },
+        "it": "Novi Pazar",
+        "it:t": "Serbia | Ra\u0161ka",
+        "es": "Novi Pazar",
+        "es:t": "Serbia | Ra\u0161ka",
+        "de": "Novi Pazar",
+        "de:t": "Serbien | Ra\u0161ka"
+    },
+    {
+        "en": "Novi Sad",
+        "en:t": "Serbia | South Backa",
+        "a": true,
+        "g": {
+            "lat": 45.2671,
+            "lon": 19.8335
+        },
+        "it": "Novi Sad",
+        "it:t": "Serbia | Ba\u010dka Meridionale",
+        "es": "Novi Sad",
+        "es:t": "Serbia | Ba\u010dka del Sur",
+        "de": "Novi Sad",
+        "de:t": "Serbien | Ju\u017ena Ba\u010dka"
+    },
+    {
+        "en": "Obrenovac",
+        "en:t": "Serbia | Belgrade",
+        "a": true,
+        "g": {
+            "lat": 44.6625,
+            "lon": 20.2031
+        },
+        "it": "Obrenovac",
+        "it:t": "Serbia | Belgrade",
+        "es": "Obrenovac",
+        "es:t": "Serbia | Belgrade",
+        "de": "Obrenovac",
+        "de:t": "Serbien | Belgrade"
+    },
+    {
+        "en": "Pancevo",
+        "en:t": "Serbia | South Banat",
+        "a": true,
+        "g": {
+            "lat": 44.874,
+            "lon": 20.6476
+        },
+        "it": "Pan\u010devo",
+        "it:t": "Serbia | Banato Meridionale",
+        "es": "Pan\u010devo",
+        "es:t": "Serbia | Banato del Sur",
+        "de": "Pantschowa",
+        "de:t": "Serbien | Ju\u017eni Banat"
+    },
+    {
+        "en": "Pirot",
+        "en:t": "Serbia",
+        "a": true,
+        "g": {
+            "lat": 43.1557,
+            "lon": 22.5857
+        },
+        "it": "Pirot",
+        "it:t": "Serbia",
+        "es": "Pirot",
+        "es:t": "Serbia",
+        "de": "Pirot",
+        "de:t": "Serbien"
+    },
+    {
+        "en": "Po\u017earevac",
+        "en:t": "Serbia | Brani\u010devo",
+        "a": true,
+        "g": {
+            "lat": 44.6208,
+            "lon": 21.1842
+        },
+        "it": "Po\u017earevac",
+        "it:t": "Serbia | Brani\u010devo",
+        "es": "Po\u017earevac",
+        "es:t": "Serbia | Brani\u010devo",
+        "de": "Po\u017earevac",
+        "de:t": "Serbien | Brani\u010devo"
+    },
+    {
+        "en": "Prokuplje",
+        "en:t": "Serbia | Toplica",
+        "a": true,
+        "g": {
+            "lat": 43.2368,
+            "lon": 21.5916
+        },
+        "it": "Prokuplje",
+        "it:t": "Serbia | Toplica",
+        "es": "Prokuplje",
+        "es:t": "Serbia | Toplica",
+        "de": "Op\u0161tina Prokuplje",
+        "de:t": "Serbien | Toplica"
+    },
+    {
+        "en": "Ruma",
+        "en:t": "Serbia | Srem",
+        "a": true,
+        "g": {
+            "lat": 45.0079,
+            "lon": 19.8226
+        },
+        "it": "Ruma",
+        "it:t": "Serbia | Sirmia",
+        "es": "Ruma",
+        "es:t": "Serbia | Sirmia",
+        "de": "Ruma",
+        "de:t": "Serbien | Srem"
+    },
+    {
+        "en": "Senta",
+        "en:t": "Serbia | North Banat",
+        "a": true,
+        "g": {
+            "lat": 45.926,
+            "lon": 20.0781
+        },
+        "it": "Senta",
+        "it:t": "Serbia | Banato Settentrionale",
+        "es": "Senta",
+        "es:t": "Serbia | Banato del Norte",
+        "de": "Senta",
+        "de:t": "Serbien | Severni Banat"
+    },
+    {
+        "en": "Smederevo",
+        "en:t": "Serbia | Podunavlje",
+        "a": true,
+        "g": {
+            "lat": 44.6659,
+            "lon": 20.9335
+        },
+        "it": "Smederevo",
+        "it:t": "Serbia | Podunavlje",
+        "es": "Smederevo",
+        "es:t": "Serbia | Podunavlje",
+        "de": "Smederevo",
+        "de:t": "Serbien | Podunavlje"
+    },
+    {
+        "en": "Smederevska Palanka",
+        "en:t": "Serbia | Podunavlje",
+        "a": true,
+        "g": {
+            "lat": 44.3672,
+            "lon": 20.9605
+        },
+        "it": "Smederevska Palanka",
+        "it:t": "Serbia | Podunavlje",
+        "es": "Smederevska Palanka",
+        "es:t": "Serbia | Podunavlje",
+        "de": "Smederevska Palanka",
+        "de:t": "Serbien | Podunavlje"
+    },
+    {
+        "en": "Sombor",
+        "en:t": "Serbia | West Ba\u010dka",
+        "a": true,
+        "g": {
+            "lat": 45.7733,
+            "lon": 19.1151
+        },
+        "it": "Sombor",
+        "it:t": "Serbia | Ba\u010dka Occidentale",
+        "es": "Sombor",
+        "es:t": "Serbia | Ba\u010dka del Oeste",
+        "de": "Sombor",
+        "de:t": "Serbien | Zapadna Ba\u010dka"
+    },
+    {
+        "en": "Sremska Mitrovica",
+        "en:t": "Serbia | Srem",
+        "a": true,
+        "g": {
+            "lat": 44.9795,
+            "lon": 19.621
+        },
+        "it": "Sremska Mitrovica",
+        "it:t": "Serbia | Sirmia",
+        "es": "Sremska Mitrovica",
+        "es:t": "Serbia | Sirmia",
+        "de": "Sremska Mitrovica",
+        "de:t": "Serbien | Srem"
+    },
+    {
+        "en": "Srem\u010dica",
+        "en:t": "Serbia | Belgrade",
+        "a": true,
+        "g": {
+            "lat": 44.676,
+            "lon": 20.3919
+        },
+        "it": "Srem\u010dica",
+        "it:t": "Serbia | Belgrade",
+        "es": "Srem\u010dica",
+        "es:t": "Serbia | Belgrade",
+        "de": "Srem\u010dica",
+        "de:t": "Serbien | Belgrade"
+    },
+    {
+        "en": "Stara Pazova",
+        "en:t": "Serbia | Srem",
+        "a": true,
+        "g": {
+            "lat": 44.9856,
+            "lon": 20.1569
+        },
+        "it": "Stara Pazova",
+        "it:t": "Serbia | Sirmia",
+        "es": "Stara Pazova",
+        "es:t": "Serbia | Sirmia",
+        "de": "Stara Pazova",
+        "de:t": "Serbien | Srem"
+    },
+    {
+        "en": "Subotica",
+        "en:t": "Serbia | North Ba\u010dka",
+        "a": true,
+        "g": {
+            "lat": 46.1005,
+            "lon": 19.6651
+        },
+        "it": "Subotica",
+        "it:t": "Serbia | Ba\u010dka Settentrionale",
+        "es": "Sub\u00f3tica",
+        "es:t": "Serbia | Ba\u010dka del Norte",
+        "de": "Subotica",
+        "de:t": "Serbien | Severna Ba\u010dka"
+    },
+    {
+        "en": "Trstenik",
+        "en:t": "Serbia | Rasina",
+        "a": true,
+        "g": {
+            "lat": 43.6174,
+            "lon": 21.0023
+        },
+        "it": "Trstenik",
+        "it:t": "Serbia | Rasina",
+        "es": "Trstenik",
+        "es:t": "Serbia | Rasina",
+        "de": "Trstenik",
+        "de:t": "Serbien | Rasina"
+    },
+    {
+        "en": "U\u017eice",
+        "en:t": "Serbia | Zlatibor",
+        "a": true,
+        "g": {
+            "lat": 43.8556,
+            "lon": 19.8425
+        },
+        "it": "U\u017eice",
+        "it:t": "Serbia | Zlatibor",
+        "es": "U\u017eice",
+        "es:t": "Serbia | Zlatibor",
+        "de": "U\u017eice",
+        "de:t": "Serbien | Zlatibor"
+    },
+    {
+        "en": "Valjevo",
+        "en:t": "Serbia | Kolubara",
+        "a": true,
+        "g": {
+            "lat": 44.2743,
+            "lon": 19.8903
+        },
+        "it": "Valjevo",
+        "it:t": "Serbia | Kolubara",
+        "es": "Valjevo",
+        "es:t": "Serbia | Kolubara",
+        "de": "Valjevo",
+        "de:t": "Serbien | Kolubara"
+    },
+    {
+        "en": "Vranje",
+        "en:t": "Serbia | P\u010dinja",
+        "a": true,
+        "g": {
+            "lat": 42.545,
+            "lon": 21.9003
+        },
+        "it": "Vranje",
+        "it:t": "Serbia | P\u010dinja",
+        "es": "Vranje",
+        "es:t": "Serbia | P\u010dinja",
+        "de": "Vranje",
+        "de:t": "Serbien | P\u010dinja"
+    },
+    {
+        "en": "Vrbas",
+        "en:t": "Serbia | South Backa",
+        "a": true,
+        "g": {
+            "lat": 45.5702,
+            "lon": 19.645
+        },
+        "it": "Vrbas",
+        "it:t": "Serbia | Ba\u010dka Meridionale",
+        "es": "Vrbas",
+        "es:t": "Serbia | Ba\u010dka del Sur",
+        "de": "Werbass",
+        "de:t": "Serbien | Ju\u017ena Ba\u010dka"
+    },
+    {
+        "en": "Vr\u0161ac",
+        "en:t": "Serbia | South Banat",
+        "a": true,
+        "g": {
+            "lat": 45.1182,
+            "lon": 21.2945
+        },
+        "it": "Vr\u0161ac",
+        "it:t": "Serbia | Banato Meridionale",
+        "es": "Vr\u0161ac",
+        "es:t": "Serbia | Banato del Sur",
+        "de": "Werschetz",
+        "de:t": "Serbien | Ju\u017eni Banat"
+    },
+    {
+        "en": "Zaje\u010dar",
+        "en:t": "Serbia | Zaje\u010dar",
+        "a": true,
+        "g": {
+            "lat": 43.9015,
+            "lon": 22.2738
+        },
+        "it": "Zaje\u010dar",
+        "it:t": "Serbia | Zaje\u010dar",
+        "es": "Zaje\u010dar",
+        "es:t": "Serbia | Zaje\u010dar",
+        "de": "Zaje\u010dar",
+        "de:t": "Serbien | Zaje\u010dar"
+    },
+    {
+        "en": "Zemun",
+        "en:t": "Serbia | Belgrade",
+        "a": true,
+        "g": {
+            "lat": 44.8532,
+            "lon": 20.3556
+        },
+        "it": "Zemun",
+        "it:t": "Serbia | Belgrado",
+        "es": "Zemun",
+        "es:t": "Serbia | Belgrado",
+        "de": "Zemun",
+        "de:t": "Serbien | Belgrad"
+    },
+    {
+        "en": "Zrenjanin",
+        "en:t": "Serbia | Central Banat",
+        "a": true,
+        "g": {
+            "lat": 45.3816,
+            "lon": 20.3686
+        },
+        "it": "Zrenjanin",
+        "it:t": "Serbia | Banato Centrale",
+        "es": "Zrenjanin",
+        "es:t": "Serbia | Banato Central",
+        "de": "Zrenjanin",
+        "de:t": "Serbien | Srednji Banat"
+    },
+    {
+        "en": "\u0106uprija",
+        "en:t": "Serbia | Pomoravlje",
+        "a": true,
+        "g": {
+            "lat": 43.9255,
+            "lon": 21.3748
+        },
+        "it": "\u0106uprija",
+        "it:t": "Serbia | Pomoravlje",
+        "es": "\u0106uprija",
+        "es:t": "Serbia | Pomoravlje",
+        "de": "Op\u0161tina \u0106uprija",
+        "de:t": "Serbien | Pomoravlje"
+    },
+    {
+        "en": "\u010ca\u010dak",
+        "en:t": "Serbia | Moravica",
+        "a": true,
+        "g": {
+            "lat": 43.8914,
+            "lon": 20.3502
+        },
+        "it": "\u010ca\u010dak",
+        "it:t": "Serbia | Moravica",
+        "es": "\u010ca\u010dak",
+        "es:t": "Serbia | Moravica",
+        "de": "\u010ca\u010dak",
+        "de:t": "Serbien | Moravica"
+    },
+    {
+        "en": "\u0160abac",
+        "en:t": "Serbia | Ma\u010dva",
+        "a": true,
+        "g": {
+            "lat": 44.7489,
+            "lon": 19.6908
+        },
+        "it": "\u0160abac",
+        "it:t": "Serbia | Ma\u010dva",
+        "es": "\u0160abac",
+        "es:t": "Serbia | Ma\u010dva",
+        "de": "\u0160abac",
+        "de:t": "Serbien | Ma\u010dva"
+    }
+]

@@ -1,0 +1,197 @@
+[
+    {
+        "en": "Arawa",
+        "en:t": "Papua New Guinea | Bougainville",
+        "a": true,
+        "g": {
+            "lat": -6.2256,
+            "lon": 155.5678
+        },
+        "it": "Arawa",
+        "it:t": "Papua Nuova Guinea | Bougainville",
+        "es": "Arawa",
+        "es:t": "Pap\u00faa Nueva Guinea | Isla Bougainville",
+        "de": "Arawa",
+        "de:t": "Papua-Neuguinea | Bougainville"
+    },
+    {
+        "en": "Bulolo",
+        "en:t": "Papua New Guinea | Morobe",
+        "a": true,
+        "g": {
+            "lat": -7.2036,
+            "lon": 146.6402
+        },
+        "it": "Bulolo",
+        "it:t": "Papua Nuova Guinea | Morobe",
+        "es": "Bulolo",
+        "es:t": "Pap\u00faa Nueva Guinea | Morobe",
+        "de": "Bulolo",
+        "de:t": "Papua-Neuguinea | Morobe"
+    },
+    {
+        "en": "Daru",
+        "en:t": "Papua New Guinea | Western",
+        "a": true,
+        "g": {
+            "lat": -9.0782,
+            "lon": 143.21
+        },
+        "it": "Daru",
+        "it:t": "Papua Nuova Guinea | Occidentale",
+        "es": "Daru",
+        "es:t": "Pap\u00faa Nueva Guinea | Western",
+        "de": "Daru",
+        "de:t": "Papua-Neuguinea | Western"
+    },
+    {
+        "en": "Goroka",
+        "en:t": "Papua New Guinea | Eastern Highlands",
+        "a": true,
+        "g": {
+            "lat": -6.0835,
+            "lon": 145.3863
+        },
+        "it": "Goroka",
+        "it:t": "Papua Nuova Guinea | Highlands Orientali",
+        "es": "Goroka",
+        "es:t": "Pap\u00faa Nueva Guinea | Tierras Altas Orientales",
+        "de": "Goroka",
+        "de:t": "Papua-Neuguinea | Eastern Highlands"
+    },
+    {
+        "en": "Kimbe",
+        "en:t": "Papua New Guinea | Talasea",
+        "a": true,
+        "g": {
+            "lat": -5.5512,
+            "lon": 150.1387
+        },
+        "it": "Kimbe",
+        "it:t": "Papua Nuova Guinea | Talasea",
+        "es": "Kimbe",
+        "es:t": "Pap\u00faa Nueva Guinea | Talasea",
+        "de": "Kimbe",
+        "de:t": "Papua-Neuguinea | Talasea"
+    },
+    {
+        "en": "Kokopo",
+        "en:t": "Papua New Guinea | Kokopo",
+        "a": true,
+        "g": {
+            "lat": -4.35,
+            "lon": 152.2715
+        },
+        "it": "Kokopo",
+        "it:t": "Papua Nuova Guinea | Kokopo",
+        "es": "Kokopo",
+        "es:t": "Pap\u00faa Nueva Guinea | Kokopo",
+        "de": "Kokopo",
+        "de:t": "Papua-Neuguinea | Kokopo"
+    },
+    {
+        "en": "Lae",
+        "en:t": "Papua New Guinea",
+        "a": true,
+        "g": {
+            "lat": -6.7155,
+            "lon": 146.9999
+        },
+        "it": "Lae",
+        "it:t": "Papua Nuova Guinea",
+        "es": "Lae",
+        "es:t": "Pap\u00faa Nueva Guinea",
+        "de": "Lae",
+        "de:t": "Papua-Neuguinea"
+    },
+    {
+        "en": "Madang",
+        "en:t": "Papua New Guinea",
+        "a": true,
+        "g": {
+            "lat": -5.2219,
+            "lon": 145.7856
+        },
+        "it": "Madang",
+        "it:t": "Papua Nuova Guinea",
+        "es": "Madang",
+        "es:t": "Pap\u00faa Nueva Guinea",
+        "de": "Madang",
+        "de:t": "Papua-Neuguinea"
+    },
+    {
+        "en": "Mendi",
+        "en:t": "Papua New Guinea | Mendi-Munihu",
+        "a": true,
+        "g": {
+            "lat": -6.1494,
+            "lon": 143.6475
+        },
+        "it": "Mendi",
+        "it:t": "Papua Nuova Guinea | Mendi",
+        "es": "Mendi",
+        "es:t": "Pap\u00faa Nueva Guinea | Mendi-Munihu",
+        "de": "Mendi",
+        "de:t": "Papua-Neuguinea | Mendi-Munihu"
+    },
+    {
+        "en": "Mount Hagen",
+        "en:t": "Papua New Guinea | Dei",
+        "a": true,
+        "g": {
+            "lat": -5.8582,
+            "lon": 144.2429
+        },
+        "it": "Mount Hagen",
+        "it:t": "Papua Nuova Guinea | Dei",
+        "es": "Mount Hagen",
+        "es:t": "Pap\u00faa Nueva Guinea | Dei",
+        "de": "Mount Hagen",
+        "de:t": "Papua-Neuguinea | Dei"
+    },
+    {
+        "en": "Popondetta",
+        "en:t": "Papua New Guinea | Sohe",
+        "a": true,
+        "g": {
+            "lat": -8.7613,
+            "lon": 148.2377
+        },
+        "it": "Popondetta",
+        "it:t": "Papua Nuova Guinea | Sohe",
+        "es": "Popondetta",
+        "es:t": "Pap\u00faa Nueva Guinea | Sohe",
+        "de": "Popondetta",
+        "de:t": "Papua-Neuguinea | Sohe"
+    },
+    {
+        "en": "Port Moresby",
+        "en:t": "Papua New Guinea | National Capital",
+        "a": true,
+        "g": {
+            "lat": -9.4438,
+            "lon": 147.1803
+        },
+        "it": "Port Moresby",
+        "it:t": "Papua Nuova Guinea | Capitale Nazionale",
+        "es": "Puerto Moresby",
+        "es:t": "Pap\u00faa Nueva Guinea | Capital Nacional",
+        "de": "Port Moresby",
+        "de:t": "Papua-Neuguinea | National Capital"
+    },
+    {
+        "en": "Wewak",
+        "en:t": "Papua New Guinea",
+        "a": true,
+        "g": {
+            "lat": -3.58,
+            "lon": 143.6583
+        },
+        "it": "Wewak",
+        "it:t": "Papua Nuova Guinea",
+        "es": "Wewak",
+        "es:t": "Pap\u00faa Nueva Guinea",
+        "de": "Wewak",
+        "de:t": "Papua-Neuguinea"
+    }
+]

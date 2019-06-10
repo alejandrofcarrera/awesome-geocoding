@@ -1,0 +1,737 @@
+[
+    {
+        "en": "Ambalangoda",
+        "en:t": "Sri Lanka | Galle",
+        "a": true,
+        "g": {
+            "lat": 6.2442,
+            "lon": 80.0591
+        },
+        "it": "Ambalangoda",
+        "it:t": "Sri Lanka | Galle",
+        "es": "Ambalangoda",
+        "es:t": "Sri Lanka | Galle",
+        "de": "Ambalangoda",
+        "de:t": "Sri Lanka | Galle"
+    },
+    {
+        "en": "Ampara",
+        "en:t": "Sri Lanka",
+        "a": true,
+        "g": {
+            "lat": 7.3018,
+            "lon": 81.6747
+        },
+        "it": "Ampara",
+        "it:t": "Sri Lanka",
+        "es": "Ampara",
+        "es:t": "Sri Lanka",
+        "de": "Ampara",
+        "de:t": "Sri Lanka"
+    },
+    {
+        "en": "Anuradhapura",
+        "en:t": "Sri Lanka",
+        "a": true,
+        "g": {
+            "lat": 8.3114,
+            "lon": 80.4037
+        },
+        "it": "Anuradhapura",
+        "it:t": "Sri Lanka",
+        "es": "Anuradhapura",
+        "es:t": "Sri Lanka",
+        "de": "Anuradhapura",
+        "de:t": "Sri Lanka"
+    },
+    {
+        "en": "Badulla",
+        "en:t": "Sri Lanka",
+        "a": true,
+        "g": {
+            "lat": 6.9934,
+            "lon": 81.055
+        },
+        "it": "Badulla",
+        "it:t": "Sri Lanka",
+        "es": "Badulla",
+        "es:t": "Sri Lanka",
+        "de": "Badulla",
+        "de:t": "Sri Lanka"
+    },
+    {
+        "en": "Battaramulla",
+        "en:t": "Sri Lanka | Colombo",
+        "a": true,
+        "g": {
+            "lat": 6.898,
+            "lon": 79.9223
+        },
+        "it": "Battaramulla",
+        "it:t": "Sri Lanka | Colombo",
+        "es": "Battaramulla",
+        "es:t": "Sri Lanka | Colombo",
+        "de": "Battaramulla",
+        "de:t": "Sri Lanka | Colombo"
+    },
+    {
+        "en": "Batticaloa",
+        "en:t": "Sri Lanka",
+        "a": true,
+        "g": {
+            "lat": 7.731,
+            "lon": 81.6747
+        },
+        "it": "Batticaloa",
+        "it:t": "Sri Lanka",
+        "es": "Batticaloa",
+        "es:t": "Sri Lanka",
+        "de": "Batticaloa",
+        "de:t": "Sri Lanka"
+    },
+    {
+        "en": "Bentota",
+        "en:t": "Sri Lanka | Galle",
+        "a": true,
+        "g": {
+            "lat": 6.4189,
+            "lon": 80.006
+        },
+        "it": "Bentota",
+        "it:t": "Sri Lanka | Galle",
+        "es": "Bentota",
+        "es:t": "Sri Lanka | Galle",
+        "de": "Bentota",
+        "de:t": "Sri Lanka | Galle"
+    },
+    {
+        "en": "Beruwala",
+        "en:t": "Sri Lanka | Kalutara",
+        "a": true,
+        "g": {
+            "lat": 6.4738,
+            "lon": 79.992
+        },
+        "it": "Beruwala",
+        "it:t": "Sri Lanka | Kalutara",
+        "es": "Beruwala",
+        "es:t": "Sri Lanka | Kalutara",
+        "de": "Beruwala",
+        "de:t": "Sri Lanka | Kalutara"
+    },
+    {
+        "en": "Chilaw",
+        "en:t": "Sri Lanka | Puttalam",
+        "a": true,
+        "g": {
+            "lat": 7.562,
+            "lon": 79.8017
+        },
+        "it": "Chillaw",
+        "it:t": "Sri Lanka | Puttalam",
+        "es": "Chilaw",
+        "es:t": "Sri Lanka | Puttalam",
+        "de": "Chilaw",
+        "de:t": "Sri Lanka | Puttalam"
+    },
+    {
+        "en": "Colombo",
+        "en:t": "Sri Lanka",
+        "a": true,
+        "g": {
+            "lat": 6.9271,
+            "lon": 79.8612
+        },
+        "it": "Colombo",
+        "it:t": "Sri Lanka",
+        "es": "Colombo",
+        "es:t": "Sri Lanka",
+        "de": "Colombo",
+        "de:t": "Sri Lanka"
+    },
+    {
+        "en": "Dambulla",
+        "en:t": "Sri Lanka | Matale",
+        "a": true,
+        "g": {
+            "lat": 7.8742,
+            "lon": 80.6511
+        },
+        "it": "Dambulla",
+        "it:t": "Sri Lanka | Matale",
+        "es": "Dambulla",
+        "es:t": "Sri Lanka | Matale",
+        "de": "Dambulla",
+        "de:t": "Sri Lanka | Matale"
+    },
+    {
+        "en": "Dehiwala-Mount Lavinia",
+        "en:t": "Sri Lanka | Colombo",
+        "a": true,
+        "g": {
+            "lat": 6.8301,
+            "lon": 79.8801
+        },
+        "it": "Dehiwala-Mount Lavinia",
+        "it:t": "Sri Lanka | Colombo",
+        "es": "Dehiwala-Mount Lavinia",
+        "es:t": "Sri Lanka | Colombo",
+        "de": "Dehiwala-Mount Lavinia",
+        "de:t": "Sri Lanka | Colombo"
+    },
+    {
+        "en": "Eravur Town",
+        "en:t": "Sri Lanka | Eravur",
+        "a": true,
+        "g": {
+            "lat": 7.7754,
+            "lon": 81.6062
+        },
+        "it": "Eravur",
+        "it:t": "Sri Lanka | Batticaloa",
+        "es": "Eravur",
+        "es:t": "Sri Lanka | Batticaloa",
+        "de": "Eravur",
+        "de:t": "Sri Lanka | Batticaloa"
+    },
+    {
+        "en": "Galle",
+        "en:t": "Sri Lanka",
+        "a": true,
+        "g": {
+            "lat": 6.0535,
+            "lon": 80.221
+        },
+        "it": "Galle",
+        "it:t": "Sri Lanka",
+        "es": "Galle",
+        "es:t": "Sri Lanka",
+        "de": "Galle",
+        "de:t": "Sri Lanka"
+    },
+    {
+        "en": "Gampola",
+        "en:t": "Sri Lanka | Kandy",
+        "a": true,
+        "g": {
+            "lat": 7.1268,
+            "lon": 80.5647
+        },
+        "it": "Gampola",
+        "it:t": "Sri Lanka | Kandy",
+        "es": "Gampola",
+        "es:t": "Sri Lanka | Kandy",
+        "de": "Gampola",
+        "de:t": "Sri Lanka | Kandy"
+    },
+    {
+        "en": "Hanwella Ihala",
+        "en:t": "Sri Lanka | Hanwella",
+        "a": true,
+        "g": {
+            "lat": 6.8853,
+            "lon": 80.0835
+        },
+        "it": "Hanwella Ihala",
+        "it:t": "Sri Lanka | Hanwella",
+        "es": "Hanwella Ihala",
+        "es:t": "Sri Lanka | Hanwella",
+        "de": "Hanwella Ihala",
+        "de:t": "Sri Lanka | Hanwella"
+    },
+    {
+        "en": "Hatton",
+        "en:t": "Sri Lanka | Nuwara Eliya",
+        "a": true,
+        "g": {
+            "lat": 6.9003,
+            "lon": 80.5966
+        },
+        "it": "Hatton",
+        "it:t": "Sri Lanka | Nuwara Eliya",
+        "es": "Hatton",
+        "es:t": "Sri Lanka | Nuwara Eliya",
+        "de": "Hatton",
+        "de:t": "Sri Lanka | Nuwara Eliya"
+    },
+    {
+        "en": "Hendala Road",
+        "en:t": "Sri Lanka",
+        "a": true,
+        "g": {
+            "lat": 6.9956,
+            "lon": 79.8833
+        },
+        "it": "Hendala Road",
+        "it:t": "Sri Lanka",
+        "es": "Hendala Road",
+        "es:t": "Sri Lanka",
+        "de": "Hendala Road",
+        "de:t": "Sri Lanka"
+    },
+    {
+        "en": "Homagama",
+        "en:t": "Sri Lanka | Colombo",
+        "a": true,
+        "g": {
+            "lat": 6.8433,
+            "lon": 80.0032
+        },
+        "it": "Homagama",
+        "it:t": "Sri Lanka | Colombo",
+        "es": "Homagama",
+        "es:t": "Sri Lanka | Colombo",
+        "de": "Homagama",
+        "de:t": "Sri Lanka | Colombo"
+    },
+    {
+        "en": "Ja-Ela",
+        "en:t": "Sri Lanka | Gampaha",
+        "a": true,
+        "g": {
+            "lat": 7.0745,
+            "lon": 79.9137
+        },
+        "it": "Ja-Ela",
+        "it:t": "Sri Lanka | Gampaha",
+        "es": "Ja-Ela",
+        "es:t": "Sri Lanka | Gampaha",
+        "de": "Ja-Ela",
+        "de:t": "Sri Lanka | Gampaha"
+    },
+    {
+        "en": "Jaffna",
+        "en:t": "Sri Lanka",
+        "a": true,
+        "g": {
+            "lat": 9.6615,
+            "lon": 80.0255
+        },
+        "it": "Jaffna",
+        "it:t": "Sri Lanka",
+        "es": "Jaffna",
+        "es:t": "Sri Lanka",
+        "de": "Jaffna",
+        "de:t": "Sri Lanka"
+    },
+    {
+        "en": "Kalmunai",
+        "en:t": "Sri Lanka | Ampara",
+        "a": true,
+        "g": {
+            "lat": 7.4144,
+            "lon": 81.8306
+        },
+        "it": "Kalmunai",
+        "it:t": "Sri Lanka | Ampara",
+        "es": "Kalmunai",
+        "es:t": "Sri Lanka | Ampara",
+        "de": "Kalmunai",
+        "de:t": "Sri Lanka | Ampara"
+    },
+    {
+        "en": "Kalutara",
+        "en:t": "Sri Lanka",
+        "a": true,
+        "g": {
+            "lat": 6.5854,
+            "lon": 79.9607
+        },
+        "it": "Kalutara",
+        "it:t": "Sri Lanka",
+        "es": "Kalutara",
+        "es:t": "Sri Lanka",
+        "de": "Kalutara",
+        "de:t": "Sri Lanka"
+    },
+    {
+        "en": "Kandana",
+        "en:t": "Sri Lanka | Gampaha",
+        "a": true,
+        "g": {
+            "lat": 7.0419,
+            "lon": 79.8801
+        },
+        "it": "Kandana",
+        "it:t": "Sri Lanka | Gampaha",
+        "es": "Kandana",
+        "es:t": "Sri Lanka | Gampaha",
+        "de": "Kandana",
+        "de:t": "Sri Lanka | Gampaha"
+    },
+    {
+        "en": "Kandy",
+        "en:t": "Sri Lanka",
+        "a": true,
+        "g": {
+            "lat": 7.2906,
+            "lon": 80.6337
+        },
+        "it": "Kandy",
+        "it:t": "Sri Lanka",
+        "es": "Kandy",
+        "es:t": "Sri Lanka",
+        "de": "Kandy",
+        "de:t": "Sri Lanka"
+    },
+    {
+        "en": "Katunayake",
+        "en:t": "Sri Lanka | Gampaha",
+        "a": true,
+        "g": {
+            "lat": 7.1725,
+            "lon": 79.8853
+        },
+        "it": "Katunayake",
+        "it:t": "Sri Lanka | Gampaha",
+        "es": "Katunayake",
+        "es:t": "Sri Lanka | Gampaha",
+        "de": "Katunayake",
+        "de:t": "Sri Lanka | Gampaha"
+    },
+    {
+        "en": "Kelaniya",
+        "en:t": "Sri Lanka | Sinharamulla",
+        "a": true,
+        "g": {
+            "lat": 6.9518,
+            "lon": 79.9133
+        },
+        "it": "Kelaniya",
+        "it:t": "Sri Lanka | Sinharamulla",
+        "es": "Kelaniya",
+        "es:t": "Sri Lanka | Sinharamulla",
+        "de": "Kelaniya",
+        "de:t": "Sri Lanka | Sinharamulla"
+    },
+    {
+        "en": "Kolonnawa",
+        "en:t": "Sri Lanka | Colombo",
+        "a": true,
+        "g": {
+            "lat": 6.9284,
+            "lon": 79.895
+        },
+        "it": "Kolonnawa",
+        "it:t": "Sri Lanka | Colombo",
+        "es": "Kolonnawa",
+        "es:t": "Sri Lanka | Colombo",
+        "de": "Kolonnawa",
+        "de:t": "Sri Lanka | Colombo"
+    },
+    {
+        "en": "Kotikawatta",
+        "en:t": "Sri Lanka | Colombo",
+        "a": true,
+        "g": {
+            "lat": 6.9345,
+            "lon": 79.906
+        },
+        "it": "Kotikawatta",
+        "it:t": "Sri Lanka | Colombo",
+        "es": "Kotikawatta",
+        "es:t": "Sri Lanka | Colombo",
+        "de": "Kotikawatta",
+        "de:t": "Sri Lanka | Colombo"
+    },
+    {
+        "en": "Kurunegala",
+        "en:t": "Sri Lanka",
+        "a": true,
+        "g": {
+            "lat": 7.473,
+            "lon": 80.3547
+        },
+        "it": "Kurunegala",
+        "it:t": "Sri Lanka",
+        "es": "Kurunegala",
+        "es:t": "Sri Lanka",
+        "de": "Kurunegala",
+        "de:t": "Sri Lanka"
+    },
+    {
+        "en": "Maharagama",
+        "en:t": "Sri Lanka | Colombo",
+        "a": true,
+        "g": {
+            "lat": 6.8522,
+            "lon": 79.9249
+        },
+        "it": "Maharagama",
+        "it:t": "Sri Lanka | Colombo",
+        "es": "Maharagama",
+        "es:t": "Sri Lanka | Colombo",
+        "de": "Maharagama",
+        "de:t": "Sri Lanka | Colombo"
+    },
+    {
+        "en": "Matara",
+        "en:t": "Sri Lanka",
+        "a": true,
+        "g": {
+            "lat": 5.9549,
+            "lon": 80.555
+        },
+        "it": "Matara",
+        "it:t": "Sri Lanka",
+        "es": "Matara",
+        "es:t": "Sri Lanka",
+        "de": "Matara",
+        "de:t": "Sri Lanka"
+    },
+    {
+        "en": "Moratuwa",
+        "en:t": "Sri Lanka | Colombo",
+        "a": true,
+        "g": {
+            "lat": 6.7881,
+            "lon": 79.8913
+        },
+        "it": "Moratuwa",
+        "it:t": "Sri Lanka | Colombo",
+        "es": "Moratuwa",
+        "es:t": "Sri Lanka | Colombo",
+        "de": "Moratuwa",
+        "de:t": "Sri Lanka | Colombo"
+    },
+    {
+        "en": "Mulleriyawa South",
+        "en:t": "Sri Lanka | Angoda",
+        "a": true,
+        "g": {
+            "lat": 6.934,
+            "lon": 79.9287
+        },
+        "it": "Mulleriyawa South",
+        "it:t": "Sri Lanka | Angoda",
+        "es": "Mulleriyawa South",
+        "es:t": "Sri Lanka | Angoda",
+        "de": "Mulleriyawa South",
+        "de:t": "Sri Lanka | Angoda"
+    },
+    {
+        "en": "Negombo",
+        "en:t": "Sri Lanka | Gampaha",
+        "a": true,
+        "g": {
+            "lat": 7.2008,
+            "lon": 79.8737
+        },
+        "it": "Negombo",
+        "it:t": "Sri Lanka | Gampaha",
+        "es": "Negombo",
+        "es:t": "Sri Lanka | Gampaha",
+        "de": "Negombo",
+        "de:t": "Sri Lanka | Gampaha"
+    },
+    {
+        "en": "Nuwara Eliya",
+        "en:t": "Sri Lanka",
+        "a": true,
+        "g": {
+            "lat": 6.9497,
+            "lon": 80.7891
+        },
+        "it": "Nuwara Eliya",
+        "it:t": "Sri Lanka",
+        "es": "Nuwara Eliya",
+        "es:t": "Sri Lanka",
+        "de": "Nuwara Eliya",
+        "de:t": "Sri Lanka"
+    },
+    {
+        "en": "Panadura",
+        "en:t": "Sri Lanka | Kalutara",
+        "a": true,
+        "g": {
+            "lat": 6.7202,
+            "lon": 79.9305
+        },
+        "it": "Panadura",
+        "it:t": "Sri Lanka | Kalutara",
+        "es": "Panadura",
+        "es:t": "Sri Lanka | Kalutara",
+        "de": "Panadura",
+        "de:t": "Sri Lanka | Kalutara"
+    },
+    {
+        "en": "Peliyagoda",
+        "en:t": "Sri Lanka | Gampaha",
+        "a": true,
+        "g": {
+            "lat": 6.9581,
+            "lon": 79.9249
+        },
+        "it": "Peliyagoda",
+        "it:t": "Sri Lanka | Gampaha",
+        "es": "Peliyagoda",
+        "es:t": "Sri Lanka | Gampaha",
+        "de": "Peliyagoda",
+        "de:t": "Sri Lanka | Gampaha"
+    },
+    {
+        "en": "Pita Kotte",
+        "en:t": "Sri Lanka | Sri Jayawardenepura Kotte",
+        "a": true,
+        "g": {
+            "lat": 6.8809,
+            "lon": 79.9053
+        },
+        "it": "Pita Kotte",
+        "it:t": "Sri Lanka | Sri Jayawardenepura Kotte",
+        "es": "Pita Kotte",
+        "es:t": "Sri Lanka | Sri Jayawardenepura Kotte",
+        "de": "Pita Kotte",
+        "de:t": "Sri Lanka | Sri Jayawardenepura Kotte"
+    },
+    {
+        "en": "Point Pedro",
+        "en:t": "Sri Lanka | Jaffna",
+        "a": true,
+        "g": {
+            "lat": 9.7938,
+            "lon": 80.221
+        },
+        "it": "Point Pedro",
+        "it:t": "Sri Lanka | Jaffna",
+        "es": "Point Pedro",
+        "es:t": "Sri Lanka | Jaffna",
+        "de": "Point Pedro",
+        "de:t": "Sri Lanka | Jaffna"
+    },
+    {
+        "en": "Puttalam",
+        "en:t": "Sri Lanka",
+        "a": true,
+        "g": {
+            "lat": 8.0408,
+            "lon": 79.8394
+        },
+        "it": "Puttalam",
+        "it:t": "Sri Lanka",
+        "es": "Puttalam",
+        "es:t": "Sri Lanka",
+        "de": "Puttalam",
+        "de:t": "Sri Lanka"
+    },
+    {
+        "en": "Ratnapura",
+        "en:t": "Sri Lanka",
+        "a": true,
+        "g": {
+            "lat": 6.7056,
+            "lon": 80.3847
+        },
+        "it": "Ratnapura",
+        "it:t": "Sri Lanka",
+        "es": "Ratnapura",
+        "es:t": "Sri Lanka",
+        "de": "Ratnapura",
+        "de:t": "Sri Lanka"
+    },
+    {
+        "en": "Sri Jayawardenepura Kotte",
+        "en:t": "Sri Lanka | Colombo",
+        "a": true,
+        "g": {
+            "lat": 6.8868,
+            "lon": 79.9187
+        },
+        "it": "Sri Jayawardenapura Kotte",
+        "it:t": "Sri Lanka | Colombo",
+        "es": "Sri Jayawardenapura Kotte",
+        "es:t": "Sri Lanka | Colombo",
+        "de": "Sri Jayewardenepura",
+        "de:t": "Sri Lanka | Colombo"
+    },
+    {
+        "en": "Trincomalee",
+        "en:t": "Sri Lanka",
+        "a": true,
+        "g": {
+            "lat": 8.5874,
+            "lon": 81.2152
+        },
+        "it": "Trincomalee",
+        "it:t": "Sri Lanka",
+        "es": "Trincomalee",
+        "es:t": "Sri Lanka",
+        "de": "Trincomalee",
+        "de:t": "Sri Lanka"
+    },
+    {
+        "en": "Valvettithurai",
+        "en:t": "Sri Lanka | Jaffna",
+        "a": true,
+        "g": {
+            "lat": 9.8149,
+            "lon": 80.1661
+        },
+        "it": "Valvettithurai",
+        "it:t": "Sri Lanka | Jaffna",
+        "es": "Valvettithurai",
+        "es:t": "Sri Lanka | Jaffna",
+        "de": "Valvettithurai",
+        "de:t": "Sri Lanka | Jaffna"
+    },
+    {
+        "en": "Vavuniya",
+        "en:t": "Sri Lanka",
+        "a": true,
+        "g": {
+            "lat": 8.7542,
+            "lon": 80.4982
+        },
+        "it": "Vavuniya",
+        "it:t": "Sri Lanka",
+        "es": "Vavuniya",
+        "es:t": "Sri Lanka",
+        "de": "Vavuniya",
+        "de:t": "Sri Lanka"
+    },
+    {
+        "en": "Wattala",
+        "en:t": "Sri Lanka | Gampaha",
+        "a": true,
+        "g": {
+            "lat": 6.9907,
+            "lon": 79.8932
+        },
+        "it": "Wattala",
+        "it:t": "Sri Lanka | Gampaha",
+        "es": "Wattala",
+        "es:t": "Sri Lanka | Gampaha",
+        "de": "Wattala",
+        "de:t": "Sri Lanka | Gampaha"
+    },
+    {
+        "en": "Weligama",
+        "en:t": "Sri Lanka | Matara",
+        "a": true,
+        "g": {
+            "lat": 5.9774,
+            "lon": 80.4288
+        },
+        "it": "Weligama",
+        "it:t": "Sri Lanka | Matara",
+        "es": "Weligama",
+        "es:t": "Sri Lanka | Matara",
+        "de": "Weligama",
+        "de:t": "Sri Lanka | Matara"
+    },
+    {
+        "en": "Welisara",
+        "en:t": "Sri Lanka | Gampaha",
+        "a": true,
+        "g": {
+            "lat": 7.0278,
+            "lon": 79.8983
+        },
+        "it": "Welisara",
+        "it:t": "Sri Lanka | Gampaha",
+        "es": "Welisara",
+        "es:t": "Sri Lanka | Gampaha",
+        "de": "Welisara",
+        "de:t": "Sri Lanka | Gampaha"
+    }
+]

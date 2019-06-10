@@ -1,0 +1,197 @@
+[
+    {
+        "en": "Abu Dhabi",
+        "en:t": "United Arab Emirates",
+        "a": true,
+        "g": {
+            "lat": 24.4539,
+            "lon": 54.3773
+        },
+        "it": "Abu Dhabi",
+        "it:t": "Emirati Arabi Uniti",
+        "es": "Abu Dabi",
+        "es:t": "Emiratos \u00c1rabes Unidos",
+        "de": "Abu Dhabi",
+        "de:t": "Vereinigte Arabische Emirate"
+    },
+    {
+        "en": "Ajman",
+        "en:t": "United Arab Emirates",
+        "a": true,
+        "g": {
+            "lat": 25.4052,
+            "lon": 55.5136
+        },
+        "it": "Ajman",
+        "it:t": "Emirati Arabi Uniti",
+        "es": "Ajm\u00e1n",
+        "es:t": "Emiratos \u00c1rabes Unidos",
+        "de": "Adschman",
+        "de:t": "Vereinigte Arabische Emirate"
+    },
+    {
+        "en": "Al Ain",
+        "en:t": "United Arab Emirates | Eastern",
+        "a": true,
+        "g": {
+            "lat": 24.1302,
+            "lon": 55.8023
+        },
+        "it": "Al Ain",
+        "it:t": "Emirati Arabi Uniti | Eastern",
+        "es": "Al Ain",
+        "es:t": "Emiratos \u00c1rabes Unidos | Eastern",
+        "de": "al-Ain",
+        "de:t": "Vereinigte Arabische Emirate | Eastern"
+    },
+    {
+        "en": "Al Dhaid",
+        "en:t": "United Arab Emirates | Sharjah",
+        "a": true,
+        "g": {
+            "lat": 25.3148,
+            "lon": 55.9581
+        },
+        "it": "Al Dhaid",
+        "it:t": "Emirati Arabi Uniti | Sharjah",
+        "es": "Al Dhaid",
+        "es:t": "Emiratos \u00c1rabes Unidos | Sharjah",
+        "de": "Al Dhaid",
+        "de:t": "Vereinigte Arabische Emirate | Sharjah"
+    },
+    {
+        "en": "Al Ruwais",
+        "en:t": "United Arab Emirates | Al Gharbia",
+        "a": true,
+        "g": {
+            "lat": 24.0949,
+            "lon": 52.7508
+        },
+        "it": "Al Ruwais",
+        "it:t": "Emirati Arabi Uniti | Al Gharbia",
+        "es": "Al Ruwais",
+        "es:t": "Emiratos \u00c1rabes Unidos | Al Gharbia",
+        "de": "Ruwais",
+        "de:t": "Vereinigte Arabische Emirate | Al Gharbia"
+    },
+    {
+        "en": "Dibba Al Fujairah",
+        "en:t": "United Arab Emirates | Fujairah",
+        "a": true,
+        "g": {
+            "lat": 25.5911,
+            "lon": 56.2594
+        },
+        "it": "Dibba Al-Fujairah",
+        "it:t": "Emirati Arabi Uniti | Fujaira",
+        "es": "Dibba Al Fujairah",
+        "es:t": "Emiratos \u00c1rabes Unidos | Fujairah",
+        "de": "Dibba",
+        "de:t": "Vereinigte Arabische Emirate | Fudschaira"
+    },
+    {
+        "en": "Dibba Al Hisn",
+        "en:t": "United Arab Emirates | Fujairah",
+        "a": true,
+        "g": {
+            "lat": 25.6182,
+            "lon": 56.2734
+        },
+        "it": "Dib\u0101",
+        "it:t": "Emirati Arabi Uniti | Fujaira",
+        "es": "Dibba Al Hisn",
+        "es:t": "Emiratos \u00c1rabes Unidos | Fujairah",
+        "de": "Dibba",
+        "de:t": "Vereinigte Arabische Emirate | Fudschaira"
+    },
+    {
+        "en": "Dubai",
+        "en:t": "United Arab Emirates",
+        "a": true,
+        "g": {
+            "lat": 25.2048,
+            "lon": 55.2708
+        },
+        "it": "Dubai",
+        "it:t": "Emirati Arabi Uniti",
+        "es": "Dub\u00e1i",
+        "es:t": "Emiratos \u00c1rabes Unidos",
+        "de": "Dubai",
+        "de:t": "Vereinigte Arabische Emirate"
+    },
+    {
+        "en": "Fujairah",
+        "en:t": "United Arab Emirates",
+        "a": true,
+        "g": {
+            "lat": 25.4111,
+            "lon": 56.2482
+        },
+        "it": "Fujaira",
+        "it:t": "Emirati Arabi Uniti",
+        "es": "Emirato de Fuyaira",
+        "es:t": "Emiratos \u00c1rabes Unidos",
+        "de": "Fudschaira",
+        "de:t": "Vereinigte Arabische Emirate"
+    },
+    {
+        "en": "Khor Fakkan",
+        "en:t": "United Arab Emirates | Sharjah",
+        "a": true,
+        "g": {
+            "lat": 25.3366,
+            "lon": 56.3433
+        },
+        "it": "Khawr Fakk\u0101n",
+        "it:t": "Emirati Arabi Uniti | Sharja",
+        "es": "Khor Fakkan",
+        "es:t": "Emiratos \u00c1rabes Unidos | Sarja",
+        "de": "Chaur Fakkan",
+        "de:t": "Vereinigte Arabische Emirate | Schardscha"
+    },
+    {
+        "en": "Ras Al-Khaimah",
+        "en:t": "United Arab Emirates | Ras al Khaimah",
+        "a": true,
+        "g": {
+            "lat": 25.8007,
+            "lon": 55.9762
+        },
+        "it": "Ras al-Khaima",
+        "it:t": "Emirati Arabi Uniti | Ras al-Khaima",
+        "es": "Ras al-Khaimah",
+        "es:t": "Emiratos \u00c1rabes Unidos",
+        "de": "Ra's al-Chaima",
+        "de:t": "Vereinigte Arabische Emirate | Ra\u2019s al-Chaima"
+    },
+    {
+        "en": "Sharjah",
+        "en:t": "United Arab Emirates",
+        "a": true,
+        "g": {
+            "lat": 25.3463,
+            "lon": 55.4209
+        },
+        "it": "Sharja",
+        "it:t": "Emirati Arabi Uniti",
+        "es": "Sarja",
+        "es:t": "Emiratos \u00c1rabes Unidos",
+        "de": "Schardscha",
+        "de:t": "Vereinigte Arabische Emirate"
+    },
+    {
+        "en": "Umm Al Quawain",
+        "en:t": "United Arab Emirates",
+        "a": true,
+        "g": {
+            "lat": 25.5205,
+            "lon": 55.7134
+        },
+        "it": "Umm al-Qaywayn",
+        "it:t": "Emirati Arabi Uniti",
+        "es": "Umm al-Qaywayn",
+        "es:t": "Emiratos \u00c1rabes Unidos",
+        "de": "Umm al-Qaiwain",
+        "de:t": "Vereinigte Arabische Emirate"
+    }
+]

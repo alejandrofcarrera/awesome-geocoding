@@ -1,0 +1,17 @@
+[
+    {
+        "en": "Vaduz",
+        "en:t": "Liechtenstein",
+        "a": true,
+        "g": {
+            "lat": 47.141,
+            "lon": 9.5209
+        },
+        "it": "Vaduz",
+        "it:t": "Liechtenstein",
+        "es": "Vaduz",
+        "es:t": "Liechtenstein",
+        "de": "Vaduz",
+        "de:t": "Liechtenstein"
+    }
+]

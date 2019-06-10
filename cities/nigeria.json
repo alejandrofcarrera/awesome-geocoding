@@ -1,0 +1,3587 @@
+[
+    {
+        "en": "Aba",
+        "en:t": "Nigeria | Abia",
+        "a": true,
+        "g": {
+            "lat": 5.1216,
+            "lon": 7.3733
+        },
+        "it": "Aba",
+        "it:t": "Nigeria | Abia",
+        "es": "Aba",
+        "es:t": "Nigeria | Abia",
+        "de": "Aba",
+        "de:t": "Nigeria | Abia"
+    },
+    {
+        "en": "Abakaliki",
+        "en:t": "Nigeria | Ebonyi",
+        "a": true,
+        "g": {
+            "lat": 6.3231,
+            "lon": 8.112
+        },
+        "it": "Abakaliki",
+        "it:t": "Nigeria | Ebonyi",
+        "es": "Abakaliki",
+        "es:t": "Nigeria | Ebo\u00f1i",
+        "de": "Abakaliki",
+        "de:t": "Nigeria | Ebonyi"
+    },
+    {
+        "en": "Abeokuta",
+        "en:t": "Nigeria | Ogun",
+        "a": true,
+        "g": {
+            "lat": 7.1475,
+            "lon": 3.3619
+        },
+        "it": "Abeokuta",
+        "it:t": "Nigeria | Ogun",
+        "es": "Abeokuta",
+        "es:t": "Nigeria | Og\u00fan",
+        "de": "Abeokuta",
+        "de:t": "Nigeria | Ogun"
+    },
+    {
+        "en": "Abuja",
+        "en:t": "Nigeria",
+        "a": true,
+        "g": {
+            "lat": 9.0765,
+            "lon": 7.3986
+        },
+        "it": "Abuja",
+        "it:t": "Nigeria",
+        "es": "Abuya",
+        "es:t": "Nigeria",
+        "de": "Abuja",
+        "de:t": "Nigeria"
+    },
+    {
+        "en": "Ado Ekiti",
+        "en:t": "Nigeria | Ekiti",
+        "a": true,
+        "g": {
+            "lat": 7.6124,
+            "lon": 5.2371
+        },
+        "it": "Ado Ekiti",
+        "it:t": "Nigeria | Ekiti",
+        "es": "Ado Ekiti",
+        "es:t": "Nigeria | Ekiti",
+        "de": "Ado Ekiti",
+        "de:t": "Nigeria | Ekiti"
+    },
+    {
+        "en": "Ado Odo/Ota",
+        "en:t": "Nigeria | Ogun",
+        "a": true,
+        "g": {
+            "lat": 6.6117,
+            "lon": 3.0576
+        },
+        "it": "Ado-Odo/Ota",
+        "it:t": "Nigeria | Ogun",
+        "es": "Ado Odo",
+        "es:t": "Nigeria | Ogun",
+        "de": "Ado Odo/Ota",
+        "de:t": "Nigeria | Ogun"
+    },
+    {
+        "en": "Afikpo",
+        "en:t": "Nigeria | Afikpo North",
+        "a": true,
+        "g": {
+            "lat": 5.8895,
+            "lon": 7.9538
+        },
+        "it": "Afikpo",
+        "it:t": "Nigeria | Afikpo North",
+        "es": "Afikpo",
+        "es:t": "Nigeria | Afikpo North",
+        "de": "Afikpo",
+        "de:t": "Nigeria | Afikpo North"
+    },
+    {
+        "en": "Agbor",
+        "en:t": "Nigeria | Ika South",
+        "a": true,
+        "g": {
+            "lat": 6.2541,
+            "lon": 6.2057
+        },
+        "it": "Agbor",
+        "it:t": "Nigeria | Ika South",
+        "es": "Agbor",
+        "es:t": "Nigeria | Ika South",
+        "de": "Agbor",
+        "de:t": "Nigeria | Ika South"
+    },
+    {
+        "en": "Agulu",
+        "en:t": "Nigeria | Anambra",
+        "a": true,
+        "g": {
+            "lat": 6.1172,
+            "lon": 7.0391
+        },
+        "it": "Agulu",
+        "it:t": "Nigeria | Anambra",
+        "es": "Agulu",
+        "es:t": "Nigeria | Anambra",
+        "de": "Agulu",
+        "de:t": "Nigeria | Anambra"
+    },
+    {
+        "en": "Ajaokuta",
+        "en:t": "Nigeria",
+        "a": true,
+        "g": {
+            "lat": 7.5394,
+            "lon": 6.6424
+        },
+        "it": "Ajaokuta",
+        "it:t": "Nigeria",
+        "es": "Ajaokuta",
+        "es:t": "Nigeria",
+        "de": "Ajaokuta",
+        "de:t": "Nigeria"
+    },
+    {
+        "en": "Aku",
+        "en:t": "Nigeria | Igbo-Etiti",
+        "a": true,
+        "g": {
+            "lat": 6.7001,
+            "lon": 7.3247
+        },
+        "it": "Aku",
+        "it:t": "Nigeria | Igbo-Etiti",
+        "es": "Aku",
+        "es:t": "Nigeria | Igbo-Etiti",
+        "de": "Aku",
+        "de:t": "Nigeria | Igbo-Etiti"
+    },
+    {
+        "en": "Akure",
+        "en:t": "Nigeria | Ondo",
+        "a": true,
+        "g": {
+            "lat": 7.2571,
+            "lon": 5.2058
+        },
+        "it": "Akure",
+        "it:t": "Nigeria | Ondo",
+        "es": "Akure",
+        "es:t": "Nigeria | Ondo",
+        "de": "Akure",
+        "de:t": "Nigeria | Ondo"
+    },
+    {
+        "en": "Akwanga",
+        "en:t": "Nigeria",
+        "a": true,
+        "g": {
+            "lat": 8.9067,
+            "lon": 8.4075
+        },
+        "it": "Akwanga",
+        "it:t": "Nigeria",
+        "es": "Akwanga",
+        "es:t": "Nigeria",
+        "de": "Akwanga",
+        "de:t": "Nigeria"
+    },
+    {
+        "en": "Amaeke",
+        "en:t": "Nigeria | Arochukwu",
+        "a": true,
+        "g": {
+            "lat": 5.557,
+            "lon": 7.6304
+        },
+        "it": "Bende",
+        "it:t": "Nigeria | Arochukwu",
+        "es": "Bende",
+        "es:t": "Nigeria | Arochukwu",
+        "de": "Amaeke",
+        "de:t": "Nigeria | Arochukwu"
+    },
+    {
+        "en": "Amaigbo",
+        "en:t": "Nigeria | Umuahia South",
+        "a": true,
+        "g": {
+            "lat": 5.4972,
+            "lon": 7.4246
+        },
+        "it": "Amaigbo",
+        "it:t": "Nigeria | Umuahia South",
+        "es": "Amaigbo",
+        "es:t": "Nigeria | Umuahia South",
+        "de": "Amaigbo",
+        "de:t": "Nigeria | Umuahia South"
+    },
+    {
+        "en": "Anchau Street",
+        "en:t": "Nigeria | Malali",
+        "a": true,
+        "g": {
+            "lat": 10.6011,
+            "lon": 7.4622
+        },
+        "it": "Anchau Street",
+        "it:t": "Nigeria | Malali",
+        "es": "Anchau Street",
+        "es:t": "Nigeria | Malali",
+        "de": "Anchau Street",
+        "de:t": "Nigeria | Malali"
+    },
+    {
+        "en": "Apomu",
+        "en:t": "Nigeria | Osun",
+        "a": true,
+        "g": {
+            "lat": 7.3484,
+            "lon": 4.1872
+        },
+        "it": "Apomu",
+        "it:t": "Nigeria | Osun",
+        "es": "Apomu",
+        "es:t": "Nigeria | Osun",
+        "de": "Apomu",
+        "de:t": "Nigeria | Osun"
+    },
+    {
+        "en": "Aramoko",
+        "en:t": "Nigeria | Ekiti West",
+        "a": true,
+        "g": {
+            "lat": 7.7066,
+            "lon": 5.0443
+        },
+        "it": "Aramoko",
+        "it:t": "Nigeria | Ekiti West",
+        "es": "Aramoko",
+        "es:t": "Nigeria | Ekiti West",
+        "de": "Aramoko",
+        "de:t": "Nigeria | Ekiti West"
+    },
+    {
+        "en": "Argungu",
+        "en:t": "Nigeria",
+        "a": true,
+        "g": {
+            "lat": 12.7495,
+            "lon": 4.5367
+        },
+        "it": "Argungu",
+        "it:t": "Nigeria",
+        "es": "Argungu",
+        "es:t": "Nigeria",
+        "de": "Argungu",
+        "de:t": "Nigeria"
+    },
+    {
+        "en": "Asaba",
+        "en:t": "Nigeria | Oshimili South",
+        "a": true,
+        "g": {
+            "lat": 6.2059,
+            "lon": 6.6959
+        },
+        "it": "Asaba",
+        "it:t": "Nigeria | Oshimili South",
+        "es": "Asaba",
+        "es:t": "Nigeria | Oshimili South",
+        "de": "Asaba",
+        "de:t": "Nigeria | Oshimili South"
+    },
+    {
+        "en": "Auchi",
+        "en:t": "Nigeria | Etsako West",
+        "a": true,
+        "g": {
+            "lat": 7.0669,
+            "lon": 6.2748
+        },
+        "it": "Auchi",
+        "it:t": "Nigeria | Etsako West",
+        "es": "Auchi",
+        "es:t": "Nigeria | Etsako West",
+        "de": "Auchi",
+        "de:t": "Nigeria | Etsako West"
+    },
+    {
+        "en": "Awgu",
+        "en:t": "Nigeria",
+        "a": true,
+        "g": {
+            "lat": 6.064,
+            "lon": 7.476
+        },
+        "it": "Awgu",
+        "it:t": "Nigeria",
+        "es": "Awgu",
+        "es:t": "Nigeria",
+        "de": "Awgu",
+        "de:t": "Nigeria"
+    },
+    {
+        "en": "Awka",
+        "en:t": "Nigeria | Awka South",
+        "a": true,
+        "g": {
+            "lat": 6.222,
+            "lon": 7.0821
+        },
+        "it": "Awka",
+        "it:t": "Nigeria | Awka South",
+        "es": "Awka",
+        "es:t": "Nigeria | Awka South",
+        "de": "Awka",
+        "de:t": "Nigeria | Awka South"
+    },
+    {
+        "en": "Azare",
+        "en:t": "Nigeria | Katagum",
+        "a": true,
+        "g": {
+            "lat": 11.6726,
+            "lon": 10.2039
+        },
+        "it": "Azare",
+        "it:t": "Nigeria | Katagum",
+        "es": "Azare",
+        "es:t": "Nigeria | Katagum",
+        "de": "Azare",
+        "de:t": "Nigeria | Katagum"
+    },
+    {
+        "en": "Babana",
+        "en:t": "Nigeria | Borgu",
+        "a": true,
+        "g": {
+            "lat": 10.4366,
+            "lon": 3.8172
+        },
+        "it": "Babana",
+        "it:t": "Nigeria | Borgu",
+        "es": "Babana",
+        "es:t": "Nigeria | Borgu",
+        "de": "Babana",
+        "de:t": "Nigeria | Borgu"
+    },
+    {
+        "en": "Badagry",
+        "en:t": "Nigeria",
+        "a": true,
+        "g": {
+            "lat": 6.4316,
+            "lon": 2.8876
+        },
+        "it": "Badagry",
+        "it:t": "Nigeria",
+        "es": "Badagry",
+        "es:t": "Nigeria",
+        "de": "Badagry",
+        "de:t": "Nigeria"
+    },
+    {
+        "en": "Bali",
+        "en:t": "Nigeria",
+        "a": true,
+        "g": {
+            "lat": 7.8533,
+            "lon": 10.9637
+        },
+        "it": "Bali",
+        "it:t": "Nigeria",
+        "es": "Bali",
+        "es:t": "Nigeria",
+        "de": "Bali",
+        "de:t": "Nigeria"
+    },
+    {
+        "en": "Bama",
+        "en:t": "Nigeria | Borno",
+        "a": true,
+        "g": {
+            "lat": 11.5218,
+            "lon": 13.6884
+        },
+        "it": "Bama",
+        "it:t": "Nigeria | Borno",
+        "es": "Bama",
+        "es:t": "Nigeria | Borno",
+        "de": "Bama",
+        "de:t": "Nigeria | Borno"
+    },
+    {
+        "en": "Baro",
+        "en:t": "Nigeria | Agaie",
+        "a": true,
+        "g": {
+            "lat": 8.6132,
+            "lon": 6.4198
+        },
+        "it": "Baro",
+        "it:t": "Nigeria | Agaie",
+        "es": "Baro",
+        "es:t": "Nigeria | Agaie",
+        "de": "Baro",
+        "de:t": "Nigeria | Agaie"
+    },
+    {
+        "en": "Bauchi",
+        "en:t": "Nigeria",
+        "a": true,
+        "g": {
+            "lat": 10.301,
+            "lon": 9.8237
+        },
+        "it": "Bauchi",
+        "it:t": "Nigeria",
+        "es": "Bauchi",
+        "es:t": "Nigeria",
+        "de": "Bauchi",
+        "de:t": "Nigeria"
+    },
+    {
+        "en": "Benin",
+        "en:t": "Nigeria | Oredo",
+        "a": true,
+        "g": {
+            "lat": 6.335,
+            "lon": 5.6037
+        },
+        "it": "Benin",
+        "it:t": "Nigeria | Oredo",
+        "es": "Benin",
+        "es:t": "Nigeria | Oredo",
+        "de": "Benin-Stadt",
+        "de:t": "Nigeria | Oredo"
+    },
+    {
+        "en": "Bida",
+        "en:t": "Nigeria | Niger",
+        "a": true,
+        "g": {
+            "lat": 9.0797,
+            "lon": 6.0097
+        },
+        "it": "Bida",
+        "it:t": "Nigeria | Niger",
+        "es": "Bida",
+        "es:t": "Nigeria | N\u00edger",
+        "de": "Bida",
+        "de:t": "Nigeria | Niger"
+    },
+    {
+        "en": "Billiri",
+        "en:t": "Nigeria | Gombe",
+        "a": true,
+        "g": {
+            "lat": 9.8514,
+            "lon": 11.1164
+        },
+        "it": "Billiri",
+        "it:t": "Nigeria | Gombe",
+        "es": "Billiri",
+        "es:t": "Nigeria | Gombe",
+        "de": "Billiri",
+        "de:t": "Nigeria | Gombe"
+    },
+    {
+        "en": "Birnin Kebbi",
+        "en:t": "Nigeria",
+        "a": true,
+        "g": {
+            "lat": 12.4318,
+            "lon": 4.1956
+        },
+        "it": "Birnin Kebbi",
+        "it:t": "Nigeria",
+        "es": "Birnin Kebbi",
+        "es:t": "Nigeria",
+        "de": "Birnin Kebbi",
+        "de:t": "Nigeria"
+    },
+    {
+        "en": "Birnin Kudu",
+        "en:t": "Nigeria",
+        "a": true,
+        "g": {
+            "lat": 11.4531,
+            "lon": 9.4756
+        },
+        "it": "Birnin Kudu",
+        "it:t": "Nigeria",
+        "es": "Birnin Kudu",
+        "es:t": "Nigeria",
+        "de": "Birnin Kudu",
+        "de:t": "Nigeria"
+    },
+    {
+        "en": "Biu",
+        "en:t": "Nigeria",
+        "a": true,
+        "g": {
+            "lat": 10.6117,
+            "lon": 12.1919
+        },
+        "it": "Biu",
+        "it:t": "Nigeria",
+        "es": "Biu",
+        "es:t": "Nigeria",
+        "de": "Biu",
+        "de:t": "Nigeria"
+    },
+    {
+        "en": "Bode-Saadu",
+        "en:t": "Nigeria | Moro",
+        "a": true,
+        "g": {
+            "lat": 9.0491,
+            "lon": 4.7071
+        },
+        "it": "Bode-Saadu",
+        "it:t": "Nigeria | Moro",
+        "es": "Bode-Saadu",
+        "es:t": "Nigeria | Moro",
+        "de": "Bode-Saadu",
+        "de:t": "Nigeria | Moro"
+    },
+    {
+        "en": "Bonny",
+        "en:t": "Nigeria | Rivers",
+        "a": true,
+        "g": {
+            "lat": 4.4142,
+            "lon": 7.1898
+        },
+        "it": "Bonny",
+        "it:t": "Nigeria | Rivers",
+        "es": "Bonny",
+        "es:t": "Nigeria | R\u00edos",
+        "de": "Bonny",
+        "de:t": "Nigeria | Rivers"
+    },
+    {
+        "en": "Buguma",
+        "en:t": "Nigeria | Asari-Toru",
+        "a": true,
+        "g": {
+            "lat": 4.7403,
+            "lon": 6.8619
+        },
+        "it": "Buguma",
+        "it:t": "Nigeria | Asari-Toru",
+        "es": "Buguma",
+        "es:t": "Nigeria | Asari-Toru",
+        "de": "Buguma",
+        "de:t": "Nigeria | Asari-Toru"
+    },
+    {
+        "en": "Bukuru",
+        "en:t": "Nigeria | Jos South",
+        "a": true,
+        "g": {
+            "lat": 9.7653,
+            "lon": 8.8597
+        },
+        "it": "Bukuru",
+        "it:t": "Nigeria | Jos South",
+        "es": "Bukuru",
+        "es:t": "Nigeria | Jos South",
+        "de": "Bukuru",
+        "de:t": "Nigeria | Jos South"
+    },
+    {
+        "en": "Burutu",
+        "en:t": "Nigeria",
+        "a": true,
+        "g": {
+            "lat": 5.351,
+            "lon": 5.5066
+        },
+        "it": "Burutu",
+        "it:t": "Nigeria",
+        "es": "Burutu",
+        "es:t": "Nigeria",
+        "de": "Burutu",
+        "de:t": "Nigeria"
+    },
+    {
+        "en": "Calabar",
+        "en:t": "Nigeria | Cross River",
+        "a": true,
+        "g": {
+            "lat": 4.9757,
+            "lon": 8.3417
+        },
+        "it": "Calabar",
+        "it:t": "Nigeria | Cross River",
+        "es": "Calabar",
+        "es:t": "Nigeria | R\u00edo Cross",
+        "de": "Calabar",
+        "de:t": "Nigeria | Cross River"
+    },
+    {
+        "en": "Damaturu",
+        "en:t": "Nigeria",
+        "a": true,
+        "g": {
+            "lat": 11.747,
+            "lon": 11.9662
+        },
+        "it": "Damaturu",
+        "it:t": "Nigeria",
+        "es": "Damaturu",
+        "es:t": "Nigeria",
+        "de": "Damaturu",
+        "de:t": "Nigeria"
+    },
+    {
+        "en": "Damboa",
+        "en:t": "Nigeria",
+        "a": true,
+        "g": {
+            "lat": 11.1561,
+            "lon": 12.7566
+        },
+        "it": "Damboa",
+        "it:t": "Nigeria",
+        "es": "Damboa",
+        "es:t": "Nigeria",
+        "de": "Damboa",
+        "de:t": "Nigeria"
+    },
+    {
+        "en": "Darazo",
+        "en:t": "Nigeria",
+        "a": true,
+        "g": {
+            "lat": 10.9965,
+            "lon": 10.4088
+        },
+        "it": "Darazo",
+        "it:t": "Nigeria",
+        "es": "Darazo",
+        "es:t": "Nigeria",
+        "de": "Darazo",
+        "de:t": "Nigeria"
+    },
+    {
+        "en": "Daura",
+        "en:t": "Nigeria | Fune",
+        "a": true,
+        "g": {
+            "lat": 11.5547,
+            "lon": 11.4073
+        },
+        "it": "Daura",
+        "it:t": "Nigeria | Fune",
+        "es": "Daura",
+        "es:t": "Nigeria | Fune",
+        "de": "Daura",
+        "de:t": "Nigeria | Fune"
+    },
+    {
+        "en": "Daura",
+        "en:t": "Nigeria | Katsina",
+        "a": true,
+        "g": {
+            "lat": 13.0315,
+            "lon": 8.3225
+        },
+        "it": "Daura",
+        "it:t": "Nigeria | Katsina",
+        "es": "Daura",
+        "es:t": "Nigeria | Katsina",
+        "de": "Daura",
+        "de:t": "Nigeria | Katsina"
+    },
+    {
+        "en": "Yamaltu/Deba",
+        "en:t": "Nigeria | Gombe",
+        "a": true,
+        "g": {
+            "lat": 10.2134,
+            "lon": 11.3866
+        },
+        "it": "Yamaltu/Deba",
+        "it:t": "Nigeria | Gombe",
+        "es": "Yamaltu/Deba",
+        "es:t": "Nigeria | Gombe",
+        "de": "Yamaltu/Deba",
+        "de:t": "Nigeria | Gombe"
+    },
+    {
+        "en": "Degema",
+        "en:t": "Nigeria | Rivers",
+        "a": true,
+        "g": {
+            "lat": 4.7695,
+            "lon": 6.7681
+        },
+        "it": "Degema",
+        "it:t": "Nigeria | Rivers",
+        "es": "Degema",
+        "es:t": "Nigeria | Rivers",
+        "de": "Degema",
+        "de:t": "Nigeria | Rivers"
+    },
+    {
+        "en": "Dikwa",
+        "en:t": "Nigeria",
+        "a": true,
+        "g": {
+            "lat": 12.042,
+            "lon": 13.9173
+        },
+        "it": "Dikwa",
+        "it:t": "Nigeria",
+        "es": "Dikwa",
+        "es:t": "Nigeria",
+        "de": "Dikwa",
+        "de:t": "Nigeria"
+    },
+    {
+        "en": "Doma",
+        "en:t": "Nigeria",
+        "a": true,
+        "g": {
+            "lat": 8.4009,
+            "lon": 8.3581
+        },
+        "it": "Doma",
+        "it:t": "Nigeria",
+        "es": "Doma",
+        "es:t": "Nigeria",
+        "de": "Doma",
+        "de:t": "Nigeria"
+    },
+    {
+        "en": "Dukku",
+        "en:t": "Nigeria",
+        "a": true,
+        "g": {
+            "lat": 10.823,
+            "lon": 10.7733
+        },
+        "it": "Dukku",
+        "it:t": "Nigeria",
+        "es": "Dukku",
+        "es:t": "Nigeria",
+        "de": "Dukku",
+        "de:t": "Nigeria"
+    },
+    {
+        "en": "Dutse",
+        "en:t": "Nigeria",
+        "a": true,
+        "g": {
+            "lat": 11.7024,
+            "lon": 9.334
+        },
+        "it": "Dutse",
+        "it:t": "Nigeria",
+        "es": "Dutse",
+        "es:t": "Nigeria",
+        "de": "Dutse",
+        "de:t": "Nigeria"
+    },
+    {
+        "en": "Dutsen Wai",
+        "en:t": "Nigeria | Kaduna",
+        "a": true,
+        "g": {
+            "lat": 10.8571,
+            "lon": 8.2022
+        },
+        "it": "Dutsen Wai",
+        "it:t": "Nigeria | Kaduna",
+        "es": "Dutsen Wai",
+        "es:t": "Nigeria | Kaduna",
+        "de": "Dutsen Wai",
+        "de:t": "Nigeria | Kaduna"
+    },
+    {
+        "en": "Effium I",
+        "en:t": "Nigeria | Ohaukwu",
+        "a": true,
+        "g": {
+            "lat": 6.6148,
+            "lon": 8.0411
+        },
+        "it": "Effium I",
+        "it:t": "Nigeria | Ohaukwu",
+        "es": "Effium I",
+        "es:t": "Nigeria | Ohaukwu",
+        "de": "Effium I",
+        "de:t": "Nigeria | Ohaukwu"
+    },
+    {
+        "en": "Efon Alaaye",
+        "en:t": "Nigeria | Efon",
+        "a": true,
+        "g": {
+            "lat": 7.654,
+            "lon": 4.9195
+        },
+        "it": "Efon Alaaye",
+        "it:t": "Nigeria | Efon",
+        "es": "Efon Alaaye",
+        "es:t": "Nigeria | Efon",
+        "de": "Efon Alaaye",
+        "de:t": "Nigeria | Efon"
+    },
+    {
+        "en": "Egbe",
+        "en:t": "Nigeria | Kogi",
+        "a": true,
+        "g": {
+            "lat": 8.2193,
+            "lon": 5.5066
+        },
+        "it": "Egbe",
+        "it:t": "Nigeria | Kogi",
+        "es": "Egbe",
+        "es:t": "Nigeria | Kogi",
+        "de": "Egbe",
+        "de:t": "Nigeria | Kogi"
+    },
+    {
+        "en": "Eha Amufu",
+        "en:t": "Nigeria | Isi-Uzo",
+        "a": true,
+        "g": {
+            "lat": 6.6615,
+            "lon": 7.7688
+        },
+        "it": "Eha Amufu",
+        "it:t": "Nigeria | Isi-Uzo",
+        "es": "Eha Amufu",
+        "es:t": "Nigeria | Isi-Uzo",
+        "de": "Eha Amufu",
+        "de:t": "Nigeria | Isi-Uzo"
+    },
+    {
+        "en": "Ejigbo",
+        "en:t": "Nigeria",
+        "a": true,
+        "g": {
+            "lat": 7.9045,
+            "lon": 4.3052
+        },
+        "it": "Ejigbo",
+        "it:t": "Nigeria",
+        "es": "Ejigbo",
+        "es:t": "Nigeria",
+        "de": "Ejigbo",
+        "de:t": "Nigeria"
+    },
+    {
+        "en": "Eket",
+        "en:t": "Nigeria",
+        "a": true,
+        "g": {
+            "lat": 4.6467,
+            "lon": 7.9429
+        },
+        "it": "Eket",
+        "it:t": "Nigeria",
+        "es": "Eket",
+        "es:t": "Nigeria",
+        "de": "Eket",
+        "de:t": "Nigeria"
+    },
+    {
+        "en": "Ekpoma",
+        "en:t": "Nigeria | Esan West",
+        "a": true,
+        "g": {
+            "lat": 6.7491,
+            "lon": 6.0732
+        },
+        "it": "Ekpoma",
+        "it:t": "Nigeria | Esan West",
+        "es": "Ekpoma",
+        "es:t": "Nigeria | Esan West",
+        "de": "Ekpoma",
+        "de:t": "Nigeria | Esan West"
+    },
+    {
+        "en": "Elele",
+        "en:t": "Nigeria | Ikwerre",
+        "a": true,
+        "g": {
+            "lat": 5.1018,
+            "lon": 6.819
+        },
+        "it": "Elele",
+        "it:t": "Nigeria | Ikwerre",
+        "es": "Elele",
+        "es:t": "Nigeria | Ikwerre",
+        "de": "Elele",
+        "de:t": "Nigeria | Ikwerre"
+    },
+    {
+        "en": "Emure Ekiti",
+        "en:t": "Nigeria | Emure",
+        "a": true,
+        "g": {
+            "lat": 7.4317,
+            "lon": 5.4621
+        },
+        "it": "Emure Ekiti",
+        "it:t": "Nigeria | Emure",
+        "es": "Emure Ekiti",
+        "es:t": "Nigeria | Emure",
+        "de": "Emure Ekiti",
+        "de:t": "Nigeria | Emure"
+    },
+    {
+        "en": "Enugu",
+        "en:t": "Nigeria | Enugu North",
+        "a": true,
+        "g": {
+            "lat": 6.4584,
+            "lon": 7.5464
+        },
+        "it": "Enugu",
+        "it:t": "Nigeria | Enugu North",
+        "es": "Enugu",
+        "es:t": "Nigeria | Enugu North",
+        "de": "Enugu",
+        "de:t": "Nigeria | Enugu North"
+    },
+    {
+        "en": "Enugu-Ezike",
+        "en:t": "Nigeria | Igbo-Eze-North",
+        "a": true,
+        "g": {
+            "lat": 6.9449,
+            "lon": 7.4577
+        },
+        "it": "Enugu-Ezike",
+        "it:t": "Nigeria | Igbo-Eze-North",
+        "es": "Enugu Ezike",
+        "es:t": "Nigeria | Igbo-Eze North",
+        "de": "Enugu-Ezike",
+        "de:t": "Nigeria | Igbo-Eze-North"
+    },
+    {
+        "en": "Enugwu Ukwu",
+        "en:t": "Nigeria | Njikoka",
+        "a": true,
+        "g": {
+            "lat": 6.173,
+            "lon": 7.0097
+        },
+        "it": "Enugwu Ukwu",
+        "it:t": "Nigeria | Njikoka",
+        "es": "Enugwu Ukwu",
+        "es:t": "Nigeria | Njikoka",
+        "de": "Enugwu Ukwu",
+        "de:t": "Nigeria | Njikoka"
+    },
+    {
+        "en": "Epe",
+        "en:t": "Nigeria | Lagos",
+        "a": true,
+        "g": {
+            "lat": 6.6055,
+            "lon": 3.947
+        },
+        "it": "Epe",
+        "it:t": "Nigeria | Lagos",
+        "es": "Epe",
+        "es:t": "Nigeria | Lagos",
+        "de": "Epe",
+        "de:t": "Nigeria | Lagos"
+    },
+    {
+        "en": "Ezza North",
+        "en:t": "Nigeria | Ebonyi",
+        "a": true,
+        "g": {
+            "lat": 6.2829,
+            "lon": 7.9811
+        },
+        "it": "Ezza North",
+        "it:t": "Nigeria | Ebonyi",
+        "es": "Ezza North",
+        "es:t": "Nigeria | Ebonyi",
+        "de": "Ezza North",
+        "de:t": "Nigeria | Ebonyi"
+    },
+    {
+        "en": "Fiditi",
+        "en:t": "Nigeria | Afijio",
+        "a": true,
+        "g": {
+            "lat": 7.7102,
+            "lon": 3.919
+        },
+        "it": "Fiditi",
+        "it:t": "Nigeria | Afijio",
+        "es": "Fiditi",
+        "es:t": "Nigeria | Afijio",
+        "de": "Fiditi",
+        "de:t": "Nigeria | Afijio"
+    },
+    {
+        "en": "Funtua",
+        "en:t": "Nigeria",
+        "a": true,
+        "g": {
+            "lat": 11.5185,
+            "lon": 7.3129
+        },
+        "it": "Funtua",
+        "it:t": "Nigeria",
+        "es": "Funtua",
+        "es:t": "Nigeria",
+        "de": "Funtua",
+        "de:t": "Nigeria"
+    },
+    {
+        "en": "Gambaru",
+        "en:t": "Nigeria | Borno",
+        "a": true,
+        "g": {
+            "lat": 12.373,
+            "lon": 14.2076
+        },
+        "it": "Gambaru",
+        "it:t": "Nigeria | Borno",
+        "es": "Gambaru",
+        "es:t": "Nigeria | Borno",
+        "de": "Gamboru",
+        "de:t": "Nigeria | Borno"
+    },
+    {
+        "en": "Ganye",
+        "en:t": "Nigeria | Adamawa",
+        "a": true,
+        "g": {
+            "lat": 8.4367,
+            "lon": 12.0508
+        },
+        "it": "Ganye",
+        "it:t": "Nigeria | Adamawa",
+        "es": "Ganye",
+        "es:t": "Nigeria | Adamaua",
+        "de": "Ganye",
+        "de:t": "Nigeria | Adamawa"
+    },
+    {
+        "en": "Gashua",
+        "en:t": "Nigeria | Yobe",
+        "a": true,
+        "g": {
+            "lat": 12.8765,
+            "lon": 11.0316
+        },
+        "it": "Gashua",
+        "it:t": "Nigeria | Yobe",
+        "es": "Gashua",
+        "es:t": "Nigeria | Yobe",
+        "de": "Gashua",
+        "de:t": "Nigeria | Yobe"
+    },
+    {
+        "en": "Gaya",
+        "en:t": "Nigeria",
+        "a": true,
+        "g": {
+            "lat": 11.8626,
+            "lon": 8.9991
+        },
+        "it": "Gaya",
+        "it:t": "Nigeria",
+        "es": "Gaya",
+        "es:t": "Nigeria",
+        "de": "Gaya",
+        "de:t": "Nigeria"
+    },
+    {
+        "en": "Gbongan",
+        "en:t": "Nigeria | Aiyedade",
+        "a": true,
+        "g": {
+            "lat": 7.4763,
+            "lon": 4.3514
+        },
+        "it": "Gbongan",
+        "it:t": "Nigeria | Aiyedade",
+        "es": "Gbongan",
+        "es:t": "Nigeria | Aiyedade",
+        "de": "Gbongan",
+        "de:t": "Nigeria | Aiyedade"
+    },
+    {
+        "en": "Geidem",
+        "en:t": "Nigeria | Geidam",
+        "a": true,
+        "g": {
+            "lat": 12.8935,
+            "lon": 11.9291
+        },
+        "it": "Geidem",
+        "it:t": "Nigeria | Geidam",
+        "es": "Geidem",
+        "es:t": "Nigeria | Geidam",
+        "de": "Geidem",
+        "de:t": "Nigeria | Geidam"
+    },
+    {
+        "en": "Gembu",
+        "en:t": "Nigeria | Sardauna",
+        "a": true,
+        "g": {
+            "lat": 6.7206,
+            "lon": 11.258
+        },
+        "it": "Gembu",
+        "it:t": "Nigeria | Sardauna",
+        "es": "Gembu",
+        "es:t": "Nigeria | Sardauna",
+        "de": "Gembu",
+        "de:t": "Nigeria | Sardauna"
+    },
+    {
+        "en": "Gombe",
+        "en:t": "Nigeria",
+        "a": true,
+        "g": {
+            "lat": 10.2791,
+            "lon": 11.1731
+        },
+        "it": "Gombe",
+        "it:t": "Nigeria",
+        "es": "Gombe",
+        "es:t": "Nigeria",
+        "de": "Gombe",
+        "de:t": "Nigeria"
+    },
+    {
+        "en": "Gombe",
+        "en:t": "Nigeria",
+        "a": true,
+        "g": {
+            "lat": 10.2791,
+            "lon": 11.1731
+        },
+        "it": "Garko",
+        "it:t": "Nigeria",
+        "es": "Gombe",
+        "es:t": "Nigeria",
+        "de": "Gombe",
+        "de:t": "Nigeria"
+    },
+    {
+        "en": "Gombi",
+        "en:t": "Nigeria | Balda",
+        "a": true,
+        "g": {
+            "lat": 10.1559,
+            "lon": 12.7368
+        },
+        "it": "Gombi",
+        "it:t": "Nigeria | Balda",
+        "es": "Gombi",
+        "es:t": "Nigeria | Balda",
+        "de": "Gombi",
+        "de:t": "Nigeria | Balda"
+    },
+    {
+        "en": "Gumel",
+        "en:t": "Nigeria",
+        "a": true,
+        "g": {
+            "lat": 12.6226,
+            "lon": 9.384
+        },
+        "it": "Gumel",
+        "it:t": "Nigeria",
+        "es": "Gumel",
+        "es:t": "Nigeria",
+        "de": "Gumel",
+        "de:t": "Nigeria"
+    },
+    {
+        "en": "Gummi",
+        "en:t": "Nigeria",
+        "a": true,
+        "g": {
+            "lat": 12.1333,
+            "lon": 5.1172
+        },
+        "it": "Gummi",
+        "it:t": "Nigeria",
+        "es": "Gummi",
+        "es:t": "Nigeria",
+        "de": "Gummi",
+        "de:t": "Nigeria"
+    },
+    {
+        "en": "Gusau",
+        "en:t": "Nigeria | Zamfara",
+        "a": true,
+        "g": {
+            "lat": 12.1628,
+            "lon": 6.6745
+        },
+        "it": "Gusau",
+        "it:t": "Nigeria | Zamfara",
+        "es": "Gusau",
+        "es:t": "Nigeria | Zamfara",
+        "de": "Gusau",
+        "de:t": "Nigeria | Zamfara"
+    },
+    {
+        "en": "Gwadabawa",
+        "en:t": "Nigeria",
+        "a": true,
+        "g": {
+            "lat": 13.3539,
+            "lon": 5.2345
+        },
+        "it": "Gwadabawa",
+        "it:t": "Nigeria",
+        "es": "Gwadabawa",
+        "es:t": "Nigeria",
+        "de": "Gwadabawa",
+        "de:t": "Nigeria"
+    },
+    {
+        "en": "Gwaram",
+        "en:t": "Nigeria",
+        "a": true,
+        "g": {
+            "lat": 11.277,
+            "lon": 9.8823
+        },
+        "it": "Gwaram",
+        "it:t": "Nigeria",
+        "es": "Gwaram",
+        "es:t": "Nigeria",
+        "de": "Gwaram",
+        "de:t": "Nigeria"
+    },
+    {
+        "en": "Gwarzo",
+        "en:t": "Nigeria",
+        "a": true,
+        "g": {
+            "lat": 11.9171,
+            "lon": 7.9348
+        },
+        "it": "Gwarzo",
+        "it:t": "Nigeria",
+        "es": "Gwarzo",
+        "es:t": "Nigeria",
+        "de": "Gwarzo",
+        "de:t": "Nigeria"
+    },
+    {
+        "en": "Gwoza",
+        "en:t": "Nigeria",
+        "a": true,
+        "g": {
+            "lat": 11.0897,
+            "lon": 13.6884
+        },
+        "it": "Gwoza",
+        "it:t": "Nigeria",
+        "es": "Gwoza",
+        "es:t": "Nigeria",
+        "de": "Gwoza",
+        "de:t": "Nigeria"
+    },
+    {
+        "en": "Hadejia",
+        "en:t": "Nigeria | Jigawa",
+        "a": true,
+        "g": {
+            "lat": 12.4506,
+            "lon": 10.0404
+        },
+        "it": "Hadejia",
+        "it:t": "Nigeria | Jigawa",
+        "es": "Hadejia",
+        "es:t": "Nigeria | Yigaua",
+        "de": "Hadejia",
+        "de:t": "Nigeria | Jigawa"
+    },
+    {
+        "en": "Ibadan",
+        "en:t": "Nigeria | Oyo",
+        "a": true,
+        "g": {
+            "lat": 7.3775,
+            "lon": 3.947
+        },
+        "it": "Ibadan",
+        "it:t": "Nigeria | Oyo",
+        "es": "Ibad\u00e1n",
+        "es:t": "Nigeria | Oyo",
+        "de": "Ibadan",
+        "de:t": "Nigeria | Oyo"
+    },
+    {
+        "en": "Ibeto",
+        "en:t": "Nigeria | Magama",
+        "a": true,
+        "g": {
+            "lat": 10.4853,
+            "lon": 5.1458
+        },
+        "it": "Ibeto",
+        "it:t": "Nigeria | Magama",
+        "es": "Ibeto",
+        "es:t": "Nigeria | Magama",
+        "de": "Ibeto",
+        "de:t": "Nigeria | Magama"
+    },
+    {
+        "en": "Ibi",
+        "en:t": "Nigeria",
+        "a": true,
+        "g": {
+            "lat": 8.1824,
+            "lon": 9.7484
+        },
+        "it": "Ibi",
+        "it:t": "Nigeria",
+        "es": "Ibi",
+        "es:t": "Nigeria",
+        "de": "Ibi",
+        "de:t": "Nigeria"
+    },
+    {
+        "en": "Idah",
+        "en:t": "Nigeria | Kogi",
+        "a": true,
+        "g": {
+            "lat": 7.1138,
+            "lon": 6.744
+        },
+        "it": "Idah",
+        "it:t": "Nigeria | Kogi",
+        "es": "Idah",
+        "es:t": "Nigeria | Kogi",
+        "de": "Idah",
+        "de:t": "Nigeria | Kogi"
+    },
+    {
+        "en": "Idanre",
+        "en:t": "Nigeria",
+        "a": true,
+        "g": {
+            "lat": 7.0914,
+            "lon": 5.1484
+        },
+        "it": "Idanre",
+        "it:t": "Nigeria",
+        "es": "Idanre",
+        "es:t": "Nigeria",
+        "de": "Idanre",
+        "de:t": "Nigeria"
+    },
+    {
+        "en": "Ifo",
+        "en:t": "Nigeria",
+        "a": true,
+        "g": {
+            "lat": 6.8192,
+            "lon": 3.193
+        },
+        "it": "Ifo",
+        "it:t": "Nigeria",
+        "es": "Ifo",
+        "es:t": "Nigeria",
+        "de": "Ifo",
+        "de:t": "Nigeria"
+    },
+    {
+        "en": "Igbara Odo",
+        "en:t": "Nigeria | Ekiti South-West",
+        "a": true,
+        "g": {
+            "lat": 7.5038,
+            "lon": 5.0625
+        },
+        "it": "Igbara Odo",
+        "it:t": "Nigeria | Ekiti South-West",
+        "es": "Igbara Odo",
+        "es:t": "Nigeria | Ekiti South-West",
+        "de": "Igbara Odo",
+        "de:t": "Nigeria | Ekiti South-West"
+    },
+    {
+        "en": "Igbeti",
+        "en:t": "Nigeria | Olorunsogo",
+        "a": true,
+        "g": {
+            "lat": 8.7532,
+            "lon": 4.136
+        },
+        "it": "Igbeti",
+        "it:t": "Nigeria | Olorunsogo",
+        "es": "Igbeti",
+        "es:t": "Nigeria | Olorunsogo",
+        "de": "Igbeti",
+        "de:t": "Nigeria | Olorunsogo"
+    },
+    {
+        "en": "Igbo Ukwu",
+        "en:t": "Nigeria | Anambra",
+        "a": true,
+        "g": {
+            "lat": 6.0123,
+            "lon": 7.0176
+        },
+        "it": "Igbo Ukwu",
+        "it:t": "Nigeria | Anambra",
+        "es": "Igbo-Ukwu",
+        "es:t": "Nigeria | Anambra",
+        "de": "Igbo-Ukwu",
+        "de:t": "Nigeria | Anambra"
+    },
+    {
+        "en": "Igbo-Ora",
+        "en:t": "Nigeria | Ibarapa Central",
+        "a": true,
+        "g": {
+            "lat": 7.4368,
+            "lon": 3.2885
+        },
+        "it": "Igbo-Ora",
+        "it:t": "Nigeria | Ibarapa Central",
+        "es": "Igbo-Ora",
+        "es:t": "Nigeria | Ibarapa Central",
+        "de": "Igbo-Ora",
+        "de:t": "Nigeria | Ibarapa Central"
+    },
+    {
+        "en": "Igboho",
+        "en:t": "Nigeria | Orelope",
+        "a": true,
+        "g": {
+            "lat": 8.8341,
+            "lon": 3.7587
+        },
+        "it": "Igboho",
+        "it:t": "Nigeria | Orelope",
+        "es": "Igboho",
+        "es:t": "Nigeria | Orelope",
+        "de": "Igboho",
+        "de:t": "Nigeria | Orelope"
+    },
+    {
+        "en": "Igbor",
+        "en:t": "Nigeria | Gwer East",
+        "a": true,
+        "g": {
+            "lat": 7.4503,
+            "lon": 8.6092
+        },
+        "it": "Igbor",
+        "it:t": "Nigeria | Gwer East",
+        "es": "Igbor",
+        "es:t": "Nigeria | Gwer East",
+        "de": "Igbor",
+        "de:t": "Nigeria | Gwer East"
+    },
+    {
+        "en": "Igede Ekiti",
+        "en:t": "Nigeria | Irepodun/Ifelodun",
+        "a": true,
+        "g": {
+            "lat": 7.65,
+            "lon": 5.1167
+        },
+        "it": "Igede Ekiti",
+        "it:t": "Nigeria | Irepodun/Ifelodun",
+        "es": "Igede Ekiti",
+        "es:t": "Nigeria | Irepodun/Ifelodun",
+        "de": "Igede Ekiti",
+        "de:t": "Nigeria | Irepodun/Ifelodun"
+    },
+    {
+        "en": "Ihiala",
+        "en:t": "Nigeria",
+        "a": true,
+        "g": {
+            "lat": 5.8516,
+            "lon": 6.8512
+        },
+        "it": "Ihiala",
+        "it:t": "Nigeria",
+        "es": "Ihiala",
+        "es:t": "Nigeria",
+        "de": "Ihiala",
+        "de:t": "Nigeria"
+    },
+    {
+        "en": "Ijebu Igbo",
+        "en:t": "Nigeria | Ijebu North",
+        "a": true,
+        "g": {
+            "lat": 6.9792,
+            "lon": 3.998
+        },
+        "it": "Ijebu Igbo",
+        "it:t": "Nigeria | Ijebu North",
+        "es": "Ijebu Igbo",
+        "es:t": "Nigeria | Ijebu North",
+        "de": "Ijebu Igbo",
+        "de:t": "Nigeria | Ijebu North"
+    },
+    {
+        "en": "Ijebu Jesa",
+        "en:t": "Nigeria | Oriade",
+        "a": true,
+        "g": {
+            "lat": 7.6796,
+            "lon": 4.808
+        },
+        "it": "Ijebu Jesa",
+        "it:t": "Nigeria | Oriade",
+        "es": "Ijebu Jesa",
+        "es:t": "Nigeria | Oriade",
+        "de": "Ijebu Jesa",
+        "de:t": "Nigeria | Oriade"
+    },
+    {
+        "en": "Ijebu Ode",
+        "en:t": "Nigeria | Ogun",
+        "a": true,
+        "g": {
+            "lat": 6.83,
+            "lon": 3.9165
+        },
+        "it": "Ijebu Ode",
+        "it:t": "Nigeria | Ogun",
+        "es": "Ijebu Ode",
+        "es:t": "Nigeria | Og\u00fan",
+        "de": "Ijebu-Ode",
+        "de:t": "Nigeria | Ogun"
+    },
+    {
+        "en": "Ijero",
+        "en:t": "Nigeria",
+        "a": true,
+        "g": {
+            "lat": 7.812,
+            "lon": 5.0677
+        },
+        "it": "Ijero",
+        "it:t": "Nigeria",
+        "es": "Ijero",
+        "es:t": "Nigeria",
+        "de": "Ijero",
+        "de:t": "Nigeria"
+    },
+    {
+        "en": "Ikeja",
+        "en:t": "Nigeria",
+        "a": true,
+        "g": {
+            "lat": 6.6018,
+            "lon": 3.3515
+        },
+        "it": "Ikeja",
+        "it:t": "Nigeria",
+        "es": "Ikeja",
+        "es:t": "Nigeria",
+        "de": "Ikeja",
+        "de:t": "Nigeria"
+    },
+    {
+        "en": "Ikere",
+        "en:t": "Nigeria",
+        "a": true,
+        "g": {
+            "lat": 7.4991,
+            "lon": 5.2319
+        },
+        "it": "Ikere",
+        "it:t": "Nigeria",
+        "es": "Ikere",
+        "es:t": "Nigeria",
+        "de": "Ikere",
+        "de:t": "Nigeria"
+    },
+    {
+        "en": "Ikire",
+        "en:t": "Nigeria | Osun",
+        "a": true,
+        "g": {
+            "lat": 7.37,
+            "lon": 4.1872
+        },
+        "it": "Ikire",
+        "it:t": "Nigeria | Osun",
+        "es": "Ikire",
+        "es:t": "Nigeria | Osun",
+        "de": "Ikire",
+        "de:t": "Nigeria | Osun"
+    },
+    {
+        "en": "Ikirun",
+        "en:t": "Nigeria | Osun",
+        "a": true,
+        "g": {
+            "lat": 7.9263,
+            "lon": 4.6663
+        },
+        "it": "Ikirun",
+        "it:t": "Nigeria | Osun",
+        "es": "Ikirun",
+        "es:t": "Nigeria | Osun",
+        "de": "Ikirun",
+        "de:t": "Nigeria | Osun"
+    },
+    {
+        "en": "Ikom",
+        "en:t": "Nigeria",
+        "a": true,
+        "g": {
+            "lat": 5.9617,
+            "lon": 8.7206
+        },
+        "it": "Ikom",
+        "it:t": "Nigeria",
+        "es": "Ikom",
+        "es:t": "Nigeria",
+        "de": "Ikom",
+        "de:t": "Nigeria"
+    },
+    {
+        "en": "Ikot Ekpene",
+        "en:t": "Nigeria",
+        "a": true,
+        "g": {
+            "lat": 5.1744,
+            "lon": 7.7145
+        },
+        "it": "Ikot Ekpene",
+        "it:t": "Nigeria",
+        "es": "Ikot Ekpene",
+        "es:t": "Nigeria",
+        "de": "Ikot Ekpene",
+        "de:t": "Nigeria"
+    },
+    {
+        "en": "Ila Orangun",
+        "en:t": "Nigeria | Ila",
+        "a": true,
+        "g": {
+            "lat": 8.0121,
+            "lon": 4.8988
+        },
+        "it": "Ila Orangun",
+        "it:t": "Nigeria | Ila",
+        "es": "Ila Orangun",
+        "es:t": "Nigeria | Ila",
+        "de": "Ila Orangun",
+        "de:t": "Nigeria | Ila"
+    },
+    {
+        "en": "Ilaro",
+        "en:t": "Nigeria | Egbado South",
+        "a": true,
+        "g": {
+            "lat": 6.8954,
+            "lon": 3.0126
+        },
+        "it": "Ilaro",
+        "it:t": "Nigeria | Egbado South",
+        "es": "Ilaro",
+        "es:t": "Nigeria | Egbado South",
+        "de": "Ilaro",
+        "de:t": "Nigeria | Egbado South"
+    },
+    {
+        "en": "Ilesa",
+        "en:t": "Nigeria | Osun",
+        "a": true,
+        "g": {
+            "lat": 7.6395,
+            "lon": 4.7588
+        },
+        "it": "Ilesa",
+        "it:t": "Nigeria | Osun",
+        "es": "Ilesa",
+        "es:t": "Nigeria | Os\u00fan",
+        "de": "Ilesha",
+        "de:t": "Nigeria | Osun"
+    },
+    {
+        "en": "Illela",
+        "en:t": "Nigeria | Sokoto",
+        "a": true,
+        "g": {
+            "lat": 13.7175,
+            "lon": 5.3521
+        },
+        "it": "Illela",
+        "it:t": "Nigeria | Sokoto",
+        "es": "Illela",
+        "es:t": "Nigeria | Sokoto",
+        "de": "Sokoto",
+        "de:t": "Nigeria"
+    },
+    {
+        "en": "Ilobu",
+        "en:t": "Nigeria | Irepodun",
+        "a": true,
+        "g": {
+            "lat": 7.8456,
+            "lon": 4.4929
+        },
+        "it": "Ilobu",
+        "it:t": "Nigeria | Irepodun",
+        "es": "Ilobu",
+        "es:t": "Nigeria | Irepodun",
+        "de": "Ilobu",
+        "de:t": "Nigeria | Irepodun"
+    },
+    {
+        "en": "Ilorin",
+        "en:t": "Nigeria | Kwara",
+        "a": true,
+        "g": {
+            "lat": 8.4799,
+            "lon": 4.5418
+        },
+        "it": "Ilorin",
+        "it:t": "Nigeria | Kwara",
+        "es": "Ilorin",
+        "es:t": "Nigeria | Kuara",
+        "de": "Ilorin",
+        "de:t": "Nigeria | Kwara"
+    },
+    {
+        "en": "Inisa",
+        "en:t": "Nigeria | Odo Otin",
+        "a": true,
+        "g": {
+            "lat": 7.9741,
+            "lon": 4.6528
+        },
+        "it": "Inisa",
+        "it:t": "Nigeria | Odo Otin",
+        "es": "Inisa",
+        "es:t": "Nigeria | Odo Otin",
+        "de": "Inisa",
+        "de:t": "Nigeria | Odo Otin"
+    },
+    {
+        "en": "Iperu",
+        "en:t": "Nigeria | Ikenne",
+        "a": true,
+        "g": {
+            "lat": 6.9149,
+            "lon": 3.6649
+        },
+        "it": "Iperu",
+        "it:t": "Nigeria | Ikenne",
+        "es": "Iperu",
+        "es:t": "Nigeria | Ikenne",
+        "de": "Iperu",
+        "de:t": "Nigeria | Ikenne"
+    },
+    {
+        "en": "Ipoti",
+        "en:t": "Nigeria | Ijero",
+        "a": true,
+        "g": {
+            "lat": 7.8715,
+            "lon": 5.0729
+        },
+        "it": "Ipoti",
+        "it:t": "Nigeria | Ijero",
+        "es": "Ipoti",
+        "es:t": "Nigeria | Ijero",
+        "de": "Ipoti",
+        "de:t": "Nigeria | Ijero"
+    },
+    {
+        "en": "Isanlu",
+        "en:t": "Nigeria | Yagba East",
+        "a": true,
+        "g": {
+            "lat": 8.1584,
+            "lon": 5.676
+        },
+        "it": "Isanlu",
+        "it:t": "Nigeria | Yagba East",
+        "es": "Isanlu",
+        "es:t": "Nigeria | Yagba East",
+        "de": "Isanlu",
+        "de:t": "Nigeria | Yagba East"
+    },
+    {
+        "en": "Ise",
+        "en:t": "Nigeria | Ise/Orun",
+        "a": true,
+        "g": {
+            "lat": 7.4563,
+            "lon": 5.4332
+        },
+        "it": "Ise",
+        "it:t": "Nigeria | Ise/Orun",
+        "es": "Ise",
+        "es:t": "Nigeria | Ise/Orun",
+        "de": "Ise",
+        "de:t": "Nigeria | Ise/Orun"
+    },
+    {
+        "en": "Ishieke",
+        "en:t": "Nigeria | Ebonyi",
+        "a": true,
+        "g": {
+            "lat": 6.385,
+            "lon": 8.0274
+        },
+        "it": "Ishieke",
+        "it:t": "Nigeria | Ebonyi",
+        "es": "Ishieke",
+        "es:t": "Nigeria | Ebonyi",
+        "de": "Ishieke",
+        "de:t": "Nigeria | Ebonyi"
+    },
+    {
+        "en": "Itu",
+        "en:t": "Nigeria | Akwa Ibom",
+        "a": true,
+        "g": {
+            "lat": 5.1551,
+            "lon": 8.0247
+        },
+        "it": "Itu",
+        "it:t": "Nigeria | Akwa Ibom",
+        "es": "Itu",
+        "es:t": "Nigeria | Akua Ibom",
+        "de": "Itu",
+        "de:t": "Nigeria | Akwa Ibom"
+    },
+    {
+        "en": "Iwo",
+        "en:t": "Nigeria | Osun",
+        "a": true,
+        "g": {
+            "lat": 7.6292,
+            "lon": 4.1872
+        },
+        "it": "Iwo",
+        "it:t": "Nigeria | Osun",
+        "es": "Iwo",
+        "es:t": "Nigeria | Os\u00fan",
+        "de": "Iwo",
+        "de:t": "Nigeria | Osun"
+    },
+    {
+        "en": "Jalingo",
+        "en:t": "Nigeria | Taraba",
+        "a": true,
+        "g": {
+            "lat": 8.8929,
+            "lon": 11.3771
+        },
+        "it": "Jalingo",
+        "it:t": "Nigeria | Taraba",
+        "es": "Jalingo",
+        "es:t": "Nigeria | Taraba",
+        "de": "Jalingo",
+        "de:t": "Nigeria | Taraba"
+    },
+    {
+        "en": "Jebba",
+        "en:t": "Nigeria | Moro",
+        "a": true,
+        "g": {
+            "lat": 9.1193,
+            "lon": 4.8261
+        },
+        "it": "Jebba",
+        "it:t": "Nigeria | Moro",
+        "es": "Jebba",
+        "es:t": "Nigeria | Moro",
+        "de": "Jebba",
+        "de:t": "Nigeria | Moro"
+    },
+    {
+        "en": "Jega",
+        "en:t": "Nigeria | Kebbi",
+        "a": true,
+        "g": {
+            "lat": 12.2258,
+            "lon": 4.3822
+        },
+        "it": "Jega",
+        "it:t": "Nigeria | Kebbi",
+        "es": "Jega",
+        "es:t": "Nigeria | Kebbi",
+        "de": "Jega",
+        "de:t": "Nigeria | Kebbi"
+    },
+    {
+        "en": "Jimeta",
+        "en:t": "Nigeria | Adamawa",
+        "a": true,
+        "g": {
+            "lat": 9.2485,
+            "lon": 12.4495
+        },
+        "it": "Jimeta",
+        "it:t": "Nigeria | Adamawa",
+        "es": "Jimeta",
+        "es:t": "Nigeria | Adamaua",
+        "de": "Jimeta",
+        "de:t": "Nigeria | Adamawa"
+    },
+    {
+        "en": "Jos",
+        "en:t": "Nigeria | Plateau",
+        "a": true,
+        "g": {
+            "lat": 9.8965,
+            "lon": 8.8583
+        },
+        "it": "Jos",
+        "it:t": "Nigeria | Plateau",
+        "es": "Jos",
+        "es:t": "Nigeria | Meseta",
+        "de": "Jos",
+        "de:t": "Nigeria | Plateau"
+    },
+    {
+        "en": "Kabba",
+        "en:t": "Nigeria | Kabba/Bunu",
+        "a": true,
+        "g": {
+            "lat": 7.8231,
+            "lon": 6.0732
+        },
+        "it": "Kabba",
+        "it:t": "Nigeria | Kabba/Bunu",
+        "es": "Kabba",
+        "es:t": "Nigeria | Kabba/Bunu",
+        "de": "Kabba",
+        "de:t": "Nigeria | Kabba/Bunu"
+    },
+    {
+        "en": "Kachia",
+        "en:t": "Nigeria",
+        "a": true,
+        "g": {
+            "lat": 9.8734,
+            "lon": 7.9552
+        },
+        "it": "Kachia",
+        "it:t": "Nigeria",
+        "es": "Kachia",
+        "es:t": "Nigeria",
+        "de": "Kachia",
+        "de:t": "Nigeria"
+    },
+    {
+        "en": "Kaduna",
+        "en:t": "Nigeria",
+        "a": true,
+        "g": {
+            "lat": 10.5105,
+            "lon": 7.4165
+        },
+        "it": "Kaduna",
+        "it:t": "Nigeria",
+        "es": "Kaduna",
+        "es:t": "Nigeria",
+        "de": "Kaduna",
+        "de:t": "Nigeria"
+    },
+    {
+        "en": "Kafanchan",
+        "en:t": "Nigeria | Kaduna",
+        "a": true,
+        "g": {
+            "lat": 9.5849,
+            "lon": 8.2924
+        },
+        "it": "Kafanchan",
+        "it:t": "Nigeria | Kaduna",
+        "es": "Kafanchan",
+        "es:t": "Nigeria | Kaduna",
+        "de": "Kafanchan",
+        "de:t": "Nigeria | Kaduna"
+    },
+    {
+        "en": "Kagoro",
+        "en:t": "Nigeria | Kaura",
+        "a": true,
+        "g": {
+            "lat": 9.6285,
+            "lon": 8.4156
+        },
+        "it": "Kagoro",
+        "it:t": "Nigeria | Kaura",
+        "es": "Kagoro",
+        "es:t": "Nigeria | Kaura",
+        "de": "Kagoro",
+        "de:t": "Nigeria | Kaura"
+    },
+    {
+        "en": "Kaiama",
+        "en:t": "Nigeria",
+        "a": true,
+        "g": {
+            "lat": 9.6062,
+            "lon": 3.9419
+        },
+        "it": "Kaiama",
+        "it:t": "Nigeria",
+        "es": "Kaiama",
+        "es:t": "Nigeria",
+        "de": "Kaiama",
+        "de:t": "Nigeria"
+    },
+    {
+        "en": "Kamba",
+        "en:t": "Nigeria | Maiyama",
+        "a": true,
+        "g": {
+            "lat": 12.0408,
+            "lon": 4.2517
+        },
+        "it": "Kamba",
+        "it:t": "Nigeria | Maiyama",
+        "es": "Kamba",
+        "es:t": "Nigeria | Maiyama",
+        "de": "Kamba",
+        "de:t": "Nigeria | Maiyama"
+    },
+    {
+        "en": "Kano",
+        "en:t": "Nigeria",
+        "a": true,
+        "g": {
+            "lat": 12.0022,
+            "lon": 8.592
+        },
+        "it": "Kano",
+        "it:t": "Nigeria",
+        "es": "Kano",
+        "es:t": "Nigeria",
+        "de": "Kano",
+        "de:t": "Nigeria"
+    },
+    {
+        "en": "Kari",
+        "en:t": "Nigeria | Darazo",
+        "a": true,
+        "g": {
+            "lat": 11.1112,
+            "lon": 10.4411
+        },
+        "it": "Kari",
+        "it:t": "Nigeria | Darazo",
+        "es": "Kari",
+        "es:t": "Nigeria | Darazo",
+        "de": "Kari",
+        "de:t": "Nigeria | Darazo"
+    },
+    {
+        "en": "Katsina",
+        "en:t": "Nigeria",
+        "a": true,
+        "g": {
+            "lat": 12.9816,
+            "lon": 7.6223
+        },
+        "it": "Katsina",
+        "it:t": "Nigeria",
+        "es": "Katsina",
+        "es:t": "Nigeria",
+        "de": "Katsina",
+        "de:t": "Nigeria"
+    },
+    {
+        "en": "Katsina Ala",
+        "en:t": "Nigeria | Benue",
+        "a": true,
+        "g": {
+            "lat": 7.1658,
+            "lon": 9.2841
+        },
+        "it": "Katsina-Ala",
+        "it:t": "Nigeria | Benue",
+        "es": "Katsina-Ala",
+        "es:t": "Nigeria | Benu\u00e9",
+        "de": "Katsina Ala",
+        "de:t": "Nigeria | Benue"
+    },
+    {
+        "en": "Kaura Namoda",
+        "en:t": "Nigeria",
+        "a": true,
+        "g": {
+            "lat": 12.5952,
+            "lon": 6.5863
+        },
+        "it": "Kaura-Namoda",
+        "it:t": "Nigeria",
+        "es": "Kaura Namoda",
+        "es:t": "Nigeria",
+        "de": "Kaura Namoda",
+        "de:t": "Nigeria"
+    },
+    {
+        "en": "Keffi",
+        "en:t": "Nigeria",
+        "a": true,
+        "g": {
+            "lat": 8.8471,
+            "lon": 7.8776
+        },
+        "it": "Keffi",
+        "it:t": "Nigeria",
+        "es": "Keffi",
+        "es:t": "Nigeria",
+        "de": "Keffi",
+        "de:t": "Nigeria"
+    },
+    {
+        "en": "Kishi",
+        "en:t": "Nigeria | Irepo",
+        "a": true,
+        "g": {
+            "lat": 9.0867,
+            "lon": 3.8503
+        },
+        "it": "Kishi",
+        "it:t": "Nigeria | Irepo",
+        "es": "Kishi",
+        "es:t": "Nigeria | Irepo",
+        "de": "Kishi",
+        "de:t": "Nigeria | Irepo"
+    },
+    {
+        "en": "Kiyawa",
+        "en:t": "Nigeria | kiyawa",
+        "a": true,
+        "g": {
+            "lat": 11.7809,
+            "lon": 9.598
+        },
+        "it": "Kiyawa",
+        "it:t": "Nigeria | kiyawa",
+        "es": "Kiyawa",
+        "es:t": "Nigeria | kiyawa",
+        "de": "Kiyawa",
+        "de:t": "Nigeria | kiyawa"
+    },
+    {
+        "en": "Kontagora",
+        "en:t": "Nigeria",
+        "a": true,
+        "g": {
+            "lat": 10.4071,
+            "lon": 5.4699
+        },
+        "it": "Kontagora",
+        "it:t": "Nigeria",
+        "es": "Kontagora",
+        "es:t": "Nigeria",
+        "de": "Kontagora",
+        "de:t": "Nigeria"
+    },
+    {
+        "en": "Kuje",
+        "en:t": "Nigeria",
+        "a": true,
+        "g": {
+            "lat": 8.8764,
+            "lon": 7.2437
+        },
+        "it": "Kuje",
+        "it:t": "Nigeria",
+        "es": "Kuje",
+        "es:t": "Nigeria",
+        "de": "Kuje",
+        "de:t": "Nigeria"
+    },
+    {
+        "en": "Kukawa",
+        "en:t": "Nigeria",
+        "a": true,
+        "g": {
+            "lat": 12.923,
+            "lon": 13.5639
+        },
+        "it": "Kukawa",
+        "it:t": "Nigeria",
+        "es": "Kukawa",
+        "es:t": "Nigeria",
+        "de": "Kuka",
+        "de:t": "Nigeria"
+    },
+    {
+        "en": "Kumagunnam",
+        "en:t": "Nigeria | Yusufari",
+        "a": true,
+        "g": {
+            "lat": 13.1529,
+            "lon": 10.6351
+        },
+        "it": "Kumagunnam",
+        "it:t": "Nigeria | Yusufari",
+        "es": "Kumagunnam",
+        "es:t": "Nigeria | Yusufari",
+        "de": "Kumagunnam",
+        "de:t": "Nigeria | Yusufari"
+    },
+    {
+        "en": "Kumo",
+        "en:t": "Nigeria | Akko",
+        "a": true,
+        "g": {
+            "lat": 10.0496,
+            "lon": 11.1997
+        },
+        "it": "Kumo",
+        "it:t": "Nigeria | Akko",
+        "es": "Kumo",
+        "es:t": "Nigeria | Akko",
+        "de": "Kumo",
+        "de:t": "Nigeria | Akko"
+    },
+    {
+        "en": "Kwale",
+        "en:t": "Nigeria | Ndokwa West",
+        "a": true,
+        "g": {
+            "lat": 5.7098,
+            "lon": 6.4344
+        },
+        "it": "Kwale",
+        "it:t": "Nigeria | Ndokwa West",
+        "es": "Kwale",
+        "es:t": "Nigeria | Ndokwa West",
+        "de": "Kwale",
+        "de:t": "Nigeria | Ndokwa West"
+    },
+    {
+        "en": "Lafia",
+        "en:t": "Nigeria",
+        "a": true,
+        "g": {
+            "lat": 8.506,
+            "lon": 8.5227
+        },
+        "it": "Lafia",
+        "it:t": "Nigeria",
+        "es": "Lafia",
+        "es:t": "Nigeria",
+        "de": "Lafia",
+        "de:t": "Nigeria"
+    },
+    {
+        "en": "Lafiagi",
+        "en:t": "Nigeria | Edu",
+        "a": true,
+        "g": {
+            "lat": 8.8525,
+            "lon": 5.4044
+        },
+        "it": "Lafiagi",
+        "it:t": "Nigeria | Edu",
+        "es": "Lafiagi",
+        "es:t": "Nigeria | Edu",
+        "de": "Lafiagi",
+        "de:t": "Nigeria | Edu"
+    },
+    {
+        "en": "Lagos",
+        "en:t": "Nigeria",
+        "a": true,
+        "g": {
+            "lat": 6.5244,
+            "lon": 3.3792
+        },
+        "it": "Lagos",
+        "it:t": "Nigeria",
+        "es": "Lagos",
+        "es:t": "Nigeria",
+        "de": "Lagos",
+        "de:t": "Nigeria"
+    },
+    {
+        "en": "Lalupon",
+        "en:t": "Nigeria | Lagelu",
+        "a": true,
+        "g": {
+            "lat": 7.4654,
+            "lon": 4.0721
+        },
+        "it": "Lalupon",
+        "it:t": "Nigeria | Lagelu",
+        "es": "Lalupon",
+        "es:t": "Nigeria | Lagelu",
+        "de": "Lalupon",
+        "de:t": "Nigeria | Lagelu"
+    },
+    {
+        "en": "Lapai",
+        "en:t": "Nigeria | Niger",
+        "a": true,
+        "g": {
+            "lat": 9.0453,
+            "lon": 6.5703
+        },
+        "it": "Lapai",
+        "it:t": "Nigeria | Niger",
+        "es": "Lapai",
+        "es:t": "Nigeria | Niger",
+        "de": "Lapai",
+        "de:t": "Nigeria | Niger"
+    },
+    {
+        "en": "Lere",
+        "en:t": "Nigeria",
+        "a": true,
+        "g": {
+            "lat": 10.3853,
+            "lon": 8.5735
+        },
+        "it": "Lere",
+        "it:t": "Nigeria",
+        "es": "Lere",
+        "es:t": "Nigeria",
+        "de": "Lere",
+        "de:t": "Nigeria"
+    },
+    {
+        "en": "Lokoja",
+        "en:t": "Nigeria",
+        "a": true,
+        "g": {
+            "lat": 7.8023,
+            "lon": 6.7333
+        },
+        "it": "Lokoja",
+        "it:t": "Nigeria",
+        "es": "Lokoja",
+        "es:t": "Nigeria",
+        "de": "Lokoja",
+        "de:t": "Nigeria"
+    },
+    {
+        "en": "Magumeri",
+        "en:t": "Nigeria",
+        "a": true,
+        "g": {
+            "lat": 12.1151,
+            "lon": 12.8256
+        },
+        "it": "Magumeri",
+        "it:t": "Nigeria",
+        "es": "Magumeri",
+        "es:t": "Nigeria",
+        "de": "Magumeri",
+        "de:t": "Nigeria"
+    },
+    {
+        "en": "Maiduguri",
+        "en:t": "Nigeria | Borno",
+        "a": true,
+        "g": {
+            "lat": 11.8311,
+            "lon": 13.151
+        },
+        "it": "Maiduguri",
+        "it:t": "Nigeria | Borno",
+        "es": "Maiduguri",
+        "es:t": "Nigeria | Borno",
+        "de": "Maiduguri",
+        "de:t": "Nigeria | Borno"
+    },
+    {
+        "en": "Makoko",
+        "en:t": "Nigeria | Lagos",
+        "a": true,
+        "g": {
+            "lat": 6.499,
+            "lon": 3.388
+        },
+        "it": "Makoko",
+        "it:t": "Nigeria | Lagos",
+        "es": "Makoko",
+        "es:t": "Nigeria | Lagos",
+        "de": "Makoko",
+        "de:t": "Nigeria | Lagos"
+    },
+    {
+        "en": "Makurdi",
+        "en:t": "Nigeria | Markurdi",
+        "a": true,
+        "g": {
+            "lat": 7.7322,
+            "lon": 8.5391
+        },
+        "it": "Makurdi",
+        "it:t": "Nigeria | Markurdi",
+        "es": "Makurdi",
+        "es:t": "Nigeria | Markurdi",
+        "de": "Makurdi",
+        "de:t": "Nigeria | Markurdi"
+    },
+    {
+        "en": "Malumfashi",
+        "en:t": "Nigeria",
+        "a": true,
+        "g": {
+            "lat": 11.7929,
+            "lon": 7.6168
+        },
+        "it": "Malumfashi",
+        "it:t": "Nigeria",
+        "es": "Malumfashi",
+        "es:t": "Nigeria",
+        "de": "Malumfashi",
+        "de:t": "Nigeria"
+    },
+    {
+        "en": "Marte",
+        "en:t": "Nigeria",
+        "a": true,
+        "g": {
+            "lat": 12.3641,
+            "lon": 13.8277
+        },
+        "it": "Marte",
+        "it:t": "Nigeria",
+        "es": "Marte",
+        "es:t": "Nigeria",
+        "de": "Marte",
+        "de:t": "Nigeria"
+    },
+    {
+        "en": "Minna",
+        "en:t": "Nigeria | Niger",
+        "a": true,
+        "g": {
+            "lat": 9.5836,
+            "lon": 6.5463
+        },
+        "it": "Minna",
+        "it:t": "Nigeria | Niger",
+        "es": "Minna",
+        "es:t": "Nigeria | N\u00edger",
+        "de": "Minna",
+        "de:t": "Nigeria | Niger"
+    },
+    {
+        "en": "Modakeke I",
+        "en:t": "Nigeria | Ife North",
+        "a": true,
+        "g": {
+            "lat": 7.4555,
+            "lon": 4.5444
+        },
+        "it": "Modakeke I",
+        "it:t": "Nigeria | Ife North",
+        "es": "Modakeke I",
+        "es:t": "Nigeria | Ife North",
+        "de": "Modakeke I",
+        "de:t": "Nigeria | Ife North"
+    },
+    {
+        "en": "Mokwa",
+        "en:t": "Nigeria",
+        "a": true,
+        "g": {
+            "lat": 9.2928,
+            "lon": 5.0547
+        },
+        "it": "Mokwa",
+        "it:t": "Nigeria",
+        "es": "Mokwa",
+        "es:t": "Nigeria",
+        "de": "Mokwa",
+        "de:t": "Nigeria"
+    },
+    {
+        "en": "Monguno",
+        "en:t": "Nigeria",
+        "a": true,
+        "g": {
+            "lat": 12.6729,
+            "lon": 13.616
+        },
+        "it": "Monguno",
+        "it:t": "Nigeria",
+        "es": "Monguno",
+        "es:t": "Nigeria",
+        "de": "Monguno",
+        "de:t": "Nigeria"
+    },
+    {
+        "en": "Moriki",
+        "en:t": "Nigeria | Zurmi",
+        "a": true,
+        "g": {
+            "lat": 12.8777,
+            "lon": 6.4903
+        },
+        "it": "Moriki",
+        "it:t": "Nigeria | Zurmi",
+        "es": "Moriki",
+        "es:t": "Nigeria | Zurmi",
+        "de": "Moriki",
+        "de:t": "Nigeria | Zurmi"
+    },
+    {
+        "en": "Mubi",
+        "en:t": "Nigeria | Adamawa",
+        "a": true,
+        "g": {
+            "lat": 10.2604,
+            "lon": 13.2606
+        },
+        "it": "Mubi",
+        "it:t": "Nigeria | Adamawa",
+        "es": "Mubi",
+        "es:t": "Nigeria | Adamaua",
+        "de": "Mubi",
+        "de:t": "Nigeria | Adamawa"
+    },
+    {
+        "en": "Nafada",
+        "en:t": "Nigeria | Gombe",
+        "a": true,
+        "g": {
+            "lat": 11.0877,
+            "lon": 11.207
+        },
+        "it": "Nafada",
+        "it:t": "Nigeria",
+        "es": "Nafada",
+        "es:t": "Nigeria",
+        "de": "Nafada",
+        "de:t": "Nigeria"
+    },
+    {
+        "en": "Nasarawa",
+        "en:t": "Nigeria | Nassarawa",
+        "a": true,
+        "g": {
+            "lat": 8.5475,
+            "lon": 7.7118
+        },
+        "it": "Nassarawa",
+        "it:t": "Nigeria",
+        "es": "Nasarawa",
+        "es:t": "Nigeria | Nassarawa",
+        "de": "Nasarawa",
+        "de:t": "Nigeria | Nassarawa"
+    },
+    {
+        "en": "Nguru",
+        "en:t": "Nigeria",
+        "a": true,
+        "g": {
+            "lat": 12.8775,
+            "lon": 10.4565
+        },
+        "it": "Nguru",
+        "it:t": "Nigeria",
+        "es": "Nguru",
+        "es:t": "Nigeria",
+        "de": "Nguru",
+        "de:t": "Nigeria"
+    },
+    {
+        "en": "Nkpor",
+        "en:t": "Nigeria | Anambra",
+        "a": true,
+        "g": {
+            "lat": 6.1462,
+            "lon": 6.8297
+        },
+        "it": "Nkpor",
+        "it:t": "Nigeria | Anambra",
+        "es": "Nkpor",
+        "es:t": "Nigeria | Anambra",
+        "de": "Nkpor",
+        "de:t": "Nigeria | Anambra"
+    },
+    {
+        "en": "Nkwerre",
+        "en:t": "Nigeria",
+        "a": true,
+        "g": {
+            "lat": 5.7648,
+            "lon": 7.0983
+        },
+        "it": "Nkwerre",
+        "it:t": "Nigeria",
+        "es": "Nkwerre",
+        "es:t": "Nigeria",
+        "de": "Nkwerre",
+        "de:t": "Nigeria"
+    },
+    {
+        "en": "Nnewi",
+        "en:t": "Nigeria | Anambra",
+        "a": true,
+        "g": {
+            "lat": 6.0105,
+            "lon": 6.9103
+        },
+        "it": "Nnewi",
+        "it:t": "Nigeria | Anambra",
+        "es": "Nnewi",
+        "es:t": "Nigeria | Anambra",
+        "de": "Nnewi",
+        "de:t": "Nigeria | Anambra"
+    },
+    {
+        "en": "Nsukka",
+        "en:t": "Nigeria",
+        "a": true,
+        "g": {
+            "lat": 6.8429,
+            "lon": 7.3733
+        },
+        "it": "Nsukka",
+        "it:t": "Nigeria",
+        "es": "Nsukka",
+        "es:t": "Nigeria",
+        "de": "Nsukka",
+        "de:t": "Nigeria"
+    },
+    {
+        "en": "Numan",
+        "en:t": "Nigeria | Adamawa",
+        "a": true,
+        "g": {
+            "lat": 9.4536,
+            "lon": 12.0318
+        },
+        "it": "Numan",
+        "it:t": "Nigeria | Adamawa",
+        "es": "Numan",
+        "es:t": "Nigeria | Adamawa",
+        "de": "Numan",
+        "de:t": "Nigeria | Adamawa"
+    },
+    {
+        "en": "Obonoma",
+        "en:t": "Nigeria | Akuku Toru",
+        "a": true,
+        "g": {
+            "lat": 4.6845,
+            "lon": 6.7815
+        },
+        "it": "Obonoma",
+        "it:t": "Nigeria | Akuku Toru",
+        "es": "Obonoma",
+        "es:t": "Nigeria | Akuku Toru",
+        "de": "Obonoma",
+        "de:t": "Nigeria | Akuku Toru"
+    },
+    {
+        "en": "Obudu",
+        "en:t": "Nigeria | Cross River",
+        "a": true,
+        "g": {
+            "lat": 6.6694,
+            "lon": 9.1622
+        },
+        "it": "Obudu",
+        "it:t": "Nigeria | Cross River",
+        "es": "Obudu",
+        "es:t": "Nigeria | R\u00edo Cross",
+        "de": "Obudu",
+        "de:t": "Nigeria | Cross River"
+    },
+    {
+        "en": "Offa",
+        "en:t": "Nigeria | Kwara",
+        "a": true,
+        "g": {
+            "lat": 8.1393,
+            "lon": 4.7174
+        },
+        "it": "Offa",
+        "it:t": "Nigeria | Kwara",
+        "es": "Offa",
+        "es:t": "Nigeria | Kuara",
+        "de": "Offa",
+        "de:t": "Nigeria | Kwara"
+    },
+    {
+        "en": "Ogaminana",
+        "en:t": "Nigeria | Adavi",
+        "a": true,
+        "g": {
+            "lat": 7.59,
+            "lon": 6.2203
+        },
+        "it": "Ogaminana",
+        "it:t": "Nigeria | Adavi",
+        "es": "Ogaminana",
+        "es:t": "Nigeria | Adavi",
+        "de": "Ogaminana",
+        "de:t": "Nigeria | Adavi"
+    },
+    {
+        "en": "Ogoja",
+        "en:t": "Nigeria",
+        "a": true,
+        "g": {
+            "lat": 6.6548,
+            "lon": 8.7977
+        },
+        "it": "Ogoja",
+        "it:t": "Nigeria",
+        "es": "Ogoja",
+        "es:t": "Nigeria",
+        "de": "Ogoja",
+        "de:t": "Nigeria"
+    },
+    {
+        "en": "Oguta",
+        "en:t": "Nigeria",
+        "a": true,
+        "g": {
+            "lat": 5.7055,
+            "lon": 6.8083
+        },
+        "it": "Oguta",
+        "it:t": "Nigeria",
+        "es": "Oguta",
+        "es:t": "Nigeria",
+        "de": "Oguta",
+        "de:t": "Nigeria"
+    },
+    {
+        "en": "Ogwashi-Ukwu",
+        "en:t": "Nigeria | Aniocha South",
+        "a": true,
+        "g": {
+            "lat": 6.1816,
+            "lon": 6.5303
+        },
+        "it": "Ogwashi-Ukwu",
+        "it:t": "Nigeria | Aniocha South",
+        "es": "Ogwashi-Ukwu",
+        "es:t": "Nigeria | Aniocha South",
+        "de": "Ogwashi-Ukwu",
+        "de:t": "Nigeria | Aniocha South"
+    },
+    {
+        "en": "Ohafia",
+        "en:t": "Nigeria",
+        "a": true,
+        "g": {
+            "lat": 5.6223,
+            "lon": 7.8571
+        },
+        "it": "Ohafia",
+        "it:t": "Nigeria",
+        "es": "Ohafia",
+        "es:t": "Nigeria",
+        "de": "Ohafia",
+        "de:t": "Nigeria"
+    },
+    {
+        "en": "Oke Ila Orangun",
+        "en:t": "Nigeria | Ifedayo",
+        "a": true,
+        "g": {
+            "lat": 7.9539,
+            "lon": 4.9896
+        },
+        "it": "Oke Ila Street",
+        "it:t": "Nigeria | Ifedayo",
+        "es": "Oke Ila Orangun",
+        "es:t": "Nigeria | Ifedayo",
+        "de": "Oke Ila Orangun",
+        "de:t": "Nigeria | Ifedayo"
+    },
+    {
+        "en": "Oke-Mesi",
+        "en:t": "Nigeria | Ekiti West",
+        "a": true,
+        "g": {
+            "lat": 7.8354,
+            "lon": 4.9221
+        },
+        "it": "Oke-Mesi",
+        "it:t": "Nigeria | Ekiti West",
+        "es": "Oke-Mesi",
+        "es:t": "Nigeria | Ekiti West",
+        "de": "Oke-Mesi",
+        "de:t": "Nigeria | Ekiti West"
+    },
+    {
+        "en": "Okene",
+        "en:t": "Nigeria | Kogi",
+        "a": true,
+        "g": {
+            "lat": 7.5614,
+            "lon": 6.2429
+        },
+        "it": "Okene",
+        "it:t": "Nigeria | Kogi",
+        "es": "Okene",
+        "es:t": "Nigeria | Kogi",
+        "de": "Okene",
+        "de:t": "Nigeria | Kogi"
+    },
+    {
+        "en": "Okigwe",
+        "en:t": "Nigeria",
+        "a": true,
+        "g": {
+            "lat": 5.8193,
+            "lon": 7.3409
+        },
+        "it": "Okigwe",
+        "it:t": "Nigeria",
+        "es": "Okigwe",
+        "es:t": "Nigeria",
+        "de": "Okigwe",
+        "de:t": "Nigeria"
+    },
+    {
+        "en": "Okrika",
+        "en:t": "Nigeria | Rivers",
+        "a": true,
+        "g": {
+            "lat": 4.7406,
+            "lon": 7.0848
+        },
+        "it": "Okrika",
+        "it:t": "Nigeria | Rivers",
+        "es": "Okrika",
+        "es:t": "Nigeria | R\u00edos",
+        "de": "Okrika",
+        "de:t": "Nigeria | Rivers"
+    },
+    {
+        "en": "Okuta",
+        "en:t": "Nigeria | Baruten",
+        "a": true,
+        "g": {
+            "lat": 9.2228,
+            "lon": 3.2006
+        },
+        "it": "Okuta",
+        "it:t": "Nigeria | Baruten",
+        "es": "Okuta",
+        "es:t": "Nigeria | Baruten",
+        "de": "Okuta",
+        "de:t": "Nigeria | Baruten"
+    },
+    {
+        "en": "Ondo",
+        "en:t": "Nigeria",
+        "a": true,
+        "g": {
+            "lat": 7.1,
+            "lon": 4.8417
+        },
+        "it": "Ondo",
+        "it:t": "Nigeria",
+        "es": "Ondo",
+        "es:t": "Nigeria",
+        "de": "Ondo",
+        "de:t": "Nigeria"
+    },
+    {
+        "en": "Onitsha",
+        "en:t": "Nigeria | Anambra",
+        "a": true,
+        "g": {
+            "lat": 6.1329,
+            "lon": 6.7924
+        },
+        "it": "Onitsha",
+        "it:t": "Nigeria | Anambra",
+        "es": "Onitsha",
+        "es:t": "Nigeria | Anambra",
+        "de": "Onitsha",
+        "de:t": "Nigeria | Anambra"
+    },
+    {
+        "en": "Oron",
+        "en:t": "Nigeria",
+        "a": true,
+        "g": {
+            "lat": 4.8074,
+            "lon": 8.2377
+        },
+        "it": "Oron",
+        "it:t": "Nigeria",
+        "es": "Oron",
+        "es:t": "Nigeria",
+        "de": "Oron",
+        "de:t": "Nigeria"
+    },
+    {
+        "en": "Osogbo",
+        "en:t": "Nigeria | Osun",
+        "a": true,
+        "g": {
+            "lat": 7.7827,
+            "lon": 4.5418
+        },
+        "it": "Osogbo",
+        "it:t": "Nigeria | Osun",
+        "es": "Osogbo",
+        "es:t": "Nigeria | Os\u00fan",
+        "de": "Oshogbo",
+        "de:t": "Nigeria | Osun"
+    },
+    {
+        "en": "Osun",
+        "en:t": "Nigeria",
+        "a": true,
+        "g": {
+            "lat": 7.5876,
+            "lon": 4.5624
+        },
+        "it": "Osun",
+        "it:t": "Nigeria",
+        "es": "Os\u00fan",
+        "es:t": "Nigeria",
+        "de": "Osun",
+        "de:t": "Nigeria"
+    },
+    {
+        "en": "Otan Ayegbaju",
+        "en:t": "Nigeria | Boluwaduro",
+        "a": true,
+        "g": {
+            "lat": 7.9455,
+            "lon": 4.7873
+        },
+        "it": "Otan Ayegbaju",
+        "it:t": "Nigeria | Boluwaduro",
+        "es": "Otan Ayegbaju",
+        "es:t": "Nigeria | Boluwaduro",
+        "de": "Otan Ayegbaju",
+        "de:t": "Nigeria | Boluwaduro"
+    },
+    {
+        "en": "Otukpa",
+        "en:t": "Nigeria | Ogbadibo",
+        "a": true,
+        "g": {
+            "lat": 7.1382,
+            "lon": 7.6697
+        },
+        "it": "Otukpa",
+        "it:t": "Nigeria | Ogbadibo",
+        "es": "Otukpa",
+        "es:t": "Nigeria | Ogbadibo",
+        "de": "Otukpa",
+        "de:t": "Nigeria | Ogbadibo"
+    },
+    {
+        "en": "Owerri",
+        "en:t": "Nigeria | Imo",
+        "a": true,
+        "g": {
+            "lat": 5.4891,
+            "lon": 7.0176
+        },
+        "it": "Owerri",
+        "it:t": "Nigeria | Imo",
+        "es": "Owerri",
+        "es:t": "Nigeria | Imo",
+        "de": "Owerri",
+        "de:t": "Nigeria | Imo"
+    },
+    {
+        "en": "Owo",
+        "en:t": "Nigeria",
+        "a": true,
+        "g": {
+            "lat": 7.1989,
+            "lon": 5.5932
+        },
+        "it": "Owo",
+        "it:t": "Nigeria",
+        "es": "Owo",
+        "es:t": "Nigeria",
+        "de": "Owo",
+        "de:t": "Nigeria"
+    },
+    {
+        "en": "Oyan",
+        "en:t": "Nigeria | Odo Otin",
+        "a": true,
+        "g": {
+            "lat": 8.0463,
+            "lon": 4.764
+        },
+        "it": "Oyan",
+        "it:t": "Nigeria | Odo Otin",
+        "es": "Oyan",
+        "es:t": "Nigeria | Odo Otin",
+        "de": "Oyan",
+        "de:t": "Nigeria | Odo Otin"
+    },
+    {
+        "en": "Oyo",
+        "en:t": "Nigeria",
+        "a": true,
+        "g": {
+            "lat": 7.843,
+            "lon": 3.9368
+        },
+        "it": "Oyo",
+        "it:t": "Nigeria",
+        "es": "Oyo",
+        "es:t": "Nigeria",
+        "de": "Oyo",
+        "de:t": "Nigeria"
+    },
+    {
+        "en": "Ozubulu",
+        "en:t": "Nigeria | Anambra",
+        "a": true,
+        "g": {
+            "lat": 5.9593,
+            "lon": 6.8485
+        },
+        "it": "Ozubulu",
+        "it:t": "Nigeria | Anambra",
+        "es": "Ozubulu",
+        "es:t": "Nigeria | Anambra",
+        "de": "Ozubulu",
+        "de:t": "Nigeria | Anambra"
+    },
+    {
+        "en": "Pankshin",
+        "en:t": "Nigeria",
+        "a": true,
+        "g": {
+            "lat": 9.3279,
+            "lon": 9.4312
+        },
+        "it": "Pankshin",
+        "it:t": "Nigeria",
+        "es": "Pankshin",
+        "es:t": "Nigeria",
+        "de": "Pankshin",
+        "de:t": "Nigeria"
+    },
+    {
+        "en": "Pategi",
+        "en:t": "Nigeria",
+        "a": true,
+        "g": {
+            "lat": 8.7211,
+            "lon": 5.7563
+        },
+        "it": "Pategi",
+        "it:t": "Nigeria",
+        "es": "Pategi",
+        "es:t": "Nigeria",
+        "de": "Pategi",
+        "de:t": "Nigeria"
+    },
+    {
+        "en": "Pindiga",
+        "en:t": "Nigeria | Akko",
+        "a": true,
+        "g": {
+            "lat": 9.9848,
+            "lon": 10.951
+        },
+        "it": "Pindiga",
+        "it:t": "Nigeria | Akko",
+        "es": "Pindiga",
+        "es:t": "Nigeria | Akko",
+        "de": "Pindiga",
+        "de:t": "Nigeria | Akko"
+    },
+    {
+        "en": "Port Harcourt",
+        "en:t": "Nigeria | Rivers",
+        "a": true,
+        "g": {
+            "lat": 4.8156,
+            "lon": 7.0498
+        },
+        "it": "Port Harcourt",
+        "it:t": "Nigeria | Rivers",
+        "es": "Port Harcourt",
+        "es:t": "Nigeria | R\u00edos",
+        "de": "Port Harcourt",
+        "de:t": "Nigeria | Rivers"
+    },
+    {
+        "en": "Potiskum",
+        "en:t": "Nigeria",
+        "a": true,
+        "g": {
+            "lat": 11.7072,
+            "lon": 11.0825
+        },
+        "it": "Potiskum",
+        "it:t": "Nigeria",
+        "es": "Potiskum",
+        "es:t": "Nigeria",
+        "de": "Potiskum",
+        "de:t": "Nigeria"
+    },
+    {
+        "en": "Rano",
+        "en:t": "Nigeria | Kano",
+        "a": true,
+        "g": {
+            "lat": 11.561,
+            "lon": 8.5817
+        },
+        "it": "Rano",
+        "it:t": "Nigeria | Kano",
+        "es": "Rano",
+        "es:t": "Nigeria | Kano",
+        "de": "Rano",
+        "de:t": "Nigeria | Kano"
+    },
+    {
+        "en": "Rijau",
+        "en:t": "Nigeria",
+        "a": true,
+        "g": {
+            "lat": 11.0991,
+            "lon": 5.2528
+        },
+        "it": "Rijau",
+        "it:t": "Nigeria",
+        "es": "Rijau",
+        "es:t": "Nigeria",
+        "de": "Rijau",
+        "de:t": "Nigeria"
+    },
+    {
+        "en": "Sagamu",
+        "en:t": "Nigeria",
+        "a": true,
+        "g": {
+            "lat": 6.8322,
+            "lon": 3.6319
+        },
+        "it": "Shagamu",
+        "it:t": "Nigeria",
+        "es": "Sagamu",
+        "es:t": "Nigeria",
+        "de": "Shagamu",
+        "de:t": "Nigeria"
+    },
+    {
+        "en": "Sapele",
+        "en:t": "Nigeria",
+        "a": true,
+        "g": {
+            "lat": 5.8751,
+            "lon": 5.6931
+        },
+        "it": "Sapele",
+        "it:t": "Nigeria",
+        "es": "Sapele",
+        "es:t": "Nigeria",
+        "de": "Sapele",
+        "de:t": "Nigeria"
+    },
+    {
+        "en": "Shaki",
+        "en:t": "Nigeria | Oyo",
+        "a": true,
+        "g": {
+            "lat": 8.6726,
+            "lon": 3.3943
+        },
+        "it": "Shaki",
+        "it:t": "Nigeria | Oyo",
+        "es": "Shaki",
+        "es:t": "Nigeria | Oyo",
+        "de": "Shaki",
+        "de:t": "Nigeria | Oyo"
+    },
+    {
+        "en": "Soba",
+        "en:t": "Nigeria",
+        "a": true,
+        "g": {
+            "lat": 10.9841,
+            "lon": 8.0602
+        },
+        "it": "Soba",
+        "it:t": "Nigeria",
+        "es": "Soba",
+        "es:t": "Nigeria",
+        "de": "Soba",
+        "de:t": "Nigeria"
+    },
+    {
+        "en": "Sofo-Birnin-Gwari",
+        "en:t": "Nigeria | Birnin Gwari",
+        "a": true,
+        "g": {
+            "lat": 11.0167,
+            "lon": 6.7871
+        },
+        "it": "Sofo-Birnin-Gwari",
+        "it:t": "Nigeria | Birnin Gwari",
+        "es": "Sofo-Birnin-Gwari",
+        "es:t": "Nigeria | Birnin Gwari",
+        "de": "Sofo-Birnin-Gwari",
+        "de:t": "Nigeria | Birnin Gwari"
+    },
+    {
+        "en": "Sokoto",
+        "en:t": "Nigeria",
+        "a": true,
+        "g": {
+            "lat": 13.0059,
+            "lon": 5.2476
+        },
+        "it": "Sokoto",
+        "it:t": "Nigeria",
+        "es": "Sokoto",
+        "es:t": "Nigeria",
+        "de": "Sokoto",
+        "de:t": "Nigeria"
+    },
+    {
+        "en": "Suleja",
+        "en:t": "Nigeria | Kwamba",
+        "a": true,
+        "g": {
+            "lat": 9.2003,
+            "lon": 7.1723
+        },
+        "it": "Suleja",
+        "it:t": "Nigeria | Kwamba",
+        "es": "Suleja",
+        "es:t": "Nigeria | Kwamba",
+        "de": "Suleja",
+        "de:t": "Nigeria | Kwamba"
+    },
+    {
+        "en": "Takum",
+        "en:t": "Nigeria",
+        "a": true,
+        "g": {
+            "lat": 7.2577,
+            "lon": 9.9745
+        },
+        "it": "Takum",
+        "it:t": "Nigeria",
+        "es": "Takum",
+        "es:t": "Nigeria",
+        "de": "Takum",
+        "de:t": "Nigeria"
+    },
+    {
+        "en": "Talata Mafara",
+        "en:t": "Nigeria",
+        "a": true,
+        "g": {
+            "lat": 12.5618,
+            "lon": 6.0653
+        },
+        "it": "Talata Mafara",
+        "it:t": "Nigeria",
+        "es": "Talata Mafara",
+        "es:t": "Nigeria",
+        "de": "Talata Mafara",
+        "de:t": "Nigeria"
+    },
+    {
+        "en": "Tambuwal",
+        "en:t": "Nigeria | Sokoto",
+        "a": true,
+        "g": {
+            "lat": 12.3492,
+            "lon": 4.8521
+        },
+        "it": "Tambuwal",
+        "it:t": "Nigeria | Sokoto",
+        "es": "Tambuwal",
+        "es:t": "Nigeria | Sokoto",
+        "de": "Tambuwal",
+        "de:t": "Nigeria | Sokoto"
+    },
+    {
+        "en": "Tegina",
+        "en:t": "Nigeria | Rafi",
+        "a": true,
+        "g": {
+            "lat": 10.0805,
+            "lon": 6.1752
+        },
+        "it": "Tegina",
+        "it:t": "Nigeria | Rafi",
+        "es": "Tegina",
+        "es:t": "Nigeria | Rafi",
+        "de": "Tegina",
+        "de:t": "Nigeria | Rafi"
+    },
+    {
+        "en": "Ubiaja",
+        "en:t": "Nigeria | Esan South-East",
+        "a": true,
+        "g": {
+            "lat": 6.6493,
+            "lon": 6.3918
+        },
+        "it": "Ubiaja",
+        "it:t": "Nigeria | Esan South-East",
+        "es": "Ubiaja",
+        "es:t": "Nigeria | Esan South-East",
+        "de": "Ubiaja",
+        "de:t": "Nigeria | Esan South-East"
+    },
+    {
+        "en": "Uga",
+        "en:t": "Nigeria | Anambra",
+        "a": true,
+        "g": {
+            "lat": 5.9353,
+            "lon": 7.0794
+        },
+        "it": "Uga",
+        "it:t": "Nigeria | Anambra",
+        "es": "Uga",
+        "es:t": "Nigeria | Anambra",
+        "de": "Uga",
+        "de:t": "Nigeria | Anambra"
+    },
+    {
+        "en": "Ugep",
+        "en:t": "Nigeria | Yakurr",
+        "a": true,
+        "g": {
+            "lat": 5.8066,
+            "lon": 8.0765
+        },
+        "it": "Ugep",
+        "it:t": "Nigeria | Yakurr",
+        "es": "Ugep",
+        "es:t": "Nigeria | Yakurr",
+        "de": "Ugep",
+        "de:t": "Nigeria | Yakurr"
+    },
+    {
+        "en": "Ughelli",
+        "en:t": "Nigeria | Delta",
+        "a": true,
+        "g": {
+            "lat": 5.5002,
+            "lon": 5.9938
+        },
+        "it": "Ughelli",
+        "it:t": "Nigeria | Delta",
+        "es": "Ughelli",
+        "es:t": "Nigeria | Delta",
+        "de": "Ughelli",
+        "de:t": "Nigeria | Delta"
+    },
+    {
+        "en": "Umuahia",
+        "en:t": "Nigeria | Abia",
+        "a": true,
+        "g": {
+            "lat": 5.525,
+            "lon": 7.4922
+        },
+        "it": "Umuahia",
+        "it:t": "Nigeria | Abia",
+        "es": "Umuahia",
+        "es:t": "Nigeria | Abia",
+        "de": "Umuahia",
+        "de:t": "Nigeria | Abia"
+    },
+    {
+        "en": "Uromi",
+        "en:t": "Nigeria | Esan North-East",
+        "a": true,
+        "g": {
+            "lat": 6.714,
+            "lon": 6.3279
+        },
+        "it": "Uromi",
+        "it:t": "Nigeria | Esan North-East",
+        "es": "Uromi",
+        "es:t": "Nigeria | Esan North-East",
+        "de": "Uromi",
+        "de:t": "Nigeria | Esan North-East"
+    },
+    {
+        "en": "Uyo",
+        "en:t": "Nigeria | Akwa Ibom",
+        "a": true,
+        "g": {
+            "lat": 5.0377,
+            "lon": 7.9128
+        },
+        "it": "Uyo",
+        "it:t": "Nigeria | Akwa Ibom",
+        "es": "Uyo",
+        "es:t": "Nigeria | Akua Ibom",
+        "de": "Uyo",
+        "de:t": "Nigeria | Akwa Ibom"
+    },
+    {
+        "en": "Wamba",
+        "en:t": "Nigeria",
+        "a": true,
+        "g": {
+            "lat": 8.9432,
+            "lon": 8.6023
+        },
+        "it": "Wamba",
+        "it:t": "Nigeria",
+        "es": "Wamba",
+        "es:t": "Nigeria",
+        "de": "Wamba",
+        "de:t": "Nigeria"
+    },
+    {
+        "en": "Warri",
+        "en:t": "Nigeria | Delta",
+        "a": true,
+        "g": {
+            "lat": 5.5544,
+            "lon": 5.7932
+        },
+        "it": "Warri",
+        "it:t": "Nigeria | Delta",
+        "es": "Warri",
+        "es:t": "Nigeria | Delta",
+        "de": "Warri",
+        "de:t": "Nigeria | Delta"
+    },
+    {
+        "en": "Wudil",
+        "en:t": "Nigeria",
+        "a": true,
+        "g": {
+            "lat": 11.7942,
+            "lon": 8.839
+        },
+        "it": "Wudil",
+        "it:t": "Nigeria",
+        "es": "Wudil",
+        "es:t": "Nigeria",
+        "de": "Wudil",
+        "de:t": "Nigeria"
+    },
+    {
+        "en": "Wukari",
+        "en:t": "Nigeria",
+        "a": true,
+        "g": {
+            "lat": 7.8773,
+            "lon": 9.779
+        },
+        "it": "Wukari",
+        "it:t": "Nigeria",
+        "es": "Wukari",
+        "es:t": "Nigeria",
+        "de": "Wukari",
+        "de:t": "Nigeria"
+    },
+    {
+        "en": "Yenagoa",
+        "en:t": "Nigeria | Rivers",
+        "a": true,
+        "g": {
+            "lat": 4.9212,
+            "lon": 6.2748
+        },
+        "it": "Yenagoa",
+        "it:t": "Nigeria | Rivers",
+        "es": "Yenagoa",
+        "es:t": "Nigeria | R\u00edos",
+        "de": "Yenagoa",
+        "de:t": "Nigeria | Rivers"
+    },
+    {
+        "en": "Yola",
+        "en:t": "Nigeria | Yola North",
+        "a": true,
+        "g": {
+            "lat": 9.2035,
+            "lon": 12.4954
+        },
+        "it": "Yola",
+        "it:t": "Nigeria | Yola North",
+        "es": "Yola",
+        "es:t": "Nigeria | Yola North",
+        "de": "Yola",
+        "de:t": "Nigeria | Yola North"
+    },
+    {
+        "en": "Zaria",
+        "en:t": "Nigeria | Kaduna",
+        "a": true,
+        "g": {
+            "lat": 11.0855,
+            "lon": 7.7199
+        },
+        "it": "Zaria",
+        "it:t": "Nigeria | Kaduna",
+        "es": "Zaria",
+        "es:t": "Nigeria | Kaduna",
+        "de": "Zaria",
+        "de:t": "Nigeria | Kaduna"
+    },
+    {
+        "en": "Zungeru",
+        "en:t": "Nigeria | Wushishi",
+        "a": true,
+        "g": {
+            "lat": 9.8097,
+            "lon": 6.1553
+        },
+        "it": "Zungeru",
+        "it:t": "Nigeria | Wushishi",
+        "es": "Zungeru",
+        "es:t": "Nigeria | Wushishi",
+        "de": "Zungeru",
+        "de:t": "Nigeria | Wushishi"
+    },
+    {
+        "en": "Zuru",
+        "en:t": "Nigeria",
+        "a": true,
+        "g": {
+            "lat": 11.4384,
+            "lon": 5.2319
+        },
+        "it": "Zuru",
+        "it:t": "Nigeria",
+        "es": "Zuru",
+        "es:t": "Nigeria",
+        "de": "Zuru",
+        "de:t": "Nigeria"
+    }
+]

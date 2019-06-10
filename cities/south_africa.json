@@ -1,0 +1,2372 @@
+[
+    {
+        "en": "Aliwal North",
+        "en:t": "South Africa | Drakensberg",
+        "a": true,
+        "g": {
+            "lat": -30.6984,
+            "lon": 26.7202
+        },
+        "it": "Aliwal North",
+        "it:t": "Sudafrica | Drakensberg",
+        "es": "Aliwal North",
+        "es:t": "Sud\u00e1frica | Drakensberg",
+        "de": "Aliwal North",
+        "de:t": "S\u00fcdafrika | Drakensberg"
+    },
+    {
+        "en": "Allanridge",
+        "en:t": "South Africa | Lejweleputswa",
+        "a": true,
+        "g": {
+            "lat": -27.7562,
+            "lon": 26.6376
+        },
+        "it": "Allanridge",
+        "it:t": "Sudafrica | Lejweleputswa",
+        "es": "Allanridge",
+        "es:t": "Sud\u00e1frica | Lejweleputswa",
+        "de": "Allanridge",
+        "de:t": "S\u00fcdafrika | Lejweleputswa"
+    },
+    {
+        "en": "Atlantis",
+        "en:t": "South Africa | Cape Town",
+        "a": true,
+        "g": {
+            "lat": -33.5063,
+            "lon": 18.487
+        },
+        "it": "Atlantis",
+        "it:t": "Sudafrica | Citt\u00e0 del Capo",
+        "es": "Atlantis",
+        "es:t": "Sud\u00e1frica | Cape Town",
+        "de": "Atlantis",
+        "de:t": "S\u00fcdafrika | Kapstadt"
+    },
+    {
+        "en": "Balfour",
+        "en:t": "South Africa | Eastvaal Council",
+        "a": true,
+        "g": {
+            "lat": -26.6537,
+            "lon": 28.5915
+        },
+        "it": "Balfour",
+        "it:t": "Sudafrica | Gert Sibande",
+        "es": "Balfour",
+        "es:t": "Sud\u00e1frica | Eastvaal Council",
+        "de": "Balfour",
+        "de:t": "S\u00fcdafrika | Gert Sibande"
+    },
+    {
+        "en": "Barberton",
+        "en:t": "South Africa | Ehlanzeni",
+        "a": true,
+        "g": {
+            "lat": -25.7752,
+            "lon": 31.045
+        },
+        "it": "Barberton",
+        "it:t": "Sudafrica | Ehlanzeni",
+        "es": "Barberton",
+        "es:t": "Sud\u00e1frica | Ehlanzeni",
+        "de": "Barberton",
+        "de:t": "S\u00fcdafrika | Ehlanzeni"
+    },
+    {
+        "en": "Beaufort West",
+        "en:t": "South Africa | Central Karoo",
+        "a": true,
+        "g": {
+            "lat": -32.3529,
+            "lon": 22.5841
+        },
+        "it": "Beaufort West",
+        "it:t": "Sudafrica | Central Karoo",
+        "es": "Beaufort West",
+        "es:t": "Sud\u00e1frica | Central Karoo",
+        "de": "Beaufort West",
+        "de:t": "S\u00fcdafrika | Central Karoo"
+    },
+    {
+        "en": "Bela-Bela",
+        "en:t": "South Africa | Bosveld",
+        "a": true,
+        "g": {
+            "lat": -24.8844,
+            "lon": 28.3287
+        },
+        "it": "Bela-Bela",
+        "it:t": "Sudafrica | Bosveld",
+        "es": "Bela-Bela",
+        "es:t": "Sud\u00e1frica | Bosveld",
+        "de": "Bela-Bela",
+        "de:t": "S\u00fcdafrika | Bosveld"
+    },
+    {
+        "en": "Benoni",
+        "en:t": "South Africa | East Rand",
+        "a": true,
+        "g": {
+            "lat": -26.1511,
+            "lon": 28.3696
+        },
+        "it": "Benoni",
+        "it:t": "Sudafrica | East Rand",
+        "es": "Benoni",
+        "es:t": "Sud\u00e1frica | East Rand",
+        "de": "Benoni",
+        "de:t": "S\u00fcdafrika | East Rand",
+    },
+    {
+        "en": "Bethal",
+        "en:t": "South Africa | Eastvaal Council",
+        "a": true,
+        "g": {
+            "lat": -26.4579,
+            "lon": 29.4667
+        },
+        "it": "Bethal",
+        "it:t": "Sudafrica | Gert Sibande",
+        "es": "Bethal",
+        "es:t": "Sud\u00e1frica | Eastvaal Council",
+        "de": "Bethal",
+        "de:t": "S\u00fcdafrika | Gert Sibande"
+    },
+    {
+        "en": "Bethlehem",
+        "en:t": "South Africa | Thabo Mofutsanyane",
+        "a": true,
+        "g": {
+            "lat": -28.2423,
+            "lon": 28.3111
+        },
+        "it": "Betlemme",
+        "it:t": "Sudafrica | Thabo Mofutsanyane",
+        "es": "Bel\u00e9n",
+        "es:t": "Sud\u00e1frica | Thabo Mofutsanyane",
+        "de": "Betlehem",
+        "de:t": "S\u00fcdafrika | Thabo Mofutsanyane"
+    },
+    {
+        "en": "Bisho",
+        "en:t": "South Africa | Amatole",
+        "a": true,
+        "g": {
+            "lat": -32.8499,
+            "lon": 27.441
+        },
+        "it": "Bhisho",
+        "it:t": "Sudafrica | Amatole",
+        "es": "Bhisho",
+        "es:t": "Sud\u00e1frica | Amathole",
+        "de": "Bhisho",
+        "de:t": "S\u00fcdafrika | Amathole"
+    },
+    {
+        "en": "Bloemfontein",
+        "en:t": "South Africa | Motheo",
+        "a": true,
+        "g": {
+            "lat": -29.0852,
+            "lon": 26.1596
+        },
+        "it": "Bloemfontein",
+        "it:t": "Sudafrica | Motheo",
+        "es": "Bloemfontein",
+        "es:t": "Sud\u00e1frica | Motheo",
+        "de": "Bloemfontein",
+        "de:t": "S\u00fcdafrika | Motheo"
+    },
+    {
+        "en": "Bloemhof",
+        "en:t": "South Africa | Bophirima",
+        "a": true,
+        "g": {
+            "lat": -27.6263,
+            "lon": 25.58
+        },
+        "it": "Bloemhof",
+        "it:t": "Sudafrica | Bophirima",
+        "es": "Bloemhof",
+        "es:t": "Sud\u00e1frica | Bophirima",
+        "de": "Bloemhof",
+        "de:t": "S\u00fcdafrika | Bophirima"
+    },
+    {
+        "en": "Boksburg",
+        "en:t": "South Africa | East Rand",
+        "a": true,
+        "g": {
+            "lat": -26.2326,
+            "lon": 28.241
+        },
+        "it": "Boksburg",
+        "it:t": "Sudafrica | East Rand",
+        "es": "Boksburg",
+        "es:t": "Sud\u00e1frica | East Rand",
+        "de": "Boksburg",
+        "de:t": "S\u00fcdafrika | East Rand"
+    },
+    {
+        "en": "Bothaville",
+        "en:t": "South Africa | Lejweleputswa",
+        "a": true,
+        "g": {
+            "lat": -27.374,
+            "lon": 26.62
+        },
+        "it": "Bothaville",
+        "it:t": "Sudafrica | Lejweleputswa",
+        "es": "Bothaville",
+        "es:t": "Sud\u00e1frica | Lejweleputswa",
+        "de": "Bothaville",
+        "de:t": "S\u00fcdafrika | Lejweleputswa"
+    },
+    {
+        "en": "Botshabelo",
+        "en:t": "South Africa | Motheo",
+        "a": true,
+        "g": {
+            "lat": -29.2673,
+            "lon": 26.7261
+        },
+        "it": "Botshabelo",
+        "it:t": "Sudafrica | Motheo",
+        "es": "Botshabelo",
+        "es:t": "Sud\u00e1frica | Motheo",
+        "de": "Botshabelo",
+        "de:t": "S\u00fcdafrika | Motheo"
+    },
+    {
+        "en": "Brakpan",
+        "en:t": "South Africa | East Rand",
+        "a": true,
+        "g": {
+            "lat": -26.2908,
+            "lon": 28.3228
+        },
+        "it": "Brakpan",
+        "it:t": "Sudafrica | East Rand",
+        "es": "Brakpan",
+        "es:t": "Sud\u00e1frica | East Rand",
+        "de": "Brakpan",
+        "de:t": "S\u00fcdafrika | East Rand"
+    },
+    {
+        "en": "Brits",
+        "en:t": "South Africa | Bojanala",
+        "a": true,
+        "g": {
+            "lat": -25.61,
+            "lon": 27.796
+        },
+        "it": "Brits",
+        "it:t": "Sudafrica | Bojanala",
+        "es": "Brits",
+        "es:t": "Sud\u00e1frica | Bojanala",
+        "de": "Brits",
+        "de:t": "S\u00fcdafrika | Bojanala"
+    },
+    {
+        "en": "Bronkhorstspruit",
+        "en:t": "South Africa | Metsweding",
+        "a": true,
+        "g": {
+            "lat": -25.8084,
+            "lon": 28.7081
+        },
+        "it": "Bronkhorstspruit",
+        "it:t": "Sudafrica | Metsweding",
+        "es": "Bronkhorstspruit",
+        "es:t": "Sud\u00e1frica | Metsweding",
+        "de": "Bronkhorstspruit",
+        "de:t": "S\u00fcdafrika | Metsweding"
+    },
+    {
+        "en": "Butterworth",
+        "en:t": "South Africa | Amatole",
+        "a": true,
+        "g": {
+            "lat": -32.3323,
+            "lon": 28.1446
+        },
+        "it": "Butterworth",
+        "it:t": "Sudafrica | Amatole",
+        "es": "Butterworth",
+        "es:t": "Sud\u00e1frica | Amathole",
+        "de": "Butterworth",
+        "de:t": "S\u00fcdafrika | Amathole"
+    },
+    {
+        "en": "Cape Town",
+        "en:t": "South Africa",
+        "a": true,
+        "g": {
+            "lat": -33.9249,
+            "lon": 18.4241
+        },
+        "it": "Citt\u00e0 del Capo",
+        "it:t": "Sudafrica",
+        "es": "Ciudad del Cabo",
+        "es:t": "Sud\u00e1frica",
+        "de": "Kapstadt",
+        "de:t": "S\u00fcdafrika"
+    },
+    {
+        "en": "Carletonville",
+        "en:t": "South Africa | West Rand",
+        "a": true,
+        "g": {
+            "lat": -26.4012,
+            "lon": 27.3851
+        },
+        "it": "Carletonville",
+        "it:t": "Sudafrica | West Rand",
+        "es": "Carletonville",
+        "es:t": "Sud\u00e1frica | West Rand",
+        "de": "Carletonville",
+        "de:t": "S\u00fcdafrika | West Rand"
+    },
+    {
+        "en": "Centurion",
+        "en:t": "South Africa | Tshwane",
+        "a": true,
+        "g": {
+            "lat": -25.864,
+            "lon": 28.0889
+        },
+        "it": "Centurion",
+        "it:t": "Sudafrica | Tshwane",
+        "es": "Centurion",
+        "es:t": "Sud\u00e1frica | Tshwane",
+        "de": "Centurion",
+        "de:t": "S\u00fcdafrika | Tshwane"
+    },
+    {
+        "en": "Ceres",
+        "en:t": "South Africa | Cape Winelands",
+        "a": true,
+        "g": {
+            "lat": -33.4007,
+            "lon": 19.295
+        },
+        "it": "Ceres",
+        "it:t": "Sudafrica | Cape Winelands",
+        "es": "Ceres",
+        "es:t": "Sud\u00e1frica | Cape Winelands",
+        "de": "Ceres",
+        "de:t": "S\u00fcdafrika | Cape Winelands"
+    },
+    {
+        "en": "Christiana",
+        "en:t": "South Africa | Bophirima",
+        "a": true,
+        "g": {
+            "lat": -27.8847,
+            "lon": 25.1533
+        },
+        "it": "Christiana",
+        "it:t": "Sudafrica | Bophirima",
+        "es": "Christiana",
+        "es:t": "Sud\u00e1frica | Bophirima",
+        "de": "Christiana",
+        "de:t": "S\u00fcdafrika | Bophirima"
+    },
+    {
+        "en": "Cradock",
+        "en:t": "South Africa | Stormberg",
+        "a": true,
+        "g": {
+            "lat": -32.181,
+            "lon": 25.651
+        },
+        "it": "Cradock",
+        "it:t": "Sudafrica | Stormberg",
+        "es": "Cradock",
+        "es:t": "Sud\u00e1frica | Stormberg",
+        "de": "Cradock",
+        "de:t": "S\u00fcdafrika | Stormberg"
+    },
+    {
+        "en": "Cullinan",
+        "en:t": "South Africa",
+        "a": true,
+        "g": {
+            "lat": -25.671,
+            "lon": 28.5238
+        },
+        "it": "Cullinan",
+        "it:t": "Sudafrica",
+        "es": "Cullinan",
+        "es:t": "Sud\u00e1frica",
+        "de": "Cullinan",
+        "de:t": "S\u00fcdafrika"
+    },
+    {
+        "en": "De Aar",
+        "en:t": "South Africa | Bo-Karoo",
+        "a": true,
+        "g": {
+            "lat": -30.6766,
+            "lon": 24.0131
+        },
+        "it": "De Aar",
+        "it:t": "Sudafrica | Bo-Karoo",
+        "es": "De Aar",
+        "es:t": "Sud\u00e1frica | Bo-Karoo",
+        "de": "De Aar",
+        "de:t": "S\u00fcdafrika | Bo-Karoo"
+    },
+    {
+        "en": "Delmas",
+        "en:t": "South Africa | Nkangala",
+        "a": true,
+        "g": {
+            "lat": -26.1403,
+            "lon": 28.6787
+        },
+        "it": "Delmas",
+        "it:t": "Sudafrica | Nkangala",
+        "es": "Delmas",
+        "es:t": "Sud\u00e1frica | Nkangala",
+        "de": "Delmas",
+        "de:t": "S\u00fcdafrika | Nkangala"
+    },
+    {
+        "en": "Diepsloot",
+        "en:t": "South Africa | Johannesburg",
+        "a": true,
+        "g": {
+            "lat": -25.9396,
+            "lon": 28.0128
+        },
+        "it": "Diepsloot",
+        "it:t": "Sudafrica | Johannesburg",
+        "es": "Diepsloot",
+        "es:t": "Sud\u00e1frica | Johannesburgo",
+        "de": "Diepsloot",
+        "de:t": "S\u00fcdafrika | Johannesburg"
+    },
+    {
+        "en": "Dolphin Coast",
+        "en:t": "South Africa | Lembe DC",
+        "a": true,
+        "g": {
+            "lat": -29.4376,
+            "lon": 31.2226
+        },
+        "it": "Ballito",
+        "it:t": "Sudafrica | Lembe",
+        "es": "Dolphin Coast",
+        "es:t": "Sud\u00e1frica | Lembe DC",
+        "de": "Ballito",
+        "de:t": "S\u00fcdafrika | Lembe"
+    },
+    {
+        "en": "Driefontein",
+        "en:t": "South Africa | Eastvaal Council",
+        "a": true,
+        "g": {
+            "lat": -27.0065,
+            "lon": 30.4242
+        },
+        "it": "Driefontein",
+        "it:t": "Sudafrica | Eastvaal Council",
+        "es": "Driefontein",
+        "es:t": "Sud\u00e1frica | Eastvaal Council",
+        "de": "Driefontein",
+        "de:t": "S\u00fcdafrika | Eastvaal Council"
+    },
+    {
+        "en": "Dundee",
+        "en:t": "South Africa | Umzinyathi",
+        "a": true,
+        "g": {
+            "lat": -28.165,
+            "lon": 30.2343
+        },
+        "it": "Dundee",
+        "it:t": "Sudafrica | Umzinyathi",
+        "es": "Dundee",
+        "es:t": "Sud\u00e1frica | Umzinyathi",
+        "de": "Dundee",
+        "de:t": "S\u00fcdafrika | Umzinyathi"
+    },
+    {
+        "en": "Durban",
+        "en:t": "South Africa",
+        "a": true,
+        "g": {
+            "lat": -29.8587,
+            "lon": 31.0218
+        },
+        "it": "Durban",
+        "it:t": "Sudafrica",
+        "es": "Durban",
+        "es:t": "Sud\u00e1frica",
+        "de": "Durban",
+        "de:t": "S\u00fcdafrika"
+    },
+    {
+        "en": "East London",
+        "en:t": "South Africa | Amatole",
+        "a": true,
+        "g": {
+            "lat": -33.0292,
+            "lon": 27.8546
+        },
+        "it": "East London",
+        "it:t": "Sudafrica | Amatole",
+        "es": "East London",
+        "es:t": "Sud\u00e1frica | Amathole",
+        "de": "East London",
+        "de:t": "S\u00fcdafrika | Amathole"
+    },
+    {
+        "en": "Ekangala",
+        "en:t": "South Africa | Metsweding",
+        "a": true,
+        "g": {
+            "lat": -25.6801,
+            "lon": 28.7402
+        },
+        "it": "Ekangala",
+        "it:t": "Sudafrica | Metsweding",
+        "es": "Ekangala",
+        "es:t": "Sud\u00e1frica | Metsweding",
+        "de": "Ekangala",
+        "de:t": "S\u00fcdafrika | Metsweding"
+    },
+    {
+        "en": "Emalahleni",
+        "en:t": "South Africa | Nkangala",
+        "a": true,
+        "g": {
+            "lat": -25.8728,
+            "lon": 29.2553
+        },
+        "it": "Emalahleni",
+        "it:t": "Sudafrica | Nkangala",
+        "es": "Emalahleni",
+        "es:t": "Sud\u00e1frica | Nkangala",
+        "de": "Emalahleni",
+        "de:t": "S\u00fcdafrika | Nkangala"
+    },
+    {
+        "en": "Embalenhle",
+        "en:t": "South Africa",
+        "a": true,
+        "g": {
+            "lat": -26.5524,
+            "lon": 29.0751
+        },
+        "it": "Embalenhle",
+        "it:t": "Sudafrica",
+        "es": "Embalenhle",
+        "es:t": "Sud\u00e1frica",
+        "de": "Embalenhle",
+        "de:t": "S\u00fcdafrika"
+    },
+    {
+        "en": "Empangeni",
+        "en:t": "South Africa | Uthungulu DC",
+        "a": true,
+        "g": {
+            "lat": -28.7532,
+            "lon": 31.8935
+        },
+        "it": "Empangeni",
+        "it:t": "Sudafrica | Uthungulu DC",
+        "es": "Empangeni",
+        "es:t": "Sud\u00e1frica | Uthungulu DC",
+        "de": "Empangeni",
+        "de:t": "S\u00fcdafrika | Uthungulu DC"
+    },
+    {
+        "en": "Ermelo",
+        "en:t": "South Africa | Eastvaal Council",
+        "a": true,
+        "g": {
+            "lat": -26.5124,
+            "lon": 29.9856
+        },
+        "it": "Ermelo",
+        "it:t": "Sudafrica | Eastvaal Council",
+        "es": "Ermelo",
+        "es:t": "Sud\u00e1frica | Eastvaal Council",
+        "de": "Ermelo",
+        "de:t": "S\u00fcdafrika | Eastvaal Council"
+    },
+    {
+        "en": "Esikhawini H",
+        "en:t": "South Africa | Richards Bay",
+        "a": true,
+        "g": {
+            "lat": -28.8677,
+            "lon": 31.916
+        },
+        "it": "Esikhawini H",
+        "it:t": "Sudafrica | Richards Bay",
+        "es": "Esikhawini H",
+        "es:t": "Sud\u00e1frica | Richards Bay",
+        "de": "Esikhawini H",
+        "de:t": "S\u00fcdafrika | Richards Bay"
+    },
+    {
+        "en": "Fort Beaufort",
+        "en:t": "South Africa | Amatole",
+        "a": true,
+        "g": {
+            "lat": -32.7663,
+            "lon": 26.62
+        },
+        "it": "Fort Beaufort",
+        "it:t": "Sudafrica | Amatole",
+        "es": "Fort Beaufort",
+        "es:t": "Sud\u00e1frica | Amathole",
+        "de": "Fort Beaufort",
+        "de:t": "S\u00fcdafrika | Amathole"
+    },
+    {
+        "en": "Ga-Rankuwa",
+        "en:t": "South Africa | Pretoria",
+        "a": true,
+        "g": {
+            "lat": -25.5864,
+            "lon": 27.9876
+        },
+        "it": "Ga-Rankuwa",
+        "it:t": "Sudafrica | Pretoria",
+        "es": "Ga-Rankuwa",
+        "es:t": "Sud\u00e1frica | Pretoria",
+        "de": "Ga-Rankuwa",
+        "de:t": "S\u00fcdafrika | Tshwane"
+    },
+    {
+        "en": "George",
+        "en:t": "South Africa | South Cape DC",
+        "a": true,
+        "g": {
+            "lat": -33.9881,
+            "lon": 22.453
+        },
+        "it": "George",
+        "it:t": "Sudafrica | South Cape DC",
+        "es": "George",
+        "es:t": "Sud\u00e1frica | South Cape DC",
+        "de": "George",
+        "de:t": "S\u00fcdafrika | South Cape DC"
+    },
+    {
+        "en": "Giyani",
+        "en:t": "South Africa | Mopani",
+        "a": true,
+        "g": {
+            "lat": -23.3072,
+            "lon": 30.7063
+        },
+        "it": "Giyani",
+        "it:t": "Sudafrica | Mopani",
+        "es": "Giyani",
+        "es:t": "Sud\u00e1frica | Mopani",
+        "de": "Giyani",
+        "de:t": "S\u00fcdafrika | Mopani"
+    },
+    {
+        "en": "Graaff-Reinet",
+        "en:t": "South Africa | Western",
+        "a": true,
+        "g": {
+            "lat": -32.2547,
+            "lon": 24.548
+        },
+        "it": "Graaff-Reinet",
+        "it:t": "Sudafrica | Western",
+        "es": "Graaff-Reinet",
+        "es:t": "Sud\u00e1frica | Western",
+        "de": "Graaff-Reinet",
+        "de:t": "S\u00fcdafrika | Western"
+    },
+    {
+        "en": "Grabouw",
+        "en:t": "South Africa | Overberg",
+        "a": true,
+        "g": {
+            "lat": -34.1521,
+            "lon": 19.0037
+        },
+        "it": "Grabouw",
+        "it:t": "Sudafrica | Overberg",
+        "es": "Grabouw",
+        "es:t": "Sud\u00e1frica | Overberg",
+        "de": "Grabouw",
+        "de:t": "S\u00fcdafrika | Overberg"
+    },
+    {
+        "en": "Grahamstown",
+        "en:t": "South Africa | Western",
+        "a": true,
+        "g": {
+            "lat": -33.3106,
+            "lon": 26.5256
+        },
+        "it": "Grahamstown",
+        "it:t": "Sudafrica | Western",
+        "es": "Grahamstown",
+        "es:t": "Sud\u00e1frica | Western",
+        "de": "Grahamstown",
+        "de:t": "S\u00fcdafrika | Western"
+    },
+    {
+        "en": "Harrismith",
+        "en:t": "South Africa | Thabo Mofutsanyane",
+        "a": true,
+        "g": {
+            "lat": -28.275,
+            "lon": 29.1042
+        },
+        "it": "Harrismith",
+        "it:t": "Sudafrica | Thabo Mofutsanyane",
+        "es": "Harrismith",
+        "es:t": "Sud\u00e1frica | Thabo Mofutsanyane",
+        "de": "Harrismith",
+        "de:t": "S\u00fcdafrika | Thabo Mofutsanyane"
+    },
+    {
+        "en": "Heidelberg",
+        "en:t": "South Africa",
+        "a": true,
+        "g": {
+            "lat": -26.491,
+            "lon": 28.3842
+        },
+        "it": "Heidelberg",
+        "it:t": "Sudafrica",
+        "es": "Heidelberg",
+        "es:t": "Sud\u00e1frica",
+        "de": "Heidelberg",
+        "de:t": "S\u00fcdafrika"
+    },
+    {
+        "en": "Heilbron",
+        "en:t": "South Africa",
+        "a": true,
+        "g": {
+            "lat": -27.282,
+            "lon": 27.9835
+        },
+        "it": "Heilbron",
+        "it:t": "Sudafrica",
+        "es": "Heilbron",
+        "es:t": "Sud\u00e1frica",
+        "de": "Heilbron",
+        "de:t": "S\u00fcdafrika"
+    },
+    {
+        "en": "Hendrina",
+        "en:t": "South Africa | Nkangala",
+        "a": true,
+        "g": {
+            "lat": -26.1599,
+            "lon": 29.7252
+        },
+        "it": "Hendrina",
+        "it:t": "Sudafrica | Nkangala",
+        "es": "Hendrina",
+        "es:t": "Sud\u00e1frica | Nkangala",
+        "de": "Hendrina",
+        "de:t": "S\u00fcdafrika | Nkangala"
+    },
+    {
+        "en": "Hennenman",
+        "en:t": "South Africa | Lejweleputswa",
+        "a": true,
+        "g": {
+            "lat": -27.9784,
+            "lon": 27.0264
+        },
+        "it": "Hennenman",
+        "it:t": "Sudafrica | Lejweleputswa",
+        "es": "Hennenman",
+        "es:t": "Sud\u00e1frica | Lejweleputswa",
+        "de": "Hennenman",
+        "de:t": "S\u00fcdafrika | Lejweleputswa"
+    },
+    {
+        "en": "Hermanus",
+        "en:t": "South Africa | Overberg",
+        "a": true,
+        "g": {
+            "lat": -34.4092,
+            "lon": 19.2504
+        },
+        "it": "Hermanus",
+        "it:t": "Sudafrica | Overberg",
+        "es": "Hermanus",
+        "es:t": "Sud\u00e1frica | Overberg",
+        "de": "Hermanus",
+        "de:t": "S\u00fcdafrika | Overberg"
+    },
+    {
+        "en": "Howick",
+        "en:t": "South Africa | Indlovu DC",
+        "a": true,
+        "g": {
+            "lat": -29.4893,
+            "lon": 30.2167
+        },
+        "it": "Howick",
+        "it:t": "Sudafrica | Indlovu DC",
+        "es": "Howick",
+        "es:t": "Sud\u00e1frica | Indlovu DC",
+        "de": "Howick",
+        "de:t": "S\u00fcdafrika | Indlovu DC"
+    },
+    {
+        "en": "Johannesburg",
+        "en:t": "South Africa",
+        "a": true,
+        "g": {
+            "lat": -26.2041,
+            "lon": 28.0473
+        },
+        "it": "Johannesburg",
+        "it:t": "Sudafrica",
+        "es": "Johannesburgo",
+        "es:t": "Sud\u00e1frica",
+        "de": "Johannesburg",
+        "de:t": "S\u00fcdafrika"
+    },
+    {
+        "en": "Kimberley",
+        "en:t": "South Africa | Diamandveld",
+        "a": true,
+        "g": {
+            "lat": -28.7282,
+            "lon": 24.7499
+        },
+        "it": "Kimberley",
+        "it:t": "Sudafrica | Diamandveld",
+        "es": "Kimberley",
+        "es:t": "Sud\u00e1frica | Diamandveld",
+        "de": "Kimberley",
+        "de:t": "S\u00fcdafrika | Diamandveld"
+    },
+    {
+        "en": "Klerksdorp",
+        "en:t": "South Africa",
+        "a": true,
+        "g": {
+            "lat": -26.492,
+            "lon": 27.4945
+        },
+        "it": "Klerksdorp",
+        "it:t": "Sudafrica",
+        "es": "Klerksdorp",
+        "es:t": "Sud\u00e1frica",
+        "de": "Klerksdorp",
+        "de:t": "S\u00fcdafrika"
+    },
+    {
+        "en": "Knysna",
+        "en:t": "South Africa | South Cape DC",
+        "a": true,
+        "g": {
+            "lat": -34.0351,
+            "lon": 23.0465
+        },
+        "it": "Knysna",
+        "it:t": "Sudafrica | South Cape DC",
+        "es": "Knysna",
+        "es:t": "Sud\u00e1frica | South Cape DC",
+        "de": "Knysna",
+        "de:t": "S\u00fcdafrika | South Cape DC"
+    },
+    {
+        "en": "Kokstad",
+        "en:t": "South Africa | East Griqualand",
+        "a": true,
+        "g": {
+            "lat": -30.5096,
+            "lon": 29.4063
+        },
+        "it": "Kokstad",
+        "it:t": "Sudafrica | East Griqualand",
+        "es": "Kokstad",
+        "es:t": "Sud\u00e1frica | East Griqualand",
+        "de": "Kokstad",
+        "de:t": "S\u00fcdafrika | East Griqualand"
+    },
+    {
+        "en": "Komatipoort",
+        "en:t": "South Africa | Ehlanzeni",
+        "a": true,
+        "g": {
+            "lat": -25.451,
+            "lon": 31.9587
+        },
+        "it": "Komatipoort",
+        "it:t": "Sudafrica | Ehlanzeni",
+        "es": "Komatipoort",
+        "es:t": "Sud\u00e1frica | Ehlanzeni",
+        "de": "Komatipoort",
+        "de:t": "S\u00fcdafrika | Ehlanzeni"
+    },
+    {
+        "en": "Kraaifontein",
+        "en:t": "South Africa | Cape Town",
+        "a": true,
+        "g": {
+            "lat": -33.8534,
+            "lon": 18.7185
+        },
+        "it": "Kraaifontein",
+        "it:t": "Sudafrica | Cape Town",
+        "es": "Kraaifontein",
+        "es:t": "Sud\u00e1frica | Cape Town",
+        "de": "Kraaifontein",
+        "de:t": "S\u00fcdafrika | Cape Town"
+    },
+    {
+        "en": "Kriel",
+        "en:t": "South Africa | Nkangala",
+        "a": true,
+        "g": {
+            "lat": -26.2551,
+            "lon": 29.2634
+        },
+        "it": "Kriel",
+        "it:t": "Sudafrica | Nkangala",
+        "es": "Kriel",
+        "es:t": "Sud\u00e1frica | Nkangala",
+        "de": "Kriel",
+        "de:t": "S\u00fcdafrika | Nkangala"
+    },
+    {
+        "en": "Krugersdorp",
+        "en:t": "South Africa | West Rand",
+        "a": true,
+        "g": {
+            "lat": -26.0963,
+            "lon": 27.8077
+        },
+        "it": "Krugersdorp",
+        "it:t": "Sudafrica | West Rand",
+        "es": "Krugersdorp",
+        "es:t": "Sud\u00e1frica | West Rand",
+        "de": "Krugersdorp",
+        "de:t": "S\u00fcdafrika | West Rand"
+    },
+    {
+        "en": "Kruisfontein",
+        "en:t": "South Africa | Humansdorp",
+        "a": true,
+        "g": {
+            "lat": -33.9843,
+            "lon": 24.7321
+        },
+        "it": "Kruisfontein",
+        "it:t": "Sudafrica | Humansdorp",
+        "es": "Kruisfontein",
+        "es:t": "Sud\u00e1frica | Humansdorp",
+        "de": "Kruisfontein",
+        "de:t": "S\u00fcdafrika | Humansdorp"
+    },
+    {
+        "en": "Kutlwanong",
+        "en:t": "South Africa | Odendaalsrus",
+        "a": true,
+        "g": {
+            "lat": -27.8595,
+            "lon": 26.7673
+        },
+        "it": "Kutlwanong",
+        "it:t": "Sudafrica | Odendaalsrus",
+        "es": "Kutlwanong",
+        "es:t": "Sud\u00e1frica | Odendaalsrus",
+        "de": "Kutlwanong",
+        "de:t": "S\u00fcdafrika | Odendaalsrus"
+    },
+    {
+        "en": "KwaDukuza",
+        "en:t": "South Africa | Lembe DC",
+        "a": true,
+        "g": {
+            "lat": -29.367,
+            "lon": 31.266
+        },
+        "it": "KwaDukuza",
+        "it:t": "Sudafrica | Lembe DC",
+        "es": "KwaDukuza",
+        "es:t": "Sud\u00e1frica | Lembe DC",
+        "de": "KwaDukuza",
+        "de:t": "S\u00fcdafrika | Lembe DC"
+    },
+    {
+        "en": "Lady Frere",
+        "en:t": "South Africa | Stormberg",
+        "a": true,
+        "g": {
+            "lat": -31.6677,
+            "lon": 27.0559
+        },
+        "it": "Lady Frere",
+        "it:t": "Sudafrica | Stormberg",
+        "es": "Lady Frere",
+        "es:t": "Sud\u00e1frica | Stormberg",
+        "de": "Lady Frere",
+        "de:t": "S\u00fcdafrika | Stormberg"
+    },
+    {
+        "en": "Ladybrand",
+        "en:t": "South Africa | Motheo",
+        "a": true,
+        "g": {
+            "lat": -29.186,
+            "lon": 27.4439
+        },
+        "it": "Ladybrand",
+        "it:t": "Sudafrica | Motheo",
+        "es": "Ladybrand",
+        "es:t": "Sud\u00e1frica | Motheo",
+        "de": "Ladybrand",
+        "de:t": "S\u00fcdafrika | Motheo"
+    },
+    {
+        "en": "Lansdowne",
+        "en:t": "South Africa | Cape Town",
+        "a": true,
+        "g": {
+            "lat": -33.9857,
+            "lon": 18.5003
+        },
+        "it": "Lansdowne",
+        "it:t": "Sudafrica | Cape Town",
+        "es": "Lansdowne",
+        "es:t": "Sud\u00e1frica | Cape Town",
+        "de": "Lansdowne",
+        "de:t": "S\u00fcdafrika | Cape Town"
+    },
+    {
+        "en": "Lebowakgomo",
+        "en:t": "South Africa | Central",
+        "a": true,
+        "g": {
+            "lat": -24.311,
+            "lon": 29.4753
+        },
+        "it": "Lebowakgomo",
+        "it:t": "Sudafrica | Central",
+        "es": "Lebowakgomo",
+        "es:t": "Sud\u00e1frica | Central",
+        "de": "Lebowakgomo",
+        "de:t": "S\u00fcdafrika | Central"
+    },
+    {
+        "en": "Lichtenburg",
+        "en:t": "South Africa | Ngaka Modiri Molema",
+        "a": true,
+        "g": {
+            "lat": -26.1093,
+            "lon": 26.1714
+        },
+        "it": "Lichtenburg",
+        "it:t": "Sudafrica | Ngaka Modiri Molema",
+        "es": "Lichtenburg",
+        "es:t": "Sud\u00e1frica | Ngaka Modiri Molema",
+        "de": "Lichtenburg",
+        "de:t": "S\u00fcdafrika | Ngaka Modiri Molema"
+    },
+    {
+        "en": "Louis Trichardt",
+        "en:t": "South Africa | Far North",
+        "a": true,
+        "g": {
+            "lat": -23.0462,
+            "lon": 29.9047
+        },
+        "it": "Louis Trichardt",
+        "it:t": "Sudafrica | Far North",
+        "es": "Louis Trichardt",
+        "es:t": "Sud\u00e1frica | Far North",
+        "de": "Louis Trichardt",
+        "de:t": "S\u00fcdafrika | Far North"
+    },
+    {
+        "en": "Lydenburg",
+        "en:t": "South Africa | Ehlanzeni",
+        "a": true,
+        "g": {
+            "lat": -25.0816,
+            "lon": 30.4473
+        },
+        "it": "Lydenburg",
+        "it:t": "Sudafrica | Ehlanzeni",
+        "es": "Lydenburg",
+        "es:t": "Sud\u00e1frica | Ehlanzeni",
+        "de": "Mashishing",
+        "de:t": "S\u00fcdafrika | Ehlanzeni"
+    },
+    {
+        "en": "Mabopane",
+        "en:t": "South Africa | Pretoria",
+        "a": true,
+        "g": {
+            "lat": -25.5127,
+            "lon": 28.0553
+        },
+        "it": "Mabopane",
+        "it:t": "Sudafrica | Pretoria",
+        "es": "Mabopane",
+        "es:t": "Sud\u00e1frica | Pretoria",
+        "de": "Mabopane",
+        "de:t": "S\u00fcdafrika | Pretoria"
+    },
+    {
+        "en": "Malmesbury",
+        "en:t": "South Africa | West Coast DC",
+        "a": true,
+        "g": {
+            "lat": -33.4655,
+            "lon": 18.7185
+        },
+        "it": "Malmesbury",
+        "it:t": "Sudafrica | West Coast DC",
+        "es": "Malmesbury",
+        "es:t": "Sud\u00e1frica | West Coast DC",
+        "de": "Malmesbury",
+        "de:t": "S\u00fcdafrika | West Coast DC"
+    },
+    {
+        "en": "Margate",
+        "en:t": "South Africa | Ugu",
+        "a": true,
+        "g": {
+            "lat": -30.8459,
+            "lon": 30.3724
+        },
+        "it": "Margate",
+        "it:t": "Sudafrica | Ugu",
+        "es": "Margate",
+        "es:t": "Sud\u00e1frica | Ugu",
+        "de": "Margate",
+        "de:t": "S\u00fcdafrika | Ugu"
+    },
+    {
+        "en": "Middelburg",
+        "en:t": "South Africa | Nkangala",
+        "a": true,
+        "g": {
+            "lat": -25.7699,
+            "lon": 29.4639
+        },
+        "it": "Middelburg",
+        "it:t": "Sudafrica | Nkangala",
+        "es": "Middelburg",
+        "es:t": "Sud\u00e1frica | Nkangala",
+        "de": "Middelburg",
+        "de:t": "S\u00fcdafrika | Nkangala"
+    },
+    {
+        "en": "Middelburg",
+        "en:t": "South Africa | Stormberg",
+        "a": true,
+        "g": {
+            "lat": -31.4951,
+            "lon": 25.0061
+        },
+        "it": "Middelburg",
+        "it:t": "Sudafrica | Stormberg",
+        "es": "Middelburg",
+        "es:t": "Sud\u00e1frica | Stormberg",
+        "de": "Middelburg",
+        "de:t": "S\u00fcdafrika | Stormberg"
+    },
+    {
+        "en": "Midrand",
+        "en:t": "South Africa | Johannesburg",
+        "a": true,
+        "g": {
+            "lat": -25.9992,
+            "lon": 28.1263
+        },
+        "it": "Midrand",
+        "it:t": "Sudafrica | Johannesburg",
+        "es": "Midrand",
+        "es:t": "Sud\u00e1frica | Johannesburgo",
+        "de": "Midrand",
+        "de:t": "S\u00fcdafrika | Johannesburg"
+    },
+    {
+        "en": "Mmabatho",
+        "en:t": "South Africa | Ngaka Modiri Molema",
+        "a": true,
+        "g": {
+            "lat": -25.8378,
+            "lon": 25.5948
+        },
+        "it": "Mmabatho",
+        "it:t": "Sudafrica | Ngaka Modiri Molema",
+        "es": "Mmabatho",
+        "es:t": "Sud\u00e1frica | Ngaka Modiri Molema",
+        "de": "Mmabatho",
+        "de:t": "S\u00fcdafrika | Ngaka Modiri Molema"
+    },
+    {
+        "en": "Modimolle",
+        "en:t": "South Africa | Bosveld",
+        "a": true,
+        "g": {
+            "lat": -24.7029,
+            "lon": 28.4046
+        },
+        "it": "Modimolle",
+        "it:t": "Sudafrica | Bosveld",
+        "es": "Modimolle",
+        "es:t": "Sud\u00e1frica | Bosveld",
+        "de": "Modimolle",
+        "de:t": "S\u00fcdafrika | Bosveld"
+    },
+    {
+        "en": "Modjadjiskloof",
+        "en:t": "South Africa | Mopani",
+        "a": true,
+        "g": {
+            "lat": -23.6536,
+            "lon": 30.2167
+        },
+        "it": "Modjadjiskloof",
+        "it:t": "Sudafrica | Mopani",
+        "es": "Modjadjiskloof",
+        "es:t": "Sud\u00e1frica | Mopani",
+        "de": "Modjadjiskloof",
+        "de:t": "S\u00fcdafrika | Mopani"
+    },
+    {
+        "en": "Mokopane",
+        "en:t": "South Africa | Bosveld",
+        "a": true,
+        "g": {
+            "lat": -24.1772,
+            "lon": 29.0019
+        },
+        "it": "Mokopane",
+        "it:t": "Sudafrica | Bosveld",
+        "es": "Mokopane",
+        "es:t": "Sud\u00e1frica | Bosveld",
+        "de": "Mokopane",
+        "de:t": "S\u00fcdafrika | Bosveld"
+    },
+    {
+        "en": "Mondlo",
+        "en:t": "South Africa | Zululand DC",
+        "a": true,
+        "g": {
+            "lat": -27.9831,
+            "lon": 30.7244
+        },
+        "it": "Mondlo",
+        "it:t": "Sudafrica | Zululand DC",
+        "es": "Mondlo",
+        "es:t": "Sud\u00e1frica | Zululand DC",
+        "de": "Mondlo",
+        "de:t": "S\u00fcdafrika | Zululand DC"
+    },
+    {
+        "en": "Mossel Bay",
+        "en:t": "South Africa | South Cape DC",
+        "a": true,
+        "g": {
+            "lat": -34.1747,
+            "lon": 22.0834
+        },
+        "it": "Mosselbaai",
+        "it:t": "Sudafrica | South Cape DC",
+        "es": "Mosselbaai",
+        "es:t": "Sud\u00e1frica | South Cape DC",
+        "de": "Mossel Bay",
+        "de:t": "S\u00fcdafrika | South Cape DC"
+    },
+    {
+        "en": "Mpophomeni",
+        "en:t": "South Africa | Indlovu DC",
+        "a": true,
+        "g": {
+            "lat": -29.5682,
+            "lon": 30.1849
+        },
+        "it": "Mpophomeni",
+        "it:t": "Sudafrica | Indlovu DC",
+        "es": "Mpophomeni",
+        "es:t": "Sud\u00e1frica | Indlovu DC",
+        "de": "Mpophomeni",
+        "de:t": "S\u00fcdafrika | Indlovu DC"
+    },
+    {
+        "en": "Mpumalanga",
+        "en:t": "South Africa | Durban Metro",
+        "a": true,
+        "g": {
+            "lat": -29.804,
+            "lon": 30.6315
+        },
+        "it": "Mpumalanga",
+        "it:t": "Sudafrica | Durban Metro",
+        "es": "Mpumalanga",
+        "es:t": "Sud\u00e1frica | Durban Metro",
+        "de": "Mpumalanga",
+        "de:t": "S\u00fcdafrika | Durban Metro"
+    },
+    {
+        "en": "Mthatha",
+        "en:t": "South Africa | Transkei",
+        "a": true,
+        "g": {
+            "lat": -31.6067,
+            "lon": 28.7781
+        },
+        "it": "Mthatha",
+        "it:t": "Sudafrica | Transkei",
+        "es": "Mthatha",
+        "es:t": "Sud\u00e1frica | Transkei",
+        "de": "Mthatha",
+        "de:t": "S\u00fcdafrika | Transkei"
+    },
+    {
+        "en": "Musina",
+        "en:t": "South Africa | Far North",
+        "a": true,
+        "g": {
+            "lat": -22.3813,
+            "lon": 30.0319
+        },
+        "it": "Musina",
+        "it:t": "Sudafrica | Far North",
+        "es": "Musina",
+        "es:t": "Sud\u00e1frica | Far North",
+        "de": "Musina",
+        "de:t": "S\u00fcdafrika | Far North"
+    },
+    {
+        "en": "Nelspruit",
+        "en:t": "South Africa | Ehlanzeni",
+        "a": true,
+        "g": {
+            "lat": -25.4753,
+            "lon": 30.9694
+        },
+        "it": "Nelspruit",
+        "it:t": "Sudafrica | Ehlanzeni",
+        "es": "Nelspruit",
+        "es:t": "Sud\u00e1frica | Ehlanzeni",
+        "de": "Mbombela",
+        "de:t": "S\u00fcdafrika | Ehlanzeni"
+    },
+    {
+        "en": "Newcastle",
+        "en:t": "South Africa | Amajuba",
+        "a": true,
+        "g": {
+            "lat": -27.7138,
+            "lon": 29.9972
+        },
+        "it": "Newcastle",
+        "it:t": "Sudafrica | Amajuba",
+        "es": "Newcastle",
+        "es:t": "Sud\u00e1frica | Amajuba",
+        "de": "Newcastle",
+        "de:t": "S\u00fcdafrika | Amajuba"
+    },
+    {
+        "en": "Nigel",
+        "en:t": "South Africa | East Rand",
+        "a": true,
+        "g": {
+            "lat": -26.4228,
+            "lon": 28.4786
+        },
+        "it": "Nigel",
+        "it:t": "Sudafrica | East Rand",
+        "es": "Nigel",
+        "es:t": "Sud\u00e1frica | East Rand",
+        "de": "Nigel",
+        "de:t": "S\u00fcdafrika | East Rand"
+    },
+    {
+        "en": "Nkowankowa",
+        "en:t": "South Africa | Mopani",
+        "a": true,
+        "g": {
+            "lat": -23.8905,
+            "lon": 30.3003
+        },
+        "it": "Nkowankowa",
+        "it:t": "Sudafrica | Mopani",
+        "es": "Nkowankowa",
+        "es:t": "Sud\u00e1frica | Mopani",
+        "de": "Nkowankowa",
+        "de:t": "S\u00fcdafrika | Mopani"
+    },
+    {
+        "en": "Orkney",
+        "en:t": "South Africa | Southern DC",
+        "a": true,
+        "g": {
+            "lat": -26.9279,
+            "lon": 26.7261
+        },
+        "it": "Orkney",
+        "it:t": "Sudafrica | Southern DC",
+        "es": "Orkney",
+        "es:t": "Sud\u00e1frica | Southern DC",
+        "de": "Orkney",
+        "de:t": "S\u00fcdafrika | Southern DC"
+    },
+    {
+        "en": "Oudtshoorn",
+        "en:t": "South Africa | South Cape DC",
+        "a": true,
+        "g": {
+            "lat": -33.6007,
+            "lon": 22.2026
+        },
+        "it": "Oudtshoorn",
+        "it:t": "Sudafrica | South Cape DC",
+        "es": "Oudtshoorn",
+        "es:t": "Sud\u00e1frica | South Cape DC",
+        "de": "Oudtshoorn",
+        "de:t": "S\u00fcdafrika | South Cape DC"
+    },
+    {
+        "en": "Paarl",
+        "en:t": "South Africa | Cape Winelands",
+        "a": true,
+        "g": {
+            "lat": -33.7342,
+            "lon": 18.9621
+        },
+        "it": "Paarl",
+        "it:t": "Sudafrica | Cape Winelands",
+        "es": "Paarl",
+        "es:t": "Sud\u00e1frica | Cape Winelands",
+        "de": "Paarl",
+        "de:t": "S\u00fcdafrika | Cape Winelands"
+    },
+    {
+        "en": "Pampierstad",
+        "en:t": "South Africa",
+        "a": true,
+        "g": {
+            "lat": -27.7805,
+            "lon": 24.6965
+        },
+        "it": "Pampierstad",
+        "it:t": "Sudafrica",
+        "es": "Pampierstad",
+        "es:t": "Sud\u00e1frica",
+        "de": "Pampierstad",
+        "de:t": "S\u00fcdafrika"
+    },
+    {
+        "en": "Parys",
+        "en:t": "South Africa | Northern Free State",
+        "a": true,
+        "g": {
+            "lat": -26.9111,
+            "lon": 27.4909
+        },
+        "it": "Parys",
+        "it:t": "Sudafrica | Northern Free State",
+        "es": "Parys",
+        "es:t": "Sud\u00e1frica | Northern Free State",
+        "de": "Parys",
+        "de:t": "S\u00fcdafrika | Northern Free State"
+    },
+    {
+        "en": "Phalaborwa",
+        "en:t": "South Africa | Mopani",
+        "a": true,
+        "g": {
+            "lat": -23.9424,
+            "lon": 31.1409
+        },
+        "it": "Phalaborwa",
+        "it:t": "Sudafrica | Mopani",
+        "es": "Phalaborwa",
+        "es:t": "Sud\u00e1frica | Mopani",
+        "de": "Phalaborwa",
+        "de:t": "S\u00fcdafrika | Mopani"
+    },
+    {
+        "en": "Phuthaditjhaba",
+        "en:t": "South Africa | Thabo Mofutsanyane",
+        "a": true,
+        "g": {
+            "lat": -28.553,
+            "lon": 28.8247
+        },
+        "it": "Phuthaditjhaba",
+        "it:t": "Sudafrica | Thabo Mofutsanyane",
+        "es": "Phuthaditjhaba",
+        "es:t": "Sud\u00e1frica | Thabo Mofutsanyane",
+        "de": "Phuthaditjhaba",
+        "de:t": "S\u00fcdafrika | Thabo Mofutsanyane"
+    },
+    {
+        "en": "Piet Retief",
+        "en:t": "South Africa | Eastvaal Council",
+        "a": true,
+        "g": {
+            "lat": -27.0245,
+            "lon": 30.7925
+        },
+        "it": "Piet Retief",
+        "it:t": "Sudafrica | Eastvaal Council",
+        "es": "Piet Retief",
+        "es:t": "Sud\u00e1frica | Eastvaal Council",
+        "de": "Piet Retief",
+        "de:t": "S\u00fcdafrika | Eastvaal Council"
+    },
+    {
+        "en": "Pietermaritzburg",
+        "en:t": "South Africa | Indlovu DC",
+        "a": true,
+        "g": {
+            "lat": -29.6006,
+            "lon": 30.3794
+        },
+        "it": "Pietermaritzburg",
+        "it:t": "Sudafrica | Indlovu DC",
+        "es": "Pietermaritzburgo",
+        "es:t": "Sud\u00e1frica | Indlovu DC",
+        "de": "Pietermaritzburg",
+        "de:t": "S\u00fcdafrika | Indlovu DC"
+    },
+    {
+        "en": "Plettenberg Bay",
+        "en:t": "South Africa | South Cape DC",
+        "a": true,
+        "g": {
+            "lat": -34.0575,
+            "lon": 23.3645
+        },
+        "it": "Plettenberg Bay",
+        "it:t": "Sudafrica | South Cape DC",
+        "es": "Plettenberg Bay",
+        "es:t": "Sud\u00e1frica | South Cape DC",
+        "de": "Plettenberg Bay",
+        "de:t": "S\u00fcdafrika | South Cape DC"
+    },
+    {
+        "en": "Polokwane",
+        "en:t": "South Africa | Central",
+        "a": true,
+        "g": {
+            "lat": -23.8962,
+            "lon": 29.4486
+        },
+        "it": "Polokwane",
+        "it:t": "Sudafrica | Central",
+        "es": "Polokwane",
+        "es:t": "Sud\u00e1frica | Central",
+        "de": "Polokwane",
+        "de:t": "S\u00fcdafrika | Central"
+    },
+    {
+        "en": "Port Alfred",
+        "en:t": "South Africa | Western",
+        "a": true,
+        "g": {
+            "lat": -33.5864,
+            "lon": 26.8851
+        },
+        "it": "Port Alfred",
+        "it:t": "Sudafrica | Western",
+        "es": "Port Alfred",
+        "es:t": "Sud\u00e1frica | Western",
+        "de": "Port Alfred",
+        "de:t": "S\u00fcdafrika | Western"
+    },
+    {
+        "en": "Port Elizabeth",
+        "en:t": "South Africa",
+        "a": true,
+        "g": {
+            "lat": -33.9608,
+            "lon": 25.6022
+        },
+        "it": "Port Elizabeth",
+        "it:t": "Sudafrica",
+        "es": "Puerto Elizabeth",
+        "es:t": "Sud\u00e1frica",
+        "de": "Port Elizabeth",
+        "de:t": "S\u00fcdafrika"
+    },
+    {
+        "en": "Port Shepstone",
+        "en:t": "South Africa | Ugu",
+        "a": true,
+        "g": {
+            "lat": -30.7277,
+            "lon": 30.4473
+        },
+        "it": "Port Shepstone",
+        "it:t": "Sudafrica | Ugu",
+        "es": "Port Shepstone",
+        "es:t": "Sud\u00e1frica | Ugu",
+        "de": "Port Shepstone",
+        "de:t": "S\u00fcdafrika | Ugu"
+    },
+    {
+        "en": "Potchefstroom",
+        "en:t": "South Africa | Southern DC",
+        "a": true,
+        "g": {
+            "lat": -26.7145,
+            "lon": 27.097
+        },
+        "it": "Potchefstroom",
+        "it:t": "Sudafrica | Southern DC",
+        "es": "Potchefstroom",
+        "es:t": "Sud\u00e1frica | Southern DC",
+        "de": "Potchefstroom",
+        "de:t": "S\u00fcdafrika | Southern DC"
+    },
+    {
+        "en": "Pretoria",
+        "en:t": "South Africa",
+        "a": true,
+        "g": {
+            "lat": -25.7479,
+            "lon": 28.2293
+        },
+        "it": "Pretoria",
+        "it:t": "Sudafrica",
+        "es": "Pretoria",
+        "es:t": "Sud\u00e1frica",
+        "de": "Pretoria",
+        "de:t": "S\u00fcdafrika"
+    },
+    {
+        "en": "Queensdale",
+        "en:t": "South Africa | Ezibeleni",
+        "a": true,
+        "g": {
+            "lat": -31.8667,
+            "lon": 26.9833
+        },
+        "it": "Queensdale",
+        "it:t": "Sudafrica | Ezibeleni",
+        "es": "Queensdale",
+        "es:t": "Sud\u00e1frica | Ezibeleni",
+        "de": "Queensdale",
+        "de:t": "S\u00fcdafrika | Ezibeleni"
+    },
+    {
+        "en": "Queenstown",
+        "en:t": "South Africa | Stormberg",
+        "a": true,
+        "g": {
+            "lat": -31.9127,
+            "lon": 26.9597
+        },
+        "it": "Queenstown",
+        "it:t": "Sudafrica | Stormberg",
+        "es": "Queenstown",
+        "es:t": "Sud\u00e1frica | Stormberg",
+        "de": "Queenstown",
+        "de:t": "S\u00fcdafrika | Stormberg"
+    },
+    {
+        "en": "Randfontein",
+        "en:t": "South Africa | West Rand",
+        "a": true,
+        "g": {
+            "lat": -26.1992,
+            "lon": 27.6787
+        },
+        "it": "Randfontein",
+        "it:t": "Sudafrica | West Rand",
+        "es": "Randfontein",
+        "es:t": "Sud\u00e1frica | West Rand",
+        "de": "Randfontein",
+        "de:t": "S\u00fcdafrika | West Rand"
+    },
+    {
+        "en": "Reitz",
+        "en:t": "South Africa | Thabo Mofutsanyane",
+        "a": true,
+        "g": {
+            "lat": -27.801,
+            "lon": 28.4318
+        },
+        "it": "Reitz",
+        "it:t": "Sudafrica | Thabo Mofutsanyane",
+        "es": "Reitz",
+        "es:t": "Sud\u00e1frica | Thabo Mofutsanyane",
+        "de": "Reitz",
+        "de:t": "S\u00fcdafrika | Thabo Mofutsanyane"
+    },
+    {
+        "en": "Retreat",
+        "en:t": "South Africa | Cape Town",
+        "a": true,
+        "g": {
+            "lat": -34.0613,
+            "lon": 18.4721
+        },
+        "it": "Retreat",
+        "it:t": "Sudafrica | Cape Town",
+        "es": "Retreat",
+        "es:t": "Sud\u00e1frica | Cape Town",
+        "de": "Retreat",
+        "de:t": "S\u00fcdafrika | Cape Town"
+    },
+    {
+        "en": "Richards Bay",
+        "en:t": "South Africa | Uthungulu DC",
+        "a": true,
+        "g": {
+            "lat": -28.7807,
+            "lon": 32.0383
+        },
+        "it": "Richards Bay",
+        "it:t": "Sudafrica | Uthungulu DC",
+        "es": "Richards Bay",
+        "es:t": "Sud\u00e1frica | Uthungulu DC",
+        "de": "Richards Bay",
+        "de:t": "S\u00fcdafrika | Uthungulu DC"
+    },
+    {
+        "en": "Richmond",
+        "en:t": "South Africa | Indlovu DC",
+        "a": true,
+        "g": {
+            "lat": -29.9033,
+            "lon": 30.2397
+        },
+        "it": "Richmond",
+        "it:t": "Sudafrica | Indlovu DC",
+        "es": "Richmond",
+        "es:t": "Sud\u00e1frica | Indlovu DC",
+        "de": "Richmond",
+        "de:t": "S\u00fcdafrika | Indlovu DC"
+    },
+    {
+        "en": "Rondebosch",
+        "en:t": "South Africa | Cape Town",
+        "a": true,
+        "g": {
+            "lat": -33.9658,
+            "lon": 18.481
+        },
+        "it": "Rondebosch",
+        "it:t": "Sudafrica | Cape Town",
+        "es": "Rondebosch",
+        "es:t": "Sud\u00e1frica | Ciudad del Cabo",
+        "de": "Rondebosch",
+        "de:t": "S\u00fcdafrika | Kapstadt"
+    },
+    {
+        "en": "Roodepoort",
+        "en:t": "South Africa | Johannesburg",
+        "a": true,
+        "g": {
+            "lat": -26.1201,
+            "lon": 27.9015
+        },
+        "it": "Roodepoort",
+        "it:t": "Sudafrica | Johannesburg",
+        "es": "Roodepoort",
+        "es:t": "Sud\u00e1frica | Johannesburgo",
+        "de": "Roodepoort",
+        "de:t": "S\u00fcdafrika | Johannesburg"
+    },
+    {
+        "en": "Rustenburg",
+        "en:t": "South Africa | Bojanala",
+        "a": true,
+        "g": {
+            "lat": -25.6544,
+            "lon": 27.2559
+        },
+        "it": "Rustenburg",
+        "it:t": "Sudafrica | Bojanala",
+        "es": "Rustenburg",
+        "es:t": "Sud\u00e1frica | Bojanala",
+        "de": "Rustenburg",
+        "de:t": "S\u00fcdafrika | Bojanala"
+    },
+    {
+        "en": "Saldanha",
+        "en:t": "South Africa | West Coast DC",
+        "a": true,
+        "g": {
+            "lat": -33.0277,
+            "lon": 17.9176
+        },
+        "it": "Saldanha",
+        "it:t": "Sudafrica | West Coast DC",
+        "es": "Saldanha",
+        "es:t": "Sud\u00e1frica | West Coast DC",
+        "de": "Saldanha",
+        "de:t": "S\u00fcdafrika | West Coast DC"
+    },
+    {
+        "en": "Sasolburg",
+        "en:t": "South Africa | Northern Free State",
+        "a": true,
+        "g": {
+            "lat": -26.8102,
+            "lon": 27.8277
+        },
+        "it": "Sasolburg",
+        "it:t": "Sudafrica | Northern Free State",
+        "es": "Sasolburg",
+        "es:t": "Sud\u00e1frica | Northern Free State",
+        "de": "Sasolburg",
+        "de:t": "S\u00fcdafrika | Northern Free State"
+    },
+    {
+        "en": "Schweizer-Reneke",
+        "en:t": "South Africa | Bophirima",
+        "a": true,
+        "g": {
+            "lat": -27.1778,
+            "lon": 25.2956
+        },
+        "it": "Schweizer-Reneke",
+        "it:t": "Sudafrica | Bophirima",
+        "es": "Schweizer-Reneke",
+        "es:t": "Sud\u00e1frica | Bophirima",
+        "de": "Schweizer-Reneke",
+        "de:t": "S\u00fcdafrika | Bophirima"
+    },
+    {
+        "en": "Scottburgh",
+        "en:t": "South Africa | Ugu",
+        "a": true,
+        "g": {
+            "lat": -30.2863,
+            "lon": 30.7551
+        },
+        "it": "Scottburgh",
+        "it:t": "Sudafrica | Ugu",
+        "es": "Scottburgh",
+        "es:t": "Sud\u00e1frica | Ugu",
+        "de": "Scottburgh",
+        "de:t": "S\u00fcdafrika | Ugu"
+    },
+    {
+        "en": "Secunda",
+        "en:t": "South Africa",
+        "a": true,
+        "g": {
+            "lat": -26.5158,
+            "lon": 29.1914
+        },
+        "it": "Secunda",
+        "it:t": "Sudafrica",
+        "es": "Secunda",
+        "es:t": "Sud\u00e1frica",
+        "de": "Secunda",
+        "de:t": "S\u00fcdafrika"
+    },
+    {
+        "en": "Senekal",
+        "en:t": "South Africa | Thabo Mofutsanyane",
+        "a": true,
+        "g": {
+            "lat": -28.3284,
+            "lon": 27.6317
+        },
+        "it": "Senekal",
+        "it:t": "Sudafrica | Thabo Mofutsanyane",
+        "es": "Senekal",
+        "es:t": "Sud\u00e1frica | Thabo Mofutsanyane",
+        "de": "Senekal",
+        "de:t": "S\u00fcdafrika | Thabo Mofutsanyane"
+    },
+    {
+        "en": "Siyabuswa",
+        "en:t": "South Africa | Nkangala",
+        "a": true,
+        "g": {
+            "lat": -25.11,
+            "lon": 29.0715
+        },
+        "it": "Siyabuswa",
+        "it:t": "Sudafrica | Nkangala",
+        "es": "Siyabuswa",
+        "es:t": "Sud\u00e1frica | Nkangala",
+        "de": "Siyabuswa",
+        "de:t": "S\u00fcdafrika | Nkangala"
+    },
+    {
+        "en": "Somerset East",
+        "en:t": "South Africa",
+        "a": true,
+        "g": {
+            "lat": -32.7248,
+            "lon": 25.58
+        },
+        "it": "Somerset East",
+        "it:t": "Sudafrica",
+        "es": "Somerset East",
+        "es:t": "Sud\u00e1frica",
+        "de": "Somerset East",
+        "de:t": "S\u00fcdafrika"
+    },
+    {
+        "en": "Soweto",
+        "en:t": "South Africa | Johannesburg",
+        "a": true,
+        "g": {
+            "lat": -26.2485,
+            "lon": 27.854
+        },
+        "it": "Soweto",
+        "it:t": "Sudafrica | Johannesburg",
+        "es": "Soweto",
+        "es:t": "Sud\u00e1frica | Johannesburgo",
+        "de": "Soweto",
+        "de:t": "S\u00fcdafrika | Johannesburg"
+    },
+    {
+        "en": "Springs",
+        "en:t": "South Africa | East Rand",
+        "a": true,
+        "g": {
+            "lat": -26.2607,
+            "lon": 28.463
+        },
+        "it": "Springs",
+        "it:t": "Sudafrica | East Rand",
+        "es": "Springs",
+        "es:t": "Sud\u00e1frica | East Rand",
+        "de": "Springs",
+        "de:t": "S\u00fcdafrika | East Rand"
+    },
+    {
+        "en": "Standerton",
+        "en:t": "South Africa | Eastvaal Council",
+        "a": true,
+        "g": {
+            "lat": -26.9438,
+            "lon": 29.2205
+        },
+        "it": "Standerton",
+        "it:t": "Sudafrica | Eastvaal Council",
+        "es": "Standerton",
+        "es:t": "Sud\u00e1frica | Eastvaal Council",
+        "de": "Standerton",
+        "de:t": "S\u00fcdafrika | Eastvaal Council"
+    },
+    {
+        "en": "Stellenbosch",
+        "en:t": "South Africa | Cape Winelands",
+        "a": true,
+        "g": {
+            "lat": -33.9321,
+            "lon": 18.8602
+        },
+        "it": "Stellenbosch",
+        "it:t": "Sudafrica | Cape Winelands",
+        "es": "Stellenbosch",
+        "es:t": "Sud\u00e1frica | Cape Winelands",
+        "de": "Stellenbosch",
+        "de:t": "S\u00fcdafrika | Cape Winelands"
+    },
+    {
+        "en": "Stilfontein",
+        "en:t": "South Africa | Southern DC",
+        "a": true,
+        "g": {
+            "lat": -26.8428,
+            "lon": 26.7745
+        },
+        "it": "Stilfontein",
+        "it:t": "Sudafrica | Southern DC",
+        "es": "Stilfontein",
+        "es:t": "Sud\u00e1frica | Southern DC",
+        "de": "Stilfontein",
+        "de:t": "S\u00fcdafrika | Southern DC"
+    },
+    {
+        "en": "Stutterheim",
+        "en:t": "South Africa | Amatole",
+        "a": true,
+        "g": {
+            "lat": -32.5885,
+            "lon": 27.4321
+        },
+        "it": "Stutterheim",
+        "it:t": "Sudafrica | Amatole",
+        "es": "Stutterheim",
+        "es:t": "Sud\u00e1frica | Amatole",
+        "de": "Stutterheim",
+        "de:t": "S\u00fcdafrika | Amathole"
+    },
+    {
+        "en": "Tembisa",
+        "en:t": "South Africa | East Rand",
+        "a": true,
+        "g": {
+            "lat": -26.0093,
+            "lon": 28.2181
+        },
+        "it": "Tembisa",
+        "it:t": "Sudafrica | East Rand",
+        "es": "Tembisa",
+        "es:t": "Sud\u00e1frica | East Rand",
+        "de": "Tembisa",
+        "de:t": "S\u00fcdafrika | East Rand"
+    },
+    {
+        "en": "Thaba Nchu",
+        "en:t": "South Africa | Motheo",
+        "a": true,
+        "g": {
+            "lat": -29.204,
+            "lon": 26.8204
+        },
+        "it": "Thaba 'Nchu",
+        "it:t": "Sudafrica | Motheo",
+        "es": "Thaba Nchu",
+        "es:t": "Sud\u00e1frica | Motheo",
+        "de": "Thaba Nchu",
+        "de:t": "S\u00fcdafrika | Motheo"
+    },
+    {
+        "en": "Theunissen",
+        "en:t": "South Africa | Lejweleputswa",
+        "a": true,
+        "g": {
+            "lat": -28.4019,
+            "lon": 26.7101
+        },
+        "it": "Theunissen",
+        "it:t": "Sudafrica | Lejweleputswa",
+        "es": "Theunissen",
+        "es:t": "Sud\u00e1frica | Lejweleputswa",
+        "de": "Theunissen",
+        "de:t": "S\u00fcdafrika | Lejweleputswa"
+    },
+    {
+        "en": "Thohoyandou",
+        "en:t": "South Africa | Far North",
+        "a": true,
+        "g": {
+            "lat": -22.8785,
+            "lon": 30.4818
+        },
+        "it": "Thohoyandou",
+        "it:t": "Sudafrica | Far North",
+        "es": "Thohoyandou",
+        "es:t": "Sud\u00e1frica | Far North",
+        "de": "Thohoyandou",
+        "de:t": "S\u00fcdafrika | Far North"
+    },
+    {
+        "en": "Tzaneen",
+        "en:t": "South Africa | Mopani",
+        "a": true,
+        "g": {
+            "lat": -23.832,
+            "lon": 30.1358
+        },
+        "it": "Tzaneen",
+        "it:t": "Sudafrica | Mopani",
+        "es": "Tzaneen",
+        "es:t": "Sud\u00e1frica | Mopani",
+        "de": "Tzaneen",
+        "de:t": "S\u00fcdafrika | Mopani"
+    },
+    {
+        "en": "Uitenhage",
+        "en:t": "South Africa | Port Elizabeth",
+        "a": true,
+        "g": {
+            "lat": -33.7687,
+            "lon": 25.4141
+        },
+        "it": "Uitenhage",
+        "it:t": "Sudafrica | Port Elizabeth",
+        "es": "Uitenhage",
+        "es:t": "Sud\u00e1frica | Port Elizabeth",
+        "de": "Uitenhage",
+        "de:t": "S\u00fcdafrika | Port Elizabeth"
+    },
+    {
+        "en": "Ulundi",
+        "en:t": "South Africa | Zululand DC",
+        "a": true,
+        "g": {
+            "lat": -28.2997,
+            "lon": 31.4342
+        },
+        "it": "Ulundi",
+        "it:t": "Sudafrica | Zululand DC",
+        "es": "Ulundi",
+        "es:t": "Sud\u00e1frica | Zululand DC",
+        "de": "Ulundi",
+        "de:t": "S\u00fcdafrika | Zululand DC"
+    },
+    {
+        "en": "Umkomaas",
+        "en:t": "South Africa",
+        "a": true,
+        "g": {
+            "lat": -30.2007,
+            "lon": 30.7838
+        },
+        "it": "Umkomaas",
+        "it:t": "Sudafrica",
+        "es": "Umkomaas",
+        "es:t": "Sud\u00e1frica",
+        "de": "Umkomaas",
+        "de:t": "S\u00fcdafrika"
+    },
+    {
+        "en": "Upington",
+        "en:t": "South Africa | Benede Oranje",
+        "a": true,
+        "g": {
+            "lat": -28.3953,
+            "lon": 21.2368
+        },
+        "it": "Upington",
+        "it:t": "Sudafrica | Benede Oranje",
+        "es": "Upington",
+        "es:t": "Sud\u00e1frica | Benede Oranje",
+        "de": "Upington",
+        "de:t": "S\u00fcdafrika | Benede Oranje"
+    },
+    {
+        "en": "Vanderbijlpark",
+        "en:t": "South Africa | Sedibeng",
+        "a": true,
+        "g": {
+            "lat": -26.7034,
+            "lon": 27.8077
+        },
+        "it": "Vanderbijlpark",
+        "it:t": "Sudafrica | Sedibeng",
+        "es": "Vanderbijlpark",
+        "es:t": "Sud\u00e1frica | Sedibeng",
+        "de": "Vanderbijlpark",
+        "de:t": "S\u00fcdafrika | Sedibeng"
+    },
+    {
+        "en": "Vereeniging",
+        "en:t": "South Africa | Sedibeng",
+        "a": true,
+        "g": {
+            "lat": -26.5969,
+            "lon": 27.9015
+        },
+        "it": "Vereeniging",
+        "it:t": "Sudafrica | Sedibeng",
+        "es": "Vereeniging",
+        "es:t": "Sud\u00e1frica | Sedibeng",
+        "de": "Vereeniging",
+        "de:t": "S\u00fcdafrika | Sedibeng"
+    },
+    {
+        "en": "Viljoenskroon",
+        "en:t": "South Africa | Northern Free State",
+        "a": true,
+        "g": {
+            "lat": -26.9751,
+            "lon": 26.7614
+        },
+        "it": "Viljoenskroon",
+        "it:t": "Sudafrica | Northern Free State",
+        "es": "Viljoenskroon",
+        "es:t": "Sud\u00e1frica | Northern Free State",
+        "de": "Viljoenskroon",
+        "de:t": "S\u00fcdafrika | Northern Free State"
+    },
+    {
+        "en": "Virginia",
+        "en:t": "South Africa | Lejweleputswa",
+        "a": true,
+        "g": {
+            "lat": -28.1064,
+            "lon": 26.8557
+        },
+        "it": "Virginia",
+        "it:t": "Sudafrica | Lejweleputswa",
+        "es": "Virginia",
+        "es:t": "Sud\u00e1frica | Lejweleputswa",
+        "de": "Virginia",
+        "de:t": "S\u00fcdafrika | Lejweleputswa"
+    },
+    {
+        "en": "Volksrust",
+        "en:t": "South Africa | Eastvaal Council",
+        "a": true,
+        "g": {
+            "lat": -27.362,
+            "lon": 29.8873
+        },
+        "it": "Volksrust",
+        "it:t": "Sudafrica | Eastvaal Council",
+        "es": "Volksrust",
+        "es:t": "Sud\u00e1frica | Eastvaal Council",
+        "de": "Volksrust",
+        "de:t": "S\u00fcdafrika | Eastvaal Council"
+    },
+    {
+        "en": "Vryburg",
+        "en:t": "South Africa | Bophirima",
+        "a": true,
+        "g": {
+            "lat": -26.9584,
+            "lon": 24.7299
+        },
+        "it": "Vryburg",
+        "it:t": "Sudafrica | Bophirima",
+        "es": "Vryburg",
+        "es:t": "Sud\u00e1frica | Bophirima",
+        "de": "Vryburg",
+        "de:t": "S\u00fcdafrika | Bophirima"
+    },
+    {
+        "en": "Vryheid",
+        "en:t": "South Africa | Zululand DC",
+        "a": true,
+        "g": {
+            "lat": -27.7654,
+            "lon": 30.7925
+        },
+        "it": "Vryheid",
+        "it:t": "Sudafrica | Zululand DC",
+        "es": "Vryheid",
+        "es:t": "Sud\u00e1frica | Zululand DC",
+        "de": "Vryheid",
+        "de:t": "S\u00fcdafrika | Zululand DC"
+    },
+    {
+        "en": "Warrenton",
+        "en:t": "South Africa | Diamandveld",
+        "a": true,
+        "g": {
+            "lat": -28.1302,
+            "lon": 24.8746
+        },
+        "it": "Warrenton",
+        "it:t": "Sudafrica | Diamandveld",
+        "es": "Warrenton",
+        "es:t": "Sud\u00e1frica | Diamandveld",
+        "de": "Warrenton",
+        "de:t": "S\u00fcdafrika | Diamandveld"
+    },
+    {
+        "en": "Welkom",
+        "en:t": "South Africa | Lejweleputswa",
+        "a": true,
+        "g": {
+            "lat": -28.0046,
+            "lon": 26.7732
+        },
+        "it": "Welkom",
+        "it:t": "Sudafrica | Lejweleputswa",
+        "es": "Welkom",
+        "es:t": "Sud\u00e1frica | Lejweleputswa",
+        "de": "Welkom",
+        "de:t": "S\u00fcdafrika | Lejweleputswa"
+    },
+    {
+        "en": "Wesselsbron",
+        "en:t": "South Africa | Lejweleputswa",
+        "a": true,
+        "g": {
+            "lat": -27.8337,
+            "lon": 26.3663
+        },
+        "it": "Wesselsbron",
+        "it:t": "Sudafrica | Lejweleputswa",
+        "es": "Wesselsbron",
+        "es:t": "Sud\u00e1frica | Lejweleputswa",
+        "de": "Wesselsbron",
+        "de:t": "S\u00fcdafrika | Lejweleputswa"
+    },
+    {
+        "en": "Westonaria",
+        "en:t": "South Africa | West Rand",
+        "a": true,
+        "g": {
+            "lat": -26.3178,
+            "lon": 27.6505
+        },
+        "it": "Westonaria",
+        "it:t": "Sudafrica | West Rand",
+        "es": "Westonaria",
+        "es:t": "Sud\u00e1frica | West Rand",
+        "de": "Westonaria",
+        "de:t": "S\u00fcdafrika | West Rand"
+    },
+    {
+        "en": "White River",
+        "en:t": "South Africa | Ehlanzeni",
+        "a": true,
+        "g": {
+            "lat": -25.3299,
+            "lon": 31.0163
+        },
+        "it": "White River",
+        "it:t": "Sudafrica | Ehlanzeni",
+        "es": "White River",
+        "es:t": "Sud\u00e1frica | Ehlanzeni",
+        "de": "White River",
+        "de:t": "S\u00fcdafrika | Ehlanzeni"
+    },
+    {
+        "en": "Wolmaransstad",
+        "en:t": "South Africa | Southern DC",
+        "a": true,
+        "g": {
+            "lat": -27.2019,
+            "lon": 25.9586
+        },
+        "it": "Wolmaransstad",
+        "it:t": "Sudafrica | Southern DC",
+        "es": "Wolmaransstad",
+        "es:t": "Sud\u00e1frica | Southern DC",
+        "de": "Wolmaransstad",
+        "de:t": "S\u00fcdafrika | Southern DC"
+    },
+    {
+        "en": "Worcester",
+        "en:t": "South Africa | Cape Winelands",
+        "a": true,
+        "g": {
+            "lat": -33.6539,
+            "lon": 19.4616
+        },
+        "it": "Worcester",
+        "it:t": "Sudafrica | Cape Winelands",
+        "es": "Worcester",
+        "es:t": "Sud\u00e1frica | Cape Winelands",
+        "de": "Worcester",
+        "de:t": "S\u00fcdafrika | Cape Winelands"
+    },
+    {
+        "en": "Zeerust",
+        "en:t": "South Africa | Ngaka Modiri Molema",
+        "a": true,
+        "g": {
+            "lat": -25.5523,
+            "lon": 26.1005
+        },
+        "it": "Zeerust",
+        "it:t": "Sudafrica | Ngaka Modiri Molema",
+        "es": "Zeerust",
+        "es:t": "Sud\u00e1frica | Ngaka Modiri Molema",
+        "de": "Zeerust",
+        "de:t": "S\u00fcdafrika | Ngaka Modiri Molema"
+    }
+]

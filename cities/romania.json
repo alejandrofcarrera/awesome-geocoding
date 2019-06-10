@@ -1,0 +1,1922 @@
+[
+    {
+        "en": "Adjud",
+        "en:t": "Romania",
+        "a": true,
+        "g": {
+            "lat": 46.0962,
+            "lon": 27.1822
+        },
+        "it": "Adjud",
+        "it:t": "Romania",
+        "es": "Adjud",
+        "es:t": "Ruman\u00eda",
+        "de": "Adjud",
+        "de:t": "Rum\u00e4nien"
+    },
+    {
+        "en": "Aiud",
+        "en:t": "Romania",
+        "a": true,
+        "g": {
+            "lat": 46.3087,
+            "lon": 23.7246
+        },
+        "it": "Aiud",
+        "it:t": "Romania",
+        "es": "Aiud",
+        "es:t": "Ruman\u00eda",
+        "de": "Aiud",
+        "de:t": "Rum\u00e4nien"
+    },
+    {
+        "en": "Alba Iulia",
+        "en:t": "Romania",
+        "a": true,
+        "g": {
+            "lat": 46.0733,
+            "lon": 23.5805
+        },
+        "it": "Alba Iulia",
+        "it:t": "Romania",
+        "es": "Alba Iulia",
+        "es:t": "Ruman\u00eda",
+        "de": "Alba Iulia",
+        "de:t": "Rum\u00e4nien"
+    },
+    {
+        "en": "Alexandria",
+        "en:t": "Romania",
+        "a": true,
+        "g": {
+            "lat": 43.9751,
+            "lon": 25.3283
+        },
+        "it": "Alexandria",
+        "it:t": "Romania",
+        "es": "Alexandria",
+        "es:t": "Ruman\u00eda",
+        "de": "Alexandria",
+        "de:t": "Rum\u00e4nien"
+    },
+    {
+        "en": "Arad",
+        "en:t": "Romania",
+        "a": true,
+        "g": {
+            "lat": 46.1866,
+            "lon": 21.3123
+        },
+        "it": "Arad",
+        "it:t": "Romania",
+        "es": "Arad",
+        "es:t": "Ruman\u00eda",
+        "de": "Arad",
+        "de:t": "Rum\u00e4nien"
+    },
+    {
+        "en": "Bac\u0103u",
+        "en:t": "Romania",
+        "a": true,
+        "g": {
+            "lat": 46.567,
+            "lon": 26.9146
+        },
+        "it": "Bac\u0103u",
+        "it:t": "Romania",
+        "es": "Bac\u0103u",
+        "es:t": "Ruman\u00eda",
+        "de": "Bac\u0103u",
+        "de:t": "Rum\u00e4nien"
+    },
+    {
+        "en": "Baia Mare",
+        "en:t": "Romania",
+        "a": true,
+        "g": {
+            "lat": 47.6567,
+            "lon": 23.585
+        },
+        "it": "Baia Mare",
+        "it:t": "Romania",
+        "es": "Baia Mare",
+        "es:t": "Ruman\u00eda",
+        "de": "Baia Mare",
+        "de:t": "Rum\u00e4nien"
+    },
+    {
+        "en": "Baia Sprie",
+        "en:t": "Romania",
+        "a": true,
+        "g": {
+            "lat": 47.6608,
+            "lon": 23.6977
+        },
+        "it": "Baia Sprie",
+        "it:t": "Romania",
+        "es": "Baia Sprie",
+        "es:t": "Ruman\u00eda",
+        "de": "Baia Sprie",
+        "de:t": "Rum\u00e4nien"
+    },
+    {
+        "en": "Bal\u0219",
+        "en:t": "Romania",
+        "a": true,
+        "g": {
+            "lat": 44.3534,
+            "lon": 24.0957
+        },
+        "it": "Bal\u0219",
+        "it:t": "Romania",
+        "es": "Bal\u0219",
+        "es:t": "Ruman\u00eda",
+        "de": "Bal\u0219",
+        "de:t": "Rum\u00e4nien"
+    },
+    {
+        "en": "Bistri\u021ba",
+        "en:t": "Romania",
+        "a": true,
+        "g": {
+            "lat": 47.1393,
+            "lon": 24.4891
+        },
+        "it": "Bistri\u021ba",
+        "it:t": "Romania",
+        "es": "Bistri\u021ba",
+        "es:t": "Ruman\u00eda",
+        "de": "Bistritz",
+        "de:t": "Rum\u00e4nien"
+    },
+    {
+        "en": "Blaj",
+        "en:t": "Romania",
+        "a": true,
+        "g": {
+            "lat": 46.1802,
+            "lon": 23.9279
+        },
+        "it": "Blaj",
+        "it:t": "Romania",
+        "es": "Blaj",
+        "es:t": "Ruman\u00eda",
+        "de": "Blaj",
+        "de:t": "Rum\u00e4nien"
+    },
+    {
+        "en": "Boc\u0219a",
+        "en:t": "Romania",
+        "a": true,
+        "g": {
+            "lat": 45.377,
+            "lon": 21.7188
+        },
+        "it": "Boc\u0219a",
+        "it:t": "Romania",
+        "es": "Boc\u0219a",
+        "es:t": "Ruman\u00eda",
+        "de": "Boc\u0219a",
+        "de:t": "Rum\u00e4nien"
+    },
+    {
+        "en": "Bor\u0219a",
+        "en:t": "Romania",
+        "a": true,
+        "g": {
+            "lat": 47.6538,
+            "lon": 24.6632
+        },
+        "it": "Bor\u0219a",
+        "it:t": "Romania",
+        "es": "Bor\u0219a",
+        "es:t": "Ruman\u00eda",
+        "de": "Bor\u0219a",
+        "de:t": "Rum\u00e4nien"
+    },
+    {
+        "en": "Boto\u0219ani",
+        "en:t": "Romania",
+        "a": true,
+        "g": {
+            "lat": 47.7407,
+            "lon": 26.6658
+        },
+        "it": "Boto\u0219ani",
+        "it:t": "Romania",
+        "es": "Boto\u0219ani",
+        "es:t": "Ruman\u00eda",
+        "de": "Boto\u0219ani",
+        "de:t": "Rum\u00e4nien"
+    },
+    {
+        "en": "Brad",
+        "en:t": "Romania",
+        "a": true,
+        "g": {
+            "lat": 46.1335,
+            "lon": 22.7884
+        },
+        "it": "Brad",
+        "it:t": "Romania",
+        "es": "Brad",
+        "es:t": "Ruman\u00eda",
+        "de": "Brad",
+        "de:t": "Rum\u00e4nien"
+    },
+    {
+        "en": "Bra\u0219ov",
+        "en:t": "Romania",
+        "a": true,
+        "g": {
+            "lat": 45.658,
+            "lon": 25.6012
+        },
+        "it": "Bra\u0219ov",
+        "it:t": "Romania",
+        "es": "Bra\u0219ov",
+        "es:t": "Ruman\u00eda",
+        "de": "Bra\u0219ov",
+        "de:t": "Rum\u00e4nien"
+    },
+    {
+        "en": "Breaza",
+        "en:t": "Romania",
+        "a": true,
+        "g": {
+            "lat": 45.1872,
+            "lon": 25.6622
+        },
+        "it": "Breaza",
+        "it:t": "Romania",
+        "es": "Breaza",
+        "es:t": "Ruman\u00eda",
+        "de": "Breaza",
+        "de:t": "Rum\u00e4nien"
+    },
+    {
+        "en": "Br\u0103ila",
+        "en:t": "Romania",
+        "a": true,
+        "g": {
+            "lat": 45.2652,
+            "lon": 27.9595
+        },
+        "it": "Br\u0103ila",
+        "it:t": "Romania",
+        "es": "Br\u0103ila",
+        "es:t": "Ruman\u00eda",
+        "de": "Br\u0103ila",
+        "de:t": "Rum\u00e4nien"
+    },
+    {
+        "en": "Bucharest",
+        "en:t": "Romania",
+        "a": true,
+        "g": {
+            "lat": 44.4268,
+            "lon": 26.1025
+        },
+        "it": "Bucarest",
+        "it:t": "Romania",
+        "es": "Bucarest",
+        "es:t": "Ruman\u00eda",
+        "de": "Bukarest",
+        "de:t": "Rum\u00e4nien"
+    },
+    {
+        "en": "Buftea",
+        "en:t": "Romania",
+        "a": true,
+        "g": {
+            "lat": 44.563,
+            "lon": 25.9388
+        },
+        "it": "Buftea",
+        "it:t": "Romania",
+        "es": "Buftea",
+        "es:t": "Ruman\u00eda",
+        "de": "Buftea",
+        "de:t": "Rum\u00e4nien"
+    },
+    {
+        "en": "Buhu\u0219i",
+        "en:t": "Romania",
+        "a": true,
+        "g": {
+            "lat": 46.7223,
+            "lon": 26.7001
+        },
+        "it": "Buhu\u0219i",
+        "it:t": "Romania",
+        "es": "Buhu\u0219i",
+        "es:t": "Ruman\u00eda",
+        "de": "Buhu\u0219i",
+        "de:t": "Rum\u00e4nien"
+    },
+    {
+        "en": "Buz\u0103u",
+        "en:t": "Romania",
+        "a": true,
+        "g": {
+            "lat": 45.1371,
+            "lon": 26.8171
+        },
+        "it": "Buz\u0103u",
+        "it:t": "Romania",
+        "es": "Buz\u0103u",
+        "es:t": "Ruman\u00eda",
+        "de": "Buz\u0103u",
+        "de:t": "Rum\u00e4nien"
+    },
+    {
+        "en": "B\u00e2rlad",
+        "en:t": "Romania",
+        "a": true,
+        "g": {
+            "lat": 46.2277,
+            "lon": 27.6692
+        },
+        "it": "B\u00e2rlad",
+        "it:t": "Romania",
+        "es": "B\u00e2rlad",
+        "es:t": "Ruman\u00eda",
+        "de": "B\u00e2rlad",
+        "de:t": "Rum\u00e4nien"
+    },
+    {
+        "en": "B\u0103icoi",
+        "en:t": "Romania",
+        "a": true,
+        "g": {
+            "lat": 45.034,
+            "lon": 25.879
+        },
+        "it": "B\u0103icoi",
+        "it:t": "Romania",
+        "es": "B\u0103icoi",
+        "es:t": "Ruman\u00eda",
+        "de": "B\u0103icoi",
+        "de:t": "Rum\u00e4nien"
+    },
+    {
+        "en": "B\u0103ile\u0219ti",
+        "en:t": "Romania",
+        "a": true,
+        "g": {
+            "lat": 44.0269,
+            "lon": 23.3454
+        },
+        "it": "B\u0103ile\u0219ti",
+        "it:t": "Romania",
+        "es": "B\u0103ile\u0219ti",
+        "es:t": "Ruman\u00eda",
+        "de": "B\u0103ile\u0219ti",
+        "de:t": "Rum\u00e4nien"
+    },
+    {
+        "en": "Calafat",
+        "en:t": "Romania",
+        "a": true,
+        "g": {
+            "lat": 43.9898,
+            "lon": 22.9341
+        },
+        "it": "Calafat",
+        "it:t": "Romania",
+        "es": "Calafat",
+        "es:t": "Ruman\u00eda",
+        "de": "Calafat",
+        "de:t": "Rum\u00e4nien"
+    },
+    {
+        "en": "Caracal",
+        "en:t": "Romania",
+        "a": true,
+        "g": {
+            "lat": 44.1157,
+            "lon": 24.3425
+        },
+        "it": "Caracal",
+        "it:t": "Romania",
+        "es": "Caracal",
+        "es:t": "Ruman\u00eda",
+        "de": "Caracal",
+        "de:t": "Rum\u00e4nien"
+    },
+    {
+        "en": "Caransebe\u0219",
+        "en:t": "Romania",
+        "a": true,
+        "g": {
+            "lat": 45.4136,
+            "lon": 22.2219
+        },
+        "it": "Caransebe\u0219",
+        "it:t": "Romania",
+        "es": "Caransebe\u0219",
+        "es:t": "Ruman\u00eda",
+        "de": "Karansebesch",
+        "de:t": "Rum\u00e4nien"
+    },
+    {
+        "en": "Carei",
+        "en:t": "Romania",
+        "a": true,
+        "g": {
+            "lat": 47.6815,
+            "lon": 22.4621
+        },
+        "it": "Carei",
+        "it:t": "Romania",
+        "es": "Carei",
+        "es:t": "Ruman\u00eda",
+        "de": "Carei",
+        "de:t": "Rum\u00e4nien"
+    },
+    {
+        "en": "Cernavoda",
+        "en:t": "Romania | Constan\u021ba",
+        "a": true,
+        "g": {
+            "lat": 44.3375,
+            "lon": 28.0493
+        },
+        "it": "Cernavoda",
+        "it:t": "Romania | Constan\u021ba",
+        "es": "Cernavoda",
+        "es:t": "Ruman\u00eda | Constan\u021ba",
+        "de": "Cernavoda",
+        "de:t": "Rum\u00e4nien | Constan\u021ba"
+    },
+    {
+        "en": "Cisn\u0103die",
+        "en:t": "Romania",
+        "a": true,
+        "g": {
+            "lat": 45.7139,
+            "lon": 24.1549
+        },
+        "it": "Cisn\u0103die",
+        "it:t": "Romania",
+        "es": "Cisn\u0103die",
+        "es:t": "Ruman\u00eda",
+        "de": "Heltau",
+        "de:t": "Rum\u00e4nien"
+    },
+    {
+        "en": "Cluj-Napoca",
+        "en:t": "Romania",
+        "a": true,
+        "g": {
+            "lat": 46.7712,
+            "lon": 23.6236
+        },
+        "it": "Cluj-Napoca",
+        "it:t": "Romania",
+        "es": "Cluj-Napoca",
+        "es:t": "Ruman\u00eda",
+        "de": "Cluj-Napoca",
+        "de:t": "Rum\u00e4nien"
+    },
+    {
+        "en": "Codlea",
+        "en:t": "Romania",
+        "a": true,
+        "g": {
+            "lat": 45.6977,
+            "lon": 25.4561
+        },
+        "it": "Codlea",
+        "it:t": "Romania",
+        "es": "Codlea",
+        "es:t": "Ruman\u00eda",
+        "de": "Zeiden",
+        "de:t": "Rum\u00e4nien"
+    },
+    {
+        "en": "Com\u0103ne\u0219ti",
+        "en:t": "Romania",
+        "a": true,
+        "g": {
+            "lat": 46.4235,
+            "lon": 26.4258
+        },
+        "it": "Com\u0103ne\u0219ti",
+        "it:t": "Romania",
+        "es": "Com\u0103ne\u0219ti",
+        "es:t": "Ruman\u00eda",
+        "de": "Com\u0103ne\u0219ti",
+        "de:t": "Rum\u00e4nien"
+    },
+    {
+        "en": "Constan\u021ba",
+        "en:t": "Romania",
+        "a": true,
+        "g": {
+            "lat": 44.1598,
+            "lon": 28.6348
+        },
+        "it": "Costanza",
+        "it:t": "Romania",
+        "es": "Constanza",
+        "es:t": "Ruman\u00eda",
+        "de": "Konstanza",
+        "de:t": "Rum\u00e4nien"
+    },
+    {
+        "en": "Corabia",
+        "en:t": "Romania | Ora\u0219ul Corabia",
+        "a": true,
+        "g": {
+            "lat": 43.7776,
+            "lon": 24.5129
+        },
+        "it": "Corabia",
+        "it:t": "Romania | Ora\u0219ul Corabia",
+        "es": "Corabia",
+        "es:t": "Ruman\u00eda | Ora\u0219ul Corabia",
+        "de": "Corabia",
+        "de:t": "Rum\u00e4nien | Ora\u0219ul Corabia"
+    },
+    {
+        "en": "Craiova",
+        "en:t": "Romania",
+        "a": true,
+        "g": {
+            "lat": 44.3302,
+            "lon": 23.7949
+        },
+        "it": "Craiova",
+        "it:t": "Romania",
+        "es": "Craiova",
+        "es:t": "Ruman\u00eda",
+        "de": "Craiova",
+        "de:t": "Rum\u00e4nien"
+    },
+    {
+        "en": "Cugir",
+        "en:t": "Romania",
+        "a": true,
+        "g": {
+            "lat": 45.8371,
+            "lon": 23.3675
+        },
+        "it": "Cugir",
+        "it:t": "Romania",
+        "es": "Cugir",
+        "es:t": "Ruman\u00eda",
+        "de": "Kudsir",
+        "de:t": "Rum\u00e4nien"
+    },
+    {
+        "en": "Curtea de Arge\u0219",
+        "en:t": "Romania",
+        "a": true,
+        "g": {
+            "lat": 45.1406,
+            "lon": 24.6685
+        },
+        "it": "Curtea de Arge\u0219",
+        "it:t": "Romania",
+        "es": "Curtea de Arge\u0219",
+        "es:t": "Ruman\u00eda",
+        "de": "Argisch",
+        "de:t": "Rum\u00e4nien"
+    },
+    {
+        "en": "C\u00e2mpia Turzii",
+        "en:t": "Romania",
+        "a": true,
+        "g": {
+            "lat": 46.5586,
+            "lon": 23.8707
+        },
+        "it": "C\u00e2mpia Turzii",
+        "it:t": "Romania",
+        "es": "C\u00e2mpia Turzii",
+        "es:t": "Ruman\u00eda",
+        "de": "C\u00e2mpia Turzii",
+        "de:t": "Rum\u00e4nien"
+    },
+    {
+        "en": "C\u00e2mpina",
+        "en:t": "Romania",
+        "a": true,
+        "g": {
+            "lat": 45.137,
+            "lon": 25.7421
+        },
+        "it": "C\u00e2mpina",
+        "it:t": "Romania",
+        "es": "C\u00e2mpina",
+        "es:t": "Ruman\u00eda",
+        "de": "C\u00e2mpina",
+        "de:t": "Rum\u00e4nien"
+    },
+    {
+        "en": "C\u00e2mpulung Moldovenesc",
+        "en:t": "Romania",
+        "a": true,
+        "g": {
+            "lat": 47.5257,
+            "lon": 25.5707
+        },
+        "it": "C\u00e2mpulung Moldovenesc",
+        "it:t": "Romania",
+        "es": "C\u00e2mpulung Moldovenesc",
+        "es:t": "Ruman\u00eda",
+        "de": "C\u00e2mpulung Moldovenesc",
+        "de:t": "Rum\u00e4nien"
+    },
+    {
+        "en": "Dej",
+        "en:t": "Romania",
+        "a": true,
+        "g": {
+            "lat": 47.1416,
+            "lon": 23.8787
+        },
+        "it": "Dej",
+        "it:t": "Romania",
+        "es": "Dej",
+        "es:t": "Ruman\u00eda",
+        "de": "Dej",
+        "de:t": "Rum\u00e4nien"
+    },
+    {
+        "en": "Deva",
+        "en:t": "Romania",
+        "a": true,
+        "g": {
+            "lat": 45.8663,
+            "lon": 22.9144
+        },
+        "it": "Deva",
+        "it:t": "Romania",
+        "es": "Deva",
+        "es:t": "Ruman\u00eda",
+        "de": "Diemrich",
+        "de:t": "Rum\u00e4nien"
+    },
+    {
+        "en": "Dorohoi",
+        "en:t": "Romania",
+        "a": true,
+        "g": {
+            "lat": 47.9549,
+            "lon": 26.4012
+        },
+        "it": "Dorohoi",
+        "it:t": "Romania",
+        "es": "Dorohoi",
+        "es:t": "Ruman\u00eda",
+        "de": "Dorohoi",
+        "de:t": "Rum\u00e4nien"
+    },
+    {
+        "en": "Drobeta-Turnu Severin",
+        "en:t": "Romania",
+        "a": true,
+        "g": {
+            "lat": 44.6369,
+            "lon": 22.6597
+        },
+        "it": "Drobeta-Turnu Severin",
+        "it:t": "Romania",
+        "es": "Drobeta-Turnu Severin",
+        "es:t": "Ruman\u00eda",
+        "de": "Drobeta Turnu Severin",
+        "de:t": "Rum\u00e4nien"
+    },
+    {
+        "en": "Dr\u0103g\u0103\u0219ani",
+        "en:t": "Romania",
+        "a": true,
+        "g": {
+            "lat": 44.6632,
+            "lon": 24.2609
+        },
+        "it": "Dr\u0103g\u0103\u0219ani",
+        "it:t": "Romania",
+        "es": "Dr\u0103g\u0103\u0219ani",
+        "es:t": "Ruman\u00eda",
+        "de": "Dr\u0103g\u0103\u0219ani",
+        "de:t": "Rum\u00e4nien"
+    },
+    {
+        "en": "Fete\u0219ti",
+        "en:t": "Romania",
+        "a": true,
+        "g": {
+            "lat": 44.3687,
+            "lon": 27.8286
+        },
+        "it": "Fete\u0219ti",
+        "it:t": "Romania",
+        "es": "Fete\u0219ti",
+        "es:t": "Ruman\u00eda",
+        "de": "Fete\u0219ti",
+        "de:t": "Rum\u00e4nien"
+    },
+    {
+        "en": "Fete\u0219ti-Gar\u0103",
+        "en:t": "Romania | Fetesti",
+        "a": true,
+        "g": {
+            "lat": 44.422,
+            "lon": 27.8245
+        },
+        "it": "Fete\u0219ti-Gar\u0103",
+        "it:t": "Romania | Fetesti",
+        "es": "Fete\u0219ti-Gar\u0103",
+        "es:t": "Ruman\u00eda | Fetesti",
+        "de": "Fete\u0219ti-Gar\u0103",
+        "de:t": "Rum\u00e4nien | Fetesti"
+    },
+    {
+        "en": "Filia\u0219i",
+        "en:t": "Romania",
+        "a": true,
+        "g": {
+            "lat": 44.5545,
+            "lon": 23.52
+        },
+        "it": "Filia\u0219i",
+        "it:t": "Romania",
+        "es": "Filia\u0219i",
+        "es:t": "Ruman\u00eda",
+        "de": "Filia\u0219i",
+        "de:t": "Rum\u00e4nien"
+    },
+    {
+        "en": "Foc\u0219ani",
+        "en:t": "Romania",
+        "a": true,
+        "g": {
+            "lat": 45.6965,
+            "lon": 27.184
+        },
+        "it": "Foc\u0219ani",
+        "it:t": "Romania",
+        "es": "Foc\u0219ani",
+        "es:t": "Ruman\u00eda",
+        "de": "Foc\u0219ani",
+        "de:t": "Rum\u00e4nien"
+    },
+    {
+        "en": "F\u0103g\u0103ra\u0219",
+        "en:t": "Romania",
+        "a": true,
+        "g": {
+            "lat": 45.8416,
+            "lon": 24.9731
+        },
+        "it": "F\u0103g\u0103ra\u0219",
+        "it:t": "Romania",
+        "es": "F\u0103g\u0103ra\u0219",
+        "es:t": "Ruman\u00eda",
+        "de": "F\u0103g\u0103ra\u0219",
+        "de:t": "Rum\u00e4nien"
+    },
+    {
+        "en": "F\u0103lticeni",
+        "en:t": "Romania",
+        "a": true,
+        "g": {
+            "lat": 47.4616,
+            "lon": 26.3015
+        },
+        "it": "F\u0103lticeni",
+        "it:t": "Romania",
+        "es": "F\u0103lticeni",
+        "es:t": "Ruman\u00eda",
+        "de": "F\u0103lticeni",
+        "de:t": "Rum\u00e4nien"
+    },
+    {
+        "en": "Gala\u021bi",
+        "en:t": "Romania",
+        "a": true,
+        "g": {
+            "lat": 45.4353,
+            "lon": 28.008
+        },
+        "it": "Gala\u021bi",
+        "it:t": "Romania",
+        "es": "Gala\u021bi",
+        "es:t": "Ruman\u00eda",
+        "de": "Gala\u021bi",
+        "de:t": "Rum\u00e4nien"
+    },
+    {
+        "en": "Gheorgheni",
+        "en:t": "Romania",
+        "a": true,
+        "g": {
+            "lat": 46.7212,
+            "lon": 25.5855
+        },
+        "it": "Gheorgheni",
+        "it:t": "Romania",
+        "es": "Gheorgheni",
+        "es:t": "Ruman\u00eda",
+        "de": "Gheorgheni",
+        "de:t": "Rum\u00e4nien"
+    },
+    {
+        "en": "Gherla",
+        "en:t": "Romania",
+        "a": true,
+        "g": {
+            "lat": 47.0318,
+            "lon": 23.9093
+        },
+        "it": "Gherla",
+        "it:t": "Romania",
+        "es": "Gherla",
+        "es:t": "Ruman\u00eda",
+        "de": "Gherla",
+        "de:t": "Rum\u00e4nien"
+    },
+    {
+        "en": "Giurgiu",
+        "en:t": "Romania",
+        "a": true,
+        "g": {
+            "lat": 43.9037,
+            "lon": 25.9699
+        },
+        "it": "Giurgiu",
+        "it:t": "Romania",
+        "es": "Giurgiu",
+        "es:t": "Ruman\u00eda",
+        "de": "Giurgiu",
+        "de:t": "Rum\u00e4nien"
+    },
+    {
+        "en": "Gura Humorului",
+        "en:t": "Romania",
+        "a": true,
+        "g": {
+            "lat": 47.5525,
+            "lon": 25.8856
+        },
+        "it": "Gura Humorului",
+        "it:t": "Romania",
+        "es": "Gura Humorului",
+        "es:t": "Ruman\u00eda",
+        "de": "Gura Humorului",
+        "de:t": "Rum\u00e4nien"
+    },
+    {
+        "en": "G\u0103e\u0219ti",
+        "en:t": "Romania",
+        "a": true,
+        "g": {
+            "lat": 44.7197,
+            "lon": 25.3162
+        },
+        "it": "G\u0103e\u0219ti",
+        "it:t": "Romania",
+        "es": "G\u0103e\u0219ti",
+        "es:t": "Ruman\u00eda",
+        "de": "G\u0103e\u0219ti",
+        "de:t": "Rum\u00e4nien"
+    },
+    {
+        "en": "Hunedoara",
+        "en:t": "Romania",
+        "a": true,
+        "g": {
+            "lat": 45.7678,
+            "lon": 22.9072
+        },
+        "it": "Hunedoara",
+        "it:t": "Romania",
+        "es": "Hunedoara",
+        "es:t": "Ruman\u00eda",
+        "de": "Hunedoara",
+        "de:t": "Rum\u00e4nien"
+    },
+    {
+        "en": "Hu\u0219i",
+        "en:t": "Romania",
+        "a": true,
+        "g": {
+            "lat": 46.6759,
+            "lon": 28.059
+        },
+        "it": "Hu\u0219i",
+        "it:t": "Romania",
+        "es": "Hu\u0219i",
+        "es:t": "Ruman\u00eda",
+        "de": "Hu\u0219i",
+        "de:t": "Rum\u00e4nien"
+    },
+    {
+        "en": "Ia\u0219i",
+        "en:t": "Romania",
+        "a": true,
+        "g": {
+            "lat": 47.1585,
+            "lon": 27.6014
+        },
+        "it": "Ia\u0219i",
+        "it:t": "Romania",
+        "es": "Ia\u0219i",
+        "es:t": "Ruman\u00eda",
+        "de": "Ia\u0219i",
+        "de:t": "Rum\u00e4nien"
+    },
+    {
+        "en": "Ludu\u0219",
+        "en:t": "Romania",
+        "a": true,
+        "g": {
+            "lat": 46.476,
+            "lon": 24.0934
+        },
+        "it": "Ludu\u0219",
+        "it:t": "Romania",
+        "es": "Ludu\u0219",
+        "es:t": "Ruman\u00eda",
+        "de": "Ludasch",
+        "de:t": "Rum\u00e4nien"
+    },
+    {
+        "en": "Lugoj",
+        "en:t": "Romania",
+        "a": true,
+        "g": {
+            "lat": 45.691,
+            "lon": 21.9035
+        },
+        "it": "Lugoj",
+        "it:t": "Romania",
+        "es": "Lugoj",
+        "es:t": "Ruman\u00eda",
+        "de": "Lugosch",
+        "de:t": "Rum\u00e4nien"
+    },
+    {
+        "en": "Lupeni",
+        "en:t": "Romania",
+        "a": true,
+        "g": {
+            "lat": 45.357,
+            "lon": 23.2132
+        },
+        "it": "Lupeni",
+        "it:t": "Romania",
+        "es": "Lupeni",
+        "es:t": "Ruman\u00eda",
+        "de": "Lupeni",
+        "de:t": "Rum\u00e4nien"
+    },
+    {
+        "en": "Mangalia",
+        "en:t": "Romania",
+        "a": true,
+        "g": {
+            "lat": 43.8152,
+            "lon": 28.5741
+        },
+        "it": "Mangalia",
+        "it:t": "Romania",
+        "es": "Mangalia",
+        "es:t": "Ruman\u00eda",
+        "de": "Mangalia",
+        "de:t": "Rum\u00e4nien"
+    },
+    {
+        "en": "Medgidia",
+        "en:t": "Romania",
+        "a": true,
+        "g": {
+            "lat": 44.2416,
+            "lon": 28.2777
+        },
+        "it": "Medgidia",
+        "it:t": "Romania",
+        "es": "Medgidia",
+        "es:t": "Ruman\u00eda",
+        "de": "Medgidia",
+        "de:t": "Rum\u00e4nien"
+    },
+    {
+        "en": "Media\u0219",
+        "en:t": "Romania",
+        "a": true,
+        "g": {
+            "lat": 46.1573,
+            "lon": 24.3472
+        },
+        "it": "Media\u0219",
+        "it:t": "Romania",
+        "es": "Media\u0219",
+        "es:t": "Ruman\u00eda",
+        "de": "Mediasch",
+        "de:t": "Rum\u00e4nien"
+    },
+    {
+        "en": "Miercurea Ciuc",
+        "en:t": "Romania",
+        "a": true,
+        "g": {
+            "lat": 46.3696,
+            "lon": 25.7954
+        },
+        "it": "Miercurea Ciuc",
+        "it:t": "Romania",
+        "es": "Miercurea Ciuc",
+        "es:t": "Ruman\u00eda",
+        "de": "Miercurea Ciuc",
+        "de:t": "Rum\u00e4nien"
+    },
+    {
+        "en": "Mioveni",
+        "en:t": "Romania",
+        "a": true,
+        "g": {
+            "lat": 44.9571,
+            "lon": 24.9472
+        },
+        "it": "Mioveni",
+        "it:t": "Romania",
+        "es": "Mioveni",
+        "es:t": "Ruman\u00eda",
+        "de": "Mioveni",
+        "de:t": "Rum\u00e4nien"
+    },
+    {
+        "en": "Mizil",
+        "en:t": "Romania",
+        "a": true,
+        "g": {
+            "lat": 44.9982,
+            "lon": 26.4418
+        },
+        "it": "Mizil",
+        "it:t": "Romania",
+        "es": "Mizil",
+        "es:t": "Ruman\u00eda",
+        "de": "Mizil",
+        "de:t": "Rum\u00e4nien"
+    },
+    {
+        "en": "Moine\u0219ti",
+        "en:t": "Romania",
+        "a": true,
+        "g": {
+            "lat": 46.4698,
+            "lon": 26.4885
+        },
+        "it": "Moine\u0219ti",
+        "it:t": "Romania",
+        "es": "Moine\u0219ti",
+        "es:t": "Ruman\u00eda",
+        "de": "Moine\u0219ti",
+        "de:t": "Rum\u00e4nien"
+    },
+    {
+        "en": "Moreni",
+        "en:t": "Romania",
+        "a": true,
+        "g": {
+            "lat": 44.982,
+            "lon": 25.6402
+        },
+        "it": "Moreni",
+        "it:t": "Romania",
+        "es": "Moreni",
+        "es:t": "Ruman\u00eda",
+        "de": "Moreni",
+        "de:t": "Rum\u00e4nien"
+    },
+    {
+        "en": "Motru",
+        "en:t": "Romania",
+        "a": true,
+        "g": {
+            "lat": 44.8027,
+            "lon": 22.9729
+        },
+        "it": "Motru",
+        "it:t": "Romania",
+        "es": "Motru",
+        "es:t": "Ruman\u00eda",
+        "de": "Motru",
+        "de:t": "Rum\u00e4nien"
+    },
+    {
+        "en": "N\u0103vodari",
+        "en:t": "Romania | Constan\u021ba",
+        "a": true,
+        "g": {
+            "lat": 44.3411,
+            "lon": 28.6455
+        },
+        "it": "N\u0103vodari",
+        "it:t": "Romania | Costanza",
+        "es": "N\u0103vodari",
+        "es:t": "Ruman\u00eda | Constan\u021ba",
+        "de": "N\u0103vodari",
+        "de:t": "Rum\u00e4nien | Kreis Constan\u021ba"
+    },
+    {
+        "en": "Ocna Mure\u0219",
+        "en:t": "Romania",
+        "a": true,
+        "g": {
+            "lat": 46.3821,
+            "lon": 23.8521
+        },
+        "it": "Ocna Mure\u0219",
+        "it:t": "Romania",
+        "es": "Ocna Mure\u0219",
+        "es:t": "Ruman\u00eda",
+        "de": "Ocna Mure\u0219",
+        "de:t": "Rum\u00e4nien"
+    },
+    {
+        "en": "Odorheiu Secuiesc",
+        "en:t": "Romania",
+        "a": true,
+        "g": {
+            "lat": 46.305,
+            "lon": 25.2926
+        },
+        "it": "Odorheiu Secuiesc",
+        "it:t": "Romania",
+        "es": "Odorheiu Secuiesc",
+        "es:t": "Ruman\u00eda",
+        "de": "Odorheiu Secuiesc",
+        "de:t": "Rum\u00e4nien"
+    },
+    {
+        "en": "Olteni\u021ba",
+        "en:t": "Romania | Oltenita",
+        "a": true,
+        "g": {
+            "lat": 44.0855,
+            "lon": 26.6375
+        },
+        "it": "Olteni\u021ba",
+        "it:t": "Romania | Oltenita",
+        "es": "Olteni\u021ba",
+        "es:t": "Ruman\u00eda | Oltenita",
+        "de": "Olteni\u021ba",
+        "de:t": "Rum\u00e4nien | Oltenita"
+    },
+    {
+        "en": "Oradea",
+        "en:t": "Romania",
+        "a": true,
+        "g": {
+            "lat": 47.0465,
+            "lon": 21.9189
+        },
+        "it": "Oradea",
+        "it:t": "Romania",
+        "es": "Oradea",
+        "es:t": "Ruman\u00eda",
+        "de": "Oradea",
+        "de:t": "Rum\u00e4nien"
+    },
+    {
+        "en": "Or\u0103\u0219tie",
+        "en:t": "Romania",
+        "a": true,
+        "g": {
+            "lat": 45.8451,
+            "lon": 23.2019
+        },
+        "it": "Or\u0103\u0219tie",
+        "it:t": "Romania",
+        "es": "Or\u0103\u0219tie",
+        "es:t": "Ruman\u00eda",
+        "de": "Or\u0103\u0219tie",
+        "de:t": "Rum\u00e4nien"
+    },
+    {
+        "en": "Pantelimon",
+        "en:t": "Romania",
+        "a": true,
+        "g": {
+            "lat": 44.451,
+            "lon": 26.2352
+        },
+        "it": "Pantelimon",
+        "it:t": "Romania",
+        "es": "Pantelimon",
+        "es:t": "Ruman\u00eda",
+        "de": "Pantelimon",
+        "de:t": "Rum\u00e4nien"
+    },
+    {
+        "en": "Pa\u0219cani",
+        "en:t": "Romania",
+        "a": true,
+        "g": {
+            "lat": 47.2411,
+            "lon": 26.7234
+        },
+        "it": "Pa\u0219cani",
+        "it:t": "Romania",
+        "es": "Pa\u0219cani",
+        "es:t": "Ruman\u00eda",
+        "de": "Pa\u0219cani",
+        "de:t": "Rum\u00e4nien"
+    },
+    {
+        "en": "Petrila",
+        "en:t": "Romania",
+        "a": true,
+        "g": {
+            "lat": 45.4438,
+            "lon": 23.4094
+        },
+        "it": "Petrila",
+        "it:t": "Romania",
+        "es": "Petrila",
+        "es:t": "Ruman\u00eda",
+        "de": "Petrila",
+        "de:t": "Rum\u00e4nien"
+    },
+    {
+        "en": "Petro\u0219ani",
+        "en:t": "Romania",
+        "a": true,
+        "g": {
+            "lat": 45.4089,
+            "lon": 23.3754
+        },
+        "it": "Petro\u0219ani",
+        "it:t": "Romania",
+        "es": "Petro\u0219ani",
+        "es:t": "Ruman\u00eda",
+        "de": "Petro\u0219ani",
+        "de:t": "Rum\u00e4nien"
+    },
+    {
+        "en": "Piatra Neam\u021b",
+        "en:t": "Romania",
+        "a": true,
+        "g": {
+            "lat": 46.93,
+            "lon": 26.378
+        },
+        "it": "Piatra Neam\u021b",
+        "it:t": "Romania",
+        "es": "Piatra Neam\u021b",
+        "es:t": "Ruman\u00eda",
+        "de": "Piatra Neam\u021b",
+        "de:t": "Rum\u00e4nien"
+    },
+    {
+        "en": "Pite\u0219ti",
+        "en:t": "Romania",
+        "a": true,
+        "g": {
+            "lat": 44.8565,
+            "lon": 24.8692
+        },
+        "it": "Pite\u0219ti",
+        "it:t": "Romania",
+        "es": "Pite\u0219ti",
+        "es:t": "Ruman\u00eda",
+        "de": "Pite\u0219ti",
+        "de:t": "Rum\u00e4nien"
+    },
+    {
+        "en": "Ploie\u0219ti",
+        "en:t": "Romania",
+        "a": true,
+        "g": {
+            "lat": 44.9367,
+            "lon": 26.0129
+        },
+        "it": "Ploie\u0219ti",
+        "it:t": "Romania",
+        "es": "Ploie\u0219ti",
+        "es:t": "Ruman\u00eda",
+        "de": "Ploie\u0219ti",
+        "de:t": "Rum\u00e4nien"
+    },
+    {
+        "en": "Popesti-Leordeni",
+        "en:t": "Romania",
+        "a": true,
+        "g": {
+            "lat": 44.3789,
+            "lon": 26.1877
+        },
+        "it": "Pope\u0219ti-Leordeni",
+        "it:t": "Romania",
+        "es": "Pope\u0219ti-Leordeni",
+        "es:t": "Ruman\u00eda",
+        "de": "Pope\u0219ti-Leordeni",
+        "de:t": "Rum\u00e4nien"
+    },
+    {
+        "en": "Reghin",
+        "en:t": "Romania",
+        "a": true,
+        "g": {
+            "lat": 46.7711,
+            "lon": 24.7008
+        },
+        "it": "Reghin",
+        "it:t": "Romania",
+        "es": "Reghin",
+        "es:t": "Ruman\u00eda",
+        "de": "Reen",
+        "de:t": "Rum\u00e4nien"
+    },
+    {
+        "en": "Resita",
+        "en:t": "Romania",
+        "a": true,
+        "g": {
+            "lat": 45.305,
+            "lon": 21.8821
+        },
+        "it": "Re\u0219i\u021ba",
+        "it:t": "Romania",
+        "es": "Re\u0219i\u021ba",
+        "es:t": "Ruman\u00eda",
+        "de": "Reschitz",
+        "de:t": "Rum\u00e4nien"
+    },
+    {
+        "en": "Roman",
+        "en:t": "Romania",
+        "a": true,
+        "g": {
+            "lat": 46.9334,
+            "lon": 26.9265
+        },
+        "it": "Roman",
+        "it:t": "Romania",
+        "es": "Roman",
+        "es:t": "Ruman\u00eda",
+        "de": "Roman",
+        "de:t": "Rum\u00e4nien"
+    },
+    {
+        "en": "Ro\u0219iorii de Vede",
+        "en:t": "Romania",
+        "a": true,
+        "g": {
+            "lat": 44.1086,
+            "lon": 24.995
+        },
+        "it": "Ro\u0219iorii de Vede",
+        "it:t": "Romania",
+        "es": "Ro\u0219iori de Vede",
+        "es:t": "Ruman\u00eda",
+        "de": "Ro\u0219iorii de Vede",
+        "de:t": "Rum\u00e4nien"
+    },
+    {
+        "en": "R\u00e2mnicu S\u0103rat",
+        "en:t": "Romania",
+        "a": true,
+        "g": {
+            "lat": 45.3865,
+            "lon": 27.0462
+        },
+        "it": "R\u00e2mnicu S\u0103rat",
+        "it:t": "Romania",
+        "es": "R\u00e2mnicu S\u0103rat",
+        "es:t": "Ruman\u00eda",
+        "de": "R\u00fcmnick",
+        "de:t": "Rum\u00e4nien"
+    },
+    {
+        "en": "R\u00e2mnicu V\u00e2lcea",
+        "en:t": "Romania",
+        "a": true,
+        "g": {
+            "lat": 45.0997,
+            "lon": 24.3693
+        },
+        "it": "R\u00e2mnicu V\u00e2lcea",
+        "it:t": "Romania",
+        "es": "R\u00e2mnicu V\u00e2lcea",
+        "es:t": "Ruman\u00eda",
+        "de": "R\u00e2mnicu V\u00e2lcea",
+        "de:t": "Rum\u00e4nien"
+    },
+    {
+        "en": "R\u00e2\u0219nov",
+        "en:t": "Romania",
+        "a": true,
+        "g": {
+            "lat": 45.5746,
+            "lon": 25.454
+        },
+        "it": "R\u00e2\u0219nov",
+        "it:t": "Romania",
+        "es": "R\u00e2\u0219nov",
+        "es:t": "Ruman\u00eda",
+        "de": "Rosenau",
+        "de:t": "Rum\u00e4nien"
+    },
+    {
+        "en": "R\u0103d\u0103u\u021bi",
+        "en:t": "Romania",
+        "a": true,
+        "g": {
+            "lat": 47.8409,
+            "lon": 25.9138
+        },
+        "it": "R\u0103d\u0103u\u021bi",
+        "it:t": "Romania",
+        "es": "R\u0103d\u0103u\u021bi",
+        "es:t": "Ruman\u00eda",
+        "de": "R\u0103d\u0103u\u021bi",
+        "de:t": "Rum\u00e4nien"
+    },
+    {
+        "en": "Salonta",
+        "en:t": "Romania",
+        "a": true,
+        "g": {
+            "lat": 46.8053,
+            "lon": 21.649
+        },
+        "it": "Salonta",
+        "it:t": "Romania",
+        "es": "Salonta",
+        "es:t": "Ruman\u00eda",
+        "de": "Salonta",
+        "de:t": "Rum\u00e4nien"
+    },
+    {
+        "en": "Satu Mare",
+        "en:t": "Romania",
+        "a": true,
+        "g": {
+            "lat": 47.8017,
+            "lon": 22.8576
+        },
+        "it": "Satu Mare",
+        "it:t": "Romania",
+        "es": "Satu Mare",
+        "es:t": "Ruman\u00eda",
+        "de": "Satu Mare",
+        "de:t": "Rum\u00e4nien"
+    },
+    {
+        "en": "Sebe\u0219",
+        "en:t": "Romania",
+        "a": true,
+        "g": {
+            "lat": 45.9596,
+            "lon": 23.5664
+        },
+        "it": "Sebe\u0219",
+        "it:t": "Romania",
+        "es": "Sebe\u0219",
+        "es:t": "Ruman\u00eda",
+        "de": "Sebe\u0219",
+        "de:t": "Rum\u00e4nien"
+    },
+    {
+        "en": "Sf\u00e2ntu Gheorghe",
+        "en:t": "Romania",
+        "a": true,
+        "g": {
+            "lat": 45.8609,
+            "lon": 25.7886
+        },
+        "it": "Sf\u00e2ntu Gheorghe",
+        "it:t": "Romania",
+        "es": "Sf\u00e2ntu Gheorghe",
+        "es:t": "Ruman\u00eda",
+        "de": "Sf\u00e2ntu Gheorghe",
+        "de:t": "Rum\u00e4nien"
+    },
+    {
+        "en": "Sibiu",
+        "en:t": "Romania",
+        "a": true,
+        "g": {
+            "lat": 45.7983,
+            "lon": 24.1256
+        },
+        "it": "Sibiu",
+        "it:t": "Romania",
+        "es": "Sibiu",
+        "es:t": "Ruman\u00eda",
+        "de": "Hermannstadt",
+        "de:t": "Rum\u00e4nien"
+    },
+    {
+        "en": "Sighetu Marma\u021biei",
+        "en:t": "Romania",
+        "a": true,
+        "g": {
+            "lat": 47.9277,
+            "lon": 23.8977
+        },
+        "it": "Sighetu Marma\u021biei",
+        "it:t": "Romania",
+        "es": "Sighetu Marma\u021biei",
+        "es:t": "Ruman\u00eda",
+        "de": "Sighetu Marma\u021biei",
+        "de:t": "Rum\u00e4nien"
+    },
+    {
+        "en": "Sighi\u0219oara",
+        "en:t": "Romania",
+        "a": true,
+        "g": {
+            "lat": 46.2197,
+            "lon": 24.7964
+        },
+        "it": "Sighi\u0219oara",
+        "it:t": "Romania",
+        "es": "Sighi\u0219oara",
+        "es:t": "Ruman\u00eda",
+        "de": "Sch\u00e4\u00dfburg",
+        "de:t": "Rum\u00e4nien"
+    },
+    {
+        "en": "Slatina",
+        "en:t": "Romania",
+        "a": true,
+        "g": {
+            "lat": 44.4302,
+            "lon": 24.3717
+        },
+        "it": "Slatina",
+        "it:t": "Romania",
+        "es": "Slatina",
+        "es:t": "Ruman\u00eda",
+        "de": "Slatina",
+        "de:t": "Rum\u00e4nien"
+    },
+    {
+        "en": "Slobozia",
+        "en:t": "Romania",
+        "a": true,
+        "g": {
+            "lat": 44.5629,
+            "lon": 27.3614
+        },
+        "it": "Slobozia",
+        "it:t": "Romania",
+        "es": "Slobozia",
+        "es:t": "Ruman\u00eda",
+        "de": "Slobozia",
+        "de:t": "Rum\u00e4nien"
+    },
+    {
+        "en": "Suceava",
+        "en:t": "Romania",
+        "a": true,
+        "g": {
+            "lat": 47.6635,
+            "lon": 26.2732
+        },
+        "it": "Suceava",
+        "it:t": "Romania",
+        "es": "Suceava",
+        "es:t": "Ruman\u00eda",
+        "de": "Suceava",
+        "de:t": "Rum\u00e4nien"
+    },
+    {
+        "en": "S\u0103cele",
+        "en:t": "Romania",
+        "a": true,
+        "g": {
+            "lat": 45.618,
+            "lon": 25.6943
+        },
+        "it": "S\u0103cele",
+        "it:t": "Romania",
+        "es": "S\u0103cele",
+        "es:t": "Ruman\u00eda",
+        "de": "S\u0103cele",
+        "de:t": "Rum\u00e4nien"
+    },
+    {
+        "en": "Targu Neamt",
+        "en:t": "Romania",
+        "a": true,
+        "g": {
+            "lat": 47.2098,
+            "lon": 26.3757
+        },
+        "it": "T\u00e2rgu Neam\u021b",
+        "it:t": "Romania",
+        "es": "T\u00e2rgu Neam\u021b",
+        "es:t": "Ruman\u00eda",
+        "de": "T\u00e2rgu Neam\u021b",
+        "de:t": "Rum\u00e4nien"
+    },
+    {
+        "en": "Tecuci",
+        "en:t": "Romania",
+        "a": true,
+        "g": {
+            "lat": 45.8491,
+            "lon": 27.4241
+        },
+        "it": "Tecuci",
+        "it:t": "Romania",
+        "es": "Tecuci",
+        "es:t": "Ruman\u00eda",
+        "de": "Tecuci",
+        "de:t": "Rum\u00e4nien"
+    },
+    {
+        "en": "Timi\u0219oara",
+        "en:t": "Romania",
+        "a": true,
+        "g": {
+            "lat": 45.7489,
+            "lon": 21.2087
+        },
+        "it": "Timi\u0219oara",
+        "it:t": "Romania",
+        "es": "Timi\u0219oara",
+        "es:t": "Ruman\u00eda",
+        "de": "Timi\u0219oara",
+        "de:t": "Rum\u00e4nien"
+    },
+    {
+        "en": "Tulcea",
+        "en:t": "Romania",
+        "a": true,
+        "g": {
+            "lat": 45.1716,
+            "lon": 28.7914
+        },
+        "it": "Tulcea",
+        "it:t": "Romania",
+        "es": "Tulcea",
+        "es:t": "Ruman\u00eda",
+        "de": "Tulcea",
+        "de:t": "Rum\u00e4nien"
+    },
+    {
+        "en": "Turda",
+        "en:t": "Romania",
+        "a": true,
+        "g": {
+            "lat": 46.5647,
+            "lon": 23.7971
+        },
+        "it": "Turda",
+        "it:t": "Romania",
+        "es": "Turda",
+        "es:t": "Ruman\u00eda",
+        "de": "Turda",
+        "de:t": "Rum\u00e4nien"
+    },
+    {
+        "en": "Turnu M\u0103gurele",
+        "en:t": "Romania",
+        "a": true,
+        "g": {
+            "lat": 43.7517,
+            "lon": 24.8774
+        },
+        "it": "Turnu M\u0103gurele",
+        "it:t": "Romania",
+        "es": "Turnu M\u0103gurele",
+        "es:t": "Ruman\u00eda",
+        "de": "Turnu M\u0103gurele",
+        "de:t": "Rum\u00e4nien"
+    },
+    {
+        "en": "T\u00e2rgovi\u0219te",
+        "en:t": "Romania",
+        "a": true,
+        "g": {
+            "lat": 44.9118,
+            "lon": 25.4558
+        },
+        "it": "T\u00e2rgovi\u0219te",
+        "it:t": "Romania",
+        "es": "T\u00e2rgovi\u0219te",
+        "es:t": "Ruman\u00eda",
+        "de": "T\u00e2rgovi\u0219te",
+        "de:t": "Rum\u00e4nien"
+    },
+    {
+        "en": "T\u00e2rgu Jiu",
+        "en:t": "Romania",
+        "a": true,
+        "g": {
+            "lat": 45.0314,
+            "lon": 23.2689
+        },
+        "it": "T\u00e2rgu Jiu",
+        "it:t": "Romania",
+        "es": "T\u00e2rgu Jiu",
+        "es:t": "Ruman\u00eda",
+        "de": "T\u00e2rgu Jiu",
+        "de:t": "Rum\u00e4nien"
+    },
+    {
+        "en": "T\u00e2rgu Mure\u0219",
+        "en:t": "Romania",
+        "a": true,
+        "g": {
+            "lat": 46.5386,
+            "lon": 24.5514
+        },
+        "it": "T\u00e2rgu Mure\u0219",
+        "it:t": "Romania",
+        "es": "T\u00e2rgu Mure\u0219",
+        "es:t": "Ruman\u00eda",
+        "de": "T\u00e2rgu Mure\u0219",
+        "de:t": "Rum\u00e4nien"
+    },
+    {
+        "en": "T\u00e2rgu Secuiesc",
+        "en:t": "Romania",
+        "a": true,
+        "g": {
+            "lat": 46.0006,
+            "lon": 26.1346
+        },
+        "it": "T\u00e2rgu Secuiesc",
+        "it:t": "Romania",
+        "es": "T\u00e2rgu Secuiesc",
+        "es:t": "Ruman\u00eda",
+        "de": "T\u00e2rgu Secuiesc",
+        "de:t": "Rum\u00e4nien"
+    },
+    {
+        "en": "T\u00e2rn\u0103veni",
+        "en:t": "Romania",
+        "a": true,
+        "g": {
+            "lat": 46.3293,
+            "lon": 24.2936
+        },
+        "it": "T\u00e2rn\u0103veni",
+        "it:t": "Romania",
+        "es": "T\u00e2rn\u0103veni",
+        "es:t": "Ruman\u00eda",
+        "de": "T\u00e2rn\u0103veni",
+        "de:t": "Rum\u00e4nien"
+    },
+    {
+        "en": "Urziceni",
+        "en:t": "Romania",
+        "a": true,
+        "g": {
+            "lat": 44.7181,
+            "lon": 26.6453
+        },
+        "it": "Urziceni",
+        "it:t": "Romania",
+        "es": "Urziceni",
+        "es:t": "Ruman\u00eda",
+        "de": "Urziceni",
+        "de:t": "Rum\u00e4nien"
+    },
+    {
+        "en": "Vaslui",
+        "en:t": "Romania",
+        "a": true,
+        "g": {
+            "lat": 46.6407,
+            "lon": 27.7276
+        },
+        "it": "Vaslui",
+        "it:t": "Romania",
+        "es": "Vaslui",
+        "es:t": "Ruman\u00eda",
+        "de": "Vaslui",
+        "de:t": "Rum\u00e4nien"
+    },
+    {
+        "en": "Vatra Dornei",
+        "en:t": "Romania",
+        "a": true,
+        "g": {
+            "lat": 47.3448,
+            "lon": 25.3521
+        },
+        "it": "Vatra Dornei",
+        "it:t": "Romania",
+        "es": "Vatra Dornei",
+        "es:t": "Ruman\u00eda",
+        "de": "Vatra Dornei",
+        "de:t": "Rum\u00e4nien"
+    },
+    {
+        "en": "Vi\u0219eu de Sus",
+        "en:t": "Romania",
+        "a": true,
+        "g": {
+            "lat": 47.7151,
+            "lon": 24.4397
+        },
+        "it": "Vi\u0219eu de Sus",
+        "it:t": "Romania",
+        "es": "Vi\u0219eu de Sus",
+        "es:t": "Ruman\u00eda",
+        "de": "Vi\u0219eu de Sus",
+        "de:t": "Rum\u00e4nien"
+    },
+    {
+        "en": "Voluntari",
+        "en:t": "Romania",
+        "a": true,
+        "g": {
+            "lat": 44.5133,
+            "lon": 26.1401
+        },
+        "it": "Voluntari",
+        "it:t": "Romania",
+        "es": "Voluntari",
+        "es:t": "Ruman\u00eda",
+        "de": "Voluntari",
+        "de:t": "Rum\u00e4nien"
+    },
+    {
+        "en": "Vulcan",
+        "en:t": "Romania",
+        "a": true,
+        "g": {
+            "lat": 45.3781,
+            "lon": 23.2881
+        },
+        "it": "Vulcan",
+        "it:t": "Romania",
+        "es": "Vulcan",
+        "es:t": "Ruman\u00eda",
+        "de": "Vulcan",
+        "de:t": "Rum\u00e4nien"
+    },
+    {
+        "en": "Zal\u0103u",
+        "en:t": "Romania",
+        "a": true,
+        "g": {
+            "lat": 47.1855,
+            "lon": 23.0573
+        },
+        "it": "Zal\u0103u",
+        "it:t": "Romania",
+        "es": "Zal\u0103u",
+        "es:t": "Ruman\u00eda",
+        "de": "Zal\u0103u",
+        "de:t": "Rum\u00e4nien"
+    },
+    {
+        "en": "Zimnicea",
+        "en:t": "Romania",
+        "a": true,
+        "g": {
+            "lat": 43.6578,
+            "lon": 25.3606
+        },
+        "it": "Zimnicea",
+        "it:t": "Romania",
+        "es": "Zimnicea",
+        "es:t": "Ruman\u00eda",
+        "de": "Zimnicea",
+        "de:t": "Rum\u00e4nien"
+    },
+    {
+        "en": "Z\u0103rne\u0219ti",
+        "en:t": "Romania",
+        "a": true,
+        "g": {
+            "lat": 45.5607,
+            "lon": 25.322
+        },
+        "it": "Z\u0103rne\u0219ti",
+        "it:t": "Romania",
+        "es": "Z\u0103rne\u0219ti",
+        "es:t": "Ruman\u00eda",
+        "de": "Z\u0103rne\u0219ti",
+        "de:t": "Rum\u00e4nien"
+    },
+    {
+        "en": "\u0218imleu Silvaniei",
+        "en:t": "Romania",
+        "a": true,
+        "g": {
+            "lat": 47.2261,
+            "lon": 22.8038
+        },
+        "it": "\u0218imleu Silvaniei",
+        "it:t": "Romania",
+        "es": "\u0218imleu Silvaniei",
+        "es:t": "Ruman\u00eda",
+        "de": "\u0218imleu Silvaniei",
+        "de:t": "Rum\u00e4nien"
+    }
+]

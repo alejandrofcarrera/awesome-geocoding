@@ -1,0 +1,5537 @@
+[
+  {
+    "en": "Adana",
+    "en:t": "Turkey | Reşatbey Mahallesi",
+    "a": true,
+    "g": {
+      "lat": 36.9914,
+      "lon": 35.3308
+    },
+    "it": "Adana",
+    "it:t": "Turchia | Reşatbey Mahallesi",
+    "es": "Adana",
+    "es:t": "Turquía | Reşatbey Mahallesi",
+    "de": "Adana",
+    "de:t": "Türkei | Reşatbey Mahallesi"
+  },
+  {
+    "en": "Adapazarı",
+    "en:t": "Turkey | Karaosman Mahallesi",
+    "a": true,
+    "g": {
+      "lat": 40.7889,
+      "lon": 30.406
+    },
+    "it": "Adapazarı",
+    "it:t": "Turchia | Karaosman Mahallesi",
+    "es": "Adapazarı",
+    "es:t": "Turquía | Karaosman Mahallesi",
+    "de": "Adapazarı",
+    "de:t": "Türkei | Karaosman Mahallesi"
+  },
+  {
+    "en": "Adilcevaz",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 38.8049,
+      "lon": 42.7365
+    },
+    "it": "Adilcevaz",
+    "it:t": "Turchia",
+    "es": "Adilcevaz",
+    "es:t": "Turquía",
+    "de": "Adilcevaz",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Adıyaman",
+    "en:t": "Turkey | Adıyaman Merkez",
+    "a": true,
+    "g": {
+      "lat": 37.7636,
+      "lon": 38.2773
+    },
+    "it": "Adıyaman",
+    "it:t": "Turchia | Adıyaman Merkez",
+    "es": "Adıyaman",
+    "es:t": "Turquía | Adıyaman Merkez",
+    "de": "Adıyaman",
+    "de:t": "Türkei | Adıyaman Merkez"
+  },
+  {
+    "en": "Afyonkarahisar",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 38.7569,
+      "lon": 30.5387
+    },
+    "it": "Afyonkarahisar",
+    "it:t": "Turchia",
+    "es": "Afyonkarahisar",
+    "es:t": "Turquía",
+    "de": "Afyonkarahisar",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Afşin",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 38.2438,
+      "lon": 36.9147
+    },
+    "it": "Afşin",
+    "it:t": "Turchia",
+    "es": "Afşin",
+    "es:t": "Turquía",
+    "de": "Afşin",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Ahlat",
+    "en:t": "Turkey | Uludere Köyü",
+    "a": true,
+    "g": {
+      "lat": 38.7553,
+      "lon": 42.4871
+    },
+    "it": "Ahlat",
+    "it:t": "Turchia | Uludere Köyü",
+    "es": "Ahlat",
+    "es:t": "Turquía | Uludere Köyü",
+    "de": "Ahlat",
+    "de:t": "Türkei | Uludere Köyü"
+  },
+  {
+    "en": "Akdağmadeni",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 39.6602,
+      "lon": 35.8823
+    },
+    "it": "Akdağmadeni",
+    "it:t": "Turchia",
+    "es": "Akdağmadeni",
+    "es:t": "Turquía",
+    "de": "Akdağmadeni",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Akhisar",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 38.9177,
+      "lon": 27.8366
+    },
+    "it": "Akhisar",
+    "it:t": "Turchia",
+    "es": "Akhisar",
+    "es:t": "Turquía",
+    "de": "Akhisar",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Aksaray",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 38.3686,
+      "lon": 34.0297
+    },
+    "it": "Aksaray",
+    "it:t": "Turchia",
+    "es": "Aksaray",
+    "es:t": "Turquía",
+    "de": "Aksaray",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Akyazı",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 40.6835,
+      "lon": 30.6249
+    },
+    "it": "Akyazı",
+    "it:t": "Turchia",
+    "es": "Akyazı",
+    "es:t": "Turquía",
+    "de": "Akyazı",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Akçaabat",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 41.022,
+      "lon": 39.5709
+    },
+    "it": "Akçaabat",
+    "it:t": "Turchia",
+    "es": "Akçaabat",
+    "es:t": "Turquía",
+    "de": "Akçaabat",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Akçakale",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 36.7133,
+      "lon": 38.9484
+    },
+    "it": "Akçakale Caddesi",
+    "it:t": "Turchia",
+    "es": "Akçakale",
+    "es:t": "Turquía",
+    "de": "Akçakale",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Akçakoca",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 41.0882,
+      "lon": 31.124
+    },
+    "it": "Akçakoca",
+    "it:t": "Turchia",
+    "es": "Akçakoca",
+    "es:t": "Turquía",
+    "de": "Akçakoca",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Akşehir",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 38.3603,
+      "lon": 31.418
+    },
+    "it": "Akşehir",
+    "it:t": "Turchia",
+    "es": "Akşehir",
+    "es:t": "Turquía",
+    "de": "Akşehir",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Alaca",
+    "en:t": "Turkey | Çorum",
+    "a": true,
+    "g": {
+      "lat": 40.193,
+      "lon": 34.8367
+    },
+    "it": "Alaca",
+    "it:t": "Turchia | Çorum",
+    "es": "Alaca",
+    "es:t": "Turquía | Çorum",
+    "de": "Alaca",
+    "de:t": "Türkei | Çorum"
+  },
+  {
+    "en": "Alanya",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 36.5444,
+      "lon": 31.9954
+    },
+    "it": "Alanya",
+    "it:t": "Turchia",
+    "es": "Alanya",
+    "es:t": "Turquía",
+    "de": "Alanya",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Alaplı",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 41.1827,
+      "lon": 31.3845
+    },
+    "it": "Alaplı",
+    "it:t": "Turchia",
+    "es": "Alaplı",
+    "es:t": "Turquía",
+    "de": "Alaplı",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Alaşehir",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 38.3545,
+      "lon": 28.5165
+    },
+    "it": "Alaşehir",
+    "it:t": "Turchia",
+    "es": "Alaşehir",
+    "es:t": "Turquía",
+    "de": "Alaşehir",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Aliağa",
+    "en:t": "Turkey | Samurlu Mahallesi",
+    "a": true,
+    "g": {
+      "lat": 38.7996,
+      "lon": 26.9707
+    },
+    "it": "Aliağa",
+    "it:t": "Turchia | Samurlu Mahallesi",
+    "es": "Aliağa",
+    "es:t": "Turquía | Samurlu Mahallesi",
+    "de": "Aliağa",
+    "de:t": "Türkei | Samurlu Mahallesi"
+  },
+  {
+    "en": "Amasya",
+    "en:t": "Turkey | Amasya Merkez",
+    "a": true,
+    "g": {
+      "lat": 40.6565,
+      "lon": 35.8373
+    },
+    "it": "Amasya",
+    "it:t": "Turchia | Amasya Merkez",
+    "es": "Amasya",
+    "es:t": "Turquía | Amasya Merkez",
+    "de": "Amasya",
+    "de:t": "Türkei | Amasya Merkez"
+  },
+  {
+    "en": "Anamur",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 36.0773,
+      "lon": 32.8329
+    },
+    "it": "Anamur",
+    "it:t": "Turchia",
+    "es": "Anamur",
+    "es:t": "Turquía",
+    "de": "Anamur",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Ankara",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 39.9334,
+      "lon": 32.8597
+    },
+    "it": "Ankara",
+    "it:t": "Turchia",
+    "es": "Ankara",
+    "es:t": "Turquía",
+    "de": "Ankara",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Antakya",
+    "en:t": "Turkey | Hatay",
+    "a": true,
+    "g": {
+      "lat": 36.1968,
+      "lon": 36.1612
+    },
+    "it": "Antiochia",
+    "it:t": "Turchia | Hatay",
+    "es": "Antioquía",
+    "es:t": "Turquía | Hatay",
+    "de": "Antakya",
+    "de:t": "Türkei | Hatay"
+  },
+  {
+    "en": "Antalya",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 36.8969,
+      "lon": 30.7133
+    },
+    "it": "Adalia",
+    "it:t": "Turchia",
+    "es": "Antalya",
+    "es:t": "Turquía",
+    "de": "Antalya",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Araklı",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 40.9397,
+      "lon": 40.0552
+    },
+    "it": "Araklı",
+    "it:t": "Turchia",
+    "es": "Araklı",
+    "es:t": "Turquía",
+    "de": "Araklı",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Ardahan",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 41.1129,
+      "lon": 42.7023
+    },
+    "it": "Ardahan",
+    "it:t": "Turchia",
+    "es": "Ardahan",
+    "es:t": "Turquía",
+    "de": "Ardahan",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Ardeşen",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 41.1918,
+      "lon": 40.9891
+    },
+    "it": "Ardeşen",
+    "it:t": "Turchia",
+    "es": "Ardeşen",
+    "es:t": "Turquía",
+    "de": "Ardeşen",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Arhavi",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 41.3531,
+      "lon": 41.309
+    },
+    "it": "Arhavi",
+    "it:t": "Turchia",
+    "es": "Arhavi",
+    "es:t": "Turquía",
+    "de": "Arhavi",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Arsin",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 40.954,
+      "lon": 39.9372
+    },
+    "it": "Arsin",
+    "it:t": "Turchia",
+    "es": "Arsin",
+    "es:t": "Turquía",
+    "de": "Arsin",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Artvin",
+    "en:t": "Turkey | Artvin Merkez",
+    "a": true,
+    "g": {
+      "lat": 41.1809,
+      "lon": 41.8208
+    },
+    "it": "Artvin",
+    "it:t": "Turchia | Artvin Merkez",
+    "es": "Artvin",
+    "es:t": "Turquía | Artvin Merkez",
+    "de": "Artvin",
+    "de:t": "Türkei | Artvin Merkez"
+  },
+  {
+    "en": "Ataşehir",
+    "en:t": "Turkey | İstanbul",
+    "a": true,
+    "g": {
+      "lat": 40.9842,
+      "lon": 29.1332
+    },
+    "it": "Ataşehir",
+    "it:t": "Turchia | İstanbul",
+    "es": "Ataşehir",
+    "es:t": "Turquía | İstanbul",
+    "de": "Ataşehir",
+    "de:t": "Türkei | İstanbul"
+  },
+  {
+    "en": "Aydın",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 37.838,
+      "lon": 27.8456
+    },
+    "it": "Aydın",
+    "it:t": "Turchia",
+    "es": "Aydin",
+    "es:t": "Turquía",
+    "de": "Aydın",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Ayvalık",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 39.3192,
+      "lon": 26.6924
+    },
+    "it": "Ayvalık",
+    "it:t": "Turchia",
+    "es": "Ayvalık",
+    "es:t": "Turquía",
+    "de": "Ayvalık",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Ağrı",
+    "en:t": "Turkey | Ağrı Merkez",
+    "a": true,
+    "g": {
+      "lat": 39.7191,
+      "lon": 43.0506
+    },
+    "it": "Ağrı",
+    "it:t": "Turchia | Ağrı Merkez",
+    "es": "Agri",
+    "es:t": "Turquía | Ağrı Merkez",
+    "de": "Ağrı",
+    "de:t": "Türkei | Ağrı Merkez"
+  },
+  {
+    "en": "Aşkale",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 39.9202,
+      "lon": 40.6947
+    },
+    "it": "Aşkale",
+    "it:t": "Turchia",
+    "es": "Aşkale",
+    "es:t": "Turquía",
+    "de": "Aşkale",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Babaeski",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 41.4313,
+      "lon": 27.0918
+    },
+    "it": "Babaeski",
+    "it:t": "Turchia",
+    "es": "Babaeski",
+    "es:t": "Turquía",
+    "de": "Babaeski",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Bafra",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 41.562,
+      "lon": 35.9057
+    },
+    "it": "Bafra",
+    "it:t": "Turchia",
+    "es": "Bafra",
+    "es:t": "Turquía",
+    "de": "Bafra",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Bahçelievler",
+    "en:t": "Turkey | Şirinevler Mahallesi",
+    "a": true,
+    "g": {
+      "lat": 40.9975,
+      "lon": 28.8506
+    },
+    "it": "Bahçelievler",
+    "it:t": "Turchia | Şirinevler Mahallesi",
+    "es": "Bahçelievler",
+    "es:t": "Turquía | Şirinevler Mahallesi",
+    "de": "Bahçelievler",
+    "de:t": "Türkei | Şirinevler Mahallesi"
+  },
+  {
+    "en": "Balikesir",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 39.6533,
+      "lon": 27.8903
+    },
+    "it": "Balıkesir",
+    "it:t": "Turchia",
+    "es": "Balikesir",
+    "es:t": "Turquía",
+    "de": "Balıkesir",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Banaz",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 38.7398,
+      "lon": 29.7532
+    },
+    "it": "Banaz",
+    "it:t": "Turchia",
+    "es": "Banaz",
+    "es:t": "Turquía",
+    "de": "Banaz",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Bandirma",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 40.3537,
+      "lon": 27.9714
+    },
+    "it": "Bandırma",
+    "it:t": "Turchia",
+    "es": "Bandirma",
+    "es:t": "Turquía",
+    "de": "Bandırma",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Bartın",
+    "en:t": "Turkey | Bartın Merkez",
+    "a": true,
+    "g": {
+      "lat": 41.6376,
+      "lon": 32.3338
+    },
+    "it": "Bartın",
+    "it:t": "Turchia | Bartın Merkez",
+    "es": "Bartın",
+    "es:t": "Turquía | Bartın Merkez",
+    "de": "Bartın",
+    "de:t": "Türkei | Bartın Merkez"
+  },
+  {
+    "en": "Baskil",
+    "en:t": "Turkey | Elazığ",
+    "a": true,
+    "g": {
+      "lat": 38.5351,
+      "lon": 38.6534
+    },
+    "it": "Baskil",
+    "it:t": "Turchia | Elâzığ",
+    "es": "Baskil",
+    "es:t": "Turquía | Elazığ",
+    "de": "Baskil",
+    "de:t": "Türkei | Elazığ"
+  },
+  {
+    "en": "Batman",
+    "en:t": "Turkey | Batman Merkez",
+    "a": true,
+    "g": {
+      "lat": 37.8895,
+      "lon": 41.1293
+    },
+    "it": "Batman",
+    "it:t": "Turchia | Batman Merkez",
+    "es": "Batman",
+    "es:t": "Turquía | Batman Merkez",
+    "de": "Batman",
+    "de:t": "Türkei | Batman Merkez"
+  },
+  {
+    "en": "Batıkent Yolu",
+    "en:t": "Turkey | Yenimahalle",
+    "a": true,
+    "g": {
+      "lat": 39.9967,
+      "lon": 32.7005
+    },
+    "it": "Batıkent Yolu",
+    "it:t": "Turchia | Yenimahalle",
+    "es": "Batıkent Yolu",
+    "es:t": "Turquía | Yenimahalle",
+    "de": "Batıkent Yolu",
+    "de:t": "Türkei | Yenimahalle"
+  },
+  {
+    "en": "Bayburt",
+    "en:t": "Turkey | Bayburt Merkez",
+    "a": true,
+    "g": {
+      "lat": 40.2603,
+      "lon": 40.228
+    },
+    "it": "Bayburt",
+    "it:t": "Turchia | Bayburt Merkez",
+    "es": "Bayburt",
+    "es:t": "Turquía | Bayburt Merkez",
+    "de": "Bayburt",
+    "de:t": "Türkei | Bayburt Merkez"
+  },
+  {
+    "en": "Bayındır",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 38.2175,
+      "lon": 27.6479
+    },
+    "it": "Bayındır",
+    "it:t": "Turchia",
+    "es": "Bayındır",
+    "es:t": "Turquía",
+    "de": "Bayındır",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Bağcılar",
+    "en:t": "Turkey | Istanbul",
+    "a": true,
+    "g": {
+      "lat": 41.0456,
+      "lon": 28.8247
+    },
+    "it": "Bağcilar",
+    "it:t": "Turchia | Istanbul",
+    "es": "Bağcılar",
+    "es:t": "Turquía | Estambul",
+    "de": "Bağcılar",
+    "de:t": "Türkei | Istanbul"
+  },
+  {
+    "en": "Başakşehir",
+    "en:t": "Turkey | Istanbul",
+    "a": true,
+    "g": {
+      "lat": 41.1015,
+      "lon": 28.7898
+    },
+    "it": "Başakşehir",
+    "it:t": "Turchia | Istanbul",
+    "es": "Başakşehir",
+    "es:t": "Turquía | Estambul",
+    "de": "Başakşehir",
+    "de:t": "Türkei | Istanbul"
+  },
+  {
+    "en": "Belek",
+    "en:t": "Turkey | Belek Mahallesi",
+    "a": true,
+    "g": {
+      "lat": 36.8636,
+      "lon": 31.0607
+    },
+    "it": "Belek",
+    "it:t": "Turchia | Belek Mahallesi",
+    "es": "Belek",
+    "es:t": "Turquía | Belek Mahallesi",
+    "de": "Belek",
+    "de:t": "Türkei | Belek Mahallesi"
+  },
+  {
+    "en": "Belen",
+    "en:t": "Turkey | Hatay",
+    "a": true,
+    "g": {
+      "lat": 36.4514,
+      "lon": 36.1545
+    },
+    "it": "Belen",
+    "it:t": "Turchia | Hatay",
+    "es": "Belen",
+    "es:t": "Turquía | Hatay",
+    "de": "Belen",
+    "de:t": "Türkei | Hatay"
+  },
+  {
+    "en": "Bergama",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 39.1214,
+      "lon": 27.1799
+    },
+    "it": "Bergama",
+    "it:t": "Turchia",
+    "es": "Bergama",
+    "es:t": "Turquía",
+    "de": "Bergama",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Besni",
+    "en:t": "Turkey | Adıyaman",
+    "a": true,
+    "g": {
+      "lat": 37.6228,
+      "lon": 37.8937
+    },
+    "it": "Besni",
+    "it:t": "Turchia | Adıyaman",
+    "es": "Besni",
+    "es:t": "Turquía | Adıyaman",
+    "de": "Besni",
+    "de:t": "Türkei | Adıyaman"
+  },
+  {
+    "en": "Beykonak",
+    "en:t": "Turkey | Beykonak Mahallesi",
+    "a": true,
+    "g": {
+      "lat": 36.3348,
+      "lon": 30.3106
+    },
+    "it": "Beykonak",
+    "it:t": "Turchia | Beykonak Mahallesi",
+    "es": "Beykonak",
+    "es:t": "Turquía | Beykonak Mahallesi",
+    "de": "Beykonak",
+    "de:t": "Türkei | Beykonak Mahallesi"
+  },
+  {
+    "en": "Beylikdüzü",
+    "en:t": "Turkey | Istanbul",
+    "a": true,
+    "g": {
+      "lat": 40.9894,
+      "lon": 28.6657
+    },
+    "it": "Beylikdüzü",
+    "it:t": "Turchia | Istanbul",
+    "es": "Beylikdüzü",
+    "es:t": "Turquía | Estambul",
+    "de": "Beylikdüzü",
+    "de:t": "Türkei | Istanbul"
+  },
+  {
+    "en": "Beyşehir",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 37.6798,
+      "lon": 31.7243
+    },
+    "it": "Beyşehir",
+    "it:t": "Turchia",
+    "es": "Beyşehir",
+    "es:t": "Turquía",
+    "de": "Beyşehir",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Beşikdüzü",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 41.0517,
+      "lon": 39.2313
+    },
+    "it": "Beşikdüzü",
+    "it:t": "Turchia",
+    "es": "Beşikdüzü",
+    "es:t": "Turquía",
+    "de": "Beşikdüzü",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Biga",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 40.2265,
+      "lon": 27.2436
+    },
+    "it": "Biga",
+    "it:t": "Turchia",
+    "es": "Biga",
+    "es:t": "Turquía",
+    "de": "Biga",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Bigadiç",
+    "en:t": "Turkey | Balıkesir",
+    "a": true,
+    "g": {
+      "lat": 39.4579,
+      "lon": 28.2527
+    },
+    "it": "Bigadiç",
+    "it:t": "Turchia | Balıkesir",
+    "es": "Bigadiç",
+    "es:t": "Turquía | Balıkesir",
+    "de": "Bigadiç",
+    "de:t": "Türkei | Balıkesir"
+  },
+  {
+    "en": "Bilecik",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 40.1426,
+      "lon": 29.9793
+    },
+    "it": "Bilecik",
+    "it:t": "Turchia",
+    "es": "Bilecik",
+    "es:t": "Turquía",
+    "de": "Bilecik",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Bingöl",
+    "en:t": "Turkey | Bingöl Merkez",
+    "a": true,
+    "g": {
+      "lat": 38.8855,
+      "lon": 40.4966
+    },
+    "it": "Bingöl",
+    "it:t": "Turchia | Bingöl Merkez",
+    "es": "Bingöl",
+    "es:t": "Turquía | Bingöl Merkez",
+    "de": "Bingöl",
+    "de:t": "Türkei | Bingöl Merkez"
+  },
+  {
+    "en": "Birecik",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 37.025,
+      "lon": 37.9775
+    },
+    "it": "Birecik",
+    "it:t": "Turchia",
+    "es": "Birecik",
+    "es:t": "Turquía",
+    "de": "Birecik",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Bismil",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 37.8501,
+      "lon": 40.6687
+    },
+    "it": "Bismil",
+    "it:t": "Turchia",
+    "es": "Bismil",
+    "es:t": "Turquía",
+    "de": "Bismil",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Bitlis",
+    "en:t": "Turkey | Bitlis Merkez",
+    "a": true,
+    "g": {
+      "lat": 38.4006,
+      "lon": 42.1095
+    },
+    "it": "Bitlis",
+    "it:t": "Turchia | Bitlis Merkez",
+    "es": "Bitlis",
+    "es:t": "Turquía | Bitlis Merkez",
+    "de": "Bitlis",
+    "de:t": "Türkei | Bitlis Merkez"
+  },
+  {
+    "en": "Bodrum",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 37.0344,
+      "lon": 27.4305
+    },
+    "it": "Bodrum",
+    "it:t": "Turchia",
+    "es": "Bodrum",
+    "es:t": "Turquía",
+    "de": "Bodrum",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Bolu",
+    "en:t": "Turkey | Bolu Merkez",
+    "a": true,
+    "g": {
+      "lat": 40.7325,
+      "lon": 31.6082
+    },
+    "it": "Bolu",
+    "it:t": "Turchia | Bolu Merkez",
+    "es": "Bolu",
+    "es:t": "Turquía | Bolu Merkez",
+    "de": "Bolu",
+    "de:t": "Türkei | Bolu Merkez"
+  },
+  {
+    "en": "Bolvadin",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 38.7126,
+      "lon": 31.0484
+    },
+    "it": "Bolvadin",
+    "it:t": "Turchia",
+    "es": "Bolvadin",
+    "es:t": "Turquía",
+    "de": "Bolvadin",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Bor",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 37.894,
+      "lon": 34.5618
+    },
+    "it": "Bor",
+    "it:t": "Turchia",
+    "es": "Bor",
+    "es:t": "Turquía",
+    "de": "Bor",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Boyabat",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 41.4661,
+      "lon": 34.7711
+    },
+    "it": "Boyabat",
+    "it:t": "Turchia",
+    "es": "Boyabat",
+    "es:t": "Turquía",
+    "de": "Boyabat",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Bozova",
+    "en:t": "Turkey | Şanlıurfa",
+    "a": true,
+    "g": {
+      "lat": 37.3367,
+      "lon": 38.3587
+    },
+    "it": "Bozova",
+    "it:t": "Turchia | Şanlıurfa",
+    "es": "Bozova",
+    "es:t": "Turquía | Şanlıurfa",
+    "de": "Bozova",
+    "de:t": "Türkei | Şanlıurfa"
+  },
+  {
+    "en": "Bozyazı",
+    "en:t": "Turkey | Mersin",
+    "a": true,
+    "g": {
+      "lat": 36.2374,
+      "lon": 33.0339
+    },
+    "it": "Bozyazı",
+    "it:t": "Turchia | Mersin",
+    "es": "Bozyazı",
+    "es:t": "Turquía | Mersin",
+    "de": "Bozyazı",
+    "de:t": "Türkei | Mersin"
+  },
+  {
+    "en": "Bozüyük",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 39.9061,
+      "lon": 30.0398
+    },
+    "it": "Bozüyük",
+    "it:t": "Turchia",
+    "es": "Bozüyük",
+    "es:t": "Turquía",
+    "de": "Bozüyük",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Bucak",
+    "en:t": "Turkey | Seydiköy Köyü",
+    "a": true,
+    "g": {
+      "lat": 37.4565,
+      "lon": 30.5898
+    },
+    "it": "Bucak",
+    "it:t": "Turchia | Seydiköy Köyü",
+    "es": "Bucak",
+    "es:t": "Turquía | Seydiköy Köyü",
+    "de": "Bucak",
+    "de:t": "Türkei | Seydiköy Köyü"
+  },
+  {
+    "en": "Bulancak",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 40.9375,
+      "lon": 38.232
+    },
+    "it": "Bulancak",
+    "it:t": "Turchia",
+    "es": "Bulancak",
+    "es:t": "Turquía",
+    "de": "Bulancak",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Bulanık",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 39.0966,
+      "lon": 42.2681
+    },
+    "it": "Bulanık",
+    "it:t": "Turchia",
+    "es": "Bulanık",
+    "es:t": "Turquía",
+    "de": "Bulanık",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Burdur",
+    "en:t": "Turkey | Burdur Merkez",
+    "a": true,
+    "g": {
+      "lat": 37.7183,
+      "lon": 30.2823
+    },
+    "it": "Burdur",
+    "it:t": "Turchia | Burdur Merkez",
+    "es": "Burdur",
+    "es:t": "Turquía | Burdur Merkez",
+    "de": "Burdur",
+    "de:t": "Türkei | Burdur Merkez"
+  },
+  {
+    "en": "Burhaniye",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 39.5031,
+      "lon": 26.9802
+    },
+    "it": "Burhaniye",
+    "it:t": "Turchia",
+    "es": "Burhaniye",
+    "es:t": "Turquía",
+    "de": "Burhaniye",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Bursa",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 40.1885,
+      "lon": 29.061
+    },
+    "it": "Bursa",
+    "it:t": "Turchia",
+    "es": "Bursa",
+    "es:t": "Turquía",
+    "de": "Bursa",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Büyükçekmece",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 41.0245,
+      "lon": 28.5855
+    },
+    "it": "Büyükçekmece",
+    "it:t": "Turchia",
+    "es": "Büyükçekmece",
+    "es:t": "Turquía",
+    "de": "Büyükçekmece",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Ceyhan",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 37.0288,
+      "lon": 35.8124
+    },
+    "it": "Ceyhan",
+    "it:t": "Turchia",
+    "es": "Ceyhan",
+    "es:t": "Turquía",
+    "de": "Ceyhan",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Ceylanpınar",
+    "en:t": "Turkey | Şanlıurfa",
+    "a": true,
+    "g": {
+      "lat": 36.9092,
+      "lon": 39.7343
+    },
+    "it": "Ceylanpınar",
+    "it:t": "Turchia | Şanlıurfa",
+    "es": "Ceylanpınar",
+    "es:t": "Turquía | Şanlıurfa",
+    "de": "Ceylanpınar",
+    "de:t": "Türkei | Şanlıurfa"
+  },
+  {
+    "en": "Cizre",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 37.3323,
+      "lon": 42.1855
+    },
+    "it": "Cizre",
+    "it:t": "Turchia",
+    "es": "Cizre",
+    "es:t": "Turquía",
+    "de": "Cizre",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Dalaman",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 36.7666,
+      "lon": 28.8
+    },
+    "it": "Dalaman",
+    "it:t": "Turchia",
+    "es": "Dalaman",
+    "es:t": "Turquía",
+    "de": "Dalaman",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Darende",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 38.5567,
+      "lon": 37.4906
+    },
+    "it": "Darende",
+    "it:t": "Turchia",
+    "es": "Darende",
+    "es:t": "Turquía",
+    "de": "Darende",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Dargeçit",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 37.5462,
+      "lon": 41.7204
+    },
+    "it": "Dargeçit",
+    "it:t": "Turchia",
+    "es": "Dargeçit",
+    "es:t": "Turquía",
+    "de": "Dargeçit",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Demirci",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 39.0473,
+      "lon": 28.6585
+    },
+    "it": "Demirci",
+    "it:t": "Turchia",
+    "es": "Demirci",
+    "es:t": "Turquía",
+    "de": "Demirci",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Denizciler Mahallesi",
+    "en:t": "Turkey | İskenderun",
+    "a": true,
+    "g": {
+      "lat": 36.639,
+      "lon": 36.217
+    },
+    "it": "Denizciler Mahallesi",
+    "it:t": "Turchia | İskenderun",
+    "es": "Denizciler Mahallesi",
+    "es:t": "Turquía | İskenderun",
+    "de": "Denizciler Mahallesi",
+    "de:t": "Türkei | İskenderun"
+  },
+  {
+    "en": "Denizli",
+    "en:t": "Turkey | Kumkısık Mahallesi",
+    "a": true,
+    "g": {
+      "lat": 37.783,
+      "lon": 29.0963
+    },
+    "it": "Denizli",
+    "it:t": "Turchia | Kumkısık Mahallesi",
+    "es": "Denizli",
+    "es:t": "Turquía | Kumkısık Mahallesi",
+    "de": "Denizli",
+    "de:t": "Türkei | Kumkısık Mahallesi"
+  },
+  {
+    "en": "Develi",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 38.3887,
+      "lon": 35.4928
+    },
+    "it": "Develi",
+    "it:t": "Turchia",
+    "es": "Develi",
+    "es:t": "Turquía",
+    "de": "Develi",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Devrek",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 41.2214,
+      "lon": 31.9545
+    },
+    "it": "Devrek",
+    "it:t": "Turchia",
+    "es": "Devrek",
+    "es:t": "Turquía",
+    "de": "Devrek",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Didim",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 37.3761,
+      "lon": 27.2647
+    },
+    "it": "Didim",
+    "it:t": "Turchia",
+    "es": "Didim",
+    "es:t": "Turquía",
+    "de": "Didim",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Dinar",
+    "en:t": "Turkey | Afyonkarahisar",
+    "a": true,
+    "g": {
+      "lat": 38.1312,
+      "lon": 30.2974
+    },
+    "it": "Dinar",
+    "it:t": "Turchia | Afyonkarahisar",
+    "es": "Dinar",
+    "es:t": "Turquía | Afyonkarahisar",
+    "de": "Dinar",
+    "de:t": "Türkei | Afyonkarahisar"
+  },
+  {
+    "en": "Diyadin",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 39.5401,
+      "lon": 43.6773
+    },
+    "it": "Diyadin",
+    "it:t": "Turchia",
+    "es": "Diyadin",
+    "es:t": "Turquía",
+    "de": "Diyadin",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Diyarbakır",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 37.925,
+      "lon": 40.211
+    },
+    "it": "Diyarbakır",
+    "it:t": "Turchia",
+    "es": "Diyarbakır",
+    "es:t": "Turquía",
+    "de": "Diyarbakır",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Doğubeyazıt",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 39.5471,
+      "lon": 44.0688
+    },
+    "it": "Doğubeyazıt",
+    "it:t": "Turchia",
+    "es": "Doğubeyazıt",
+    "es:t": "Turquía",
+    "de": "Doğubeyazıt",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Dursunbey",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 39.5857,
+      "lon": 28.6271
+    },
+    "it": "Dursunbey",
+    "it:t": "Turchia",
+    "es": "Dursunbey",
+    "es:t": "Turquía",
+    "de": "Dursunbey",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Dörtyol",
+    "en:t": "Turkey | Hatay",
+    "a": true,
+    "g": {
+      "lat": 36.8194,
+      "lon": 36.2848
+    },
+    "it": "Dörtyol",
+    "it:t": "Turchia | Hatay",
+    "es": "Dörtyol",
+    "es:t": "Turquía | Hatay",
+    "de": "Dörtyol",
+    "de:t": "Türkei | Hatay"
+  },
+  {
+    "en": "Düzce",
+    "en:t": "Turkey | Düzce Merkez",
+    "a": true,
+    "g": {
+      "lat": 40.8387,
+      "lon": 31.1626
+    },
+    "it": "Düzce",
+    "it:t": "Turchia | Düzce Merkez",
+    "es": "Düzce",
+    "es:t": "Turquía | Düzce Merkez",
+    "de": "Düzce",
+    "de:t": "Türkei | Düzce Merkez"
+  },
+  {
+    "en": "Edirne",
+    "en:t": "Turkey | Edirne Merkez",
+    "a": true,
+    "g": {
+      "lat": 41.6771,
+      "lon": 26.5557
+    },
+    "it": "Edirne",
+    "it:t": "Turchia | Edirne Merkez",
+    "es": "Edirne",
+    "es:t": "Turquía | Edirne Merkez",
+    "de": "Edirne",
+    "de:t": "Türkei | Edirne Merkez"
+  },
+  {
+    "en": "Edremit",
+    "en:t": "Turkey | Balıkesir",
+    "a": true,
+    "g": {
+      "lat": 39.6655,
+      "lon": 26.8439
+    },
+    "it": "Edremit",
+    "it:t": "Turchia | Balıkesir",
+    "es": "Edremit",
+    "es:t": "Turquía | Balıkesir",
+    "de": "Edremit",
+    "de:t": "Türkei | Balıkesir"
+  },
+  {
+    "en": "Elbistan",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 38.2065,
+      "lon": 37.1931
+    },
+    "it": "Elbistan",
+    "it:t": "Turchia",
+    "es": "Elbistan",
+    "es:t": "Turquía",
+    "de": "Elbistan",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Eleşkirt",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 39.8014,
+      "lon": 42.6768
+    },
+    "it": "Eleşkirt",
+    "it:t": "Turchia",
+    "es": "Eleşkirt",
+    "es:t": "Turquía",
+    "de": "Eleşkirt",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Elmadağ",
+    "en:t": "Turkey | Ediğe Mahallesi",
+    "a": true,
+    "g": {
+      "lat": 39.9221,
+      "lon": 33.2263
+    },
+    "it": "Elmadağ",
+    "it:t": "Turchia | Ediğe Mahallesi",
+    "es": "Elmadağ",
+    "es:t": "Turquía | Ediğe Mahallesi",
+    "de": "Elmadağ",
+    "de:t": "Türkei | Ediğe Mahallesi"
+  },
+  {
+    "en": "Elmalı",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 36.7378,
+      "lon": 29.9167
+    },
+    "it": "Elmalı",
+    "it:t": "Turchia",
+    "es": "Elmalı",
+    "es:t": "Turquía",
+    "de": "Elmalı",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Elâzığ",
+    "en:t": "Turkey | Elâzığ Merkez",
+    "a": true,
+    "g": {
+      "lat": 38.6748,
+      "lon": 39.2225
+    },
+    "it": "Elâzığ",
+    "it:t": "Turchia | Elâzığ Merkez",
+    "es": "Elazığ",
+    "es:t": "Turquía | Elâzığ Merkez",
+    "de": "Elâzığ",
+    "de:t": "Türkei | Elâzığ Merkez"
+  },
+  {
+    "en": "Emet",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 39.3444,
+      "lon": 29.2579
+    },
+    "it": "Emet",
+    "it:t": "Turchia",
+    "es": "Emet",
+    "es:t": "Turquía",
+    "de": "Emet",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Eminönü",
+    "en:t": "Turkey | Rüstem Paşa Mahallesi",
+    "a": true,
+    "g": {
+      "lat": 41.0149,
+      "lon": 28.966
+    },
+    "it": "Eminönü",
+    "it:t": "Turchia | Rüstem Paşa Mahallesi",
+    "es": "Eminönü",
+    "es:t": "Turquía | Rüstem Paşa Mahallesi",
+    "de": "Eminönü",
+    "de:t": "Türkei | Rüstem Paşa Mahallesi"
+  },
+  {
+    "en": "Emirdağ",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 39.0202,
+      "lon": 31.151
+    },
+    "it": "Emirdağ",
+    "it:t": "Turchia",
+    "es": "Emirdağ",
+    "es:t": "Turquía",
+    "de": "Emirdağ",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Erbaa",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 40.6727,
+      "lon": 36.5712
+    },
+    "it": "Erbaa",
+    "it:t": "Turchia",
+    "es": "Erbaa",
+    "es:t": "Turquía",
+    "de": "Erbaa",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Erciş",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 39.0291,
+      "lon": 43.3591
+    },
+    "it": "Erciş",
+    "it:t": "Turchia",
+    "es": "Erciş",
+    "es:t": "Turquía",
+    "de": "Erciş",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Erdek",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 40.3983,
+      "lon": 27.7917
+    },
+    "it": "Erdek",
+    "it:t": "Turchia",
+    "es": "Erdek",
+    "es:t": "Turquía",
+    "de": "Erdek",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Erdemli",
+    "en:t": "Turkey | Kösbucağı Mahallesi",
+    "a": true,
+    "g": {
+      "lat": 36.6058,
+      "lon": 34.3102
+    },
+    "it": "Erdemli",
+    "it:t": "Turchia | Kösbucağı Mahallesi",
+    "es": "Erdemli",
+    "es:t": "Turquía | Kösbucağı Mahallesi",
+    "de": "Erdemli",
+    "de:t": "Türkei | Kösbucağı Mahallesi"
+  },
+  {
+    "en": "Ereğli",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 37.5123,
+      "lon": 34.0488
+    },
+    "it": "Ereğli",
+    "it:t": "Turchia",
+    "es": "Ereğli",
+    "es:t": "Turquía",
+    "de": "Ereğli",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Ergani",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 38.268,
+      "lon": 39.7617
+    },
+    "it": "Ergani",
+    "it:t": "Turchia",
+    "es": "Ergani",
+    "es:t": "Turquía",
+    "de": "Ergani",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Ermenek",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 36.6403,
+      "lon": 32.892
+    },
+    "it": "Ermenek",
+    "it:t": "Turchia",
+    "es": "Ermenek",
+    "es:t": "Turquía",
+    "de": "Ermenek",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Erzin",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 36.9538,
+      "lon": 36.2052
+    },
+    "it": "Erzin",
+    "it:t": "Turchia",
+    "es": "Erzin",
+    "es:t": "Turquía",
+    "de": "Erzin",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Erzincan",
+    "en:t": "Turkey | Erzincan Merkez",
+    "a": true,
+    "g": {
+      "lat": 39.7468,
+      "lon": 39.4911
+    },
+    "it": "Erzincan",
+    "it:t": "Turchia | Erzincan Merkez",
+    "es": "Erzincan",
+    "es:t": "Turquía | Erzincan Merkez",
+    "de": "Erzincan",
+    "de:t": "Türkei | Erzincan Merkez"
+  },
+  {
+    "en": "Erzurum",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 39.9055,
+      "lon": 41.2658
+    },
+    "it": "Erzurum",
+    "it:t": "Turchia",
+    "es": "Erzurum",
+    "es:t": "Turquía",
+    "de": "Erzurum",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Esenler",
+    "en:t": "Turkey | Istanbul",
+    "a": true,
+    "g": {
+      "lat": 41.0794,
+      "lon": 28.8539
+    },
+    "it": "Esenler",
+    "it:t": "Turchia | Istanbul",
+    "es": "Esenler",
+    "es:t": "Turquía | Estambul",
+    "de": "Esenler",
+    "de:t": "Türkei | Istanbul"
+  },
+  {
+    "en": "Esenyurt",
+    "en:t": "Turkey | Istanbul",
+    "a": true,
+    "g": {
+      "lat": 41.0343,
+      "lon": 28.6615
+    },
+    "it": "Esenyurt",
+    "it:t": "Turchia | Istanbul",
+    "es": "Esenyurt",
+    "es:t": "Turquía | Estambul",
+    "de": "Esenyurt",
+    "de:t": "Türkei | Istanbul"
+  },
+  {
+    "en": "Eskişehir",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 39.7667,
+      "lon": 30.5256
+    },
+    "it": "Eskişehir",
+    "it:t": "Turchia",
+    "es": "Eskişehir",
+    "es:t": "Turquía",
+    "de": "Eskişehir",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Espiye",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 40.9497,
+      "lon": 38.7085
+    },
+    "it": "Espiye",
+    "it:t": "Turchia",
+    "es": "Espiye",
+    "es:t": "Turquía",
+    "de": "Espiye",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Ezine",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 39.7871,
+      "lon": 26.3359
+    },
+    "it": "Ezine",
+    "it:t": "Turchia",
+    "es": "Ezine",
+    "es:t": "Turquía",
+    "de": "Ezine",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Eğirdir",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 37.8741,
+      "lon": 30.8509
+    },
+    "it": "Eğirdir",
+    "it:t": "Turchia",
+    "es": "Eğirdir",
+    "es:t": "Turquía",
+    "de": "Eğirdir",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Fatsa",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 41.0312,
+      "lon": 37.5004
+    },
+    "it": "Fatsa",
+    "it:t": "Turchia",
+    "es": "Fatsa",
+    "es:t": "Turquía",
+    "de": "Fatsa",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Ferizli",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 40.9392,
+      "lon": 30.4868
+    },
+    "it": "Ferizli",
+    "it:t": "Turchia",
+    "es": "Ferizli",
+    "es:t": "Turquía",
+    "de": "Ferizli",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Fethiye",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 36.6592,
+      "lon": 29.1263
+    },
+    "it": "Fethiye",
+    "it:t": "Turchia",
+    "es": "Fethiye",
+    "es:t": "Turquía",
+    "de": "Fethiye",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Gallipoli",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 40.414,
+      "lon": 26.67
+    },
+    "it": "Gallipoli",
+    "it:t": "Turchia",
+    "es": "Gelibolu",
+    "es:t": "Turquía",
+    "de": "Gallipoli",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Gaziantep",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 37.066,
+      "lon": 37.3781
+    },
+    "it": "Gaziantep",
+    "it:t": "Turchia",
+    "es": "Gaziantep",
+    "es:t": "Turquía",
+    "de": "Gaziantep",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Gebze",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 40.8025,
+      "lon": 29.4398
+    },
+    "it": "Gebze",
+    "it:t": "Turchia",
+    "es": "Gebze",
+    "es:t": "Turquía",
+    "de": "Gebze",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Gediz",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 38.9907,
+      "lon": 29.3957
+    },
+    "it": "Gediz",
+    "it:t": "Turchia",
+    "es": "Gediz",
+    "es:t": "Turquía",
+    "de": "Gediz",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Gemerek",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 39.1849,
+      "lon": 36.0717
+    },
+    "it": "Gemerek",
+    "it:t": "Turchia",
+    "es": "Gemerek",
+    "es:t": "Turquía",
+    "de": "Gemerek",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Gemlik",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 40.4318,
+      "lon": 29.1554
+    },
+    "it": "Gemlik",
+    "it:t": "Turchia",
+    "es": "Gemlik",
+    "es:t": "Turquía",
+    "de": "Gemlik",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Genç",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 38.7484,
+      "lon": 40.5539
+    },
+    "it": "Genç",
+    "it:t": "Turchia",
+    "es": "Genç",
+    "es:t": "Turquía",
+    "de": "Genç",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Gerede",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 40.8003,
+      "lon": 32.1933
+    },
+    "it": "Gerede",
+    "it:t": "Turchia",
+    "es": "Gerede",
+    "es:t": "Turquía",
+    "de": "Gerede",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Geyve",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 40.5086,
+      "lon": 30.2903
+    },
+    "it": "Geyve",
+    "it:t": "Turchia",
+    "es": "Geyve",
+    "es:t": "Turquía",
+    "de": "Geyve",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Giresun",
+    "en:t": "Turkey | Giresun Merkez",
+    "a": true,
+    "g": {
+      "lat": 40.9175,
+      "lon": 38.3927
+    },
+    "it": "Giresun",
+    "it:t": "Turchia | Giresun Merkez",
+    "es": "Giresun",
+    "es:t": "Turquía | Giresun Merkez",
+    "de": "Giresun",
+    "de:t": "Türkei | Giresun Merkez"
+  },
+  {
+    "en": "Göksun",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 38.0204,
+      "lon": 36.4949
+    },
+    "it": "Göksun",
+    "it:t": "Turchia",
+    "es": "Göksun",
+    "es:t": "Turquía",
+    "de": "Göksun",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Gölbaşı",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 37.7709,
+      "lon": 37.5961
+    },
+    "it": "Gölbaşı",
+    "it:t": "Turchia",
+    "es": "Gölbaşı",
+    "es:t": "Turquía",
+    "de": "Gölbaşı",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Gölcük",
+    "en:t": "Turkey | Panayır Mahallesi",
+    "a": true,
+    "g": {
+      "lat": 40.7168,
+      "lon": 29.8195
+    },
+    "it": "Gölcük",
+    "it:t": "Turchia | Panayır Mahallesi",
+    "es": "Gölcük",
+    "es:t": "Turquía | Panayır Mahallesi",
+    "de": "Gölcük",
+    "de:t": "Türkei | Panayır Mahallesi"
+  },
+  {
+    "en": "Gönen",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 40.1117,
+      "lon": 27.6435
+    },
+    "it": "Gönen",
+    "it:t": "Turchia",
+    "es": "Gönen",
+    "es:t": "Turquía",
+    "de": "Gönen",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Görele",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 41.0333,
+      "lon": 39.0021
+    },
+    "it": "Görele",
+    "it:t": "Turchia",
+    "es": "Görele",
+    "es:t": "Turquía",
+    "de": "Görele",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Gümüşhane",
+    "en:t": "Turkey | Gümüşhane Merkez",
+    "a": true,
+    "g": {
+      "lat": 40.4608,
+      "lon": 39.4803
+    },
+    "it": "Gümüşhane",
+    "it:t": "Turchia | Gümüşhane Merkez",
+    "es": "Gümüşhane",
+    "es:t": "Turquía | Gümüşhane Merkez",
+    "de": "Gümüşhane",
+    "de:t": "Türkei | Gümüşhane Merkez"
+  },
+  {
+    "en": "Gürgentepe",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 40.7914,
+      "lon": 37.6009
+    },
+    "it": "Gürgentepe",
+    "it:t": "Turchia",
+    "es": "Gürgentepe",
+    "es:t": "Turquía",
+    "de": "Gürgentepe",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Güroymak",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 38.5764,
+      "lon": 42.0206
+    },
+    "it": "Güroymak",
+    "it:t": "Turchia",
+    "es": "Güroymak",
+    "es:t": "Turquía",
+    "de": "Güroymak",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Hacılar",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 38.646,
+      "lon": 35.4526
+    },
+    "it": "Hacılar",
+    "it:t": "Turchia",
+    "es": "Hacılar",
+    "es:t": "Turquía",
+    "de": "Hacılar",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Hakkari",
+    "en:t": "Turkey | Hakkâri Merkez",
+    "a": true,
+    "g": {
+      "lat": 37.5774,
+      "lon": 43.7368
+    },
+    "it": "Hakkâri",
+    "it:t": "Turchia | Hakkâri Merkez",
+    "es": "Hakkâri",
+    "es:t": "Turquía | Hakkâri Merkez",
+    "de": "Hakkari",
+    "de:t": "Türkei | Hakkâri Merkez"
+  },
+  {
+    "en": "Havza",
+    "en:t": "Turkey | Samsun",
+    "a": true,
+    "g": {
+      "lat": 41.058,
+      "lon": 35.7347
+    },
+    "it": "Havza",
+    "it:t": "Turchia | Samsun",
+    "es": "Havza",
+    "es:t": "Turquía | Samsun",
+    "de": "Havza",
+    "de:t": "Türkei | Samsun"
+  },
+  {
+    "en": "Hayrabolu",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 41.2134,
+      "lon": 27.1068
+    },
+    "it": "Hayrabolu",
+    "it:t": "Turchia",
+    "es": "Hayrabolu",
+    "es:t": "Turquía",
+    "de": "Hayrabolu",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Hendek",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 40.7951,
+      "lon": 30.7447
+    },
+    "it": "Hendek",
+    "it:t": "Turchia",
+    "es": "Hendek",
+    "es:t": "Turquía",
+    "de": "Hendek",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Hilvan",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 37.589,
+      "lon": 38.9585
+    },
+    "it": "Hilvan",
+    "it:t": "Turchia",
+    "es": "Hilvan",
+    "es:t": "Turquía",
+    "de": "Hilvan",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Hizan",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 38.2255,
+      "lon": 42.4281
+    },
+    "it": "Hizan",
+    "it:t": "Turchia",
+    "es": "Hizan",
+    "es:t": "Turquía",
+    "de": "Hizan",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Hopa",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 41.3946,
+      "lon": 41.4198
+    },
+    "it": "Hopa",
+    "it:t": "Turchia",
+    "es": "Hopa",
+    "es:t": "Turquía",
+    "de": "Hopa",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Horasan",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 40.04,
+      "lon": 42.1689
+    },
+    "it": "Horasan",
+    "it:t": "Turchia",
+    "es": "Horasan",
+    "es:t": "Turquía",
+    "de": "Horasan",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Hınıs",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 39.3596,
+      "lon": 41.7094
+    },
+    "it": "Hınıs",
+    "it:t": "Turchia",
+    "es": "Hınıs",
+    "es:t": "Turquía",
+    "de": "Hınıs",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Isparta",
+    "en:t": "Turkey | Isparta Merkez",
+    "a": true,
+    "g": {
+      "lat": 37.7626,
+      "lon": 30.5537
+    },
+    "it": "Isparta",
+    "it:t": "Turchia | Isparta Merkez",
+    "es": "Isparta",
+    "es:t": "Turquía | Isparta Merkez",
+    "de": "Isparta",
+    "de:t": "Türkei | Isparta Merkez"
+  },
+  {
+    "en": "Istanbul",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 41.0082,
+      "lon": 28.9784
+    },
+    "it": "Istanbul",
+    "it:t": "Turchia",
+    "es": "Estambul",
+    "es:t": "Turquía",
+    "de": "Istanbul",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Izmir",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 38.4237,
+      "lon": 27.1428
+    },
+    "it": "Smirne",
+    "it:t": "Turchia",
+    "es": "Esmirna",
+    "es:t": "Turquía",
+    "de": "Izmir",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Izmit",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 40.7654,
+      "lon": 29.9408
+    },
+    "it": "Kocaeli",
+    "it:t": "Turchia",
+    "es": "İzmit",
+    "es:t": "Turquía",
+    "de": "İzmit",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Kadınhanı",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 38.2409,
+      "lon": 32.2079
+    },
+    "it": "Kadınhanı",
+    "it:t": "Turchia",
+    "es": "Kadınhanı",
+    "es:t": "Turquía",
+    "de": "Kadınhanı",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Kahramanmaras",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 37.5753,
+      "lon": 36.9228
+    },
+    "it": "Kahramanmaraş",
+    "it:t": "Turchia",
+    "es": "Kahramanmaraş",
+    "es:t": "Turquía",
+    "de": "Kahramanmaraş",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Kaman",
+    "en:t": "Turkey | Kırşehir",
+    "a": true,
+    "g": {
+      "lat": 39.3372,
+      "lon": 33.7518
+    },
+    "it": "Kaman",
+    "it:t": "Turchia | Kırşehir",
+    "es": "Kaman",
+    "es:t": "Turquía | Kırşehir",
+    "de": "Kaman",
+    "de:t": "Türkei | Kırşehir"
+  },
+  {
+    "en": "Karabağlar",
+    "en:t": "Turkey | İzmir",
+    "a": true,
+    "g": {
+      "lat": 38.3828,
+      "lon": 27.1201
+    },
+    "it": "Karabağlar",
+    "it:t": "Turchia | Smirne",
+    "es": "Karabağlar",
+    "es:t": "Turquía | İzmir",
+    "de": "Karabağlar",
+    "de:t": "Türkei | Izmir"
+  },
+  {
+    "en": "Karabük",
+    "en:t": "Turkey | Karabük Merkez",
+    "a": true,
+    "g": {
+      "lat": 41.1956,
+      "lon": 32.6227
+    },
+    "it": "Karabük",
+    "it:t": "Turchia | Karabük Merkez",
+    "es": "Karabük",
+    "es:t": "Turquía | Karabük Merkez",
+    "de": "Karabük",
+    "de:t": "Türkei | Karabük Merkez"
+  },
+  {
+    "en": "Karacabey",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 40.216,
+      "lon": 28.359
+    },
+    "it": "Karacabey Sokak",
+    "it:t": "Turchia",
+    "es": "Karacabey Sokak",
+    "es:t": "Turquía",
+    "de": "Karacabey",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Karakoçan",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 38.9558,
+      "lon": 40.0359
+    },
+    "it": "Karakoçan",
+    "it:t": "Turchia",
+    "es": "Karakoçan",
+    "es:t": "Turquía",
+    "de": "Karakoçan",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Karaman",
+    "en:t": "Turkey | Karaman Merkez",
+    "a": true,
+    "g": {
+      "lat": 37.181,
+      "lon": 33.2222
+    },
+    "it": "Karaman",
+    "it:t": "Turchia | Karaman Merkez",
+    "es": "Karaman",
+    "es:t": "Turquía | Karaman Merkez",
+    "de": "Karaman",
+    "de:t": "Türkei | Karaman Merkez"
+  },
+  {
+    "en": "Karamürsel",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 40.6913,
+      "lon": 29.6164
+    },
+    "it": "Karamürsel",
+    "it:t": "Turchia",
+    "es": "Karamürsel",
+    "es:t": "Turquía",
+    "de": "Karamürsel",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Karapinar",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 37.7153,
+      "lon": 33.5466
+    },
+    "it": "Karapinar",
+    "it:t": "Turchia",
+    "es": "Karapinar",
+    "es:t": "Turquía",
+    "de": "Karapınar",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Karasu",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 41.0956,
+      "lon": 30.6924
+    },
+    "it": "Karasu",
+    "it:t": "Turchia",
+    "es": "Karasu",
+    "es:t": "Turquía",
+    "de": "Karasu",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Karaçoban",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 39.3507,
+      "lon": 42.1127
+    },
+    "it": "Karaçoban",
+    "it:t": "Turchia",
+    "es": "Karaçoban",
+    "es:t": "Turquía",
+    "de": "Karaçoban",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Kars",
+    "en:t": "Turkey | Kars Merkez",
+    "a": true,
+    "g": {
+      "lat": 40.6013,
+      "lon": 43.0975
+    },
+    "it": "Kars",
+    "it:t": "Turchia | Kars Merkez",
+    "es": "Kars",
+    "es:t": "Turquía | Kars Merkez",
+    "de": "Kars",
+    "de:t": "Türkei | Kars Merkez"
+  },
+  {
+    "en": "Kastamonu",
+    "en:t": "Turkey | Kastamonu Merkez",
+    "a": true,
+    "g": {
+      "lat": 41.3766,
+      "lon": 33.7765
+    },
+    "it": "Kastamonu",
+    "it:t": "Turchia | Kastamonu Merkez",
+    "es": "Kastamonu",
+    "es:t": "Turquía | Kastamonu Merkez",
+    "de": "Kastamonu",
+    "de:t": "Türkei | Kastamonu Merkez"
+  },
+  {
+    "en": "Kavakli",
+    "en:t": "Turkey | Hürriyet Mahallesi",
+    "a": true,
+    "g": {
+      "lat": 41.0989,
+      "lon": 28.3373
+    },
+    "it": "Kavaklı",
+    "it:t": "Turchia | Hürriyet Mahallesi",
+    "es": "Kavaklı",
+    "es:t": "Turquía | Hürriyet Mahallesi",
+    "de": "Kavaklı",
+    "de:t": "Türkei | Hürriyet Mahallesi"
+  },
+  {
+    "en": "Kayseri",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 38.7205,
+      "lon": 35.4826
+    },
+    "it": "Kayseri",
+    "it:t": "Turchia",
+    "es": "Kayseri",
+    "es:t": "Turquía",
+    "de": "Kayseri",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Kazan",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 40.2052,
+      "lon": 32.6812
+    },
+    "it": "Kazan",
+    "it:t": "Turchia",
+    "es": "Kazan",
+    "es:t": "Turquía",
+    "de": "Kazan",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Kağızman",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 40.1406,
+      "lon": 43.1191
+    },
+    "it": "Kağızman",
+    "it:t": "Turchia",
+    "es": "Kağızman",
+    "es:t": "Turquía",
+    "de": "Kağızman",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Kelkit",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 40.1287,
+      "lon": 39.4323
+    },
+    "it": "Kelkit",
+    "it:t": "Turchia",
+    "es": "Kelkit",
+    "es:t": "Turquía",
+    "de": "Kelkit",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Kemalpaşa",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 38.4275,
+      "lon": 27.4188
+    },
+    "it": "Kemalpaşa",
+    "it:t": "Turchia",
+    "es": "Kemalpaşa",
+    "es:t": "Turquía",
+    "de": "Kemalpaşa",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Kemer",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 36.6028,
+      "lon": 30.5598
+    },
+    "it": "Kemer",
+    "it:t": "Turchia",
+    "es": "Kemer",
+    "es:t": "Turquía",
+    "de": "Kemer",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Keresteciler",
+    "en:t": "Turkey | Mehmet Nesih Özmen Mahallesi",
+    "a": true,
+    "g": {
+      "lat": 41.0183,
+      "lon": 28.8827
+    },
+    "it": "Keresteciler",
+    "it:t": "Turchia | Mehmet Nesih Özmen Mahallesi",
+    "es": "Keresteciler",
+    "es:t": "Turquía | Mehmet Nesih Özmen Mahallesi",
+    "de": "Keresteciler",
+    "de:t": "Türkei | Mehmet Nesih Özmen Mahallesi"
+  },
+  {
+    "en": "Keskin",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 39.6718,
+      "lon": 33.6108
+    },
+    "it": "Keskin",
+    "it:t": "Turchia",
+    "es": "Keskin",
+    "es:t": "Turquía",
+    "de": "Keskin",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Kestel",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 40.201,
+      "lon": 29.2125
+    },
+    "it": "Kestel",
+    "it:t": "Turchia",
+    "es": "Kestel",
+    "es:t": "Turquía",
+    "de": "Kestel",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Keşan",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 40.8014,
+      "lon": 26.561
+    },
+    "it": "Keşan",
+    "it:t": "Turchia",
+    "es": "Keşan",
+    "es:t": "Turquía",
+    "de": "Keşan",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Kilis",
+    "en:t": "Turkey | Kilis Merkez",
+    "a": true,
+    "g": {
+      "lat": 36.7165,
+      "lon": 37.1147
+    },
+    "it": "Kilis",
+    "it:t": "Turchia | Kilis Merkez",
+    "es": "Kilis",
+    "es:t": "Turquía | Kilis Merkez",
+    "de": "Kilis",
+    "de:t": "Türkei | Kilis Merkez"
+  },
+  {
+    "en": "Kirikkale",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 39.8398,
+      "lon": 33.5089
+    },
+    "it": "Kirikkale",
+    "it:t": "Turchia",
+    "es": "Kırıkkale",
+    "es:t": "Turquía",
+    "de": "Kırıkkale",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Kocaali",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 41.0555,
+      "lon": 30.8509
+    },
+    "it": "Kocaali",
+    "it:t": "Turchia",
+    "es": "Kocaali",
+    "es:t": "Turquía",
+    "de": "Kocaali",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Konya",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 37.8746,
+      "lon": 32.4932
+    },
+    "it": "Konya",
+    "it:t": "Turchia",
+    "es": "Konya",
+    "es:t": "Turquía",
+    "de": "Konya",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Korgan",
+    "en:t": "Turkey | Tepe Mahallesi",
+    "a": true,
+    "g": {
+      "lat": 40.8286,
+      "lon": 37.3446
+    },
+    "it": "Korgan",
+    "it:t": "Turchia | Tepe Mahallesi",
+    "es": "Korgan",
+    "es:t": "Turquía | Tepe Mahallesi",
+    "de": "Korgan",
+    "de:t": "Türkei | Tepe Mahallesi"
+  },
+  {
+    "en": "Korkuteli",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 37.0978,
+      "lon": 30.2513
+    },
+    "it": "Korkuteli",
+    "it:t": "Turchia",
+    "es": "Korkuteli",
+    "es:t": "Turquía",
+    "de": "Korkuteli",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Kovancılar",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 38.7179,
+      "lon": 39.8666
+    },
+    "it": "Kovancılar",
+    "it:t": "Turchia",
+    "es": "Kovancılar",
+    "es:t": "Turquía",
+    "de": "Kovancılar",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Kozan",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 37.4521,
+      "lon": 35.8193
+    },
+    "it": "Kozan",
+    "it:t": "Turchia",
+    "es": "Kozan",
+    "es:t": "Turquía",
+    "de": "Kozan",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Kula",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 38.5432,
+      "lon": 28.6446
+    },
+    "it": "Kula",
+    "it:t": "Turchia",
+    "es": "Kula",
+    "es:t": "Turquía",
+    "de": "Kula",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Kulp",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 38.5001,
+      "lon": 41.0099
+    },
+    "it": "Kulp",
+    "it:t": "Turchia",
+    "es": "Kulp",
+    "es:t": "Turquía",
+    "de": "Kulp",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Kulu",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 39.0902,
+      "lon": 33.0805
+    },
+    "it": "Kulu",
+    "it:t": "Turchia",
+    "es": "Kulu",
+    "es:t": "Turquía",
+    "de": "Kulu",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Kumru",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 40.8728,
+      "lon": 37.2615
+    },
+    "it": "Kumru",
+    "it:t": "Turchia",
+    "es": "Kumru",
+    "es:t": "Turquía",
+    "de": "Kumru",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Kurtalan",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 37.9269,
+      "lon": 41.7028
+    },
+    "it": "Kurtalan",
+    "it:t": "Turchia",
+    "es": "Kurtalan",
+    "es:t": "Turquía",
+    "de": "Kurtalan",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Kusadasi",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 37.8579,
+      "lon": 27.261
+    },
+    "it": "Kuşadası",
+    "it:t": "Turchia",
+    "es": "Kuşadası",
+    "es:t": "Turquía",
+    "de": "Kuşadası",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Kâhta",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 37.7869,
+      "lon": 38.619
+    },
+    "it": "Kahta",
+    "it:t": "Turchia",
+    "es": "Kâhta",
+    "es:t": "Turquía",
+    "de": "Kâhta",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Körfez",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 40.7764,
+      "lon": 29.7377
+    },
+    "it": "Körfez",
+    "it:t": "Turchia",
+    "es": "Körfez",
+    "es:t": "Turquía",
+    "de": "Körfez",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Kütahya",
+    "en:t": "Turkey | Kütahya Merkez",
+    "a": true,
+    "g": {
+      "lat": 39.42,
+      "lon": 29.9857
+    },
+    "it": "Kütahya",
+    "it:t": "Turchia | Kütahya Merkez",
+    "es": "Kutahya",
+    "es:t": "Turquía | Kütahya Merkez",
+    "de": "Kütahya",
+    "de:t": "Türkei | Kütahya Merkez"
+  },
+  {
+    "en": "Kırkağaç",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 39.1054,
+      "lon": 27.6733
+    },
+    "it": "Kırkağaç",
+    "it:t": "Turchia",
+    "es": "Kırkağaç",
+    "es:t": "Turquía",
+    "de": "Kırkağaç",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Kırklareli",
+    "en:t": "Turkey | Kırklareli Merkez",
+    "a": true,
+    "g": {
+      "lat": 41.7355,
+      "lon": 27.2244
+    },
+    "it": "Kırklareli",
+    "it:t": "Turchia | Kırklareli Merkez",
+    "es": "Kırklareli",
+    "es:t": "Turquía | Kırklareli Merkez",
+    "de": "Kırklareli",
+    "de:t": "Türkei | Kırklareli Merkez"
+  },
+  {
+    "en": "Kırıkhan",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 36.4967,
+      "lon": 36.3607
+    },
+    "it": "Kırıkhan",
+    "it:t": "Turchia",
+    "es": "Kırıkhan",
+    "es:t": "Turquía",
+    "de": "Kırıkhan",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Kırşehir",
+    "en:t": "Turkey | Kırşehir Merkez",
+    "a": true,
+    "g": {
+      "lat": 39.1461,
+      "lon": 34.1595
+    },
+    "it": "Kırşehir",
+    "it:t": "Turchia | Kırşehir Merkez",
+    "es": "Kırşehir",
+    "es:t": "Turquía | Kırşehir Merkez",
+    "de": "Kırşehir",
+    "de:t": "Türkei | Kırşehir Merkez"
+  },
+  {
+    "en": "Kızılcahamam",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 40.4703,
+      "lon": 32.6502
+    },
+    "it": "Kızılcahamam Caddesi",
+    "it:t": "Turchia",
+    "es": "Kızılcahamam Caddesi",
+    "es:t": "Turquía",
+    "de": "Kızılcahamam",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Kızıltepe",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 37.1931,
+      "lon": 40.587
+    },
+    "it": "Kızıltepe",
+    "it:t": "Turchia",
+    "es": "Kızıltepe",
+    "es:t": "Turquía",
+    "de": "Kızıltepe",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Lice",
+    "en:t": "Turkey | Diyarbakır",
+    "a": true,
+    "g": {
+      "lat": 38.425,
+      "lon": 40.6704
+    },
+    "it": "Lice",
+    "it:t": "Turchia | Diyarbakır",
+    "es": "Lice",
+    "es:t": "Turquía | Diyarbakır",
+    "de": "Lice",
+    "de:t": "Türkei | Diyarbakır"
+  },
+  {
+    "en": "Lüleburgaz",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 41.4027,
+      "lon": 27.3656
+    },
+    "it": "Lüleburgaz",
+    "it:t": "Turchia",
+    "es": "Lüleburgaz",
+    "es:t": "Turquía",
+    "de": "Lüleburgaz",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Mahmutlar",
+    "en:t": "Turkey | Mahmutlar Mahallesi",
+    "a": true,
+    "g": {
+      "lat": 36.4916,
+      "lon": 32.0979
+    },
+    "it": "Mahmutlar",
+    "it:t": "Turchia | Mahmutlar Mahallesi",
+    "es": "Mahmutlar",
+    "es:t": "Turquía | Mahmutlar Mahallesi",
+    "de": "Mahmutlar",
+    "de:t": "Türkei | Mahmutlar Mahallesi"
+  },
+  {
+    "en": "Malatya",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 38.3554,
+      "lon": 38.3335
+    },
+    "it": "Malatya",
+    "it:t": "Turchia",
+    "es": "Malatya",
+    "es:t": "Turquía",
+    "de": "Malatya",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Malazgirt",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 39.1461,
+      "lon": 42.541
+    },
+    "it": "Malazgirt",
+    "it:t": "Turchia",
+    "es": "Malazgirt",
+    "es:t": "Turquía",
+    "de": "Malazgirt",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Malkara",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 40.8938,
+      "lon": 26.9039
+    },
+    "it": "Malkara",
+    "it:t": "Turchia",
+    "es": "Malkara",
+    "es:t": "Turquía",
+    "de": "Malkara",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Maltepe",
+    "en:t": "Turkey | Istanbul",
+    "a": true,
+    "g": {
+      "lat": 40.9361,
+      "lon": 29.1386
+    },
+    "it": "Maltepe",
+    "it:t": "Turchia | Istanbul",
+    "es": "Maltepe",
+    "es:t": "Turquía | Estambul",
+    "de": "Maltepe",
+    "de:t": "Türkei | Istanbul"
+  },
+  {
+    "en": "Manavgat",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 36.7869,
+      "lon": 31.4413
+    },
+    "it": "Manavgat",
+    "it:t": "Turchia",
+    "es": "Manavgat",
+    "es:t": "Turquía",
+    "de": "Manavgat",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Manisa",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 38.614,
+      "lon": 27.4296
+    },
+    "it": "Manisa",
+    "it:t": "Turchia",
+    "es": "Manisa",
+    "es:t": "Turquía",
+    "de": "Manisa",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Mardin",
+    "en:t": "Turkey | Artuklu",
+    "a": true,
+    "g": {
+      "lat": 37.3129,
+      "lon": 40.734
+    },
+    "it": "Mardin",
+    "it:t": "Turchia | Artuklu",
+    "es": "Mardin",
+    "es:t": "Turquía | Artuklu",
+    "de": "Mardin",
+    "de:t": "Türkei | Artuklu"
+  },
+  {
+    "en": "Marmaris",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 36.8549,
+      "lon": 28.2709
+    },
+    "it": "Marmaris",
+    "it:t": "Turchia",
+    "es": "Marmaris",
+    "es:t": "Turquía",
+    "de": "Marmaris",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Menderes",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 38.2517,
+      "lon": 27.1327
+    },
+    "it": "Menderes",
+    "it:t": "Turchia",
+    "es": "Menderes",
+    "es:t": "Turquía",
+    "de": "Menderes",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Menemen",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 38.6266,
+      "lon": 27.0559
+    },
+    "it": "Menemen",
+    "it:t": "Turchia",
+    "es": "Menemen",
+    "es:t": "Turquía",
+    "de": "Menemen",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Mersin",
+    "en:t": "Turkey | Akdeniz",
+    "a": true,
+    "g": {
+      "lat": 36.8121,
+      "lon": 34.6415
+    },
+    "it": "Mersin",
+    "it:t": "Turchia | Akdeniz",
+    "es": "Mersin",
+    "es:t": "Turquía | Akdeniz",
+    "de": "Mersin",
+    "de:t": "Türkei | Akdeniz"
+  },
+  {
+    "en": "Merzifon",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 40.8748,
+      "lon": 35.4618
+    },
+    "it": "Merzifon",
+    "it:t": "Turchia",
+    "es": "Merzifon",
+    "es:t": "Turquía",
+    "de": "Merzifon",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Midyat",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 37.4151,
+      "lon": 41.3734
+    },
+    "it": "Midyat",
+    "it:t": "Turchia",
+    "es": "Midyat",
+    "es:t": "Turquía",
+    "de": "Midyat",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Milas",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 37.3116,
+      "lon": 27.7808
+    },
+    "it": "Milas",
+    "it:t": "Turchia",
+    "es": "Milas",
+    "es:t": "Turquía",
+    "de": "Milas",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Mucur",
+    "en:t": "Turkey | Altınyazı Köyü",
+    "a": true,
+    "g": {
+      "lat": 39.0635,
+      "lon": 34.3739
+    },
+    "it": "Mucur",
+    "it:t": "Turchia | Altınyazı Köyü",
+    "es": "Mucur",
+    "es:t": "Turquía | Altınyazı Köyü",
+    "de": "Mucur",
+    "de:t": "Türkei | Altınyazı Köyü"
+  },
+  {
+    "en": "Mudanya",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 40.377,
+      "lon": 28.8832
+    },
+    "it": "Mudanya",
+    "it:t": "Turchia",
+    "es": "Mudanya",
+    "es:t": "Turquía",
+    "de": "Mudanya",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Mugla",
+    "en:t": "Turkey | Menteşe",
+    "a": true,
+    "g": {
+      "lat": 37.2154,
+      "lon": 28.3634
+    },
+    "it": "Muğla",
+    "it:t": "Turchia | Menteşe",
+    "es": "Muğla",
+    "es:t": "Turquía | Menteşe",
+    "de": "Muğla",
+    "de:t": "Türkei | Menteşe"
+  },
+  {
+    "en": "Muratpaşa",
+    "en:t": "Turkey | Antalya",
+    "a": true,
+    "g": {
+      "lat": 36.897,
+      "lon": 30.7134
+    },
+    "it": "Muratpaşa",
+    "it:t": "Turchia | Adalia",
+    "es": "Barbaros Mahallesi",
+    "es:t": "Turquía | Muratpaşa",
+    "de": "Muratpaşa",
+    "de:t": "Türkei | Antalya"
+  },
+  {
+    "en": "Mustafakemalpaşa",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 40.0394,
+      "lon": 28.4052
+    },
+    "it": "Mustafakemalpaşa",
+    "it:t": "Turchia",
+    "es": "Mustafakemalpaşa",
+    "es:t": "Turquía",
+    "de": "Mustafakemalpaşa",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Mut",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 36.7942,
+      "lon": 33.3486
+    },
+    "it": "Mut",
+    "it:t": "Turchia",
+    "es": "Mut",
+    "es:t": "Turquía",
+    "de": "Mut",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Muş",
+    "en:t": "Turkey | Muş Merkez",
+    "a": true,
+    "g": {
+      "lat": 38.7346,
+      "lon": 41.491
+    },
+    "it": "Muş",
+    "it:t": "Turchia | Muş Merkez",
+    "es": "Muş",
+    "es:t": "Turquía | Muş Merkez",
+    "de": "Muş",
+    "de:t": "Türkei | Muş Merkez"
+  },
+  {
+    "en": "Nallıhan",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 40.1889,
+      "lon": 31.3506
+    },
+    "it": "Nallıhan",
+    "it:t": "Turchia",
+    "es": "Nallıhan",
+    "es:t": "Turquía",
+    "de": "Nallıhan",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Nazilli",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 37.9098,
+      "lon": 28.3243
+    },
+    "it": "Nazilli",
+    "it:t": "Turchia",
+    "es": "Nazilli",
+    "es:t": "Turquía",
+    "de": "Nazilli",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Nevşehir",
+    "en:t": "Turkey | Nevşehir Merkez",
+    "a": true,
+    "g": {
+      "lat": 38.6247,
+      "lon": 34.7142
+    },
+    "it": "Nevşehir",
+    "it:t": "Turchia | Nevşehir Merkez",
+    "es": "Nevşehir",
+    "es:t": "Turquía | Nevşehir Merkez",
+    "de": "Nevşehir",
+    "de:t": "Türkei | Nevşehir Merkez"
+  },
+  {
+    "en": "Nicaea",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 40.4295,
+      "lon": 29.7197
+    },
+    "it": "Nicea",
+    "it:t": "Turchia",
+    "es": "Nicea",
+    "es:t": "Turquía",
+    "de": "Nikaia",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Nigde",
+    "en:t": "Turkey | Niğde Merkez",
+    "a": true,
+    "g": {
+      "lat": 37.9698,
+      "lon": 34.6766
+    },
+    "it": "Niğde",
+    "it:t": "Turchia | Niğde Merkez",
+    "es": "Niğde",
+    "es:t": "Turquía | Niğde Merkez",
+    "de": "Niğde",
+    "de:t": "Türkei | Niğde Merkez"
+  },
+  {
+    "en": "Niksar",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 40.5902,
+      "lon": 36.9512
+    },
+    "it": "Niksar",
+    "it:t": "Turchia",
+    "es": "Niksar",
+    "es:t": "Turquía",
+    "de": "Niksar",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Nizip",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 37.0099,
+      "lon": 37.7969
+    },
+    "it": "Nizip",
+    "it:t": "Turchia",
+    "es": "Nizip",
+    "es:t": "Turquía",
+    "de": "Nizip",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Nusaybin",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 37.0696,
+      "lon": 41.214
+    },
+    "it": "Nisibis",
+    "it:t": "Turchia",
+    "es": "Nísibis",
+    "es:t": "Turquía",
+    "de": "Nusaybin",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Of",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 40.9255,
+      "lon": 40.2897
+    },
+    "it": "Of",
+    "it:t": "Turchia",
+    "es": "Of",
+    "es:t": "Turquía",
+    "de": "Of",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Oltu",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 40.546,
+      "lon": 41.9956
+    },
+    "it": "Oltu",
+    "it:t": "Turchia",
+    "es": "Oltu",
+    "es:t": "Turquía",
+    "de": "Oltu",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Ordu",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 40.9862,
+      "lon": 37.8797
+    },
+    "it": "Ordu",
+    "it:t": "Turchia",
+    "es": "Ordu",
+    "es:t": "Turquía",
+    "de": "Altınordu",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Orhangazi Caddesi",
+    "en:t": "Turkey | Nilüfer",
+    "a": true,
+    "g": {
+      "lat": 40.1891,
+      "lon": 28.9849
+    },
+    "it": "Orhangazi Caddesi",
+    "it:t": "Turchia | Nilüfer",
+    "es": "Orhangazi Caddesi",
+    "es:t": "Turquía | Nilüfer",
+    "de": "Orhangazi Caddesi",
+    "de:t": "Türkei | Nilüfer"
+  },
+  {
+    "en": "Ortaca",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 36.8387,
+      "lon": 28.7655
+    },
+    "it": "Ortaca",
+    "it:t": "Turchia",
+    "es": "Ortaca",
+    "es:t": "Turquía",
+    "de": "Ortaca",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Ortaköy",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 38.7366,
+      "lon": 34.0408
+    },
+    "it": "Ortaköy",
+    "it:t": "Turchia",
+    "es": "Ortaköy",
+    "es:t": "Turquía",
+    "de": "Ortaköy",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Osmancık",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 40.969,
+      "lon": 34.8001
+    },
+    "it": "Osmancık",
+    "it:t": "Turchia",
+    "es": "Osmancık",
+    "es:t": "Turquía",
+    "de": "Osmancık",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Osmaneli",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 40.3584,
+      "lon": 30.0134
+    },
+    "it": "Osmaneli",
+    "it:t": "Turchia",
+    "es": "Osmaneli",
+    "es:t": "Turquía",
+    "de": "Osmaneli",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Osmaniye",
+    "en:t": "Turkey | Osmaniye Merkez",
+    "a": true,
+    "g": {
+      "lat": 37.0746,
+      "lon": 36.2464
+    },
+    "it": "Osmaniye",
+    "it:t": "Turchia | Osmaniye Merkez",
+    "es": "Osmaniye",
+    "es:t": "Turquía | Osmaniye Merkez",
+    "de": "Osmaniye",
+    "de:t": "Türkei | Osmaniye Merkez"
+  },
+  {
+    "en": "Patnos",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 39.2336,
+      "lon": 42.8633
+    },
+    "it": "Patnos",
+    "it:t": "Turchia",
+    "es": "Patnos",
+    "es:t": "Turquía",
+    "de": "Patnos",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Pazarcık",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 37.4895,
+      "lon": 37.2936
+    },
+    "it": "Pazarcık",
+    "it:t": "Turchia",
+    "es": "Pazarcık",
+    "es:t": "Turquía",
+    "de": "Pazarcık",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Phocaea",
+    "en:t": "Turkey | Foça",
+    "a": true,
+    "g": {
+      "lat": 38.6704,
+      "lon": 26.7579
+    },
+    "it": "Focea",
+    "it:t": "Turchia | Foça",
+    "es": "Focea",
+    "es:t": "Turquía | Foça",
+    "de": "Foça",
+    "de:t": "Türkei | Phokäa"
+  },
+  {
+    "en": "Polatlı",
+    "en:t": "Turkey | Ankara",
+    "a": true,
+    "g": {
+      "lat": 39.6078,
+      "lon": 32.0837
+    },
+    "it": "Polatlı",
+    "it:t": "Turchia | Ankara",
+    "es": "Polatlı",
+    "es:t": "Turquía | Ankara",
+    "de": "Polatlı",
+    "de:t": "Türkei | Ankara"
+  },
+  {
+    "en": "Pompeiopolis",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 41.5099,
+      "lon": 34.2103
+    },
+    "it": "Taşköprü",
+    "it:t": "Turchia",
+    "es": "Pompeyópolis",
+    "es:t": "Turquía",
+    "de": "Pompeiopolis",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Reyhanlı",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 36.2685,
+      "lon": 36.5676
+    },
+    "it": "Reyhanlı",
+    "it:t": "Turchia",
+    "es": "Reyhanlı",
+    "es:t": "Turquía",
+    "de": "Reyhanlı",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Rize",
+    "en:t": "Turkey | Rize Merkez",
+    "a": true,
+    "g": {
+      "lat": 41.0255,
+      "lon": 40.5177
+    },
+    "it": "Rize",
+    "it:t": "Turchia | Rize Merkez",
+    "es": "Rize",
+    "es:t": "Turquía | Rize Merkez",
+    "de": "Rize",
+    "de:t": "Türkei | Rize Merkez"
+  },
+  {
+    "en": "Safranbolu",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 41.2493,
+      "lon": 32.6831
+    },
+    "it": "Safranbolu",
+    "it:t": "Turchia",
+    "es": "Safranbolu",
+    "es:t": "Turquía",
+    "de": "Safranbolu",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Salihli",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 38.4871,
+      "lon": 28.1381
+    },
+    "it": "Salihli",
+    "it:t": "Turchia",
+    "es": "Salihli",
+    "es:t": "Turquía",
+    "de": "Salihli",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Samsun",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 41.2797,
+      "lon": 36.3361
+    },
+    "it": "Samsun",
+    "it:t": "Turchia",
+    "es": "Samsun",
+    "es:t": "Turquía",
+    "de": "Samsun",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Sancaktepe",
+    "en:t": "Turkey | Istanbul",
+    "a": true,
+    "g": {
+      "lat": 41.0287,
+      "lon": 29.2902
+    },
+    "it": "Sancaktepe",
+    "it:t": "Turchia | Istanbul",
+    "es": "Sancaktepe",
+    "es:t": "Turquía | Estambul",
+    "de": "Sancaktepe",
+    "de:t": "Türkei | Istanbul"
+  },
+  {
+    "en": "Sandıklı",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 38.4652,
+      "lon": 30.2726
+    },
+    "it": "Sandıklı",
+    "it:t": "Turchia",
+    "es": "Sandıklı",
+    "es:t": "Turquía",
+    "de": "Sandıklı",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Sapanca",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 40.6897,
+      "lon": 30.2614
+    },
+    "it": "Sapanca",
+    "it:t": "Turchia",
+    "es": "Sapanca",
+    "es:t": "Turquía",
+    "de": "Sapanca",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Sarayköy",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 37.9211,
+      "lon": 28.883
+    },
+    "it": "Sarayköy",
+    "it:t": "Turchia",
+    "es": "Sarayköy",
+    "es:t": "Turquía",
+    "de": "Sarayköy",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Sarıgerme",
+    "en:t": "Turkey | Sarıgerme Mahallesi",
+    "a": true,
+    "g": {
+      "lat": 36.71,
+      "lon": 28.7019
+    },
+    "it": "Sarıgerme",
+    "it:t": "Turchia | Sarıgerme Mahallesi",
+    "es": "Sarıgerme",
+    "es:t": "Turquía | Sarıgerme Mahallesi",
+    "de": "Sarıgerme",
+    "de:t": "Türkei | Sarıgerme Mahallesi"
+  },
+  {
+    "en": "Sarıkamış",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 40.3334,
+      "lon": 42.5905
+    },
+    "it": "Sarıkamış",
+    "it:t": "Turchia",
+    "es": "Sarıkamış",
+    "es:t": "Turquía",
+    "de": "Sarıkamış",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Seferihisar",
+    "en:t": "Turkey | Düzce Mahallesi",
+    "a": true,
+    "g": {
+      "lat": 38.1951,
+      "lon": 26.8344
+    },
+    "it": "Seferihisar",
+    "it:t": "Turchia | Düzce Mahallesi",
+    "es": "Seferihisar",
+    "es:t": "Turquía | Düzce Mahallesi",
+    "de": "Seferihisar",
+    "de:t": "Türkei | Düzce Mahallesi"
+  },
+  {
+    "en": "Selçuk",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 37.9508,
+      "lon": 27.37
+    },
+    "it": "Selçuk",
+    "it:t": "Turchia",
+    "es": "Selçuk",
+    "es:t": "Turquía",
+    "de": "Selçuk",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Senirkent",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 38.1079,
+      "lon": 30.5502
+    },
+    "it": "Senirkent",
+    "it:t": "Turchia",
+    "es": "Senirkent",
+    "es:t": "Turquía",
+    "de": "Senirkent",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Serik",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 36.9174,
+      "lon": 31.1044
+    },
+    "it": "Serik",
+    "it:t": "Turchia",
+    "es": "Serik",
+    "es:t": "Turquía",
+    "de": "Serik",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Serinhisar",
+    "en:t": "Turkey | Yassıhüyük Mahallesi",
+    "a": true,
+    "g": {
+      "lat": 37.588,
+      "lon": 29.266
+    },
+    "it": "Serinhisar",
+    "it:t": "Turchia | Yassıhüyük Mahallesi",
+    "es": "Serinhisar",
+    "es:t": "Turquía | Yassıhüyük Mahallesi",
+    "de": "Serinhisar",
+    "de:t": "Türkei | Yassıhüyük Mahallesi"
+  },
+  {
+    "en": "Serinyol",
+    "en:t": "Turkey | Paşaköy Mahallesi",
+    "a": true,
+    "g": {
+      "lat": 36.3707,
+      "lon": 36.2253
+    },
+    "it": "Serinyol",
+    "it:t": "Turchia | Paşaköy Mahallesi",
+    "es": "Serinyol",
+    "es:t": "Turquía | Paşaköy Mahallesi",
+    "de": "Serinyol",
+    "de:t": "Türkei | Paşaköy Mahallesi"
+  },
+  {
+    "en": "Seydişehir",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 37.4193,
+      "lon": 31.8482
+    },
+    "it": "Seydişehir",
+    "it:t": "Turchia",
+    "es": "Seydişehir",
+    "es:t": "Turquía",
+    "de": "Seydişehir",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Siirt",
+    "en:t": "Turkey | Siirt Merkez",
+    "a": true,
+    "g": {
+      "lat": 37.9274,
+      "lon": 41.942
+    },
+    "it": "Siirt",
+    "it:t": "Turchia | Siirt Merkez",
+    "es": "Siirt",
+    "es:t": "Turquía | Siirt Merkez",
+    "de": "Siirt",
+    "de:t": "Türkei | Siirt Merkez"
+  },
+  {
+    "en": "Silifke",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 36.3763,
+      "lon": 33.9253
+    },
+    "it": "Silifke",
+    "it:t": "Turchia",
+    "es": "Silifke",
+    "es:t": "Turquía",
+    "de": "Silifke",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Silivri",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 41.0737,
+      "lon": 28.2479
+    },
+    "it": "Silivri",
+    "it:t": "Turchia",
+    "es": "Silivri",
+    "es:t": "Turquía",
+    "de": "Silivri",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Silopi",
+    "en:t": "Turkey | Şırnak",
+    "a": true,
+    "g": {
+      "lat": 37.3055,
+      "lon": 42.4983
+    },
+    "it": "Silopi",
+    "it:t": "Turchia | Şırnak",
+    "es": "Silopi",
+    "es:t": "Turquía | Şırnak",
+    "de": "Silopi",
+    "de:t": "Türkei | Şırnak"
+  },
+  {
+    "en": "Silvan",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 38.1412,
+      "lon": 41.0128
+    },
+    "it": "Silvan",
+    "it:t": "Turchia",
+    "es": "Silvan",
+    "es:t": "Turquía",
+    "de": "Silvan",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Simav",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 39.0896,
+      "lon": 28.9787
+    },
+    "it": "Simav",
+    "it:t": "Turchia",
+    "es": "Simav",
+    "es:t": "Turquía",
+    "de": "Simav",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Sinop",
+    "en:t": "Turkey | Sinop Merkez",
+    "a": true,
+    "g": {
+      "lat": 42.028,
+      "lon": 35.1517
+    },
+    "it": "Sinope",
+    "it:t": "Turchia | Sinop Merkez",
+    "es": "Sinope",
+    "es:t": "Turquía | Sinop Merkez",
+    "de": "Sinop",
+    "de:t": "Türkei | Sinop Merkez"
+  },
+  {
+    "en": "Sivas",
+    "en:t": "Turkey | Sivas Merkez",
+    "a": true,
+    "g": {
+      "lat": 39.7505,
+      "lon": 37.015
+    },
+    "it": "Sivas",
+    "it:t": "Turchia | Sivas Merkez",
+    "es": "Sivas",
+    "es:t": "Turquía | Sivas Merkez",
+    "de": "Sivas",
+    "de:t": "Türkei | Sivas Merkez"
+  },
+  {
+    "en": "Siverek",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 37.7541,
+      "lon": 39.3177
+    },
+    "it": "Siverek",
+    "it:t": "Turchia",
+    "es": "Siverek",
+    "es:t": "Turquía",
+    "de": "Siverek",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Solhan",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 38.9679,
+      "lon": 41.0538
+    },
+    "it": "Solhan",
+    "it:t": "Turchia",
+    "es": "Solhan",
+    "es:t": "Turquía",
+    "de": "Solhan",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Soma",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 39.1851,
+      "lon": 27.6088
+    },
+    "it": "Soma",
+    "it:t": "Turchia",
+    "es": "Soma",
+    "es:t": "Turquía",
+    "de": "Soma",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Sorgun",
+    "en:t": "Turkey | Yozgat",
+    "a": true,
+    "g": {
+      "lat": 39.7459,
+      "lon": 35.2678
+    },
+    "it": "Sorgun",
+    "it:t": "Turchia | Yozgat",
+    "es": "Sorgun",
+    "es:t": "Turquía | Yozgat",
+    "de": "Sorgun",
+    "de:t": "Türkei | Yozgat"
+  },
+  {
+    "en": "Sultanbeyli",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 40.9684,
+      "lon": 29.262
+    },
+    "it": "Sultanbeyli",
+    "it:t": "Turchia",
+    "es": "Sultanbeyli",
+    "es:t": "Turquía",
+    "de": "Sultanbeyli",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Sultangazi",
+    "en:t": "Turkey | Istanbul",
+    "a": true,
+    "g": {
+      "lat": 41.1256,
+      "lon": 28.8713
+    },
+    "it": "Sultangazi",
+    "it:t": "Turchia | Istanbul",
+    "es": "Sultangazi",
+    "es:t": "Turquía | Estambul",
+    "de": "Sultangazi",
+    "de:t": "Türkei | Istanbul"
+  },
+  {
+    "en": "Suluova",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 40.8365,
+      "lon": 35.6456
+    },
+    "it": "Suluova",
+    "it:t": "Turchia",
+    "es": "Suluova",
+    "es:t": "Turquía",
+    "de": "Suluova",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Sungurlu",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 40.1637,
+      "lon": 34.3752
+    },
+    "it": "Sungurlu",
+    "it:t": "Turchia",
+    "es": "Sungurlu",
+    "es:t": "Turquía",
+    "de": "Sungurlu",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Suruç",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 36.9751,
+      "lon": 38.4243
+    },
+    "it": "Suruç",
+    "it:t": "Turchia",
+    "es": "Suruç",
+    "es:t": "Turquía",
+    "de": "Suruç",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Susurluk",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 39.9139,
+      "lon": 28.1569
+    },
+    "it": "Susurluk",
+    "it:t": "Turchia",
+    "es": "Susurluk",
+    "es:t": "Turquía",
+    "de": "Susurluk",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Suşehri",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 40.1632,
+      "lon": 38.0915
+    },
+    "it": "Suşehri",
+    "it:t": "Turchia",
+    "es": "Suşehri",
+    "es:t": "Turquía",
+    "de": "Suşehri",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Söke",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 37.6843,
+      "lon": 27.4556
+    },
+    "it": "Söke",
+    "it:t": "Turchia",
+    "es": "Söke",
+    "es:t": "Turquía",
+    "de": "Söke",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Sürmene",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 40.9114,
+      "lon": 40.1188
+    },
+    "it": "Sürmene",
+    "it:t": "Turchia",
+    "es": "Sürmene",
+    "es:t": "Turquía",
+    "de": "Sürmene",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Talas",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 38.6875,
+      "lon": 35.5556
+    },
+    "it": "Talas",
+    "it:t": "Turchia",
+    "es": "Talas",
+    "es:t": "Turquía",
+    "de": "Talas",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Tarsus",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 36.9166,
+      "lon": 34.8952
+    },
+    "it": "Tarso",
+    "it:t": "Turchia",
+    "es": "Tarsos",
+    "es:t": "Turquía",
+    "de": "Tarsus",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Tatvan",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 38.502,
+      "lon": 42.2813
+    },
+    "it": "Tatvan",
+    "it:t": "Turchia",
+    "es": "Tatvan",
+    "es:t": "Turquía",
+    "de": "Tatvan",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Tavşanlı",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 39.547,
+      "lon": 29.4914
+    },
+    "it": "Tavşanlı",
+    "it:t": "Turchia",
+    "es": "Tavşanlı",
+    "es:t": "Turquía",
+    "de": "Tavşanlı",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Taşova",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 40.7606,
+      "lon": 36.3225
+    },
+    "it": "Taşova",
+    "it:t": "Turchia",
+    "es": "Taşova",
+    "es:t": "Turquía",
+    "de": "Taşova",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Tekirdağ",
+    "en:t": "Turkey | Süleymanpaşa",
+    "a": true,
+    "g": {
+      "lat": 40.9781,
+      "lon": 27.5117
+    },
+    "it": "Tekirdağ",
+    "it:t": "Turchia | Süleymanpaşa",
+    "es": "Tekirdağ",
+    "es:t": "Turquía | Süleymanpaşa",
+    "de": "Tekirdağ",
+    "de:t": "Türkei | Süleymanpaşa"
+  },
+  {
+    "en": "Tekirova",
+    "en:t": "Turkey | Tekirova Mahallesi",
+    "a": true,
+    "g": {
+      "lat": 36.5019,
+      "lon": 30.5264
+    },
+    "it": "Tekirova",
+    "it:t": "Turchia | Tekirova Mahallesi",
+    "es": "Tekirova",
+    "es:t": "Turquía | Tekirova Mahallesi",
+    "de": "Tekirova",
+    "de:t": "Türkei | Tekirova Mahallesi"
+  },
+  {
+    "en": "Tekkeköy",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 41.2133,
+      "lon": 36.4631
+    },
+    "it": "Tekkeköy",
+    "it:t": "Turchia",
+    "es": "Tekkeköy",
+    "es:t": "Turquía",
+    "de": "Tekkeköy",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Tepecik",
+    "en:t": "Turkey | Eyüp Sultan Mahallesi",
+    "a": true,
+    "g": {
+      "lat": 40.9766,
+      "lon": 29.2141
+    },
+    "it": "Tepecik",
+    "it:t": "Turchia | Eyüp Sultan Mahallesi",
+    "es": "Tepecik",
+    "es:t": "Turquía | Eyüp Sultan Mahallesi",
+    "de": "Tepecik",
+    "de:t": "Türkei | Eyüp Sultan Mahallesi"
+  },
+  {
+    "en": "Terme",
+    "en:t": "Turkey | Terme",
+    "a": true,
+    "g": {
+      "lat": 41.2086,
+      "lon": 36.9721
+    },
+    "it": "Terme",
+    "it:t": "Turchia | Terme",
+    "es": "Terme",
+    "es:t": "Turquía | Terme",
+    "de": "Terme",
+    "de:t": "Türkei | Terme"
+  },
+  {
+    "en": "Tire",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 38.0895,
+      "lon": 27.7318
+    },
+    "it": "Tire",
+    "it:t": "Turchia",
+    "es": "Tire",
+    "es:t": "Turquía",
+    "de": "Tire",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Tirebolu",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 41.0075,
+      "lon": 38.8146
+    },
+    "it": "Tirebolu",
+    "it:t": "Turchia",
+    "es": "Tirebolu",
+    "es:t": "Turquía",
+    "de": "Tirebolu",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Tokat",
+    "en:t": "Turkey | Tokat Merkez",
+    "a": true,
+    "g": {
+      "lat": 40.3235,
+      "lon": 36.5522
+    },
+    "it": "Tokat",
+    "it:t": "Turchia | Tokat Merkez",
+    "es": "Tokat",
+    "es:t": "Turquía | Tokat Merkez",
+    "de": "Tokat",
+    "de:t": "Türkei | Tokat Merkez"
+  },
+  {
+    "en": "Torbalı",
+    "en:t": "Turkey | Arslanlar Mahallesi",
+    "a": true,
+    "g": {
+      "lat": 38.1557,
+      "lon": 27.3645
+    },
+    "it": "Torbalı",
+    "it:t": "Turchia | Arslanlar Mahallesi",
+    "es": "Torbalı",
+    "es:t": "Turquía | Arslanlar Mahallesi",
+    "de": "Torbalı",
+    "de:t": "Türkei | Arslanlar Mahallesi"
+  },
+  {
+    "en": "Tosya",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 41.0174,
+      "lon": 34.0375
+    },
+    "it": "Tosya",
+    "it:t": "Turchia",
+    "es": "Tosya",
+    "es:t": "Turquía",
+    "de": "Tosya",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Trabzon",
+    "en:t": "Turkey | Ortahisar",
+    "a": true,
+    "g": {
+      "lat": 41.0027,
+      "lon": 39.7168
+    },
+    "it": "Trebisonda",
+    "it:t": "Turchia | Ortahisar",
+    "es": "Trebisonda",
+    "es:t": "Turquía | Ortahisar",
+    "de": "Trabzon",
+    "de:t": "Türkei | Ortahisar"
+  },
+  {
+    "en": "Tunceli",
+    "en:t": "Turkey | Tunceli Merkez",
+    "a": true,
+    "g": {
+      "lat": 39.1062,
+      "lon": 39.5483
+    },
+    "it": "Tunceli",
+    "it:t": "Turchia | Tunceli Merkez",
+    "es": "Tunceli",
+    "es:t": "Turquía | Tunceli Merkez",
+    "de": "Tunceli",
+    "de:t": "Türkei | Tunceli Merkez"
+  },
+  {
+    "en": "Turgutlu",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 38.5002,
+      "lon": 27.7084
+    },
+    "it": "Turgutlu",
+    "it:t": "Turchia",
+    "es": "Turgutlu",
+    "es:t": "Turquía",
+    "de": "Turgutlu",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Turgutreis",
+    "en:t": "Turkey | Turgutreis Mahallesi",
+    "a": true,
+    "g": {
+      "lat": 37.0037,
+      "lon": 27.272
+    },
+    "it": "Turgutreis",
+    "it:t": "Turchia | Turgutreis Mahallesi",
+    "es": "Turgutreis",
+    "es:t": "Turquía | Turgutreis Mahallesi",
+    "de": "Turgutreis",
+    "de:t": "Türkei | Turgutreis Mahallesi"
+  },
+  {
+    "en": "Turhal",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 40.3862,
+      "lon": 36.0878
+    },
+    "it": "Turhal",
+    "it:t": "Turchia",
+    "es": "Turhal",
+    "es:t": "Turquía",
+    "de": "Turhal",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Urla",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 38.325,
+      "lon": 26.7668
+    },
+    "it": "Urla",
+    "it:t": "Turchia",
+    "es": "Urla",
+    "es:t": "Turquía",
+    "de": "Urla",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Usak",
+    "en:t": "Turkey | Uşak Merkez",
+    "a": true,
+    "g": {
+      "lat": 38.6742,
+      "lon": 29.4059
+    },
+    "it": "Uşak",
+    "it:t": "Turchia | Uşak Merkez",
+    "es": "Uşak",
+    "es:t": "Turquía | Uşak Merkez",
+    "de": "Uşak",
+    "de:t": "Türkei | Uşak Merkez"
+  },
+  {
+    "en": "Uzunköprü",
+    "en:t": "Turkey | Kırkkavak Köyü",
+    "a": true,
+    "g": {
+      "lat": 41.267,
+      "lon": 26.6877
+    },
+    "it": "Uzunköprü",
+    "it:t": "Turchia | Kırkkavak Köyü",
+    "es": "Uzunköprü",
+    "es:t": "Turquía | Kırkkavak Köyü",
+    "de": "Uzunköprü",
+    "de:t": "Türkei | Kırkkavak Köyü"
+  },
+  {
+    "en": "Vakfıkebir",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 41.0458,
+      "lon": 39.279
+    },
+    "it": "Vakfıkebir",
+    "it:t": "Turchia",
+    "es": "Vakfıkebir",
+    "es:t": "Turquía",
+    "de": "Vakfıkebir",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Van",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 38.5012,
+      "lon": 43.373
+    },
+    "it": "Van",
+    "it:t": "Turchia",
+    "es": "Van",
+    "es:t": "Turquía",
+    "de": "Van",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Varto",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 39.1733,
+      "lon": 41.456
+    },
+    "it": "Varto",
+    "it:t": "Turchia",
+    "es": "Varto",
+    "es:t": "Turquía",
+    "de": "Varto",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Vezirköprü",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 41.1431,
+      "lon": 35.4606
+    },
+    "it": "Vezirköprü",
+    "it:t": "Turchia",
+    "es": "Vezirköprü",
+    "es:t": "Turquía",
+    "de": "Vezirköprü",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Viranşehir",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 37.2359,
+      "lon": 39.7624
+    },
+    "it": "Viranşehir",
+    "it:t": "Turchia",
+    "es": "Viranşehir",
+    "es:t": "Turquía",
+    "de": "Viranşehir",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Yahyalı",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 38.0992,
+      "lon": 35.3592
+    },
+    "it": "Yahyalı Sokak",
+    "it:t": "Turchia",
+    "es": "Yahyalı",
+    "es:t": "Turquía",
+    "de": "Yahyalı",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Yakuplu",
+    "en:t": "Turkey | Beylikdüzü",
+    "a": true,
+    "g": {
+      "lat": 40.9904,
+      "lon": 28.675
+    },
+    "it": "Yakuplu",
+    "it:t": "Turchia | Beylikdüzü",
+    "es": "Yakuplu",
+    "es:t": "Turquía | Beylikdüzü",
+    "de": "Yakuplu",
+    "de:t": "Türkei | Beylikdüzü"
+  },
+  {
+    "en": "Yalova",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 40.6549,
+      "lon": 29.2842
+    },
+    "it": "Yalova",
+    "it:t": "Turchia",
+    "es": "Yalova",
+    "es:t": "Turquía",
+    "de": "Yalova",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Yalvaç",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 38.2995,
+      "lon": 31.1758
+    },
+    "it": "Yalvaç",
+    "it:t": "Turchia",
+    "es": "Yalvaç",
+    "es:t": "Turquía",
+    "de": "Yalvaç",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Yatağan",
+    "en:t": "Turkey | Topçam Mahallesi",
+    "a": true,
+    "g": {
+      "lat": 37.5833,
+      "lon": 28.2333
+    },
+    "it": "Yatağan",
+    "it:t": "Turchia | Topçam Mahallesi",
+    "es": "Yatağan",
+    "es:t": "Turquía | Topçam Mahallesi",
+    "de": "Yatağan",
+    "de:t": "Türkei | Topçam Mahallesi"
+  },
+  {
+    "en": "Yenişehir",
+    "en:t": "Turkey | Bursa",
+    "a": true,
+    "g": {
+      "lat": 40.2867,
+      "lon": 29.6499
+    },
+    "it": "Yenişehir",
+    "it:t": "Turchia | Bursa",
+    "es": "Yenişehir",
+    "es:t": "Turquía | Bursa",
+    "de": "Yenişehir",
+    "de:t": "Türkei | Bursa"
+  },
+  {
+    "en": "Yerköy",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 39.6416,
+      "lon": 34.4694
+    },
+    "it": "Yerköy",
+    "it:t": "Turchia",
+    "es": "Yerköy",
+    "es:t": "Turquía",
+    "de": "Yerköy",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Yeşilli",
+    "en:t": "Turkey | Gül Mahallesi",
+    "a": true,
+    "g": {
+      "lat": 37.3396,
+      "lon": 40.823
+    },
+    "it": "Yeşilli",
+    "it:t": "Turchia | Gül Mahallesi",
+    "es": "Yeşilli",
+    "es:t": "Turquía | Gül Mahallesi",
+    "de": "Yeşilli",
+    "de:t": "Türkei | Gül Mahallesi"
+  },
+  {
+    "en": "Yomra",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 40.954,
+      "lon": 39.867
+    },
+    "it": "Yomra",
+    "it:t": "Turchia",
+    "es": "Yomra",
+    "es:t": "Turquía",
+    "de": "Yomra",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Yozgat",
+    "en:t": "Turkey | Yozgat Merkez",
+    "a": true,
+    "g": {
+      "lat": 39.821,
+      "lon": 34.8086
+    },
+    "it": "Yozgat",
+    "it:t": "Turchia | Yozgat Merkez",
+    "es": "Yozgat",
+    "es:t": "Turquía | Yozgat Merkez",
+    "de": "Yozgat",
+    "de:t": "Türkei | Yozgat Merkez"
+  },
+  {
+    "en": "Yüksekova",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 37.5717,
+      "lon": 44.2823
+    },
+    "it": "Yüksekova",
+    "it:t": "Turchia",
+    "es": "Yüksekova",
+    "es:t": "Turquía",
+    "de": "Yüksekova",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Zeytinburnu",
+    "en:t": "Turkey | Sümer Mahallesi",
+    "a": true,
+    "g": {
+      "lat": 40.9906,
+      "lon": 28.8961
+    },
+    "it": "Zeytinburnu",
+    "it:t": "Turchia | Sümer Mahallesi",
+    "es": "Zeytinburnu",
+    "es:t": "Turquía | Sümer Mahallesi",
+    "de": "Zeytinburnu",
+    "de:t": "Türkei | Sümer Mahallesi"
+  },
+  {
+    "en": "Zile",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 40.3018,
+      "lon": 35.8867
+    },
+    "it": "Zile",
+    "it:t": "Turchia",
+    "es": "Zile",
+    "es:t": "Turquía",
+    "de": "Zile",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Zonguldak",
+    "en:t": "Turkey | Zonguldak Merkez",
+    "a": true,
+    "g": {
+      "lat": 41.4535,
+      "lon": 31.7894
+    },
+    "it": "Zonguldak",
+    "it:t": "Turchia | Zonguldak Merkez",
+    "es": "Zonguldak",
+    "es:t": "Turquía | Zonguldak Merkez",
+    "de": "Zonguldak",
+    "de:t": "Türkei | Zonguldak Merkez"
+  },
+  {
+    "en": "Çan",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 40.0282,
+      "lon": 27.0466
+    },
+    "it": "Çan",
+    "it:t": "Turchia",
+    "es": "Çan",
+    "es:t": "Turquía",
+    "de": "Çan",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Çanakkale",
+    "en:t": "Turkey | Çanakkale Merkez",
+    "a": true,
+    "g": {
+      "lat": 40.1467,
+      "lon": 26.4086
+    },
+    "it": "Çanakkale",
+    "it:t": "Turchia | Çanakkale Merkez",
+    "es": "Çanakkale",
+    "es:t": "Turquía | Çanakkale Merkez",
+    "de": "Çanakkale",
+    "de:t": "Türkei | Çanakkale Merkez"
+  },
+  {
+    "en": "Çankaya",
+    "en:t": "Turkey | Ankara",
+    "a": true,
+    "g": {
+      "lat": 39.8452,
+      "lon": 32.9212
+    },
+    "it": "Çankaya",
+    "it:t": "Turchia | Ankara",
+    "es": "Çankaya",
+    "es:t": "Turquía | Ankara",
+    "de": "Çankaya",
+    "de:t": "Türkei | Ankara"
+  },
+  {
+    "en": "Çankırı",
+    "en:t": "Turkey | Çankırı Merkez",
+    "a": true,
+    "g": {
+      "lat": 40.6002,
+      "lon": 33.6162
+    },
+    "it": "Çankırı",
+    "it:t": "Turchia | Çankırı Merkez",
+    "es": "Çankırı",
+    "es:t": "Turquía | Çankırı Merkez",
+    "de": "Çankırı",
+    "de:t": "Türkei | Çankırı Merkez"
+  },
+  {
+    "en": "Çarşamba",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 41.1985,
+      "lon": 36.7218
+    },
+    "it": "Çarşamba",
+    "it:t": "Turchia",
+    "es": "Çarşamba",
+    "es:t": "Turquía",
+    "de": "Çarşamba",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Çatalca",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 41.1423,
+      "lon": 28.4575
+    },
+    "it": "Çatalca",
+    "it:t": "Turchia",
+    "es": "Çatalca",
+    "es:t": "Turquía",
+    "de": "Çatalca",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Çay",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 38.5923,
+      "lon": 31.026
+    },
+    "it": "Çay",
+    "it:t": "Turchia",
+    "es": "Çay",
+    "es:t": "Turquía",
+    "de": "Çay",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Çaycuma",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 41.4286,
+      "lon": 32.0772
+    },
+    "it": "Çaycuma",
+    "it:t": "Turchia",
+    "es": "Çaycuma",
+    "es:t": "Turquía",
+    "de": "Çaycuma",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Çayeli",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 41.0902,
+      "lon": 40.7275
+    },
+    "it": "Çayeli",
+    "it:t": "Turchia",
+    "es": "Çayeli",
+    "es:t": "Turquía",
+    "de": "Çayeli",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Çağlayancerit",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 37.7192,
+      "lon": 37.34
+    },
+    "it": "Çağlayancerit",
+    "it:t": "Turchia",
+    "es": "Çağlayancerit",
+    "es:t": "Turquía",
+    "de": "Çağlayancerit",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Çerkezköy",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 41.2824,
+      "lon": 28.0006
+    },
+    "it": "Çerkezköy",
+    "it:t": "Turchia",
+    "es": "Çerkezköy",
+    "es:t": "Turquía",
+    "de": "Çerkezköy",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Çerkeş",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 40.8113,
+      "lon": 32.8911
+    },
+    "it": "Çerkeş",
+    "it:t": "Turchia",
+    "es": "Çerkeş",
+    "es:t": "Turquía",
+    "de": "Çerkeş",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Çermik",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 38.1351,
+      "lon": 39.4561
+    },
+    "it": "Çermik",
+    "it:t": "Turchia",
+    "es": "Çermik",
+    "es:t": "Turquía",
+    "de": "Çermik",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Çeşme",
+    "en:t": "Turkey | Ovacık Mahallesi",
+    "a": true,
+    "g": {
+      "lat": 38.3243,
+      "lon": 26.3032
+    },
+    "it": "Çeşme",
+    "it:t": "Turchia | Ovacık Mahallesi",
+    "es": "Çeşme",
+    "es:t": "Turquía | Ovacık Mahallesi",
+    "de": "Çeşme",
+    "de:t": "Türkei | Ovacık Mahallesi"
+  },
+  {
+    "en": "Çine",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 37.6141,
+      "lon": 28.0611
+    },
+    "it": "Çine",
+    "it:t": "Turchia",
+    "es": "Çine",
+    "es:t": "Turquía",
+    "de": "Çine",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Çorlu",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 41.1558,
+      "lon": 27.8137
+    },
+    "it": "Çorlu",
+    "it:t": "Turchia",
+    "es": "Corlu",
+    "es:t": "Turquía",
+    "de": "Çorlu",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Çorum",
+    "en:t": "Turkey | Çorum Merkez",
+    "a": true,
+    "g": {
+      "lat": 40.5499,
+      "lon": 34.9537
+    },
+    "it": "Çorum",
+    "it:t": "Turchia | Çorum Merkez",
+    "es": "Corum",
+    "es:t": "Turquía | Çorum Merkez",
+    "de": "Çorum",
+    "de:t": "Türkei | Çorum Merkez"
+  },
+  {
+    "en": "Çubuk",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 40.2387,
+      "lon": 33.0327
+    },
+    "it": "Çubuk",
+    "it:t": "Turchia",
+    "es": "Çubuk",
+    "es:t": "Turquía",
+    "de": "Çubuk",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Çumra",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 37.5739,
+      "lon": 32.781
+    },
+    "it": "Çumra",
+    "it:t": "Turchia",
+    "es": "Çumra",
+    "es:t": "Turquía",
+    "de": "Çumra",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Ödemiş",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 38.2283,
+      "lon": 27.9748
+    },
+    "it": "Ödemiş",
+    "it:t": "Turchia",
+    "es": "Ödemiş",
+    "es:t": "Turquía",
+    "de": "Ödemiş",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Ünye",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 41.1272,
+      "lon": 37.2886
+    },
+    "it": "Ünye",
+    "it:t": "Turchia",
+    "es": "Ünye",
+    "es:t": "Turquía",
+    "de": "Ünye",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Ürgüp",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 38.6312,
+      "lon": 34.9122
+    },
+    "it": "Ürgüp",
+    "it:t": "Turchia",
+    "es": "Ürgüp",
+    "es:t": "Turquía",
+    "de": "Ürgüp",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Üsküdar",
+    "en:t": "Turkey | Istanbul",
+    "a": true,
+    "g": {
+      "lat": 41.0189,
+      "lon": 29.0576
+    },
+    "it": "Scutari",
+    "it:t": "Turchia | Istanbul",
+    "es": "Üsküdar",
+    "es:t": "Turquía | Estambul",
+    "de": "Üsküdar",
+    "de:t": "Türkei | Istanbul"
+  },
+  {
+    "en": "Üzümlü",
+    "en:t": "Turkey | Erzincan",
+    "a": true,
+    "g": {
+      "lat": 39.6899,
+      "lon": 39.7197
+    },
+    "it": "Üzümlü",
+    "it:t": "Turchia | Erzincan",
+    "es": "Üzümlü",
+    "es:t": "Turquía | Erzincan",
+    "de": "Üzümlü",
+    "de:t": "Türkei | Erzincan"
+  },
+  {
+    "en": "İdil",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 37.3201,
+      "lon": 41.794
+    },
+    "it": "İdil",
+    "it:t": "Turchia",
+    "es": "İdil",
+    "es:t": "Turquía",
+    "de": "İdil",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "İnegöl",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 40.0801,
+      "lon": 29.5097
+    },
+    "it": "Bursa",
+    "it:t": "Turchia",
+    "es": "İnegöl",
+    "es:t": "Turquía",
+    "de": "İnegöl",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "İskilip",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 40.7306,
+      "lon": 34.471
+    },
+    "it": "İskilip",
+    "it:t": "Turchia",
+    "es": "İskilip",
+    "es:t": "Turquía",
+    "de": "İskilip",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Şanlıurfa",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 37.1674,
+      "lon": 38.7955
+    },
+    "it": "Şanlıurfa",
+    "it:t": "Turchia",
+    "es": "Sanliurfa",
+    "es:t": "Turquía",
+    "de": "Şanlıurfa",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Şarkikaraağaç",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 38.0798,
+      "lon": 31.3618
+    },
+    "it": "Şarkikaraağaç",
+    "it:t": "Turchia",
+    "es": "Şarkikaraağaç",
+    "es:t": "Turquía",
+    "de": "Şarkikaraağaç",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Şarkışla",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 39.3502,
+      "lon": 36.4078
+    },
+    "it": "Şarkışla",
+    "it:t": "Turchia",
+    "es": "Şarkışla",
+    "es:t": "Turquía",
+    "de": "Şarkışla",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Şebinkarahisar",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 40.2885,
+      "lon": 38.4222
+    },
+    "it": "Şebinkarahisar",
+    "it:t": "Turchia",
+    "es": "Şebinkarahisar",
+    "es:t": "Turquía",
+    "de": "Şebinkarahisar",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Şemdinli",
+    "en:t": "Turkey | Hakkâri",
+    "a": true,
+    "g": {
+      "lat": 37.3026,
+      "lon": 44.5309
+    },
+    "it": "Şemdinli",
+    "it:t": "Turchia | Hakkâri",
+    "es": "Şemdinli",
+    "es:t": "Turquía | Hakkâri",
+    "de": "Şemdinli",
+    "de:t": "Türkei | Hakkâri"
+  },
+  {
+    "en": "Şereflikoçhisar",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 38.9379,
+      "lon": 33.5392
+    },
+    "it": "Şereflikoçhisar",
+    "it:t": "Turchia",
+    "es": "Şereflikoçhisar",
+    "es:t": "Turquía",
+    "de": "Şereflikoçhisar",
+    "de:t": "Türkei"
+  },
+  {
+    "en": "Şırnak",
+    "en:t": "Turkey",
+    "a": true,
+    "g": {
+      "lat": 37.519,
+      "lon": 42.4537
+    },
+    "it": "Şırnak",
+    "it:t": "Turchia",
+    "es": "Şırnak",
+    "es:t": "Turquía",
+    "de": "Şırnak",
+    "de:t": "Türkei"
+  }
+]

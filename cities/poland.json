@@ -1,0 +1,4907 @@
+[
+    {
+        "en": "Aleksandrow Lodzki",
+        "en:t": "Poland | Zgierz",
+        "a": true,
+        "g": {
+            "lat": 51.8194,
+            "lon": 19.3038
+        },
+        "it": "Aleksandrow Lodzki",
+        "it:t": "Polonia | Zgierz",
+        "es": "Aleksandr\u00f3w \u0141\u00f3dzki",
+        "es:t": "Polonia | Zgierz",
+        "de": "Aleksandr\u00f3w \u0141\u00f3dzki",
+        "de:t": "Polen | Powiat Zgierski"
+    },
+    {
+        "en": "Andrych\u00f3w",
+        "en:t": "Poland | Wadowice",
+        "a": true,
+        "g": {
+            "lat": 49.8549,
+            "lon": 19.3413
+        },
+        "it": "Andrych\u00f3w",
+        "it:t": "Polonia | Wadowice",
+        "es": "Andrych\u00f3w",
+        "es:t": "Polonia | Wadowice",
+        "de": "Andrych\u00f3w",
+        "de:t": "Polen | Wadowice"
+    },
+    {
+        "en": "Augustow",
+        "en:t": "Poland",
+        "a": true,
+        "g": {
+            "lat": 53.8434,
+            "lon": 22.9796
+        },
+        "it": "August\u00f3w",
+        "it:t": "Polonia",
+        "es": "Augustow",
+        "es:t": "Polonia",
+        "de": "August\u00f3w",
+        "de:t": "Polen"
+    },
+    {
+        "en": "Bartoszyce",
+        "en:t": "Poland",
+        "a": true,
+        "g": {
+            "lat": 54.2533,
+            "lon": 20.8081
+        },
+        "it": "Bartoszyce",
+        "it:t": "Polonia",
+        "es": "Bartoszyce",
+        "es:t": "Polonia",
+        "de": "Bartoszyce",
+        "de:t": "Polen"
+    },
+    {
+        "en": "Belchatow",
+        "en:t": "Poland | Be\u0142chat\u00f3w",
+        "a": true,
+        "g": {
+            "lat": 51.3688,
+            "lon": 19.3564
+        },
+        "it": "Be\u0142chat\u00f3w",
+        "it:t": "Polonia | Be\u0142chat\u00f3w",
+        "es": "Be\u0142chat\u00f3w",
+        "es:t": "Polonia | Be\u0142chat\u00f3w",
+        "de": "Be\u0142chat\u00f3w",
+        "de:t": "Polen | Powiat Be\u0142chatowski"
+    },
+    {
+        "en": "Bemowo",
+        "en:t": "Poland | Warsaw",
+        "a": true,
+        "g": {
+            "lat": 52.2409,
+            "lon": 20.9113
+        },
+        "it": "Bemowo",
+        "it:t": "Polonia | Varsavia",
+        "es": "Bemowo",
+        "es:t": "Polonia | Varsovia",
+        "de": "Bemowo",
+        "de:t": "Polen | Warschau"
+    },
+    {
+        "en": "Biala Podlaska",
+        "en:t": "Poland | Bia\u0142a Podlaska",
+        "a": true,
+        "g": {
+            "lat": 52.0387,
+            "lon": 23.1445
+        },
+        "it": "Bia\u0142a Podlaska",
+        "it:t": "Polonia | Bia\u0142a Podlaska",
+        "es": "Bia\u0142a Podlaska",
+        "es:t": "Polonia | Bia\u0142a Podlaska",
+        "de": "Bia\u0142a Podlaska",
+        "de:t": "Polen | Powiat Grodzki Bialski"
+    },
+    {
+        "en": "Bialogard",
+        "en:t": "Poland | Bia\u0142ogard",
+        "a": true,
+        "g": {
+            "lat": 54.0029,
+            "lon": 15.9921
+        },
+        "it": "Bia\u0142ogard",
+        "it:t": "Polonia | Bia\u0142ogard",
+        "es": "Bialogard",
+        "es:t": "Polonia | Bia\u0142ogard",
+        "de": "Bia\u0142ogard",
+        "de:t": "Polen | Powiat Bia\u0142ogardzki"
+    },
+    {
+        "en": "Bialystok",
+        "en:t": "Poland | Bia\u0142ystok",
+        "a": true,
+        "g": {
+            "lat": 53.1325,
+            "lon": 23.1688
+        },
+        "it": "Bia\u0142ystok",
+        "it:t": "Polonia | Bia\u0142ystok",
+        "es": "Bia\u0142ystok",
+        "es:t": "Polonia | Bia\u0142ystok",
+        "de": "Bia\u0142ystok",
+        "de:t": "Polen | Powiat Bia\u0142ostocki"
+    },
+    {
+        "en": "Bia\u0142o\u0142\u0119ka",
+        "en:t": "Poland | Warsaw",
+        "a": true,
+        "g": {
+            "lat": 52.329,
+            "lon": 21.0077
+        },
+        "it": "Bia\u0142o\u0142\u0119ka",
+        "it:t": "Polonia | Varsavia",
+        "es": "Bia\u0142o\u0142\u0119ka",
+        "es:t": "Polonia | Varsovia",
+        "de": "Bia\u0142o\u0142\u0119ka",
+        "de:t": "Polen | Warschau"
+    },
+    {
+        "en": "Bielany",
+        "en:t": "Poland | Warsaw",
+        "a": true,
+        "g": {
+            "lat": 52.2933,
+            "lon": 20.9287
+        },
+        "it": "Bielany",
+        "it:t": "Polonia | Varsavia",
+        "es": "Bielany",
+        "es:t": "Polonia | Varsovia",
+        "de": "Bielany",
+        "de:t": "Polen | Warschau"
+    },
+    {
+        "en": "Bielawa",
+        "en:t": "Poland | Dzier\u017coni\u00f3w",
+        "a": true,
+        "g": {
+            "lat": 50.6908,
+            "lon": 16.6229
+        },
+        "it": "Bielawa",
+        "it:t": "Polonia | Dzier\u017coni\u00f3w",
+        "es": "Bielawa",
+        "es:t": "Polonia | Dzier\u017coni\u00f3w",
+        "de": "Bielawa",
+        "de:t": "Polen | Powiat Dzier\u017coniowski"
+    },
+    {
+        "en": "Bielsk Podlaski",
+        "en:t": "Poland | Bielsk",
+        "a": true,
+        "g": {
+            "lat": 52.7651,
+            "lon": 23.1868
+        },
+        "it": "Bielsk Podlaski",
+        "it:t": "Polonia | Bielsk",
+        "es": "Bielsk Podlaski",
+        "es:t": "Polonia | Bielsk",
+        "de": "Bielsk Podlaski",
+        "de:t": "Polen | Powiat Bielski"
+    },
+    {
+        "en": "Bielsko-Biala",
+        "en:t": "Poland",
+        "a": true,
+        "g": {
+            "lat": 49.8224,
+            "lon": 19.0584
+        },
+        "it": "Bielsko-biala",
+        "it:t": "Polonia",
+        "es": "Bielsko-Bia\u0142a",
+        "es:t": "Polonia",
+        "de": "Bielsko-Bia\u0142a",
+        "de:t": "Polen"
+    },
+    {
+        "en": "Bieru\u0144",
+        "en:t": "Poland | Bieru\u0144-L\u0119dziny",
+        "a": true,
+        "g": {
+            "lat": 50.09,
+            "lon": 19.0929
+        },
+        "it": "Bieru\u0144",
+        "it:t": "Polonia | Bieru\u0144",
+        "es": "Bieru\u0144",
+        "es:t": "Polonia | Bieru\u0144-L\u0119dziny",
+        "de": "Bieru\u0144",
+        "de:t": "Polen | Powiat Bieru\u0144sko-L\u0119dzi\u0144ski"
+    },
+    {
+        "en": "Bilgoraj",
+        "en:t": "Poland | Bi\u0142goraj",
+        "a": true,
+        "g": {
+            "lat": 50.541,
+            "lon": 22.722
+        },
+        "it": "Bi\u0142goraj",
+        "it:t": "Polonia | Bi\u0142goraj",
+        "es": "Bi\u0142goraj",
+        "es:t": "Polonia | Bi\u0142goraj",
+        "de": "Bi\u0142goraj",
+        "de:t": "Polen | Powiat Bi\u0142gorajski"
+    },
+    {
+        "en": "Bochnia",
+        "en:t": "Poland | Bochnia",
+        "a": true,
+        "g": {
+            "lat": 49.9685,
+            "lon": 20.4303
+        },
+        "it": "Bochnia",
+        "it:t": "Polonia | Bochnia",
+        "es": "Bochnia",
+        "es:t": "Polonia | Bochnia",
+        "de": "Bochnia",
+        "de:t": "Polen | Powiat Boche\u0144ski"
+    },
+    {
+        "en": "Bogatynia",
+        "en:t": "Poland | Zgorzelec",
+        "a": true,
+        "g": {
+            "lat": 50.9072,
+            "lon": 14.9561
+        },
+        "it": "Bogatynia",
+        "it:t": "Polonia | Zgorzelec",
+        "es": "Bogatynia",
+        "es:t": "Polonia | Zgorzelec",
+        "de": "Bogatynia",
+        "de:t": "Polen | Powiat Zgorzelecki"
+    },
+    {
+        "en": "Bogusz\u00f3w-Gorce",
+        "en:t": "Poland | Wa\u0142brzych",
+        "a": true,
+        "g": {
+            "lat": 50.7559,
+            "lon": 16.2043
+        },
+        "it": "Bogusz\u00f3w-Gorce",
+        "it:t": "Polonia | Wa\u0142brzych",
+        "es": "Bogusz\u00f3w-Gorce",
+        "es:t": "Polonia | Wa\u0142brzych",
+        "de": "Bogusz\u00f3w-Gorce",
+        "de:t": "Polen | Powiat Wa\u0142brzyski"
+    },
+    {
+        "en": "Boles\u0142awiec",
+        "en:t": "Poland | Boles\u0142awiec",
+        "a": true,
+        "g": {
+            "lat": 51.2659,
+            "lon": 15.5657
+        },
+        "it": "Boles\u0142awiec",
+        "it:t": "Polonia | Boles\u0142awiec",
+        "es": "Boles\u0142awiec",
+        "es:t": "Polonia | Boles\u0142awiec",
+        "de": "Bunzlau",
+        "de:t": "Polen | Powiat Boles\u0142awiecki"
+    },
+    {
+        "en": "Braniewo",
+        "en:t": "Poland | Braniewo",
+        "a": true,
+        "g": {
+            "lat": 54.3797,
+            "lon": 19.8201
+        },
+        "it": "Braniewo",
+        "it:t": "Polonia | Braniewo",
+        "es": "Braniewo",
+        "es:t": "Polonia | Braniewo",
+        "de": "Braniewo",
+        "de:t": "Polen | Powiat Braniewski"
+    },
+    {
+        "en": "Brodnica",
+        "en:t": "Poland | Brodnica",
+        "a": true,
+        "g": {
+            "lat": 53.26,
+            "lon": 19.3957
+        },
+        "it": "Brodnica",
+        "it:t": "Polonia | Brodnica",
+        "es": "Brodnica",
+        "es:t": "Polonia | Brodnica",
+        "de": "Brodnica",
+        "de:t": "Polen | Powiat Brodnicki"
+    },
+    {
+        "en": "Brzeg",
+        "en:t": "Poland | Brzeg",
+        "a": true,
+        "g": {
+            "lat": 50.8609,
+            "lon": 17.4668
+        },
+        "it": "Brzeg",
+        "it:t": "Polonia | Brzeg",
+        "es": "Brzeg",
+        "es:t": "Polonia | Brzeg",
+        "de": "Brieg",
+        "de:t": "Polen | Powiat Brzeski"
+    },
+    {
+        "en": "Brzesko",
+        "en:t": "Poland | Brzesko",
+        "a": true,
+        "g": {
+            "lat": 49.9647,
+            "lon": 20.6034
+        },
+        "it": "Brzesko",
+        "it:t": "Polonia | Brzesko",
+        "es": "Brzesko",
+        "es:t": "Polonia | Brzesko",
+        "de": "Brzesko",
+        "de:t": "Polen | Powiat Brzeski"
+    },
+    {
+        "en": "Busko-Zdr\u00f3j",
+        "en:t": "Poland | Busko",
+        "a": true,
+        "g": {
+            "lat": 50.4704,
+            "lon": 20.7192
+        },
+        "it": "Busko-Zdroj",
+        "it:t": "Polonia | Busko-Zdr\u00f3j",
+        "es": "Busko-Zdr\u00f3j",
+        "es:t": "Polonia | Busko",
+        "de": "Busko-Zdr\u00f3j",
+        "de:t": "Polen | Powiat Buski"
+    },
+    {
+        "en": "Bydgoszcz",
+        "en:t": "Poland | Bydgoszcz",
+        "a": true,
+        "g": {
+            "lat": 53.1235,
+            "lon": 18.0084
+        },
+        "it": "Bydgoszcz",
+        "it:t": "Polonia | Bydgoszcz",
+        "es": "Bydgoszcz",
+        "es:t": "Polonia | Bydgoszcz",
+        "de": "Bydgoszcz",
+        "de:t": "Polen | Powiat Bydgoski"
+    },
+    {
+        "en": "Bytom",
+        "en:t": "Poland",
+        "a": true,
+        "g": {
+            "lat": 50.3484,
+            "lon": 18.9157
+        },
+        "it": "Bytom",
+        "it:t": "Polonia",
+        "es": "Bytom",
+        "es:t": "Polonia",
+        "de": "Bytom",
+        "de:t": "Polen"
+    },
+    {
+        "en": "Byt\u00f3w",
+        "en:t": "Poland | Byt\u00f3w",
+        "a": true,
+        "g": {
+            "lat": 54.1706,
+            "lon": 17.4916
+        },
+        "it": "Byt\u00f3w",
+        "it:t": "Polonia | Byt\u00f3w",
+        "es": "Byt\u00f3w",
+        "es:t": "Polonia | Byt\u00f3w",
+        "de": "B\u00fctow",
+        "de:t": "Polen | Powiat Bytowski"
+    },
+    {
+        "en": "B\u0119dzin",
+        "en:t": "Poland | B\u0119dzin",
+        "a": true,
+        "g": {
+            "lat": 50.3256,
+            "lon": 19.1254
+        },
+        "it": "B\u0119dzin",
+        "it:t": "Polonia | B\u0119dzin",
+        "es": "B\u0119dzin",
+        "es:t": "Polonia | B\u0119dzin",
+        "de": "B\u0119dzin",
+        "de:t": "Polen | Powiat B\u0119dzi\u0144ski"
+    },
+    {
+        "en": "Chelm",
+        "en:t": "Poland | Che\u0142m",
+        "a": true,
+        "g": {
+            "lat": 51.1431,
+            "lon": 23.4712
+        },
+        "it": "Che\u0142m",
+        "it:t": "Polonia | Che\u0142m",
+        "es": "Che\u0142m",
+        "es:t": "Polonia | Che\u0142m",
+        "de": "Che\u0142m",
+        "de:t": "Polen | Powiat Che\u0142mski"
+    },
+    {
+        "en": "Che\u0142mno",
+        "en:t": "Poland | Che\u0142mno",
+        "a": true,
+        "g": {
+            "lat": 53.3484,
+            "lon": 18.425
+        },
+        "it": "Che\u0142mno",
+        "it:t": "Polonia | Che\u0142mno",
+        "es": "Chelmno",
+        "es:t": "Polonia | Che\u0142mno",
+        "de": "Che\u0142mno",
+        "de:t": "Polen | Powiat Che\u0142mi\u0144ski"
+    },
+    {
+        "en": "Che\u0142m\u017ca",
+        "en:t": "Poland | Toru\u0144ski",
+        "a": true,
+        "g": {
+            "lat": 53.1845,
+            "lon": 18.6046
+        },
+        "it": "Che\u0142m\u017ca",
+        "it:t": "Polonia | Toru\u0144ski",
+        "es": "Che\u0142m\u017ca",
+        "es:t": "Polonia | Toru\u0144ski",
+        "de": "Che\u0142m\u017ca",
+        "de:t": "Polen | Toru\u0144ski"
+    },
+    {
+        "en": "Chodziez",
+        "en:t": "Poland | Chodzie\u017c",
+        "a": true,
+        "g": {
+            "lat": 52.9953,
+            "lon": 16.9198
+        },
+        "it": "Chodzie\u017c",
+        "it:t": "Polonia | Chodzie\u017c",
+        "es": "Chodzie\u017c",
+        "es:t": "Polonia | Chodzie\u017c",
+        "de": "Chodzie\u017c",
+        "de:t": "Polen | Powiat Chodzieski"
+    },
+    {
+        "en": "Chojnice",
+        "en:t": "Poland | Chojnice",
+        "a": true,
+        "g": {
+            "lat": 53.6944,
+            "lon": 17.5569
+        },
+        "it": "Chojnice",
+        "it:t": "Polonia | Chojnice",
+        "es": "Chojnice",
+        "es:t": "Polonia | Chojnice",
+        "de": "Konitz",
+        "de:t": "Polen | Powiat Chojnicki"
+    },
+    {
+        "en": "Chorzow",
+        "en:t": "Poland | Chorz\u00f3w",
+        "a": true,
+        "g": {
+            "lat": 50.2975,
+            "lon": 18.9546
+        },
+        "it": "Chorz\u00f3w",
+        "it:t": "Polonia",
+        "es": "Chorz\u00f3w",
+        "es:t": "Polonia",
+        "de": "Chorz\u00f3w",
+        "de:t": "Polen"
+    },
+    {
+        "en": "Choszczno",
+        "en:t": "Poland | Choszczno",
+        "a": true,
+        "g": {
+            "lat": 53.1693,
+            "lon": 15.4197
+        },
+        "it": "Choszczno",
+        "it:t": "Polonia | Choszczno",
+        "es": "Choszczno",
+        "es:t": "Polonia | Choszczno",
+        "de": "Choszczno",
+        "de:t": "Polen | Powiat Choszcze\u0144ski"
+    },
+    {
+        "en": "Chrzanow",
+        "en:t": "Poland | Chrzan\u00f3w",
+        "a": true,
+        "g": {
+            "lat": 50.1346,
+            "lon": 19.4002
+        },
+        "it": "Chrzan\u00f3w",
+        "it:t": "Polonia | Chrzan\u00f3w",
+        "es": "Chrzan\u00f3w",
+        "es:t": "Polonia | Chrzan\u00f3w",
+        "de": "Chrzan\u00f3w",
+        "de:t": "Polen | Powiat Chrzanowski"
+    },
+    {
+        "en": "Ciechanow",
+        "en:t": "Poland | Ciechan\u00f3w",
+        "a": true,
+        "g": {
+            "lat": 52.8815,
+            "lon": 20.6198
+        },
+        "it": "Ciechan\u00f3w",
+        "it:t": "Polonia | Ciechan\u00f3w",
+        "es": "Ciechan\u00f3w",
+        "es:t": "Polonia | Ciechan\u00f3w",
+        "de": "Ciechan\u00f3w",
+        "de:t": "Polen | Powiat Ciechanowski"
+    },
+    {
+        "en": "Cieszyn",
+        "en:t": "Poland | Cieszyn",
+        "a": true,
+        "g": {
+            "lat": 49.7498,
+            "lon": 18.6355
+        },
+        "it": "Cieszyn",
+        "it:t": "Polonia | Cieszyn",
+        "es": "Cieszyn",
+        "es:t": "Polonia | Cieszyn",
+        "de": "Cieszyn",
+        "de:t": "Polen | Powiat Cieszy\u0144ski"
+    },
+    {
+        "en": "Czechowice-Dziedzice",
+        "en:t": "Poland | Bielsko",
+        "a": true,
+        "g": {
+            "lat": 49.9016,
+            "lon": 18.9918
+        },
+        "it": "Czechowice-Dziedzice",
+        "it:t": "Polonia | Bielsko-Bia\u0142a",
+        "es": "Czechowice-Dziedzice",
+        "es:t": "Polonia | Bielsko",
+        "de": "Czechowice-Dziedzice",
+        "de:t": "Polen | Powiat Bielski"
+    },
+    {
+        "en": "Czeladz",
+        "en:t": "Poland | B\u0119dzin",
+        "a": true,
+        "g": {
+            "lat": 50.3173,
+            "lon": 19.0704
+        },
+        "it": "Czelad\u017a",
+        "it:t": "Polonia | B\u0119dzin",
+        "es": "Czelad\u017a",
+        "es:t": "Polonia | B\u0119dzin",
+        "de": "Czelad\u017a",
+        "de:t": "Polen | Powiat B\u0119dzi\u0144ski"
+    },
+    {
+        "en": "Czerwionka-Leszczyny",
+        "en:t": "Poland | Rybnicki",
+        "a": true,
+        "g": {
+            "lat": 50.1489,
+            "lon": 18.6775
+        },
+        "it": "Czerwionka-Leszczyny",
+        "it:t": "Polonia | Rybnicki",
+        "es": "Czerwionka-Leszczyny",
+        "es:t": "Polonia | Rybnicki",
+        "de": "Czerwionka-Leszczyny",
+        "de:t": "Polen | Rybnicki"
+    },
+    {
+        "en": "Cz\u0119stochowa",
+        "en:t": "Poland | Cz\u0119stochowa",
+        "a": true,
+        "g": {
+            "lat": 50.8118,
+            "lon": 19.1203
+        },
+        "it": "Cz\u0119stochowa",
+        "it:t": "Polonia | Cz\u0119stochowa",
+        "es": "Cz\u0119stochowa",
+        "es:t": "Polonia | Cz\u0119stochowa",
+        "de": "Cz\u0119stochowa",
+        "de:t": "Polen | Powiat Cz\u0119stochowski"
+    },
+    {
+        "en": "Dabrowa Gornicza",
+        "en:t": "Poland",
+        "a": true,
+        "g": {
+            "lat": 50.3217,
+            "lon": 19.1949
+        },
+        "it": "D\u0105browa G\u00f3rnicza",
+        "it:t": "Polonia",
+        "es": "D\u0105browa G\u00f3rnicza",
+        "es:t": "Polonia",
+        "de": "D\u0105browa G\u00f3rnicza",
+        "de:t": "Polen"
+    },
+    {
+        "en": "Debica",
+        "en:t": "Poland | D\u0119bica",
+        "a": true,
+        "g": {
+            "lat": 50.0516,
+            "lon": 21.4117
+        },
+        "it": "D\u0119bica",
+        "it:t": "Polonia | D\u0119bica",
+        "es": "Debica",
+        "es:t": "Polonia | D\u0119bica",
+        "de": "D\u0119bica",
+        "de:t": "Polen | Powiat D\u0119bicki"
+    },
+    {
+        "en": "Deblin",
+        "en:t": "Poland | Ryki",
+        "a": true,
+        "g": {
+            "lat": 51.5627,
+            "lon": 21.8653
+        },
+        "it": "D\u0119blin",
+        "it:t": "Polonia | Ryki",
+        "es": "Deblin",
+        "es:t": "Polonia | Ryki",
+        "de": "D\u0119blin",
+        "de:t": "Polen | Powiat Rycki"
+    },
+    {
+        "en": "Dzialdowo",
+        "en:t": "Poland | Dzia\u0142dowo",
+        "a": true,
+        "g": {
+            "lat": 53.2357,
+            "lon": 20.18
+        },
+        "it": "Dzia\u0142dowo",
+        "it:t": "Polonia | Dzia\u0142dowo",
+        "es": "Dzialdowo",
+        "es:t": "Polonia | Dzia\u0142dowo",
+        "de": "Dzia\u0142dowo",
+        "de:t": "Polen | Powiat Dzia\u0142dowski"
+    },
+    {
+        "en": "Dzier\u017coni\u00f3w",
+        "en:t": "Poland | Dzier\u017coni\u00f3w",
+        "a": true,
+        "g": {
+            "lat": 50.7309,
+            "lon": 16.6568
+        },
+        "it": "Dzier\u017coni\u00f3w",
+        "it:t": "Polonia | Dzier\u017coni\u00f3w",
+        "es": "Dzier\u017coni\u00f3w",
+        "es:t": "Polonia | Dzier\u017coni\u00f3w",
+        "de": "Dzier\u017coni\u00f3w",
+        "de:t": "Polen | Powiat Dzier\u017coniowski"
+    },
+    {
+        "en": "Elblag",
+        "en:t": "Poland",
+        "a": true,
+        "g": {
+            "lat": 54.1561,
+            "lon": 19.4045
+        },
+        "it": "Elbl\u0105g",
+        "it:t": "Polonia",
+        "es": "Elbl\u0105g",
+        "es:t": "Polonia",
+        "de": "Elbl\u0105g",
+        "de:t": "Polen"
+    },
+    {
+        "en": "Elk",
+        "en:t": "Poland | E\u0142k",
+        "a": true,
+        "g": {
+            "lat": 53.8281,
+            "lon": 22.3647
+        },
+        "it": "E\u0142k",
+        "it:t": "Polonia | E\u0142k",
+        "es": "E\u0142k",
+        "es:t": "Polonia | E\u0142k",
+        "de": "E\u0142k",
+        "de:t": "Polen | Powiat E\u0142cki"
+    },
+    {
+        "en": "Fordon",
+        "en:t": "Poland | Bydgoszcz",
+        "a": true,
+        "g": {
+            "lat": 53.1542,
+            "lon": 18.1611
+        },
+        "it": "Fordon",
+        "it:t": "Polonia | Bydgoszcz",
+        "es": "Fordon",
+        "es:t": "Polonia | Bydgoszcz",
+        "de": "Fordon",
+        "de:t": "Polen | Bydgoszcz"
+    },
+    {
+        "en": "Garwolin",
+        "en:t": "Poland | Garwolin",
+        "a": true,
+        "g": {
+            "lat": 51.8972,
+            "lon": 21.6149
+        },
+        "it": "Garwolin",
+        "it:t": "Polonia | Garwolin",
+        "es": "Garwolin",
+        "es:t": "Polonia | Garwolin",
+        "de": "Garwolin",
+        "de:t": "Polen | Powiat Garwoli\u0144ski"
+    },
+    {
+        "en": "Gda\u0144sk",
+        "en:t": "Poland",
+        "a": true,
+        "g": {
+            "lat": 54.352,
+            "lon": 18.6466
+        },
+        "it": "Danzica",
+        "it:t": "Polonia",
+        "es": "Gdansk",
+        "es:t": "Polonia",
+        "de": "Danzig",
+        "de:t": "Polen"
+    },
+    {
+        "en": "Gdynia",
+        "en:t": "Poland",
+        "a": true,
+        "g": {
+            "lat": 54.5189,
+            "lon": 18.5305
+        },
+        "it": "Gdynia",
+        "it:t": "Polonia",
+        "es": "Gdynia",
+        "es:t": "Polonia",
+        "de": "Gdynia",
+        "de:t": "Polen"
+    },
+    {
+        "en": "Gier\u0142o\u017c",
+        "en:t": "Poland | K\u0119trzyn",
+        "a": true,
+        "g": {
+            "lat": 54.081,
+            "lon": 21.4937
+        },
+        "it": "Gier\u0142o\u017c",
+        "it:t": "Polonia | K\u0119trzyn",
+        "es": "Gier\u0142o\u017c",
+        "es:t": "Polonia | K\u0119trzyn",
+        "de": "Gier\u0142o\u017c",
+        "de:t": "Polen | Powiat K\u0119trzy\u0144ski"
+    },
+    {
+        "en": "Gizycko",
+        "en:t": "Poland | Gi\u017cycko",
+        "a": true,
+        "g": {
+            "lat": 54.0364,
+            "lon": 21.7667
+        },
+        "it": "Gi\u017cycko",
+        "it:t": "Polonia | Gi\u017cycko",
+        "es": "Gizycko",
+        "es:t": "Polonia | Gi\u017cycko",
+        "de": "L\u00f6tzen",
+        "de:t": "Polen | Powiat Gi\u017cycki"
+    },
+    {
+        "en": "Gliwice",
+        "en:t": "Poland | Gliwice",
+        "a": true,
+        "g": {
+            "lat": 50.2945,
+            "lon": 18.6714
+        },
+        "it": "Gliwice",
+        "it:t": "Polonia | Gliwice",
+        "es": "Gliwice",
+        "es:t": "Polonia | Gliwice",
+        "de": "Gliwice",
+        "de:t": "Polen | Powiat Gliwicki"
+    },
+    {
+        "en": "Glogow",
+        "en:t": "Poland | G\u0142og\u00f3w",
+        "a": true,
+        "g": {
+            "lat": 51.6636,
+            "lon": 16.0847
+        },
+        "it": "G\u0142og\u00f3w",
+        "it:t": "Polonia | G\u0142og\u00f3w",
+        "es": "Glog\u00f3w",
+        "es:t": "Polonia | Glogovia",
+        "de": "Glogau",
+        "de:t": "Polen | Powiat G\u0142ogowski"
+    },
+    {
+        "en": "Glowno",
+        "en:t": "Poland | Zgierz",
+        "a": true,
+        "g": {
+            "lat": 51.9643,
+            "lon": 19.7157
+        },
+        "it": "G\u0142owno",
+        "it:t": "Polonia | Zgierz",
+        "es": "Glowno",
+        "es:t": "Polonia | Zgierz",
+        "de": "G\u0142owno",
+        "de:t": "Polen | Powiat Zgierski"
+    },
+    {
+        "en": "Gniezno",
+        "en:t": "Poland | Gniezno",
+        "a": true,
+        "g": {
+            "lat": 52.5349,
+            "lon": 17.5827
+        },
+        "it": "Gniezno",
+        "it:t": "Polonia | Gniezno",
+        "es": "Gniezno",
+        "es:t": "Polonia | Gniezno",
+        "de": "Gnesen",
+        "de:t": "Polen | Powiat Gnie\u017anie\u0144ski"
+    },
+    {
+        "en": "Goleni\u00f3w",
+        "en:t": "Poland | Goleni\u00f3w",
+        "a": true,
+        "g": {
+            "lat": 53.5638,
+            "lon": 14.8284
+        },
+        "it": "Goleni\u00f3w",
+        "it:t": "Polonia | Goleni\u00f3w",
+        "es": "Goleni\u00f3w",
+        "es:t": "Polonia | Goleni\u00f3w",
+        "de": "Goleni\u00f3w",
+        "de:t": "Polen | Powiat Goleniowski"
+    },
+    {
+        "en": "Gorlice",
+        "en:t": "Poland | Gorlice",
+        "a": true,
+        "g": {
+            "lat": 49.6546,
+            "lon": 21.1596
+        },
+        "it": "Gorlice",
+        "it:t": "Polonia | Gorlice",
+        "es": "Gorlice",
+        "es:t": "Polonia | Gorlice",
+        "de": "Gorlice",
+        "de:t": "Polen | Powiat Gorlicki"
+    },
+    {
+        "en": "Gorz\u00f3w Wielkopolski",
+        "en:t": "Poland | Gorz\u00f3w",
+        "a": true,
+        "g": {
+            "lat": 52.7325,
+            "lon": 15.2369
+        },
+        "it": "Gorz\u00f3w Wielkopolski",
+        "it:t": "Polonia | Gorz\u00f3w",
+        "es": "Gorz\u00f3w Wielkopolski",
+        "es:t": "Polonia | Gorz\u00f3w",
+        "de": "Gorz\u00f3w Wielkopolski",
+        "de:t": "Polen | Powiat Gorzowski"
+    },
+    {
+        "en": "Gostyn",
+        "en:t": "Poland | Gosty\u0144",
+        "a": true,
+        "g": {
+            "lat": 51.8786,
+            "lon": 17.0121
+        },
+        "it": "Gosty\u0144",
+        "it:t": "Polonia | Gosty\u0144",
+        "es": "Gosty\u0144",
+        "es:t": "Polonia | Gosty\u0144",
+        "de": "Gosty\u0144",
+        "de:t": "Polen | Powiat Gosty\u0144ski"
+    },
+    {
+        "en": "Gostynin",
+        "en:t": "Poland | Gostynin",
+        "a": true,
+        "g": {
+            "lat": 52.4293,
+            "lon": 19.4619
+        },
+        "it": "Gostynin",
+        "it:t": "Polonia | Gostynin",
+        "es": "Gostynin",
+        "es:t": "Polonia | Gostynin",
+        "de": "Gostynin",
+        "de:t": "Polen | Powiat Gostyni\u0144ski"
+    },
+    {
+        "en": "Grajewo",
+        "en:t": "Poland | Grajewo",
+        "a": true,
+        "g": {
+            "lat": 53.6472,
+            "lon": 22.4552
+        },
+        "it": "Grajewo",
+        "it:t": "Polonia | Grajewo",
+        "es": "Grajewo",
+        "es:t": "Polonia | Grajewo",
+        "de": "Grajewo",
+        "de:t": "Polen | Powiat Grajewski"
+    },
+    {
+        "en": "Greater Poland Voivodeship",
+        "en:t": "Poland",
+        "a": true,
+        "g": {
+            "lat": 52.28,
+            "lon": 17.3523
+        },
+        "it": "Sroda Wielkopolska",
+        "it:t": "Polonia",
+        "es": "\u015aroda Wielkopolska",
+        "es:t": "Polonia",
+        "de": "Schroda",
+        "de:t": "Polen"
+    },
+    {
+        "en": "Greater Poland Voivodeship",
+        "en:t": "Poland",
+        "a": true,
+        "g": {
+            "lat": 52.28,
+            "lon": 17.3523
+        },
+        "it": "Srem",
+        "it:t": "Polonia",
+        "es": "Srem",
+        "es:t": "Polonia",
+        "de": "\u015arem",
+        "de:t": "Polen"
+    },
+    {
+        "en": "Grodzisk Mazowiecki",
+        "en:t": "Poland | Grodzisk Mazowiecki",
+        "a": true,
+        "g": {
+            "lat": 52.1044,
+            "lon": 20.6351
+        },
+        "it": "Grodzisk Mazowiecki",
+        "it:t": "Polonia | Grodzisk Mazowiecki",
+        "es": "Grodzisk Mazowiecki",
+        "es:t": "Polonia | Grodzisk Mazowiecki",
+        "de": "Grodzisk Mazowiecki",
+        "de:t": "Polen | Powiat Grodziski"
+    },
+    {
+        "en": "Grudziadz",
+        "en:t": "Poland | Grudzi\u0105dz",
+        "a": true,
+        "g": {
+            "lat": 53.4837,
+            "lon": 18.7536
+        },
+        "it": "Grudzi\u0105dz",
+        "it:t": "Polonia | Grudzi\u0105dz",
+        "es": "Grudzi\u0105dz",
+        "es:t": "Polonia | Grudzi\u0105dz",
+        "de": "Grudzi\u0105dz",
+        "de:t": "Polen | Powiat Grudzi\u0105dzki"
+    },
+    {
+        "en": "Gryfice",
+        "en:t": "Poland | Gryfice",
+        "a": true,
+        "g": {
+            "lat": 53.9167,
+            "lon": 15.1999
+        },
+        "it": "Gryfice",
+        "it:t": "Polonia | Gryfice",
+        "es": "Gryfice",
+        "es:t": "Polonia | Gryfice",
+        "de": "Gryfice",
+        "de:t": "Polen | Powiat Gryficki"
+    },
+    {
+        "en": "Gryfino",
+        "en:t": "Poland | Gryfino",
+        "a": true,
+        "g": {
+            "lat": 53.2524,
+            "lon": 14.4882
+        },
+        "it": "Gryfino",
+        "it:t": "Polonia | Gryfino",
+        "es": "Gryfino",
+        "es:t": "Polonia | Gryfino",
+        "de": "Gryfino",
+        "de:t": "Polen | Powiat Gryfi\u0144ski"
+    },
+    {
+        "en": "Gubin",
+        "en:t": "Poland | Krosno Odrza\u0144skie",
+        "a": true,
+        "g": {
+            "lat": 51.949,
+            "lon": 14.7285
+        },
+        "it": "Gubin",
+        "it:t": "Polonia | Krosno Odrza\u0144skie",
+        "es": "Gubin",
+        "es:t": "Polonia | Krosno Odrza\u0144skie",
+        "de": "Gubin",
+        "de:t": "Polen | Powiat Kro\u015bnie\u0144ski"
+    },
+    {
+        "en": "G\u0142ucho\u0142azy",
+        "en:t": "Poland | Nysa",
+        "a": true,
+        "g": {
+            "lat": 50.3151,
+            "lon": 17.3835
+        },
+        "it": "G\u0142ucho\u0142azy",
+        "it:t": "Polonia | Nysa",
+        "es": "G\u0142ucho\u0142azy",
+        "es:t": "Polonia | Nysa",
+        "de": "G\u0142ucho\u0142azy",
+        "de:t": "Polen | Powiat Nyski"
+    },
+    {
+        "en": "Hajn\u00f3wka",
+        "en:t": "Poland | Hajn\u00f3wka",
+        "a": true,
+        "g": {
+            "lat": 52.7451,
+            "lon": 23.5816
+        },
+        "it": "Hajn\u00f3wka",
+        "it:t": "Polonia | Hajn\u00f3wka",
+        "es": "Hajn\u00f3wka",
+        "es:t": "Polonia | Hajn\u00f3wka",
+        "de": "Hajn\u00f3wka",
+        "de:t": "Polen | Powiat Hajnowski"
+    },
+    {
+        "en": "Hrubieszow",
+        "en:t": "Poland | Hrubiesz\u00f3w",
+        "a": true,
+        "g": {
+            "lat": 50.8052,
+            "lon": 23.8909
+        },
+        "it": "Hrubiesz\u00f3w",
+        "it:t": "Polonia | Hrubiesz\u00f3w",
+        "es": "Hrubiesz\u00f3w",
+        "es:t": "Polonia | Hrubiesz\u00f3w",
+        "de": "Hrubiesz\u00f3w",
+        "de:t": "Polen | Powiat Hrubieszowski"
+    },
+    {
+        "en": "Ilawa",
+        "en:t": "Poland | I\u0142awa",
+        "a": true,
+        "g": {
+            "lat": 53.596,
+            "lon": 19.5684
+        },
+        "it": "I\u0142awa",
+        "it:t": "Polonia | I\u0142awa",
+        "es": "I\u0142awa",
+        "es:t": "Polonia | I\u0142awa",
+        "de": "Eylau",
+        "de:t": "Polen | Powiat I\u0142awski"
+    },
+    {
+        "en": "Inowroclaw",
+        "en:t": "Poland | Inowroc\u0142aw",
+        "a": true,
+        "g": {
+            "lat": 52.7993,
+            "lon": 18.2562
+        },
+        "it": "Inowroc\u0142aw",
+        "it:t": "Polonia | Inowroc\u0142aw",
+        "es": "Inowroc\u0142aw",
+        "es:t": "Polonia | Inowroc\u0142aw",
+        "de": "Hohensalza",
+        "de:t": "Polen | Powiat Inowroc\u0142awski"
+    },
+    {
+        "en": "Jarocin",
+        "en:t": "Poland | Jarocin",
+        "a": true,
+        "g": {
+            "lat": 51.9724,
+            "lon": 17.5019
+        },
+        "it": "Jarocin",
+        "it:t": "Polonia | Jarocin",
+        "es": "Jarocin",
+        "es:t": "Polonia | Jarocin",
+        "de": "Jarocin",
+        "de:t": "Polen | Powiat Jaroci\u0144ski"
+    },
+    {
+        "en": "Jaroslaw",
+        "en:t": "Poland | Jaros\u0142aw",
+        "a": true,
+        "g": {
+            "lat": 50.0161,
+            "lon": 22.6777
+        },
+        "it": "Jaros\u0142aw",
+        "it:t": "Polonia | Jaros\u0142aw",
+        "es": "Jaros\u0142aw",
+        "es:t": "Polonia | Jaros\u0142aw",
+        "de": "Jaros\u0142aw",
+        "de:t": "Polen | Powiat Jaros\u0142awski"
+    },
+    {
+        "en": "Jaslo",
+        "en:t": "Poland | Jas\u0142o",
+        "a": true,
+        "g": {
+            "lat": 49.7446,
+            "lon": 21.4723
+        },
+        "it": "Jas\u0142o",
+        "it:t": "Polonia | Jas\u0142o",
+        "es": "Jas\u0142o",
+        "es:t": "Polonia | Jas\u0142o",
+        "de": "Jas\u0142o",
+        "de:t": "Polen | Powiat Jasielski"
+    },
+    {
+        "en": "Jastrz\u0119bie-Zdr\u00f3j",
+        "en:t": "Poland",
+        "a": true,
+        "g": {
+            "lat": 49.9454,
+            "lon": 18.6101
+        },
+        "it": "Jastrz\u0119bie-Zdr\u00f3j",
+        "it:t": "Polonia",
+        "es": "Jastrz\u0119bie-Zdr\u00f3j",
+        "es:t": "Polonia",
+        "de": "Bad K\u00f6nigsdorff-Jastrzemb",
+        "de:t": "Polen | Jastrz\u0119bie-Zdr\u00f3j"
+    },
+    {
+        "en": "Jawor",
+        "en:t": "Poland | Jawor",
+        "a": true,
+        "g": {
+            "lat": 51.0545,
+            "lon": 16.1863
+        },
+        "it": "Jawor",
+        "it:t": "Polonia | Jawor",
+        "es": "Jawor",
+        "es:t": "Polonia | Jawor",
+        "de": "Jawor",
+        "de:t": "Polen | Powiat Jaworski"
+    },
+    {
+        "en": "Jaworzno",
+        "en:t": "Poland",
+        "a": true,
+        "g": {
+            "lat": 50.205,
+            "lon": 19.2739
+        },
+        "it": "Jaworzno",
+        "it:t": "Polonia",
+        "es": "Jaworzno",
+        "es:t": "Polonia",
+        "de": "Jaworzno",
+        "de:t": "Polen"
+    },
+    {
+        "en": "Jedrzejow",
+        "en:t": "Poland | J\u0119drzej\u00f3w",
+        "a": true,
+        "g": {
+            "lat": 50.6393,
+            "lon": 20.3039
+        },
+        "it": "Jedrzejow",
+        "it:t": "Polonia | J\u0119drzej\u00f3w",
+        "es": "Jedrzejow",
+        "es:t": "Polonia | J\u0119drzej\u00f3w",
+        "de": "J\u0119drzej\u00f3w",
+        "de:t": "Polen | Powiat J\u0119drzejowski"
+    },
+    {
+        "en": "Jelcz",
+        "en:t": "Poland | Jelcz-Laskowice",
+        "a": true,
+        "g": {
+            "lat": 51.0166,
+            "lon": 17.3145
+        },
+        "it": "Jelcz",
+        "it:t": "Polonia | Jelcz-Laskowice",
+        "es": "Jelcz",
+        "es:t": "Polonia | Jelcz-Laskowice",
+        "de": "Jelcz",
+        "de:t": "Polen | Jelcz-Laskowice"
+    },
+    {
+        "en": "Jelcz-Laskowice",
+        "en:t": "Poland | O\u0142awa",
+        "a": true,
+        "g": {
+            "lat": 51.0213,
+            "lon": 17.3165
+        },
+        "it": "Jelcz-Laskowice",
+        "it:t": "Polonia | O\u0142awa",
+        "es": "Jelcz-Laskowice",
+        "es:t": "Polonia | O\u0142awa",
+        "de": "Jelcz-Laskowice",
+        "de:t": "Polen | Powiat O\u0142awski"
+    },
+    {
+        "en": "Jelenia G\u00f3ra",
+        "en:t": "Poland | Jelenia G\u00f3ra",
+        "a": true,
+        "g": {
+            "lat": 50.9044,
+            "lon": 15.7194
+        },
+        "it": "Jelenia G\u00f3ra",
+        "it:t": "Polonia | Jelenia G\u00f3ra",
+        "es": "Jelenia G\u00f3ra",
+        "es:t": "Polonia | Jelenia G\u00f3ra",
+        "de": "Jelenia G\u00f3ra",
+        "de:t": "Polen | Powiat Jeleniog\u00f3rski"
+    },
+    {
+        "en": "J\u00f3zef\u00f3w",
+        "en:t": "Poland | Otwock",
+        "a": true,
+        "g": {
+            "lat": 52.1368,
+            "lon": 21.2354
+        },
+        "it": "J\u00f3zef\u00f3w",
+        "it:t": "Polonia | Otwock",
+        "es": "J\u00f3zef\u00f3w",
+        "es:t": "Polonia | Otwock",
+        "de": "J\u00f3zef\u00f3w",
+        "de:t": "Polen | Powiat Otwocki"
+    },
+    {
+        "en": "Kabaty",
+        "en:t": "Poland | Ursyn\u00f3w",
+        "a": true,
+        "g": {
+            "lat": 52.1292,
+            "lon": 21.0715
+        },
+        "it": "Kabaty",
+        "it:t": "Polonia | Ursyn\u00f3w",
+        "es": "Kabaty",
+        "es:t": "Polonia | Ursyn\u00f3w",
+        "de": "Kabaty",
+        "de:t": "Polen | Ursyn\u00f3w"
+    },
+    {
+        "en": "Kalisz",
+        "en:t": "Poland | Kalisz",
+        "a": true,
+        "g": {
+            "lat": 51.7673,
+            "lon": 18.0853
+        },
+        "it": "Kalisz",
+        "it:t": "Polonia | Kalisz",
+        "es": "Kalisz",
+        "es:t": "Polonia | Kalisz",
+        "de": "Kalisz",
+        "de:t": "Polen | Powiat Kaliski"
+    },
+    {
+        "en": "Kamienna G\u00f3ra",
+        "en:t": "Poland | Kamienna G\u00f3ra",
+        "a": true,
+        "g": {
+            "lat": 50.7852,
+            "lon": 16.0237
+        },
+        "it": "Kamienna G\u00f3ra",
+        "it:t": "Polonia | Kamienna G\u00f3ra",
+        "es": "Kamienna G\u00f3ra",
+        "es:t": "Polonia | Kamienna G\u00f3ra",
+        "de": "Kamienna G\u00f3ra",
+        "de:t": "Polen | Powiat Kamiennog\u00f3rski"
+    },
+    {
+        "en": "Kartuzy",
+        "en:t": "Poland | Kartuzy",
+        "a": true,
+        "g": {
+            "lat": 54.3343,
+            "lon": 18.1972
+        },
+        "it": "Kartuzy",
+        "it:t": "Polonia | Kartuzy",
+        "es": "Kartuzy",
+        "es:t": "Polonia | Kartuzy",
+        "de": "Kartuzy",
+        "de:t": "Polen | Powiat Kartuski"
+    },
+    {
+        "en": "Katowice",
+        "en:t": "Poland",
+        "a": true,
+        "g": {
+            "lat": 50.2649,
+            "lon": 19.0238
+        },
+        "it": "Katowice",
+        "it:t": "Polonia",
+        "es": "Katowice",
+        "es:t": "Polonia",
+        "de": "Katowice",
+        "de:t": "Polen"
+    },
+    {
+        "en": "Ketrzyn",
+        "en:t": "Poland | K\u0119trzyn",
+        "a": true,
+        "g": {
+            "lat": 54.0766,
+            "lon": 21.375
+        },
+        "it": "K\u0119trzyn",
+        "it:t": "Polonia | K\u0119trzyn",
+        "es": "K\u0119trzyn",
+        "es:t": "Polonia | K\u0119trzyn",
+        "de": "Rastenburg",
+        "de:t": "Polen | Powiat K\u0119trzy\u0144ski"
+    },
+    {
+        "en": "Kielce",
+        "en:t": "Poland | Kielce",
+        "a": true,
+        "g": {
+            "lat": 50.8661,
+            "lon": 20.6286
+        },
+        "it": "Kielce",
+        "it:t": "Polonia | Kielce",
+        "es": "Kielce",
+        "es:t": "Polonia | Kielce",
+        "de": "Kielce",
+        "de:t": "Polen | Powiat Grodzki Kielecki"
+    },
+    {
+        "en": "Klodzko",
+        "en:t": "Poland | K\u0142odzko",
+        "a": true,
+        "g": {
+            "lat": 50.4346,
+            "lon": 16.6614
+        },
+        "it": "K\u0142odzko",
+        "it:t": "Polonia | K\u0142odzko",
+        "es": "K\u0142odzko",
+        "es:t": "Polonia | K\u0142odzko",
+        "de": "Glatz",
+        "de:t": "Polen | Powiat K\u0142odzki"
+    },
+    {
+        "en": "Kluczbork",
+        "en:t": "Poland | Kluczbork",
+        "a": true,
+        "g": {
+            "lat": 50.9723,
+            "lon": 18.2181
+        },
+        "it": "Kluczbork",
+        "it:t": "Polonia | Kluczbork",
+        "es": "Kluczbork",
+        "es:t": "Polonia | Kluczbork",
+        "de": "Kluczbork",
+        "de:t": "Polen | Powiat Kluczborski"
+    },
+    {
+        "en": "Knur\u00f3w",
+        "en:t": "Poland | Gliwicki",
+        "a": true,
+        "g": {
+            "lat": 50.2219,
+            "lon": 18.6706
+        },
+        "it": "Knur\u00f3w",
+        "it:t": "Polonia | Gliwicki",
+        "es": "Knur\u00f3w",
+        "es:t": "Polonia | Gliwicki",
+        "de": "Knur\u00f3w",
+        "de:t": "Polen | Gliwicki"
+    },
+    {
+        "en": "Koby\u0142ka",
+        "en:t": "Poland | Wo\u0142omin",
+        "a": true,
+        "g": {
+            "lat": 52.3392,
+            "lon": 21.196
+        },
+        "it": "Koby\u0142ka",
+        "it:t": "Polonia | Wo\u0142omin",
+        "es": "Koby\u0142ka",
+        "es:t": "Polonia | Wo\u0142omin",
+        "de": "Koby\u0142ka",
+        "de:t": "Polen | Powiat Wo\u0142omi\u0144ski"
+    },
+    {
+        "en": "Kolo",
+        "en:t": "Poland | Ko\u0142o",
+        "a": true,
+        "g": {
+            "lat": 52.1999,
+            "lon": 18.6385
+        },
+        "it": "Ko\u0142o",
+        "it:t": "Polonia | Ko\u0142o",
+        "es": "Ko\u0142o",
+        "es:t": "Polonia | Ko\u0142o",
+        "de": "Ko\u0142o",
+        "de:t": "Polen | Powiat Kolski"
+    },
+    {
+        "en": "Kolobrzeg",
+        "en:t": "Poland | Ko\u0142obrzeg",
+        "a": true,
+        "g": {
+            "lat": 54.1759,
+            "lon": 15.5833
+        },
+        "it": "Ko\u0142obrzeg",
+        "it:t": "Polonia | Ko\u0142obrzeg",
+        "es": "Ko\u0142obrzeg",
+        "es:t": "Polonia | Ko\u0142obrzeg",
+        "de": "Kolberg",
+        "de:t": "Polen | Powiat Ko\u0142obrzeski"
+    },
+    {
+        "en": "Konin",
+        "en:t": "Poland | Konin",
+        "a": true,
+        "g": {
+            "lat": 52.223,
+            "lon": 18.2511
+        },
+        "it": "Konin",
+        "it:t": "Polonia | Konin",
+        "es": "Konin",
+        "es:t": "Polonia | Konin",
+        "de": "Konin",
+        "de:t": "Polen | Powiat Koni\u0144ski"
+    },
+    {
+        "en": "Konskie",
+        "en:t": "Poland | Ko\u0144skie",
+        "a": true,
+        "g": {
+            "lat": 51.1915,
+            "lon": 20.4068
+        },
+        "it": "Konskie",
+        "it:t": "Polonia | Ko\u0144skie",
+        "es": "Konskie",
+        "es:t": "Polonia | Ko\u0144skie",
+        "de": "Ko\u0144skie",
+        "de:t": "Polen | Powiat Konecki"
+    },
+    {
+        "en": "Konstancin-Jeziorna",
+        "en:t": "Poland | Piaseczno",
+        "a": true,
+        "g": {
+            "lat": 52.0939,
+            "lon": 21.1177
+        },
+        "it": "Konstancin-Jeziorna",
+        "it:t": "Polonia | Piaseczno",
+        "es": "Konstancin-Jeziorna",
+        "es:t": "Polonia | Piaseczno",
+        "de": "Konstancin-Jeziorna",
+        "de:t": "Polen | Powiat Piaseczy\u0144ski"
+    },
+    {
+        "en": "Konstantyn\u00f3w \u0141\u00f3dzki",
+        "en:t": "Poland | Pabianice",
+        "a": true,
+        "g": {
+            "lat": 51.7476,
+            "lon": 19.3255
+        },
+        "it": "Konstantyn\u00f3w \u0141\u00f3dzki",
+        "it:t": "Polonia | Pabianice",
+        "es": "Konstantyn\u00f3w \u0141\u00f3dzki",
+        "es:t": "Polonia | Pabianice",
+        "de": "Konstantyn\u00f3w \u0141\u00f3dzki",
+        "de:t": "Polen | Powiat Pabianicki"
+    },
+    {
+        "en": "Koscian",
+        "en:t": "Poland | Ko\u015bcian",
+        "a": true,
+        "g": {
+            "lat": 52.0816,
+            "lon": 16.6385
+        },
+        "it": "Ko\u015bcian",
+        "it:t": "Polonia | Ko\u015bcian",
+        "es": "Koscian",
+        "es:t": "Polonia | Ko\u015bcian",
+        "de": "Ko\u015bcian",
+        "de:t": "Polen | Powiat Ko\u015bcia\u0144ski"
+    },
+    {
+        "en": "Koscierzyna",
+        "en:t": "Poland | Ko\u015bcierzyna",
+        "a": true,
+        "g": {
+            "lat": 54.1222,
+            "lon": 17.9813
+        },
+        "it": "Ko\u015bcierzyna",
+        "it:t": "Polonia | Ko\u015bcierzyna",
+        "es": "Ko\u015bcierzyna",
+        "es:t": "Polonia | Ko\u015bcierzyna",
+        "de": "Ko\u015bcierzyna",
+        "de:t": "Polen | Powiat Ko\u015bcierski"
+    },
+    {
+        "en": "Kostrzyn",
+        "en:t": "Poland | Gorzowski",
+        "a": true,
+        "g": {
+            "lat": 52.5872,
+            "lon": 14.6494
+        },
+        "it": "Kostrzyn nad Odr\u0105",
+        "it:t": "Polonia | Gorzowski",
+        "es": "Kostrzyn nad Odr\u0105",
+        "es:t": "Polonia | Gorzowski",
+        "de": "Kostrzyn nad Odr\u0105",
+        "de:t": "Polen | Gorzowski"
+    },
+    {
+        "en": "Koszalin",
+        "en:t": "Poland | Koszalin",
+        "a": true,
+        "g": {
+            "lat": 54.1943,
+            "lon": 16.1715
+        },
+        "it": "Koszalin",
+        "it:t": "Polonia | Koszalin",
+        "es": "Koszalin",
+        "es:t": "Polonia | Koszalin",
+        "de": "Koszalin",
+        "de:t": "Polen | Powiat Koszali\u0144ski"
+    },
+    {
+        "en": "Kozienice",
+        "en:t": "Poland | Kozienice",
+        "a": true,
+        "g": {
+            "lat": 51.5855,
+            "lon": 21.5512
+        },
+        "it": "Kozienice",
+        "it:t": "Polonia | Kozienice",
+        "es": "Kozienice",
+        "es:t": "Polonia | Kozienice",
+        "de": "Kozienice",
+        "de:t": "Polen | Powiat Kozienicki"
+    },
+    {
+        "en": "Krak\u00f3w",
+        "en:t": "Poland | Krak\u00f3w",
+        "a": true,
+        "g": {
+            "lat": 50.0647,
+            "lon": 19.945
+        },
+        "it": "Cracovia",
+        "it:t": "Polonia | Cracovia",
+        "es": "Cracovia",
+        "es:t": "Polonia | Krak\u00f3w",
+        "de": "Krakau",
+        "de:t": "Polen | Powiat Krakowski"
+    },
+    {
+        "en": "Krapkowice",
+        "en:t": "Poland | Krapkowice",
+        "a": true,
+        "g": {
+            "lat": 50.4745,
+            "lon": 17.9651
+        },
+        "it": "Krapkowice",
+        "it:t": "Polonia | Krapkowice",
+        "es": "Krapkowice",
+        "es:t": "Polonia | Krapkowice",
+        "de": "Krapkowice",
+        "de:t": "Polen | Powiat Krapkowicki"
+    },
+    {
+        "en": "Krasnik",
+        "en:t": "Poland | Kra\u015bnik",
+        "a": true,
+        "g": {
+            "lat": 50.9233,
+            "lon": 22.227
+        },
+        "it": "Kra\u015bnik",
+        "it:t": "Polonia | Kra\u015bnik",
+        "es": "Kra\u015bnik",
+        "es:t": "Polonia | Kra\u015bnik",
+        "de": "Kra\u015bnik",
+        "de:t": "Polen | Powiat Kra\u015bnicki"
+    },
+    {
+        "en": "Krasnystaw",
+        "en:t": "Poland | Krasnystaw",
+        "a": true,
+        "g": {
+            "lat": 50.9841,
+            "lon": 23.1719
+        },
+        "it": "Krasnystaw",
+        "it:t": "Polonia | Krasnystaw",
+        "es": "Krasnystaw",
+        "es:t": "Polonia | Krasnystaw",
+        "de": "Krasnystaw",
+        "de:t": "Polen | Powiat Krasnostawski"
+    },
+    {
+        "en": "Krosno",
+        "en:t": "Poland | Krosno",
+        "a": true,
+        "g": {
+            "lat": 49.6825,
+            "lon": 21.7661
+        },
+        "it": "Krosno",
+        "it:t": "Polonia | Krosno",
+        "es": "Krosno",
+        "es:t": "Polonia | Krosno",
+        "de": "Krosno",
+        "de:t": "Polen | Powiat Kro\u015bnie\u0144ski"
+    },
+    {
+        "en": "Krotoszyn",
+        "en:t": "Poland | Krotoszyn",
+        "a": true,
+        "g": {
+            "lat": 51.6965,
+            "lon": 17.4359
+        },
+        "it": "Krotoszyn",
+        "it:t": "Polonia | Krotoszyn",
+        "es": "Krotoszyn",
+        "es:t": "Polonia | Krotoszyn",
+        "de": "Krotoszyn",
+        "de:t": "Polen | Powiat Krotoszy\u0144ski"
+    },
+    {
+        "en": "Kutno",
+        "en:t": "Poland | Kutno",
+        "a": true,
+        "g": {
+            "lat": 52.2306,
+            "lon": 19.3643
+        },
+        "it": "Kutno",
+        "it:t": "Polonia | Kutno",
+        "es": "Kutno",
+        "es:t": "Polonia | Kutno",
+        "de": "Kutno",
+        "de:t": "Polen | Powiat Kutnowski"
+    },
+    {
+        "en": "Kwidzyn",
+        "en:t": "Poland | Kwidzyn",
+        "a": true,
+        "g": {
+            "lat": 53.7264,
+            "lon": 18.9323
+        },
+        "it": "Kwidzyn",
+        "it:t": "Polonia | Kwidzyn",
+        "es": "Kwidzyn",
+        "es:t": "Polonia | Kwidzyn",
+        "de": "Kwidzyn",
+        "de:t": "Polen | Powiat Kwidzy\u0144ski"
+    },
+    {
+        "en": "K\u0119dzierzyn-Ko\u017ale",
+        "en:t": "Poland | K\u0119dzierzyn-Ko\u017ale",
+        "a": true,
+        "g": {
+            "lat": 50.3499,
+            "lon": 18.2262
+        },
+        "it": "K\u0119dzierzyn-Ko\u017ale",
+        "it:t": "Polonia | K\u0119dzierzyn-Ko\u017ale",
+        "es": "K\u0119dzierzyn-Ko\u017ale",
+        "es:t": "Polonia | K\u0119dzierzyn-Ko\u017ale",
+        "de": "K\u0119dzierzyn-Ko\u017ale",
+        "de:t": "Polen | Powiat K\u0119dzierzy\u0144sko-Kozielski"
+    },
+    {
+        "en": "K\u0119ty",
+        "en:t": "Poland | O\u015bwi\u0119cim",
+        "a": true,
+        "g": {
+            "lat": 49.8807,
+            "lon": 19.2228
+        },
+        "it": "K\u0119ty",
+        "it:t": "Polonia | O\u015bwi\u0119cim",
+        "es": "K\u0119ty",
+        "es:t": "Polonia | O\u015bwi\u0119cim",
+        "de": "Kenty",
+        "de:t": "Polen | Powiat O\u015bwi\u0119cimski"
+    },
+    {
+        "en": "Lancut",
+        "en:t": "Poland | \u0141a\u0144cut",
+        "a": true,
+        "g": {
+            "lat": 50.0682,
+            "lon": 22.2298
+        },
+        "it": "\u0141a\u0144cut",
+        "it:t": "Polonia | \u0141a\u0144cut",
+        "es": "Lancut",
+        "es:t": "Polonia | \u0141a\u0144cut",
+        "de": "\u0141a\u0144cut",
+        "de:t": "Polen | Powiat \u0141a\u0144cucki"
+    },
+    {
+        "en": "Lebork",
+        "en:t": "Poland | L\u0119bork",
+        "a": true,
+        "g": {
+            "lat": 54.5446,
+            "lon": 17.7533
+        },
+        "it": "L\u0119bork",
+        "it:t": "Polonia | L\u0119bork",
+        "es": "L\u0119bork",
+        "es:t": "Polonia | L\u0119bork",
+        "de": "Lebork",
+        "de:t": "Polen | Powiat L\u0119borski"
+    },
+    {
+        "en": "Leczna",
+        "en:t": "Poland | \u0141\u0119czna",
+        "a": true,
+        "g": {
+            "lat": 51.3009,
+            "lon": 22.8821
+        },
+        "it": "Leczna",
+        "it:t": "Polonia | \u0141\u0119czna",
+        "es": "\u0141\u0119czna",
+        "es:t": "Polonia | \u0141\u0119czna",
+        "de": "\u0141\u0119czna",
+        "de:t": "Polen | Powiat \u0141\u0119czy\u0144ski"
+    },
+    {
+        "en": "Leczyca",
+        "en:t": "Poland | \u0141\u0119czyca",
+        "a": true,
+        "g": {
+            "lat": 52.0596,
+            "lon": 19.1997
+        },
+        "it": "\u0141\u0119czyca",
+        "it:t": "Polonia | \u0141\u0119czyca",
+        "es": "Leczyca",
+        "es:t": "Polonia | \u0141\u0119czyca",
+        "de": "\u0141\u0119czyca",
+        "de:t": "Polen | Powiat \u0141\u0119czycki"
+    },
+    {
+        "en": "Legionowo",
+        "en:t": "Poland | Legionowo",
+        "a": true,
+        "g": {
+            "lat": 52.4044,
+            "lon": 20.95
+        },
+        "it": "Legionowo",
+        "it:t": "Polonia | Legionowo",
+        "es": "Legionowo",
+        "es:t": "Polonia | Legionowo",
+        "de": "Legionowo",
+        "de:t": "Polen | Powiat Legionowski"
+    },
+    {
+        "en": "Legnica",
+        "en:t": "Poland | Legnica",
+        "a": true,
+        "g": {
+            "lat": 51.207,
+            "lon": 16.1553
+        },
+        "it": "Legnica",
+        "it:t": "Polonia | Legnica",
+        "es": "Legnica",
+        "es:t": "Polonia | Legnica",
+        "de": "Legnica",
+        "de:t": "Polen | Powiat Legnicki"
+    },
+    {
+        "en": "Leszno",
+        "en:t": "Poland | Leszno",
+        "a": true,
+        "g": {
+            "lat": 51.842,
+            "lon": 16.5938
+        },
+        "it": "Leszno",
+        "it:t": "Polonia | Leszno",
+        "es": "Leszno",
+        "es:t": "Polonia | Leszno",
+        "de": "Leszno",
+        "de:t": "Polen | Powiat Leszczy\u0144ski"
+    },
+    {
+        "en": "Libi\u0105\u017c",
+        "en:t": "Poland | Chrzan\u00f3w",
+        "a": true,
+        "g": {
+            "lat": 50.1038,
+            "lon": 19.3157
+        },
+        "it": "Libi\u0105\u017c",
+        "it:t": "Polonia | Chrzan\u00f3w",
+        "es": "Libi\u0105\u017c",
+        "es:t": "Polonia | Chrzan\u00f3w",
+        "de": "Libi\u0105\u017c",
+        "de:t": "Polen | Powiat Chrzanowski"
+    },
+    {
+        "en": "Lidzbark Warmi\u0144ski",
+        "en:t": "Poland | Lidzbark",
+        "a": true,
+        "g": {
+            "lat": 54.1249,
+            "lon": 20.586
+        },
+        "it": "Lidzbark Warmi\u0144ski",
+        "it:t": "Polonia | Lidzbark Warmi\u0144ski",
+        "es": "Lidzbark Warmi\u0144ski",
+        "es:t": "Polonia | Lidzbark",
+        "de": "Lidzbark Warmi\u0144ski",
+        "de:t": "Polen | Powiat Lidzbarski"
+    },
+    {
+        "en": "Lomza",
+        "en:t": "Poland | \u0141om\u017ca",
+        "a": true,
+        "g": {
+            "lat": 53.1781,
+            "lon": 22.059
+        },
+        "it": "\u0141om\u017ca",
+        "it:t": "Polonia | \u0141om\u017ca",
+        "es": "\u0141om\u017ca",
+        "es:t": "Polonia | \u0141om\u017ca",
+        "de": "\u0141om\u017ca",
+        "de:t": "Polen | Powiat \u0141om\u017cy\u0144ski"
+    },
+    {
+        "en": "Lowicz",
+        "en:t": "Poland",
+        "a": true,
+        "g": {
+            "lat": 52.1068,
+            "lon": 19.9454
+        },
+        "it": "\u0141owicz",
+        "it:t": "Polonia",
+        "es": "\u0141owicz",
+        "es:t": "Polonia",
+        "de": "\u0141owicz",
+        "de:t": "Polen"
+    },
+    {
+        "en": "Luban",
+        "en:t": "Poland",
+        "a": true,
+        "g": {
+            "lat": 51.1179,
+            "lon": 15.2894
+        },
+        "it": "Luba\u0144",
+        "it:t": "Polonia",
+        "es": "Luban",
+        "es:t": "Polonia",
+        "de": "Lauban",
+        "de:t": "Polen"
+    },
+    {
+        "en": "Lubartow",
+        "en:t": "Poland",
+        "a": true,
+        "g": {
+            "lat": 51.4599,
+            "lon": 22.6095
+        },
+        "it": "Lubart\u00f3w",
+        "it:t": "Polonia",
+        "es": "Lubart\u00f3w",
+        "es:t": "Polonia",
+        "de": "Lubart\u00f3w",
+        "de:t": "Polen"
+    },
+    {
+        "en": "Lubin",
+        "en:t": "Poland",
+        "a": true,
+        "g": {
+            "lat": 51.3977,
+            "lon": 16.2096
+        },
+        "it": "Lubin",
+        "it:t": "Polonia",
+        "es": "Lubin",
+        "es:t": "Polonia",
+        "de": "L\u00fcben",
+        "de:t": "Polen"
+    },
+    {
+        "en": "Lublin",
+        "en:t": "Poland",
+        "a": true,
+        "g": {
+            "lat": 51.2465,
+            "lon": 22.5684
+        },
+        "it": "Lublino",
+        "it:t": "Polonia",
+        "es": "Lublin",
+        "es:t": "Polonia",
+        "de": "Lublin",
+        "de:t": "Polen"
+    },
+    {
+        "en": "Lubliniec",
+        "en:t": "Poland",
+        "a": true,
+        "g": {
+            "lat": 50.6687,
+            "lon": 18.6846
+        },
+        "it": "Lubliniec",
+        "it:t": "Polonia",
+        "es": "Lubliniec",
+        "es:t": "Polonia",
+        "de": "Lubliniec",
+        "de:t": "Polen"
+    },
+    {
+        "en": "Lubo\u0144",
+        "en:t": "Poland | Pozna\u0144ski",
+        "a": true,
+        "g": {
+            "lat": 52.3462,
+            "lon": 16.8774
+        },
+        "it": "Lubo\u0144",
+        "it:t": "Polonia | Pozna\u0144ski",
+        "es": "Lubo\u0144",
+        "es:t": "Polonia | Pozna\u0144ski",
+        "de": "Lubo\u0144",
+        "de:t": "Polen | Pozna\u0144ski"
+    },
+    {
+        "en": "Lukow",
+        "en:t": "Poland",
+        "a": true,
+        "g": {
+            "lat": 51.9272,
+            "lon": 22.383
+        },
+        "it": "\u0141uk\u00f3w",
+        "it:t": "Polonia",
+        "es": "\u0141uk\u00f3w",
+        "es:t": "Polonia",
+        "de": "\u0141uk\u00f3w",
+        "de:t": "Polen"
+    },
+    {
+        "en": "L\u0119dziny",
+        "en:t": "Poland | Bieru\u0144-L\u0119dziny",
+        "a": true,
+        "g": {
+            "lat": 50.1425,
+            "lon": 19.1311
+        },
+        "it": "L\u0119dziny",
+        "it:t": "Polonia | Bieru\u0144",
+        "es": "L\u0119dziny",
+        "es:t": "Polonia | Bieru\u0144-L\u0119dziny",
+        "de": "L\u0119dziny",
+        "de:t": "Polen | Powiat Bieru\u0144sko-L\u0119dzi\u0144ski"
+    },
+    {
+        "en": "Malbork",
+        "en:t": "Poland",
+        "a": true,
+        "g": {
+            "lat": 54.0361,
+            "lon": 19.038
+        },
+        "it": "Malbork",
+        "it:t": "Polonia",
+        "es": "Malbork",
+        "es:t": "Polonia",
+        "de": "Malbork",
+        "de:t": "Polen"
+    },
+    {
+        "en": "Marki",
+        "en:t": "Poland | Wo\u0142omin",
+        "a": true,
+        "g": {
+            "lat": 52.3213,
+            "lon": 21.1036
+        },
+        "it": "Marki",
+        "it:t": "Polonia | Wo\u0142omin",
+        "es": "Marki",
+        "es:t": "Polonia | Wo\u0142omin",
+        "de": "Marki",
+        "de:t": "Polen | Powiat Wo\u0142omi\u0144ski"
+    },
+    {
+        "en": "Miedzyrzec Podlaski",
+        "en:t": "Poland | Bia\u0142a Podlaska",
+        "a": true,
+        "g": {
+            "lat": 51.9853,
+            "lon": 22.7848
+        },
+        "it": "Mi\u0119dzyrzec Podlaski",
+        "it:t": "Polonia | Bia\u0142a Podlaska",
+        "es": "Mi\u0119dzyrzec Podlaski",
+        "es:t": "Polonia | Bia\u0142a Podlaska",
+        "de": "Meseritz",
+        "de:t": "Polen | Powiat Bialski"
+    },
+    {
+        "en": "Mielec",
+        "en:t": "Poland",
+        "a": true,
+        "g": {
+            "lat": 50.2871,
+            "lon": 21.4238
+        },
+        "it": "Mielec",
+        "it:t": "Polonia",
+        "es": "Mielec",
+        "es:t": "Polonia",
+        "de": "Mielec",
+        "de:t": "Polen"
+    },
+    {
+        "en": "Mikolow",
+        "en:t": "Poland",
+        "a": true,
+        "g": {
+            "lat": 50.179,
+            "lon": 18.9038
+        },
+        "it": "Miko\u0142\u00f3w",
+        "it:t": "Polonia",
+        "es": "Miko\u0142\u00f3w",
+        "es:t": "Polonia",
+        "de": "Miko\u0142\u00f3w",
+        "de:t": "Polen"
+    },
+    {
+        "en": "Milan\u00f3wek",
+        "en:t": "Poland | Grodzisk Mazowiecki",
+        "a": true,
+        "g": {
+            "lat": 52.1185,
+            "lon": 20.6716
+        },
+        "it": "Milan\u00f3wek",
+        "it:t": "Polonia | Grodzisk Mazowiecki",
+        "es": "Milan\u00f3wek",
+        "es:t": "Polonia | Grodzisk Mazowiecki",
+        "de": "Milan\u00f3wek",
+        "de:t": "Polen | Powiat Grodziski"
+    },
+    {
+        "en": "Minsk Mazowiecki",
+        "en:t": "Poland | Mi\u0144sk",
+        "a": true,
+        "g": {
+            "lat": 52.1793,
+            "lon": 21.5721
+        },
+        "it": "Mi\u0144sk Mazowiecki",
+        "it:t": "Polonia | Mi\u0144sk",
+        "es": "Mi\u0144sk Mazowiecki",
+        "es:t": "Polonia | Mi\u0144sk",
+        "de": "Mi\u0144sk Mazowiecki",
+        "de:t": "Polen | Powiat Mi\u0144ski"
+    },
+    {
+        "en": "Mi\u0119dzyrzecz",
+        "en:t": "Poland",
+        "a": true,
+        "g": {
+            "lat": 52.4445,
+            "lon": 15.5779
+        },
+        "it": "Mi\u0119dzyrzecz",
+        "it:t": "Polonia",
+        "es": "Mi\u0119dzyrzecz",
+        "es:t": "Polonia",
+        "de": "Mi\u0119dzyrzecz",
+        "de:t": "Polen"
+    },
+    {
+        "en": "Mlawa",
+        "en:t": "Poland",
+        "a": true,
+        "g": {
+            "lat": 53.1123,
+            "lon": 20.3837
+        },
+        "it": "M\u0142awa",
+        "it:t": "Polonia",
+        "es": "Mlawa",
+        "es:t": "Polonia",
+        "de": "M\u0142awa",
+        "de:t": "Polen"
+    },
+    {
+        "en": "Mokot\u00f3w",
+        "en:t": "Poland | Warsaw",
+        "a": true,
+        "g": {
+            "lat": 52.1942,
+            "lon": 21.0347
+        },
+        "it": "Mokot\u00f3w",
+        "it:t": "Polonia | Varsavia",
+        "es": "Mokot\u00f3w",
+        "es:t": "Polonia | Varsovia",
+        "de": "Mokot\u00f3w",
+        "de:t": "Polen | Warschau"
+    },
+    {
+        "en": "Mragowo",
+        "en:t": "Poland",
+        "a": true,
+        "g": {
+            "lat": 53.8642,
+            "lon": 21.3049
+        },
+        "it": "Mr\u0105gowo",
+        "it:t": "Polonia",
+        "es": "Mr\u0105gowo",
+        "es:t": "Polonia",
+        "de": "Mr\u0105gowo",
+        "de:t": "Polen"
+    },
+    {
+        "en": "Myslenice",
+        "en:t": "Poland",
+        "a": true,
+        "g": {
+            "lat": 49.8335,
+            "lon": 19.9397
+        },
+        "it": "My\u015blenice",
+        "it:t": "Polonia",
+        "es": "Myslenice",
+        "es:t": "Polonia",
+        "de": "My\u015blenice",
+        "de:t": "Polen"
+    },
+    {
+        "en": "Myslowice",
+        "en:t": "Poland",
+        "a": true,
+        "g": {
+            "lat": 50.208,
+            "lon": 19.1661
+        },
+        "it": "Mys\u0142owice",
+        "it:t": "Polonia",
+        "es": "Myslowice",
+        "es:t": "Polonia",
+        "de": "Mys\u0142owice",
+        "de:t": "Polen"
+    },
+    {
+        "en": "Myszkow",
+        "en:t": "Poland",
+        "a": true,
+        "g": {
+            "lat": 50.5707,
+            "lon": 19.3145
+        },
+        "it": "Myszk\u00f3w",
+        "it:t": "Polonia",
+        "es": "Myszkow",
+        "es:t": "Polonia",
+        "de": "Myszk\u00f3w",
+        "de:t": "Polen"
+    },
+    {
+        "en": "Nak\u0142o nad Noteci\u0105",
+        "en:t": "Poland | Nak\u0142o",
+        "a": true,
+        "g": {
+            "lat": 53.1418,
+            "lon": 17.6018
+        },
+        "it": "Nak\u0142o nad Noteci\u0105",
+        "it:t": "Polonia | Nak\u0142o",
+        "es": "Nak\u0142o nad Noteci\u0105",
+        "es:t": "Polonia | Nak\u0142o",
+        "de": "Nak\u0142o nad Noteci\u0105",
+        "de:t": "Polen | Powiat Nakielski"
+    },
+    {
+        "en": "Namys\u0142\u00f3w",
+        "en:t": "Poland",
+        "a": true,
+        "g": {
+            "lat": 51.0759,
+            "lon": 17.7224
+        },
+        "it": "Namys\u0142\u00f3w",
+        "it:t": "Polonia",
+        "es": "Namys\u0142\u00f3w",
+        "es:t": "Polonia",
+        "de": "Namys\u0142\u00f3w",
+        "de:t": "Polen"
+    },
+    {
+        "en": "Nisko",
+        "en:t": "Poland",
+        "a": true,
+        "g": {
+            "lat": 50.52,
+            "lon": 22.1395
+        },
+        "it": "Nisko",
+        "it:t": "Polonia",
+        "es": "Nisko",
+        "es:t": "Polonia",
+        "de": "Nisko",
+        "de:t": "Polen"
+    },
+    {
+        "en": "Nowa Ruda",
+        "en:t": "Poland | K\u0142odzko",
+        "a": true,
+        "g": {
+            "lat": 50.5797,
+            "lon": 16.5037
+        },
+        "it": "Nowa Ruda",
+        "it:t": "Polonia | K\u0142odzko",
+        "es": "Nowa Ruda",
+        "es:t": "Polonia | K\u0142odzko",
+        "de": "Nowa Ruda",
+        "de:t": "Polen | Powiat K\u0142odzki"
+    },
+    {
+        "en": "Nowa Sol",
+        "en:t": "Poland",
+        "a": true,
+        "g": {
+            "lat": 51.8034,
+            "lon": 15.7171
+        },
+        "it": "Nowa S\u00f3l",
+        "it:t": "Polonia",
+        "es": "Nowa Sol",
+        "es:t": "Polonia",
+        "de": "Nowa S\u00f3l",
+        "de:t": "Polen"
+    },
+    {
+        "en": "Nowogard",
+        "en:t": "Poland | Goleni\u00f3w",
+        "a": true,
+        "g": {
+            "lat": 53.6742,
+            "lon": 15.1164
+        },
+        "it": "Nowogard",
+        "it:t": "Polonia | Goleni\u00f3w",
+        "es": "Nowogard",
+        "es:t": "Polonia | Goleni\u00f3w",
+        "de": "Nowogard",
+        "de:t": "Polen | Powiat Goleniowski"
+    },
+    {
+        "en": "Nowy Dw\u00f3r Mazowiecki",
+        "en:t": "Poland",
+        "a": true,
+        "g": {
+            "lat": 52.4465,
+            "lon": 20.6925
+        },
+        "it": "Nowy Dw\u00f3r Mazowiecki",
+        "it:t": "Polonia",
+        "es": "Nowy Dw\u00f3r Mazowiecki",
+        "es:t": "Polonia",
+        "de": "Nowy Dw\u00f3r Mazowiecki",
+        "de:t": "Polen"
+    },
+    {
+        "en": "Nowy Sacz",
+        "en:t": "Poland",
+        "a": true,
+        "g": {
+            "lat": 49.6175,
+            "lon": 20.7153
+        },
+        "it": "Nowy S\u0105cz",
+        "it:t": "Polonia",
+        "es": "Nowy S\u0105cz",
+        "es:t": "Polonia",
+        "de": "Neu Sandez",
+        "de:t": "Polen"
+    },
+    {
+        "en": "Nowy Targ",
+        "en:t": "Poland",
+        "a": true,
+        "g": {
+            "lat": 49.4775,
+            "lon": 20.0321
+        },
+        "it": "Nowy Targ",
+        "it:t": "Polonia",
+        "es": "Nowy Targ",
+        "es:t": "Polonia",
+        "de": "Nowy Targ",
+        "de:t": "Polen"
+    },
+    {
+        "en": "Nowy Tomysl",
+        "en:t": "Poland",
+        "a": true,
+        "g": {
+            "lat": 52.3182,
+            "lon": 16.1283
+        },
+        "it": "Nowy Tomysl",
+        "it:t": "Polonia",
+        "es": "Nowy Tomysl",
+        "es:t": "Polonia",
+        "de": "Nowy Tomy\u015bl",
+        "de:t": "Polen"
+    },
+    {
+        "en": "Nysa",
+        "en:t": "Poland",
+        "a": true,
+        "g": {
+            "lat": 50.4823,
+            "lon": 17.3296
+        },
+        "it": "Nysa",
+        "it:t": "Polonia",
+        "es": "Nysa",
+        "es:t": "Polonia",
+        "de": "Neisse",
+        "de:t": "Polen"
+    },
+    {
+        "en": "Oborniki",
+        "en:t": "Poland",
+        "a": true,
+        "g": {
+            "lat": 52.6449,
+            "lon": 16.8142
+        },
+        "it": "Oborniki",
+        "it:t": "Polonia",
+        "es": "Oborniki",
+        "es:t": "Polonia",
+        "de": "Oborniki",
+        "de:t": "Polen"
+    },
+    {
+        "en": "Ochota",
+        "en:t": "Poland | Warsaw",
+        "a": true,
+        "g": {
+            "lat": 52.2103,
+            "lon": 20.9712
+        },
+        "it": "Ochota",
+        "it:t": "Polonia | Varsavia",
+        "es": "Ochota",
+        "es:t": "Polonia | Varsovia",
+        "de": "Ochota",
+        "de:t": "Polen | Warschau"
+    },
+    {
+        "en": "Olecko",
+        "en:t": "Poland",
+        "a": true,
+        "g": {
+            "lat": 54.0337,
+            "lon": 22.5069
+        },
+        "it": "Olecko",
+        "it:t": "Polonia",
+        "es": "Olecko",
+        "es:t": "Polonia",
+        "de": "Olecko",
+        "de:t": "Polen"
+    },
+    {
+        "en": "Olesnica",
+        "en:t": "Poland",
+        "a": true,
+        "g": {
+            "lat": 51.2134,
+            "lon": 17.3899
+        },
+        "it": "Ole\u015bnica",
+        "it:t": "Polonia",
+        "es": "Ole\u015bnica",
+        "es:t": "Polonia",
+        "de": "Oels",
+        "de:t": "Polen"
+    },
+    {
+        "en": "Olkusz",
+        "en:t": "Poland",
+        "a": true,
+        "g": {
+            "lat": 50.2813,
+            "lon": 19.5657
+        },
+        "it": "Olkusz",
+        "it:t": "Polonia",
+        "es": "Olkusz",
+        "es:t": "Polonia",
+        "de": "Olkusz",
+        "de:t": "Polen"
+    },
+    {
+        "en": "Olsztyn",
+        "en:t": "Poland",
+        "a": true,
+        "g": {
+            "lat": 53.7784,
+            "lon": 20.4801
+        },
+        "it": "Olsztyn",
+        "it:t": "Polonia",
+        "es": "Olsztyn",
+        "es:t": "Polonia",
+        "de": "Olsztyn",
+        "de:t": "Polen"
+    },
+    {
+        "en": "Opoczno",
+        "en:t": "Poland",
+        "a": true,
+        "g": {
+            "lat": 51.3753,
+            "lon": 20.2788
+        },
+        "it": "Opoczno",
+        "it:t": "Polonia",
+        "es": "Opoczno",
+        "es:t": "Polonia",
+        "de": "Opoczno",
+        "de:t": "Polen"
+    },
+    {
+        "en": "Opole",
+        "en:t": "Poland",
+        "a": true,
+        "g": {
+            "lat": 50.6751,
+            "lon": 17.9213
+        },
+        "it": "Opole",
+        "it:t": "Polonia",
+        "es": "Opole",
+        "es:t": "Polonia",
+        "de": "Opole",
+        "de:t": "Polen"
+    },
+    {
+        "en": "Orzesze",
+        "en:t": "Poland | Miko\u0142\u00f3w",
+        "a": true,
+        "g": {
+            "lat": 50.1438,
+            "lon": 18.7757
+        },
+        "it": "Orzesze",
+        "it:t": "Polonia | Miko\u0142\u00f3w",
+        "es": "Orzesze",
+        "es:t": "Polonia | Miko\u0142\u00f3w",
+        "de": "Orzesze",
+        "de:t": "Polen | Powiat Miko\u0142owski"
+    },
+    {
+        "en": "Ostroda",
+        "en:t": "Poland",
+        "a": true,
+        "g": {
+            "lat": 53.6963,
+            "lon": 19.9648
+        },
+        "it": "Ostr\u00f3da",
+        "it:t": "Polonia",
+        "es": "Ostr\u00f3da",
+        "es:t": "Polonia",
+        "de": "Osterode",
+        "de:t": "Polen"
+    },
+    {
+        "en": "Ostroleka",
+        "en:t": "Poland",
+        "a": true,
+        "g": {
+            "lat": 53.0877,
+            "lon": 21.5593
+        },
+        "it": "Ostro\u0142\u0119ka",
+        "it:t": "Polonia",
+        "es": "Ostro\u0142\u0119ka",
+        "es:t": "Polonia",
+        "de": "Ostro\u0142\u0119ka",
+        "de:t": "Polen"
+    },
+    {
+        "en": "Ostrow Mazowiecka",
+        "en:t": "Poland",
+        "a": true,
+        "g": {
+            "lat": 52.8024,
+            "lon": 21.895
+        },
+        "it": "Ostr\u00f3w Mazowiecka",
+        "it:t": "Polonia",
+        "es": "Ostrow Mazowiecka",
+        "es:t": "Polonia",
+        "de": "Ostr\u00f3w Mazowiecka",
+        "de:t": "Polen"
+    },
+    {
+        "en": "Ostrow Wielkopolski",
+        "en:t": "Poland",
+        "a": true,
+        "g": {
+            "lat": 51.655,
+            "lon": 17.8068
+        },
+        "it": "Ostr\u00f3w Wielkopolski",
+        "it:t": "Polonia",
+        "es": "Ostr\u00f3w Wielkopolski",
+        "es:t": "Polonia",
+        "de": "Ostrowo",
+        "de:t": "Polen"
+    },
+    {
+        "en": "Ostrowiec",
+        "en:t": "Poland",
+        "a": true,
+        "g": {
+            "lat": 50.9295,
+            "lon": 21.3852
+        },
+        "it": "Ostrowiec \u015awi\u0119tokrzyski",
+        "it:t": "Polonia",
+        "es": "Ostrowiec \u015awi\u0119tokrzyski",
+        "es:t": "Polonia",
+        "de": "Ostrowiec \u015awi\u0119tokrzyski",
+        "de:t": "Polen"
+    },
+    {
+        "en": "Oswiecim",
+        "en:t": "Poland",
+        "a": true,
+        "g": {
+            "lat": 50.0344,
+            "lon": 19.2098
+        },
+        "it": "O\u015bwi\u0119cim",
+        "it:t": "Polonia",
+        "es": "O\u015bwi\u0119cim",
+        "es:t": "Polonia",
+        "de": "O\u015bwi\u0119cim",
+        "de:t": "Polen"
+    },
+    {
+        "en": "Otwock",
+        "en:t": "Poland",
+        "a": true,
+        "g": {
+            "lat": 52.1053,
+            "lon": 21.2616
+        },
+        "it": "Otwock",
+        "it:t": "Polonia",
+        "es": "Otwock",
+        "es:t": "Polonia",
+        "de": "Otwock",
+        "de:t": "Polen"
+    },
+    {
+        "en": "Ozork\u00f3w",
+        "en:t": "Poland | Zgierz",
+        "a": true,
+        "g": {
+            "lat": 51.9633,
+            "lon": 19.2914
+        },
+        "it": "Ozork\u00f3w",
+        "it:t": "Polonia | Zgierz",
+        "es": "Ozork\u00f3w",
+        "es:t": "Polonia | Zgierz",
+        "de": "Ozork\u00f3w",
+        "de:t": "Polen | Powiat Zgierski"
+    },
+    {
+        "en": "O\u0142awa",
+        "en:t": "Poland",
+        "a": true,
+        "g": {
+            "lat": 50.9459,
+            "lon": 17.2924
+        },
+        "it": "O\u0142awa",
+        "it:t": "Polonia",
+        "es": "O\u0142awa",
+        "es:t": "Polonia",
+        "de": "O\u0142awa",
+        "de:t": "Polen"
+    },
+    {
+        "en": "Pabianice",
+        "en:t": "Poland",
+        "a": true,
+        "g": {
+            "lat": 51.6567,
+            "lon": 19.3578
+        },
+        "it": "Pabianice",
+        "it:t": "Polonia",
+        "es": "Pabianice",
+        "es:t": "Polonia",
+        "de": "Pabianice",
+        "de:t": "Polen"
+    },
+    {
+        "en": "Piaseczno",
+        "en:t": "Poland",
+        "a": true,
+        "g": {
+            "lat": 52.0812,
+            "lon": 21.0239
+        },
+        "it": "Piaseczno",
+        "it:t": "Polonia",
+        "es": "Piaseczno",
+        "es:t": "Polonia",
+        "de": "Piaseczno",
+        "de:t": "Polen"
+    },
+    {
+        "en": "Piast\u00f3w",
+        "en:t": "Poland | Pruszk\u00f3w",
+        "a": true,
+        "g": {
+            "lat": 52.1845,
+            "lon": 20.84
+        },
+        "it": "Piast\u00f3w",
+        "it:t": "Polonia | Pruszk\u00f3w",
+        "es": "Piast\u00f3w",
+        "es:t": "Polonia | Pruszk\u00f3w",
+        "de": "Piast\u00f3w",
+        "de:t": "Polen | Powiat Pruszkowski"
+    },
+    {
+        "en": "Piekary Slaskie",
+        "en:t": "Poland",
+        "a": true,
+        "g": {
+            "lat": 50.3789,
+            "lon": 18.927
+        },
+        "it": "Piekary \u015al\u0105skie",
+        "it:t": "Polonia",
+        "es": "Piekary \u015al\u0105skie",
+        "es:t": "Polonia",
+        "de": "Piekary \u015al\u0105skie",
+        "de:t": "Polen"
+    },
+    {
+        "en": "Pila",
+        "en:t": "Poland",
+        "a": true,
+        "g": {
+            "lat": 53.151,
+            "lon": 16.7382
+        },
+        "it": "Pi\u0142a",
+        "it:t": "Polonia",
+        "es": "Pi\u0142a",
+        "es:t": "Polonia",
+        "de": "Pi\u0142a",
+        "de:t": "Polen"
+    },
+    {
+        "en": "Pionki",
+        "en:t": "Poland | Radomski",
+        "a": true,
+        "g": {
+            "lat": 51.4762,
+            "lon": 21.4509
+        },
+        "it": "Pionki",
+        "it:t": "Polonia | Radomski",
+        "es": "Pionki",
+        "es:t": "Polonia | Radomski",
+        "de": "Pionki",
+        "de:t": "Polen | Radomski"
+    },
+    {
+        "en": "Piotrk\u00f3w Trybunalski",
+        "en:t": "Poland | Piotrk\u00f3w",
+        "a": true,
+        "g": {
+            "lat": 51.4052,
+            "lon": 19.703
+        },
+        "it": "Piotrk\u00f3w Trybunalski",
+        "it:t": "Polonia | Piotrk\u00f3w",
+        "es": "Piotrk\u00f3w Trybunalski",
+        "es:t": "Polonia | Piotrk\u00f3w",
+        "de": "Piotrk\u00f3w Trybunalski",
+        "de:t": "Polen | Powiat Piotrkowski"
+    },
+    {
+        "en": "Pisz",
+        "en:t": "Poland",
+        "a": true,
+        "g": {
+            "lat": 53.6289,
+            "lon": 21.8124
+        },
+        "it": "Pisz",
+        "it:t": "Polonia",
+        "es": "Pisz",
+        "es:t": "Polonia",
+        "de": "Pisz",
+        "de:t": "Polen"
+    },
+    {
+        "en": "Pleszew",
+        "en:t": "Poland",
+        "a": true,
+        "g": {
+            "lat": 51.8963,
+            "lon": 17.7871
+        },
+        "it": "Pleszew",
+        "it:t": "Polonia",
+        "es": "Pleszew",
+        "es:t": "Polonia",
+        "de": "Pleszew",
+        "de:t": "Polen"
+    },
+    {
+        "en": "Plock",
+        "en:t": "Poland",
+        "a": true,
+        "g": {
+            "lat": 52.5463,
+            "lon": 19.7065
+        },
+        "it": "P\u0142ock",
+        "it:t": "Polonia",
+        "es": "P\u0142ock",
+        "es:t": "Polonia",
+        "de": "Plock",
+        "de:t": "Polen"
+    },
+    {
+        "en": "Plonsk",
+        "en:t": "Poland",
+        "a": true,
+        "g": {
+            "lat": 52.623,
+            "lon": 20.3754
+        },
+        "it": "P\u0142o\u0144sk",
+        "it:t": "Polonia",
+        "es": "P\u0142o\u0144sk",
+        "es:t": "Polonia",
+        "de": "P\u0142o\u0144sk",
+        "de:t": "Polen"
+    },
+    {
+        "en": "Police",
+        "en:t": "Poland",
+        "a": true,
+        "g": {
+            "lat": 53.552,
+            "lon": 14.5721
+        },
+        "it": "Police",
+        "it:t": "Polonia",
+        "es": "Police",
+        "es:t": "Polonia",
+        "de": "P\u00f6litz",
+        "de:t": "Polen"
+    },
+    {
+        "en": "Polkowice",
+        "en:t": "Poland",
+        "a": true,
+        "g": {
+            "lat": 51.5025,
+            "lon": 16.062
+        },
+        "it": "Polkowice",
+        "it:t": "Polonia",
+        "es": "Polkowice",
+        "es:t": "Polonia",
+        "de": "Polkowice",
+        "de:t": "Polen"
+    },
+    {
+        "en": "Pozna\u0144",
+        "en:t": "Poland",
+        "a": true,
+        "g": {
+            "lat": 52.4064,
+            "lon": 16.9252
+        },
+        "it": "Pozna\u0144",
+        "it:t": "Polonia",
+        "es": "Pozna\u0144",
+        "es:t": "Polonia",
+        "de": "Posen",
+        "de:t": "Polen"
+    },
+    {
+        "en": "Praga Po\u0142udnie",
+        "en:t": "Poland | Warsaw",
+        "a": true,
+        "g": {
+            "lat": 52.2417,
+            "lon": 21.0841
+        },
+        "it": "Praga-Po\u0142udnie",
+        "it:t": "Polonia | Varsavia",
+        "es": "Praga-Po\u0142udnie",
+        "es:t": "Polonia | Varsovia",
+        "de": "Praga-Po\u0142udnie",
+        "de:t": "Polen | Warschau"
+    },
+    {
+        "en": "Praga P\u00f3\u0142noc",
+        "en:t": "Poland | Warsaw",
+        "a": true,
+        "g": {
+            "lat": 52.2633,
+            "lon": 21.0283
+        },
+        "it": "Praga-P\u00f3\u0142noc",
+        "it:t": "Polonia | Varsavia",
+        "es": "Praga-P\u00f3\u0142noc",
+        "es:t": "Polonia | Varsovia",
+        "de": "Praga-P\u00f3\u0142noc",
+        "de:t": "Polen | Warschau"
+    },
+    {
+        "en": "Prudnik",
+        "en:t": "Poland",
+        "a": true,
+        "g": {
+            "lat": 50.3207,
+            "lon": 17.5742
+        },
+        "it": "Prudnik",
+        "it:t": "Polonia",
+        "es": "Prudnik",
+        "es:t": "Polonia",
+        "de": "Prudnik",
+        "de:t": "Polen"
+    },
+    {
+        "en": "Pruszcz Gda\u0144ski",
+        "en:t": "Poland | Gda\u0144sk",
+        "a": true,
+        "g": {
+            "lat": 54.2622,
+            "lon": 18.6362
+        },
+        "it": "Pruszcz Gda\u0144ski",
+        "it:t": "Polonia | Danzica",
+        "es": "Pruszcz Gda\u0144ski",
+        "es:t": "Polonia | Gda\u0144sk",
+        "de": "Pruszcz Gda\u0144ski",
+        "de:t": "Polen | Powiat Gda\u0144ski"
+    },
+    {
+        "en": "Pruszk\u00f3w",
+        "en:t": "Poland",
+        "a": true,
+        "g": {
+            "lat": 52.1705,
+            "lon": 20.8119
+        },
+        "it": "Pruszk\u00f3w",
+        "it:t": "Polonia",
+        "es": "Pruszk\u00f3w",
+        "es:t": "Polonia",
+        "de": "Pruszk\u00f3w",
+        "de:t": "Polen"
+    },
+    {
+        "en": "Przasnysz",
+        "en:t": "Poland",
+        "a": true,
+        "g": {
+            "lat": 53.019,
+            "lon": 20.8804
+        },
+        "it": "Przasnysz",
+        "it:t": "Polonia",
+        "es": "Przasnysz",
+        "es:t": "Polonia",
+        "de": "Przasnysz",
+        "de:t": "Polen"
+    },
+    {
+        "en": "Przemy\u015bl",
+        "en:t": "Poland",
+        "a": true,
+        "g": {
+            "lat": 49.7839,
+            "lon": 22.7678
+        },
+        "it": "Przemy\u015bl",
+        "it:t": "Polonia",
+        "es": "Przemy\u015bl",
+        "es:t": "Polonia",
+        "de": "Przemy\u015bl",
+        "de:t": "Polen"
+    },
+    {
+        "en": "Przeworsk",
+        "en:t": "Poland",
+        "a": true,
+        "g": {
+            "lat": 50.0587,
+            "lon": 22.4938
+        },
+        "it": "Przeworsk",
+        "it:t": "Polonia",
+        "es": "Przeworsk",
+        "es:t": "Polonia",
+        "de": "Przeworsk",
+        "de:t": "Polen"
+    },
+    {
+        "en": "Pszczyna",
+        "en:t": "Poland",
+        "a": true,
+        "g": {
+            "lat": 49.9858,
+            "lon": 18.9477
+        },
+        "it": "Pszczyna",
+        "it:t": "Polonia",
+        "es": "Pszczyna",
+        "es:t": "Polonia",
+        "de": "Pszczyna",
+        "de:t": "Polen"
+    },
+    {
+        "en": "Pulawy",
+        "en:t": "Poland",
+        "a": true,
+        "g": {
+            "lat": 51.4164,
+            "lon": 21.9693
+        },
+        "it": "Pu\u0142awy",
+        "it:t": "Polonia",
+        "es": "Pu\u0142awy",
+        "es:t": "Polonia",
+        "de": "Pu\u0142awy",
+        "de:t": "Polen"
+    },
+    {
+        "en": "Pultusk",
+        "en:t": "Poland",
+        "a": true,
+        "g": {
+            "lat": 52.6975,
+            "lon": 21.0852
+        },
+        "it": "Pultusk",
+        "it:t": "Polonia",
+        "es": "Pu\u0142tusk",
+        "es:t": "Polonia",
+        "de": "Pu\u0142tusk",
+        "de:t": "Polen"
+    },
+    {
+        "en": "Pyskowice",
+        "en:t": "Poland | Gliwicki",
+        "a": true,
+        "g": {
+            "lat": 50.3956,
+            "lon": 18.6346
+        },
+        "it": "Pyskowice",
+        "it:t": "Polonia | Gliwicki",
+        "es": "Pyskowice",
+        "es:t": "Polonia | Gliwicki",
+        "de": "Pyskowice",
+        "de:t": "Polen | Gliwicki"
+    },
+    {
+        "en": "Raciborz",
+        "en:t": "Poland",
+        "a": true,
+        "g": {
+            "lat": 50.0915,
+            "lon": 18.2199
+        },
+        "it": "Racib\u00f3rz",
+        "it:t": "Polonia",
+        "es": "Racib\u00f3rz",
+        "es:t": "Polonia",
+        "de": "Ratibor",
+        "de:t": "Polen"
+    },
+    {
+        "en": "Radlin",
+        "en:t": "Poland | Wodzis\u0142aw",
+        "a": true,
+        "g": {
+            "lat": 50.0491,
+            "lon": 18.4769
+        },
+        "it": "Radlin",
+        "it:t": "Polonia | Wodzis\u0142aw \u015al\u0105ski",
+        "es": "Radlin",
+        "es:t": "Polonia | Wodzis\u0142aw",
+        "de": "Radlin",
+        "de:t": "Polen | Powiat Wodzis\u0142awski"
+    },
+    {
+        "en": "Radom",
+        "en:t": "Poland",
+        "a": true,
+        "g": {
+            "lat": 51.4027,
+            "lon": 21.1471
+        },
+        "it": "Radom",
+        "it:t": "Polonia",
+        "es": "Radom",
+        "es:t": "Polonia",
+        "de": "Radom",
+        "de:t": "Polen"
+    },
+    {
+        "en": "Radomsko",
+        "en:t": "Poland",
+        "a": true,
+        "g": {
+            "lat": 51.0669,
+            "lon": 19.4449
+        },
+        "it": "Radomsko",
+        "it:t": "Polonia",
+        "es": "Radomsko",
+        "es:t": "Polonia",
+        "de": "Radomsko",
+        "de:t": "Polen"
+    },
+    {
+        "en": "Radzionk\u00f3w",
+        "en:t": "Poland | Tarnowskie G\u00f3ry",
+        "a": true,
+        "g": {
+            "lat": 50.3998,
+            "lon": 18.9018
+        },
+        "it": "Radzionk\u00f3w",
+        "it:t": "Polonia | Tarnowskie G\u00f3ry",
+        "es": "Radzionk\u00f3w",
+        "es:t": "Polonia | Tarnowskie G\u00f3ry",
+        "de": "Radzionk\u00f3w",
+        "de:t": "Polen | Powiat Tarnog\u00f3rski"
+    },
+    {
+        "en": "Radzyn Podlaski",
+        "en:t": "Poland",
+        "a": true,
+        "g": {
+            "lat": 51.7832,
+            "lon": 22.6219
+        },
+        "it": "Radzy\u0144 Podlaski",
+        "it:t": "Polonia",
+        "es": "Radzyn Podlaski",
+        "es:t": "Polonia",
+        "de": "Radzy\u0144 Podlaski",
+        "de:t": "Polen"
+    },
+    {
+        "en": "Rawa Mazowiecka",
+        "en:t": "Poland | Rawa",
+        "a": true,
+        "g": {
+            "lat": 51.7662,
+            "lon": 20.2562
+        },
+        "it": "Rawa Mazowiecka",
+        "it:t": "Polonia | Rawa",
+        "es": "Rawa Mazowiecka",
+        "es:t": "Polonia | Rawa",
+        "de": "Rawa Mazowiecka",
+        "de:t": "Polen | Powiat Rawski"
+    },
+    {
+        "en": "Rawicz",
+        "en:t": "Poland",
+        "a": true,
+        "g": {
+            "lat": 51.6095,
+            "lon": 16.8586
+        },
+        "it": "Rawicz",
+        "it:t": "Polonia",
+        "es": "Rawicz",
+        "es:t": "Polonia",
+        "de": "Rawicz",
+        "de:t": "Polen"
+    },
+    {
+        "en": "Reda",
+        "en:t": "Poland | Pomeranian Voivodeship",
+        "a": true,
+        "g": {
+            "lat": 54.6083,
+            "lon": 18.3132
+        },
+        "it": "Reda",
+        "it:t": "Polonia | Wejherowo",
+        "es": "Reda",
+        "es:t": "Polonia | Wejherowo",
+        "de": "Reda",
+        "de:t": "Polen | Powiat Wejherowski"
+    },
+    {
+        "en": "Rembert\u00f3w",
+        "en:t": "Poland | Piaseczno",
+        "a": true,
+        "g": {
+            "lat": 51.9582,
+            "lon": 20.8395
+        },
+        "it": "Rembert\u00f3w",
+        "it:t": "Polonia | Piaseczno",
+        "es": "Rembert\u00f3w",
+        "es:t": "Polonia | Piaseczno",
+        "de": "Rembert\u00f3w",
+        "de:t": "Polen | Piaseczno"
+    },
+    {
+        "en": "Ropczyce",
+        "en:t": "Poland",
+        "a": true,
+        "g": {
+            "lat": 50.0523,
+            "lon": 21.6089
+        },
+        "it": "Ropczyce",
+        "it:t": "Polonia",
+        "es": "Ropczyce",
+        "es:t": "Polonia",
+        "de": "Ropczyce",
+        "de:t": "Polen"
+    },
+    {
+        "en": "Ruda Slaska",
+        "en:t": "Poland",
+        "a": true,
+        "g": {
+            "lat": 50.2558,
+            "lon": 18.8556
+        },
+        "it": "Ruda \u015al\u0105ska",
+        "it:t": "Polonia",
+        "es": "Ruda \u015al\u0105ska",
+        "es:t": "Polonia",
+        "de": "Ruda \u015al\u0105ska",
+        "de:t": "Polen"
+    },
+    {
+        "en": "Rumia",
+        "en:t": "Poland | Wejherowo",
+        "a": true,
+        "g": {
+            "lat": 54.5708,
+            "lon": 18.3878
+        },
+        "it": "Rumia",
+        "it:t": "Polonia | Wejherowo",
+        "es": "Rumia",
+        "es:t": "Polonia | Wejherowo",
+        "de": "Rumia",
+        "de:t": "Polen | Powiat Wejherowski"
+    },
+    {
+        "en": "Rybnik",
+        "en:t": "Poland",
+        "a": true,
+        "g": {
+            "lat": 50.1022,
+            "lon": 18.5463
+        },
+        "it": "Rybnik",
+        "it:t": "Polonia",
+        "es": "Rybnik",
+        "es:t": "Polonia",
+        "de": "Rybnik",
+        "de:t": "Polen"
+    },
+    {
+        "en": "Rydu\u0142towy",
+        "en:t": "Poland | Wodzis\u0142aw",
+        "a": true,
+        "g": {
+            "lat": 50.0579,
+            "lon": 18.4174
+        },
+        "it": "Rydu\u0142towy",
+        "it:t": "Polonia | Wodzis\u0142aw \u015al\u0105ski",
+        "es": "Rydu\u0142towy",
+        "es:t": "Polonia | Wodzis\u0142aw",
+        "de": "Rydu\u0142towy",
+        "de:t": "Polen | Powiat Wodzis\u0142awski"
+    },
+    {
+        "en": "Rypin",
+        "en:t": "Poland",
+        "a": true,
+        "g": {
+            "lat": 53.0657,
+            "lon": 19.4094
+        },
+        "it": "Rypin",
+        "it:t": "Polonia",
+        "es": "Rypin",
+        "es:t": "Polonia",
+        "de": "Rypin",
+        "de:t": "Polen"
+    },
+    {
+        "en": "Rzeszow",
+        "en:t": "Poland",
+        "a": true,
+        "g": {
+            "lat": 50.0412,
+            "lon": 21.9991
+        },
+        "it": "Rzesz\u00f3w",
+        "it:t": "Polonia",
+        "es": "Rzesz\u00f3w",
+        "es:t": "Polonia",
+        "de": "Rzesz\u00f3w",
+        "de:t": "Polen"
+    },
+    {
+        "en": "Sandomierz",
+        "en:t": "Poland",
+        "a": true,
+        "g": {
+            "lat": 50.6822,
+            "lon": 21.7502
+        },
+        "it": "Sandomierz",
+        "it:t": "Polonia",
+        "es": "Sandomierz",
+        "es:t": "Polonia",
+        "de": "Sandomierz",
+        "de:t": "Polen"
+    },
+    {
+        "en": "Sanok",
+        "en:t": "Poland",
+        "a": true,
+        "g": {
+            "lat": 49.555,
+            "lon": 22.2061
+        },
+        "it": "Sanok",
+        "it:t": "Polonia",
+        "es": "Sanok",
+        "es:t": "Polonia",
+        "de": "Sanok",
+        "de:t": "Polen"
+    },
+    {
+        "en": "Siedlce",
+        "en:t": "Poland",
+        "a": true,
+        "g": {
+            "lat": 52.1676,
+            "lon": 22.2902
+        },
+        "it": "Siedlce",
+        "it:t": "Polonia",
+        "es": "Siedlce",
+        "es:t": "Polonia",
+        "de": "Siedlce",
+        "de:t": "Polen"
+    },
+    {
+        "en": "Siemianowice Slaskie",
+        "en:t": "Poland",
+        "a": true,
+        "g": {
+            "lat": 50.3264,
+            "lon": 19.0296
+        },
+        "it": "Siemianowice \u015al\u0105skie",
+        "it:t": "Polonia",
+        "es": "Siemianowice Slaskie",
+        "es:t": "Polonia",
+        "de": "Siemianowice \u015al\u0105skie",
+        "de:t": "Polen"
+    },
+    {
+        "en": "Siemiatycze",
+        "en:t": "Poland",
+        "a": true,
+        "g": {
+            "lat": 52.4273,
+            "lon": 22.8637
+        },
+        "it": "Siemiatycze",
+        "it:t": "Polonia",
+        "es": "Siemiatycze",
+        "es:t": "Polonia",
+        "de": "Siemiatycze",
+        "de:t": "Polen"
+    },
+    {
+        "en": "Sieradz",
+        "en:t": "Poland",
+        "a": true,
+        "g": {
+            "lat": 51.5956,
+            "lon": 18.7303
+        },
+        "it": "Sieradz",
+        "it:t": "Polonia",
+        "es": "Sieradz",
+        "es:t": "Polonia",
+        "de": "Sieradz",
+        "de:t": "Polen"
+    },
+    {
+        "en": "Sierpc",
+        "en:t": "Poland",
+        "a": true,
+        "g": {
+            "lat": 52.8568,
+            "lon": 19.6694
+        },
+        "it": "Sierpc",
+        "it:t": "Polonia",
+        "es": "Sierpc",
+        "es:t": "Polonia",
+        "de": "Sierpc",
+        "de:t": "Polen"
+    },
+    {
+        "en": "Skar\u017cysko-Kamienna",
+        "en:t": "Poland",
+        "a": true,
+        "g": {
+            "lat": 51.1143,
+            "lon": 20.8478
+        },
+        "it": "Skar\u017cysko-Kamienna",
+        "it:t": "Polonia",
+        "es": "Skar\u017cysko-Kamienna",
+        "es:t": "Polonia",
+        "de": "Skar\u017cysko-Kamienna",
+        "de:t": "Polen"
+    },
+    {
+        "en": "Skawina",
+        "en:t": "Poland | Krakowski",
+        "a": true,
+        "g": {
+            "lat": 49.9752,
+            "lon": 19.8289
+        },
+        "it": "Skawina",
+        "it:t": "Polonia | Krakowski",
+        "es": "Skawina",
+        "es:t": "Polonia | Krakowski",
+        "de": "Skawina",
+        "de:t": "Polen | Krakowski"
+    },
+    {
+        "en": "Skierniewice",
+        "en:t": "Poland",
+        "a": true,
+        "g": {
+            "lat": 51.9547,
+            "lon": 20.1583
+        },
+        "it": "Skierniewice",
+        "it:t": "Polonia",
+        "es": "Skierniewice",
+        "es:t": "Polonia",
+        "de": "Skierniewice",
+        "de:t": "Polen"
+    },
+    {
+        "en": "Slubice",
+        "en:t": "Poland",
+        "a": true,
+        "g": {
+            "lat": 52.3511,
+            "lon": 14.5605
+        },
+        "it": "S\u0142ubice",
+        "it:t": "Polonia",
+        "es": "S\u0142ubice",
+        "es:t": "Polonia",
+        "de": "S\u0142ubice",
+        "de:t": "Polen"
+    },
+    {
+        "en": "Slupsk",
+        "en:t": "Poland",
+        "a": true,
+        "g": {
+            "lat": 54.4641,
+            "lon": 17.0285
+        },
+        "it": "S\u0142upsk",
+        "it:t": "Polonia",
+        "es": "S\u0142upsk",
+        "es:t": "Polonia",
+        "de": "Slupsk",
+        "de:t": "Polen"
+    },
+    {
+        "en": "Sochaczew",
+        "en:t": "Poland",
+        "a": true,
+        "g": {
+            "lat": 52.2293,
+            "lon": 20.2384
+        },
+        "it": "Sochaczew",
+        "it:t": "Polonia",
+        "es": "Sochaczew",
+        "es:t": "Polonia",
+        "de": "Sochaczew",
+        "de:t": "Polen"
+    },
+    {
+        "en": "Sokolka",
+        "en:t": "Poland",
+        "a": true,
+        "g": {
+            "lat": 53.4062,
+            "lon": 23.503
+        },
+        "it": "Sok\u00f3\u0142ka",
+        "it:t": "Polonia",
+        "es": "Sokolka",
+        "es:t": "Polonia",
+        "de": "Sok\u00f3\u0142ka",
+        "de:t": "Polen"
+    },
+    {
+        "en": "Soko\u0142\u00f3w Podlaski",
+        "en:t": "Poland",
+        "a": true,
+        "g": {
+            "lat": 52.407,
+            "lon": 22.2534
+        },
+        "it": "Soko\u0142\u00f3w Podlaski",
+        "it:t": "Polonia",
+        "es": "Soko\u0142\u00f3w Podlaski",
+        "es:t": "Polonia",
+        "de": "Soko\u0142\u00f3w Podlaski",
+        "de:t": "Polen"
+    },
+    {
+        "en": "Solec Kujawski",
+        "en:t": "Poland | Bydgoski",
+        "a": true,
+        "g": {
+            "lat": 53.0833,
+            "lon": 18.2258
+        },
+        "it": "Solec Kujawski",
+        "it:t": "Polonia | Bydgoski",
+        "es": "Solec Kujawski",
+        "es:t": "Polonia | Bydgoski",
+        "de": "Solec Kujawski",
+        "de:t": "Polen | Bydgoski"
+    },
+    {
+        "en": "Sopot",
+        "en:t": "Poland",
+        "a": true,
+        "g": {
+            "lat": 54.4416,
+            "lon": 18.5601
+        },
+        "it": "Sopot",
+        "it:t": "Polonia",
+        "es": "Sopot",
+        "es:t": "Polonia",
+        "de": "Zoppot",
+        "de:t": "Polen"
+    },
+    {
+        "en": "Sosnowiec",
+        "en:t": "Poland",
+        "a": true,
+        "g": {
+            "lat": 50.2863,
+            "lon": 19.1041
+        },
+        "it": "Sosnowiec",
+        "it:t": "Polonia",
+        "es": "Sosnowiec",
+        "es:t": "Polonia",
+        "de": "Sosnowiec",
+        "de:t": "Polen"
+    },
+    {
+        "en": "Stalowa Wola",
+        "en:t": "Poland",
+        "a": true,
+        "g": {
+            "lat": 50.5826,
+            "lon": 22.0536
+        },
+        "it": "Stalowa Wola",
+        "it:t": "Polonia",
+        "es": "Stalowa Wola",
+        "es:t": "Polonia",
+        "de": "Stalowa Wola",
+        "de:t": "Polen"
+    },
+    {
+        "en": "Starachowice",
+        "en:t": "Poland",
+        "a": true,
+        "g": {
+            "lat": 51.0368,
+            "lon": 21.071
+        },
+        "it": "Starachowice",
+        "it:t": "Polonia",
+        "es": "Starachowice",
+        "es:t": "Polonia",
+        "de": "Starachowice",
+        "de:t": "Polen"
+    },
+    {
+        "en": "Stargard",
+        "en:t": "Poland",
+        "a": true,
+        "g": {
+            "lat": 53.3365,
+            "lon": 15.0504
+        },
+        "it": "Stargard Szczeci\u0144ski",
+        "it:t": "Polonia",
+        "es": "Stargard Szczeci\u0144ski",
+        "es:t": "Polonia",
+        "de": "Stargard Szczeci\u0144ski",
+        "de:t": "Polen"
+    },
+    {
+        "en": "Starogard Gda\u0144ski",
+        "en:t": "Poland",
+        "a": true,
+        "g": {
+            "lat": 53.9656,
+            "lon": 18.5163
+        },
+        "it": "Starogard Gda\u0144ski",
+        "it:t": "Polonia",
+        "es": "Starogard Gda\u0144ski",
+        "es:t": "Polonia",
+        "de": "Starogard Gda\u0144ski",
+        "de:t": "Polen"
+    },
+    {
+        "en": "Staszow",
+        "en:t": "Poland",
+        "a": true,
+        "g": {
+            "lat": 50.563,
+            "lon": 21.1659
+        },
+        "it": "Staszow",
+        "it:t": "Polonia",
+        "es": "Staszow",
+        "es:t": "Polonia",
+        "de": "Stasz\u00f3w",
+        "de:t": "Polen"
+    },
+    {
+        "en": "Strzegom",
+        "en:t": "Poland | \u015awidnica",
+        "a": true,
+        "g": {
+            "lat": 50.9605,
+            "lon": 16.351
+        },
+        "it": "Strzegom",
+        "it:t": "Polonia | \u015awidnica",
+        "es": "Strzegom",
+        "es:t": "Polonia | \u015awidnica",
+        "de": "Striegau",
+        "de:t": "Polen | Powiat \u015awidnicki"
+    },
+    {
+        "en": "Strzelce Opolskie",
+        "en:t": "Poland | Strzelce",
+        "a": true,
+        "g": {
+            "lat": 50.5109,
+            "lon": 18.2999
+        },
+        "it": "Strzelce Opolskie",
+        "it:t": "Polonia | Strzelce",
+        "es": "Strzelce Opolskie",
+        "es:t": "Polonia | Strzelce",
+        "de": "Gro\u00df Strehlitz",
+        "de:t": "Polen | Powiat Strzelecki"
+    },
+    {
+        "en": "Sulechow",
+        "en:t": "Poland | Zielonog\u00f3rski",
+        "a": true,
+        "g": {
+            "lat": 52.0832,
+            "lon": 15.6253
+        },
+        "it": "Sulech\u00f3w",
+        "it:t": "Polonia | Zielonog\u00f3rski",
+        "es": "Sulech\u00f3w",
+        "es:t": "Polonia | Zielonog\u00f3rski",
+        "de": "Sulech\u00f3w",
+        "de:t": "Polen | Zielonog\u00f3rski"
+    },
+    {
+        "en": "Sulejowek",
+        "en:t": "Poland | Mi\u0144sk",
+        "a": true,
+        "g": {
+            "lat": 52.2524,
+            "lon": 21.269
+        },
+        "it": "Sulej\u00f3wek",
+        "it:t": "Polonia | Mi\u0144sk",
+        "es": "Sulej\u00f3wek",
+        "es:t": "Polonia | Mi\u0144sk",
+        "de": "Sulej\u00f3wek",
+        "de:t": "Polen | Powiat Mi\u0144ski"
+    },
+    {
+        "en": "Suwalki",
+        "en:t": "Poland",
+        "a": true,
+        "g": {
+            "lat": 54.1115,
+            "lon": 22.9308
+        },
+        "it": "Suwa\u0142ki",
+        "it:t": "Polonia",
+        "es": "Suwa\u0142ki",
+        "es:t": "Polonia",
+        "de": "Suwalken",
+        "de:t": "Polen"
+    },
+    {
+        "en": "Swarz\u0119dz",
+        "en:t": "Poland | Pozna\u0144ski",
+        "a": true,
+        "g": {
+            "lat": 52.4125,
+            "lon": 17.0856
+        },
+        "it": "Swarz\u0119dz",
+        "it:t": "Polonia | Pozna\u0144ski",
+        "es": "Swarz\u0119dz",
+        "es:t": "Polonia | Pozna\u0144ski",
+        "de": "Swarz\u0119dz",
+        "de:t": "Polen | Pozna\u0144ski"
+    },
+    {
+        "en": "Swidwin",
+        "en:t": "Poland",
+        "a": true,
+        "g": {
+            "lat": 53.7756,
+            "lon": 15.7742
+        },
+        "it": "\u015awidwin",
+        "it:t": "Polonia",
+        "es": "Swidwin",
+        "es:t": "Polonia",
+        "de": "\u015awidwin",
+        "de:t": "Polen"
+    },
+    {
+        "en": "Swiebodzin",
+        "en:t": "Poland",
+        "a": true,
+        "g": {
+            "lat": 52.2473,
+            "lon": 15.5336
+        },
+        "it": "Swiebodzin",
+        "it:t": "Polonia",
+        "es": "\u015awiebodzin",
+        "es:t": "Polonia",
+        "de": "Schwiebus",
+        "de:t": "Polen"
+    },
+    {
+        "en": "Swiecie",
+        "en:t": "Poland",
+        "a": true,
+        "g": {
+            "lat": 53.4094,
+            "lon": 18.4474
+        },
+        "it": "\u015awiecie",
+        "it:t": "Polonia",
+        "es": "\u015awiecie",
+        "es:t": "Polonia",
+        "de": "\u015awiecie",
+        "de:t": "Polen"
+    },
+    {
+        "en": "Swinoujscie",
+        "en:t": "Poland",
+        "a": true,
+        "g": {
+            "lat": 53.91,
+            "lon": 14.2476
+        },
+        "it": "\u015awinouj\u015bcie",
+        "it:t": "Polonia",
+        "es": "\u015awinouj\u015bcie",
+        "es:t": "Polonia",
+        "de": "Swinem\u00fcnde",
+        "de:t": "Polen"
+    },
+    {
+        "en": "Szamotuly",
+        "en:t": "Poland",
+        "a": true,
+        "g": {
+            "lat": 52.6117,
+            "lon": 16.5779
+        },
+        "it": "Szamotuly",
+        "it:t": "Polonia",
+        "es": "Szamotu\u0142y",
+        "es:t": "Polonia",
+        "de": "Szamotu\u0142y",
+        "de:t": "Polen"
+    },
+    {
+        "en": "Szczecinek",
+        "en:t": "Poland",
+        "a": true,
+        "g": {
+            "lat": 53.7101,
+            "lon": 16.6994
+        },
+        "it": "Szczecinek",
+        "it:t": "Polonia",
+        "es": "Szczecinek",
+        "es:t": "Polonia",
+        "de": "Szczecinek",
+        "de:t": "Polen"
+    },
+    {
+        "en": "Szczytno",
+        "en:t": "Poland",
+        "a": true,
+        "g": {
+            "lat": 53.5635,
+            "lon": 20.9952
+        },
+        "it": "Szczytno",
+        "it:t": "Polonia",
+        "es": "Szczytno",
+        "es:t": "Polonia",
+        "de": "Szczytno",
+        "de:t": "Polen"
+    },
+    {
+        "en": "Targ\u00f3wek",
+        "en:t": "Poland | Warsaw",
+        "a": true,
+        "g": {
+            "lat": 52.2824,
+            "lon": 21.0654
+        },
+        "it": "Targ\u00f3wek",
+        "it:t": "Polonia | Varsavia",
+        "es": "Targ\u00f3wek",
+        "es:t": "Polonia | Varsovia",
+        "de": "Targ\u00f3wek",
+        "de:t": "Polen | Warschau"
+    },
+    {
+        "en": "Tarnobrzeg",
+        "en:t": "Poland",
+        "a": true,
+        "g": {
+            "lat": 50.5729,
+            "lon": 21.6791
+        },
+        "it": "Tarnobrzeg",
+        "it:t": "Polonia",
+        "es": "Tarnobrzeg",
+        "es:t": "Polonia",
+        "de": "Tarnobrzeg",
+        "de:t": "Polen"
+    },
+    {
+        "en": "Tarnow",
+        "en:t": "Poland",
+        "a": true,
+        "g": {
+            "lat": 50.0121,
+            "lon": 20.9858
+        },
+        "it": "Tarn\u00f3w",
+        "it:t": "Polonia",
+        "es": "Tarn\u00f3w",
+        "es:t": "Polonia",
+        "de": "Tarn\u00f3w",
+        "de:t": "Polen"
+    },
+    {
+        "en": "Tarnowskie Gory",
+        "en:t": "Poland",
+        "a": true,
+        "g": {
+            "lat": 50.4359,
+            "lon": 18.846
+        },
+        "it": "Tarnowskie G\u00f3ry",
+        "it:t": "Polonia",
+        "es": "Tarnowskie G\u00f3ry",
+        "es:t": "Polonia",
+        "de": "Tarnowitz",
+        "de:t": "Polen"
+    },
+    {
+        "en": "Tczew",
+        "en:t": "Poland",
+        "a": true,
+        "g": {
+            "lat": 54.0919,
+            "lon": 18.7773
+        },
+        "it": "Tczew",
+        "it:t": "Polonia",
+        "es": "Tczew",
+        "es:t": "Polonia",
+        "de": "Dirschau",
+        "de:t": "Polen"
+    },
+    {
+        "en": "Tomaszow Lubelski",
+        "en:t": "Poland",
+        "a": true,
+        "g": {
+            "lat": 50.447,
+            "lon": 23.4163
+        },
+        "it": "Tomasz\u00f3w Lubelski",
+        "it:t": "Polonia",
+        "es": "Tomaszow Lubelski",
+        "es:t": "Polonia",
+        "de": "Tomasz\u00f3w Lubelski",
+        "de:t": "Polen"
+    },
+    {
+        "en": "Tomaszow Mazowiecki",
+        "en:t": "Poland",
+        "a": true,
+        "g": {
+            "lat": 51.5312,
+            "lon": 20.0086
+        },
+        "it": "Tomasz\u00f3w Mazowiecki",
+        "it:t": "Polonia",
+        "es": "Tomaszow Mazowiecki",
+        "es:t": "Polonia",
+        "de": "Tomasz\u00f3w Mazowiecki",
+        "de:t": "Polen"
+    },
+    {
+        "en": "Torun",
+        "en:t": "Poland",
+        "a": true,
+        "g": {
+            "lat": 53.0138,
+            "lon": 18.5984
+        },
+        "it": "Toru\u0144",
+        "it:t": "Polonia",
+        "es": "Toru\u0144",
+        "es:t": "Polonia",
+        "de": "Toru\u0144",
+        "de:t": "Polen"
+    },
+    {
+        "en": "Trzcianka",
+        "en:t": "Poland | Czarnk\u00f3w-Trzcianka",
+        "a": true,
+        "g": {
+            "lat": 53.0419,
+            "lon": 16.4617
+        },
+        "it": "Trzcianka",
+        "it:t": "Polonia | Czarnk\u00f3w e Trzcianka",
+        "es": "Trzcianka",
+        "es:t": "Polonia | Czarnk\u00f3w-Trzcianka",
+        "de": "Trzcianka",
+        "de:t": "Polen | Powiat Czarnkowsko-Trzcianecki"
+    },
+    {
+        "en": "Trzebinia",
+        "en:t": "Poland | Chrzan\u00f3w",
+        "a": true,
+        "g": {
+            "lat": 50.1585,
+            "lon": 19.4694
+        },
+        "it": "Trzebinia",
+        "it:t": "Polonia | Chrzan\u00f3w",
+        "es": "Trzebinia",
+        "es:t": "Polonia | Chrzan\u00f3w",
+        "de": "Trzebinia",
+        "de:t": "Polen | Powiat Chrzanowski"
+    },
+    {
+        "en": "Turek",
+        "en:t": "Poland",
+        "a": true,
+        "g": {
+            "lat": 52.0146,
+            "lon": 18.5009
+        },
+        "it": "Turek",
+        "it:t": "Polonia",
+        "es": "Turek",
+        "es:t": "Polonia",
+        "de": "Turek",
+        "de:t": "Polen"
+    },
+    {
+        "en": "Tychy",
+        "en:t": "Poland",
+        "a": true,
+        "g": {
+            "lat": 50.1218,
+            "lon": 19.02
+        },
+        "it": "Tychy",
+        "it:t": "Polonia",
+        "es": "Tychy",
+        "es:t": "Polonia",
+        "de": "Tychy",
+        "de:t": "Polen"
+    },
+    {
+        "en": "Ursus",
+        "en:t": "Poland | Warsaw",
+        "a": true,
+        "g": {
+            "lat": 52.1951,
+            "lon": 20.8838
+        },
+        "it": "Ursus",
+        "it:t": "Polonia | Varsavia",
+        "es": "Ursus",
+        "es:t": "Polonia | Varsovia",
+        "de": "Ursus",
+        "de:t": "Polen | Warschau"
+    },
+    {
+        "en": "Ursyn\u00f3w",
+        "en:t": "Poland | Kozienice",
+        "a": true,
+        "g": {
+            "lat": 51.5691,
+            "lon": 21.3738
+        },
+        "it": "Ursyn\u00f3w",
+        "it:t": "Polonia | Varsavia",
+        "es": "Ursyn\u00f3w",
+        "es:t": "Polonia | Varsovia",
+        "de": "Ursyn\u00f3w",
+        "de:t": "Polen | Kozienice"
+    },
+    {
+        "en": "Ustka",
+        "en:t": "Poland | S\u0142upski",
+        "a": true,
+        "g": {
+            "lat": 54.5806,
+            "lon": 16.8619
+        },
+        "it": "Ustka",
+        "it:t": "Polonia | S\u0142upski",
+        "es": "Ustka",
+        "es:t": "Polonia | S\u0142upski",
+        "de": "Ustka",
+        "de:t": "Polen | S\u0142upski"
+    },
+    {
+        "en": "Ustro\u0144",
+        "en:t": "Poland | Cieszyn",
+        "a": true,
+        "g": {
+            "lat": 49.7197,
+            "lon": 18.8121
+        },
+        "it": "Ustro\u0144",
+        "it:t": "Polonia | Cieszyn",
+        "es": "Ustro\u0144",
+        "es:t": "Polonia | Cieszyn",
+        "de": "Ustro\u0144",
+        "de:t": "Polen | Powiat Cieszy\u0144ski"
+    },
+    {
+        "en": "Wadowice",
+        "en:t": "Poland",
+        "a": true,
+        "g": {
+            "lat": 49.8828,
+            "lon": 19.494
+        },
+        "it": "Wadowice",
+        "it:t": "Polonia",
+        "es": "Wadowice",
+        "es:t": "Polonia",
+        "de": "Wadowice",
+        "de:t": "Polen"
+    },
+    {
+        "en": "Wagrowiec",
+        "en:t": "Poland",
+        "a": true,
+        "g": {
+            "lat": 52.8085,
+            "lon": 17.1997
+        },
+        "it": "W\u0105growiec",
+        "it:t": "Polonia",
+        "es": "Wagrowiec",
+        "es:t": "Polonia",
+        "de": "W\u0105growiec",
+        "de:t": "Polen"
+    },
+    {
+        "en": "Walcz",
+        "en:t": "Poland",
+        "a": true,
+        "g": {
+            "lat": 53.2735,
+            "lon": 16.4753
+        },
+        "it": "Wa\u0142cz",
+        "it:t": "Polonia",
+        "es": "Walcz",
+        "es:t": "Polonia",
+        "de": "Wa\u0142cz",
+        "de:t": "Polen"
+    },
+    {
+        "en": "Warsaw",
+        "en:t": "Poland | Warszawa",
+        "a": true,
+        "g": {
+            "lat": 52.2297,
+            "lon": 21.0122
+        },
+        "it": "Varsavia",
+        "it:t": "Polonia | Warszawa",
+        "es": "Varsovia",
+        "es:t": "Polonia | Warszawa",
+        "de": "Warschau",
+        "de:t": "Polen | Warszawa"
+    },
+    {
+        "en": "Wawer",
+        "en:t": "Poland | Warsaw",
+        "a": true,
+        "g": {
+            "lat": 52.1962,
+            "lon": 21.1782
+        },
+        "it": "Wawer",
+        "it:t": "Polonia | Varsavia",
+        "es": "Wawer",
+        "es:t": "Polonia | Varsovia",
+        "de": "Wawer",
+        "de:t": "Polen | Warschau"
+    },
+    {
+        "en": "Wa\u0142brzych",
+        "en:t": "Poland",
+        "a": true,
+        "g": {
+            "lat": 50.784,
+            "lon": 16.2844
+        },
+        "it": "Wa\u0142brzych",
+        "it:t": "Polonia",
+        "es": "Wa\u0142brzych",
+        "es:t": "Polonia",
+        "de": "Wa\u0142brzych",
+        "de:t": "Polen"
+    },
+    {
+        "en": "Wejherowo",
+        "en:t": "Poland",
+        "a": true,
+        "g": {
+            "lat": 54.6003,
+            "lon": 18.233
+        },
+        "it": "Wejherowo",
+        "it:t": "Polonia",
+        "es": "Wejherowo",
+        "es:t": "Polonia",
+        "de": "Wejherowo",
+        "de:t": "Polen"
+    },
+    {
+        "en": "Weso\u0142a",
+        "en:t": "Poland | Warsaw",
+        "a": true,
+        "g": {
+            "lat": 52.2329,
+            "lon": 21.2252
+        },
+        "it": "Weso\u0142a",
+        "it:t": "Polonia | Varsavia",
+        "es": "Weso\u0142a",
+        "es:t": "Polonia | Varsovia",
+        "de": "Weso\u0142a",
+        "de:t": "Polen | Warschau"
+    },
+    {
+        "en": "Szczecin",
+        "en:t": "Poland",
+        "a": true,
+        "g": {
+            "lat": 53.4658,
+            "lon": 15.1823
+        },
+        "it": "Stettino",
+        "it:t": "Polonia",
+        "es": "Szczecin",
+        "es:t": "Polonia",
+        "de": "Stettin",
+        "de:t": "Polen"
+    },
+    {
+        "en": "Wieliczka",
+        "en:t": "Poland",
+        "a": true,
+        "g": {
+            "lat": 49.9871,
+            "lon": 20.0648
+        },
+        "it": "Wieliczka",
+        "it:t": "Polonia",
+        "es": "Wieliczka",
+        "es:t": "Polonia",
+        "de": "Wieliczka",
+        "de:t": "Polen"
+    },
+    {
+        "en": "Wielun",
+        "en:t": "Poland",
+        "a": true,
+        "g": {
+            "lat": 51.2186,
+            "lon": 18.5689
+        },
+        "it": "Wielun",
+        "it:t": "Polonia",
+        "es": "Wielu\u0144",
+        "es:t": "Polonia",
+        "de": "Wielu\u0144",
+        "de:t": "Polen"
+    },
+    {
+        "en": "Wloclawek",
+        "en:t": "Poland",
+        "a": true,
+        "g": {
+            "lat": 52.6483,
+            "lon": 19.0677
+        },
+        "it": "W\u0142oc\u0142awek",
+        "it:t": "Polonia",
+        "es": "W\u0142oc\u0142awek",
+        "es:t": "Polonia",
+        "de": "W\u0142oc\u0142awek",
+        "de:t": "Polen"
+    },
+    {
+        "en": "Wodzislaw Slaski",
+        "en:t": "Poland",
+        "a": true,
+        "g": {
+            "lat": 50.0031,
+            "lon": 18.4719
+        },
+        "it": "Wodzis\u0142aw \u015al\u0105ski",
+        "it:t": "Polonia",
+        "es": "Wodzis\u0142aw \u015al\u0105ski",
+        "es:t": "Polonia",
+        "de": "Wodzis\u0142aw \u015al\u0105ski",
+        "de:t": "Polen"
+    },
+    {
+        "en": "Wola",
+        "en:t": "Poland | Warsaw",
+        "a": true,
+        "g": {
+            "lat": 52.2334,
+            "lon": 20.9572
+        },
+        "it": "Wola",
+        "it:t": "Polonia | Varsavia",
+        "es": "Wola",
+        "es:t": "Polonia | Varsovia",
+        "de": "Wola",
+        "de:t": "Polen | Warschau"
+    },
+    {
+        "en": "Wolomin",
+        "en:t": "Poland",
+        "a": true,
+        "g": {
+            "lat": 52.3391,
+            "lon": 21.2423
+        },
+        "it": "Wolomin",
+        "it:t": "Polonia",
+        "es": "Wo\u0142omin",
+        "es:t": "Polonia",
+        "de": "Wo\u0142omin",
+        "de:t": "Polen"
+    },
+    {
+        "en": "Wroc\u0142aw",
+        "en:t": "Poland",
+        "a": true,
+        "g": {
+            "lat": 51.1079,
+            "lon": 17.0385
+        },
+        "it": "Wroclaw",
+        "it:t": "Polonia",
+        "es": "Wroclaw",
+        "es:t": "Polonia",
+        "de": "Wroclaw",
+        "de:t": "Polen"
+    },
+    {
+        "en": "Wrze\u015bnia",
+        "en:t": "Poland",
+        "a": true,
+        "g": {
+            "lat": 52.3238,
+            "lon": 17.5665
+        },
+        "it": "Wrze\u015bnia",
+        "it:t": "Polonia",
+        "es": "Wrze\u015bnia",
+        "es:t": "Polonia",
+        "de": "Wreschen",
+        "de:t": "Polen"
+    },
+    {
+        "en": "Wyszkow",
+        "en:t": "Poland",
+        "a": true,
+        "g": {
+            "lat": 52.5929,
+            "lon": 21.4584
+        },
+        "it": "Wyszk\u00f3w",
+        "it:t": "Polonia",
+        "es": "Wyszk\u00f3w",
+        "es:t": "Polonia",
+        "de": "Wyszk\u00f3w",
+        "de:t": "Polen"
+    },
+    {
+        "en": "W\u0142ochy",
+        "en:t": "Poland | Warsaw",
+        "a": true,
+        "g": {
+            "lat": 52.1799,
+            "lon": 20.9478
+        },
+        "it": "W\u0142ochy",
+        "it:t": "Polonia | Varsavia",
+        "es": "W\u0142ochy",
+        "es:t": "Polonia | Varsovia",
+        "de": "W\u0142ochy",
+        "de:t": "Polen | Warschau"
+    },
+    {
+        "en": "Zabki",
+        "en:t": "Poland | Wo\u0142omin",
+        "a": true,
+        "g": {
+            "lat": 52.2871,
+            "lon": 21.108
+        },
+        "it": "Z\u0105bki",
+        "it:t": "Polonia | Wo\u0142omin",
+        "es": "Zabki",
+        "es:t": "Polonia | Wo\u0142omin",
+        "de": "Z\u0105bki",
+        "de:t": "Polen | Powiat Wo\u0142omi\u0144ski"
+    },
+    {
+        "en": "Zabrze",
+        "en:t": "Poland",
+        "a": true,
+        "g": {
+            "lat": 50.3249,
+            "lon": 18.7857
+        },
+        "it": "Zabrze",
+        "it:t": "Polonia",
+        "es": "Zabrze",
+        "es:t": "Polonia",
+        "de": "Zabrze",
+        "de:t": "Polen"
+    },
+    {
+        "en": "Zagan",
+        "en:t": "Poland",
+        "a": true,
+        "g": {
+            "lat": 51.6178,
+            "lon": 15.3248
+        },
+        "it": "\u017baga\u0144",
+        "it:t": "Polonia",
+        "es": "\u017baga\u0144",
+        "es:t": "Polonia",
+        "de": "Sagan",
+        "de:t": "Polen"
+    },
+    {
+        "en": "Zakopane",
+        "en:t": "Poland | Tatra",
+        "a": true,
+        "g": {
+            "lat": 49.2992,
+            "lon": 19.9496
+        },
+        "it": "Zakopane",
+        "it:t": "Polonia | Tatra",
+        "es": "Zakopane",
+        "es:t": "Polonia | Tatra",
+        "de": "Zakopane",
+        "de:t": "Polen | Powiat Tatrza\u0144ski"
+    },
+    {
+        "en": "Zambrow",
+        "en:t": "Poland",
+        "a": true,
+        "g": {
+            "lat": 52.985,
+            "lon": 22.2414
+        },
+        "it": "Zambr\u00f3w",
+        "it:t": "Polonia",
+        "es": "Zambrow",
+        "es:t": "Polonia",
+        "de": "Zambr\u00f3w",
+        "de:t": "Polen"
+    },
+    {
+        "en": "Zamosc",
+        "en:t": "Poland",
+        "a": true,
+        "g": {
+            "lat": 50.7231,
+            "lon": 23.252
+        },
+        "it": "Zamo\u015b\u0107",
+        "it:t": "Polonia",
+        "es": "Zamo\u015b\u0107",
+        "es:t": "Polonia",
+        "de": "Zamo\u015b\u0107",
+        "de:t": "Polen"
+    },
+    {
+        "en": "Zawiercie",
+        "en:t": "Poland",
+        "a": true,
+        "g": {
+            "lat": 50.4877,
+            "lon": 19.4166
+        },
+        "it": "Zawiercie",
+        "it:t": "Polonia",
+        "es": "Zawiercie",
+        "es:t": "Polonia",
+        "de": "Zawiercie",
+        "de:t": "Polen"
+    },
+    {
+        "en": "Zdunska Wola",
+        "en:t": "Poland",
+        "a": true,
+        "g": {
+            "lat": 51.599,
+            "lon": 18.9393
+        },
+        "it": "Zdu\u0144ska Wola",
+        "it:t": "Polonia",
+        "es": "Zdunska Wola",
+        "es:t": "Polonia",
+        "de": "Zdu\u0144ska Wola",
+        "de:t": "Polen"
+    },
+    {
+        "en": "Zgierz",
+        "en:t": "Poland",
+        "a": true,
+        "g": {
+            "lat": 51.8551,
+            "lon": 19.4061
+        },
+        "it": "Zgierz",
+        "it:t": "Polonia",
+        "es": "Zgierz",
+        "es:t": "Polonia",
+        "de": "Zgierz",
+        "de:t": "Polen"
+    },
+    {
+        "en": "Zgorzelec",
+        "en:t": "Poland",
+        "a": true,
+        "g": {
+            "lat": 51.1496,
+            "lon": 15.0066
+        },
+        "it": "Zgorzelec",
+        "it:t": "Polonia",
+        "es": "Zgorzelec",
+        "es:t": "Polonia",
+        "de": "Zgorzelec",
+        "de:t": "Polen"
+    },
+    {
+        "en": "Zielona Gora",
+        "en:t": "Poland",
+        "a": true,
+        "g": {
+            "lat": 51.9356,
+            "lon": 15.5062
+        },
+        "it": "Zielona G\u00f3ra",
+        "it:t": "Polonia",
+        "es": "Zielona G\u00f3ra",
+        "es:t": "Polonia",
+        "de": "Zielona G\u00f3ra",
+        "de:t": "Polen"
+    },
+    {
+        "en": "Zielonka",
+        "en:t": "Poland | Wo\u0142omin",
+        "a": true,
+        "g": {
+            "lat": 52.3034,
+            "lon": 21.1607
+        },
+        "it": "Zielonka",
+        "it:t": "Polonia | Wo\u0142omin",
+        "es": "Zielonka",
+        "es:t": "Polonia | Wo\u0142omin",
+        "de": "Zielonka",
+        "de:t": "Polen | Powiat Wo\u0142omi\u0144ski"
+    },
+    {
+        "en": "Zlotow",
+        "en:t": "Poland",
+        "a": true,
+        "g": {
+            "lat": 53.3638,
+            "lon": 17.0405
+        },
+        "it": "Z\u0142ot\u00f3w",
+        "it:t": "Polonia",
+        "es": "Zlotow",
+        "es:t": "Polonia",
+        "de": "Z\u0142ot\u00f3w",
+        "de:t": "Polen"
+    },
+    {
+        "en": "Zory",
+        "en:t": "Poland",
+        "a": true,
+        "g": {
+            "lat": 50.0447,
+            "lon": 18.7006
+        },
+        "it": "\u017bory",
+        "it:t": "Polonia",
+        "es": "\u017bory",
+        "es:t": "Polonia",
+        "de": "\u017bory",
+        "de:t": "Polen"
+    },
+    {
+        "en": "Z\u0105bkowice \u015al\u0105skie",
+        "en:t": "Poland",
+        "a": true,
+        "g": {
+            "lat": 50.5894,
+            "lon": 16.8132
+        },
+        "it": "Z\u0105bkowice \u015al\u0105skie",
+        "it:t": "Polonia",
+        "es": "Z\u0105bkowice \u015al\u0105skie",
+        "es:t": "Polonia",
+        "de": "Z\u0105bkowice \u015al\u0105skie",
+        "de:t": "Polen"
+    },
+    {
+        "en": "Z\u0142otoryja",
+        "en:t": "Poland",
+        "a": true,
+        "g": {
+            "lat": 51.1259,
+            "lon": 15.9214
+        },
+        "it": "Z\u0142otoryja",
+        "it:t": "Polonia",
+        "es": "Z\u0142otoryja",
+        "es:t": "Polonia",
+        "de": "Z\u0142otoryja",
+        "de:t": "Polen"
+    },
+    {
+        "en": "\u0141apy",
+        "en:t": "Poland | Bia\u0142ystok",
+        "a": true,
+        "g": {
+            "lat": 52.9913,
+            "lon": 22.8843
+        },
+        "it": "\u0141apy",
+        "it:t": "Polonia | Bia\u0142ystok",
+        "es": "\u0141apy",
+        "es:t": "Polonia | Bia\u0142ystok",
+        "de": "\u0141apy",
+        "de:t": "Polen | Powiat Bia\u0142ostocki"
+    },
+    {
+        "en": "\u0141ask",
+        "en:t": "Poland",
+        "a": true,
+        "g": {
+            "lat": 51.5906,
+            "lon": 19.1328
+        },
+        "it": "\u0141ask",
+        "it:t": "Polonia",
+        "es": "\u0141ask",
+        "es:t": "Polonia",
+        "de": "\u0141ask",
+        "de:t": "Polen"
+    },
+    {
+        "en": "\u0141aziska G\u00f3rne",
+        "en:t": "Poland | Miko\u0142\u00f3w",
+        "a": true,
+        "g": {
+            "lat": 50.1494,
+            "lon": 18.8403
+        },
+        "it": "\u0141aziska G\u00f3rne",
+        "it:t": "Polonia | Miko\u0142\u00f3w",
+        "es": "\u0141aziska G\u00f3rne",
+        "es:t": "Polonia | Miko\u0142\u00f3w",
+        "de": "\u0141aziska G\u00f3rne",
+        "de:t": "Polen | Powiat Miko\u0142owski"
+    },
+    {
+        "en": "\u0141omianki",
+        "en:t": "Poland | Warsaw West",
+        "a": true,
+        "g": {
+            "lat": 52.3337,
+            "lon": 20.887
+        },
+        "it": "\u0141omianki",
+        "it:t": "Polonia | Warsaw West",
+        "es": "\u0141omianki",
+        "es:t": "Polonia | Warsaw West",
+        "de": "\u0141omianki",
+        "de:t": "Polen | Powiat Warszawski Zachodni"
+    },
+    {
+        "en": "\u0141\u00f3d\u017a",
+        "en:t": "Poland",
+        "a": true,
+        "g": {
+            "lat": 51.7592,
+            "lon": 19.456
+        },
+        "it": "\u0141\u00f3d\u017a",
+        "it:t": "Polonia",
+        "es": "\u0141\u00f3d\u017a",
+        "es:t": "Polonia",
+        "de": "\u0141\u00f3d\u017a",
+        "de:t": "Polen"
+    },
+    {
+        "en": "\u015ar\u00f3dmie\u015bcie",
+        "en:t": "Poland | Warsaw",
+        "a": true,
+        "g": {
+            "lat": 52.2297,
+            "lon": 21.0122
+        },
+        "it": "\u015ar\u00f3dmie\u015bcie",
+        "it:t": "Polonia | Varsavia",
+        "es": "\u015ar\u00f3dmie\u015bcie",
+        "es:t": "Polonia | Varsovia",
+        "de": "\u015ar\u00f3dmie\u015bcie",
+        "de:t": "Polen | Warschau"
+    },
+    {
+        "en": "\u015awidnica",
+        "en:t": "Poland",
+        "a": true,
+        "g": {
+            "lat": 50.8498,
+            "lon": 16.4757
+        },
+        "it": "\u015awidnica",
+        "it:t": "Polonia",
+        "es": "\u015awidnica",
+        "es:t": "Polonia",
+        "de": "Schweidnitz",
+        "de:t": "Polen"
+    },
+    {
+        "en": "\u015awidnik",
+        "en:t": "Poland",
+        "a": true,
+        "g": {
+            "lat": 51.2168,
+            "lon": 22.6914
+        },
+        "it": "\u015awidnik",
+        "it:t": "Polonia",
+        "es": "\u015awidnik",
+        "es:t": "Polonia",
+        "de": "\u015awidnik",
+        "de:t": "Polen"
+    },
+    {
+        "en": "\u015awiebodzice",
+        "en:t": "Poland | \u015awidnica",
+        "a": true,
+        "g": {
+            "lat": 50.8575,
+            "lon": 16.3213
+        },
+        "it": "\u015awiebodzice",
+        "it:t": "Polonia | \u015awidnica",
+        "es": "\u015awiebodzice",
+        "es:t": "Polonia | \u015awidnica",
+        "de": "\u015awiebodzice",
+        "de:t": "Polen | Powiat \u015awidnicki"
+    },
+    {
+        "en": "\u015awi\u0119toch\u0142owice",
+        "en:t": "Poland",
+        "a": true,
+        "g": {
+            "lat": 50.2964,
+            "lon": 18.9171
+        },
+        "it": "\u015awi\u0119toch\u0142owice",
+        "it:t": "Polonia",
+        "es": "\u015awi\u0119toch\u0142owice",
+        "es:t": "Polonia",
+        "de": "\u015awi\u0119toch\u0142owice",
+        "de:t": "Polen"
+    },
+    {
+        "en": "\u017bary",
+        "en:t": "Poland",
+        "a": true,
+        "g": {
+            "lat": 51.642,
+            "lon": 15.137
+        },
+        "it": "\u017bary",
+        "it:t": "Polonia",
+        "es": "\u017bary",
+        "es:t": "Polonia",
+        "de": "Sorau",
+        "de:t": "Polen"
+    },
+    {
+        "en": "\u017boliborz",
+        "en:t": "Poland | Warsaw",
+        "a": true,
+        "g": {
+            "lat": 52.2693,
+            "lon": 20.9819
+        },
+        "it": "\u017boliborz",
+        "it:t": "Polonia | Varsavia",
+        "es": "\u017boliborz",
+        "es:t": "Polonia | Varsovia",
+        "de": "\u017boliborz",
+        "de:t": "Polen | Warschau"
+    },
+    {
+        "en": "\u017byrard\u00f3w",
+        "en:t": "Poland",
+        "a": true,
+        "g": {
+            "lat": 52.0487,
+            "lon": 20.446
+        },
+        "it": "\u017byrard\u00f3w",
+        "it:t": "Polonia",
+        "es": "\u017byrard\u00f3w",
+        "es:t": "Polonia",
+        "de": "\u017byrard\u00f3w",
+        "de:t": "Polen"
+    },
+    {
+        "en": "\u017bywiec",
+        "en:t": "Poland",
+        "a": true,
+        "g": {
+            "lat": 49.6913,
+            "lon": 19.1824
+        },
+        "it": "\u017bywiec",
+        "it:t": "Polonia",
+        "es": "\u017bywiec",
+        "es:t": "Polonia",
+        "de": "Saybusch",
+        "de:t": "Polen"
+    }
+]

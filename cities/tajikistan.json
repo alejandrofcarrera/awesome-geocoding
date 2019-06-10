@@ -1,0 +1,347 @@
+[
+    {
+        "en": "Chkalovsk",
+        "en:t": "Tajikistan | Ghafurov",
+        "a": true,
+        "g": {
+            "lat": 40.231,
+            "lon": 69.687
+        },
+        "it": "Chkalovsk",
+        "it:t": "Tagikistan | Ghafurov",
+        "es": "Chkalovsk",
+        "es:t": "Tayikist\u00e1n | Ghafurov",
+        "de": "Chkalovsk",
+        "de:t": "Tadschikistan | Ghafurov"
+    },
+    {
+        "en": "Chubek",
+        "en:t": "Tajikistan | Hamadoni",
+        "a": true,
+        "g": {
+            "lat": 37.6254,
+            "lon": 69.6364
+        },
+        "it": "Chubek",
+        "it:t": "Tagikistan | Hamadoni",
+        "es": "Chubek",
+        "es:t": "Tayikist\u00e1n | Hamadoni",
+        "de": "Chubek",
+        "de:t": "Tadschikistan | Hamadoni"
+    },
+    {
+        "en": "Danghara",
+        "en:t": "Tajikistan",
+        "a": true,
+        "g": {
+            "lat": 38.0932,
+            "lon": 69.3414
+        },
+        "it": "Danghara",
+        "it:t": "Tagikistan",
+        "es": "Danghara",
+        "es:t": "Tayikist\u00e1n",
+        "de": "Danghara",
+        "de:t": "Tadschikistan"
+    },
+    {
+        "en": "Dushanbe",
+        "en:t": "Tajikistan",
+        "a": true,
+        "g": {
+            "lat": 38.5598,
+            "lon": 68.787
+        },
+        "it": "Dushanbe",
+        "it:t": "Tagikistan",
+        "es": "Dusamb\u00e9",
+        "es:t": "Tayikist\u00e1n",
+        "de": "Duschanbe",
+        "de:t": "Tadschikistan"
+    },
+    {
+        "en": "Hisor",
+        "en:t": "Tajikistan | Hisor",
+        "a": true,
+        "g": {
+            "lat": 38.5306,
+            "lon": 68.5545
+        },
+        "it": "Hisor",
+        "it:t": "Tagikistan | Hisor",
+        "es": "Hisor",
+        "es:t": "Tayikist\u00e1n | Gisor",
+        "de": "Hissor",
+        "de:t": "Tadschikistan | Hissor"
+    },
+    {
+        "en": "Isfara",
+        "en:t": "Tajikistan",
+        "a": true,
+        "g": {
+            "lat": 40.1207,
+            "lon": 70.6157
+        },
+        "it": "Isfara",
+        "it:t": "Tagikistan",
+        "es": "Isfara",
+        "es:t": "Tayikist\u00e1n",
+        "de": "Isfara",
+        "de:t": "Tadschikistan"
+    },
+    {
+        "en": "Istaravshan",
+        "en:t": "Tajikistan | Istarawshan",
+        "a": true,
+        "g": {
+            "lat": 39.8773,
+            "lon": 69.0255
+        },
+        "it": "Istarav\u0161an",
+        "it:t": "Tagikistan | Istarawshan",
+        "es": "Istaravshan",
+        "es:t": "Tayikist\u00e1n | Istarawshan",
+        "de": "Istarav\u015fan",
+        "de:t": "Tadschikistan | Istarawshan"
+    },
+    {
+        "en": "Khorog",
+        "en:t": "Tajikistan | Shughnon",
+        "a": true,
+        "g": {
+            "lat": 37.4883,
+            "lon": 71.5902
+        },
+        "it": "Choru\u01e7",
+        "it:t": "Tagikistan | Shughnon",
+        "es": "Khorugh",
+        "es:t": "Tayikist\u00e1n | Shughn\u00f3n",
+        "de": "Chorugh",
+        "de:t": "Tadschikistan | Schugnanski"
+    },
+    {
+        "en": "Khujand",
+        "en:t": "Tajikistan | Sughd",
+        "a": true,
+        "g": {
+            "lat": 40.2675,
+            "lon": 69.6453
+        },
+        "it": "Chujand",
+        "it:t": "Tagikistan | Su\u01e7d",
+        "es": "Khodjent",
+        "es:t": "Tayikist\u00e1n | Sughd",
+        "de": "Chudschand",
+        "de:t": "Tadschikistan | Sughd"
+    },
+    {
+        "en": "Kolkhozabad",
+        "en:t": "Tajikistan | Rumi",
+        "a": true,
+        "g": {
+            "lat": 37.5941,
+            "lon": 68.5963
+        },
+        "it": "Kolkhozobod",
+        "it:t": "Tagikistan | Rumi",
+        "es": "Kolkhozabad",
+        "es:t": "Tayikist\u00e1n | Rumi",
+        "de": "Kolchosobod",
+        "de:t": "Tadschikistan | Rumi"
+    },
+    {
+        "en": "Konibodom",
+        "en:t": "Tajikistan",
+        "a": true,
+        "g": {
+            "lat": 40.2982,
+            "lon": 70.4194
+        },
+        "it": "Konibodom",
+        "it:t": "Tagikistan",
+        "es": "Konibodom",
+        "es:t": "Tayikist\u00e1n",
+        "de": "Konibodom",
+        "de:t": "Tadschikistan"
+    },
+    {
+        "en": "Kulob",
+        "en:t": "Tajikistan",
+        "a": true,
+        "g": {
+            "lat": 37.9274,
+            "lon": 69.8002
+        },
+        "it": "K\u00fclob",
+        "it:t": "Tagikistan",
+        "es": "Kulob",
+        "es:t": "Tayikist\u00e1n",
+        "de": "Kulob",
+        "de:t": "Tadschikistan"
+    },
+    {
+        "en": "Moskowsky",
+        "en:t": "Tajikistan | Hamadoni",
+        "a": true,
+        "g": {
+            "lat": 37.657,
+            "lon": 69.6274
+        },
+        "it": "Moskovskij",
+        "it:t": "Tagikistan | Hamadoni",
+        "es": "Moskovskiy",
+        "es:t": "Tayikist\u00e1n | Hamadoni",
+        "de": "Moskowski",
+        "de:t": "Tadschikistan | Hamadoni"
+    },
+    {
+        "en": "Nurek",
+        "en:t": "Tajikistan",
+        "a": true,
+        "g": {
+            "lat": 38.3833,
+            "lon": 69.2699
+        },
+        "it": "Norak",
+        "it:t": "Tagikistan",
+        "es": "Nurek",
+        "es:t": "Tayikist\u00e1n",
+        "de": "Nurek",
+        "de:t": "Tadschikistan"
+    },
+    {
+        "en": "Panjakent",
+        "en:t": "Tajikistan",
+        "a": true,
+        "g": {
+            "lat": 39.4917,
+            "lon": 67.6066
+        },
+        "it": "Panjakent",
+        "it:t": "Tagikistan",
+        "es": "Panjakent",
+        "es:t": "Tayikist\u00e1n",
+        "de": "Pandschakent",
+        "de:t": "Tadschikistan"
+    },
+    {
+        "en": "Parkhar",
+        "en:t": "Tajikistan",
+        "a": true,
+        "g": {
+            "lat": 37.483,
+            "lon": 69.3712
+        },
+        "it": "Farkhor",
+        "it:t": "Tagikistan",
+        "es": "Farkhor",
+        "es:t": "Tayikist\u00e1n",
+        "de": "Farkhor",
+        "de:t": "Tadschikistan"
+    },
+    {
+        "en": "Proletarsk",
+        "en:t": "Tajikistan | Rasulov",
+        "a": true,
+        "g": {
+            "lat": 40.1508,
+            "lon": 69.4904
+        },
+        "it": "Proletarsk",
+        "it:t": "Tagikistan | Rasulov",
+        "es": "Proletarsk",
+        "es:t": "Tayikist\u00e1n | Rasulov",
+        "de": "Proletarsk",
+        "de:t": "Tadschikistan | Rasulov"
+    },
+    {
+        "en": "Qurgonteppa",
+        "en:t": "Tajikistan | Bokhtar",
+        "a": true,
+        "g": {
+            "lat": 37.8456,
+            "lon": 68.799
+        },
+        "it": "Qur\u01e7onteppa",
+        "it:t": "Tagikistan | Bokhtar",
+        "es": "Qurghonteppa",
+        "es:t": "Tayikist\u00e1n | Bokhtar",
+        "de": "Qurghonteppa",
+        "de:t": "Tadschikistan | Bokhtar"
+    },
+    {
+        "en": "Tursunzoda",
+        "en:t": "Tajikistan",
+        "a": true,
+        "g": {
+            "lat": 38.5301,
+            "lon": 68.2147
+        },
+        "it": "Tursunzoda",
+        "it:t": "Tagikistan",
+        "es": "Tursunzoda",
+        "es:t": "Tayikist\u00e1n",
+        "de": "Tursunsoda",
+        "de:t": "Tadschikistan"
+    },
+    {
+        "en": "Vahdat",
+        "en:t": "Tajikistan | Vahdat",
+        "a": true,
+        "g": {
+            "lat": 38.5603,
+            "lon": 69.0166
+        },
+        "it": "Vahdat",
+        "it:t": "Tagikistan | Vahdat",
+        "es": "Vahdat",
+        "es:t": "Tayikist\u00e1n | Vahdat",
+        "de": "Wahdat",
+        "de:t": "Tadschikistan | Wahdat"
+    },
+    {
+        "en": "Vakhsh",
+        "en:t": "Tajikistan",
+        "a": true,
+        "g": {
+            "lat": 37.6797,
+            "lon": 68.8347
+        },
+        "it": "Vakhsh",
+        "it:t": "Tagikistan",
+        "es": "Vakhsh",
+        "es:t": "Tayikist\u00e1n",
+        "de": "Wachsch",
+        "de:t": "Tadschikistan"
+    },
+    {
+        "en": "Vose",
+        "en:t": "Tajikistan",
+        "a": true,
+        "g": {
+            "lat": 37.8039,
+            "lon": 69.6364
+        },
+        "it": "Vose",
+        "it:t": "Tagikistan",
+        "es": "Vose",
+        "es:t": "Tayikist\u00e1n",
+        "de": "Wosse",
+        "de:t": "Tadschikistan"
+    },
+    {
+        "en": "Yavan",
+        "en:t": "Tajikistan",
+        "a": true,
+        "g": {
+            "lat": 38.3192,
+            "lon": 69.0464
+        },
+        "it": "Yovon",
+        "it:t": "Tagikistan",
+        "es": "Yavan",
+        "es:t": "Tayikist\u00e1n",
+        "de": "Jawan",
+        "de:t": "Tadschikistan"
+    }
+]

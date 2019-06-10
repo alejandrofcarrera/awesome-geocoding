@@ -1,0 +1,6212 @@
+[
+    {
+        "en": "Abasolo",
+        "en:t": "Mexico | Guanajuato",
+        "a": true,
+        "g": {
+            "lat": 20.4536,
+            "lon": -101.527
+        },
+        "it": "Abasolo",
+        "it:t": "Messico | Guanajuato",
+        "es": "Abasolo",
+        "es:t": "M\u00e9xico | Guanajuato",
+        "de": "Abasolo",
+        "de:t": "Mexiko | Guanajuato"
+    },
+    {
+        "en": "Acajete",
+        "en:t": "Mexico | Puebla",
+        "a": true,
+        "g": {
+            "lat": 19.1061,
+            "lon": -97.9522
+        },
+        "it": "Acajete",
+        "it:t": "Messico | Puebla",
+        "es": "Acajete",
+        "es:t": "M\u00e9xico | Puebla",
+        "de": "Acajete",
+        "de:t": "Mexiko | Puebla"
+    },
+    {
+        "en": "Acaponeta",
+        "en:t": "Mexico | Nayarit",
+        "a": true,
+        "g": {
+            "lat": 22.4937,
+            "lon": -105.3609
+        },
+        "it": "Acaponeta",
+        "it:t": "Messico | Nayarit",
+        "es": "Acaponeta",
+        "es:t": "M\u00e9xico | Nayarit",
+        "de": "Acaponeta",
+        "de:t": "Mexiko | Nayarit"
+    },
+    {
+        "en": "Acapulco",
+        "en:t": "Mexico | Guerrero",
+        "a": true,
+        "g": {
+            "lat": 16.8531,
+            "lon": -99.8237
+        },
+        "it": "Acapulco",
+        "it:t": "Messico | Guerrero",
+        "es": "Acapulco de Ju\u00e1rez",
+        "es:t": "M\u00e9xico | Guerrero",
+        "de": "Acapulco",
+        "de:t": "Mexiko | Guerrero"
+    },
+    {
+        "en": "Acatl\u00e1n de Osorio",
+        "en:t": "Mexico | Puebla",
+        "a": true,
+        "g": {
+            "lat": 18.2019,
+            "lon": -98.0484
+        },
+        "it": "Acatl\u00e1n de Osorio",
+        "it:t": "Messico | Puebla",
+        "es": "Acatl\u00e1n de Osorio",
+        "es:t": "M\u00e9xico | Puebla",
+        "de": "Acatl\u00e1n de Osorio",
+        "de:t": "Mexiko | Puebla"
+    },
+    {
+        "en": "Acatzingo de Hidalgo",
+        "en:t": "Mexico | Puebla",
+        "a": true,
+        "g": {
+            "lat": 18.98,
+            "lon": -97.7852
+        },
+        "it": "Acatzingo de Hidalgo",
+        "it:t": "Messico | Puebla",
+        "es": "Acatzingo de Hidalgo",
+        "es:t": "M\u00e9xico | Puebla",
+        "de": "Acatzingo de Hidalgo",
+        "de:t": "Mexiko | Puebla"
+    },
+    {
+        "en": "Acayucan",
+        "en:t": "Mexico | Veracruz",
+        "a": true,
+        "g": {
+            "lat": 17.9492,
+            "lon": -94.9146
+        },
+        "it": "Acayucan",
+        "it:t": "Messico | Veracruz",
+        "es": "Acayucan",
+        "es:t": "M\u00e9xico | Veracruz",
+        "de": "Acayucan",
+        "de:t": "Mexiko | Veracruz"
+    },
+    {
+        "en": "Actopan",
+        "en:t": "Mexico | Hidalgo",
+        "a": true,
+        "g": {
+            "lat": 20.2743,
+            "lon": -98.9521
+        },
+        "it": "Actopan",
+        "it:t": "Messico | Hidalgo",
+        "es": "Actopan",
+        "es:t": "M\u00e9xico | Hidalgo",
+        "de": "Actopan",
+        "de:t": "Mexiko | Hidalgo"
+    },
+    {
+        "en": "Ac\u00e1mbaro",
+        "en:t": "Mexico | Guanajuato",
+        "a": true,
+        "g": {
+            "lat": 20.0251,
+            "lon": -100.7182
+        },
+        "it": "Ac\u00e1mbaro",
+        "it:t": "Messico | Guanajuato",
+        "es": "Ac\u00e1mbaro",
+        "es:t": "M\u00e9xico | Guanajuato",
+        "de": "Ac\u00e1mbaro",
+        "de:t": "Mexiko | Guanajuato"
+    },
+    {
+        "en": "Agua Dulce",
+        "en:t": "Mexico | Veracruz",
+        "a": true,
+        "g": {
+            "lat": 18.1427,
+            "lon": -94.1435
+        },
+        "it": "Agua Dulce",
+        "it:t": "Messico | Veracruz",
+        "es": "Agua Dulce",
+        "es:t": "M\u00e9xico | Veracruz",
+        "de": "Agua Dulce",
+        "de:t": "Mexiko | Veracruz"
+    },
+    {
+        "en": "Agua Prieta",
+        "en:t": "Mexico | Sonora",
+        "a": true,
+        "g": {
+            "lat": 31.3278,
+            "lon": -109.549
+        },
+        "it": "Agua Prieta",
+        "it:t": "Messico | Sonora",
+        "es": "Agua Prieta",
+        "es:t": "M\u00e9xico | Sonora",
+        "de": "Agua Prieta",
+        "de:t": "Mexiko | Sonora"
+    },
+    {
+        "en": "Aguascalientes",
+        "en:t": "Mexico",
+        "a": true,
+        "g": {
+            "lat": 21.8853,
+            "lon": -102.2916
+        },
+        "it": "Aguascalientes",
+        "it:t": "Messico",
+        "es": "Aguascalientes",
+        "es:t": "M\u00e9xico",
+        "de": "Aguascalientes",
+        "de:t": "Mexiko"
+    },
+    {
+        "en": "Ajalpan",
+        "en:t": "Mexico | Puebla",
+        "a": true,
+        "g": {
+            "lat": 18.3782,
+            "lon": -97.2591
+        },
+        "it": "Ajalpan",
+        "it:t": "Messico | Reserva Territorial Atlixc\u00e1yotl",
+        "es": "Ajalpan",
+        "es:t": "M\u00e9xico | Puebla",
+        "de": "Ajalpan",
+        "de:t": "Mexiko | Puebla"
+    },
+    {
+        "en": "Alborada Jaltenco",
+        "en:t": "Mexico | Mexico",
+        "a": true,
+        "g": {
+            "lat": 19.6613,
+            "lon": -99.0682
+        },
+        "it": "Alborada Jaltenco",
+        "it:t": "Messico | Mexico",
+        "es": "Alborada Jaltenco",
+        "es:t": "M\u00e9xico | M\u00e9xico",
+        "de": "Alborada Jaltenco",
+        "de:t": "Mexiko | Mexico"
+    },
+    {
+        "en": "Allende",
+        "en:t": "Mexico | Coahuila",
+        "a": true,
+        "g": {
+            "lat": 28.3498,
+            "lon": -100.8508
+        },
+        "it": "Allende",
+        "it:t": "Messico | Coahuila",
+        "es": "Allende",
+        "es:t": "M\u00e9xico | Coahuila de Zaragoza",
+        "de": "Allende",
+        "de:t": "Mexiko | Coahuila"
+    },
+    {
+        "en": "Allende",
+        "en:t": "Mexico | Veracruz",
+        "a": true,
+        "g": {
+            "lat": 18.1465,
+            "lon": -94.3822
+        },
+        "it": "Allende",
+        "it:t": "Messico | Veracruz",
+        "es": "Allende",
+        "es:t": "M\u00e9xico | Veracruz",
+        "de": "Allende",
+        "de:t": "Mexiko | Veracruz"
+    },
+    {
+        "en": "Altamira",
+        "en:t": "Mexico | Tamaulipas",
+        "a": true,
+        "g": {
+            "lat": 22.4077,
+            "lon": -97.9212
+        },
+        "it": "Altamira",
+        "it:t": "Messico | Tamaulipas",
+        "es": "Altamira",
+        "es:t": "M\u00e9xico | Tamaulipas",
+        "de": "Altamira",
+        "de:t": "Mexiko | Tamaulipas"
+    },
+    {
+        "en": "Altepexi",
+        "en:t": "Mexico | Puebla",
+        "a": true,
+        "g": {
+            "lat": 18.3694,
+            "lon": -97.2982
+        },
+        "it": "Altepexi",
+        "it:t": "Messico | Puebla",
+        "es": "Altepexi",
+        "es:t": "M\u00e9xico | Puebla",
+        "de": "Altepexi",
+        "de:t": "Mexiko | Puebla"
+    },
+    {
+        "en": "Altotonga",
+        "en:t": "Mexico | Veracruz",
+        "a": true,
+        "g": {
+            "lat": 19.7661,
+            "lon": -97.2456
+        },
+        "it": "Altotonga",
+        "it:t": "Messico | Veracruz",
+        "es": "Altotonga",
+        "es:t": "M\u00e9xico | Veracruz",
+        "de": "Altotonga",
+        "de:t": "Mexiko | Veracruz"
+    },
+    {
+        "en": "Alvarado",
+        "en:t": "Mexico | Veracruz",
+        "a": true,
+        "g": {
+            "lat": 18.7696,
+            "lon": -95.7589
+        },
+        "it": "Alvarado",
+        "it:t": "Messico | Veracruz",
+        "es": "Alvarado",
+        "es:t": "M\u00e9xico | Veracruz",
+        "de": "Alvarado",
+        "de:t": "Mexiko | Veracruz"
+    },
+    {
+        "en": "Ameca",
+        "en:t": "Mexico | Jalisco",
+        "a": true,
+        "g": {
+            "lat": 20.5476,
+            "lon": -104.0467
+        },
+        "it": "Ameca",
+        "it:t": "Messico | Jalisco",
+        "es": "Ameca",
+        "es:t": "M\u00e9xico | Jalisco",
+        "de": "Ameca",
+        "de:t": "Mexiko | Jalisco"
+    },
+    {
+        "en": "Amecameca",
+        "en:t": "Mexico | Mexico",
+        "a": true,
+        "g": {
+            "lat": 19.1252,
+            "lon": -98.7671
+        },
+        "it": "Amecameca",
+        "it:t": "Messico | Mexico",
+        "es": "Amecameca de Ju\u00e1rez",
+        "es:t": "M\u00e9xico | M\u00e9xico",
+        "de": "Amecameca",
+        "de:t": "Mexiko | Mexiko"
+    },
+    {
+        "en": "Amozoc de Mota",
+        "en:t": "Mexico | Puebla",
+        "a": true,
+        "g": {
+            "lat": 19.0438,
+            "lon": -98.0438
+        },
+        "it": "Amozoc de Mota",
+        "it:t": "Messico | Puebla",
+        "es": "Amozoc",
+        "es:t": "M\u00e9xico | Puebla",
+        "de": "Amozoc de Mota",
+        "de:t": "Mexiko | Puebla"
+    },
+    {
+        "en": "Ampliaci\u00f3n San Mateo",
+        "en:t": "Mexico | Mexico",
+        "a": true,
+        "g": {
+            "lat": 19.6124,
+            "lon": -99.1484
+        },
+        "it": "Ampliaci\u00f3n San Mateo",
+        "it:t": "Messico | Mexico",
+        "es": "Ampliaci\u00f3n San Mateo",
+        "es:t": "M\u00e9xico | M\u00e9xico",
+        "de": "Ampliaci\u00f3n San Mateo",
+        "de:t": "Mexiko | Mexico"
+    },
+    {
+        "en": "An\u00e1huac",
+        "en:t": "Mexico | Nuevo Leon",
+        "a": true,
+        "g": {
+            "lat": 27.2412,
+            "lon": -100.1334
+        },
+        "it": "An\u00e1huac",
+        "it:t": "Messico | Nuevo Leon",
+        "es": "An\u00e1huac",
+        "es:t": "M\u00e9xico | Nuevo Le\u00f3n",
+        "de": "An\u00e1huac",
+        "de:t": "Mexiko | Nuevo Leon"
+    },
+    {
+        "en": "Apan",
+        "en:t": "Mexico | Hidalgo",
+        "a": true,
+        "g": {
+            "lat": 19.7114,
+            "lon": -98.4541
+        },
+        "it": "Apan",
+        "it:t": "Messico | Hidalgo",
+        "es": "Apan",
+        "es:t": "M\u00e9xico | Hidalgo",
+        "de": "Apan",
+        "de:t": "Mexiko | Hidalgo"
+    },
+    {
+        "en": "Apaseo el Alto",
+        "en:t": "Mexico | Guanajuato",
+        "a": true,
+        "g": {
+            "lat": 20.4603,
+            "lon": -100.6225
+        },
+        "it": "Apaseo el Alto",
+        "it:t": "Messico | Guanajuato",
+        "es": "Apaseo el Alto",
+        "es:t": "M\u00e9xico | Guanajuato",
+        "de": "Apaseo el Alto",
+        "de:t": "Mexiko | Guanajuato"
+    },
+    {
+        "en": "Apaseo el Grande",
+        "en:t": "Mexico | Guanajuato",
+        "a": true,
+        "g": {
+            "lat": 20.5447,
+            "lon": -100.6844
+        },
+        "it": "Apaseo el Grande",
+        "it:t": "Messico | Guanajuato",
+        "es": "Apaseo el Grande",
+        "es:t": "M\u00e9xico | Guanajuato",
+        "de": "Apaseo el Grande",
+        "de:t": "Mexiko | Guanajuato"
+    },
+    {
+        "en": "Apatzing\u00e1n",
+        "en:t": "Mexico | Michoac\u00e1n",
+        "a": true,
+        "g": {
+            "lat": 19.0837,
+            "lon": -102.3537
+        },
+        "it": "Apatzing\u00e1n",
+        "it:t": "Messico | Michoac\u00e1n",
+        "es": "Apatzing\u00e1n de la Constituci\u00f3n",
+        "es:t": "M\u00e9xico | Michoac\u00e1n",
+        "de": "Apatzing\u00e1n de la Constituci\u00f3n",
+        "de:t": "Mexiko | Michoac\u00e1n"
+    },
+    {
+        "en": "Apizaco",
+        "en:t": "Mexico | Tlaxcala",
+        "a": true,
+        "g": {
+            "lat": 19.4159,
+            "lon": -98.1393
+        },
+        "it": "Apizaco",
+        "it:t": "Messico | Tlaxcala",
+        "es": "Apizaco",
+        "es:t": "M\u00e9xico | Tlaxcala",
+        "de": "Apizaco",
+        "de:t": "Mexiko | Tlaxcala"
+    },
+    {
+        "en": "Arandas",
+        "en:t": "Mexico | Jalisco",
+        "a": true,
+        "g": {
+            "lat": 20.7056,
+            "lon": -102.3469
+        },
+        "it": "Arandas",
+        "it:t": "Messico | Jalisco",
+        "es": "Arandas",
+        "es:t": "M\u00e9xico | Jalisco",
+        "de": "Arandas",
+        "de:t": "Mexiko | Jalisco"
+    },
+    {
+        "en": "Arcelia",
+        "en:t": "Mexico | Guerrero",
+        "a": true,
+        "g": {
+            "lat": 18.3151,
+            "lon": -100.2851
+        },
+        "it": "Arcelia",
+        "it:t": "Messico | Guerrero",
+        "es": "Arcelia",
+        "es:t": "M\u00e9xico | Guerrero",
+        "de": "Arcelia",
+        "de:t": "Mexiko | Guerrero"
+    },
+    {
+        "en": "Arriaga",
+        "en:t": "Mexico | Chiapas",
+        "a": true,
+        "g": {
+            "lat": 16.2343,
+            "lon": -93.8988
+        },
+        "it": "Arriaga",
+        "it:t": "Messico | Chiapas",
+        "es": "Arriaga",
+        "es:t": "M\u00e9xico | Chiapas",
+        "de": "Arriaga",
+        "de:t": "Mexiko | Chiapas"
+    },
+    {
+        "en": "Atlacomulco",
+        "en:t": "Mexico | Mexico",
+        "a": true,
+        "g": {
+            "lat": 19.7976,
+            "lon": -99.8767
+        },
+        "it": "Atlacomulco",
+        "it:t": "Messico | Messico",
+        "es": "Atlacomulco",
+        "es:t": "M\u00e9xico | M\u00e9xico",
+        "de": "Atlacomulco",
+        "de:t": "Mexiko | Mexiko"
+    },
+    {
+        "en": "Atlixco",
+        "en:t": "Mexico | Puebla",
+        "a": true,
+        "g": {
+            "lat": 18.9131,
+            "lon": -98.4294
+        },
+        "it": "Atlixco",
+        "it:t": "Messico | Puebla",
+        "es": "Atlixco",
+        "es:t": "M\u00e9xico | Puebla",
+        "de": "Atlixco",
+        "de:t": "Mexiko | Puebla"
+    },
+    {
+        "en": "Atotonilco El Alto",
+        "en:t": "Mexico | Jalisco",
+        "a": true,
+        "g": {
+            "lat": 20.5502,
+            "lon": -102.5081
+        },
+        "it": "Atotonilco el Alto",
+        "it:t": "Messico | Jalisco",
+        "es": "Atotonilco el Alto",
+        "es:t": "M\u00e9xico | Jalisco",
+        "de": "Atotonilco El Alto",
+        "de:t": "Mexiko | Jalisco"
+    },
+    {
+        "en": "Atoyac de \u00c1lvarez",
+        "en:t": "Mexico | Guerrero",
+        "a": true,
+        "g": {
+            "lat": 17.2056,
+            "lon": -100.4321
+        },
+        "it": "Atoyac de \u00c1lvarez",
+        "it:t": "Messico | Guerrero",
+        "es": "Atoyac de \u00c1lvarez",
+        "es:t": "M\u00e9xico | Guerrero",
+        "de": "Atoyac de \u00c1lvarez",
+        "de:t": "Mexiko | Guerrero"
+    },
+    {
+        "en": "Autl\u00e1n",
+        "en:t": "Mexico | Jalisco",
+        "a": true,
+        "g": {
+            "lat": 19.7708,
+            "lon": -104.3668
+        },
+        "it": "Autl\u00e1n de Navarro",
+        "it:t": "Messico | Jalisco",
+        "es": "Autl\u00e1n de Navarro",
+        "es:t": "M\u00e9xico | Jalisco",
+        "de": "Autl\u00e1n de Navarro",
+        "de:t": "Mexiko | Jalisco"
+    },
+    {
+        "en": "Avenida Jardines",
+        "en:t": "Mexico | Nuevo Leon",
+        "a": true,
+        "g": {
+            "lat": 25.6302,
+            "lon": -100.1783
+        },
+        "it": "Jardines de la Silla",
+        "it:t": "Messico | Nuevo Leon",
+        "es": "Jardines de la Silla",
+        "es:t": "M\u00e9xico | Nuevo Le\u00f3n",
+        "de": "Jardines de la Silla",
+        "de:t": "Mexiko | Nuevo Leon"
+    },
+    {
+        "en": "Axochiapan",
+        "en:t": "Mexico | Morelos",
+        "a": true,
+        "g": {
+            "lat": 18.5037,
+            "lon": -98.7536
+        },
+        "it": "Axochiapan",
+        "it:t": "Messico | Morelos",
+        "es": "Axochiapan",
+        "es:t": "M\u00e9xico | Morelos",
+        "de": "Axochiapan",
+        "de:t": "Mexiko | Morelos"
+    },
+    {
+        "en": "Azcapotzalco",
+        "en:t": "Mexico | Mexico",
+        "a": true,
+        "g": {
+            "lat": 19.4847,
+            "lon": -99.1887
+        },
+        "it": "Delegazione Azcapotzalco",
+        "it:t": "Messico | Citt\u00e0 del Messico",
+        "es": "Azcapotzalco",
+        "es:t": "M\u00e9xico | M\u00e9xico",
+        "de": "Azcapotzalco",
+        "de:t": "Mexiko | Mexiko-Stadt"
+    },
+    {
+        "en": "Banderilla",
+        "en:t": "Mexico | Veracruz",
+        "a": true,
+        "g": {
+            "lat": 19.594,
+            "lon": -96.9443
+        },
+        "it": "Banderilla",
+        "it:t": "Messico | Veracruz",
+        "es": "Banderilla",
+        "es:t": "M\u00e9xico | Veracruz",
+        "de": "Banderilla",
+        "de:t": "Mexiko | Veracruz"
+    },
+    {
+        "en": "Bella Vista",
+        "en:t": "Mexico",
+        "a": true,
+        "g": {
+            "lat": 19.2684,
+            "lon": -99.5757
+        },
+        "it": "Bella Vista",
+        "it:t": "Messico",
+        "es": "Bella Vista",
+        "es:t": "M\u00e9xico",
+        "de": "Bella Vista",
+        "de:t": "Mexiko"
+    },
+    {
+        "en": "Berrioz\u00e1bal",
+        "en:t": "Mexico | Chiapas",
+        "a": true,
+        "g": {
+            "lat": 16.7985,
+            "lon": -93.2724
+        },
+        "it": "Berrioz\u00e1bal",
+        "it:t": "Messico | Chiapas",
+        "es": "Berrioz\u00e1bal",
+        "es:t": "M\u00e9xico | Chiapas",
+        "de": "Berrioz\u00e1bal",
+        "de:t": "Mexiko | Chiapas"
+    },
+    {
+        "en": "Caborca",
+        "en:t": "Mexico | Sonora",
+        "a": true,
+        "g": {
+            "lat": 30.6954,
+            "lon": -112.1835
+        },
+        "it": "Caborca",
+        "it:t": "Messico | Sonora",
+        "es": "Caborca",
+        "es:t": "M\u00e9xico | Sonora",
+        "de": "Caborca",
+        "de:t": "Mexiko | Sonora"
+    },
+    {
+        "en": "Cadereyta Jim\u00e9nez",
+        "en:t": "Mexico | Nuevo Leon",
+        "a": true,
+        "g": {
+            "lat": 25.586,
+            "lon": -99.9968
+        },
+        "it": "Cadereyta Jim\u00e9nez",
+        "it:t": "Messico | Nuevo Le\u00f3n",
+        "es": "Cadereyta Jim\u00e9nez",
+        "es:t": "M\u00e9xico | Nuevo Le\u00f3n",
+        "de": "Cadereyta Jim\u00e9nez",
+        "de:t": "Mexiko | Nuevo Leon"
+    },
+    {
+        "en": "Calera de V\u00edctor Rosales",
+        "en:t": "Mexico | Zacatecas",
+        "a": true,
+        "g": {
+            "lat": 22.9459,
+            "lon": -102.6998
+        },
+        "it": "Calera",
+        "it:t": "Messico | Zacatecas",
+        "es": "Calera",
+        "es:t": "M\u00e9xico | Zacatecas",
+        "de": "Calera de V\u00edctor Rosales",
+        "de:t": "Mexiko | Zacatecas"
+    },
+    {
+        "en": "Calpulalpan",
+        "en:t": "Mexico | Tlaxcala",
+        "a": true,
+        "g": {
+            "lat": 19.585,
+            "lon": -98.5644
+        },
+        "it": "Calpulalpan",
+        "it:t": "Messico | Tlaxcala",
+        "es": "Calpulalpan",
+        "es:t": "M\u00e9xico | Tlaxcala",
+        "de": "Calpulalpan",
+        "de:t": "Mexiko | Tlaxcala"
+    },
+    {
+        "en": "Calvillo",
+        "en:t": "Mexico | Aguascalientes",
+        "a": true,
+        "g": {
+            "lat": 21.8468,
+            "lon": -102.7186
+        },
+        "it": "Calvillo",
+        "it:t": "Messico | Aguascalientes",
+        "es": "Calvillo",
+        "es:t": "M\u00e9xico | Aguascalientes",
+        "de": "Calvillo",
+        "de:t": "Mexiko | Aguascalientes"
+    },
+    {
+        "en": "Camargo",
+        "en:t": "Mexico | Chihuahua",
+        "a": true,
+        "g": {
+            "lat": 27.6764,
+            "lon": -105.167
+        },
+        "it": "Camargo",
+        "it:t": "Messico | Chihuahua",
+        "es": "Ciudad Camargo",
+        "es:t": "M\u00e9xico | Chihuahua",
+        "de": "Camargo",
+        "de:t": "Mexiko | Chihuahua"
+    },
+    {
+        "en": "Campeche",
+        "en:t": "Mexico",
+        "a": true,
+        "g": {
+            "lat": 19.8301,
+            "lon": -90.5349
+        },
+        "it": "Campeche",
+        "it:t": "Messico",
+        "es": "Campeche",
+        "es:t": "M\u00e9xico",
+        "de": "Campeche",
+        "de:t": "Mexiko"
+    },
+    {
+        "en": "Cananea",
+        "en:t": "Mexico | Sonora",
+        "a": true,
+        "g": {
+            "lat": 30.9898,
+            "lon": -110.2892
+        },
+        "it": "Cananea",
+        "it:t": "Messico | Sonora",
+        "es": "Cananea",
+        "es:t": "M\u00e9xico | Sonora",
+        "de": "Cananea",
+        "de:t": "Mexiko | Sonora"
+    },
+    {
+        "en": "Canc\u00fan",
+        "en:t": "Mexico | Quintana Roo",
+        "a": true,
+        "g": {
+            "lat": 21.1619,
+            "lon": -86.8515
+        },
+        "it": "Canc\u00fan",
+        "it:t": "Messico | Quintana Roo",
+        "es": "Canc\u00fan",
+        "es:t": "M\u00e9xico | Quintana Roo",
+        "de": "Canc\u00fan",
+        "de:t": "Mexiko | Quintana Roo"
+    },
+    {
+        "en": "Capulhuac",
+        "en:t": "Mexico",
+        "a": true,
+        "g": {
+            "lat": 19.1932,
+            "lon": -99.4676
+        },
+        "it": "Cuernavaca",
+        "it:t": "Messico",
+        "es": "Capulhuac",
+        "es:t": "M\u00e9xico",
+        "de": "Morelos",
+        "de:t": "Mexiko"
+    },
+    {
+        "en": "Carlos A. Carrillo, Veracruz",
+        "en:t": "Mexico | Veracruz",
+        "a": true,
+        "g": {
+            "lat": 18.372,
+            "lon": -95.7492
+        },
+        "it": "Carlos A. Carrillo",
+        "it:t": "Messico | Veracruz",
+        "es": "Carlos A. Carrillo",
+        "es:t": "M\u00e9xico | Veracruz",
+        "de": "Carlos A. Carrillo",
+        "de:t": "Mexiko | Veracruz"
+    },
+    {
+        "en": "Casa Blanca",
+        "en:t": "Mexico | Puebla",
+        "a": true,
+        "g": {
+            "lat": 19.0419,
+            "lon": -98.1202
+        },
+        "it": "Casa Blanca",
+        "it:t": "Messico | Heroica Puebla de Zaragoza",
+        "es": "Casa Blanca",
+        "es:t": "M\u00e9xico | Puebla",
+        "de": "Tehuac\u00e1n Sur",
+        "de:t": "Mexiko | Casa Blanca"
+    },
+    {
+        "en": "Casta\u00f1os",
+        "en:t": "Mexico | Coahuila",
+        "a": true,
+        "g": {
+            "lat": 26.7857,
+            "lon": -101.4282
+        },
+        "it": "Casta\u00f1os",
+        "it:t": "Messico | Coahuila",
+        "es": "Casta\u00f1os",
+        "es:t": "M\u00e9xico | Coahuila de Zaragoza",
+        "de": "Casta\u00f1os",
+        "de:t": "Mexiko | Coahuila"
+    },
+    {
+        "en": "Catemaco",
+        "en:t": "Mexico | Veracruz",
+        "a": true,
+        "g": {
+            "lat": 18.4213,
+            "lon": -95.113
+        },
+        "it": "Catemaco",
+        "it:t": "Messico | Veracruz",
+        "es": "Catemaco",
+        "es:t": "M\u00e9xico | Veracruz",
+        "de": "Catemaco",
+        "de:t": "Mexiko | Veracruz"
+    },
+    {
+        "en": "Celaya",
+        "en:t": "Mexico | Guanajuato",
+        "a": true,
+        "g": {
+            "lat": 20.528,
+            "lon": -100.8113
+        },
+        "it": "Celaya",
+        "it:t": "Messico | Guanajuato",
+        "es": "Celaya",
+        "es:t": "M\u00e9xico | Guanajuato",
+        "de": "Celaya",
+        "de:t": "Mexiko | Guanajuato"
+    },
+    {
+        "en": "Centro Familiar la Soledad",
+        "en:t": "Mexico | Le\u00f3n",
+        "a": true,
+        "g": {
+            "lat": 21.1385,
+            "lon": -101.7495
+        },
+        "it": "Centro Familiar la Soledad",
+        "it:t": "Messico | Le\u00f3n",
+        "es": "Centro Familiar la Soledad",
+        "es:t": "M\u00e9xico | Le\u00f3n",
+        "de": "Centro Familiar la Soledad",
+        "de:t": "Mexiko | Le\u00f3n"
+    },
+    {
+        "en": "Cerro Azul",
+        "en:t": "Mexico | Veracruz",
+        "a": true,
+        "g": {
+            "lat": 21.1844,
+            "lon": -97.7471
+        },
+        "it": "Cerro Azul",
+        "it:t": "Messico | Veracruz",
+        "es": "Cerro Azul",
+        "es:t": "M\u00e9xico | Veracruz",
+        "de": "Cerro Azul",
+        "de:t": "Mexiko | Veracruz"
+    },
+    {
+        "en": "Chalco de D\u00edaz Covarrubias",
+        "en:t": "Mexico | Mexico",
+        "a": true,
+        "g": {
+            "lat": 19.2624,
+            "lon": -98.8969
+        },
+        "it": "Chalco de D\u00edaz Covarrubias",
+        "it:t": "Messico | Messico",
+        "es": "Chalco de D\u00edaz Covarrubias",
+        "es:t": "M\u00e9xico | M\u00e9xico",
+        "de": "Chalco de D\u00edaz Covarrubias",
+        "de:t": "Mexiko | Mexico"
+    },
+    {
+        "en": "Champoton",
+        "en:t": "Mexico | Campeche",
+        "a": true,
+        "g": {
+            "lat": 19.3472,
+            "lon": -90.72
+        },
+        "it": "Champot\u00f3n",
+        "it:t": "Messico | Campeche",
+        "es": "Champot\u00f3n",
+        "es:t": "M\u00e9xico | Campeche",
+        "de": "Champot\u00f3n",
+        "de:t": "Mexiko | Campeche"
+    },
+    {
+        "en": "Chapala",
+        "en:t": "Mexico | Jalisco",
+        "a": true,
+        "g": {
+            "lat": 20.2971,
+            "lon": -103.1889
+        },
+        "it": "Chapala",
+        "it:t": "Messico | Jalisco",
+        "es": "Chapala",
+        "es:t": "M\u00e9xico | Jalisco",
+        "de": "Chapala",
+        "de:t": "Mexiko | Jalisco"
+    },
+    {
+        "en": "Chetumal",
+        "en:t": "Mexico | Quintana Roo",
+        "a": true,
+        "g": {
+            "lat": 18.5002,
+            "lon": -88.2961
+        },
+        "it": "Chetumal",
+        "it:t": "Messico | Quintana Roo",
+        "es": "Chetumal",
+        "es:t": "M\u00e9xico | Quintana Roo",
+        "de": "Chetumal",
+        "de:t": "Mexiko | Quintana Roo"
+    },
+    {
+        "en": "Chiapa de Corzo",
+        "en:t": "Mexico | Chiapas",
+        "a": true,
+        "g": {
+            "lat": 16.7022,
+            "lon": -93.0081
+        },
+        "it": "Chiapa de Corzo",
+        "it:t": "Messico | Chiapas",
+        "es": "Chiapa de Corzo",
+        "es:t": "M\u00e9xico | Chiapas",
+        "de": "Chiapa de Corzo",
+        "de:t": "Mexiko | Chiapas"
+    },
+    {
+        "en": "Chiautempan",
+        "en:t": "Mexico | Tlaxcala",
+        "a": true,
+        "g": {
+            "lat": 19.3126,
+            "lon": -98.1912
+        },
+        "it": "Chiautempan",
+        "it:t": "Messico | Tlaxcala",
+        "es": "Chiautempan",
+        "es:t": "M\u00e9xico | Tlaxcala",
+        "de": "Chiautempan",
+        "de:t": "Mexiko | Tlaxcala"
+    },
+    {
+        "en": "Chiautla",
+        "en:t": "Mexico | Mexico",
+        "a": true,
+        "g": {
+            "lat": 19.5491,
+            "lon": -98.8832
+        },
+        "it": "Chiautla",
+        "it:t": "Messico | Mexico",
+        "es": "Chiautla",
+        "es:t": "M\u00e9xico | M\u00e9xico",
+        "de": "Chiautla",
+        "de:t": "Mexiko | Mexico"
+    },
+    {
+        "en": "Chich\u00e9n-Itz\u00e1",
+        "en:t": "Mexico | Yucatan",
+        "a": true,
+        "g": {
+            "lat": 20.6791,
+            "lon": -88.5683
+        },
+        "it": "Chich\u00e9n-Itz\u00e1",
+        "it:t": "Messico | Yucatan",
+        "es": "Chich\u00e9n Itz\u00e1",
+        "es:t": "M\u00e9xico | Yucat\u00e1n",
+        "de": "Chich\u00e9n-Itz\u00e1",
+        "de:t": "Mexiko | Yucatan"
+    },
+    {
+        "en": "Chiconcuac de Ju\u00e1rez",
+        "en:t": "Mexico | Mexico",
+        "a": true,
+        "g": {
+            "lat": 19.5586,
+            "lon": -98.8958
+        },
+        "it": "Chiconcuac de Ju\u00e1rez",
+        "it:t": "Messico | Mexico",
+        "es": "Chiconcuac",
+        "es:t": "M\u00e9xico | M\u00e9xico",
+        "de": "Chiconcuac",
+        "de:t": "Mexiko | Mexiko"
+    },
+    {
+        "en": "Chignahuapan",
+        "en:t": "Mexico | Puebla",
+        "a": true,
+        "g": {
+            "lat": 19.8384,
+            "lon": -98.0312
+        },
+        "it": "Chignahuapan",
+        "it:t": "Messico | Puebla",
+        "es": "Chignahuapan",
+        "es:t": "M\u00e9xico | Puebla",
+        "de": "Chignahuapan",
+        "de:t": "Mexiko | Puebla"
+    },
+    {
+        "en": "Chihuahua",
+        "en:t": "Mexico",
+        "a": true,
+        "g": {
+            "lat": 28.633,
+            "lon": -106.0691
+        },
+        "it": "Chihuahua",
+        "it:t": "Messico",
+        "es": "Chihuahua",
+        "es:t": "M\u00e9xico",
+        "de": "Chihuahua",
+        "de:t": "Mexiko"
+    },
+    {
+        "en": "Chilapa de \u00c1lvarez",
+        "en:t": "Mexico | Guerrero",
+        "a": true,
+        "g": {
+            "lat": 17.598,
+            "lon": -99.1758
+        },
+        "it": "Chilapa de \u00c1lvarez",
+        "it:t": "Messico | Guerrero",
+        "es": "Chilapa de \u00c1lvarez",
+        "es:t": "M\u00e9xico | Guerrero",
+        "de": "Chilapa de \u00c1lvarez",
+        "de:t": "Mexiko | Guerrero"
+    },
+    {
+        "en": "Chilpancingo",
+        "en:t": "Mexico | Guerrero",
+        "a": true,
+        "g": {
+            "lat": 17.5515,
+            "lon": -99.5006
+        },
+        "it": "Chilpancingo",
+        "it:t": "Messico | Guerrero",
+        "es": "Chilpancingo de los Bravo",
+        "es:t": "M\u00e9xico | Guerrero",
+        "de": "Chilpancingo",
+        "de:t": "Mexiko | Guerrero"
+    },
+    {
+        "en": "Chimalhuacan",
+        "en:t": "Mexico | Mexico",
+        "a": true,
+        "g": {
+            "lat": 19.4314,
+            "lon": -98.9582
+        },
+        "it": "Santa Mar\u00eda",
+        "it:t": "Messico | Villa Xochitenco",
+        "es": "Chimalhuac\u00e1n",
+        "es:t": "M\u00e9xico | M\u00e9xico",
+        "de": "Santa Mar\u00eda",
+        "de:t": "Mexiko | Villa Xochitenco"
+    },
+    {
+        "en": "Cholula",
+        "en:t": "Mexico",
+        "a": true,
+        "g": {
+            "lat": 19.0766,
+            "lon": -98.3021
+        },
+        "it": "Cholula",
+        "it:t": "Messico",
+        "es": "Cholula de Rivadavia",
+        "es:t": "M\u00e9xico",
+        "de": "Cholula de Rivadavia",
+        "de:t": "Mexiko"
+    },
+    {
+        "en": "Cintalapa",
+        "en:t": "Mexico | Chiapas",
+        "a": true,
+        "g": {
+            "lat": 16.686,
+            "lon": -93.7286
+        },
+        "it": "Cintalapa de Figueroa",
+        "it:t": "Messico | Chiapas",
+        "es": "Cintalapa",
+        "es:t": "M\u00e9xico | Chiapas",
+        "de": "Cintalapa",
+        "de:t": "Mexiko | Chiapas"
+    },
+    {
+        "en": "Ciudad Acu\u00f1a",
+        "en:t": "Mexico | Coahuila",
+        "a": true,
+        "g": {
+            "lat": 29.3233,
+            "lon": -100.9514
+        },
+        "it": "Ciudad Acu\u00f1a",
+        "it:t": "Messico | Coahuila",
+        "es": "Ciudad Acu\u00f1a",
+        "es:t": "M\u00e9xico | Coahuila de Zaragoza",
+        "de": "Ciudad Acu\u00f1a",
+        "de:t": "Mexiko | Coahuila"
+    },
+    {
+        "en": "Ciudad Altamirano",
+        "en:t": "Mexico | Guerrero",
+        "a": true,
+        "g": {
+            "lat": 18.3578,
+            "lon": -100.6686
+        },
+        "it": "Ciudad Altamirano",
+        "it:t": "Messico | Guerrero",
+        "es": "Ciudad Altamirano",
+        "es:t": "M\u00e9xico | Guerrero",
+        "de": "Ciudad Altamirano",
+        "de:t": "Mexiko | Guerrero"
+    },
+    {
+        "en": "Ciudad Apodaca",
+        "en:t": "Mexico | Nuevo Leon",
+        "a": true,
+        "g": {
+            "lat": 25.7765,
+            "lon": -100.1859
+        },
+        "it": "Apodaca",
+        "it:t": "Messico | Nuevo Le\u00f3n",
+        "es": "Ciudad Apodaca",
+        "es:t": "M\u00e9xico | Nuevo Le\u00f3n",
+        "de": "Ciudad Apodaca",
+        "de:t": "Mexiko | Nuevo Leon"
+    },
+    {
+        "en": "Ciudad Constituci\u00f3n",
+        "en:t": "Mexico | Baja California Sur",
+        "a": true,
+        "g": {
+            "lat": 25.0385,
+            "lon": -111.6601
+        },
+        "it": "Ciudad Constituci\u00f3n",
+        "it:t": "Messico | Bassa California del Sud",
+        "es": "Ciudad Constituci\u00f3n",
+        "es:t": "M\u00e9xico | Baja California Sur",
+        "de": "Ciudad Constituci\u00f3n",
+        "de:t": "Mexiko | Baja California Sur"
+    },
+    {
+        "en": "Ciudad Cuauhtemoc",
+        "en:t": "Mexico | Chihuahua",
+        "a": true,
+        "g": {
+            "lat": 28.4064,
+            "lon": -106.8654
+        },
+        "it": "Ciudad Cuauht\u00e9moc",
+        "it:t": "Messico | Chihuahua",
+        "es": "Ciudad Cuauht\u00e9moc",
+        "es:t": "M\u00e9xico | Chihuahua",
+        "de": "Cuauht\u00e9moc",
+        "de:t": "Mexiko | Chihuahua"
+    },
+    {
+        "en": "Ciudad Fern\u00e1ndez",
+        "en:t": "Mexico | San Luis Potosi",
+        "a": true,
+        "g": {
+            "lat": 21.9368,
+            "lon": -100.0304
+        },
+        "it": "Ciudad Fern\u00e1ndez",
+        "it:t": "Messico | San Luis Potos\u00ed",
+        "es": "Ciudad Fern\u00e1ndez",
+        "es:t": "M\u00e9xico | San Luis Potos\u00ed",
+        "de": "Ciudad Fern\u00e1ndez",
+        "de:t": "Mexiko | San Luis Potosi"
+    },
+    {
+        "en": "Ciudad Guzm\u00e1n",
+        "en:t": "Mexico | Jalisco",
+        "a": true,
+        "g": {
+            "lat": 19.705,
+            "lon": -103.4685
+        },
+        "it": "Ciudad Guzm\u00e1n",
+        "it:t": "Messico | Jalisco",
+        "es": "Ciudad Guzman",
+        "es:t": "M\u00e9xico | Jalisco",
+        "de": "Ciudad Guzm\u00e1n",
+        "de:t": "Mexiko | Jalisco"
+    },
+    {
+        "en": "Ciudad Hidalgo",
+        "en:t": "Mexico | Michoac\u00e1n",
+        "a": true,
+        "g": {
+            "lat": 19.6915,
+            "lon": -100.5465
+        },
+        "it": "Ciudad Hidalgo",
+        "it:t": "Messico | Michoac\u00e1n",
+        "es": "Ciudad Hidalgo",
+        "es:t": "M\u00e9xico | Michoac\u00e1n",
+        "de": "Ciudad Hidalgo",
+        "de:t": "Mexiko | Michoac\u00e1n"
+    },
+    {
+        "en": "Ciudad Ju\u00e1rez",
+        "en:t": "Mexico | Chihuahua",
+        "a": true,
+        "g": {
+            "lat": 31.6904,
+            "lon": -106.4245
+        },
+        "it": "Ciudad Ju\u00e1rez",
+        "it:t": "Messico | Chihuahua",
+        "es": "Ciudad Ju\u00e1rez",
+        "es:t": "M\u00e9xico | Chihuahua",
+        "de": "Ciudad Ju\u00e1rez",
+        "de:t": "Mexiko | Chihuahua"
+    },
+    {
+        "en": "Ciudad L\u00f3pez Mateos",
+        "en:t": "Mexico | Mexico",
+        "a": true,
+        "g": {
+            "lat": 19.5562,
+            "lon": -99.2675
+        },
+        "it": "Ciudad L\u00f3pez Mateos",
+        "it:t": "Messico | Messico",
+        "es": "Ciudad L\u00f3pez Mateos",
+        "es:t": "M\u00e9xico | M\u00e9xico",
+        "de": "Ciudad L\u00f3pez Mateos",
+        "de:t": "Mexiko | Mexico"
+    },
+    {
+        "en": "Ciudad Madero",
+        "en:t": "Mexico | Tamaulipas",
+        "a": true,
+        "g": {
+            "lat": 22.2769,
+            "lon": -97.8331
+        },
+        "it": "Ciudad Madero",
+        "it:t": "Messico | Tamaulipas",
+        "es": "Ciudad Madero",
+        "es:t": "M\u00e9xico | Tamaulipas",
+        "de": "Ciudad Madero",
+        "de:t": "Mexiko | Tamaulipas"
+    },
+    {
+        "en": "Ciudad Mante",
+        "en:t": "Mexico | Tamaulipas",
+        "a": true,
+        "g": {
+            "lat": 22.7422,
+            "lon": -98.9747
+        },
+        "it": "Ciudad Mante",
+        "it:t": "Messico | Tamaulipas",
+        "es": "Ciudad Mante",
+        "es:t": "M\u00e9xico | Tamaulipas",
+        "de": "Ciudad Mante",
+        "de:t": "Mexiko | Tamaulipas"
+    },
+    {
+        "en": "Ciudad Mendoza",
+        "en:t": "Mexico | Uni\u00f3n y Progreso",
+        "a": true,
+        "g": {
+            "lat": 18.806,
+            "lon": -97.1844
+        },
+        "it": "Ciudad Mendoza",
+        "it:t": "Messico | Uni\u00f3n y Progreso",
+        "es": "Ciudad Mendoza",
+        "es:t": "M\u00e9xico | Uni\u00f3n y Progreso",
+        "de": "Ciudad Mendoza",
+        "de:t": "Mexiko | Uni\u00f3n y Progreso"
+    },
+    {
+        "en": "Ciudad Miguel Alem\u00e1n",
+        "en:t": "Mexico | Tamaulipas",
+        "a": true,
+        "g": {
+            "lat": 26.3995,
+            "lon": -99.031
+        },
+        "it": "Ciudad Miguel Alem\u00e1n",
+        "it:t": "Messico | Tamaulipas",
+        "es": "Ciudad Miguel Alem\u00e1n",
+        "es:t": "M\u00e9xico | Tamaulipas",
+        "de": "Ciudad Miguel Alem\u00e1n",
+        "de:t": "Mexiko | Tamaulipas"
+    },
+    {
+        "en": "Ciudad Nezahualc\u00f3yotl",
+        "en:t": "Mexico | Mexico",
+        "a": true,
+        "g": {
+            "lat": 19.3995,
+            "lon": -98.9897
+        },
+        "it": "Ciudad Nezahualc\u00f3yotl",
+        "it:t": "Messico | Messico",
+        "es": "Nezahualc\u00f3yotl",
+        "es:t": "M\u00e9xico | M\u00e9xico",
+        "de": "Nezahualc\u00f3yotl",
+        "de:t": "Mexiko | Mexiko"
+    },
+    {
+        "en": "Ciudad Nicol\u00e1s Romero",
+        "en:t": "Mexico | Mexico",
+        "a": true,
+        "g": {
+            "lat": 19.6162,
+            "lon": -99.3001
+        },
+        "it": "Villa Nicol\u00e1s Romero",
+        "it:t": "Messico | Messico",
+        "es": "Villa Nicol\u00e1s Romero",
+        "es:t": "M\u00e9xico | M\u00e9xico",
+        "de": "Nicol\u00e1s Romero",
+        "de:t": "Mexiko | Mexiko"
+    },
+    {
+        "en": "Ciudad Obreg\u00f3n",
+        "en:t": "Mexico | Sonora",
+        "a": true,
+        "g": {
+            "lat": 27.4828,
+            "lon": -109.9304
+        },
+        "it": "Ciudad Obreg\u00f3n",
+        "it:t": "Messico | Sonora",
+        "es": "Ciudad Obreg\u00f3n",
+        "es:t": "M\u00e9xico | Sonora",
+        "de": "Ciudad Obreg\u00f3n",
+        "de:t": "Mexiko | Sonora"
+    },
+    {
+        "en": "Ciudad Serd\u00e1n",
+        "en:t": "Mexico | Puebla",
+        "a": true,
+        "g": {
+            "lat": 18.9844,
+            "lon": -97.4544
+        },
+        "it": "Ciudad Serd\u00e1n",
+        "it:t": "Messico | Puebla",
+        "es": "Ciudad Serd\u00e1n",
+        "es:t": "M\u00e9xico | Puebla",
+        "de": "Ciudad Serd\u00e1n",
+        "de:t": "Mexiko | Puebla"
+    },
+    {
+        "en": "Ciudad Valles",
+        "en:t": "Mexico | San Luis Potosi",
+        "a": true,
+        "g": {
+            "lat": 22.0026,
+            "lon": -99.0018
+        },
+        "it": "Ciudad Valles",
+        "it:t": "Messico | San Luis Potos\u00ed",
+        "es": "Ciudad Valles",
+        "es:t": "M\u00e9xico | San Luis Potos\u00ed",
+        "de": "Ciudad Valles",
+        "de:t": "Mexiko | San Luis Potos\u00ed"
+    },
+    {
+        "en": "Ciudad Victoria",
+        "en:t": "Mexico | Tamaulipas",
+        "a": true,
+        "g": {
+            "lat": 23.7369,
+            "lon": -99.1411
+        },
+        "it": "Ciudad Victoria",
+        "it:t": "Messico | Tamaulipas",
+        "es": "Ciudad Victoria",
+        "es:t": "M\u00e9xico | Tamaulipas",
+        "de": "Ciudad Victoria",
+        "de:t": "Mexiko | Tamaulipas"
+    },
+    {
+        "en": "Allende",
+        "en:t": "Mexico | Nuevo Leon",
+        "a": true,
+        "g": {
+            "lat": 25.2797,
+            "lon": -100.0192
+        },
+        "it": "Allende",
+        "it:t": "Messico | Nuevo Leon",
+        "es": "Allende",
+        "es:t": "M\u00e9xico | Nuevo Le\u00f3n",
+        "de": "Allende",
+        "de:t": "Mexiko | Nuevo Leon"
+    },
+    {
+        "en": "Armeria",
+        "en:t": "Mexico | Colima",
+        "a": true,
+        "g": {
+            "lat": 18.9358,
+            "lon": -103.9647
+        },
+        "it": "Armeria",
+        "it:t": "Messico | Colima",
+        "es": "Armer\u00eda",
+        "es:t": "M\u00e9xico | Colima",
+        "de": "Armeria",
+        "de:t": "Mexiko | Colima"
+    },
+    {
+        "en": "Ciudad del Carmen",
+        "en:t": "Mexico | Campeche",
+        "a": true,
+        "g": {
+            "lat": 18.6505,
+            "lon": -91.8075
+        },
+        "it": "Ciudad del Carmen",
+        "it:t": "Messico | Campeche",
+        "es": "Ciudad del Carmen",
+        "es:t": "M\u00e9xico | Campeche",
+        "de": "Ciudad del Carmen",
+        "de:t": "Mexiko | Campeche"
+    },
+    {
+        "en": "Coacalco de Berrioz\u00e1bal",
+        "en:t": "Mexico | Mexico",
+        "a": true,
+        "g": {
+            "lat": 19.6386,
+            "lon": -99.0979
+        },
+        "it": "Coacalco de Berrioz\u00e1bal",
+        "it:t": "Messico | Messico",
+        "es": "Coacalco de Berrioz\u00e1bal",
+        "es:t": "M\u00e9xico | M\u00e9xico",
+        "de": "Coacalco de Berrioz\u00e1bal",
+        "de:t": "Mexiko | Mexiko"
+    },
+    {
+        "en": "Coatepec",
+        "en:t": "Mexico | Veracruz",
+        "a": true,
+        "g": {
+            "lat": 19.4519,
+            "lon": -96.9595
+        },
+        "it": "Coatepec",
+        "it:t": "Messico | Veracruz",
+        "es": "Coatepec",
+        "es:t": "M\u00e9xico | Veracruz",
+        "de": "Coatepec",
+        "de:t": "Mexiko | Veracruz"
+    },
+    {
+        "en": "Coatlinchan",
+        "en:t": "Mexico | Mexico",
+        "a": true,
+        "g": {
+            "lat": 19.4498,
+            "lon": -98.8718
+        },
+        "it": "Coatlinchan",
+        "it:t": "Messico | Mexico",
+        "es": "San Miguel Coatlinch\u00e1n",
+        "es:t": "M\u00e9xico | M\u00e9xico",
+        "de": "Coatlinchan",
+        "de:t": "Mexiko | Mexico"
+    },
+    {
+        "en": "Coatzacoalcos",
+        "en:t": "Mexico | Veracruz",
+        "a": true,
+        "g": {
+            "lat": 18.1345,
+            "lon": -94.459
+        },
+        "it": "Coatzacoalcos",
+        "it:t": "Messico | Veracruz",
+        "es": "Coatzacoalcos",
+        "es:t": "M\u00e9xico | Veracruz",
+        "de": "Coatzacoalcos",
+        "de:t": "Mexiko | Veracruz"
+    },
+    {
+        "en": "Coatzintla",
+        "en:t": "Mexico | Veracruz",
+        "a": true,
+        "g": {
+            "lat": 20.4832,
+            "lon": -97.4662
+        },
+        "it": "Coatzintla",
+        "it:t": "Messico | Veracruz",
+        "es": "Coatzintla",
+        "es:t": "M\u00e9xico | Veracruz",
+        "de": "Coatzintla",
+        "de:t": "Mexiko | Veracruz"
+    },
+    {
+        "en": "Colima",
+        "en:t": "Mexico",
+        "a": true,
+        "g": {
+            "lat": 19.2452,
+            "lon": -103.7241
+        },
+        "it": "Colima",
+        "it:t": "Messico",
+        "es": "Colima",
+        "es:t": "M\u00e9xico",
+        "de": "Colima",
+        "de:t": "Mexiko"
+    },
+    {
+        "en": "Colonia Santa Teresa",
+        "en:t": "Mexico | Mexico",
+        "a": true,
+        "g": {
+            "lat": 19.8437,
+            "lon": -99.237
+        },
+        "it": "Colonia Santa Teresa",
+        "it:t": "Messico | Mexico",
+        "es": "Colonia Santa Teresa",
+        "es:t": "M\u00e9xico | M\u00e9xico",
+        "de": "Colonia Santa Teresa",
+        "de:t": "Mexiko | Mexico"
+    },
+    {
+        "en": "Comalcalco",
+        "en:t": "Mexico | Tabasco",
+        "a": true,
+        "g": {
+            "lat": 18.2612,
+            "lon": -93.2217
+        },
+        "it": "Comalcalco",
+        "it:t": "Messico | Tabasco",
+        "es": "Comalcalco",
+        "es:t": "M\u00e9xico | Tabasco",
+        "de": "Comalcalco",
+        "de:t": "Mexiko | Tabasco"
+    },
+    {
+        "en": "Comit\u00e1n",
+        "en:t": "Mexico | Chiapas",
+        "a": true,
+        "g": {
+            "lat": 16.23,
+            "lon": -92.1156
+        },
+        "it": "Comit\u00e1n de Dom\u00ednguez",
+        "it:t": "Messico | Chiapas",
+        "es": "Comit\u00e1n de Dom\u00ednguez",
+        "es:t": "M\u00e9xico | Chiapas",
+        "de": "Comit\u00e1n de Dom\u00ednguez",
+        "de:t": "Mexiko | Chiapas"
+    },
+    {
+        "en": "Comonfort",
+        "en:t": "Mexico | Guanajuato",
+        "a": true,
+        "g": {
+            "lat": 20.7198,
+            "lon": -100.7597
+        },
+        "it": "Comonfort",
+        "it:t": "Messico | Guanajuato",
+        "es": "Comonfort",
+        "es:t": "M\u00e9xico | Guanajuato",
+        "de": "Comonfort",
+        "de:t": "Mexiko | Guanajuato"
+    },
+    {
+        "en": "Compostela",
+        "en:t": "Mexico | Nayarit",
+        "a": true,
+        "g": {
+            "lat": 21.2379,
+            "lon": -104.9008
+        },
+        "it": "Compostela",
+        "it:t": "Messico | Nayarit",
+        "es": "Compostela",
+        "es:t": "M\u00e9xico | Nayarit",
+        "de": "Compostela",
+        "de:t": "Mexiko | Nayarit"
+    },
+    {
+        "en": "Contla",
+        "en:t": "Mexico | Tlaxcala",
+        "a": true,
+        "g": {
+            "lat": 19.3322,
+            "lon": -98.1612
+        },
+        "it": "Contla",
+        "it:t": "Messico | Tlaxcala",
+        "es": "Contla",
+        "es:t": "M\u00e9xico | Tlaxcala",
+        "de": "Contla",
+        "de:t": "Mexiko | Tlaxcala"
+    },
+    {
+        "en": "Cortazar",
+        "en:t": "Mexico | Guanajuato",
+        "a": true,
+        "g": {
+            "lat": 20.4772,
+            "lon": -100.9637
+        },
+        "it": "Cortazar",
+        "it:t": "Messico | Guanajuato",
+        "es": "Cortazar",
+        "es:t": "M\u00e9xico | Guanajuato",
+        "de": "Cortazar",
+        "de:t": "Mexiko | Guanajuato"
+    },
+    {
+        "en": "Cosamaloapan",
+        "en:t": "Mexico | Veracruz",
+        "a": true,
+        "g": {
+            "lat": 18.3663,
+            "lon": -95.7958
+        },
+        "it": "Cosamaloapan",
+        "it:t": "Messico | Veracruz",
+        "es": "Cosamaloapan",
+        "es:t": "M\u00e9xico | Veracruz",
+        "de": "Cosamaloapan",
+        "de:t": "Mexiko | Veracruz"
+    },
+    {
+        "en": "Cosoleacaque",
+        "en:t": "Mexico | Veracruz",
+        "a": true,
+        "g": {
+            "lat": 17.9979,
+            "lon": -94.6337
+        },
+        "it": "Cosoleacaque",
+        "it:t": "Messico | Veracruz",
+        "es": "Cosoleacaque",
+        "es:t": "M\u00e9xico | Veracruz",
+        "de": "Cosoleacaque",
+        "de:t": "Mexiko | Veracruz"
+    },
+    {
+        "en": "Costa Rica",
+        "en:t": "Mexico | Sinaloa",
+        "a": true,
+        "g": {
+            "lat": 24.0856,
+            "lon": -107.0522
+        },
+        "it": "Costa Rica",
+        "it:t": "Messico | Sinaloa",
+        "es": "Costa Rica",
+        "es:t": "M\u00e9xico | Sinaloa",
+        "de": "Costa Rica",
+        "de:t": "Mexiko | Sinaloa"
+    },
+    {
+        "en": "Coyoac\u00e1n",
+        "en:t": "Mexico | Mexico",
+        "a": true,
+        "g": {
+            "lat": 19.3487,
+            "lon": -99.1629
+        },
+        "it": "Coyoac\u00e1n",
+        "it:t": "Messico | Mexico",
+        "es": "Coyoac\u00e1n",
+        "es:t": "M\u00e9xico | M\u00e9xico",
+        "de": "Coyoac\u00e1n",
+        "de:t": "Mexiko | Mexico"
+    },
+    {
+        "en": "Coyotepec",
+        "en:t": "Mexico | Lomas de Cortes",
+        "a": true,
+        "g": {
+            "lat": 18.9555,
+            "lon": -99.2281
+        },
+        "it": "Coyotepec",
+        "it:t": "Messico | Messico",
+        "es": "Coyotepec",
+        "es:t": "M\u00e9xico | Lomas de Cortes",
+        "de": "Cuautla",
+        "de:t": "Mexiko | Morelos"
+    },
+    {
+        "en": "Cuajimalpa",
+        "en:t": "Mexico | M\u00e9xico",
+        "a": true,
+        "g": {
+            "lat": 19.3558,
+            "lon": -99.2994
+        },
+        "it": "Cuajimalpa",
+        "it:t": "Messico | M\u00e9xico",
+        "es": "Cuajimalpa",
+        "es:t": "M\u00e9xico | M\u00e9xico",
+        "de": "Cuajimalpa",
+        "de:t": "Mexiko | M\u00e9xico"
+    },
+    {
+        "en": "Cuautepec de Hinojosa",
+        "en:t": "Mexico | Hidalgo",
+        "a": true,
+        "g": {
+            "lat": 20.0368,
+            "lon": -98.3171
+        },
+        "it": "Cuautepec de Hinojosa",
+        "it:t": "Messico | Hidalgo",
+        "es": "Cuautepec de Hinojosa",
+        "es:t": "M\u00e9xico | Hidalgo",
+        "de": "Cuautepec de Hinojosa",
+        "de:t": "Mexiko | Hidalgo"
+    },
+    {
+        "en": "Cuautitlan",
+        "en:t": "Mexico | Mexico",
+        "a": true,
+        "g": {
+            "lat": 19.6727,
+            "lon": -99.1649
+        },
+        "it": "Cuautitl\u00e1n",
+        "it:t": "Messico | Mexico",
+        "es": "Cuautitl\u00e1n",
+        "es:t": "M\u00e9xico | M\u00e9xico",
+        "de": "Cuautitl\u00e1n",
+        "de:t": "Mexiko | Mexiko"
+    },
+    {
+        "en": "Cuautitl\u00e1n Izcalli",
+        "en:t": "Mexico | Mexico",
+        "a": true,
+        "g": {
+            "lat": 19.6528,
+            "lon": -99.2231
+        },
+        "it": "Cuautitl\u00e1n Izcalli",
+        "it:t": "Messico | Messico",
+        "es": "Cuautitl\u00e1n Izcalli",
+        "es:t": "M\u00e9xico | M\u00e9xico",
+        "de": "Cuautitl\u00e1n Izcalli",
+        "de:t": "Mexiko | Mexiko"
+    },
+    {
+        "en": "Cuautla",
+        "en:t": "Mexico | Morelos",
+        "a": true,
+        "g": {
+            "lat": 18.8126,
+            "lon": -98.9548
+        },
+        "it": "Cuautla",
+        "it:t": "Messico | Morelos",
+        "es": "Cuautla",
+        "es:t": "M\u00e9xico | Morelos",
+        "de": "Cuautla",
+        "de:t": "Mexiko | Morelos"
+    },
+    {
+        "en": "Cuautlancingo",
+        "en:t": "Mexico | Puebla",
+        "a": true,
+        "g": {
+            "lat": 19.1029,
+            "lon": -98.2397
+        },
+        "it": "Cuautlancingo",
+        "it:t": "Messico | Puebla",
+        "es": "Cuautlancingo",
+        "es:t": "M\u00e9xico | Puebla",
+        "de": "Cuautlancingo",
+        "de:t": "Mexiko | Puebla"
+    },
+    {
+        "en": "Cuernavaca",
+        "en:t": "Mexico | Morelos",
+        "a": true,
+        "g": {
+            "lat": 18.9242,
+            "lon": -99.2216
+        },
+        "it": "Cuernavaca",
+        "it:t": "Messico | Morelos",
+        "es": "Cuernavaca",
+        "es:t": "M\u00e9xico | Morelos",
+        "de": "Cuernavaca",
+        "de:t": "Mexiko | Morelos"
+    },
+    {
+        "en": "Culiac\u00e1n",
+        "en:t": "Mexico | Sinaloa",
+        "a": true,
+        "g": {
+            "lat": 24.8091,
+            "lon": -107.394
+        },
+        "it": "Culiac\u00e1n",
+        "it:t": "Messico | Sinaloa",
+        "es": "Culiac\u00e1n Rosales",
+        "es:t": "M\u00e9xico | Sinaloa",
+        "de": "Culiac\u00e1n",
+        "de:t": "Mexiko | Sinaloa"
+    },
+    {
+        "en": "Cunduac\u00e1n",
+        "en:t": "Mexico | Tabasco",
+        "a": true,
+        "g": {
+            "lat": 18.0722,
+            "lon": -93.1712
+        },
+        "it": "Cunduac\u00e1n",
+        "it:t": "Messico | Tabasco",
+        "es": "Cunduac\u00e1n",
+        "es:t": "M\u00e9xico | Tabasco",
+        "de": "Cunduac\u00e1n",
+        "de:t": "Mexiko | Tabasco"
+    },
+    {
+        "en": "C\u00e1rdenas",
+        "en:t": "Mexico | San Luis Potosi",
+        "a": true,
+        "g": {
+            "lat": 21.9985,
+            "lon": -99.6425
+        },
+        "it": "C\u00e1rdenas",
+        "it:t": "Messico | San Luis Potos\u00ed",
+        "es": "C\u00e1rdenas",
+        "es:t": "M\u00e9xico | San Luis Potos\u00ed",
+        "de": "C\u00e1rdenas",
+        "de:t": "Mexiko | San Luis Potosi"
+    },
+    {
+        "en": "C\u00e1rdenas",
+        "en:t": "Mexico | Tabasco",
+        "a": true,
+        "g": {
+            "lat": 18.0012,
+            "lon": -93.3732
+        },
+        "it": "C\u00e1rdenas",
+        "it:t": "Messico | Tabasco",
+        "es": "Heroica C\u00e1rdenas",
+        "es:t": "M\u00e9xico | Tabasco",
+        "de": "C\u00e1rdenas",
+        "de:t": "Mexiko | Tabasco"
+    },
+    {
+        "en": "C\u00f3rdoba",
+        "en:t": "Mexico | Veracruz",
+        "a": true,
+        "g": {
+            "lat": 18.8839,
+            "lon": -96.9238
+        },
+        "it": "C\u00f3rdoba",
+        "it:t": "Messico | Veracruz",
+        "es": "C\u00f3rdoba",
+        "es:t": "M\u00e9xico | Veracruz",
+        "de": "C\u00f3rdoba",
+        "de:t": "Mexiko | Veracruz"
+    },
+    {
+        "en": "Del Valle",
+        "en:t": "Mexico | Mexico",
+        "a": true,
+        "g": {
+            "lat": 19.3817,
+            "lon": -99.165
+        },
+        "it": "Del Valle",
+        "it:t": "Messico | Mexico",
+        "es": "Colonia del Valle",
+        "es:t": "M\u00e9xico | M\u00e9xico",
+        "de": "Colonia del Valle",
+        "de:t": "Mexiko | Mexiko-Stadt"
+    },
+    {
+        "en": "Delicias",
+        "en:t": "Mexico | Chihuahua",
+        "a": true,
+        "g": {
+            "lat": 28.1871,
+            "lon": -105.4595
+        },
+        "it": "Delicias",
+        "it:t": "Messico | Chihuahua",
+        "es": "Delicias",
+        "es:t": "M\u00e9xico | Chihuahua",
+        "de": "Delicias",
+        "de:t": "Mexiko | Chihuahua"
+    },
+    {
+        "en": "Dolores Hidalgo",
+        "en:t": "Mexico | Guanajuato",
+        "a": true,
+        "g": {
+            "lat": 21.1516,
+            "lon": -100.9367
+        },
+        "it": "Dolores Hidalgo",
+        "it:t": "Messico | Guanajuato",
+        "es": "Dolores Hidalgo Cuna de la Independencia Nacional",
+        "es:t": "M\u00e9xico | Guanajuato",
+        "de": "Dolores Hidalgo",
+        "de:t": "Mexiko | Guanajuato"
+    },
+    {
+        "en": "Durango",
+        "en:t": "Mexico",
+        "a": true,
+        "g": {
+            "lat": 24.0277,
+            "lon": -104.6532
+        },
+        "it": "Durango",
+        "it:t": "Messico",
+        "es": "Durango",
+        "es:t": "M\u00e9xico",
+        "de": "Durango",
+        "de:t": "Mexiko"
+    },
+    {
+        "en": "Ecatepec de Morelos",
+        "en:t": "Mexico | M\u00e9xico",
+        "a": true,
+        "g": {
+            "lat": 19.6058,
+            "lon": -99.0365
+        },
+        "it": "Ecatepec de Morelos",
+        "it:t": "Messico | M\u00e9xico",
+        "es": "Ecatepec de Morelos",
+        "es:t": "M\u00e9xico | M\u00e9xico",
+        "de": "Ecatepec de Morelos",
+        "de:t": "Mexiko | M\u00e9xico"
+    },
+    {
+        "en": "El Grullo",
+        "en:t": "Mexico | Jalisco",
+        "a": true,
+        "g": {
+            "lat": 19.8063,
+            "lon": -104.2192
+        },
+        "it": "El Grullo",
+        "it:t": "Messico | Jalisco",
+        "es": "El Grullo",
+        "es:t": "M\u00e9xico | Jalisco",
+        "de": "El Grullo",
+        "de:t": "Mexiko | Jalisco"
+    },
+    {
+        "en": "El Pueblito",
+        "en:t": "Mexico | Quer\u00e9taro",
+        "a": true,
+        "g": {
+            "lat": 20.5319,
+            "lon": -100.4417
+        },
+        "it": "El Pueblito",
+        "it:t": "Messico | Quer\u00e9taro",
+        "es": "El Pueblito",
+        "es:t": "M\u00e9xico | Quer\u00e9taro",
+        "de": "El Pueblito",
+        "de:t": "Mexiko | Quer\u00e9taro"
+    },
+    {
+        "en": "El Salto",
+        "en:t": "Mexico | Jalisco",
+        "a": true,
+        "g": {
+            "lat": 20.5178,
+            "lon": -103.1827
+        },
+        "it": "El Salto",
+        "it:t": "Messico | Jalisco",
+        "es": "El Salto",
+        "es:t": "M\u00e9xico | Jalisco",
+        "de": "El Salto",
+        "de:t": "Mexiko | Jalisco"
+    },
+    {
+        "en": "Emiliano Zapata",
+        "en:t": "Mexico | Morelos",
+        "a": true,
+        "g": {
+            "lat": 18.8479,
+            "lon": -99.1844
+        },
+        "it": "Emiliano Zapata",
+        "it:t": "Messico | Morelos",
+        "es": "Emiliano Zapata",
+        "es:t": "M\u00e9xico | Morelos",
+        "de": "Emiliano Zapata",
+        "de:t": "Mexiko | Morelos"
+    },
+    {
+        "en": "Emiliano Zapata",
+        "en:t": "Mexico | Tuxtla Guti\u00e9rrez",
+        "a": true,
+        "g": {
+            "lat": 16.7434,
+            "lon": -93.0999
+        },
+        "it": "Emiliano Zapata",
+        "it:t": "Messico | Tuxtla Guti\u00e9rrez",
+        "es": "Emiliano Zapata",
+        "es:t": "M\u00e9xico | Tuxtla Guti\u00e9rrez",
+        "de": "Emiliano Zapata",
+        "de:t": "Mexiko | Tuxtla Guti\u00e9rrez"
+    },
+    {
+        "en": "Emiliano Zapata - M\u00e9xico Coyoac\u00e1n",
+        "en:t": "Mexico | Santa Cruz Atoyac",
+        "a": true,
+        "g": {
+            "lat": 19.3703,
+            "lon": -99.1635
+        },
+        "it": "Emiliano Zapata - M\u00e9xico Coyoac\u00e1n",
+        "it:t": "Messico | Santa Cruz Atoyac",
+        "es": "Emiliano Zapata - M\u00e9xico Coyoac\u00e1n",
+        "es:t": "M\u00e9xico | Santa Cruz Atoyac",
+        "de": "Emiliano Zapata - M\u00e9xico Coyoac\u00e1n",
+        "de:t": "Mexiko | Santa Cruz Atoyac"
+    },
+    {
+        "en": "Empalme",
+        "en:t": "Mexico | Sonora",
+        "a": true,
+        "g": {
+            "lat": 27.9665,
+            "lon": -110.8136
+        },
+        "it": "Empalme",
+        "it:t": "Messico | Sonora",
+        "es": "Empalme",
+        "es:t": "M\u00e9xico | Sonora",
+        "de": "Empalme",
+        "de:t": "Mexiko | Sonora"
+    },
+    {
+        "en": "Encarnaci\u00f3n de D\u00edaz",
+        "en:t": "Mexico | Jalisco",
+        "a": true,
+        "g": {
+            "lat": 21.5263,
+            "lon": -102.2403
+        },
+        "it": "Encarnaci\u00f3n de D\u00edaz",
+        "it:t": "Messico | Jalisco",
+        "es": "Encarnaci\u00f3n de D\u00edaz",
+        "es:t": "M\u00e9xico | Jalisco",
+        "de": "Encarnaci\u00f3n de D\u00edaz",
+        "de:t": "Mexiko | Jalisco"
+    },
+    {
+        "en": "Ensenada",
+        "en:t": "Mexico | Baja California",
+        "a": true,
+        "g": {
+            "lat": 31.8667,
+            "lon": -116.5964
+        },
+        "it": "Ensenada",
+        "it:t": "Messico | Bassa California",
+        "es": "Ensenada",
+        "es:t": "M\u00e9xico | Baja California",
+        "de": "Ensenada",
+        "de:t": "Mexiko | Baja California"
+    },
+    {
+        "en": "Escuinapa de Hidalgo",
+        "en:t": "Mexico | Sinaloa",
+        "a": true,
+        "g": {
+            "lat": 22.8318,
+            "lon": -105.7791
+        },
+        "it": "Escuinapa de Hidalgo",
+        "it:t": "Messico | Sinaloa",
+        "es": "Escuinapa",
+        "es:t": "M\u00e9xico | Sinaloa",
+        "de": "Escuinapa de Hidalgo",
+        "de:t": "Mexiko | Sinaloa"
+    },
+    {
+        "en": "Esc\u00e1rcega",
+        "en:t": "Mexico | Campeche",
+        "a": true,
+        "g": {
+            "lat": 18.6102,
+            "lon": -90.739
+        },
+        "it": "Esc\u00e1rcega",
+        "it:t": "Messico | Campeche",
+        "es": "Esc\u00e1rcega",
+        "es:t": "M\u00e9xico | Campeche",
+        "de": "Esc\u00e1rcega",
+        "de:t": "Mexiko | Campeche"
+    },
+    {
+        "en": "Felipe Carrillo Puerto",
+        "en:t": "Mexico | Quintana Roo",
+        "a": true,
+        "g": {
+            "lat": 19.5803,
+            "lon": -88.0441
+        },
+        "it": "Felipe Carrillo Puerto",
+        "it:t": "Messico | Quintana Roo",
+        "es": "Felipe Carrillo Puerto",
+        "es:t": "M\u00e9xico | Quintana Roo",
+        "de": "Felipe Carrillo Puerto",
+        "de:t": "Mexiko | Quintana Roo"
+    },
+    {
+        "en": "Fort\u00edn de las Flores",
+        "en:t": "Mexico | Veracruz",
+        "a": true,
+        "g": {
+            "lat": 18.9017,
+            "lon": -96.999
+        },
+        "it": "Fortin de las Flores",
+        "it:t": "Messico | Veracruz",
+        "es": "Fort\u00edn de las Flores",
+        "es:t": "M\u00e9xico | Veracruz",
+        "de": "Fort\u00edn de las Flores",
+        "de:t": "Mexiko | Veracruz"
+    },
+    {
+        "en": "Fraccionamiento Ciudad Olmeca",
+        "en:t": "Mexico | Veracruz",
+        "a": true,
+        "g": {
+            "lat": 18.1514,
+            "lon": -94.5547
+        },
+        "it": "Fraccionamiento Ciudad Olmeca",
+        "it:t": "Messico | Veracruz",
+        "es": "Fraccionamiento Ciudad Olmeca",
+        "es:t": "M\u00e9xico | Veracruz",
+        "de": "Fraccionamiento Ciudad Olmeca",
+        "de:t": "Mexiko | Veracruz"
+    },
+    {
+        "en": "Fresnillo",
+        "en:t": "Mexico | Zacatecas",
+        "a": true,
+        "g": {
+            "lat": 23.1778,
+            "lon": -102.8687
+        },
+        "it": "Fresnillo",
+        "it:t": "Messico | Zacatecas",
+        "es": "Fresnillo",
+        "es:t": "M\u00e9xico | Zacatecas",
+        "de": "Fresnillo",
+        "de:t": "Mexiko | Zacatecas"
+    },
+    {
+        "en": "Frontera",
+        "en:t": "Mexico | Tabasco",
+        "a": true,
+        "g": {
+            "lat": 18.5334,
+            "lon": -92.6461
+        },
+        "it": "Frontera",
+        "it:t": "Messico | Tabasco",
+        "es": "Frontera",
+        "es:t": "M\u00e9xico | Tabasco",
+        "de": "Frontera",
+        "de:t": "Mexiko | Tabasco"
+    },
+    {
+        "en": "Frontera Comalapa",
+        "en:t": "Mexico | Chiapas",
+        "a": true,
+        "g": {
+            "lat": 15.6604,
+            "lon": -92.1425
+        },
+        "it": "Frontera Comalapa",
+        "it:t": "Messico | Chiapas",
+        "es": "Frontera Comalapa",
+        "es:t": "M\u00e9xico | Chiapas",
+        "de": "Frontera Comalapa",
+        "de:t": "Mexiko | Chiapas"
+    },
+    {
+        "en": "Fuentes del Valle",
+        "en:t": "Mexico | Mexico",
+        "a": true,
+        "g": {
+            "lat": 19.6347,
+            "lon": -99.1351
+        },
+        "it": "Fuentes del Valle",
+        "it:t": "Messico | Mexico",
+        "es": "Fuentes del Valle",
+        "es:t": "M\u00e9xico | M\u00e9xico",
+        "de": "Fuentes del Valle",
+        "de:t": "Mexiko | Mexico"
+    },
+    {
+        "en": "General Escobedo",
+        "en:t": "Mexico | Nuevo Leon",
+        "a": true,
+        "g": {
+            "lat": 25.8002,
+            "lon": -100.3122
+        },
+        "it": "General Escobedo",
+        "it:t": "Messico | Nuevo Le\u00f3n",
+        "es": "Ciudad General Escobedo",
+        "es:t": "M\u00e9xico | Nuevo Le\u00f3n",
+        "de": "Ciudad General Escobedo",
+        "de:t": "Mexiko | Nuevo Le\u00f3n"
+    },
+    {
+        "en": "Gomez Palacio",
+        "en:t": "Mexico | Durango",
+        "a": true,
+        "g": {
+            "lat": 25.5891,
+            "lon": -103.4859
+        },
+        "it": "G\u00f3mez Palacio",
+        "it:t": "Messico | Durango",
+        "es": "G\u00f3mez Palacio",
+        "es:t": "M\u00e9xico | Durango",
+        "de": "Gomez Palacio",
+        "de:t": "Mexiko | Durango"
+    },
+    {
+        "en": "Guacamayas",
+        "en:t": "Mexico | Michoac\u00e1n",
+        "a": true,
+        "g": {
+            "lat": 18.0197,
+            "lon": -102.2126
+        },
+        "it": "Guacamayas",
+        "it:t": "Messico | Michoac\u00e1n",
+        "es": "Las Guacamayas",
+        "es:t": "M\u00e9xico | Michoac\u00e1n",
+        "de": "Guacamayas",
+        "de:t": "Mexiko | Michoac\u00e1n"
+    },
+    {
+        "en": "Guadalajara",
+        "en:t": "Mexico | Jalisco",
+        "a": true,
+        "g": {
+            "lat": 20.6597,
+            "lon": -103.3496
+        },
+        "it": "Guadalajara",
+        "it:t": "Messico | Jalisco",
+        "es": "Guadalajara",
+        "es:t": "M\u00e9xico | Jalisco",
+        "de": "Guadalajara",
+        "de:t": "Mexiko | Jalisco"
+    },
+    {
+        "en": "Guadalupe",
+        "en:t": "Mexico | Nuevo Leon",
+        "a": true,
+        "g": {
+            "lat": 25.6748,
+            "lon": -100.2155
+        },
+        "it": "Guadalupa",
+        "it:t": "Messico | Nuevo Le\u00f3n",
+        "es": "Guadalupe",
+        "es:t": "M\u00e9xico | Nuevo Le\u00f3n",
+        "de": "Guadaloupe",
+        "de:t": "Mexiko | Nuevo Le\u00f3n"
+    },
+    {
+        "en": "Guadalupe",
+        "en:t": "Mexico | Zacatecas",
+        "a": true,
+        "g": {
+            "lat": 22.7566,
+            "lon": -102.5119
+        },
+        "it": "Guadalupa",
+        "it:t": "Messico | Zacatecas",
+        "es": "Guadalupe",
+        "es:t": "M\u00e9xico | Zacatecas",
+        "de": "Guadaloupe",
+        "de:t": "Mexiko | Zacatecas"
+    },
+    {
+        "en": "Guam\u00fachil",
+        "en:t": "Mexico | Sinaloa",
+        "a": true,
+        "g": {
+            "lat": 25.4587,
+            "lon": -108.0777
+        },
+        "it": "Guam\u00fachil",
+        "it:t": "Messico | Sinaloa",
+        "es": "Guam\u00fachil",
+        "es:t": "M\u00e9xico | Sinaloa",
+        "de": "Guam\u00fachil",
+        "de:t": "Mexiko | Sinaloa"
+    },
+    {
+        "en": "Guanajuato",
+        "en:t": "Mexico",
+        "a": true,
+        "g": {
+            "lat": 21.019,
+            "lon": -101.2574
+        },
+        "it": "Guanajuato",
+        "it:t": "Messico",
+        "es": "Guanajuato",
+        "es:t": "M\u00e9xico",
+        "de": "Guanajuato",
+        "de:t": "Mexiko"
+    },
+    {
+        "en": "Guasave",
+        "en:t": "Mexico | Sinaloa",
+        "a": true,
+        "g": {
+            "lat": 25.5667,
+            "lon": -108.4673
+        },
+        "it": "Guasave",
+        "it:t": "Messico | Sinaloa",
+        "es": "Guasave",
+        "es:t": "M\u00e9xico | Sinaloa",
+        "de": "Guasave",
+        "de:t": "Mexiko | Sinaloa"
+    },
+    {
+        "en": "Guaymas",
+        "en:t": "Mexico | Sonora",
+        "a": true,
+        "g": {
+            "lat": 27.9179,
+            "lon": -110.9089
+        },
+        "it": "Guaymas",
+        "it:t": "Messico | Sonora",
+        "es": "Heroica Guaymas",
+        "es:t": "M\u00e9xico | Sonora",
+        "de": "Guaymas",
+        "de:t": "Mexiko | Sonora"
+    },
+    {
+        "en": "Gustavo A. Madero",
+        "en:t": "Mexico | Mexico",
+        "a": true,
+        "g": {
+            "lat": 19.4873,
+            "lon": -99.1236
+        },
+        "it": "Gustavo A. Madero",
+        "it:t": "Messico | Citt\u00e0 del Messico",
+        "es": "Gustavo A. Madero",
+        "es:t": "M\u00e9xico | M\u00e9xico",
+        "de": "Gustavo A. Madero",
+        "de:t": "Mexiko | Mexiko-Stadt"
+    },
+    {
+        "en": "Gustavo A. Madero",
+        "en:t": "Mexico | Tamaulipas",
+        "a": true,
+        "g": {
+            "lat": 22.8706,
+            "lon": -98.7594
+        },
+        "it": "Gustavo A. Madero",
+        "it:t": "Messico | Tamaulipas",
+        "es": "Gustavo A. Madero",
+        "es:t": "M\u00e9xico | Tamaulipas",
+        "de": "Gustavo A. Madero",
+        "de:t": "Mexiko | Tamaulipas"
+    },
+    {
+        "en": "Hacienda Santa Fe",
+        "en:t": "Mexico",
+        "a": true,
+        "g": {
+            "lat": 20.5201,
+            "lon": -103.3789
+        },
+        "it": "Hacienda Santa Fe",
+        "it:t": "Messico | Jalisco",
+        "es": "Hacienda Santa Fe",
+        "es:t": "M\u00e9xico | Jalisco",
+        "de": "Hacienda Santa Fe",
+        "de:t": "Mexiko"
+    },
+    {
+        "en": "Hermosillo",
+        "en:t": "Mexico | Sonora",
+        "a": true,
+        "g": {
+            "lat": 29.073,
+            "lon": -110.9559
+        },
+        "it": "Hermosillo",
+        "it:t": "Messico | Sonora",
+        "es": "Hermosillo",
+        "es:t": "M\u00e9xico | Sonora",
+        "de": "Hermosillo",
+        "de:t": "Mexiko | Sonora"
+    },
+    {
+        "en": "Heroica Huajuapan de Leon",
+        "en:t": "Mexico | Oaxaca",
+        "a": true,
+        "g": {
+            "lat": 17.8113,
+            "lon": -97.7803
+        },
+        "it": "Huajuapan de Le\u00f3n",
+        "it:t": "Messico | Oaxaca",
+        "es": "Huajuapan de Le\u00f3n",
+        "es:t": "M\u00e9xico | Oaxaca",
+        "de": "Huajuapan de Le\u00f3n",
+        "de:t": "Mexiko | Oaxaca"
+    },
+    {
+        "en": "Heroica Veracruz",
+        "en:t": "Mexico",
+        "a": true,
+        "g": {
+            "lat": 19.1738,
+            "lon": -96.1342
+        },
+        "it": "Heroica Veracruz",
+        "it:t": "Messico",
+        "es": "Heroica Veracruz",
+        "es:t": "M\u00e9xico",
+        "de": "Heroica Veracruz",
+        "de:t": "Mexiko"
+    },
+    {
+        "en": "Hidalgo",
+        "en:t": "Mexico | Nuevo Leon",
+        "a": true,
+        "g": {
+            "lat": 25.9747,
+            "lon": -100.4565
+        },
+        "it": "Hidalgo",
+        "it:t": "Messico | Nuevo Le\u00f3n",
+        "es": "Hidalgo",
+        "es:t": "M\u00e9xico | Nuevo Le\u00f3n",
+        "de": "Hidalgo",
+        "de:t": "Mexiko | Nuevo Leon"
+    },
+    {
+        "en": "Huamantla",
+        "en:t": "Mexico | Tlaxcala",
+        "a": true,
+        "g": {
+            "lat": 19.3185,
+            "lon": -97.9234
+        },
+        "it": "Huamantla",
+        "it:t": "Messico | Tlaxcala",
+        "es": "Huamantla",
+        "es:t": "M\u00e9xico | Tlaxcala",
+        "de": "Huamantla",
+        "de:t": "Mexiko | Tlaxcala"
+    },
+    {
+        "en": "Huatabampo",
+        "en:t": "Mexico | Sonora",
+        "a": true,
+        "g": {
+            "lat": 26.8271,
+            "lon": -109.6419
+        },
+        "it": "Huatabampo",
+        "it:t": "Messico | Sonora",
+        "es": "Huatabampo",
+        "es:t": "M\u00e9xico | Sonora",
+        "de": "Huatabampo",
+        "de:t": "Mexiko | Sonora"
+    },
+    {
+        "en": "Huatusco",
+        "en:t": "Mexico | Veracruz",
+        "a": true,
+        "g": {
+            "lat": 19.1482,
+            "lon": -96.9665
+        },
+        "it": "Huatusco",
+        "it:t": "Messico | Veracruz",
+        "es": "Huatusco",
+        "es:t": "M\u00e9xico | Veracruz",
+        "de": "Huatusco",
+        "de:t": "Mexiko | Veracruz"
+    },
+    {
+        "en": "Huauchinango",
+        "en:t": "Mexico | Puebla",
+        "a": true,
+        "g": {
+            "lat": 20.1757,
+            "lon": -98.0629
+        },
+        "it": "Huauchinango",
+        "it:t": "Messico | Puebla",
+        "es": "Huauchinango",
+        "es:t": "M\u00e9xico | Puebla",
+        "de": "Huauchinango",
+        "de:t": "Mexiko | Puebla"
+    },
+    {
+        "en": "Huejotzingo",
+        "en:t": "Mexico | Puebla",
+        "a": true,
+        "g": {
+            "lat": 19.1589,
+            "lon": -98.4047
+        },
+        "it": "Huejotzingo",
+        "it:t": "Messico | Puebla",
+        "es": "Huejotzingo",
+        "es:t": "M\u00e9xico | Puebla",
+        "de": "Huejotzingo",
+        "de:t": "Mexiko | Puebla"
+    },
+    {
+        "en": "Huejutla de Reyes",
+        "en:t": "Mexico | Hidalgo",
+        "a": true,
+        "g": {
+            "lat": 21.1392,
+            "lon": -98.4189
+        },
+        "it": "Huejutla de Reyes",
+        "it:t": "Messico | Hidalgo",
+        "es": "Huejutla de Reyes",
+        "es:t": "M\u00e9xico | Hidalgo",
+        "de": "Huejutla de Reyes",
+        "de:t": "Mexiko | Hidalgo"
+    },
+    {
+        "en": "Huetamo",
+        "en:t": "Mexico | Michoac\u00e1n",
+        "a": true,
+        "g": {
+            "lat": 18.6315,
+            "lon": -100.8994
+        },
+        "it": "Huetamo",
+        "it:t": "Messico | Michoac\u00e1n",
+        "es": "Huetamo de N\u00fa\u00f1ez",
+        "es:t": "M\u00e9xico | Michoac\u00e1n",
+        "de": "Huetamo",
+        "de:t": "Mexiko | Michoac\u00e1n"
+    },
+    {
+        "en": "Huimanguillo",
+        "en:t": "Mexico | Tabasco",
+        "a": true,
+        "g": {
+            "lat": 17.8307,
+            "lon": -93.3897
+        },
+        "it": "Huimanguillo",
+        "it:t": "Messico | Tabasco",
+        "es": "Huimanguillo",
+        "es:t": "M\u00e9xico | Tabasco",
+        "de": "Huimanguillo",
+        "de:t": "Mexiko | Tabasco"
+    },
+    {
+        "en": "Huitzuco",
+        "en:t": "Mexico | Guerrero",
+        "a": true,
+        "g": {
+            "lat": 18.3031,
+            "lon": -99.3339
+        },
+        "it": "Huitzuco",
+        "it:t": "Messico | Guerrero",
+        "es": "Huitzuco",
+        "es:t": "M\u00e9xico | Guerrero",
+        "de": "Huitzuco",
+        "de:t": "Mexiko | Guerrero"
+    },
+    {
+        "en": "Huitzuco de los Figueroa",
+        "en:t": "Mexico | Guerrero",
+        "a": true,
+        "g": {
+            "lat": 18.3025,
+            "lon": -99.3346
+        },
+        "it": "Huitzuco de los Figueroa",
+        "it:t": "Messico | Guerrero",
+        "es": "Huitzuco de los Figueroa",
+        "es:t": "M\u00e9xico | Guerrero",
+        "de": "Huitzuco de los Figueroa",
+        "de:t": "Mexiko | Guerrero"
+    },
+    {
+        "en": "Huixtla",
+        "en:t": "Mexico | Chiapas",
+        "a": true,
+        "g": {
+            "lat": 15.1377,
+            "lon": -92.4659
+        },
+        "it": "Huixtla",
+        "it:t": "Messico | Chiapas",
+        "es": "Huixtla",
+        "es:t": "M\u00e9xico | Chiapas",
+        "de": "Huixtla",
+        "de:t": "Mexiko | Chiapas"
+    },
+    {
+        "en": "Hunucm\u00e1",
+        "en:t": "Mexico | Yucatan",
+        "a": true,
+        "g": {
+            "lat": 21.0163,
+            "lon": -89.8772
+        },
+        "it": "Hunucm\u00e1",
+        "it:t": "Messico | Yucatan",
+        "es": "Hunucm\u00e1",
+        "es:t": "M\u00e9xico | Yucat\u00e1n",
+        "de": "Hunucm\u00e1",
+        "de:t": "Mexiko | Yucatan"
+    },
+    {
+        "en": "Iguala",
+        "en:t": "Mexico | Guerrero",
+        "a": true,
+        "g": {
+            "lat": 18.3448,
+            "lon": -99.5397
+        },
+        "it": "Iguala",
+        "it:t": "Messico | Guerrero",
+        "es": "Iguala",
+        "es:t": "M\u00e9xico | Guerrero",
+        "de": "Iguala",
+        "de:t": "Mexiko | Guerrero"
+    },
+    {
+        "en": "Irapuato",
+        "en:t": "Mexico | Guanajuato",
+        "a": true,
+        "g": {
+            "lat": 20.6787,
+            "lon": -101.3545
+        },
+        "it": "Irapuato",
+        "it:t": "Messico | Guanajuato",
+        "es": "Irapuato",
+        "es:t": "M\u00e9xico | Guanajuato",
+        "de": "Irapuato",
+        "de:t": "Mexiko | Guanajuato"
+    },
+    {
+        "en": "Isla",
+        "en:t": "Mexico | Veracruz",
+        "a": true,
+        "g": {
+            "lat": 18.0288,
+            "lon": -95.5281
+        },
+        "it": "Isla",
+        "it:t": "Messico | Veracruz",
+        "es": "Isla",
+        "es:t": "M\u00e9xico | Veracruz",
+        "de": "Isla",
+        "de:t": "Mexiko | Veracruz"
+    },
+    {
+        "en": "Ixmiquilpan",
+        "en:t": "Mexico | Hidalgo",
+        "a": true,
+        "g": {
+            "lat": 20.4831,
+            "lon": -99.2171
+        },
+        "it": "Ixmiquilpan",
+        "it:t": "Messico | Hidalgo",
+        "es": "Ixmiquilpan",
+        "es:t": "M\u00e9xico | Hidalgo",
+        "de": "Ixmiquilpan",
+        "de:t": "Mexiko | Hidalgo"
+    },
+    {
+        "en": "Ixtaczoquitl\u00e1n",
+        "en:t": "Mexico | Veracruz",
+        "a": true,
+        "g": {
+            "lat": 18.8609,
+            "lon": -97.0633
+        },
+        "it": "Ixtaczoquitl\u00e1n",
+        "it:t": "Messico | Veracruz",
+        "es": "Ixtaczoquitl\u00e1n",
+        "es:t": "M\u00e9xico | Veracruz",
+        "de": "Ixtaczoquitl\u00e1n",
+        "de:t": "Mexiko | Veracruz"
+    },
+    {
+        "en": "Ixtapa",
+        "en:t": "Mexico | Jalisco",
+        "a": true,
+        "g": {
+            "lat": 20.7146,
+            "lon": -105.2055
+        },
+        "it": "Ixtapa",
+        "it:t": "Messico | Jalisco",
+        "es": "Ixtapa",
+        "es:t": "M\u00e9xico | Jalisco",
+        "de": "Ixtapa",
+        "de:t": "Mexiko | Jalisco"
+    },
+    {
+        "en": "Ixtapaluca",
+        "en:t": "Mexico | Mexico",
+        "a": true,
+        "g": {
+            "lat": 19.3091,
+            "lon": -98.908
+        },
+        "it": "Ixtapaluca",
+        "it:t": "Messico | Messico",
+        "es": "Ixtapaluca",
+        "es:t": "M\u00e9xico | M\u00e9xico",
+        "de": "Ixtapaluca",
+        "de:t": "Mexiko | Mexiko"
+    },
+    {
+        "en": "Ixtapan de la Sal",
+        "en:t": "Mexico | Mexico",
+        "a": true,
+        "g": {
+            "lat": 18.8391,
+            "lon": -99.676
+        },
+        "it": "Ixtapan de la Sal",
+        "it:t": "Messico | Messico",
+        "es": "Ixtapan de la Sal",
+        "es:t": "M\u00e9xico | M\u00e9xico",
+        "de": "Ixtapan de la Sal",
+        "de:t": "Mexiko | Mexiko"
+    },
+    {
+        "en": "Ixtl\u00e1n del R\u00edo",
+        "en:t": "Mexico | Nayarit",
+        "a": true,
+        "g": {
+            "lat": 21.0338,
+            "lon": -104.3705
+        },
+        "it": "Ixtl\u00e1n del R\u00edo",
+        "it:t": "Messico | Nayarit",
+        "es": "Ixtl\u00e1n del R\u00edo",
+        "es:t": "M\u00e9xico | Nayarit",
+        "de": "Ixtl\u00e1n del R\u00edo",
+        "de:t": "Mexiko | Nayarit"
+    },
+    {
+        "en": "Iztacalco",
+        "en:t": "Mexico | Mexico",
+        "a": true,
+        "g": {
+            "lat": 19.3948,
+            "lon": -99.0977
+        },
+        "it": "Iztacalco",
+        "it:t": "Messico | Viaducto R\u00edo de la Piedad",
+        "es": "Iztacalco",
+        "es:t": "M\u00e9xico | M\u00e9xico",
+        "de": "Iztacalco",
+        "de:t": "Mexiko | Mexiko-Stadt"
+    },
+    {
+        "en": "Iztapalapa de Cuitl\u00e1huac",
+        "en:t": "Mexico | Mexico",
+        "a": true,
+        "g": {
+            "lat": 19.3467,
+            "lon": -99.0799
+        },
+        "it": "Iztapalapa de Cuitl\u00e1huac",
+        "it:t": "Messico | Mexico",
+        "es": "Iztapalapa",
+        "es:t": "M\u00e9xico | M\u00e9xico",
+        "de": "Iztapalapa de Cuitl\u00e1huac",
+        "de:t": "Mexiko | Mexico"
+    },
+    {
+        "en": "Iz\u00facar de Matamoros",
+        "en:t": "Mexico | Puebla",
+        "a": true,
+        "g": {
+            "lat": 18.5991,
+            "lon": -98.4678
+        },
+        "it": "Iz\u00facar de Matamoros",
+        "it:t": "Messico | Puebla",
+        "es": "Iz\u00facar de Matamoros",
+        "es:t": "M\u00e9xico | Puebla",
+        "de": "Iz\u00facar de Matamoros",
+        "de:t": "Mexiko | Puebla"
+    },
+    {
+        "en": "Jalostotitl\u00e1n",
+        "en:t": "Mexico | Jalisco",
+        "a": true,
+        "g": {
+            "lat": 21.1678,
+            "lon": -102.4674
+        },
+        "it": "Jalostotitl\u00e1n",
+        "it:t": "Messico | Jalisco",
+        "es": "Jalostotitl\u00e1n",
+        "es:t": "M\u00e9xico | Jalisco",
+        "de": "Jalostotitl\u00e1n",
+        "de:t": "Mexiko | Jalisco"
+    },
+    {
+        "en": "Jalpa de M\u00e9ndez",
+        "en:t": "Mexico | Tabasco",
+        "a": true,
+        "g": {
+            "lat": 18.1748,
+            "lon": -93.0701
+        },
+        "it": "Jalpa de M\u00e9ndez",
+        "it:t": "Messico | Tabasco",
+        "es": "Jalpa de M\u00e9ndez",
+        "es:t": "M\u00e9xico | Tabasco",
+        "de": "Jalpa de M\u00e9ndez",
+        "de:t": "Mexiko | Tabasco"
+    },
+    {
+        "en": "Jamay",
+        "en:t": "Mexico | Jalisco",
+        "a": true,
+        "g": {
+            "lat": 20.296,
+            "lon": -102.7106
+        },
+        "it": "Jamay",
+        "it:t": "Messico | Jalisco",
+        "es": "Jamay",
+        "es:t": "M\u00e9xico | Jalisco",
+        "de": "Jamay",
+        "de:t": "Mexiko | Jalisco"
+    },
+    {
+        "en": "Jaral del Progreso",
+        "en:t": "Mexico | Guanajuato",
+        "a": true,
+        "g": {
+            "lat": 20.3735,
+            "lon": -101.0683
+        },
+        "it": "Jaral del Progreso",
+        "it:t": "Messico | Guanajuato",
+        "es": "Jaral del Progreso",
+        "es:t": "M\u00e9xico | Guanajuato",
+        "de": "Jaral del Progreso",
+        "de:t": "Mexiko | Guanajuato"
+    },
+    {
+        "en": "Jerez de Garc\u00eda Salinas",
+        "en:t": "Mexico | Zacatecas",
+        "a": true,
+        "g": {
+            "lat": 22.6469,
+            "lon": -102.9876
+        },
+        "it": "Jerez de Garc\u00eda Salinas",
+        "it:t": "Messico | Zacatecas",
+        "es": "Jerez de Garc\u00eda Salinas",
+        "es:t": "M\u00e9xico | Zacatecas",
+        "de": "Jerez de Garc\u00eda Salinas",
+        "de:t": "Mexiko | Zacatecas"
+    },
+    {
+        "en": "Jes\u00fas Mar\u00eda",
+        "en:t": "Mexico | Aguascalientes",
+        "a": true,
+        "g": {
+            "lat": 21.9636,
+            "lon": -102.3441
+        },
+        "it": "Jes\u00fas Mar\u00eda",
+        "it:t": "Messico | Aguascalientes",
+        "es": "Jes\u00fas Mar\u00eda",
+        "es:t": "M\u00e9xico | Aguascalientes",
+        "de": "Jes\u00fas Mar\u00eda",
+        "de:t": "Mexiko | Aguascalientes"
+    },
+    {
+        "en": "Jes\u00fas del Monte",
+        "en:t": "Mexico | M\u00e9xico",
+        "a": true,
+        "g": {
+            "lat": 19.3663,
+            "lon": -99.2937
+        },
+        "it": "Jes\u00fas del Monte",
+        "it:t": "Messico | M\u00e9xico",
+        "es": "Avenida Jes\u00fas del Monte",
+        "es:t": "M\u00e9xico | M\u00e9xico",
+        "de": "Jes\u00fas del Monte",
+        "de:t": "Mexiko | M\u00e9xico"
+    },
+    {
+        "en": "Jiquilpan",
+        "en:t": "Mexico | Michoac\u00e1n",
+        "a": true,
+        "g": {
+            "lat": 19.9942,
+            "lon": -102.7193
+        },
+        "it": "Jiquilpan",
+        "it:t": "Messico | Michoac\u00e1n",
+        "es": "Jiquilpan",
+        "es:t": "M\u00e9xico | Michoac\u00e1n",
+        "de": "Jiquilpan",
+        "de:t": "Mexiko | Michoac\u00e1n"
+    },
+    {
+        "en": "Jiutepec",
+        "en:t": "Mexico | Morelos",
+        "a": true,
+        "g": {
+            "lat": 18.8955,
+            "lon": -99.1733
+        },
+        "it": "Jiutepec",
+        "it:t": "Messico | Morelos",
+        "es": "Jiutepec",
+        "es:t": "M\u00e9xico | Morelos",
+        "de": "Jiutepec",
+        "de:t": "Mexiko | Morelos"
+    },
+    {
+        "en": "Jocotepec",
+        "en:t": "Mexico | Jalisco",
+        "a": true,
+        "g": {
+            "lat": 20.283,
+            "lon": -103.4252
+        },
+        "it": "Jocotepec",
+        "it:t": "Messico | Jalisco",
+        "es": "Jocotepec",
+        "es:t": "M\u00e9xico | Jalisco",
+        "de": "Jocotepec",
+        "de:t": "Mexiko | Jalisco"
+    },
+    {
+        "en": "Jojutla",
+        "en:t": "Mexico | Morelos",
+        "a": true,
+        "g": {
+            "lat": 18.6135,
+            "lon": -99.1798
+        },
+        "it": "Jojutla",
+        "it:t": "Messico | Morelos",
+        "es": "Jojutla",
+        "es:t": "M\u00e9xico | Morelos",
+        "de": "Jojutla",
+        "de:t": "Mexiko | Morelos"
+    },
+    {
+        "en": "Juan Jos\u00e9 R\u00edos, Sinaloa",
+        "en:t": "Mexico | Sinaloa",
+        "a": true,
+        "g": {
+            "lat": 25.7598,
+            "lon": -108.8208
+        },
+        "it": "Juan Jos\u00e9 R\u00edos, Sinaloa",
+        "it:t": "Messico | Sinaloa",
+        "es": "Juan Jos\u00e9 R\u00edos",
+        "es:t": "M\u00e9xico | Sinaloa",
+        "de": "Juan Jos\u00e9 R\u00edos, Sinaloa",
+        "de:t": "Mexiko | Sinaloa"
+    },
+    {
+        "en": "Juchit\u00e1n de Zaragoza",
+        "en:t": "Mexico | Oaxaca",
+        "a": true,
+        "g": {
+            "lat": 16.4407,
+            "lon": -95.0221
+        },
+        "it": "Juchit\u00e1n de Zaragoza",
+        "it:t": "Messico | Oaxaca",
+        "es": "Juchit\u00e1n de Zaragoza",
+        "es:t": "M\u00e9xico | Oaxaca",
+        "de": "Juchit\u00e1n de Zaragoza",
+        "de:t": "Mexiko | Oaxaca"
+    },
+    {
+        "en": "Juventino Rosas",
+        "en:t": "Mexico | Guanajuato",
+        "a": true,
+        "g": {
+            "lat": 20.644,
+            "lon": -100.9933
+        },
+        "it": "Juventino Rosas",
+        "it:t": "Messico | Guanajuato",
+        "es": "Juventino Rosas",
+        "es:t": "M\u00e9xico | Guanajuato",
+        "de": "Juventino Rosas",
+        "de:t": "Mexiko | Guanajuato"
+    },
+    {
+        "en": "Kanas\u00edn",
+        "en:t": "Mexico | Yucatan",
+        "a": true,
+        "g": {
+            "lat": 20.9322,
+            "lon": -89.557
+        },
+        "it": "Kanas\u00edn",
+        "it:t": "Messico | Yucatan",
+        "es": "Kanas\u00edn",
+        "es:t": "M\u00e9xico | Yucat\u00e1n",
+        "de": "Kanas\u00edn",
+        "de:t": "Mexiko | Yucatan"
+    },
+    {
+        "en": "La Barca",
+        "en:t": "Mexico | Jalisco",
+        "a": true,
+        "g": {
+            "lat": 20.2907,
+            "lon": -102.5458
+        },
+        "it": "La Barca",
+        "it:t": "Messico | Jalisco",
+        "es": "La Barca",
+        "es:t": "M\u00e9xico | Jalisco",
+        "de": "La Barca",
+        "de:t": "Mexiko | Jalisco"
+    },
+    {
+        "en": "La Crucecita",
+        "en:t": "Mexico | Oaxaca",
+        "a": true,
+        "g": {
+            "lat": 15.7692,
+            "lon": -96.1341
+        },
+        "it": "La Crucecita",
+        "it:t": "Messico | Oaxaca",
+        "es": "La Crucecita",
+        "es:t": "M\u00e9xico | Oaxaca",
+        "de": "La Crucecita",
+        "de:t": "Mexiko | Oaxaca"
+    },
+    {
+        "en": "La Cruz",
+        "en:t": "Mexico | Sinaloa",
+        "a": true,
+        "g": {
+            "lat": 23.9212,
+            "lon": -106.8916
+        },
+        "it": "La Cruz",
+        "it:t": "Messico | Sinaloa",
+        "es": "La Cruz",
+        "es:t": "M\u00e9xico | Sinaloa",
+        "de": "La Cruz",
+        "de:t": "Mexiko | Sinaloa"
+    },
+    {
+        "en": "La Ermita",
+        "en:t": "Mexico | Guanajuato",
+        "a": true,
+        "g": {
+            "lat": 20.416,
+            "lon": -101.9913
+        },
+        "it": "La Ermita",
+        "it:t": "Messico | Le\u00f3n",
+        "es": "La Ermita",
+        "es:t": "M\u00e9xico | Le\u00f3n",
+        "de": "La Ermita",
+        "de:t": "Mexiko | Le\u00f3n"
+    },
+    {
+        "en": "La Orilla",
+        "en:t": "Mexico | Michoac\u00e1n",
+        "a": true,
+        "g": {
+            "lat": 17.999,
+            "lon": -102.229
+        },
+        "it": "La Orilla",
+        "it:t": "Messico | Michoac\u00e1n",
+        "es": "La Orilla",
+        "es:t": "M\u00e9xico | Michoac\u00e1n",
+        "de": "La Orilla",
+        "de:t": "Mexiko | Michoac\u00e1n"
+    },
+    {
+        "en": "La Paz",
+        "en:t": "Mexico | Baja California Sur",
+        "a": true,
+        "g": {
+            "lat": 24.1426,
+            "lon": -110.3128
+        },
+        "it": "La Paz",
+        "it:t": "Messico | Bassa California del Sud",
+        "es": "La Paz",
+        "es:t": "M\u00e9xico | Baja California Sur",
+        "de": "La Paz",
+        "de:t": "Mexiko | Baja California Sur"
+    },
+    {
+        "en": "La Paz",
+        "en:t": "Mexico | Mexico",
+        "a": true,
+        "g": {
+            "lat": 19.3658,
+            "lon": -98.9521
+        },
+        "it": "La Paz",
+        "it:t": "Messico | Mexico",
+        "es": "La Paz",
+        "es:t": "M\u00e9xico | M\u00e9xico",
+        "de": "La Paz",
+        "de:t": "Mexiko | Mexico"
+    },
+    {
+        "en": "La Piedad",
+        "en:t": "Mexico | Michoac\u00e1n",
+        "a": true,
+        "g": {
+            "lat": 20.3307,
+            "lon": -102.0444
+        },
+        "it": "La Piedad",
+        "it:t": "Messico | Michoac\u00e1n",
+        "es": "La Piedad",
+        "es:t": "M\u00e9xico | Michoac\u00e1n",
+        "de": "La Piedad",
+        "de:t": "Mexiko | Michoac\u00e1n"
+    },
+    {
+        "en": "Lagos de Moreno",
+        "en:t": "Mexico | Jalisco",
+        "a": true,
+        "g": {
+            "lat": 21.3635,
+            "lon": -101.9291
+        },
+        "it": "Lagos de Moreno",
+        "it:t": "Messico | Jalisco",
+        "es": "Lagos de Moreno",
+        "es:t": "M\u00e9xico | Jalisco",
+        "de": "Lagos de Moreno",
+        "de:t": "Mexiko | Jalisco"
+    },
+    {
+        "en": "Las Choapas",
+        "en:t": "Mexico | Veracruz",
+        "a": true,
+        "g": {
+            "lat": 17.9157,
+            "lon": -94.093
+        },
+        "it": "Las Choapas",
+        "it:t": "Messico | Veracruz",
+        "es": "Las Choapas",
+        "es:t": "M\u00e9xico | Veracruz",
+        "de": "Las Choapas",
+        "de:t": "Mexiko | Veracruz"
+    },
+    {
+        "en": "Las Delicias",
+        "en:t": "Mexico | Mexicali",
+        "a": true,
+        "g": {
+            "lat": 32.6299,
+            "lon": -115.4167
+        },
+        "it": "Las Delicias",
+        "it:t": "Messico | Mexicali",
+        "es": "Las Delicias",
+        "es:t": "M\u00e9xico | Mexicali",
+        "de": "Las Delicias",
+        "de:t": "Mexiko | Mexicali"
+    },
+    {
+        "en": "Las Margaritas",
+        "en:t": "Mexico | Chiapas",
+        "a": true,
+        "g": {
+            "lat": 16.3155,
+            "lon": -91.9879
+        },
+        "it": "Las Margaritas",
+        "it:t": "Messico | Chiapas",
+        "es": "Las Margaritas",
+        "es:t": "M\u00e9xico | Chiapas",
+        "de": "Las Margaritas",
+        "de:t": "Mexiko | Chiapas"
+    },
+    {
+        "en": "Las Pintitas",
+        "en:t": "Mexico | Minerales",
+        "a": true,
+        "g": {
+            "lat": 20.5548,
+            "lon": -103.3046
+        },
+        "it": "Las Pintitas",
+        "it:t": "Messico | Minerales",
+        "es": "Las Pintitas",
+        "es:t": "M\u00e9xico | Minerales",
+        "de": "Las Pintitas",
+        "de:t": "Mexiko | Minerales"
+    },
+    {
+        "en": "Lerdo",
+        "en:t": "Mexico | Durango",
+        "a": true,
+        "g": {
+            "lat": 25.5382,
+            "lon": -103.5339
+        },
+        "it": "Lerdo",
+        "it:t": "Messico | Durango",
+        "es": "Lerdo",
+        "es:t": "M\u00e9xico | Durango",
+        "de": "Lerdo",
+        "de:t": "Mexiko | Durango"
+    },
+    {
+        "en": "Lerdo de Tejada",
+        "en:t": "Mexico | Veracruz",
+        "a": true,
+        "g": {
+            "lat": 18.6296,
+            "lon": -95.5205
+        },
+        "it": "Lerdo de Tejada",
+        "it:t": "Messico | Veracruz",
+        "es": "Lerdo de Tejada",
+        "es:t": "M\u00e9xico | Veracruz",
+        "de": "Lerdo de Tejada",
+        "de:t": "Mexiko | Veracruz"
+    },
+    {
+        "en": "Licenciado Benito Ju\u00e1rez",
+        "en:t": "Mexico | Sinaloa",
+        "a": true,
+        "g": {
+            "lat": 24.6581,
+            "lon": -107.5431
+        },
+        "it": "Licenciado Benito Ju\u00e1rez",
+        "it:t": "Messico | Sinaloa",
+        "es": "Licenciado Benito Ju\u00e1rez",
+        "es:t": "M\u00e9xico | Sinaloa",
+        "de": "Licenciado Benito Ju\u00e1rez",
+        "de:t": "Mexiko | Sinaloa"
+    },
+    {
+        "en": "Linares",
+        "en:t": "Mexico | Nuevo Leon",
+        "a": true,
+        "g": {
+            "lat": 24.8639,
+            "lon": -99.5618
+        },
+        "it": "Linares",
+        "it:t": "Messico | Nuevo Le\u00f3n",
+        "es": "Linares",
+        "es:t": "M\u00e9xico | Nuevo Le\u00f3n",
+        "de": "Linares",
+        "de:t": "Mexiko | Nuevo Le\u00f3n"
+    },
+    {
+        "en": "Lindavista",
+        "en:t": "Mexico | Mexico",
+        "a": true,
+        "g": {
+            "lat": 19.5038,
+            "lon": -99.1324
+        },
+        "it": "Lindavista",
+        "it:t": "Messico | Mexico",
+        "es": "Lindavista",
+        "es:t": "M\u00e9xico | M\u00e9xico",
+        "de": "Lindavista",
+        "de:t": "Mexiko | Mexico"
+    },
+    {
+        "en": "Lomas del Sur",
+        "en:t": "Mexico | Jalisco",
+        "a": true,
+        "g": {
+            "lat": 20.4918,
+            "lon": -103.4051
+        },
+        "it": "Lomas del Sur",
+        "it:t": "Messico | Jalisco",
+        "es": "Lomas del Sur",
+        "es:t": "M\u00e9xico | Jalisco",
+        "de": "Lomas del Sur",
+        "de:t": "Mexiko | Jalisco"
+    },
+    {
+        "en": "Los Reyes Acozac",
+        "en:t": "Mexico | Mexico",
+        "a": true,
+        "g": {
+            "lat": 19.7734,
+            "lon": -98.9824
+        },
+        "it": "Los Reyes Acozac",
+        "it:t": "Messico | Mexico",
+        "es": "Los Reyes Acozac",
+        "es:t": "M\u00e9xico | M\u00e9xico",
+        "de": "Los Reyes Acozac",
+        "de:t": "Mexiko | Mexiko"
+    },
+    {
+        "en": "L\u00e1zaro C\u00e1rdenas",
+        "en:t": "Mexico | Michoac\u00e1n",
+        "a": true,
+        "g": {
+            "lat": 17.9568,
+            "lon": -102.1943
+        },
+        "it": "L\u00e1zaro C\u00e1rdenas",
+        "it:t": "Messico | Michoac\u00e1n",
+        "es": "L\u00e1zaro C\u00e1rdenas",
+        "es:t": "M\u00e9xico | Michoac\u00e1n",
+        "de": "Ciudad L\u00e1zaro C\u00e1rdenas",
+        "de:t": "Mexiko | Michoac\u00e1n"
+    },
+    {
+        "en": "Macuspana",
+        "en:t": "Mexico | Tabasco",
+        "a": true,
+        "g": {
+            "lat": 17.7607,
+            "lon": -92.5936
+        },
+        "it": "Macuspana",
+        "it:t": "Messico | Tabasco",
+        "es": "Macuspana",
+        "es:t": "M\u00e9xico | Tabasco",
+        "de": "Macuspana",
+        "de:t": "Mexiko | Tabasco"
+    },
+    {
+        "en": "Magdalena Contreras",
+        "en:t": "Mexico | Mexico",
+        "a": true,
+        "g": {
+            "lat": 19.315,
+            "lon": -99.2426
+        },
+        "it": "Magdalena Contreras",
+        "it:t": "Messico | Mexico",
+        "es": "Magdalena Contreras",
+        "es:t": "M\u00e9xico | M\u00e9xico",
+        "de": "Magdalena Contreras",
+        "de:t": "Mexiko | Mexiko"
+    },
+    {
+        "en": "Malinaltepec",
+        "en:t": "Mexico | Guerrero",
+        "a": true,
+        "g": {
+            "lat": 17.2453,
+            "lon": -98.6718
+        },
+        "it": "Malinaltepec",
+        "it:t": "Messico | Guerrero",
+        "es": "Malinaltepec",
+        "es:t": "M\u00e9xico | Guerrero",
+        "de": "Malinaltepec",
+        "de:t": "Mexiko | Guerrero"
+    },
+    {
+        "en": "Manzanillo",
+        "en:t": "Mexico | Colima",
+        "a": true,
+        "g": {
+            "lat": 19.1138,
+            "lon": -104.3385
+        },
+        "it": "Manzanillo",
+        "it:t": "Messico | Colima",
+        "es": "Manzanillo",
+        "es:t": "M\u00e9xico | Colima",
+        "de": "Manzanillo",
+        "de:t": "Mexiko | Colima"
+    },
+    {
+        "en": "Mapastepec",
+        "en:t": "Mexico | Chiapas",
+        "a": true,
+        "g": {
+            "lat": 15.4414,
+            "lon": -92.895
+        },
+        "it": "Mapastepec",
+        "it:t": "Messico | Chiapas",
+        "es": "Mapastepec",
+        "es:t": "M\u00e9xico | Chiapas",
+        "de": "Mapastepec",
+        "de:t": "Mexiko | Chiapas"
+    },
+    {
+        "en": "Mart\u00ednez de la Torre",
+        "en:t": "Mexico | Veracruz",
+        "a": true,
+        "g": {
+            "lat": 20.0615,
+            "lon": -97.0545
+        },
+        "it": "Mart\u00ednez de la Torre",
+        "it:t": "Messico | Veracruz",
+        "es": "Mart\u00ednez de la Torre",
+        "es:t": "M\u00e9xico | Veracruz",
+        "de": "Mart\u00ednez de la Torre",
+        "de:t": "Mexiko | Veracruz"
+    },
+    {
+        "en": "Matamoros",
+        "en:t": "Mexico | Tamaulipas",
+        "a": true,
+        "g": {
+            "lat": 25.869,
+            "lon": -97.5027
+        },
+        "it": "Matamoros",
+        "it:t": "Messico | Tamaulipas",
+        "es": "Heroica Matamoros",
+        "es:t": "M\u00e9xico | Tamaulipas",
+        "de": "Matamoros",
+        "de:t": "Mexiko | Tamaulipas"
+    },
+    {
+        "en": "Matias Romero Avendano",
+        "en:t": "Mexico | Oaxaca",
+        "a": true,
+        "g": {
+            "lat": 16.8681,
+            "lon": -95.0443
+        },
+        "it": "Mat\u00edas Romero",
+        "it:t": "Messico | Oaxaca",
+        "es": "Mat\u00edas Romero Avenda\u00f1o",
+        "es:t": "M\u00e9xico | Oaxaca",
+        "de": "Matias Romero Avendano",
+        "de:t": "Mexiko | Oaxaca"
+    },
+    {
+        "en": "Metepec",
+        "en:t": "Mexico | Morelos",
+        "a": true,
+        "g": {
+            "lat": 18.8789,
+            "lon": -98.7467
+        },
+        "it": "Metepec",
+        "it:t": "Messico | Morelos",
+        "es": "Metepec",
+        "es:t": "M\u00e9xico | Morelos",
+        "de": "Metepec",
+        "de:t": "Mexiko | Morelos"
+    },
+    {
+        "en": "Mexico",
+        "en:t": "Mexico",
+        "a": true,
+        "g": {
+            "lat": 19.4326,
+            "lon": -99.1332
+        },
+        "it": "Citt\u00e0 del Messico",
+        "it:t": "Messico",
+        "es": "M\u00e9xico",
+        "es:t": "M\u00e9xico",
+        "de": "Mexiko-Stadt",
+        "de:t": "Mexiko"
+    },
+    {
+        "en": "Miahuatl\u00e1n de Porfirio D\u00edaz",
+        "en:t": "Mexico | Oaxaca",
+        "a": true,
+        "g": {
+            "lat": 16.3318,
+            "lon": -96.5944
+        },
+        "it": "Miahuatl\u00e1n de Porfirio D\u00edaz",
+        "it:t": "Messico | Oaxaca",
+        "es": "Miahuatl\u00e1n de Porfirio D\u00edaz",
+        "es:t": "M\u00e9xico | Oaxaca",
+        "de": "Miahuatl\u00e1n de Porfirio D\u00edaz",
+        "de:t": "Mexiko | Oaxaca"
+    },
+    {
+        "en": "Minatitl\u00e1n",
+        "en:t": "Mexico | Veracruz",
+        "a": true,
+        "g": {
+            "lat": 18.0005,
+            "lon": -94.5573
+        },
+        "it": "Minatitl\u00e1n",
+        "it:t": "Messico | Veracruz",
+        "es": "Minatitl\u00e1n",
+        "es:t": "M\u00e9xico | Veracruz",
+        "de": "Minatitl\u00e1n",
+        "de:t": "Mexiko | Veracruz"
+    },
+    {
+        "en": "Miramar",
+        "en:t": "Mexico | Tamaulipas",
+        "a": true,
+        "g": {
+            "lat": 22.3385,
+            "lon": -97.8701
+        },
+        "it": "Miramar",
+        "it:t": "Messico | Tamaulipas",
+        "es": "Miramar",
+        "es:t": "M\u00e9xico | Tamaulipas",
+        "de": "Miramar",
+        "de:t": "Mexiko | Tamaulipas"
+    },
+    {
+        "en": "Misantla",
+        "en:t": "Mexico | Veracruz",
+        "a": true,
+        "g": {
+            "lat": 19.933,
+            "lon": -96.8513
+        },
+        "it": "Misantla",
+        "it:t": "Messico | Veracruz",
+        "es": "Misantla",
+        "es:t": "M\u00e9xico | Veracruz",
+        "de": "Misantla",
+        "de:t": "Mexiko | Veracruz"
+    },
+    {
+        "en": "Mitras Poniente",
+        "en:t": "Mexico | Villas del Poniente",
+        "a": true,
+        "g": {
+            "lat": 25.7822,
+            "lon": -100.4272
+        },
+        "it": "Mitras Poniente",
+        "it:t": "Messico | Villas del Poniente",
+        "es": "Mitras Poniente",
+        "es:t": "M\u00e9xico | Villas del Poniente",
+        "de": "Mitras Poniente",
+        "de:t": "Mexiko | Villas del Poniente"
+    },
+    {
+        "en": "Mixquiahuala",
+        "en:t": "Mexico | Hidalgo",
+        "a": true,
+        "g": {
+            "lat": 20.2304,
+            "lon": -99.2107
+        },
+        "it": "Mixquiahuala",
+        "it:t": "Messico | Hidalgo",
+        "es": "Mixquiahuala de Ju\u00e1rez",
+        "es:t": "M\u00e9xico | Hidalgo",
+        "de": "Mixquiahuala",
+        "de:t": "Mexiko | Hidalgo"
+    },
+    {
+        "en": "Montemorelos",
+        "en:t": "Mexico | Nuevo Leon",
+        "a": true,
+        "g": {
+            "lat": 25.1889,
+            "lon": -99.8363
+        },
+        "it": "Montemorelos",
+        "it:t": "Messico | Nuevo Le\u00f3n",
+        "es": "Montemorelos",
+        "es:t": "M\u00e9xico | Nuevo Le\u00f3n",
+        "de": "Montemorelos",
+        "de:t": "Mexiko | Nuevo Le\u00f3n"
+    },
+    {
+        "en": "Morelos",
+        "en:t": "Mexico",
+        "a": true,
+        "g": {
+            "lat": 18.6813,
+            "lon": -99.1013
+        },
+        "it": "Morelos",
+        "it:t": "Messico",
+        "es": "Morelos",
+        "es:t": "M\u00e9xico",
+        "de": "Morelos",
+        "de:t": "Mexiko"
+    },
+    {
+        "en": "Motozintla de Mendoza",
+        "en:t": "Mexico | Chiapas",
+        "a": true,
+        "g": {
+            "lat": 15.3692,
+            "lon": -92.2458
+        },
+        "it": "Motozintla de Mendoza",
+        "it:t": "Messico | Chiapas",
+        "es": "Motozintla de Mendoza",
+        "es:t": "M\u00e9xico | Chiapas",
+        "de": "Motozintla de Mendoza",
+        "de:t": "Mexiko | Chiapas"
+    },
+    {
+        "en": "Motul",
+        "en:t": "Mexico | Yucatan",
+        "a": true,
+        "g": {
+            "lat": 21.0982,
+            "lon": -89.28
+        },
+        "it": "Motul",
+        "it:t": "Messico | Yucat\u00e1n",
+        "es": "Motul",
+        "es:t": "M\u00e9xico | Yucat\u00e1n",
+        "de": "Motul",
+        "de:t": "Mexiko | Yucat\u00e1n"
+    },
+    {
+        "en": "M\u00e9rida",
+        "en:t": "Mexico | Yucatan",
+        "a": true,
+        "g": {
+            "lat": 20.9674,
+            "lon": -89.5926
+        },
+        "it": "M\u00e9rida",
+        "it:t": "Messico | Yucat\u00e1n",
+        "es": "M\u00e9rida",
+        "es:t": "M\u00e9xico | Yucat\u00e1n",
+        "de": "M\u00e9rida",
+        "de:t": "Mexiko | Yucat\u00e1n"
+    },
+    {
+        "en": "Nanchital",
+        "en:t": "Mexico | Veracruz",
+        "a": true,
+        "g": {
+            "lat": 18.0715,
+            "lon": -94.4083
+        },
+        "it": "Nanchital",
+        "it:t": "Messico | Veracruz",
+        "es": "Nanchital",
+        "es:t": "M\u00e9xico | Veracruz",
+        "de": "Nanchital",
+        "de:t": "Mexiko | Veracruz"
+    },
+    {
+        "en": "Naranjos",
+        "en:t": "Mexico | Veracruz",
+        "a": true,
+        "g": {
+            "lat": 21.3414,
+            "lon": -97.6819
+        },
+        "it": "Naranjos",
+        "it:t": "Messico | Veracruz",
+        "es": "Naranjos",
+        "es:t": "M\u00e9xico | Veracruz",
+        "de": "Naranjos",
+        "de:t": "Mexiko | Veracruz"
+    },
+    {
+        "en": "Nativitas",
+        "en:t": "Mexico | Mexico",
+        "a": true,
+        "g": {
+            "lat": 19.381,
+            "lon": -99.1366
+        },
+        "it": "Nativitas",
+        "it:t": "Messico | Mexico",
+        "es": "Nativitas",
+        "es:t": "M\u00e9xico | M\u00e9xico",
+        "de": "Nativitas",
+        "de:t": "Mexiko | Mexico"
+    },
+    {
+        "en": "Naucalpan",
+        "en:t": "Mexico | Mexico",
+        "a": true,
+        "g": {
+            "lat": 19.4631,
+            "lon": -99.2453
+        },
+        "it": "Naucalpan",
+        "it:t": "Messico | Messico",
+        "es": "Naucalpan",
+        "es:t": "M\u00e9xico | M\u00e9xico",
+        "de": "Naucalpan",
+        "de:t": "Mexiko | Mexiko"
+    },
+    {
+        "en": "Nogales",
+        "en:t": "Mexico | Sonora",
+        "a": true,
+        "g": {
+            "lat": 31.3012,
+            "lon": -110.9381
+        },
+        "it": "Nogales",
+        "it:t": "Messico | Sonora",
+        "es": "Nogales",
+        "es:t": "M\u00e9xico | Sonora",
+        "de": "Nogales",
+        "de:t": "Mexiko | Sonora"
+    },
+    {
+        "en": "Nogales",
+        "en:t": "Mexico | Veracruz",
+        "a": true,
+        "g": {
+            "lat": 18.8215,
+            "lon": -97.1656
+        },
+        "it": "Nogales",
+        "it:t": "Messico | Veracruz",
+        "es": "Nogales",
+        "es:t": "M\u00e9xico | Veracruz",
+        "de": "Nogales",
+        "de:t": "Mexiko | Veracruz"
+    },
+    {
+        "en": "Nuevo Laredo",
+        "en:t": "Mexico | Tamaulipas",
+        "a": true,
+        "g": {
+            "lat": 27.4779,
+            "lon": -99.5496
+        },
+        "it": "Nuevo Laredo",
+        "it:t": "Messico | Tamaulipas",
+        "es": "Nuevo Laredo",
+        "es:t": "M\u00e9xico | Tamaulipas",
+        "de": "Nuevo Laredo",
+        "de:t": "Mexiko | Tamaulipas"
+    },
+    {
+        "en": "Oaxaca",
+        "en:t": "Mexico",
+        "a": true,
+        "g": {
+            "lat": 17.0732,
+            "lon": -96.7266
+        },
+        "it": "Oaxaca",
+        "it:t": "Messico",
+        "es": "Oaxaca",
+        "es:t": "M\u00e9xico | Oaxaca",
+        "de": "Oaxaca",
+        "de:t": "Mexiko"
+    },
+    {
+        "en": "Ocosingo",
+        "en:t": "Mexico | Chiapas",
+        "a": true,
+        "g": {
+            "lat": 16.9087,
+            "lon": -92.0943
+        },
+        "it": "Ocosingo",
+        "it:t": "Messico | Chiapas",
+        "es": "Ocosingo",
+        "es:t": "M\u00e9xico | Chiapas",
+        "de": "Ocosingo",
+        "de:t": "Mexiko | Chiapas"
+    },
+    {
+        "en": "Ocoyoacac",
+        "en:t": "Mexico | Mexico",
+        "a": true,
+        "g": {
+            "lat": 19.2725,
+            "lon": -99.4616
+        },
+        "it": "Ocoyoacac",
+        "it:t": "Messico | Messico",
+        "es": "Ocoyoacac",
+        "es:t": "M\u00e9xico | M\u00e9xico",
+        "de": "Ocoyoacac",
+        "de:t": "Mexiko | Mexiko"
+    },
+    {
+        "en": "Ocozocoautla de Espinosa",
+        "en:t": "Mexico | Chiapas",
+        "a": true,
+        "g": {
+            "lat": 16.7581,
+            "lon": -93.3739
+        },
+        "it": "Ocozocoautla de Espinosa",
+        "it:t": "Messico | Chiapas",
+        "es": "Ocozocoautla de Espinosa",
+        "es:t": "M\u00e9xico | Chiapas",
+        "de": "Ocozocoautla de Espinosa",
+        "de:t": "Mexiko | Chiapas"
+    },
+    {
+        "en": "Ojinaga",
+        "en:t": "Mexico | Chihuahua",
+        "a": true,
+        "g": {
+            "lat": 29.5459,
+            "lon": -104.4083
+        },
+        "it": "Ojinaga",
+        "it:t": "Messico | Chihuahua",
+        "es": "Ojinaga",
+        "es:t": "M\u00e9xico | Chihuahua",
+        "de": "Ojinaga",
+        "de:t": "Mexiko | Chihuahua"
+    },
+    {
+        "en": "Ometepec",
+        "en:t": "Mexico | Guerrero",
+        "a": true,
+        "g": {
+            "lat": 16.6909,
+            "lon": -98.4102
+        },
+        "it": "Ometepec",
+        "it:t": "Messico | Guerrero",
+        "es": "Ometepec",
+        "es:t": "M\u00e9xico | Guerrero",
+        "de": "Ometepec",
+        "de:t": "Mexiko | Guerrero"
+    },
+    {
+        "en": "Orizaba",
+        "en:t": "Mexico | Veracruz",
+        "a": true,
+        "g": {
+            "lat": 18.8505,
+            "lon": -97.1036
+        },
+        "it": "Orizaba",
+        "it:t": "Messico | Veracruz",
+        "es": "Orizaba",
+        "es:t": "M\u00e9xico | Veracruz",
+        "de": "Orizaba",
+        "de:t": "Mexiko | Veracruz"
+    },
+    {
+        "en": "Oxkutzcab",
+        "en:t": "Mexico | Yucatan",
+        "a": true,
+        "g": {
+            "lat": 20.3068,
+            "lon": -89.4143
+        },
+        "it": "Oxkutzcab",
+        "it:t": "Messico | Yucatan",
+        "es": "Oxkutzcab",
+        "es:t": "M\u00e9xico | Yucat\u00e1n",
+        "de": "Oxkutzcab",
+        "de:t": "Mexiko | Yucatan"
+    },
+    {
+        "en": "Ozumba de Alzate",
+        "en:t": "Mexico | Mexico",
+        "a": true,
+        "g": {
+            "lat": 19.0376,
+            "lon": -98.796
+        },
+        "it": "Ozumba de Alzate",
+        "it:t": "Messico | Mexico",
+        "es": "Ozumba de Alzate",
+        "es:t": "M\u00e9xico | M\u00e9xico",
+        "de": "Ozumba de Alzate",
+        "de:t": "Mexiko | Mexico"
+    },
+    {
+        "en": "Pachuca",
+        "en:t": "Mexico | Hidalgo",
+        "a": true,
+        "g": {
+            "lat": 20.1011,
+            "lon": -98.7591
+        },
+        "it": "Pachuca",
+        "it:t": "Messico | Hidalgo",
+        "es": "Pachuca de Soto",
+        "es:t": "M\u00e9xico | Hidalgo",
+        "de": "Pachuca de Soto",
+        "de:t": "Mexiko | Hidalgo"
+    },
+    {
+        "en": "Palenque",
+        "en:t": "Mexico | Chiapas",
+        "a": true,
+        "g": {
+            "lat": 17.511,
+            "lon": -91.993
+        },
+        "it": "Palenque",
+        "it:t": "Messico | Chiapas",
+        "es": "Palenque",
+        "es:t": "M\u00e9xico | Chiapas",
+        "de": "Palenque",
+        "de:t": "Mexiko | Chiapas"
+    },
+    {
+        "en": "Palmarito Tochapan",
+        "en:t": "Mexico | Puebla",
+        "a": true,
+        "g": {
+            "lat": 18.9028,
+            "lon": -97.6376
+        },
+        "it": "Palmarito Tochapan",
+        "it:t": "Messico | Puebla",
+        "es": "Palmarito Tochapan",
+        "es:t": "M\u00e9xico | Puebla",
+        "de": "Palmarito Tochapan",
+        "de:t": "Mexiko | Puebla"
+    },
+    {
+        "en": "Panuco",
+        "en:t": "Mexico | Veracruz",
+        "a": true,
+        "g": {
+            "lat": 22.0536,
+            "lon": -98.1821
+        },
+        "it": "P\u00e1nuco",
+        "it:t": "Messico | Veracruz",
+        "es": "P\u00e1nuco",
+        "es:t": "M\u00e9xico | Veracruz",
+        "de": "Panuco",
+        "de:t": "Mexiko | Veracruz"
+    },
+    {
+        "en": "Papalotla",
+        "en:t": "Mexico | Tlaxcala",
+        "a": true,
+        "g": {
+            "lat": 19.1651,
+            "lon": -98.2141
+        },
+        "it": "Papalotla",
+        "it:t": "Messico | Tlaxcala",
+        "es": "Papalotla",
+        "es:t": "M\u00e9xico | Tlaxcala",
+        "de": "Papalotla",
+        "de:t": "Mexiko | Tlaxcala"
+    },
+    {
+        "en": "Papantla",
+        "en:t": "Mexico | Veracruz",
+        "a": true,
+        "g": {
+            "lat": 20.4567,
+            "lon": -97.3156
+        },
+        "it": "Papantla",
+        "it:t": "Messico | Veracruz",
+        "es": "Papantla",
+        "es:t": "M\u00e9xico | Veracruz",
+        "de": "Papantla",
+        "de:t": "Mexiko | Veracruz"
+    },
+    {
+        "en": "Para\u00edso",
+        "en:t": "Mexico | Tabasco",
+        "a": true,
+        "g": {
+            "lat": 18.4006,
+            "lon": -93.2127
+        },
+        "it": "Para\u00edso",
+        "it:t": "Messico | Tabasco",
+        "es": "Para\u00edso",
+        "es:t": "M\u00e9xico | Tabasco",
+        "de": "Para\u00edso",
+        "de:t": "Mexiko | Tabasco"
+    },
+    {
+        "en": "Parque Industrial Ciudad Mitras",
+        "en:t": "Mexico | Nuevo Le\u00f3n",
+        "a": true,
+        "g": {
+            "lat": 25.7912,
+            "lon": -100.4481
+        },
+        "it": "Parque Industrial Ciudad Mitras",
+        "it:t": "Messico | Nuevo Le\u00f3n",
+        "es": "Parque Industrial Ciudad Mitras",
+        "es:t": "M\u00e9xico",
+        "de": "Parque Industrial Ciudad Mitras",
+        "de:t": "Mexiko | Nuevo Le\u00f3n"
+    },
+    {
+        "en": "Parque la Providencia Siglo XXI",
+        "en:t": "Mexico",
+        "a": true,
+        "g": {
+            "lat": 20.0614,
+            "lon": -98.7197
+        },
+        "it": "Parque la Providencia Siglo XXI",
+        "it:t": "Messico",
+        "es": "Parque la Providencia Siglo XXI",
+        "es:t": "M\u00e9xico",
+        "de": "Parque la Providencia Siglo XXI",
+        "de:t": "Mexiko"
+    },
+    {
+        "en": "Parral",
+        "en:t": "Mexico | Chihuahua",
+        "a": true,
+        "g": {
+            "lat": 26.9318,
+            "lon": -105.6666
+        },
+        "it": "Parral",
+        "it:t": "Messico | Chihuahua",
+        "es": "Hidalgo del Parral",
+        "es:t": "M\u00e9xico | Chihuahua",
+        "de": "Parral",
+        "de:t": "Mexiko | Chihuahua"
+    },
+    {
+        "en": "Perote",
+        "en:t": "Mexico | Veracruz",
+        "a": true,
+        "g": {
+            "lat": 19.5572,
+            "lon": -97.2464
+        },
+        "it": "Perote",
+        "it:t": "Messico | Veracruz",
+        "es": "Perote",
+        "es:t": "M\u00e9xico | Veracruz",
+        "de": "Perote",
+        "de:t": "Mexiko | Veracruz"
+    },
+    {
+        "en": "Peto",
+        "en:t": "Mexico | Yucatan",
+        "a": true,
+        "g": {
+            "lat": 20.1263,
+            "lon": -88.9228
+        },
+        "it": "Peto",
+        "it:t": "Messico | Yucatan",
+        "es": "Peto",
+        "es:t": "M\u00e9xico | Yucat\u00e1n",
+        "de": "Peto",
+        "de:t": "Mexiko | Yucatan"
+    },
+    {
+        "en": "Pijijiapan",
+        "en:t": "Mexico | Chiapas",
+        "a": true,
+        "g": {
+            "lat": 15.6852,
+            "lon": -93.2123
+        },
+        "it": "Pijijiapan",
+        "it:t": "Messico | Chiapas",
+        "es": "Pijijiapan",
+        "es:t": "M\u00e9xico | Chiapas",
+        "de": "Pijijiapan",
+        "de:t": "Mexiko | Chiapas"
+    },
+    {
+        "en": "Pinotepa Nacional",
+        "en:t": "Mexico | Oaxaca",
+        "a": true,
+        "g": {
+            "lat": 16.3412,
+            "lon": -98.0537
+        },
+        "it": "Pinotepa Nacional",
+        "it:t": "Messico | Oaxaca",
+        "es": "Pinotepa Nacional",
+        "es:t": "M\u00e9xico | Oaxaca",
+        "de": "Pinotepa Nacional",
+        "de:t": "Mexiko | Oaxaca"
+    },
+    {
+        "en": "Playa del Carmen",
+        "en:t": "Mexico | Quintana Roo",
+        "a": true,
+        "g": {
+            "lat": 20.6296,
+            "lon": -87.0739
+        },
+        "it": "Playa del Carmen",
+        "it:t": "Messico | Quintana Roo",
+        "es": "Playa del Carmen",
+        "es:t": "M\u00e9xico | Quintana Roo",
+        "de": "Playa del Carmen",
+        "de:t": "Mexiko | Quintana Roo"
+    },
+    {
+        "en": "Polanco",
+        "en:t": "Mexico | Polanco I Secci\u00f3n",
+        "a": true,
+        "g": {
+            "lat": 19.434,
+            "lon": -99.1956
+        },
+        "it": "Polanco",
+        "it:t": "Messico | Polanco I Secci\u00f3n",
+        "es": "Polanco",
+        "es:t": "M\u00e9xico | Polanco I Secci\u00f3n",
+        "de": "Polanco",
+        "de:t": "Mexiko | Polanco I Secci\u00f3n"
+    },
+    {
+        "en": "Poza Rica",
+        "en:t": "Mexico | Veracruz",
+        "a": true,
+        "g": {
+            "lat": 20.5271,
+            "lon": -97.4629
+        },
+        "it": "Poza Rica",
+        "it:t": "Messico | Veracruz",
+        "es": "Poza Rica",
+        "es:t": "M\u00e9xico | Veracruz",
+        "de": "Poza Rica",
+        "de:t": "Mexiko | Veracruz"
+    },
+    {
+        "en": "Progreso",
+        "en:t": "Mexico | Yucatan",
+        "a": true,
+        "g": {
+            "lat": 21.2812,
+            "lon": -89.6652
+        },
+        "it": "Progreso",
+        "it:t": "Messico | Yucat\u00e1n",
+        "es": "Progreso",
+        "es:t": "M\u00e9xico | Yucat\u00e1n",
+        "de": "Progreso",
+        "de:t": "Mexiko | Yucat\u00e1n"
+    },
+    {
+        "en": "Puebla",
+        "en:t": "Mexico",
+        "a": true,
+        "g": {
+            "lat": 19.0414,
+            "lon": -98.2063
+        },
+        "it": "Puebla",
+        "it:t": "Messico",
+        "es": "Puebla",
+        "es:t": "M\u00e9xico | Puebla",
+        "de": "Puebla",
+        "de:t": "Mexiko"
+    },
+    {
+        "en": "Pueblo Nuevo",
+        "en:t": "Mexico | Durango",
+        "a": true,
+        "g": {
+            "lat": 23.782,
+            "lon": -105.3615
+        },
+        "it": "Pueblo Nuevo",
+        "it:t": "Messico | Durango",
+        "es": "Pueblo Nuevo",
+        "es:t": "M\u00e9xico | Durango",
+        "de": "Pueblo Nuevo",
+        "de:t": "Mexiko | Durango"
+    },
+    {
+        "en": "Puente de Ixtla",
+        "en:t": "Mexico | Morelos",
+        "a": true,
+        "g": {
+            "lat": 18.6147,
+            "lon": -99.3201
+        },
+        "it": "Puente de Ixtla",
+        "it:t": "Messico | Morelos",
+        "es": "Puente de Ixtla",
+        "es:t": "M\u00e9xico | Morelos",
+        "de": "Puente de Ixtla",
+        "de:t": "Mexiko | Morelos"
+    },
+    {
+        "en": "Puerto Escondido",
+        "en:t": "Mexico | Oaxaca",
+        "a": true,
+        "g": {
+            "lat": 15.872,
+            "lon": -97.0767
+        },
+        "it": "Puerto Escondido",
+        "it:t": "Messico | Oaxaca",
+        "es": "Puerto Escondido",
+        "es:t": "M\u00e9xico | Oaxaca",
+        "de": "Puerto Escondido",
+        "de:t": "Mexiko | Oaxaca"
+    },
+    {
+        "en": "P\u00f3rticos de San Antonio",
+        "en:t": "Mexico | Portico de San Antonio",
+        "a": true,
+        "g": {
+            "lat": 32.4394,
+            "lon": -117.0408
+        },
+        "it": "P\u00f3rticos de San Antonio",
+        "it:t": "Messico | Portico de San Antonio",
+        "es": "Porticos De San Antonio",
+        "es:t": "M\u00e9xico | Portico de San Antonio",
+        "de": "P\u00f3rticos de San Antonio",
+        "de:t": "Mexiko | Portico de San Antonio"
+    },
+    {
+        "en": "Real de Palmas",
+        "en:t": "Mexico | Nuevo Le\u00f3n",
+        "a": true,
+        "g": {
+            "lat": 25.8927,
+            "lon": -100.1731
+        },
+        "it": "Real de Palmas",
+        "it:t": "Messico | Nuevo Le\u00f3n",
+        "es": "Real de Palmas",
+        "es:t": "M\u00e9xico | Nuevo Le\u00f3n",
+        "de": "Real de Palmas",
+        "de:t": "Mexiko | Nuevo Le\u00f3n"
+    },
+    {
+        "en": "Reynosa",
+        "en:t": "Mexico | Tamaulipas",
+        "a": true,
+        "g": {
+            "lat": 26.0508,
+            "lon": -98.2979
+        },
+        "it": "Reynosa",
+        "it:t": "Messico | Tamaulipas",
+        "es": "Reynosa",
+        "es:t": "M\u00e9xico | Tamaulipas",
+        "de": "Reynosa",
+        "de:t": "Mexiko | Tamaulipas"
+    },
+    {
+        "en": "Rioverde",
+        "en:t": "Mexico | San Luis Potosi",
+        "a": true,
+        "g": {
+            "lat": 21.9278,
+            "lon": -99.9856
+        },
+        "it": "R\u00edo Verde",
+        "it:t": "Messico | San Luis Potos\u00ed",
+        "es": "Rioverde",
+        "es:t": "M\u00e9xico | San Luis Potos\u00ed",
+        "de": "Rioverde",
+        "de:t": "Mexiko | San Luis Potosi"
+    },
+    {
+        "en": "R\u00edo Blanco",
+        "en:t": "Mexico | Veracruz",
+        "a": true,
+        "g": {
+            "lat": 18.8394,
+            "lon": -97.1392
+        },
+        "it": "R\u00edo Blanco",
+        "it:t": "Messico | Veracruz",
+        "es": "R\u00edo Blanco",
+        "es:t": "M\u00e9xico | Veracruz",
+        "de": "R\u00edo Blanco",
+        "de:t": "Mexiko | Veracruz"
+    },
+    {
+        "en": "R\u00edo Bravo",
+        "en:t": "Mexico | Tamaulipas",
+        "a": true,
+        "g": {
+            "lat": 25.986,
+            "lon": -98.0956
+        },
+        "it": "R\u00edo Bravo",
+        "it:t": "Messico | Tamaulipas",
+        "es": "R\u00edo Bravo",
+        "es:t": "M\u00e9xico | Tamaulipas",
+        "de": "R\u00edo Bravo",
+        "de:t": "Mexiko | Tamaulipas"
+    },
+    {
+        "en": "R\u00edo de Teapa",
+        "en:t": "Mexico | Tabasco",
+        "a": true,
+        "g": {
+            "lat": 17.7786,
+            "lon": -92.9
+        },
+        "it": "R\u00edo de Teapa",
+        "it:t": "Messico | Tabasco",
+        "es": "R\u00edo de Teapa",
+        "es:t": "M\u00e9xico | Tabasco",
+        "de": "R\u00edo de Teapa",
+        "de:t": "Mexiko | Tabasco"
+    },
+    {
+        "en": "Sahagun",
+        "en:t": "Mexico | Hidalgo",
+        "a": true,
+        "g": {
+            "lat": 19.7758,
+            "lon": -98.5759
+        },
+        "it": "Sahagun",
+        "it:t": "Messico | Hidalgo",
+        "es": "Sahag\u00fan",
+        "es:t": "M\u00e9xico | Hidalgo",
+        "de": "Sahagun",
+        "de:t": "Mexiko | Hidalgo"
+    },
+    {
+        "en": "Salina Cruz",
+        "en:t": "Mexico | Oaxaca",
+        "a": true,
+        "g": {
+            "lat": 16.1843,
+            "lon": -95.2088
+        },
+        "it": "Salina Cruz",
+        "it:t": "Messico | Oaxaca",
+        "es": "Salina Cruz",
+        "es:t": "M\u00e9xico | Oaxaca",
+        "de": "Salina Cruz",
+        "de:t": "Mexiko | Oaxaca"
+    },
+    {
+        "en": "San Andres Cholula",
+        "en:t": "Mexico | Puebla",
+        "a": true,
+        "g": {
+            "lat": 19.06,
+            "lon": -98.2949
+        },
+        "it": "San Andres Cholula",
+        "it:t": "Messico | Puebla",
+        "es": "San Andres Cholula",
+        "es:t": "M\u00e9xico | Puebla",
+        "de": "San Andres Cholula",
+        "de:t": "Mexiko | Puebla"
+    },
+    {
+        "en": "San Andr\u00e9s Tuxtla",
+        "en:t": "Mexico | Veracruz",
+        "a": true,
+        "g": {
+            "lat": 18.4441,
+            "lon": -95.213
+        },
+        "it": "San Andr\u00e9s Tuxtla",
+        "it:t": "Messico | Veracruz",
+        "es": "San Andr\u00e9s Tuxtla",
+        "es:t": "M\u00e9xico | Veracruz",
+        "de": "San Andr\u00e9s Tuxtla",
+        "de:t": "Mexiko | Veracruz"
+    },
+    {
+        "en": "San Antonio Tec\u00f3mitl",
+        "en:t": "Mexico | M\u00e9xico",
+        "a": true,
+        "g": {
+            "lat": 19.2194,
+            "lon": -98.9936
+        },
+        "it": "San Antonio Tec\u00f3mitl",
+        "it:t": "Messico | M\u00e9xico",
+        "es": "San Antonio Tec\u00f3mitl",
+        "es:t": "M\u00e9xico | M\u00e9xico",
+        "de": "San Antonio Tec\u00f3mitl",
+        "de:t": "Mexiko | M\u00e9xico"
+    },
+    {
+        "en": "San Antonio de la Cal",
+        "en:t": "Mexico | Oaxaca",
+        "a": true,
+        "g": {
+            "lat": 17.0263,
+            "lon": -96.703
+        },
+        "it": "San Antonio de la Cal",
+        "it:t": "Messico | Oaxaca",
+        "es": "San Antonio de la Cal",
+        "es:t": "M\u00e9xico | Oaxaca",
+        "de": "San Antonio de la Cal",
+        "de:t": "Mexiko | Oaxaca"
+    },
+    {
+        "en": "San Buenaventura",
+        "en:t": "Mexico | Coahuila",
+        "a": true,
+        "g": {
+            "lat": 27.0554,
+            "lon": -101.5441
+        },
+        "it": "San Buenaventura",
+        "it:t": "Messico | Coahuila",
+        "es": "San Buenaventura",
+        "es:t": "M\u00e9xico | Coahuila",
+        "de": "San Buenaventura",
+        "de:t": "Mexiko | Coahuila"
+    },
+    {
+        "en": "San Crist\u00f3bal de las Casas",
+        "en:t": "Mexico | Chiapas",
+        "a": true,
+        "g": {
+            "lat": 16.737,
+            "lon": -92.6376
+        },
+        "it": "San Crist\u00f3bal de Las Casas",
+        "it:t": "Messico | Chiapas",
+        "es": "San Crist\u00f3bal de Las Casas",
+        "es:t": "M\u00e9xico | Chiapas",
+        "de": "San Crist\u00f3bal de las Casas",
+        "de:t": "Mexiko | Chiapas"
+    },
+    {
+        "en": "San Fernando",
+        "en:t": "Mexico | Tamaulipas",
+        "a": true,
+        "g": {
+            "lat": 24.8419,
+            "lon": -98.1502
+        },
+        "it": "San Fernando",
+        "it:t": "Messico | Tamaulipas",
+        "es": "San Fernando",
+        "es:t": "M\u00e9xico | Tamaulipas",
+        "de": "San Fernando",
+        "de:t": "Mexiko | Tamaulipas"
+    },
+    {
+        "en": "San Francisco Acuautla",
+        "en:t": "Mexico",
+        "a": true,
+        "g": {
+            "lat": 19.3453,
+            "lon": -98.8597
+        },
+        "it": "San Francisco Acuautla",
+        "it:t": "Messico | Mexico",
+        "es": "San Francisco Acuautla",
+        "es:t": "M\u00e9xico | M\u00e9xico",
+        "de": "San Francisco Acuautla",
+        "de:t": "Mexiko | Mexico"
+    },
+    {
+        "en": "San Isidro",
+        "en:t": "Mexico | M\u00e9xico",
+        "a": true,
+        "g": {
+            "lat": 19.4336,
+            "lon": -99.2157
+        },
+        "it": "San Isidro",
+        "it:t": "Messico | M\u00e9xico",
+        "es": "San Isidro",
+        "es:t": "M\u00e9xico | M\u00e9xico",
+        "de": "San Isidro",
+        "de:t": "Mexiko | M\u00e9xico"
+    },
+    {
+        "en": "San Jeronimo",
+        "en:t": "Mexico | Ixtepec",
+        "a": true,
+        "g": {
+            "lat": 16.5594,
+            "lon": -95.1054
+        },
+        "it": "San Jeronimo",
+        "it:t": "Messico | Ixtepec",
+        "es": "San Jeronimo",
+        "es:t": "M\u00e9xico | Ixtepec",
+        "de": "San Jeronimo",
+        "de:t": "Mexiko | Ixtepec"
+    },
+    {
+        "en": "San Jer\u00f3nimo Cuatro Vientos",
+        "en:t": "Mexico | Mexico",
+        "a": true,
+        "g": {
+            "lat": 19.2925,
+            "lon": -98.8389
+        },
+        "it": "San Jer\u00f3nimo Cuatro Vientos",
+        "it:t": "Messico | Mexico",
+        "es": "San Jer\u00f3nimo Cuatro Vientos",
+        "es:t": "M\u00e9xico | M\u00e9xico",
+        "de": "San Jer\u00f3nimo Cuatro Vientos",
+        "de:t": "Mexiko | Mexico"
+    },
+    {
+        "en": "San Jorge Pueblo Nuevo",
+        "en:t": "Mexico | Metepec",
+        "a": true,
+        "g": {
+            "lat": 19.2474,
+            "lon": -99.614
+        },
+        "it": "San Jorge Pueblo Nuevo",
+        "it:t": "Messico | Metepec",
+        "es": "San Jorge Pueblo Nuevo",
+        "es:t": "M\u00e9xico | Metepec",
+        "de": "San Jorge Pueblo Nuevo",
+        "de:t": "Mexiko | Metepec"
+    },
+    {
+        "en": "San Jos\u00e9 Guadalupe",
+        "en:t": "Mexico | Mexico",
+        "a": true,
+        "g": {
+            "lat": 19.3476,
+            "lon": -99.598
+        },
+        "it": "San Jos\u00e9 Guadalupe",
+        "it:t": "Messico | Mexico",
+        "es": "San Jos\u00e9 Guadalupe",
+        "es:t": "M\u00e9xico | M\u00e9xico",
+        "de": "San Jos\u00e9 Guadalupe",
+        "de:t": "Mexiko | Mexico"
+    },
+    {
+        "en": "San Juan Bautista Tuxtepec",
+        "en:t": "Mexico | Oaxaca",
+        "a": true,
+        "g": {
+            "lat": 18.0809,
+            "lon": -96.1421
+        },
+        "it": "San Juan Bautista Tuxtepec",
+        "it:t": "Messico | Oaxaca",
+        "es": "San Juan Bautista Tuxtepec",
+        "es:t": "M\u00e9xico | Oaxaca",
+        "de": "San Juan Bautista Tuxtepec",
+        "de:t": "Mexiko | Oaxaca"
+    },
+    {
+        "en": "San Juan Teotihuac\u00e1n",
+        "en:t": "Mexico | Mexico",
+        "a": true,
+        "g": {
+            "lat": 19.6861,
+            "lon": -98.8716
+        },
+        "it": "Teotihuacan",
+        "it:t": "Messico | Messico",
+        "es": "San Juan Teotihuacan de Arista",
+        "es:t": "M\u00e9xico | M\u00e9xico",
+        "de": "Teotihuac\u00e1n",
+        "de:t": "Mexiko | Mexiko"
+    },
+    {
+        "en": "San Juan del R\u00edo",
+        "en:t": "Mexico | Quer\u00e9taro",
+        "a": true,
+        "g": {
+            "lat": 20.3951,
+            "lon": -99.9856
+        },
+        "it": "San Juan del R\u00edo",
+        "it:t": "Messico | Quer\u00e9taro",
+        "es": "San Juan del R\u00edo",
+        "es:t": "M\u00e9xico | Quer\u00e9taro",
+        "de": "San Juan del R\u00edo",
+        "de:t": "Mexiko | Quer\u00e9taro"
+    },
+    {
+        "en": "San Mart\u00edn Azcatepec",
+        "en:t": "Mexico",
+        "a": true,
+        "g": {
+            "lat": 19.6855,
+            "lon": -98.9708
+        },
+        "it": "San Mart\u00edn Azcatepec",
+        "it:t": "Messico",
+        "es": "San Martin Azcatepec",
+        "es:t": "M\u00e9xico | San Mart\u00edn Azcatepec",
+        "de": "San Mart\u00edn Azcatepec",
+        "de:t": "Mexiko | Mexico"
+    },
+    {
+        "en": "San Mart\u00edn Texmelucan de Labastida",
+        "en:t": "Mexico | Puebla",
+        "a": true,
+        "g": {
+            "lat": 19.2844,
+            "lon": -98.4349
+        },
+        "it": "San Mart\u00edn Texmelucan de Labastida",
+        "it:t": "Messico | Puebla",
+        "es": "San Mart\u00edn Texmelucan de Labastida",
+        "es:t": "M\u00e9xico | Puebla",
+        "de": "San Mart\u00edn Texmelucan de Labastida",
+        "de:t": "Mexiko | Puebla"
+    },
+    {
+        "en": "San Mateo Atenco",
+        "en:t": "Mexico | Mexico",
+        "a": true,
+        "g": {
+            "lat": 19.263,
+            "lon": -99.5324
+        },
+        "it": "San Mateo Atenco",
+        "it:t": "Messico | Messico",
+        "es": "San Mateo Atenco",
+        "es:t": "M\u00e9xico | M\u00e9xico",
+        "de": "San Mateo Atenco",
+        "de:t": "Mexiko | Mexiko"
+    },
+    {
+        "en": "San Miguel Xico",
+        "en:t": "Mexico | Valle de Chalco Solidaridad",
+        "a": true,
+        "g": {
+            "lat": 19.2715,
+            "lon": -98.9521
+        },
+        "it": "San Miguel Xico",
+        "it:t": "Messico | Valle de Chalco Solidaridad",
+        "es": "San Miguel Xico",
+        "es:t": "M\u00e9xico | Valle de Chalco Solidaridad",
+        "de": "San Miguel Xico",
+        "de:t": "Mexiko | Valle de Chalco Solidaridad"
+    },
+    {
+        "en": "San Miguel Zinacantepec",
+        "en:t": "Mexico | Mexico",
+        "a": true,
+        "g": {
+            "lat": 19.2953,
+            "lon": -99.7326
+        },
+        "it": "San Miguel Zinacantepec",
+        "it:t": "Messico | Mexico",
+        "es": "San Miguel Zinacantepec",
+        "es:t": "M\u00e9xico | M\u00e9xico",
+        "de": "San Miguel Zinacantepec",
+        "de:t": "Mexiko | Mexiko"
+    },
+    {
+        "en": "San Miguel de Cozumel",
+        "en:t": "Mexico | Quintana Roo",
+        "a": true,
+        "g": {
+            "lat": 20.5072,
+            "lon": -86.9446
+        },
+        "it": "San Miguel de Cozumel",
+        "it:t": "Messico | Quintana Roo",
+        "es": "San Miguel de Cozumel",
+        "es:t": "M\u00e9xico | Quintana Roo",
+        "de": "San Miguel de Cozumel",
+        "de:t": "Mexiko | Quintana Roo"
+    },
+    {
+        "en": "San Pablo Autopan",
+        "en:t": "Mexico",
+        "a": true,
+        "g": {
+            "lat": 19.3568,
+            "lon": -99.659
+        },
+        "it": "San Pablo Autopan",
+        "it:t": "Messico",
+        "es": "San Pablo Autopan",
+        "es:t": "M\u00e9xico",
+        "de": "San Pablo Autopan",
+        "de:t": "Mexiko"
+    },
+    {
+        "en": "San Pablo de las Salinas",
+        "en:t": "Mexico | Mexico",
+        "a": true,
+        "g": {
+            "lat": 19.6745,
+            "lon": -99.0792
+        },
+        "it": "San Pablo de las Salinas",
+        "it:t": "Messico | Mexico",
+        "es": "San Pablo de las Salinas",
+        "es:t": "M\u00e9xico | M\u00e9xico",
+        "de": "San Pablo de las Salinas",
+        "de:t": "Mexiko | Mexico"
+    },
+    {
+        "en": "San Pablo del Monte",
+        "en:t": "Mexico | Tlaxcala",
+        "a": true,
+        "g": {
+            "lat": 19.1316,
+            "lon": -98.1612
+        },
+        "it": "San Pablo del Monte",
+        "it:t": "Messico | Tlaxcala",
+        "es": "San Pablo del Monte",
+        "es:t": "M\u00e9xico | Tlaxcala",
+        "de": "San Pablo del Monte",
+        "de:t": "Mexiko | Tlaxcala"
+    },
+    {
+        "en": "San Pedro Garza Garc\u00eda",
+        "en:t": "Mexico | Nuevo Leon",
+        "a": true,
+        "g": {
+            "lat": 25.6573,
+            "lon": -100.4018
+        },
+        "it": "San Pedro Garza Garc\u00eda",
+        "it:t": "Messico | Nuevo Le\u00f3n",
+        "es": "San Pedro Garza Garc\u00eda",
+        "es:t": "M\u00e9xico | Nuevo Le\u00f3n",
+        "de": "San Pedro Garza Garc\u00eda",
+        "de:t": "Mexiko | Nuevo Le\u00f3n"
+    },
+    {
+        "en": "San Rafael Tlanalapan",
+        "en:t": "Mexico | Puebla",
+        "a": true,
+        "g": {
+            "lat": 19.2906,
+            "lon": -98.4659
+        },
+        "it": "San Rafael Tlanalapan",
+        "it:t": "Messico | Puebla",
+        "es": "San Rafael Tlanalapan",
+        "es:t": "M\u00e9xico | Puebla",
+        "de": "San Rafael Tlanalapan",
+        "de:t": "Mexiko | Puebla"
+    },
+    {
+        "en": "San Salvador Atenco",
+        "en:t": "Mexico | Mexico",
+        "a": true,
+        "g": {
+            "lat": 19.561,
+            "lon": -98.9169
+        },
+        "it": "San Salvador Atenco",
+        "it:t": "Messico | Messico",
+        "es": "San Salvador Atenco",
+        "es:t": "M\u00e9xico | M\u00e9xico",
+        "de": "San Salvador Atenco",
+        "de:t": "Mexiko | Mexico"
+    },
+    {
+        "en": "San Salvador el Seco",
+        "en:t": "Mexico | Puebla",
+        "a": true,
+        "g": {
+            "lat": 19.1304,
+            "lon": -97.6385
+        },
+        "it": "San Salvador el Seco",
+        "it:t": "Messico | Puebla",
+        "es": "San Salvador el Seco",
+        "es:t": "M\u00e9xico | Puebla",
+        "de": "San Salvador el Seco",
+        "de:t": "Mexiko | Puebla"
+    },
+    {
+        "en": "San Vicente",
+        "en:t": "Mexico | Chicoloapan de Ju\u00e1rez",
+        "a": true,
+        "g": {
+            "lat": 19.4177,
+            "lon": -98.9149
+        },
+        "it": "San Vicente",
+        "it:t": "Messico | Chicoloapan de Ju\u00e1rez",
+        "es": "San Vicente",
+        "es:t": "M\u00e9xico | Chicoloapan de Ju\u00e1rez",
+        "de": "San Vicente",
+        "de:t": "Mexiko | Chicoloapan de Ju\u00e1rez"
+    },
+    {
+        "en": "Sanctorum",
+        "en:t": "Mexico | Puebla",
+        "a": true,
+        "g": {
+            "lat": 19.1121,
+            "lon": -98.2488
+        },
+        "it": "Sanctorum",
+        "it:t": "Messico | Puebla",
+        "es": "Sanctorum",
+        "es:t": "M\u00e9xico | Puebla",
+        "de": "Sanctorum",
+        "de:t": "Mexiko | Puebla"
+    },
+    {
+        "en": "Santa Cruz Xoxocotl\u00e1n",
+        "en:t": "Mexico | Oaxaca",
+        "a": true,
+        "g": {
+            "lat": 17.0194,
+            "lon": -96.7494
+        },
+        "it": "Santa Cruz Xoxocotl\u00e1n",
+        "it:t": "Messico | Oaxaca",
+        "es": "Santa Cruz Xoxocotl\u00e1n",
+        "es:t": "M\u00e9xico | Oaxaca",
+        "de": "Santa Cruz Xoxocotl\u00e1n",
+        "de:t": "Mexiko | Oaxaca"
+    },
+    {
+        "en": "Santa Mar\u00eda Moyotzingo",
+        "en:t": "Mexico | Puebla",
+        "a": true,
+        "g": {
+            "lat": 19.2531,
+            "lon": -98.4102
+        },
+        "it": "Santa Mar\u00eda Moyotzingo",
+        "it:t": "Messico | Puebla",
+        "es": "Santa Mar\u00eda Moyotzingo",
+        "es:t": "M\u00e9xico | Puebla",
+        "de": "Santa Mar\u00eda Moyotzingo",
+        "de:t": "Mexiko | Puebla"
+    },
+    {
+        "en": "Santiago Momoxpan",
+        "en:t": "Mexico | Cipreses de Santiag",
+        "a": true,
+        "g": {
+            "lat": 19.0764,
+            "lon": -98.2733
+        },
+        "it": "Santiago Momoxpan",
+        "it:t": "Messico | Cipreses de Santiag",
+        "es": "Santiago Momoxpan",
+        "es:t": "M\u00e9xico | Cipreses de Santiag",
+        "de": "Santiago Momoxpan",
+        "de:t": "Mexiko | Cipreses de Santiag"
+    },
+    {
+        "en": "Santiago Tianguistenco",
+        "en:t": "Mexico | Mexico",
+        "a": true,
+        "g": {
+            "lat": 19.1804,
+            "lon": -99.4676
+        },
+        "it": "Santiago Tianguistenco",
+        "it:t": "Messico | Messico",
+        "es": "Santiago Tianguistenco",
+        "es:t": "M\u00e9xico | M\u00e9xico",
+        "de": "Santiago Tianguistenco",
+        "de:t": "Mexiko | Mexico"
+    },
+    {
+        "en": "Santiago Tuxtla",
+        "en:t": "Mexico | Veracruz",
+        "a": true,
+        "g": {
+            "lat": 18.4635,
+            "lon": -95.3024
+        },
+        "it": "Santiago Tuxtla",
+        "it:t": "Messico | Veracruz",
+        "es": "Santiago Tuxtla",
+        "es:t": "M\u00e9xico | Veracruz",
+        "de": "Santiago Tuxtla",
+        "de:t": "Mexiko | Veracruz"
+    },
+    {
+        "en": "Soledad de Graciano S\u00e1nchez",
+        "en:t": "Mexico | San Luis Potosi",
+        "a": true,
+        "g": {
+            "lat": 22.1807,
+            "lon": -100.9418
+        },
+        "it": "Soledad de Graciano S\u00e1nchez",
+        "it:t": "Messico | San Luis Potos\u00ed",
+        "es": "Soledad de Graciano S\u00e1nchez",
+        "es:t": "M\u00e9xico | San Luis Potos\u00ed",
+        "de": "Soledad de Graciano S\u00e1nchez",
+        "de:t": "Mexiko | San Luis Potosi"
+    },
+    {
+        "en": "Tamazunchale",
+        "en:t": "Mexico | San Luis Potosi",
+        "a": true,
+        "g": {
+            "lat": 21.2594,
+            "lon": -98.7881
+        },
+        "it": "Tamazunchale",
+        "it:t": "Messico | San Luis Potos\u00ed",
+        "es": "Tamazunchale",
+        "es:t": "M\u00e9xico | San Luis Potos\u00ed",
+        "de": "Tamazunchale",
+        "de:t": "Mexiko | San Luis Potosi"
+    },
+    {
+        "en": "Tampico",
+        "en:t": "Mexico | Tamaulipas",
+        "a": true,
+        "g": {
+            "lat": 22.2331,
+            "lon": -97.8611
+        },
+        "it": "Tampico",
+        "it:t": "Messico | Tamaulipas",
+        "es": "Tampico",
+        "es:t": "M\u00e9xico | Tamaulipas",
+        "de": "Tampico",
+        "de:t": "Mexiko | Tamaulipas"
+    },
+    {
+        "en": "Tantoyuca",
+        "en:t": "Mexico | Veracruz",
+        "a": true,
+        "g": {
+            "lat": 21.3511,
+            "lon": -98.2268
+        },
+        "it": "Tantoyuca",
+        "it:t": "Messico | Veracruz",
+        "es": "Tantoyuca",
+        "es:t": "M\u00e9xico | Veracruz",
+        "de": "Tantoyuca",
+        "de:t": "Mexiko | Veracruz"
+    },
+    {
+        "en": "Tapachula",
+        "en:t": "Mexico | Chiapas",
+        "a": true,
+        "g": {
+            "lat": 14.9056,
+            "lon": -92.2634
+        },
+        "it": "Tapachula",
+        "it:t": "Messico | Chiapas",
+        "es": "Tapachula",
+        "es:t": "M\u00e9xico | Chiapas",
+        "de": "Tapachula",
+        "de:t": "Mexiko | Chiapas"
+    },
+    {
+        "en": "Taxco",
+        "en:t": "Mexico | Guerrero",
+        "a": true,
+        "g": {
+            "lat": 18.5565,
+            "lon": -99.6051
+        },
+        "it": "Taxco",
+        "it:t": "Messico | Guerrero",
+        "es": "Taxco",
+        "es:t": "M\u00e9xico | Guerrero",
+        "de": "Taxco",
+        "de:t": "Mexiko | Guerrero"
+    },
+    {
+        "en": "Teapa",
+        "en:t": "Mexico | Tabasco",
+        "a": true,
+        "g": {
+            "lat": 17.5609,
+            "lon": -92.952
+        },
+        "it": "Teapa",
+        "it:t": "Messico | Tabasco",
+        "es": "Teapa",
+        "es:t": "M\u00e9xico | Tabasco",
+        "de": "Teapa",
+        "de:t": "Mexiko | Tabasco"
+    },
+    {
+        "en": "Tecamachalco",
+        "en:t": "Mexico | Puebla",
+        "a": true,
+        "g": {
+            "lat": 18.8819,
+            "lon": -97.7327
+        },
+        "it": "Tecamachalco",
+        "it:t": "Messico | Puebla",
+        "es": "Tecamachalco",
+        "es:t": "M\u00e9xico | Puebla",
+        "de": "Tecamachalco",
+        "de:t": "Mexiko | Puebla"
+    },
+    {
+        "en": "Tec\u00e1mac Centro",
+        "en:t": "Mexico | Tecamac",
+        "a": true,
+        "g": {
+            "lat": 19.7112,
+            "lon": -98.9728
+        },
+        "it": "Tec\u00e1mac Centro",
+        "it:t": "Messico | Tecamac",
+        "es": "Tec\u00e1mac Centro",
+        "es:t": "M\u00e9xico | Tecamac",
+        "de": "Tec\u00e1mac Centro",
+        "de:t": "Mexiko | Tecamac"
+    },
+    {
+        "en": "Tec\u00e1mac de Felipe Villanueva",
+        "en:t": "Mexico | Mexico",
+        "a": true,
+        "g": {
+            "lat": 19.7101,
+            "lon": -98.9659
+        },
+        "it": "Tec\u00e1mac de Felipe Villanueva",
+        "it:t": "Messico | Mexico",
+        "es": "Tec\u00e1mac de Felipe Villanueva",
+        "es:t": "M\u00e9xico | M\u00e9xico",
+        "de": "Tec\u00e1mac de Felipe Villanueva",
+        "de:t": "Mexiko | Mexico"
+    },
+    {
+        "en": "Tehuac\u00e1n",
+        "en:t": "Mexico | Puebla",
+        "a": true,
+        "g": {
+            "lat": 18.4665,
+            "lon": -97.4004
+        },
+        "it": "Tehuac\u00e1n",
+        "it:t": "Messico | Puebla",
+        "es": "Tehuac\u00e1n",
+        "es:t": "M\u00e9xico | Puebla",
+        "de": "Tehuac\u00e1n",
+        "de:t": "Mexiko | Puebla"
+    },
+    {
+        "en": "Tehuantepec",
+        "en:t": "Mexico | Oaxaca",
+        "a": true,
+        "g": {
+            "lat": 16.3227,
+            "lon": -95.2423
+        },
+        "it": "Tehuantepec",
+        "it:t": "Messico | Oaxaca",
+        "es": "Tehuantepec",
+        "es:t": "M\u00e9xico | Oaxaca",
+        "de": "Santo Domingo Tehuantepec",
+        "de:t": "Mexiko | Oaxaca"
+    },
+    {
+        "en": "Tekax",
+        "en:t": "Mexico | Yucatan",
+        "a": true,
+        "g": {
+            "lat": 20.2119,
+            "lon": -89.2764
+        },
+        "it": "Tekax",
+        "it:t": "Messico | Yucatan",
+        "es": "Tekax",
+        "es:t": "M\u00e9xico | Yucat\u00e1n",
+        "de": "Tekax",
+        "de:t": "Mexiko | Yucatan"
+    },
+    {
+        "en": "Teloloapan",
+        "en:t": "Mexico | Guerrero",
+        "a": true,
+        "g": {
+            "lat": 18.3655,
+            "lon": -99.8697
+        },
+        "it": "Teloloapan",
+        "it:t": "Messico | Guerrero",
+        "es": "Teloloapan",
+        "es:t": "M\u00e9xico | Guerrero",
+        "de": "Teloloapan",
+        "de:t": "Mexiko | Guerrero"
+    },
+    {
+        "en": "Temapache",
+        "en:t": "Mexico | Veracruz",
+        "a": true,
+        "g": {
+            "lat": 21.0708,
+            "lon": -97.6421
+        },
+        "it": "Temapache",
+        "it:t": "Messico | Veracruz",
+        "es": "Temapache",
+        "es:t": "M\u00e9xico | Veracruz",
+        "de": "Temapache",
+        "de:t": "Mexiko | Veracruz"
+    },
+    {
+        "en": "Temixco",
+        "en:t": "Mexico | Morelos",
+        "a": true,
+        "g": {
+            "lat": 18.8593,
+            "lon": -99.2394
+        },
+        "it": "Temixco",
+        "it:t": "Messico | Morelos",
+        "es": "Temixco",
+        "es:t": "M\u00e9xico | Morelos",
+        "de": "Temixco",
+        "de:t": "Mexiko | Morelos"
+    },
+    {
+        "en": "Tenango de Arista",
+        "en:t": "Mexico | Mexico",
+        "a": true,
+        "g": {
+            "lat": 19.1053,
+            "lon": -99.5882
+        },
+        "it": "Tenango de Arista",
+        "it:t": "Messico | Mexico",
+        "es": "Tenango de Arista",
+        "es:t": "M\u00e9xico | M\u00e9xico",
+        "de": "Tenango de Arista",
+        "de:t": "Mexiko | Mexico"
+    },
+    {
+        "en": "Tenosique",
+        "en:t": "Mexico | Tabasco",
+        "a": true,
+        "g": {
+            "lat": 17.4727,
+            "lon": -91.4251
+        },
+        "it": "Tenosique",
+        "it:t": "Messico | Tabasco",
+        "es": "Tenosique de Pino Su\u00e1rez",
+        "es:t": "M\u00e9xico | Tabasco",
+        "de": "Tenosique",
+        "de:t": "Mexiko | Tabasco"
+    },
+    {
+        "en": "Teolocholco",
+        "en:t": "Mexico | Tlaxcala",
+        "a": true,
+        "g": {
+            "lat": 19.2397,
+            "lon": -98.1858
+        },
+        "it": "Teolocholco",
+        "it:t": "Messico | Tlaxcala",
+        "es": "Teolocholco",
+        "es:t": "M\u00e9xico | Tlaxcala",
+        "de": "Teolocholco",
+        "de:t": "Mexiko | Tlaxcala"
+    },
+    {
+        "en": "Teoloyucan",
+        "en:t": "Mexico | Mexico",
+        "a": true,
+        "g": {
+            "lat": 19.7486,
+            "lon": -99.1758
+        },
+        "it": "Teoloyucan",
+        "it:t": "Messico | Messico",
+        "es": "Teoloyucan",
+        "es:t": "M\u00e9xico | M\u00e9xico",
+        "de": "Teoloyucan",
+        "de:t": "Mexiko | Mexiko"
+    },
+    {
+        "en": "Tepatlaxco de Hidalgo",
+        "en:t": "Mexico | Puebla",
+        "a": true,
+        "g": {
+            "lat": 19.0779,
+            "lon": -97.9729
+        },
+        "it": "Tepatlaxco de Hidalgo",
+        "it:t": "Messico | Puebla",
+        "es": "Tepatlaxco de Hidalgo",
+        "es:t": "M\u00e9xico | Puebla",
+        "de": "Tepatlaxco de Hidalgo",
+        "de:t": "Mexiko | Puebla"
+    },
+    {
+        "en": "Tepeaca",
+        "en:t": "Mexico | Puebla",
+        "a": true,
+        "g": {
+            "lat": 18.966,
+            "lon": -97.8994
+        },
+        "it": "Tepeaca",
+        "it:t": "Messico | Puebla",
+        "es": "Tepeaca",
+        "es:t": "M\u00e9xico | Puebla",
+        "de": "Tepeaca",
+        "de:t": "Mexiko | Puebla"
+    },
+    {
+        "en": "Tepeji",
+        "en:t": "Mexico | Hidalgo",
+        "a": true,
+        "g": {
+            "lat": 19.9115,
+            "lon": -99.3507
+        },
+        "it": "Tepeji",
+        "it:t": "Messico | Hidalgo",
+        "es": "Tepeji",
+        "es:t": "M\u00e9xico | Hidalgo",
+        "de": "Tepeji",
+        "de:t": "Mexiko | Hidalgo"
+    },
+    {
+        "en": "Tepotzotl\u00e1n",
+        "en:t": "Mexico | Mexico",
+        "a": true,
+        "g": {
+            "lat": 19.7185,
+            "lon": -99.2065
+        },
+        "it": "Tepotzotl\u00e1n",
+        "it:t": "Messico | Messico",
+        "es": "Tepotzotl\u00e1n",
+        "es:t": "M\u00e9xico | M\u00e9xico",
+        "de": "Tepotzotl\u00e1n",
+        "de:t": "Mexiko | Mexiko"
+    },
+    {
+        "en": "Tepoztl\u00e1n",
+        "en:t": "Mexico | Morelos",
+        "a": true,
+        "g": {
+            "lat": 18.9848,
+            "lon": -99.0931
+        },
+        "it": "Tepoztl\u00e1n",
+        "it:t": "Messico | Morelos",
+        "es": "Tepoztl\u00e1n",
+        "es:t": "M\u00e9xico | Morelos",
+        "de": "Tepoztl\u00e1n",
+        "de:t": "Mexiko | Morelos"
+    },
+    {
+        "en": "Tequisquiapan",
+        "en:t": "Mexico | Quer\u00e9taro",
+        "a": true,
+        "g": {
+            "lat": 20.5187,
+            "lon": -99.8851
+        },
+        "it": "Tequisquiapan",
+        "it:t": "Messico | Quer\u00e9taro",
+        "es": "Tequisquiapan",
+        "es:t": "M\u00e9xico | Quer\u00e9taro",
+        "de": "Tequisquiapan",
+        "de:t": "Mexiko | Quer\u00e9taro"
+    },
+    {
+        "en": "Tequixquiac",
+        "en:t": "Mexico | Mexico",
+        "a": true,
+        "g": {
+            "lat": 19.9106,
+            "lon": -99.1401
+        },
+        "it": "Tequixquiac",
+        "it:t": "Messico | Messico",
+        "es": "Tequixquiac",
+        "es:t": "M\u00e9xico | M\u00e9xico",
+        "de": "Tequixquiac",
+        "de:t": "Mexiko | Mexiko"
+    },
+    {
+        "en": "Terrazas del Valle",
+        "en:t": "Mexico | Tijuana",
+        "a": true,
+        "g": {
+            "lat": 32.4865,
+            "lon": -116.8233
+        },
+        "it": "Terrazas del Valle",
+        "it:t": "Messico | Tijuana",
+        "es": "Terrazas del Valle",
+        "es:t": "M\u00e9xico | Tijuana",
+        "de": "Terrazas del Valle",
+        "de:t": "Mexiko | Tijuana"
+    },
+    {
+        "en": "Texcoco",
+        "en:t": "Mexico | Mexico",
+        "a": true,
+        "g": {
+            "lat": 19.506,
+            "lon": -98.8832
+        },
+        "it": "Texcoco",
+        "it:t": "Messico | Messico",
+        "es": "Texcoco",
+        "es:t": "M\u00e9xico | M\u00e9xico",
+        "de": "Texcoco",
+        "de:t": "Mexiko | Mexiko"
+    },
+    {
+        "en": "Teziutl\u00e1n",
+        "en:t": "Mexico | Puebla",
+        "a": true,
+        "g": {
+            "lat": 19.8171,
+            "lon": -97.3593
+        },
+        "it": "Teziutlan",
+        "it:t": "Messico | Puebla",
+        "es": "Teziutl\u00e1n",
+        "es:t": "M\u00e9xico | Puebla",
+        "de": "Teziutlan",
+        "de:t": "Mexiko | Puebla"
+    },
+    {
+        "en": "Tezontepec de Aldama",
+        "en:t": "Mexico | Hidalgo",
+        "a": true,
+        "g": {
+            "lat": 20.1847,
+            "lon": -99.272
+        },
+        "it": "Tezontepec de Aldama",
+        "it:t": "Messico | Hidalgo",
+        "es": "Tezontepec de Aldama",
+        "es:t": "M\u00e9xico | Hidalgo",
+        "de": "Tezontepec de Aldama",
+        "de:t": "Mexiko | Hidalgo"
+    },
+    {
+        "en": "Ticul",
+        "en:t": "Mexico | Yucatan",
+        "a": true,
+        "g": {
+            "lat": 20.3977,
+            "lon": -89.5366
+        },
+        "it": "Ticul",
+        "it:t": "Messico | Yucatan",
+        "es": "Ticul",
+        "es:t": "M\u00e9xico | Yucat\u00e1n",
+        "de": "Ticul",
+        "de:t": "Mexiko | Yucatan"
+    },
+    {
+        "en": "Tixtla",
+        "en:t": "Mexico | Guerrero",
+        "a": true,
+        "g": {
+            "lat": 17.5677,
+            "lon": -99.3996
+        },
+        "it": "Tixtla",
+        "it:t": "Messico | Guerrero",
+        "es": "Tixtla",
+        "es:t": "M\u00e9xico | Guerrero",
+        "de": "Tixtla",
+        "de:t": "Mexiko | Guerrero"
+    },
+    {
+        "en": "Tizim\u00edn",
+        "en:t": "Mexico | Yucatan",
+        "a": true,
+        "g": {
+            "lat": 21.1455,
+            "lon": -88.1496
+        },
+        "it": "Tizim\u00edn",
+        "it:t": "Messico | Yucat\u00e1n",
+        "es": "Tizim\u00edn",
+        "es:t": "M\u00e9xico | Yucat\u00e1n",
+        "de": "Tizim\u00edn",
+        "de:t": "Mexiko | Yucat\u00e1n"
+    },
+    {
+        "en": "Tlalnepantla de Baz",
+        "en:t": "Mexico | Mexico",
+        "a": true,
+        "g": {
+            "lat": 19.5345,
+            "lon": -99.1907
+        },
+        "it": "Tlalnepantla de Baz",
+        "it:t": "Messico | Messico",
+        "es": "Tlalnepantla de Baz",
+        "es:t": "M\u00e9xico | M\u00e9xico",
+        "de": "Tlalnepantla de Baz",
+        "de:t": "Mexiko | Mexiko"
+    },
+    {
+        "en": "Tlalpan",
+        "en:t": "Mexico | Mexico",
+        "a": true,
+        "g": {
+            "lat": 19.2791,
+            "lon": -99.2114
+        },
+        "it": "Tlalpan",
+        "it:t": "Messico | Mexico",
+        "es": "Tlalpan",
+        "es:t": "M\u00e9xico | M\u00e9xico",
+        "de": "Tlalpan",
+        "de:t": "Mexiko | Mexico"
+    },
+    {
+        "en": "Tlapa de Comonfort",
+        "en:t": "Mexico | Guerrero",
+        "a": true,
+        "g": {
+            "lat": 17.5464,
+            "lon": -98.5746
+        },
+        "it": "Tlapa de Comonfort",
+        "it:t": "Messico | Guerrero",
+        "es": "Tlapa de Comonfort",
+        "es:t": "M\u00e9xico | Guerrero",
+        "de": "Tlapa de Comonfort",
+        "de:t": "Mexiko | Guerrero"
+    },
+    {
+        "en": "Tlapacoyan",
+        "en:t": "Mexico | Veracruz",
+        "a": true,
+        "g": {
+            "lat": 19.9609,
+            "lon": -97.2141
+        },
+        "it": "Tlapacoyan",
+        "it:t": "Messico | Veracruz",
+        "es": "Tlapacoyan",
+        "es:t": "M\u00e9xico | Veracruz",
+        "de": "Tlapacoyan",
+        "de:t": "Mexiko | Veracruz"
+    },
+    {
+        "en": "Tlaquiltenango",
+        "en:t": "Mexico | Morelos",
+        "a": true,
+        "g": {
+            "lat": 18.6334,
+            "lon": -99.1612
+        },
+        "it": "Tlaquiltenango",
+        "it:t": "Messico | Morelos",
+        "es": "Tlaquiltenango",
+        "es:t": "M\u00e9xico | Morelos",
+        "de": "Tlaquiltenango",
+        "de:t": "Mexiko | Morelos"
+    },
+    {
+        "en": "Tlaxcala",
+        "en:t": "Mexico",
+        "a": true,
+        "g": {
+            "lat": 19.3139,
+            "lon": -98.2404
+        },
+        "it": "Tlaxcala",
+        "it:t": "Messico",
+        "es": "Tlaxcala",
+        "es:t": "M\u00e9xico",
+        "de": "Tlaxcala",
+        "de:t": "Mexiko"
+    },
+    {
+        "en": "Tlaxcalancingo",
+        "en:t": "Mexico | Puebla",
+        "a": true,
+        "g": {
+            "lat": 19.0274,
+            "lon": -98.2773
+        },
+        "it": "Tlaxcalancingo",
+        "it:t": "Messico | Puebla",
+        "es": "Tlaxcalancingo",
+        "es:t": "M\u00e9xico | Puebla",
+        "de": "Tlaxcalancingo",
+        "de:t": "Mexiko | Puebla"
+    },
+    {
+        "en": "Tlaxiaco",
+        "en:t": "Mexico | Oaxaca",
+        "a": true,
+        "g": {
+            "lat": 17.2688,
+            "lon": -97.6796
+        },
+        "it": "Tlaxiaco",
+        "it:t": "Messico | Oaxaca",
+        "es": "Tlaxco",
+        "es:t": "M\u00e9xico | Oaxaca",
+        "de": "Tlaxiaco",
+        "de:t": "Mexiko | Oaxaca"
+    },
+    {
+        "en": "Tl\u00e1huac",
+        "en:t": "Mexico | Mexico",
+        "a": true,
+        "g": {
+            "lat": 19.299,
+            "lon": -99.0436
+        },
+        "it": "Tl\u00e1huac",
+        "it:t": "Messico | Mexico",
+        "es": "Tl\u00e1huac",
+        "es:t": "M\u00e9xico | M\u00e9xico",
+        "de": "Tl\u00e1huac",
+        "de:t": "Mexiko | Mexico"
+    },
+    {
+        "en": "Toluca",
+        "en:t": "Mexico | Mexico",
+        "a": true,
+        "g": {
+            "lat": 19.2826,
+            "lon": -99.6557
+        },
+        "it": "Toluca",
+        "it:t": "Messico | Messico",
+        "es": "Toluca",
+        "es:t": "M\u00e9xico | M\u00e9xico",
+        "de": "Toluca",
+        "de:t": "Mexiko | Mexiko"
+    },
+    {
+        "en": "Tonal\u00e1",
+        "en:t": "Mexico | Chiapas",
+        "a": true,
+        "g": {
+            "lat": 16.0869,
+            "lon": -93.7613
+        },
+        "it": "Tonal\u00e1",
+        "it:t": "Messico | Chiapas",
+        "es": "Tonal\u00e1",
+        "es:t": "M\u00e9xico | Chiapas",
+        "de": "Tonal\u00e1",
+        "de:t": "Mexiko | Chiapas"
+    },
+    {
+        "en": "Tres de Mayo",
+        "en:t": "Mexico | Morelos",
+        "a": true,
+        "g": {
+            "lat": 18.8613,
+            "lon": -99.2093
+        },
+        "it": "Tres de Mayo",
+        "it:t": "Messico | Morelos",
+        "es": "Tres de Mayo",
+        "es:t": "M\u00e9xico | Morelos",
+        "de": "Tres de Mayo",
+        "de:t": "Mexiko | Morelos"
+    },
+    {
+        "en": "Tula de Allende",
+        "en:t": "Mexico | Hidalgo",
+        "a": true,
+        "g": {
+            "lat": 20.0522,
+            "lon": -99.3442
+        },
+        "it": "Tula de Allende",
+        "it:t": "Messico | Hidalgo",
+        "es": "Tula de Allende",
+        "es:t": "M\u00e9xico | Hidalgo",
+        "de": "Tula de Allende",
+        "de:t": "Mexiko | Hidalgo"
+    },
+    {
+        "en": "Tulancingo",
+        "en:t": "Mexico | Hidalgo",
+        "a": true,
+        "g": {
+            "lat": 20.0905,
+            "lon": -98.3691
+        },
+        "it": "Tulancingo",
+        "it:t": "Messico | Hidalgo",
+        "es": "Tulancingo",
+        "es:t": "M\u00e9xico | Hidalgo",
+        "de": "Tulancingo",
+        "de:t": "Mexiko | Hidalgo"
+    },
+    {
+        "en": "Tulantepec de Lugo Guerrero",
+        "en:t": "Mexico | Hidalgo",
+        "a": true,
+        "g": {
+            "lat": 20.0427,
+            "lon": -98.3577
+        },
+        "it": "Tulantepec de Lugo Guerrero",
+        "it:t": "Messico | Hidalgo",
+        "es": "Tulantepec de Lugo Guerrero",
+        "es:t": "M\u00e9xico | Hidalgo",
+        "de": "Tulantepec de Lugo Guerrero",
+        "de:t": "Mexiko | Hidalgo"
+    },
+    {
+        "en": "Tultepec",
+        "en:t": "Mexico | Mexico",
+        "a": true,
+        "g": {
+            "lat": 19.686,
+            "lon": -99.1261
+        },
+        "it": "Tultepec",
+        "it:t": "Messico | Messico",
+        "es": "Tultepec",
+        "es:t": "M\u00e9xico | M\u00e9xico",
+        "de": "Tultepec",
+        "de:t": "Mexiko | Mexiko"
+    },
+    {
+        "en": "Tultitl\u00e1n de Mariano Escobedo",
+        "en:t": "Mexico | Mexico",
+        "a": true,
+        "g": {
+            "lat": 19.6392,
+            "lon": -99.1669
+        },
+        "it": "Tultitl\u00e1n de Mariano Escobedo",
+        "it:t": "Messico | Messico",
+        "es": "Tultitl\u00e1n de Mariano Escobedo",
+        "es:t": "M\u00e9xico | M\u00e9xico",
+        "de": "Tultitl\u00e1n de Mariano Escobedo",
+        "de:t": "Mexiko | Mexico"
+    },
+    {
+        "en": "Tuxtla Guti\u00e9rrez",
+        "en:t": "Mexico | Chiapas",
+        "a": true,
+        "g": {
+            "lat": 16.7516,
+            "lon": -93.103
+        },
+        "it": "Tuxtla Guti\u00e9rrez",
+        "it:t": "Messico | Chiapas",
+        "es": "Tuxtla Guti\u00e9rrez",
+        "es:t": "M\u00e9xico | Chiapas",
+        "de": "Tuxtla Guti\u00e9rrez",
+        "de:t": "Mexiko | Chiapas"
+    },
+    {
+        "en": "T\u00faxpam de Rodr\u00edguez Cano",
+        "en:t": "Mexico | Veracruz",
+        "a": true,
+        "g": {
+            "lat": 20.9561,
+            "lon": -97.4063
+        },
+        "it": "T\u00faxpam de Rodr\u00edguez Cano",
+        "it:t": "Messico | Veracruz",
+        "es": "T\u00faxpam de Rodr\u00edguez Cano",
+        "es:t": "M\u00e9xico | Veracruz",
+        "de": "T\u00faxpam de Rodr\u00edguez Cano",
+        "de:t": "Mexiko | Veracruz"
+    },
+    {
+        "en": "Uman",
+        "en:t": "Mexico | Yucatan",
+        "a": true,
+        "g": {
+            "lat": 20.8878,
+            "lon": -89.7481
+        },
+        "it": "Uman",
+        "it:t": "Messico | Yucatan",
+        "es": "Um\u00e1n",
+        "es:t": "M\u00e9xico | Yucat\u00e1n",
+        "de": "Uman",
+        "de:t": "Mexiko | Yucatan"
+    },
+    {
+        "en": "Valladolid",
+        "en:t": "Mexico | Yucatan",
+        "a": true,
+        "g": {
+            "lat": 20.6896,
+            "lon": -88.2022
+        },
+        "it": "Valladolid",
+        "it:t": "Messico | Yucat\u00e1n",
+        "es": "Valladolid",
+        "es:t": "M\u00e9xico | Yucat\u00e1n",
+        "de": "Valladolid",
+        "de:t": "Mexiko | Yucat\u00e1n"
+    },
+    {
+        "en": "Valle Hermoso",
+        "en:t": "Mexico | Tamaulipas",
+        "a": true,
+        "g": {
+            "lat": 25.6684,
+            "lon": -97.8159
+        },
+        "it": "Valle Hermoso",
+        "it:t": "Messico | Tamaulipas",
+        "es": "Valle Hermoso",
+        "es:t": "M\u00e9xico | Tamaulipas",
+        "de": "Valle Hermoso",
+        "de:t": "Mexiko | Tamaulipas"
+    },
+    {
+        "en": "Venceremos",
+        "en:t": "Mexico | Quer\u00e9taro",
+        "a": true,
+        "g": {
+            "lat": 20.5527,
+            "lon": -100.3968
+        },
+        "it": "Venceremos",
+        "it:t": "Messico | Quer\u00e9taro",
+        "es": "Venceremos",
+        "es:t": "M\u00e9xico",
+        "de": "Venceremos",
+        "de:t": "Mexiko | Quer\u00e9taro"
+    },
+    {
+        "en": "Venustiano Carranza",
+        "en:t": "Mexico | Chiapas",
+        "a": true,
+        "g": {
+            "lat": 16.3387,
+            "lon": -92.5621
+        },
+        "it": "Venustiano Carranza",
+        "it:t": "Messico | Chiapas",
+        "es": "Venustiano Carranza",
+        "es:t": "M\u00e9xico | Chiapas",
+        "de": "Venustiano Carranza",
+        "de:t": "Mexiko | Chiapas"
+    },
+    {
+        "en": "Villa Cuauht\u00e9moc",
+        "en:t": "Mexico | Mexico",
+        "a": true,
+        "g": {
+            "lat": 19.4162,
+            "lon": -99.5574
+        },
+        "it": "Villa Cuauht\u00e9moc",
+        "it:t": "Messico | Messico",
+        "es": "Villa Cuauht\u00e9moc",
+        "es:t": "M\u00e9xico | M\u00e9xico",
+        "de": "Villa Cuauht\u00e9moc",
+        "de:t": "Mexiko | Mexiko"
+    },
+    {
+        "en": "Villa Juarez",
+        "en:t": "Mexico",
+        "a": true,
+        "g": {
+            "lat": 24.6628,
+            "lon": -107.5472
+        },
+        "it": "Villa Juarez",
+        "it:t": "Messico",
+        "es": "Villa Juarez",
+        "es:t": "M\u00e9xico",
+        "de": "Villa Juarez",
+        "de:t": "Mexiko"
+    },
+    {
+        "en": "Villa Milpa Alta",
+        "en:t": "Mexico",
+        "a": true,
+        "g": {
+            "lat": 19.1942,
+            "lon": -99.0267
+        },
+        "it": "Villa Milpa Alta",
+        "it:t": "Messico",
+        "es": "Villa Milpa Alta",
+        "es:t": "M\u00e9xico",
+        "de": "Villa Milpa Alta",
+        "de:t": "Mexiko"
+    },
+    {
+        "en": "Villahermosa",
+        "en:t": "Mexico | Tabasco",
+        "a": true,
+        "g": {
+            "lat": 17.9895,
+            "lon": -92.9475
+        },
+        "it": "Villahermosa",
+        "it:t": "Messico | Tabasco",
+        "es": "Villahermosa",
+        "es:t": "M\u00e9xico | Tabasco",
+        "de": "Villahermosa",
+        "de:t": "Mexiko | Tabasco"
+    },
+    {
+        "en": "Xalapa",
+        "en:t": "Mexico | Veracruz",
+        "a": true,
+        "g": {
+            "lat": 19.5438,
+            "lon": -96.9102
+        },
+        "it": "Xalapa",
+        "it:t": "Messico | Veracruz",
+        "es": "Xalapa",
+        "es:t": "M\u00e9xico | Veracruz",
+        "de": "Xalapa",
+        "de:t": "Mexiko | Veracruz"
+    },
+    {
+        "en": "Xico",
+        "en:t": "Mexico | Veracruz",
+        "a": true,
+        "g": {
+            "lat": 19.4248,
+            "lon": -97.0042
+        },
+        "it": "Xico",
+        "it:t": "Messico | Veracruz",
+        "es": "Xico",
+        "es:t": "M\u00e9xico | Veracruz",
+        "de": "Xico",
+        "de:t": "Mexiko | Veracruz"
+    },
+    {
+        "en": "Xicotepec de Ju\u00e1rez",
+        "en:t": "Mexico | Puebla",
+        "a": true,
+        "g": {
+            "lat": 20.2786,
+            "lon": -97.9643
+        },
+        "it": "Xicotepec de Ju\u00e1rez",
+        "it:t": "Messico | Puebla",
+        "es": "Xicotepec de Ju\u00e1rez",
+        "es:t": "M\u00e9xico | Puebla",
+        "de": "Xicotepec de Ju\u00e1rez",
+        "de:t": "Mexiko | Puebla"
+    },
+    {
+        "en": "Xochimilco",
+        "en:t": "Mexico | Mexico",
+        "a": true,
+        "g": {
+            "lat": 19.2572,
+            "lon": -99.103
+        },
+        "it": "Xochimilco",
+        "it:t": "Messico | Mexico",
+        "es": "Xochimilco",
+        "es:t": "M\u00e9xico | M\u00e9xico",
+        "de": "Xochimilco",
+        "de:t": "Mexiko | Mexico"
+    },
+    {
+        "en": "Xochitepec",
+        "en:t": "Mexico | Morelos",
+        "a": true,
+        "g": {
+            "lat": 18.7791,
+            "lon": -99.2308
+        },
+        "it": "Xochitepec",
+        "it:t": "Messico | Morelos",
+        "es": "Xochitepec",
+        "es:t": "M\u00e9xico | Morelos",
+        "de": "Xochitepec",
+        "de:t": "Mexiko | Morelos"
+    },
+    {
+        "en": "Xonacatl\u00e1n",
+        "en:t": "Mexico | Mexico",
+        "a": true,
+        "g": {
+            "lat": 19.4042,
+            "lon": -99.5303
+        },
+        "it": "Xonacatl\u00e1n",
+        "it:t": "Messico | Mexico",
+        "es": "Xonacatl\u00e1n",
+        "es:t": "M\u00e9xico | M\u00e9xico",
+        "de": "Xonacatl\u00e1n",
+        "de:t": "Mexiko | Mexico"
+    },
+    {
+        "en": "Xoxocotla",
+        "en:t": "Mexico | Morelos",
+        "a": true,
+        "g": {
+            "lat": 18.6851,
+            "lon": -99.2461
+        },
+        "it": "Xoxocotla",
+        "it:t": "Messico | Morelos",
+        "es": "Xoxocotla",
+        "es:t": "M\u00e9xico | Morelos",
+        "de": "Xoxocotla",
+        "de:t": "Mexiko | Morelos"
+    },
+    {
+        "en": "Yautepec de Zaragoza",
+        "en:t": "Mexico | Morelos",
+        "a": true,
+        "g": {
+            "lat": 18.8892,
+            "lon": -99.0626
+        },
+        "it": "Yautepec de Zaragoza",
+        "it:t": "Messico | Morelos",
+        "es": "Yautepec de Zaragoza",
+        "es:t": "M\u00e9xico | Morelos",
+        "de": "Yautepec de Zaragoza",
+        "de:t": "Mexiko | Morelos"
+    },
+    {
+        "en": "Yecapixtla",
+        "en:t": "Mexico | Morelos",
+        "a": true,
+        "g": {
+            "lat": 18.8783,
+            "lon": -98.8611
+        },
+        "it": "Yecapixtla",
+        "it:t": "Messico | Morelos",
+        "es": "Yecapixtla",
+        "es:t": "M\u00e9xico | Morelos",
+        "de": "Yecapixtla",
+        "de:t": "Mexiko | Morelos"
+    },
+    {
+        "en": "Zacatelco",
+        "en:t": "Mexico | Tlaxcala",
+        "a": true,
+        "g": {
+            "lat": 19.1985,
+            "lon": -98.2486
+        },
+        "it": "Zacatelco",
+        "it:t": "Messico | Tlaxcala",
+        "es": "Zacatelco",
+        "es:t": "M\u00e9xico | Tlaxcala",
+        "de": "Zacatelco",
+        "de:t": "Mexiko | Tlaxcala"
+    },
+    {
+        "en": "Zacatepec de Hidalgo",
+        "en:t": "Mexico | Morelos",
+        "a": true,
+        "g": {
+            "lat": 18.6591,
+            "lon": -99.1954
+        },
+        "it": "Zacatepec de Hidalgo",
+        "it:t": "Messico | Morelos",
+        "es": "Zacatepec de Hidalgo",
+        "es:t": "M\u00e9xico | Morelos",
+        "de": "Zacatepec de Hidalgo",
+        "de:t": "Mexiko | Morelos"
+    },
+    {
+        "en": "Zacatl\u00e1n",
+        "en:t": "Mexico | Puebla",
+        "a": true,
+        "g": {
+            "lat": 19.9351,
+            "lon": -97.9612
+        },
+        "it": "Zacatl\u00e1n",
+        "it:t": "Messico | Puebla",
+        "es": "Zacatl\u00e1n",
+        "es:t": "M\u00e9xico | Puebla",
+        "de": "Zacatl\u00e1n",
+        "de:t": "Mexiko | Puebla"
+    },
+    {
+        "en": "Zacualtipan",
+        "en:t": "Mexico | Hidalgo",
+        "a": true,
+        "g": {
+            "lat": 20.6485,
+            "lon": -98.6577
+        },
+        "it": "Zacualtip\u00e1n",
+        "it:t": "Messico | Hidalgo",
+        "es": "Zacualtip\u00e1n",
+        "es:t": "M\u00e9xico | Hidalgo",
+        "de": "Zacualtipan",
+        "de:t": "Mexiko | Hidalgo"
+    },
+    {
+        "en": "Zit\u00e1cuaro",
+        "en:t": "Mexico | Michoac\u00e1n",
+        "a": true,
+        "g": {
+            "lat": 19.4323,
+            "lon": -100.3554
+        },
+        "it": "Zit\u00e1cuaro",
+        "it:t": "Messico | Michoac\u00e1n",
+        "es": "Zit\u00e1cuaro",
+        "es:t": "M\u00e9xico | Michoac\u00e1n",
+        "de": "Zit\u00e1cuaro",
+        "de:t": "Mexiko | Michoac\u00e1n"
+    },
+    {
+        "en": "Zumpango",
+        "en:t": "Mexico | Mexico",
+        "a": true,
+        "g": {
+            "lat": 19.8039,
+            "lon": -99.0931
+        },
+        "it": "Zumpango",
+        "it:t": "Messico | Mexico",
+        "es": "Zumpango",
+        "es:t": "M\u00e9xico | M\u00e9xico",
+        "de": "Zumpango",
+        "de:t": "Mexiko | Mexiko"
+    },
+    {
+        "en": "Zumpango del R\u00edo",
+        "en:t": "Mexico | Guerrero",
+        "a": true,
+        "g": {
+            "lat": 17.6539,
+            "lon": -99.5256
+        },
+        "it": "Zumpango del R\u00edo",
+        "it:t": "Messico | Guerrero",
+        "es": "Zumpango del R\u00edo",
+        "es:t": "M\u00e9xico | Guerrero",
+        "de": "Zumpango del R\u00edo",
+        "de:t": "Mexiko | Guerrero"
+    },
+    {
+        "en": "\u00c1lamo",
+        "en:t": "Mexico | Veracruz",
+        "a": true,
+        "g": {
+            "lat": 20.9064,
+            "lon": -97.6738
+        },
+        "it": "\u00c1lamo",
+        "it:t": "Messico | Veracruz",
+        "es": "\u00c1lamo",
+        "es:t": "M\u00e9xico | Veracruz",
+        "de": "\u00c1lamo",
+        "de:t": "Mexiko | Veracruz"
+    },
+    {
+        "en": "\u00c1lvaro Obreg\u00f3n",
+        "en:t": "Mexico | Mexico",
+        "a": true,
+        "g": {
+            "lat": 19.3605,
+            "lon": -99.2267
+        },
+        "it": "\u00c1lvaro Obreg\u00f3n",
+        "it:t": "Messico | Mexico",
+        "es": "\u00c1lvaro Obreg\u00f3n",
+        "es:t": "M\u00e9xico | M\u00e9xico",
+        "de": "\u00c1lvaro Obreg\u00f3n",
+        "de:t": "Mexiko | Mexico"
+    }
+]

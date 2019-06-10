@@ -1,0 +1,1607 @@
+[
+    {
+        "en": "Albufeira",
+        "en:t": "Portugal | Faro",
+        "a": true,
+        "g": {
+            "lat": 37.0891,
+            "lon": -8.2479
+        },
+        "it": "Albufeira",
+        "it:t": "Portogallo | Faro",
+        "es": "Albufeira",
+        "es:t": "Portugal | Faro",
+        "de": "Albufeira",
+        "de:t": "Portugal | Faro"
+    },
+    {
+        "en": "Alcabideche",
+        "en:t": "Portugal",
+        "a": true,
+        "g": {
+            "lat": 38.7331,
+            "lon": -9.4098
+        },
+        "it": "Alcabideche",
+        "it:t": "Portogallo",
+        "es": "Alcabideche",
+        "es:t": "Portugal",
+        "de": "Alcabideche",
+        "de:t": "Portugal"
+    },
+    {
+        "en": "Alg\u00e9s",
+        "en:t": "Portugal",
+        "a": true,
+        "g": {
+            "lat": 38.7011,
+            "lon": -9.2308
+        },
+        "it": "Alg\u00e9s",
+        "it:t": "Portogallo",
+        "es": "Alg\u00e9s",
+        "es:t": "Portugal",
+        "de": "Alg\u00e9s",
+        "de:t": "Portugal"
+    },
+    {
+        "en": "Almada",
+        "en:t": "Portugal | Setubal",
+        "a": true,
+        "g": {
+            "lat": 38.6765,
+            "lon": -9.1651
+        },
+        "it": "Almada",
+        "it:t": "Portogallo | Set\u00fabal",
+        "es": "Almada",
+        "es:t": "Portugal | Set\u00fabal",
+        "de": "Almada",
+        "de:t": "Portugal | Set\u00fabal"
+    },
+    {
+        "en": "Amadora",
+        "en:t": "Portugal | Lisbon",
+        "a": true,
+        "g": {
+            "lat": 38.7578,
+            "lon": -9.2245
+        },
+        "it": "Amadora",
+        "it:t": "Portogallo | Lisbona",
+        "es": "Amadora",
+        "es:t": "Portugal | Lisboa",
+        "de": "Amadora",
+        "de:t": "Portugal | Lissabon"
+    },
+    {
+        "en": "Amora",
+        "en:t": "Portugal | Setubal",
+        "a": true,
+        "g": {
+            "lat": 38.6201,
+            "lon": -9.1345
+        },
+        "it": "Amora",
+        "it:t": "Portogallo | Set\u00fabal",
+        "es": "Amora",
+        "es:t": "Portugal | Set\u00fabal",
+        "de": "Amora",
+        "de:t": "Portugal | Set\u00fabal"
+    },
+    {
+        "en": "Arrentela",
+        "en:t": "Portugal",
+        "a": true,
+        "g": {
+            "lat": 38.6266,
+            "lon": -9.1038
+        },
+        "it": "Arrentela",
+        "it:t": "Portogallo",
+        "es": "Arrentela",
+        "es:t": "Portugal",
+        "de": "Arrentela",
+        "de:t": "Portugal"
+    },
+    {
+        "en": "Aveiro",
+        "en:t": "Portugal",
+        "a": true,
+        "g": {
+            "lat": 40.6405,
+            "lon": -8.6538
+        },
+        "it": "Aveiro",
+        "it:t": "Portogallo",
+        "es": "Aveiro",
+        "es:t": "Portugal",
+        "de": "Aveiro",
+        "de:t": "Portugal"
+    },
+    {
+        "en": "Baguim do Monte",
+        "en:t": "Portugal",
+        "a": true,
+        "g": {
+            "lat": 41.1919,
+            "lon": -8.5412
+        },
+        "it": "Baguim do Monte",
+        "it:t": "Portogallo",
+        "es": "Baguim do Monte",
+        "es:t": "Portugal",
+        "de": "Baguim do Monte",
+        "de:t": "Portugal"
+    },
+    {
+        "en": "Barreiro",
+        "en:t": "Portugal | Setubal",
+        "a": true,
+        "g": {
+            "lat": 38.6608,
+            "lon": -9.0791
+        },
+        "it": "Barreiro",
+        "it:t": "Portogallo | Set\u00fabal",
+        "es": "Barreiro",
+        "es:t": "Portugal | Set\u00fabal",
+        "de": "Barreiro",
+        "de:t": "Portugal | Set\u00fabal"
+    },
+    {
+        "en": "Beja",
+        "en:t": "Portugal",
+        "a": true,
+        "g": {
+            "lat": 38.0153,
+            "lon": -7.8627
+        },
+        "it": "Beja",
+        "it:t": "Portogallo",
+        "es": "Beja",
+        "es:t": "Portugal",
+        "de": "Beja",
+        "de:t": "Portugal"
+    },
+    {
+        "en": "Belas",
+        "en:t": "Portugal",
+        "a": true,
+        "g": {
+            "lat": 38.7764,
+            "lon": -9.2642
+        },
+        "it": "Belas",
+        "it:t": "Portogallo",
+        "es": "Belas",
+        "es:t": "Portugal",
+        "de": "Belas",
+        "de:t": "Portugal"
+    },
+    {
+        "en": "Bougado",
+        "en:t": "Portugal | Porto",
+        "a": true,
+        "g": {
+            "lat": 41.3369,
+            "lon": -8.5737
+        },
+        "it": "Bougado",
+        "it:t": "Portogallo | Porto",
+        "es": "Bougado",
+        "es:t": "Portugal | Oporto",
+        "de": "Bougado",
+        "de:t": "Portugal | Porto"
+    },
+    {
+        "en": "Braga",
+        "en:t": "Portugal",
+        "a": true,
+        "g": {
+            "lat": 41.5454,
+            "lon": -8.4265
+        },
+        "it": "Braga",
+        "it:t": "Portogallo",
+        "es": "Braga",
+        "es:t": "Portugal",
+        "de": "Braga",
+        "de:t": "Portugal"
+    },
+    {
+        "en": "Bragan\u00e7a",
+        "en:t": "Portugal | Bragan\u00e7a",
+        "a": true,
+        "g": {
+            "lat": 41.8061,
+            "lon": -6.7567
+        },
+        "it": "Braganza",
+        "it:t": "Portogallo | Braganza",
+        "es": "Braganza",
+        "es:t": "Portugal | Braganza",
+        "de": "Bragan\u00e7a",
+        "de:t": "Portugal | Bragan\u00e7a"
+    },
+    {
+        "en": "Cac\u00e9m",
+        "en:t": "Portugal | Lisboa",
+        "a": true,
+        "g": {
+            "lat": 38.7711,
+            "lon": -9.3033
+        },
+        "it": "Agualva-Cac\u00e9m",
+        "it:t": "Portogallo | Lisbona",
+        "es": "Cac\u00e9m",
+        "es:t": "Portugal | Lisboa",
+        "de": "Agualva-Cac\u00e9m",
+        "de:t": "Portugal | Lissabon"
+    },
+    {
+        "en": "Caldas da Rainha",
+        "en:t": "Portugal | Leiria",
+        "a": true,
+        "g": {
+            "lat": 39.4049,
+            "lon": -9.1354
+        },
+        "it": "Caldas da Rainha",
+        "it:t": "Portogallo | Leiria",
+        "es": "Caldas da Rainha",
+        "es:t": "Portugal | Leiria",
+        "de": "Caldas da Rainha",
+        "de:t": "Portugal | Leiria"
+    },
+    {
+        "en": "Camarate",
+        "en:t": "Portugal | Lisbon",
+        "a": true,
+        "g": {
+            "lat": 38.8028,
+            "lon": -9.1393
+        },
+        "it": "Camarate",
+        "it:t": "Portogallo | Lisbon",
+        "es": "Camarate",
+        "es:t": "Portugal | Lisboa",
+        "de": "Camarate",
+        "de:t": "Portugal | Lissabon"
+    },
+    {
+        "en": "Canidelo",
+        "en:t": "Portugal | Vila Nova de Gaia",
+        "a": true,
+        "g": {
+            "lat": 41.1233,
+            "lon": -8.6462
+        },
+        "it": "Canidelo",
+        "it:t": "Portogallo | Vila Nova de Gaia",
+        "es": "Canidelo",
+        "es:t": "Portugal | Vila Nova de Gaia",
+        "de": "Canidelo",
+        "de:t": "Portugal | Vila Nova de Gaia"
+    },
+    {
+        "en": "Carcavelos",
+        "en:t": "Portugal | Lisbon",
+        "a": true,
+        "g": {
+            "lat": 38.6879,
+            "lon": -9.3378
+        },
+        "it": "Carcavelos",
+        "it:t": "Portogallo | Lisbon",
+        "es": "Carcavelos",
+        "es:t": "Portugal | Lisboa",
+        "de": "Carcavelos",
+        "de:t": "Portugal | Lissabon"
+    },
+    {
+        "en": "Carnaxide",
+        "en:t": "Portugal | Lisbon",
+        "a": true,
+        "g": {
+            "lat": 38.7238,
+            "lon": -9.237
+        },
+        "it": "Carnaxide",
+        "it:t": "Portogallo | Lisbon",
+        "es": "Carnaxide",
+        "es:t": "Portugal | Lisboa",
+        "de": "Carnaxide",
+        "de:t": "Portugal | Lissabon"
+    },
+    {
+        "en": "Cascais",
+        "en:t": "Portugal | Lisbon",
+        "a": true,
+        "g": {
+            "lat": 38.6968,
+            "lon": -9.4207
+        },
+        "it": "Cascais",
+        "it:t": "Portogallo | Lisbon",
+        "es": "Cascaes",
+        "es:t": "Portugal | Lisboa",
+        "de": "Cascais",
+        "de:t": "Portugal | Lissabon"
+    },
+    {
+        "en": "Castelo Branco",
+        "en:t": "Portugal",
+        "a": true,
+        "g": {
+            "lat": 39.8031,
+            "lon": -7.4598
+        },
+        "it": "Castelo Branco",
+        "it:t": "Portogallo",
+        "es": "Castelo Branco",
+        "es:t": "Portugal",
+        "de": "Castelo Branco",
+        "de:t": "Portugal"
+    },
+    {
+        "en": "Charneca",
+        "en:t": "Portugal | Set\u00fabal",
+        "a": true,
+        "g": {
+            "lat": 38.623,
+            "lon": -9.1938
+        },
+        "it": "Charneca",
+        "it:t": "Portogallo | Set\u00fabal",
+        "es": "Charneca",
+        "es:t": "Portugal | Set\u00fabal",
+        "de": "Charneca",
+        "de:t": "Portugal | Set\u00fabal"
+    },
+    {
+        "en": "Coimbra",
+        "en:t": "Portugal | Coimbra",
+        "a": true,
+        "g": {
+            "lat": 40.2033,
+            "lon": -8.4103
+        },
+        "it": "Coimbra",
+        "it:t": "Portogallo | Coimbra",
+        "es": "Co\u00edmbra",
+        "es:t": "Portugal | Co\u00edmbra",
+        "de": "Coimbra",
+        "de:t": "Portugal | Coimbra"
+    },
+    {
+        "en": "Corroios",
+        "en:t": "Portugal",
+        "a": true,
+        "g": {
+            "lat": 38.64,
+            "lon": -9.1502
+        },
+        "it": "Corroios",
+        "it:t": "Portogallo",
+        "es": "Corroios",
+        "es:t": "Portugal",
+        "de": "Corroios",
+        "de:t": "Portugal"
+    },
+    {
+        "en": "Costa da Caparica",
+        "en:t": "Portugal | Setubal",
+        "a": true,
+        "g": {
+            "lat": 38.6446,
+            "lon": -9.2334
+        },
+        "it": "Costa de Caparica",
+        "it:t": "Portogallo | Set\u00fabal",
+        "es": "Costa de Caparica",
+        "es:t": "Portugal | Set\u00fabal",
+        "de": "Costa da Caparica",
+        "de:t": "Portugal | Set\u00fabal"
+    },
+    {
+        "en": "Covilha",
+        "en:t": "Portugal | Castelo Branco",
+        "a": true,
+        "g": {
+            "lat": 40.2804,
+            "lon": -7.4922
+        },
+        "it": "Covilh\u00e3",
+        "it:t": "Portogallo | Castelo Branco",
+        "es": "Covilh\u00e3",
+        "es:t": "Portugal | Castelo Branco",
+        "de": "Covilh\u00e3",
+        "de:t": "Portugal | Castelo Branco"
+    },
+    {
+        "en": "Cust\u00f3ias",
+        "en:t": "Portugal | Guarda",
+        "a": true,
+        "g": {
+            "lat": 41.104,
+            "lon": -7.3139
+        },
+        "it": "Cust\u00f3ias",
+        "it:t": "Portogallo | Guarda",
+        "es": "Cust\u00f3ias",
+        "es:t": "Portugal | Guarda",
+        "de": "Cust\u00f3ias",
+        "de:t": "Portugal | Guarda"
+    },
+    {
+        "en": "C\u00e2mara De Lobos",
+        "en:t": "Portugal | Madeira",
+        "a": true,
+        "g": {
+            "lat": 32.6611,
+            "lon": -16.986
+        },
+        "it": "C\u00e2mara de Lobos",
+        "it:t": "Portogallo | Madera",
+        "es": "C\u00e2mara de Lobos",
+        "es:t": "Portugal | Madeira",
+        "de": "C\u00e2mara de Lobos",
+        "de:t": "Portugal | Madeira"
+    },
+    {
+        "en": "Entroncamento",
+        "en:t": "Portugal | Santar\u00e9m",
+        "a": true,
+        "g": {
+            "lat": 39.4611,
+            "lon": -8.4788
+        },
+        "it": "Entroncamento",
+        "it:t": "Portogallo | Santar\u00e9m",
+        "es": "Entroncamento",
+        "es:t": "Portugal | Santar\u00e9m",
+        "de": "Entroncamento",
+        "de:t": "Portugal | Santar\u00e9m"
+    },
+    {
+        "en": "Ermesinde",
+        "en:t": "Portugal | Porto",
+        "a": true,
+        "g": {
+            "lat": 41.2091,
+            "lon": -8.5446
+        },
+        "it": "Ermesinde",
+        "it:t": "Portogallo | Porto",
+        "es": "Ermesinde",
+        "es:t": "Portugal | Oporto",
+        "de": "Ermesinde",
+        "de:t": "Portugal | Porto"
+    },
+    {
+        "en": "Esposende",
+        "en:t": "Portugal | Braga",
+        "a": true,
+        "g": {
+            "lat": 41.5309,
+            "lon": -8.7806
+        },
+        "it": "Esposende",
+        "it:t": "Portogallo | Braga",
+        "es": "Esposende",
+        "es:t": "Portugal | Braga",
+        "de": "Esposende",
+        "de:t": "Portugal | Braga"
+    },
+    {
+        "en": "Estoril",
+        "en:t": "Portugal | Lisbon",
+        "a": true,
+        "g": {
+            "lat": 38.7133,
+            "lon": -9.3937
+        },
+        "it": "Estoril",
+        "it:t": "Portogallo | Lisbona",
+        "es": "Estoril",
+        "es:t": "Portugal | Lisboa",
+        "de": "Estoril",
+        "de:t": "Portugal | Lissabon"
+    },
+    {
+        "en": "Evora",
+        "en:t": "Portugal",
+        "a": true,
+        "g": {
+            "lat": 38.5714,
+            "lon": -7.9135
+        },
+        "it": "\u00c9vora",
+        "it:t": "Portogallo",
+        "es": "\u00c9vora",
+        "es:t": "Portugal",
+        "de": "\u00c9vora",
+        "de:t": "Portugal"
+    },
+    {
+        "en": "Fafe",
+        "en:t": "Portugal | Braga",
+        "a": true,
+        "g": {
+            "lat": 41.4508,
+            "lon": -8.1729
+        },
+        "it": "Fafe",
+        "it:t": "Portogallo | Braga",
+        "es": "Fafe",
+        "es:t": "Portugal | Braga",
+        "de": "Fafe",
+        "de:t": "Portugal | Braga"
+    },
+    {
+        "en": "Faro",
+        "en:t": "Portugal",
+        "a": true,
+        "g": {
+            "lat": 37.0194,
+            "lon": -7.9304
+        },
+        "it": "Faro",
+        "it:t": "Portogallo",
+        "es": "Faro",
+        "es:t": "Portugal",
+        "de": "Faro",
+        "de:t": "Portugal"
+    },
+    {
+        "en": "Feira",
+        "en:t": "Portugal | Santa Maria da Feira",
+        "a": true,
+        "g": {
+            "lat": 40.9281,
+            "lon": -8.5556
+        },
+        "it": "Feira",
+        "it:t": "Portogallo | Santa Maria da Feira",
+        "es": "Feira",
+        "es:t": "Portugal | Santa Maria da Feira",
+        "de": "Feira",
+        "de:t": "Portugal | Santa Maria da Feira"
+    },
+    {
+        "en": "Funchal",
+        "en:t": "Portugal | Madeira",
+        "a": true,
+        "g": {
+            "lat": 32.6669,
+            "lon": -16.9241
+        },
+        "it": "Funchal",
+        "it:t": "Portogallo | Madera",
+        "es": "Funchal",
+        "es:t": "Portugal | Madeira",
+        "de": "Funchal",
+        "de:t": "Portugal | Madeira"
+    },
+    {
+        "en": "F\u00e2nzeres",
+        "en:t": "Portugal",
+        "a": true,
+        "g": {
+            "lat": 41.1667,
+            "lon": -8.5271
+        },
+        "it": "F\u00e2nzeres",
+        "it:t": "Portogallo",
+        "es": "F\u00e2nzeres",
+        "es:t": "Portugal",
+        "de": "F\u00e2nzeres",
+        "de:t": "Portugal"
+    },
+    {
+        "en": "Gondomar",
+        "en:t": "Portugal | Porto",
+        "a": true,
+        "g": {
+            "lat": 41.1396,
+            "lon": -8.5291
+        },
+        "it": "Gondomar",
+        "it:t": "Portogallo | Oporto",
+        "es": "Gondomar",
+        "es:t": "Portugal | Oporto",
+        "de": "Gondomar",
+        "de:t": "Portugal | Porto"
+    },
+    {
+        "en": "Guarda",
+        "en:t": "Portugal",
+        "a": true,
+        "g": {
+            "lat": 40.5383,
+            "lon": -7.2661
+        },
+        "it": "Guarda",
+        "it:t": "Portogallo",
+        "es": "Guarda",
+        "es:t": "Portugal",
+        "de": "Guarda",
+        "de:t": "Portugal"
+    },
+    {
+        "en": "Lagos",
+        "en:t": "Portugal | Faro",
+        "a": true,
+        "g": {
+            "lat": 37.1028,
+            "lon": -8.673
+        },
+        "it": "Lagos",
+        "it:t": "Portogallo | Faro",
+        "es": "Lagos",
+        "es:t": "Portugal | Faro",
+        "de": "Lagos",
+        "de:t": "Portugal | Faro"
+    },
+    {
+        "en": "Laranjeiro",
+        "en:t": "Portugal | Moncarapacho",
+        "a": true,
+        "g": {
+            "lat": 37.0683,
+            "lon": -7.8078
+        },
+        "it": "Laranjeiro",
+        "it:t": "Portogallo | Moncarapacho",
+        "es": "Laranjeiro",
+        "es:t": "Portugal | Moncarapacho",
+        "de": "Laranjeiro",
+        "de:t": "Portugal | Moncarapacho"
+    },
+    {
+        "en": "Leiria",
+        "en:t": "Portugal",
+        "a": true,
+        "g": {
+            "lat": 39.7495,
+            "lon": -8.8077
+        },
+        "it": "Leiria",
+        "it:t": "Portogallo",
+        "es": "Leiria",
+        "es:t": "Portugal",
+        "de": "Leiria",
+        "de:t": "Portugal"
+    },
+    {
+        "en": "Le\u00e7a da Palmeira",
+        "en:t": "Portugal",
+        "a": true,
+        "g": {
+            "lat": 41.2015,
+            "lon": -8.6963
+        },
+        "it": "Le\u00e7a da Palmeira",
+        "it:t": "Portogallo",
+        "es": "Le\u00e7a da Palmeira",
+        "es:t": "Portugal",
+        "de": "Le\u00e7a da Palmeira",
+        "de:t": "Portugal"
+    },
+    {
+        "en": "Le\u00e7a do Balio",
+        "en:t": "Portugal | Porto",
+        "a": true,
+        "g": {
+            "lat": 41.2122,
+            "lon": -8.6339
+        },
+        "it": "Le\u00e7a do Balio",
+        "it:t": "Portogallo | Porto",
+        "es": "Le\u00e7a do Balio",
+        "es:t": "Portugal | Oporto",
+        "de": "Le\u00e7a do Balio",
+        "de:t": "Portugal | Porto"
+    },
+    {
+        "en": "Linda-a-Velha",
+        "en:t": "Portugal | Lisbon",
+        "a": true,
+        "g": {
+            "lat": 38.7149,
+            "lon": -9.2417
+        },
+        "it": "Linda-a-Velha",
+        "it:t": "Portogallo | Lisbon",
+        "es": "Linda-a-Velha",
+        "es:t": "Portugal | Lisboa",
+        "de": "Linda-a-Velha",
+        "de:t": "Portugal | Lissabon"
+    },
+    {
+        "en": "Lisbon",
+        "en:t": "Portugal",
+        "a": true,
+        "g": {
+            "lat": 38.7223,
+            "lon": -9.1393
+        },
+        "it": "Lisbona",
+        "it:t": "Portogallo",
+        "es": "Lisboa",
+        "es:t": "Portugal",
+        "de": "Lissabon",
+        "de:t": "Portugal"
+    },
+    {
+        "en": "Loul\u00e9",
+        "en:t": "Portugal | Faro",
+        "a": true,
+        "g": {
+            "lat": 37.1379,
+            "lon": -8.0202
+        },
+        "it": "Loul\u00e9",
+        "it:t": "Portogallo | Faro",
+        "es": "Loul\u00e9",
+        "es:t": "Portugal | Faro",
+        "de": "Loul\u00e9",
+        "de:t": "Portugal | Faro"
+    },
+    {
+        "en": "Loures",
+        "en:t": "Portugal | Lisbon",
+        "a": true,
+        "g": {
+            "lat": 38.8315,
+            "lon": -9.1741
+        },
+        "it": "Loures",
+        "it:t": "Portogallo | Lisbona",
+        "es": "Loures",
+        "es:t": "Portugal | Lisboa",
+        "de": "Loures",
+        "de:t": "Portugal | Lissabon"
+    },
+    {
+        "en": "Maia",
+        "en:t": "Portugal | Porto",
+        "a": true,
+        "g": {
+            "lat": 41.2279,
+            "lon": -8.621
+        },
+        "it": "Maia",
+        "it:t": "Portogallo | Oporto",
+        "es": "Maia",
+        "es:t": "Portugal | Oporto",
+        "de": "Maia",
+        "de:t": "Portugal | Porto"
+    },
+    {
+        "en": "Matosinhos",
+        "en:t": "Portugal | Porto",
+        "a": true,
+        "g": {
+            "lat": 41.1844,
+            "lon": -8.6963
+        },
+        "it": "Matosinhos",
+        "it:t": "Portogallo | Oporto",
+        "es": "Matosinhos",
+        "es:t": "Portugal | Oporto",
+        "de": "Matosinhos",
+        "de:t": "Portugal | Porto"
+    },
+    {
+        "en": "Moita",
+        "en:t": "Portugal | Setubal",
+        "a": true,
+        "g": {
+            "lat": 38.6529,
+            "lon": -8.9901
+        },
+        "it": "Moita",
+        "it:t": "Portogallo | Set\u00fabal",
+        "es": "Moita",
+        "es:t": "Portugal | Set\u00fabal",
+        "de": "Moita",
+        "de:t": "Portugal | Set\u00fabal"
+    },
+    {
+        "en": "Monsanto",
+        "en:t": "Portugal | Santar\u00e9m",
+        "a": true,
+        "g": {
+            "lat": 39.4618,
+            "lon": -8.7121
+        },
+        "it": "Monsanto",
+        "it:t": "Portogallo | Santar\u00e9m",
+        "es": "Monsanto",
+        "es:t": "Portugal | Santar\u00e9m",
+        "de": "Monsanto",
+        "de:t": "Portugal | Santar\u00e9m"
+    },
+    {
+        "en": "Monte Estoril",
+        "en:t": "Portugal | Estoril",
+        "a": true,
+        "g": {
+            "lat": 38.707,
+            "lon": -9.405
+        },
+        "it": "Monte Estoril",
+        "it:t": "Portogallo | Estoril",
+        "es": "Monte Estoril",
+        "es:t": "Portugal | Estoril",
+        "de": "Monte Estoril",
+        "de:t": "Portugal | Estoril"
+    },
+    {
+        "en": "Montijo",
+        "en:t": "Portugal | Setubal",
+        "a": true,
+        "g": {
+            "lat": 38.7055,
+            "lon": -8.9761
+        },
+        "it": "Montijo",
+        "it:t": "Portogallo | Setubal",
+        "es": "Montijo",
+        "es:t": "Portugal | Set\u00fabal",
+        "de": "Montijo",
+        "de:t": "Portugal | Setubal"
+    },
+    {
+        "en": "Mon\u00e7\u00e3o",
+        "en:t": "Portugal | Viana do Castelo",
+        "a": true,
+        "g": {
+            "lat": 42.0772,
+            "lon": -8.4819
+        },
+        "it": "Mon\u00e7\u00e3o",
+        "it:t": "Portogallo | Viana do Castelo",
+        "es": "Mon\u00e7\u00e3o",
+        "es:t": "Portugal | Viana do Castelo",
+        "de": "Mon\u00e7\u00e3o",
+        "de:t": "Portugal | Viana do Castelo"
+    },
+    {
+        "en": "Barcelos",
+        "en:t": "Portugal | Braga",
+        "a": true,
+        "g": {
+            "lat": 41.5421,
+            "lon": -8.4407
+        },
+        "it": "Barcelos",
+        "it:t": "Portogallo | Braga",
+        "es": "Barcelos",
+        "es:t": "Portugal | Braga",
+        "de": "Barcelos",
+        "de:t": "Portugal | Braga"
+    },
+    {
+        "en": "Odivelas",
+        "en:t": "Portugal | Lisbon",
+        "a": true,
+        "g": {
+            "lat": 38.7954,
+            "lon": -9.1852
+        },
+        "it": "Odivelas",
+        "it:t": "Portogallo | Lisbona",
+        "es": "Odivelas",
+        "es:t": "Portugal | Lisboa",
+        "de": "Odivelas",
+        "de:t": "Portugal | Lissabon"
+    },
+    {
+        "en": "Olh\u00e3o",
+        "en:t": "Portugal | Faro",
+        "a": true,
+        "g": {
+            "lat": 37.026,
+            "lon": -7.8424
+        },
+        "it": "Olh\u00e3o",
+        "it:t": "Portogallo | Faro",
+        "es": "Olh\u00e3o",
+        "es:t": "Portugal | Faro",
+        "de": "Olh\u00e3o",
+        "de:t": "Portugal | Faro"
+    },
+    {
+        "en": "Oliveira do Douro",
+        "en:t": "Portugal | Vila Nova de Gaia",
+        "a": true,
+        "g": {
+            "lat": 41.126,
+            "lon": -8.5807
+        },
+        "it": "Oliveira do Douro",
+        "it:t": "Portogallo | Vila Nova de Gaia",
+        "es": "Oliveira do Douro",
+        "es:t": "Portugal | Vila Nova de Gaia",
+        "de": "Oliveira do Douro",
+        "de:t": "Portugal | Vila Nova de Gaia"
+    },
+    {
+        "en": "Ovar",
+        "en:t": "Portugal | Aveiro",
+        "a": true,
+        "g": {
+            "lat": 40.8596,
+            "lon": -8.6253
+        },
+        "it": "Ovar",
+        "it:t": "Portogallo | Aveiro",
+        "es": "Ovar",
+        "es:t": "Portugal | Aveiro",
+        "de": "Ovar",
+        "de:t": "Portugal | Aveiro"
+    },
+    {
+        "en": "Palmela",
+        "en:t": "Portugal | Setubal",
+        "a": true,
+        "g": {
+            "lat": 38.5694,
+            "lon": -8.9017
+        },
+        "it": "Palmela",
+        "it:t": "Portogallo | Set\u00fabal",
+        "es": "Palmela",
+        "es:t": "Portugal | Set\u00fabal",
+        "de": "Palmela",
+        "de:t": "Portugal | Set\u00fabal"
+    },
+    {
+        "en": "Parede",
+        "en:t": "Portugal | Lisbon",
+        "a": true,
+        "g": {
+            "lat": 38.6929,
+            "lon": -9.3553
+        },
+        "it": "Parede",
+        "it:t": "Portogallo | Lisbon",
+        "es": "Parede",
+        "es:t": "Portugal | Lisboa",
+        "de": "Parede",
+        "de:t": "Portugal | Lissabon"
+    },
+    {
+        "en": "Pa\u00e7o de Arcos",
+        "en:t": "Portugal | Lisbon",
+        "a": true,
+        "g": {
+            "lat": 38.6968,
+            "lon": -9.2916
+        },
+        "it": "Pa\u00e7o de Arcos",
+        "it:t": "Portogallo | Lisbon",
+        "es": "Pa\u00e7o de Arcos",
+        "es:t": "Portugal | Lisboa",
+        "de": "Pa\u00e7o de Arcos",
+        "de:t": "Portugal | Lissabon"
+    },
+    {
+        "en": "Pedroso",
+        "en:t": "Portugal",
+        "a": true,
+        "g": {
+            "lat": 41.0636,
+            "lon": -8.5584
+        },
+        "it": "Pedroso",
+        "it:t": "Portogallo",
+        "es": "Pedroso",
+        "es:t": "Portugal",
+        "de": "Pedroso",
+        "de:t": "Portugal"
+    },
+    {
+        "en": "Peniche, Portugal",
+        "en:t": "Portugal | Leiria",
+        "a": true,
+        "g": {
+            "lat": 39.3603,
+            "lon": -9.3876
+        },
+        "it": "Peniche",
+        "it:t": "Portogallo | Leiria",
+        "es": "Peniche",
+        "es:t": "Portugal | Leiria",
+        "de": "Peniche",
+        "de:t": "Portugal | Leiria"
+    },
+    {
+        "en": "Pinhal Novo",
+        "en:t": "Portugal",
+        "a": true,
+        "g": {
+            "lat": 38.6319,
+            "lon": -8.9151
+        },
+        "it": "Pinhal Novo",
+        "it:t": "Portogallo",
+        "es": "Pinhal Novo",
+        "es:t": "Portugal",
+        "de": "Pinhal Novo",
+        "de:t": "Portugal"
+    },
+    {
+        "en": "Pombal",
+        "en:t": "Portugal | Leiria",
+        "a": true,
+        "g": {
+            "lat": 39.9168,
+            "lon": -8.6321
+        },
+        "it": "Pombal",
+        "it:t": "Portogallo | Leiria",
+        "es": "Pombal",
+        "es:t": "Portugal | Leiria",
+        "de": "Pombal",
+        "de:t": "Portugal | Leiria"
+    },
+    {
+        "en": "Ponta Delgada",
+        "en:t": "Portugal | Azores",
+        "a": true,
+        "g": {
+            "lat": 37.7394,
+            "lon": -25.6687
+        },
+        "it": "Ponta Delgada",
+        "it:t": "Portogallo | Azzorre",
+        "es": "Ponta Delgada",
+        "es:t": "Portugal | Azores",
+        "de": "Ponta Delgada",
+        "de:t": "Portugal | Azoren"
+    },
+    {
+        "en": "Ponte de Lima",
+        "en:t": "Portugal | Viana do Castelo",
+        "a": true,
+        "g": {
+            "lat": 41.7647,
+            "lon": -8.5827
+        },
+        "it": "Ponte de Lima",
+        "it:t": "Portogallo | Viana do Castelo",
+        "es": "Ponte de Lima",
+        "es:t": "Portugal | Viana do Castelo",
+        "de": "Ponte de Lima",
+        "de:t": "Portugal | Viana do Castelo"
+    },
+    {
+        "en": "Pontinha",
+        "en:t": "Portugal",
+        "a": true,
+        "g": {
+            "lat": 38.7666,
+            "lon": -9.2006
+        },
+        "it": "Pontinha",
+        "it:t": "Portogallo",
+        "es": "Pontinha",
+        "es:t": "Portugal",
+        "de": "Pontinha",
+        "de:t": "Portugal"
+    },
+    {
+        "en": "Portalegre",
+        "en:t": "Portugal | Portalegre",
+        "a": true,
+        "g": {
+            "lat": 39.2967,
+            "lon": -7.4285
+        },
+        "it": "Portalegre",
+        "it:t": "Portogallo | Portalegre",
+        "es": "Portalegre",
+        "es:t": "Portugal | Portalegre",
+        "de": "Portalegre",
+        "de:t": "Portugal | Portalegre"
+    },
+    {
+        "en": "Portim\u00e3o",
+        "en:t": "Portugal | Faro",
+        "a": true,
+        "g": {
+            "lat": 37.1362,
+            "lon": -8.5377
+        },
+        "it": "Portim\u00e3o",
+        "it:t": "Portogallo | Faro",
+        "es": "Portim\u00e3o",
+        "es:t": "Portugal | Faro",
+        "de": "Portim\u00e3o",
+        "de:t": "Portugal | Faro"
+    },
+    {
+        "en": "Porto",
+        "en:t": "Portugal",
+        "a": true,
+        "g": {
+            "lat": 41.1579,
+            "lon": -8.6291
+        },
+        "it": "Porto",
+        "it:t": "Portogallo",
+        "es": "Oporto",
+        "es:t": "Portugal",
+        "de": "Porto",
+        "de:t": "Portugal"
+    },
+    {
+        "en": "Povoa de Varzim",
+        "en:t": "Portugal | Porto",
+        "a": true,
+        "g": {
+            "lat": 41.3804,
+            "lon": -8.7609
+        },
+        "it": "P\u00f3voa de Varzim",
+        "it:t": "Portogallo | Oporto",
+        "es": "P\u00f3voa de Varzim",
+        "es:t": "Portugal | Oporto",
+        "de": "P\u00f3voa de Varzim",
+        "de:t": "Portugal | Porto"
+    },
+    {
+        "en": "P\u00f3voa de Santa Iria e Forte da Casa",
+        "en:t": "Portugal | Lisbon",
+        "a": true,
+        "g": {
+            "lat": 38.8562,
+            "lon": -9.0709
+        },
+        "it": "P\u00f3voa de Santa Iria",
+        "it:t": "Portogallo | Lisbona",
+        "es": "P\u00f3voa de Santa Iria",
+        "es:t": "Portugal | Lisboa",
+        "de": "P\u00f3voa de Santa Iria",
+        "de:t": "Portugal | Lissabon"
+    },
+    {
+        "en": "Quarteira",
+        "en:t": "Portugal",
+        "a": true,
+        "g": {
+            "lat": 37.0716,
+            "lon": -8.102
+        },
+        "it": "Quarteira",
+        "it:t": "Portogallo",
+        "es": "Quarteira",
+        "es:t": "Portugal",
+        "de": "Quarteira",
+        "de:t": "Portugal"
+    },
+    {
+        "en": "Queluz",
+        "en:t": "Portugal | Lisbon",
+        "a": true,
+        "g": {
+            "lat": 38.7574,
+            "lon": -9.2587
+        },
+        "it": "Queluz",
+        "it:t": "Portogallo | Lisbona",
+        "es": "Queluz",
+        "es:t": "Portugal | Lisboa",
+        "de": "Queluz",
+        "de:t": "Portugal | Lissabon"
+    },
+    {
+        "en": "Rio Tinto",
+        "en:t": "Portugal | Porto",
+        "a": true,
+        "g": {
+            "lat": 41.1811,
+            "lon": -8.5655
+        },
+        "it": "Rio Tinto",
+        "it:t": "Portogallo | Oporto",
+        "es": "Rio Tinto",
+        "es:t": "Portugal | Oporto",
+        "de": "Rio Tinto",
+        "de:t": "Portugal | Porto"
+    },
+    {
+        "en": "Rio de Mouro",
+        "en:t": "Portugal | Lisbon",
+        "a": true,
+        "g": {
+            "lat": 38.7658,
+            "lon": -9.3285
+        },
+        "it": "Rio de Mouro",
+        "it:t": "Portogallo | Lisbon",
+        "es": "Rio de Mouro",
+        "es:t": "Portugal | Lisboa",
+        "de": "Rio de Mouro",
+        "de:t": "Portugal | Lissabon"
+    },
+    {
+        "en": "Sacav\u00e9m",
+        "en:t": "Portugal",
+        "a": true,
+        "g": {
+            "lat": 38.7943,
+            "lon": -9.1055
+        },
+        "it": "Sacav\u00e9m",
+        "it:t": "Portogallo",
+        "es": "Sacav\u00e9m",
+        "es:t": "Portugal",
+        "de": "Sacav\u00e9m",
+        "de:t": "Portugal"
+    },
+    {
+        "en": "Santa Iria de Azoia",
+        "en:t": "Portugal | Lisbon",
+        "a": true,
+        "g": {
+            "lat": 38.8411,
+            "lon": -9.1008
+        },
+        "it": "Santa Iria de Azoia",
+        "it:t": "Portogallo | Lisbon",
+        "es": "Santa Iria de Az\u00f3ia",
+        "es:t": "Portugal | Lisboa",
+        "de": "Santa Iria de Az\u00f3ia",
+        "de:t": "Portugal | Lissabon"
+    },
+    {
+        "en": "Santarem",
+        "en:t": "Portugal | Santar\u00e9m",
+        "a": true,
+        "g": {
+            "lat": 39.2367,
+            "lon": -8.686
+        },
+        "it": "Santarem",
+        "it:t": "Portogallo | Santar\u00e9m",
+        "es": "Santarem",
+        "es:t": "Portugal | Santar\u00e9m",
+        "de": "Santarem",
+        "de:t": "Portugal | Santar\u00e9m"
+    },
+    {
+        "en": "Senhora da Hora",
+        "en:t": "Portugal | Porto",
+        "a": true,
+        "g": {
+            "lat": 41.1836,
+            "lon": -8.6518
+        },
+        "it": "Senhora da Hora",
+        "it:t": "Portogallo | Porto",
+        "es": "Senhora da Hora",
+        "es:t": "Portugal | Oporto",
+        "de": "Senhora da Hora",
+        "de:t": "Portugal | Porto"
+    },
+    {
+        "en": "Sequeira",
+        "en:t": "Portugal | Guarda",
+        "a": true,
+        "g": {
+            "lat": 40.5527,
+            "lon": -7.2254
+        },
+        "it": "Sequeira",
+        "it:t": "Portogallo | Guarda",
+        "es": "Sequeira",
+        "es:t": "Portugal | Guarda",
+        "de": "Sequeira",
+        "de:t": "Portugal | Guarda"
+    },
+    {
+        "en": "Sesimbra",
+        "en:t": "Portugal | Setubal",
+        "a": true,
+        "g": {
+            "lat": 38.4442,
+            "lon": -9.1015
+        },
+        "it": "Sesimbra",
+        "it:t": "Portogallo | Setubal",
+        "es": "Sesimbra",
+        "es:t": "Portugal | Setubal",
+        "de": "Sesimbra",
+        "de:t": "Portugal | Setubal"
+    },
+    {
+        "en": "Set\u00fabal",
+        "en:t": "Portugal | Setubal",
+        "a": true,
+        "g": {
+            "lat": 38.526,
+            "lon": -8.8909
+        },
+        "it": "Set\u00fabal",
+        "it:t": "Portogallo | Setubal",
+        "es": "Set\u00fabal",
+        "es:t": "Portugal | Setubal",
+        "de": "Set\u00fabal",
+        "de:t": "Portugal | Setubal"
+    },
+    {
+        "en": "Sintra",
+        "en:t": "Portugal | Lisbon",
+        "a": true,
+        "g": {
+            "lat": 38.8029,
+            "lon": -9.3817
+        },
+        "it": "Sintra",
+        "it:t": "Portogallo | Lisbona",
+        "es": "Sintra",
+        "es:t": "Portugal | Lisboa",
+        "de": "Sintra",
+        "de:t": "Portugal | Lissabon"
+    },
+    {
+        "en": "S\u00e3o Domingos de Rana",
+        "en:t": "Portugal | Lisbon",
+        "a": true,
+        "g": {
+            "lat": 38.7124,
+            "lon": -9.339
+        },
+        "it": "S\u00e3o Domingos de Rana",
+        "it:t": "Portogallo | Lisbon",
+        "es": "S\u00e3o Domingos de Rana",
+        "es:t": "Portugal | Lisboa",
+        "de": "S\u00e3o Domingos de Rana",
+        "de:t": "Portugal | Lissabon"
+    },
+    {
+        "en": "S\u00e3o Jo\u00e3o da Madeira",
+        "en:t": "Portugal | Aveiro",
+        "a": true,
+        "g": {
+            "lat": 40.9005,
+            "lon": -8.4907
+        },
+        "it": "S\u00e3o Jo\u00e3o da Madeira",
+        "it:t": "Portogallo | Aveiro",
+        "es": "S\u00e3o Jo\u00e3o da Madeira",
+        "es:t": "Portugal | Aveiro",
+        "de": "S\u00e3o Jo\u00e3o da Madeira",
+        "de:t": "Portugal | Aveiro"
+    },
+    {
+        "en": "S\u00e3o Jo\u00e3o da Talha",
+        "en:t": "Portugal",
+        "a": true,
+        "g": {
+            "lat": 38.8242,
+            "lon": -9.0966
+        },
+        "it": "S\u00e3o Jo\u00e3o da Talha",
+        "it:t": "Portogallo",
+        "es": "S\u00e3o Jo\u00e3o da Talha",
+        "es:t": "Portugal",
+        "de": "S\u00e3o Jo\u00e3o da Talha",
+        "de:t": "Portugal"
+    },
+    {
+        "en": "S\u00e3o Mamede de Infesta",
+        "en:t": "Portugal | Porto",
+        "a": true,
+        "g": {
+            "lat": 41.1915,
+            "lon": -8.6133
+        },
+        "it": "S\u00e3o Mamede de Infesta",
+        "it:t": "Portogallo | Porto",
+        "es": "S\u00e3o Mamede de Infesta",
+        "es:t": "Portugal | Oporto",
+        "de": "S\u00e3o Mamede de Infesta",
+        "de:t": "Portugal | Porto"
+    },
+    {
+        "en": "S\u00e3o Pedro da Cova",
+        "en:t": "Portugal | Porto",
+        "a": true,
+        "g": {
+            "lat": 41.1424,
+            "lon": -8.5007
+        },
+        "it": "S\u00e3o Pedro da Cova",
+        "it:t": "Portogallo | Porto",
+        "es": "S\u00e3o Pedro da Cova",
+        "es:t": "Portugal | Oporto",
+        "de": "S\u00e3o Pedro da Cova",
+        "de:t": "Portugal | Porto"
+    },
+    {
+        "en": "Tomar",
+        "en:t": "Portugal | Santar\u00e9m",
+        "a": true,
+        "g": {
+            "lat": 39.6054,
+            "lon": -8.4043
+        },
+        "it": "Tomar",
+        "it:t": "Portogallo | Santar\u00e9m",
+        "es": "Tomar",
+        "es:t": "Portugal | Santar\u00e9m",
+        "de": "Tomar",
+        "de:t": "Portugal | Santar\u00e9m"
+    },
+    {
+        "en": "Torres Vedras",
+        "en:t": "Portugal | Lisbon",
+        "a": true,
+        "g": {
+            "lat": 39.091,
+            "lon": -9.2598
+        },
+        "it": "Torres Vedras",
+        "it:t": "Portogallo | Lisbon",
+        "es": "Torres Vedras",
+        "es:t": "Portugal | Lisbon",
+        "de": "Torres Vedras",
+        "de:t": "Portugal | Lisbon"
+    },
+    {
+        "en": "Valongo",
+        "en:t": "Portugal | Porto",
+        "a": true,
+        "g": {
+            "lat": 41.1888,
+            "lon": -8.4984
+        },
+        "it": "Valongo",
+        "it:t": "Portogallo | Porto",
+        "es": "Valongo",
+        "es:t": "Portugal | Oporto",
+        "de": "Valongo",
+        "de:t": "Portugal | Porto"
+    },
+    {
+        "en": "Vialonga",
+        "en:t": "Portugal | Lisboa",
+        "a": true,
+        "g": {
+            "lat": 38.8718,
+            "lon": -9.0778
+        },
+        "it": "Vialonga",
+        "it:t": "Portogallo",
+        "es": "Vialonga",
+        "es:t": "Portugal",
+        "de": "Vialonga",
+        "de:t": "Portugal"
+    },
+    {
+        "en": "Viana do Castelo",
+        "en:t": "Portugal",
+        "a": true,
+        "g": {
+            "lat": 41.6918,
+            "lon": -8.8345
+        },
+        "it": "Viana do Castelo",
+        "it:t": "Portogallo",
+        "es": "Viana do Castelo",
+        "es:t": "Portugal",
+        "de": "Viana do Castelo",
+        "de:t": "Portugal"
+    },
+    {
+        "en": "Vila Franca de Xira",
+        "en:t": "Portugal | Lisbon",
+        "a": true,
+        "g": {
+            "lat": 38.955,
+            "lon": -8.989
+        },
+        "it": "Vila Franca de Xira",
+        "it:t": "Portogallo | Lisboa",
+        "es": "Vila Franca de Xira",
+        "es:t": "Portugal | Lisboa",
+        "de": "Vila Franca de Xira",
+        "de:t": "Portugal | Lisboa"
+    },
+    {
+        "en": "Vila Nova de Gaia",
+        "en:t": "Portugal | Porto",
+        "a": true,
+        "g": {
+            "lat": 41.1239,
+            "lon": -8.6118
+        },
+        "it": "Vila Nova de Gaia",
+        "it:t": "Portogallo | Oporto",
+        "es": "Vila Nova de Gaia",
+        "es:t": "Portugal | Oporto",
+        "de": "Vila Nova de Gaia",
+        "de:t": "Portugal | Porto"
+    },
+    {
+        "en": "Vila Real",
+        "en:t": "Portugal",
+        "a": true,
+        "g": {
+            "lat": 41.301,
+            "lon": -7.7422
+        },
+        "it": "Vila Real",
+        "it:t": "Portogallo",
+        "es": "Vila Real",
+        "es:t": "Portugal",
+        "de": "Vila Real",
+        "de:t": "Portugal"
+    },
+    {
+        "en": "Vila do Conde",
+        "en:t": "Portugal | Porto",
+        "a": true,
+        "g": {
+            "lat": 41.3517,
+            "lon": -8.7479
+        },
+        "it": "Vila do Conde",
+        "it:t": "Portogallo | Porto",
+        "es": "Vila do Conde",
+        "es:t": "Portugal | Oporto",
+        "de": "Vila do Conde",
+        "de:t": "Portugal | Porto"
+    },
+    {
+        "en": "Vilar de Andorinho",
+        "en:t": "Portugal | Vila Nova de Gaia",
+        "a": true,
+        "g": {
+            "lat": 41.1056,
+            "lon": -8.5858
+        },
+        "it": "Vilar de Andorinho",
+        "it:t": "Portogallo | Vila Nova de Gaia",
+        "es": "Vilar de Andorinho",
+        "es:t": "Portugal | Vila Nova de Gaia",
+        "de": "Vilar de Andorinho",
+        "de:t": "Portugal | Vila Nova de Gaia"
+    },
+    {
+        "en": "Viseu",
+        "en:t": "Portugal",
+        "a": true,
+        "g": {
+            "lat": 40.6566,
+            "lon": -7.9125
+        },
+        "it": "Viseu",
+        "it:t": "Portogallo",
+        "es": "Viseu",
+        "es:t": "Portugal",
+        "de": "Viseu",
+        "de:t": "Portugal"
+    },
+    {
+        "en": "\u00c1guas Santas",
+        "en:t": "Portugal",
+        "a": true,
+        "g": {
+            "lat": 41.2099,
+            "lon": -8.5753
+        },
+        "it": "\u00c1guas Santas",
+        "it:t": "Portogallo",
+        "es": "\u00c1guas Santas",
+        "es:t": "Portugal",
+        "de": "\u00c1guas Santas",
+        "de:t": "Portugal"
+    }
+]

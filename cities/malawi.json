@@ -1,0 +1,257 @@
+[
+    {
+        "en": "Balaka",
+        "en:t": "Malawi",
+        "a": true,
+        "g": {
+            "lat": -14.9876,
+            "lon": 34.9562
+        },
+        "it": "Balaka",
+        "it:t": "Malawi",
+        "es": "Balaka",
+        "es:t": "Malaui",
+        "de": "Balaka",
+        "de:t": "Malawi"
+    },
+    {
+        "en": "Blantyre",
+        "en:t": "Malawi",
+        "a": true,
+        "g": {
+            "lat": -15.7667,
+            "lon": 35.0168
+        },
+        "it": "Blantyre",
+        "it:t": "Malawi",
+        "es": "Blantyre",
+        "es:t": "Malaui",
+        "de": "Blantyre",
+        "de:t": "Malawi"
+    },
+    {
+        "en": "Dedza",
+        "en:t": "Malawi",
+        "a": true,
+        "g": {
+            "lat": -14.3817,
+            "lon": 34.3255
+        },
+        "it": "Dedza",
+        "it:t": "Malawi",
+        "es": "Dedza",
+        "es:t": "Malaui",
+        "de": "Dedza",
+        "de:t": "Malawi"
+    },
+    {
+        "en": "Karonga",
+        "en:t": "Malawi",
+        "a": true,
+        "g": {
+            "lat": -9.9525,
+            "lon": 33.9248
+        },
+        "it": "Karonga",
+        "it:t": "Malawi",
+        "es": "Karonga",
+        "es:t": "Malaui",
+        "de": "Karonga",
+        "de:t": "Malawi"
+    },
+    {
+        "en": "Kasungu",
+        "en:t": "Malawi",
+        "a": true,
+        "g": {
+            "lat": -13.0357,
+            "lon": 33.472
+        },
+        "it": "Kasungu",
+        "it:t": "Malawi",
+        "es": "Kasungu",
+        "es:t": "Malaui",
+        "de": "Kasungu",
+        "de:t": "Malawi"
+    },
+    {
+        "en": "Lilongwe",
+        "en:t": "Malawi",
+        "a": true,
+        "g": {
+            "lat": -13.9626,
+            "lon": 33.7741
+        },
+        "it": "Lilongwe",
+        "it:t": "Malawi",
+        "es": "Lilong\u00fce",
+        "es:t": "Malaui",
+        "de": "Lilongwe",
+        "de:t": "Malawi"
+    },
+    {
+        "en": "Liwonde",
+        "en:t": "Malawi | Machinga",
+        "a": true,
+        "g": {
+            "lat": -15.0695,
+            "lon": 35.2313
+        },
+        "it": "Liwonde",
+        "it:t": "Malawi | Machinga",
+        "es": "Liwonde",
+        "es:t": "Malaui | Machinga",
+        "de": "Liwonde",
+        "de:t": "Malawi | Machinga"
+    },
+    {
+        "en": "Mangochi",
+        "en:t": "Malawi",
+        "a": true,
+        "g": {
+            "lat": -14.4862,
+            "lon": 35.2533
+        },
+        "it": "Mangochi",
+        "it:t": "Malawi",
+        "es": "Mangochi",
+        "es:t": "Malaui",
+        "de": "Mangochi",
+        "de:t": "Malawi"
+    },
+    {
+        "en": "Mchinji",
+        "en:t": "Malawi",
+        "a": true,
+        "g": {
+            "lat": -13.8,
+            "lon": 32.893
+        },
+        "it": "Mchinji",
+        "it:t": "Malawi",
+        "es": "Mchinji",
+        "es:t": "Malaui",
+        "de": "Mchinji",
+        "de:t": "Malawi"
+    },
+    {
+        "en": "Mulanje",
+        "en:t": "Malawi",
+        "a": true,
+        "g": {
+            "lat": -16.0252,
+            "lon": 35.5083
+        },
+        "it": "Mulanje",
+        "it:t": "Malawi",
+        "es": "Mulanje",
+        "es:t": "Malaui",
+        "de": "Mulanje",
+        "de:t": "Malawi"
+    },
+    {
+        "en": "Mzimba",
+        "en:t": "Malawi",
+        "a": true,
+        "g": {
+            "lat": -11.8992,
+            "lon": 33.5924
+        },
+        "it": "Mzimba",
+        "it:t": "Malawi",
+        "es": "Mzimba",
+        "es:t": "Malaui",
+        "de": "Mzimba",
+        "de:t": "Malawi"
+    },
+    {
+        "en": "Mzuzu",
+        "en:t": "Malawi | Mzimba",
+        "a": true,
+        "g": {
+            "lat": -11.439,
+            "lon": 34.0084
+        },
+        "it": "Mzuzu",
+        "it:t": "Malawi | Mzimba",
+        "es": "Mzuzu",
+        "es:t": "Malaui | Mzimba",
+        "de": "Mzuzu",
+        "de:t": "Malawi | Mzimba-Distrikt"
+    },
+    {
+        "en": "Nkhotakota",
+        "en:t": "Malawi",
+        "a": true,
+        "g": {
+            "lat": -12.9317,
+            "lon": 34.2811
+        },
+        "it": "Nkhotakota",
+        "it:t": "Malawi",
+        "es": "Nkhotakota",
+        "es:t": "Malaui",
+        "de": "Nkhotakota",
+        "de:t": "Malawi"
+    },
+    {
+        "en": "Nsanje",
+        "en:t": "Malawi",
+        "a": true,
+        "g": {
+            "lat": -16.9206,
+            "lon": 35.2533
+        },
+        "it": "Nsanje",
+        "it:t": "Malawi",
+        "es": "Nsanje",
+        "es:t": "Malaui",
+        "de": "Nsanje",
+        "de:t": "Malawi"
+    },
+    {
+        "en": "Rhumpi",
+        "en:t": "Malawi | Rumphi",
+        "a": true,
+        "g": {
+            "lat": -11.0172,
+            "lon": 33.8551
+        },
+        "it": "Rumphi",
+        "it:t": "Malawi | Rumphi",
+        "es": "Rhumpi",
+        "es:t": "Malaui | Rumphi",
+        "de": "Rumphi",
+        "de:t": "Malawi | Rumphi-Distrikt"
+    },
+    {
+        "en": "Salima",
+        "en:t": "Malawi",
+        "a": true,
+        "g": {
+            "lat": -13.7796,
+            "lon": 34.4586
+        },
+        "it": "Salima",
+        "it:t": "Malawi",
+        "es": "Salima",
+        "es:t": "Malaui",
+        "de": "Salima",
+        "de:t": "Malawi"
+    },
+    {
+        "en": "Zomba",
+        "en:t": "Malawi",
+        "a": true,
+        "g": {
+            "lat": -15.3766,
+            "lon": 35.3357
+        },
+        "it": "Zomba",
+        "it:t": "Malawi",
+        "es": "Zomba",
+        "es:t": "Malaui",
+        "de": "Zomba",
+        "de:t": "Malawi"
+    }
+]

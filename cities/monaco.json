@@ -1,0 +1,17 @@
+[
+    {
+        "en": "Monte Carlo",
+        "en:t": "Monaco",
+        "a": true,
+        "g": {
+            "lat": 43.7401,
+            "lon": 7.4266
+        },
+        "it": "Monte Carlo",
+        "it:t": "Monaco",
+        "es": "Montecarlo",
+        "es:t": "M\u00f3naco",
+        "de": "Monte-Carlo",
+        "de:t": "Monaco"
+    }
+]
